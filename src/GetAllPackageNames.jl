@@ -1,4 +1,4 @@
-module GitHubAllPackageNames
+module GetAllPackageNames
 
 # Include the following modules
 include("JuliaPackagePaths.jl")

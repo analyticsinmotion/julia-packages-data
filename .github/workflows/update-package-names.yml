@@ -41,4 +41,4 @@ jobs:
       - name: Run Julia script to update Julia package names
         run: julia src/update.jl
         env:
-          TOKEN: ${{ secrets.GITHUB_TOKEN_FOR_JULIA }}
+          TOKEN: ${{ secrets.TOKEN_JULIA_PACKAGE_NAMES }}
