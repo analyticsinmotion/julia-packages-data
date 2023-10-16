@@ -38,10 +38,10 @@ function read_csv_file(github_username::String, repository_name::String, branch:
     # https://raw.githubusercontent.com/analyticsinmotion/julia-packages-data/main/data/julia_package_names.csv
     url_initial_part = "https://raw.githubusercontent.com"
     seperator = "/"
-    csv_path = string(url_initial_part, seperator, github_username, seperator, repository_name, seperator, branch, seperator, file_path, seperator, file_name, file_extension)
+    #csv_path = string(url_initial_part, seperator, github_username, seperator, repository_name, seperator, branch, seperator, file_path, seperator, file_name, file_extension)
     
     # Construct the path to the CSV file using the relative path
-    #csv_path = joinpath(dirname(@__FILE__), "..", "data", "julia_package_names.csv")
+    csv_path = joinpath(dirname(@__FILE__), "..", "data", "julia_package_names.csv")
     
     # Construct the path to the CSV file using the absolute path
     #csv_path = "https://raw.githubusercontent.com/analyticsinmotion/julia-packages-data/main/data/julia_package_names.csv"
