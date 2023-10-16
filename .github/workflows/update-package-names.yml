@@ -39,6 +39,6 @@ jobs:
 
       # Run Julia Scripts to Update Julia Package Names Master List
       - name: Run Julia script to update Julia package names
-        run: julia src/GitHubJuliaPackagePaths.jl
+        run: julia src/GitHubJuliaPackageNames.jl
         env:
           TOKEN: ${{ secrets.TOKEN_JULIA_PACKAGE_NAMES }}
