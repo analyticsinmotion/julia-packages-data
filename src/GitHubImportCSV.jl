@@ -38,11 +38,11 @@ function read_csv_file(github_username::String, repository_name::String, branch:
     csv_path = joinpath(dirname(@__FILE__), "..", "data", "julia_package_names.csv")
     
     # CHECK - Print the path 
-    println(csv_path)
+    println("File path in Github: ", csv_path)
     
     # Read the CSV file
-    #df_read_csv = CSV.File(csv_path) |> DataFrame
-    df_read_csv = CSV.read(csv_path, DataFrame)
+    df_read_csv = CSV.File(csv_path) |> DataFrame
+    #df_read_csv = CSV.read(csv_path, DataFrame)
     
     # Return the DataFrame
     return df_read_csv
@@ -53,6 +53,7 @@ end
 df_read_current_package_master_file = read_csv_file("analyticsinmotion", "julia-packages-data", "main", "data", "julia_package_names")
 
 # CHECK - Print the first 5 rows
+println("TEST: Return top 5 rows in Dataframe")
 println(first(df_read_current_package_master_file, 5))
 
 
