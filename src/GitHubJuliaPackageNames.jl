@@ -1,4 +1,4 @@
-module JuliaPackageNames
+module GitHubJuliaPackageNames
 
 using TOML
 using DataFrames
