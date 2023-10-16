@@ -11,28 +11,22 @@ export read_csv_file
 # *********************************************************************************************************
 
 """
-    read_csv_file(github_username::String, repository_name::String, branch::String, file_path::String, file_name::String, file_extension::String = ".csv")
+    read_csv_file()
 
 Reads a CSV file from a specified GitHub repository and returns the data as a DataFrame.
 
-## Arguments
-- `github_username::String`: The GitHub username of the repository owner.
-- `repository_name::String`: The name of the GitHub repository.
-- `branch::String`: The branch name of the repository containing the CSV file.
-- `file_path::String`: The path to the directory containing the CSV file.
-- `file_name::String`: The name of the CSV file (without extension).
-- `file_extension::String`: (Optional) The extension of the CSV file (default is ".csv").
+This function constructs the path to a CSV file using a relative path, reads the CSV file using the CSV.jl package, and returns the content as a DataFrame.
 
-## Returns
+# Returns
 A DataFrame containing the data from the specified CSV file.
 
-## Examples
+# Examples
 ```julia
-df = read_csv_file("analyticsinmotion", "julia-packages-data", "main", "data", "julia_package_names")
+df = read_csv_file()
 ```
 
 """
-function read_csv_file(github_username::String, repository_name::String, branch::String, file_path::String, file_name::String, file_extension::String = ".csv")
+function read_csv_file()
   
     # Construct the path to the CSV file using the relative path
     csv_path = joinpath(dirname(@__FILE__), "..", "data", "julia_package_names.csv")
@@ -49,7 +43,7 @@ function read_csv_file(github_username::String, repository_name::String, branch:
 end
 
 # Read the current master file that shows all the package names and uuids
-df_read_current_package_master_file = read_csv_file("analyticsinmotion", "julia-packages-data", "main", "data", "julia_package_names")
+df_read_current_package_master_file = read_csv_file()
 
 # CHECK - Print the first 5 rows
 println("TEST: Return top 5 rows in Dataframe")
