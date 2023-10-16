@@ -1,10 +1,10 @@
 module GitHubUpdateAllPackageNames
 
 # Include the following modules
-#include("GitHubJuliaPackagePaths.jl")
-#include("GitHubJuliaPackageNames.jl")
+include("GitHubJuliaPackagePaths.jl")
+include("GitHubJuliaPackageNames.jl")
 #include("CreateCSV.jl")
-#include("GitHubImportCSV.jl")
+include("GitHubImportCSV.jl")
 
 # Use the functions from the following modules
 using .GitHubJuliaPackagePaths
