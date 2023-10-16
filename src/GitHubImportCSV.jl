@@ -33,18 +33,12 @@ df = read_csv_file("analyticsinmotion", "julia-packages-data", "main", "data", "
 
 """
 function read_csv_file(github_username::String, repository_name::String, branch::String, file_path::String, file_name::String, file_extension::String = ".csv")
-
-    # Build the absolute URL to the CSV file
-    # https://raw.githubusercontent.com/analyticsinmotion/julia-packages-data/main/data/julia_package_names.csv
-    url_initial_part = "https://raw.githubusercontent.com"
-    seperator = "/"
-    #csv_path = string(url_initial_part, seperator, github_username, seperator, repository_name, seperator, branch, seperator, file_path, seperator, file_name, file_extension)
-    
+  
     # Construct the path to the CSV file using the relative path
     csv_path = joinpath(dirname(@__FILE__), "..", "data", "julia_package_names.csv")
     
-    # Construct the path to the CSV file using the absolute path
-    #csv_path = "https://raw.githubusercontent.com/analyticsinmotion/julia-packages-data/main/data/julia_package_names.csv"
+    # CHECK - Print the path 
+    println(csv_path)
     
     # Read the CSV file
     #df_read_csv = CSV.File(csv_path) |> DataFrame
@@ -58,7 +52,7 @@ end
 # Read the current master file that shows all the package names and uuids
 df_read_current_package_master_file = read_csv_file("analyticsinmotion", "julia-packages-data", "main", "data", "julia_package_names")
 
-# Print the first 5 rows
+# CHECK - Print the first 5 rows
 println(first(df_read_current_package_master_file, 5))
 
 
