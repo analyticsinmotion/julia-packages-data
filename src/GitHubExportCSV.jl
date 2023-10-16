@@ -28,19 +28,24 @@ export_csv("output", df, "data/")  # Saves the DataFrame to "data/output.csv"
 ```
 
 """
-function export_csv(output_file_name::String, input_data_source::DataFrame, output_file_path::String="", output_file_extension::String = ".csv")
+function export_csv(output_file_name::String, input_data_source::DataFrame, output_file_extension::String = ".csv")
     
     # Build the file path
-    full_path = string(output_file_path, output_file_name, output_file_extension)
+    #full_path = string(output_file_path, output_file_name, output_file_extension)
+
+    # Construct the path to the CSV file using the relative path
+    full_file_name = string(output_file_name, output_file_extension)
+    csv_path = joinpath(dirname(@__FILE__), "..", "data", full_file_name)
+    println("File path in Github: ", csv_path)
     
     # Using the input data create a CSV file based on the input name
-    CSV.write(full_path, input_data_source)
+    CSV.write(csv_path, input_data_source)
     
 end
 
 
 df_test_1 = DataFrame(package_name = ["AAindex"], package_uuid = ["1cd36ffe-cb05-4761-9ff9-f7bc1999e190"])
-export_csv("output_test", df_test_1, "../data/")  # Saves the DataFrame to "data/output.csv"
+export_csv("output_test", df_test_1)  # Saves the DataFrame to "data/output.csv"
 
 # CHECK Header
 println("="^40)
