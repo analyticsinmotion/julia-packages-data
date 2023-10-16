@@ -181,6 +181,11 @@ end
 package_pathway = ["A/AAindex", "A/ABBAj", "A/ABCDMatrixOptics", "A/ABCdeZ", "A/ACEbase", "A/ACME", "A/ACSets", "A/ACTRModels", "A/ACTRSimulators", "A/AD4SM"]
 df_julia_package_names = get_package_name_and_uuid(package_pathway)
 
+# CHECK Header
+println("="^40)
+println("START of GitHubJuliaPackageNames.jl test")
+println("="^40)
+
 println("TEST: Return all 10 test rows in Dataframe")
 println(df_julia_package_names)
 

@@ -3,15 +3,15 @@ module GitHubImportCSV
 using CSV
 using DataFrames
 
-export read_csv_file
+export import_csv
 
 
 # *********************************************************************************************************
-# -------------------------------------- Function - read_csv_file -----------------------------------------
+# ----------------------------------------- Function - import_csv -----------------------------------------
 # *********************************************************************************************************
 
 """
-    read_csv_file()
+    import_csv()
 
 Reads a CSV file from a specified GitHub repository and returns the data as a DataFrame.
 
@@ -22,11 +22,11 @@ A DataFrame containing the data from the specified CSV file.
 
 # Examples
 ```julia
-df = read_csv_file()
+df = import_csv()
 ```
 
 """
-function read_csv_file()
+function import_csv()
   
     # Construct the path to the CSV file using the relative path
     csv_path = joinpath(dirname(@__FILE__), "..", "data", "julia_package_names.csv")
@@ -43,7 +43,12 @@ function read_csv_file()
 end
 
 # Read the current master file that shows all the package names and uuids
-df_read_current_package_master_file = read_csv_file()
+df_read_current_package_master_file = import_csv()
+
+# CHECK Header
+println("="^40)
+println("START of GitHubImportCSV.jl test")
+println("="^40)
 
 # CHECK - Print the number of rows in the DataFrame
 println("Count of rows in the DataFrame: ", nrow(df_read_current_package_master_file))

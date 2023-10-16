@@ -142,6 +142,10 @@ paths = get_all_package_paths_from_github(url)
 df_package_paths_and_names = get_name_from_path(paths)
 
 
+# CHECK Header
+println("="^40)
+println("START of GitHubJuliaPackagePaths.jl test")
+println("="^40)
 
 # CHECK - Print the number of rows in the DataFrame
 println("Count of rows in the DataFrame: ", nrow(df_package_paths_and_names))

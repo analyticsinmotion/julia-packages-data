@@ -63,7 +63,8 @@ function add_new_package_names_from_github()
     df_package_paths_and_names = get_name_from_path(paths)
     
     # Import the current master file that shows all the package names and uuids
-    df_imported_package_master_file = import_csv("julia_package_names", "data/")
+    #df_imported_package_master_file = import_csv("julia_package_names", "data/")
+    df_imported_package_master_file = import_csv()
     
     # Join the "df_package_paths_and_names" and "df_imported_package_master_file"
     merged_df = leftjoin(df_package_paths_and_names, df_imported_package_master_file, on=:package_name)
@@ -97,6 +98,12 @@ end
 
 
 df_latest_package_master_file = add_new_package_names_from_github()
+
+
+# CHECK Header
+println("="^40)
+println("START of GitHubUpdateAllPackageNames.jl test")
+println("="^40)
 
 # CHECK - Print the number of rows in the DataFrame
 println("Count of rows in the DataFrame: ", nrow(df_latest_package_master_file))
