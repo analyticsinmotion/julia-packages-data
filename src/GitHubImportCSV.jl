@@ -41,8 +41,7 @@ function read_csv_file(github_username::String, repository_name::String, branch:
     println("File path in Github: ", csv_path)
     
     # Read the CSV file
-    df_read_csv = CSV.File(csv_path) |> DataFrame
-    #df_read_csv = CSV.read(csv_path, DataFrame)
+    df_read_csv = CSV.read(csv_path, DataFrame)
     
     # Return the DataFrame
     return df_read_csv
