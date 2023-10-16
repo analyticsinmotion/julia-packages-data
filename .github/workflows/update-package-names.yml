@@ -6,8 +6,8 @@ name: Julia Packages Data
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
-#  push:
-#    branches: [ "main" ]
+  push:
+    branches: [ "main" ]
 #  pull_request:
 #    branches: [ "main" ]
 
@@ -39,6 +39,6 @@ jobs:
 
       # Run Julia Scripts to Update Julia Package Names Master List
       - name: Run Julia script to update Julia package names
-        run: julia src/update.jl
+        run: julia src/GitHubImportCSV.jl
         env:
           TOKEN: ${{ secrets.TOKEN_JULIA_PACKAGE_NAMES }}
