@@ -45,6 +45,9 @@ end
 # Read the current master file that shows all the package names and uuids
 df_read_current_package_master_file = read_csv_file()
 
+# CHECK - Print the number of rows in the DataFrame
+println("Count of rows in the DataFrame: ", nrow(df_read_current_package_master_file))
+
 # CHECK - Print the first 5 rows
 println("TEST: Return top 5 rows in Dataframe")
 println(first(df_read_current_package_master_file, 5))
