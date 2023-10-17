@@ -3,6 +3,7 @@ module GitHubJuliaPackagePaths
 using HTTP
 using JSON
 using DataFrames
+using Base64
 
 export get_all_package_paths_from_github,
        get_name_from_path
