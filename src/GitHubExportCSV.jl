@@ -38,6 +38,11 @@ function export_csv(output_file_name::String, input_data_source::DataFrame, outp
     csv_path = joinpath(dirname(@__FILE__), "..", "data", full_file_name)
     println("File path in Github: ", csv_path)
     
+    # test
+    repo_dir = ENV["GITHUB_WORKSPACE"]
+    println("Repo Directory: ", repo_dir)
+
+
     # Using the input data create a CSV file based on the input name
     CSV.write(csv_path, input_data_source)
     
