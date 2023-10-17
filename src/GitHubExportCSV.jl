@@ -38,7 +38,7 @@ function export_csv(output_file_name::String, input_data_source::DataFrame, outp
     #csv_path = joinpath(dirname(@__FILE__), "..", "data", full_file_name)
     #println("File path in Github: ", csv_path)
     
-    # test
+    # Construct the path to the CSV file
     full_file_name = string(output_file_name, output_file_extension)
     repo_dir = ENV["GITHUB_WORKSPACE"]
     println("Repo Directory: ", repo_dir)
@@ -53,7 +53,12 @@ end
 
 
 df_test_1 = DataFrame(package_name = ["AAindex"], package_uuid = ["1cd36ffe-cb05-4761-9ff9-f7bc1999e190"])
-export_csv("output_test", df_test_1)  # Saves the DataFrame to "data/output.csv"
+csv_update = export_csv("output_test", df_test_1)  # Saves the DataFrame to "data/output.csv"
+
+# Commit and push the CSV file to the repository
+run(`git add $csv_path`)
+run(`git commit -m "Add CSV file"`)
+run(`git push`)
 
 # CHECK Header
 println("="^40)
