@@ -48,6 +48,8 @@ function export_csv(output_file_name::String, input_data_source::DataFrame, outp
 
     # Using the input data create a CSV file based on the input name
     CSV.write(csv_path, input_data_source)
+
+    return csv_path
     
 end
 
@@ -56,9 +58,40 @@ df_test_1 = DataFrame(package_name = ["AAindex"], package_uuid = ["1cd36ffe-cb05
 csv_update = export_csv("output_test", df_test_1)  # Saves the DataFrame to "data/output.csv"
 
 # Commit and push the CSV file to the repository
-run(`git add $csv_update`)
-run(`git commit -m "Add CSV file"`)
-run(`git push`)
+#run(`git add $csv_update`)
+#run(`git commit -m "Add CSV file"`)
+#run(`git push`)
+
+
+# Upload the CSV file to the GitHub repository using GitHub API
+repo_owner = "analyticsinmotion"
+repo_name = "julia-packages-data"
+branch_name = "main"
+
+url = "https://api.github.com/repos/$repo_owner/$repo_name/contents/$csv_path"
+headers = Dict("Authorization" => "token $TOKEN")
+
+# Read the CSV content
+csv_content = read(csv_path, String)
+
+# Create the request payload
+payload = Dict(
+    "message" => "Add CSV file",
+    "content" => base64encode(csv_content),
+    "branch" => branch_name
+)
+
+response = HTTP.request("PUT", url, headers=headers, json=payload)
+
+println("CSV file uploaded to the repository.")
+
+
+
+
+
+
+
+
 
 # CHECK Header
 println("="^40)
