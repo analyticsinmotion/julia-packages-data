@@ -36,6 +36,9 @@ function export_csv(dataframe::DataFrame, repo_owner::String, repo_name::String,
     # Convert the DataFrame to CSV format
     csv_data = CSV.write(IOBuffer(), dataframe)
 
+    println("CSV Data:")
+    println(String(csv_data))
+
     # Encode the CSV data using base64
     encoded_csv_data = base64encode(csv_data)
 
