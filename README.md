@@ -20,3 +20,8 @@
 
 ## What is Julia Packages Data?
 Collects and updates essential details about Julia packages available in the Julia ecosystem
+
+
+
+[![Download](https://img.shields.io/badge/Download-File-blue.svg)](https://raw.githubusercontent.com/analyticsinmotion/julia-packages-data/main/data/julia_package_names.csv)
+
