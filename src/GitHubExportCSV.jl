@@ -55,7 +55,7 @@ end
 
 
 df_test_1 = DataFrame(package_name = ["AAindex"], package_uuid = ["1cd36ffe-cb05-4761-9ff9-f7bc1999e190"])
-csv_update = export_csv("output_test", df_test_1)  # Saves the DataFrame to "data/output.csv"
+csv_path = export_csv("output_test", df_test_1)  # Saves the DataFrame to "data/output.csv"
 
 # Commit and push the CSV file to the repository
 #run(`git add $csv_update`)
@@ -72,7 +72,7 @@ url = "https://api.github.com/repos/$repo_owner/$repo_name/contents/$csv_path"
 headers = Dict("Authorization" => "token $TOKEN")
 
 # Read the CSV content
-csv_content = read(csv_update, String)
+csv_content = read(csv_path, String)
 
 # Create the request payload
 payload = Dict(
