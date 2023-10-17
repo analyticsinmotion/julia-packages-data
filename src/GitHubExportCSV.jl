@@ -72,7 +72,7 @@ url = "https://api.github.com/repos/$repo_owner/$repo_name/contents/$csv_path"
 headers = Dict("Authorization" => "token $TOKEN")
 
 # Read the CSV content
-csv_content = read(csv_path, String)
+csv_content = read(csv_update, String)
 
 # Create the request payload
 payload = Dict(
