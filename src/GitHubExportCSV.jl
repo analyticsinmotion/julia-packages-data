@@ -56,7 +56,7 @@ df_test_1 = DataFrame(package_name = ["AAindex"], package_uuid = ["1cd36ffe-cb05
 csv_update = export_csv("output_test", df_test_1)  # Saves the DataFrame to "data/output.csv"
 
 # Commit and push the CSV file to the repository
-run(`git add $csv_path`)
+run(`git add $csv_csv_update`)
 run(`git commit -m "Add CSV file"`)
 run(`git push`)
 
