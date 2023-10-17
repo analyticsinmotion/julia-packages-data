@@ -31,6 +31,22 @@ export_csv("output", df, "data/")  # Saves the DataFrame to "data/output.csv"
 ```
 
 """
+function get_sha(repo_owner::String, repo_name::String, branch_name::String, file_path::String, token::String)
+    url = "https://api.github.com/repos/$repo_owner/$repo_name/contents/$file_path?ref=$branch_name"
+    headers = Dict("Authorization" => "token $token", "Accept" => "application/vnd.github.v3+json")
+
+    response = HTTP.request("GET", url, headers)
+
+    if response.status == 200
+        response_json = JSON.parse(String(response.body))
+        return response_json["sha"]
+    else
+        error("Failed to retrieve SHA for the file. Status code: $(response.status)")
+    end
+end
+
+
+
 function export_csv(dataframe::DataFrame, repo_owner::String, repo_name::String, branch_name::String, file_path::String, token::String)
     
     # Convert the DataFrame to CSV format
@@ -53,7 +69,8 @@ function export_csv(dataframe::DataFrame, repo_owner::String, repo_name::String,
     commit_payload = Dict(
         "message" => commit_message,
         "content" => encoded_csv_data,
-        "branch" => branch_name
+        "branch" => branch_name,
+        "sha" => get_sha(repo_owner, repo_name, branch_name, file_path, token)
     )
 
     # Send a request to create a commit
