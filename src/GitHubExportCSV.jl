@@ -67,6 +67,7 @@ csv_path = export_csv("output_test", df_test_1)  # Saves the DataFrame to "data/
 repo_owner = "analyticsinmotion"
 repo_name = "julia-packages-data"
 branch_name = "main"
+TOKEN = ENV["TOKEN"]
 
 url = "https://api.github.com/repos/$repo_owner/$repo_name/contents/$csv_path"
 headers = Dict("Authorization" => "token $TOKEN")
