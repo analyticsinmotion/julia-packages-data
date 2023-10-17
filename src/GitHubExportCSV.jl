@@ -31,32 +31,36 @@ export_csv("output", df, "data/")  # Saves the DataFrame to "data/output.csv"
 ```
 
 """
-function export_csv(data::String, repo_owner::String, repo_name::String, branch_name::String, file_path::String, access_token::String)
+function export_csv(dataframe::DataFrame, repo_owner::String, repo_name::String, branch_name::String, file_path::String, token::String)
+    
+    # Convert the DataFrame to CSV format
+    csv_data = CSV.write(IOBuffer(), dataframe)
 
-    url = "https://api.github.com/repos/$repo_owner/$repo_name/contents/$file_path"
+    # Encode the CSV data using base64
+    encoded_csv_data = base64encode(csv_data)
 
-    headers = Dict(
-        "Authorization" => "Bearer $access_token",
-        "Accept" => "application/vnd.github.v3+json"
-    )
+    # Create a commit payload
+    commit_message = "Update CSV data"
+    branch_ref = "refs/heads/$branch_name"
 
-    encoded_data = String(Base64.encode(UInt8(data)))
-
-    payload = Dict(
-        "message" => "Update CSV file",
-        "content" => encoded_data,
+    commit_payload = Dict(
+        "message" => commit_message,
+        "content" => encoded_csv_data,
         "branch" => branch_name
     )
 
-    response = HTTP.request(
-        "PUT",
-        url,
-        headers,
-        JSON.json(payload)
-    )
+    # Send a request to create a commit
+    url = "https://api.github.com/repos/$repo_owner/$repo_name/contents/$file_path"
+    headers = Dict("Authorization" => "token $token", "Accept" => "application/vnd.github.v3+json")
 
-    return response
-    
+    response = HTTP.request("PUT", url, headers, JSON.json(commit_payload))
+
+    if response.status in [200, 201]
+        println("CSV data successfully exported to GitHub repository.")
+    else
+        println("Failed to export CSV data to GitHub repository. Status code: $(response.status)")
+        println(String(response.body))
+    end
 end
 
 
@@ -65,15 +69,17 @@ repo_owner = "analyticsinmotion"
 repo_name = "julia-packages-data"
 branch_name = "main"
 file_path = "data/output_test.csv"
-TOKEN = ENV["TOKEN"]
+TOKEN = ENV["TOKEN"]  
 
+# Export DataFrame called df_test_1 
 export_csv(df_test_1, repo_owner, repo_name, branch_name, file_path, TOKEN)
 
 
 
 
 
-println("CSV file uploaded to the repository.")
+
+
 
 
 
