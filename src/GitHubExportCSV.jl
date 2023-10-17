@@ -34,7 +34,8 @@ export_csv("output", df, "data/")  # Saves the DataFrame to "data/output.csv"
 function export_csv(dataframe::DataFrame, repo_owner::String, repo_name::String, branch_name::String, file_path::String, token::String)
     
     # Convert the DataFrame to CSV format
-    csv_data = CSV.write(IOBuffer(), dataframe)
+    io_buffer = IOBuffer()
+    csv_data = CSV.write(io_buffer, dataframe)
 
     # Convert the IOBuffer to a string
     csv_data = String(take!(io_buffer))
