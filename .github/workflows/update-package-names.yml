@@ -35,7 +35,7 @@ jobs:
 
       # Install Julia dependencies
       - name: Install Julia dependencies
-        run: julia -e 'using Pkg; Pkg.add(["HTTP", "JSON", "DataFrames", "TOML", "CSV"])'
+        run: julia -e 'using Pkg; Pkg.add(["HTTP", "JSON", "DataFrames", "TOML", "CSV", "Base64"])'
 
       # Run Julia Scripts to Update Julia Package Names Master List
       - name: Run Julia script to update Julia package names
