@@ -1,5 +1,7 @@
 module GitHubExportCSV
 
+using HTTP
+using JSON
 using CSV
 using DataFrames
 using Base64
