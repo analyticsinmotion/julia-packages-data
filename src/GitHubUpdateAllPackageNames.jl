@@ -87,8 +87,8 @@ function add_new_package_names_from_github()
     repo_owner = "analyticsinmotion"
     repo_name = "julia-packages-data"
     branch_name = "main"
-    file_path = "data/output_test.csv"
-    #file_path = "data/julia_package_names.csv"
+    #file_path = "data/output_test.csv"
+    file_path = "data/julia_package_names.csv"
     TOKEN = ENV["TOKEN"]  
     export_csv(df_latest_package_master_file, repo_owner, repo_name, branch_name, file_path, TOKEN)
 

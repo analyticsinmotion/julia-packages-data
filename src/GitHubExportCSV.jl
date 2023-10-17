@@ -89,8 +89,8 @@ function export_csv(dataframe::DataFrame, repo_owner::String, repo_name::String,
     # Convert the IOBuffer to a string
     csv_data = String(take!(io_buffer))
 
-    println("CSV Data:")
-    println(csv_data)
+    #println("CSV Data:")
+    #println(csv_data)
 
     # Encode the CSV data using base64
     encoded_csv_data = base64encode(csv_data)
