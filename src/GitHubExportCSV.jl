@@ -10,25 +10,26 @@ export export_csv
 
 
 # *********************************************************************************************************
-# ----------------------------------------- Function - export_csv -----------------------------------------
+# ----------------------------------------- Function - get_sha --------------------------------------------
 # *********************************************************************************************************
 
 """
-    export_csv(output_file_name::String, input_data_source::DataFrame, output_file_path::String="")
+    get_sha(repo_owner::String, repo_name::String, branch_name::String, file_path::String, token::String)
 
-Create a CSV file from the provided DataFrame and save it to the specified location.
+Retrieve the SHA (Secure Hash Algorithm) of a file from a GitHub repository at a specified branch and path.
 
 # Arguments
-- `output_file_name::String`: The desired name for the output CSV file.
-- `input_data_source::DataFrame`: The DataFrame containing the data to be saved to the CSV file.
-- `output_file_path::String` (optional): The path where the output CSV file will be saved. Defaults to the current directory.
+- `repo_owner::String`: The owner of the GitHub repository.
+- `repo_name::String`: The name of the GitHub repository.
+- `branch_name::String`: The branch name where the file is located.
+- `file_path::String`: The path to the file in the repository.
+- `token::String`: The GitHub personal access token for authentication.
 
-# Example
-```julia
-using DataFrames
-df = DataFrame(package_name = ["AAindex"], package_uuid = ["1cd36ffe-cb05-4761-9ff9-f7bc1999e190"])
-export_csv("output", df, "data/")  # Saves the DataFrame to "data/output.csv"
-```
+## Returns
+- `String`: The SHA (Secure Hash Algorithm) of the specified file.
+
+# Throws
+- `ErrorException`: If the request to retrieve the SHA fails or the HTTP response status is not 200.
 
 """
 function get_sha(repo_owner::String, repo_name::String, branch_name::String, file_path::String, token::String)
@@ -47,6 +48,38 @@ end
 
 
 
+# *********************************************************************************************************
+# ----------------------------------------- Function - export_csv -----------------------------------------
+# *********************************************************************************************************
+
+"""
+    export_csv(dataframe::DataFrame, repo_owner::String, repo_name::String, branch_name::String, file_path::String, token::String)
+
+Export a DataFrame to a CSV file and push it to a GitHub repository.
+
+# Arguments
+- `dataframe::DataFrame`: The DataFrame to be exported to CSV.
+- `repo_owner::String`: The owner of the GitHub repository.
+- `repo_name::String`: The name of the GitHub repository.
+- `branch_name::String`: The name of the branch where the CSV file will be pushed.
+- `file_path::String`: The path to the CSV file within the repository.
+- `token::String`: The GitHub personal access token for authentication.
+
+# Description
+This function converts the provided DataFrame to CSV format, encodes the CSV data using base64, and creates a commit payload to update the CSV file in the specified GitHub repository. The commit payload includes the encoded CSV data, commit message, branch name, and the SHA of the existing file. The function then sends a request to GitHub's API to create a commit and update the file in the repository.
+
+# Example
+```julia
+using DataFrames
+
+# Create a sample DataFrame
+df = DataFrame(package_name = ["AAindex"], package_uuid = ["1cd36ffe-cb05-4761-9ff9-f7bc1999e190"])
+
+# Call the export_csv function
+export_csv(df, "analyticsinmotion", "julia-packages-data", "main", "data/output_test.csv", TOKEN)
+```
+
+"""
 function export_csv(dataframe::DataFrame, repo_owner::String, repo_name::String, branch_name::String, file_path::String, token::String)
     
     # Convert the DataFrame to CSV format
@@ -88,28 +121,16 @@ function export_csv(dataframe::DataFrame, repo_owner::String, repo_name::String,
 end
 
 
-df_test_1 = DataFrame(package_name = ["AAindex"], package_uuid = ["1cd36ffe-cb05-4761-9ff9-f7bc1999e190"])
-repo_owner = "analyticsinmotion"
-repo_name = "julia-packages-data"
-branch_name = "main"
-file_path = "data/output_test.csv"
-TOKEN = ENV["TOKEN"]  
+# For Testing
+#df_test_1 = DataFrame(package_name = ["AAindex"], package_uuid = ["1cd36ffe-cb05-4761-9ff9-f7bc1999e190"])
+#repo_owner = "analyticsinmotion"
+#repo_name = "julia-packages-data"
+#branch_name = "main"
+#file_path = "data/output_test.csv"
+#TOKEN = ENV["TOKEN"]  
 
 # Export DataFrame called df_test_1 
-export_csv(df_test_1, repo_owner, repo_name, branch_name, file_path, TOKEN)
-
-
-
-
-
-
-
-
-
-
-
-
-
+#export_csv(df_test_1, repo_owner, repo_name, branch_name, file_path, TOKEN)
 
 
 
@@ -119,11 +140,11 @@ println("START of GitHubExportCSV.jl test")
 println("="^40)
 
 # CHECK - Print the number of rows in the DataFrame
-println("Count of rows in the DataFrame: ", nrow(df_test_1))
+#println("Count of rows in the DataFrame: ", nrow(df_test_1))
 
 # CHECK - Print the first 5 rows
-println("TEST: Return top 1 rows in Dataframe")
-println(first(df_test_1, 1))
+#println("TEST: Return top 1 rows in Dataframe")
+#println(first(df_test_1, 1))
 
 
 

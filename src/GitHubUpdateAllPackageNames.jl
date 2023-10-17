@@ -3,13 +3,13 @@ module GitHubUpdateAllPackageNames
 # Include the following modules
 include("GitHubJuliaPackagePaths.jl")
 include("GitHubJuliaPackageNames.jl")
-#include("CreateCSV.jl")
+include("GitHubExportCSV.jl")
 include("GitHubImportCSV.jl")
 
 # Use the functions from the following modules
 using .GitHubJuliaPackagePaths
 using .GitHubJuliaPackageNames
-#using .CreateCSV
+using .GitHubExportCSV
 using .GitHubImportCSV
 
 using DataFrames
@@ -83,21 +83,23 @@ function add_new_package_names_from_github()
     # Sort the DataFrame based on the "package_name" column in-place
     sort!(df_latest_package_master_file, :package_name)
     
-    # Export the "latest_package_master_file"
-    #create_csv("julia_package_names", df_latest_package_master_file, "data/")
+    # Export the "df_latest_package_master_file"
+    repo_owner = "analyticsinmotion"
+    repo_name = "julia-packages-data"
+    branch_name = "main"
+    file_path = "data/output_test.csv"
+    #file_path = "data/julia_package_names.csv"
+    TOKEN = ENV["TOKEN"]  
+    export_csv(df_latest_package_master_file, repo_owner, repo_name, branch_name, file_path, TOKEN)
 
-    # DELETE This for the real prod run
     return df_latest_package_master_file
     
 end
 
 
 # Execute the Function
-#add_new_package_names_from_github()
-
-
-
 df_latest_package_master_file = add_new_package_names_from_github()
+
 
 
 # CHECK Header
