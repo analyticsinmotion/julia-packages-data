@@ -18,8 +18,8 @@
 </div>
 <!-- badges: end -->
 
-## What is Julia Packages Data?
-Collects and updates essential details about Julia packages available in the Julia ecosystem
+## What is this Project?
+Welcome to the Julia Package Data Repository on GitHub! This repository is dedicated to collecting and updating a master file that maps Julia package names to their respective Universally Unique Identifiers (UUIDs). Our aim is to maintain an accurate and current record of these essential identifiers, ensuring that developers and users in the Julia ecosystem have access to reliable information for their packages. By daily updates and meticulous curation, we strive to provide a valuable resource for the Julia community. Explore, contribute, and stay informed with the latest in Julia Packages Data.
 
 
 
