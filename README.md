@@ -4,7 +4,7 @@
 </div>
 <h1 align="center">Julia Packages Data 
   <a href="https://twitter.com/intent/tweet?text=Get%20the%20latest%20mappings%20of%20all%20Julia%20Package%20Names%20to%20their%20respective%20UUIDs.
-&url=https://github.com/analyticsinmotion/julia-packages-data&via=analyticsmotion&hashtags=julia,packages">
+&url=https://github.com/analyticsinmotion/julia-packages-data&via=analyticsmotion&hashtags=JuliaLang,JuliaPackage,JuliaProgramming,JuliaTools">
     <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" alt="Tweet">
   </a>
 </h1>
