@@ -1,3 +1,6 @@
+<div align="center">
+<img src=".github/workflows/assets/images/julia-packages-data.png" width=20% height=20%>
+</div>
 <h1 align="center">Julia Packages Data</h1>
 
 <!-- badges: start -->
