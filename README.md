@@ -24,4 +24,5 @@ Collects and updates essential details about Julia packages available in the Jul
 
 
 [![Download](https://img.shields.io/badge/Download-File-blue.svg)](https://raw.githubusercontent.com/analyticsinmotion/julia-packages-data/main/data/julia_package_names.csv)
+[![Download](https://img.shields.io/badge/Download-File-blue.svg)](https://github.com/analyticsinmotion/julia-packages-data/raw/main/data/julia_package_names.csv)
 
