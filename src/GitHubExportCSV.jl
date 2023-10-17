@@ -2,6 +2,7 @@ module GitHubExportCSV
 
 using CSV
 using DataFrames
+using Base64
 
 export export_csv
 
