@@ -93,27 +93,30 @@ function add_new_package_names_from_github()
     TOKEN = ENV["TOKEN"]  
     export_csv(df_latest_package_master_file, repo_owner, repo_name, branch_name, file_path, TOKEN)
 
-    return df_latest_package_master_file
+    return df_latest_package_master_file, df_new_julia_package_names
     
 end
 
 
 # Execute the Function
-df_latest_package_master_file = add_new_package_names_from_github()
+df_latest_package_master_file, df_new_julia_package_names = add_new_package_names_from_github()
 
+println("CHECK 3 - Number of Julia Packages in NEW CSV file: ", nrow(df_latest_package_master_file))
 
+println("CHECK 4 - List of the new Julia Packages added to CSV file:")
+println(df_new_julia_package_names)
 
 # CHECK Header
-println("="^40)
-println("START of GitHubUpdateAllPackageNames.jl test")
-println("="^40)
+#println("="^40)
+#println("START of GitHubUpdateAllPackageNames.jl test")
+#println("="^40)
 
 # CHECK - Print the number of rows in the DataFrame
-println("Count of rows in the DataFrame: ", nrow(df_latest_package_master_file))
+#println("Number of Julia Packages in NEW CSV file: ", nrow(df_latest_package_master_file))
 
 # CHECK - Print the first 5 rows
-println("TEST: Return top 5 rows in Dataframe")
-println(first(df_latest_package_master_file, 5))
+#println("TEST: Return top 5 rows in Dataframe")
+#println(first(df_latest_package_master_file, 5))
 
 
 end
