@@ -134,25 +134,25 @@ function get_name_from_path(paths::Vector{String})
 end
 
 # The location that recursively lists all directories and files in the Julia Registries on Github
-url = "https://api.github.com/repos/JuliaRegistries/General/git/trees/master?recursive=1"
+#url = "https://api.github.com/repos/JuliaRegistries/General/git/trees/master?recursive=1"
     
 # Using the Julia registry data get all the package paths
-paths = get_all_package_paths_from_github(url)
+#paths = get_all_package_paths_from_github(url)
 
 # Using the package paths extract the name and create a dataframe to show each path and corresponding package name
-df_package_paths_and_names = get_name_from_path(paths)
+#df_package_paths_and_names = get_name_from_path(paths)
 
 
 # CHECK Header
-println("="^40)
-println("START of GitHubJuliaPackagePaths.jl test")
-println("="^40)
+#println("="^40)
+#println("START of GitHubJuliaPackagePaths.jl test")
+#println("="^40)
 
 # CHECK - Print the number of rows in the DataFrame
-println("Count of rows in the DataFrame: ", nrow(df_package_paths_and_names))
+#println("Count of rows in the DataFrame: ", nrow(df_package_paths_and_names))
 
 # CHECK - Print the first 5 rows
-println("TEST: Return top 5 rows in Dataframe")
-println(first(df_package_paths_and_names, 5))
+#println("TEST: Return top 5 rows in Dataframe")
+#println(first(df_package_paths_and_names, 5))
 
 end

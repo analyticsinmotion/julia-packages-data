@@ -135,9 +135,9 @@ end
 
 
 # CHECK Header
-println("="^40)
-println("START of GitHubExportCSV.jl test")
-println("="^40)
+#println("="^40)
+#println("START of GitHubExportCSV.jl test")
+#println("="^40)
 
 # CHECK - Print the number of rows in the DataFrame
 #println("Count of rows in the DataFrame: ", nrow(df_test_1))

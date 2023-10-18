@@ -61,10 +61,11 @@ function add_new_package_names_from_github()
     
     # Using the package paths extract the name and create a dataframe to show each path and corresponding package name
     df_package_paths_and_names = get_name_from_path(paths)
+    println("CHECK 1 - Number of Julia Packages currently on GitHub: ", nrow(df_package_paths_and_names))
     
     # Import the current master file that shows all the package names and uuids
-    #df_imported_package_master_file = import_csv("julia_package_names", "data/")
     df_imported_package_master_file = import_csv()
+    println("CHECK 2 - Number of Julia Packages in current CSV file: ", nrow(df_imported_package_master_file))
     
     # Join the "df_package_paths_and_names" and "df_imported_package_master_file"
     merged_df = leftjoin(df_package_paths_and_names, df_imported_package_master_file, on=:package_name)
