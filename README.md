@@ -45,6 +45,7 @@ The following table provides an overview of the data that can be accessed in thi
 
 ## How to access and download data files
 
+There are two methods that can be used to access and download the data files:
 
 ### Download directly from GitHub
 
@@ -52,6 +53,8 @@ The following table provides an overview of the data that can be accessed in thi
 <a href="https://github.com/analyticsinmotion/julia-packages-data/blob/main/data/julia_package_names.csv" target="_blank">julia_package_names.csv</a>
 
 2. Click the "Download" button located at the top right of the screen to download the raw data file (julia_package_names.csv) to your local machine. If prompted, choose a location to save the file.
+
+<br />
 
 ### Using Julia to access data
 
@@ -61,7 +64,7 @@ The following table provides an overview of the data that can be accessed in thi
 using Pkg; Pkg.add(["HTTP", "CSV", "DataFrames"])
 ```
 
-2. Import the Required Modules:
+2. Import the required modules:
 ```julia
 using HTTP, CSV, DataFrames
 ```
