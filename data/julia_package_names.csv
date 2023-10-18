@@ -1706,6 +1706,7 @@ CurveFit,5a033b19-8c74-5913-a970-47c3779ef25c
 CurveFitParameters,75b670ed-29d0-4b9b-bcd2-edac41b9c208
 CurveProximityQueries,e79eea86-5fe6-5310-9049-79d90d78ad74
 Curves,9bed79ab-e35b-4b7a-8527-918872a9571e
+CurvilinearGrids,58b19789-dd19-4aa2-839c-c763a7b10301
 CustomUnitRanges,dc8bdbbb-1ca9-579f-8c36-e416f6a65cce
 CutPruners,65d46eb8-70e9-5a30-bf48-2afa3a021b8f
 CuthillMcKee,17f17636-5e38-52e3-a803-7ae3aaaf3da9
@@ -5458,6 +5459,7 @@ MultiAgentPathFinding,1f5aa91a-953b-4f4c-bed6-d21f3af349fa
 MultiAgentSysAdmin,a4538d8c-5052-4f30-aec9-286910cf67a1
 MultiAssayExperiments,c9137f73-29f3-4436-b9da-846274f1d332
 MultiAssign,5e2c8b86-4afa-40de-bd09-d9d381e5dc2b
+MultiBisect,66877b0d-840f-4af8-a0b5-b62f5ea465b3
 MultiCDF,663b7897-4180-4011-967b-e4930277ef1a
 MultiChannelColors,d4071afc-4203-49ee-90bc-13ebeb18d604
 MultiComponentFlash,35e5bd01-9722-4017-9deb-64a5d32478ff
@@ -6422,6 +6424,7 @@ Pickle,fbb45041-c46e-462f-888f-7c521cafbc2c
 PicoQuant,2db47837-5a65-4a20-8d0f-8ec2491baa53
 PicoSAT,ff2beb65-d7cd-5ff1-a187-74671133a339
 PicoSAT_jll,e78fa76d-a187-569f-aede-ad11521a2edf
+Picotool,5ec5d1c9-c394-4ef5-850c-f245e78f4765
 Pidfile,fa939f87-e72e-5be4-a000-7fc836dbe307
 PiecewiseDeterministicMarkovProcesses,86206cdf-4603-54e0-bd58-22a2dcbf57aa
 PiecewiseIncreasingRanges,efdf428f-f294-58b6-a961-90c8051bff4c
