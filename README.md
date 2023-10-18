@@ -35,12 +35,41 @@ This repository is dedicated to collecting and updating a master file that maps 
 ## Files available in Julia Packages Data
 The following table provides an overview of the data that can be accessed in this repository.
 
-| File Name  | Description |
-| ------------- | ------------- | 
-| julia_package_names.csv  | Matches all current Julia Package Names to their UUID. |
+| File Name  | Updated | Description |
+| ------------- | ------------- | ------------- | 
+| julia_package_names.csv | Daily | Matches all current Julia Package Names to their UUID. |
 
 
 <br />
+
+
+<!-- DATA DICTIONARY -->
+## Data Dictionary
+
+### Julia Package Names
+
+The <a href="https://github.com/analyticsinmotion/julia-packages-data/blob/main/data/julia_package_names.csv">julia_package_names.csv</a> file contains a list of all current Julia package names along with their corresponding Universally Unique Identifier (UUID).
+
+<br />
+
+**File Details**
+<br />
+*Filename:* julia_package_names
+<br />
+*Extension:* .csv
+<br />
+*Delimiter:* Comma (,)
+<br />
+*Header:* True
+
+<br />
+
+**File Schema**
+| Column Name  | Data Type | Description |
+| ------------- | ------------- | ------------- |
+| package_name  | String | The name of the Julia Package |
+| package_uuid  | String | The Universally Unique Identifier (UUID) for the Julia Package |
+
 
 
 
