@@ -48,7 +48,7 @@ The following table provides an overview of the data that can be accessed in thi
 
 ### Julia Package Names
 
-The <a href="https://github.com/analyticsinmotion/julia-packages-data/blob/main/data/julia_package_names.csv">julia_package_names.csv</a> file contains a list of all current Julia package names along with their corresponding Universally Unique Identifier (UUID).
+The <a href="https://github.com/analyticsinmotion/julia-packages-data/blob/main/data/julia_package_names.csv" target="_blank">julia_package_names.csv</a> file contains a list of all current Julia package names along with their corresponding Universally Unique Identifier (UUID).
 
 <br />
 
