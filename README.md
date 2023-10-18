@@ -30,6 +30,18 @@
 ## About this Project
 This repository is dedicated to collecting and updating a master file that maps Julia package names to their respective Universally Unique Identifiers (UUIDs). Our aim is to maintain an accurate and current record of these essential identifiers, ensuring that developers and users in the Julia ecosystem have access to reliable information for their packages. By daily updates and curation, we strive to provide a valuable resource for the Julia community. Explore, contribute, and stay informed with the latest in Julia Packages Data.
 
+<br />
+
+## Files available in Julia Packages Data
+The following table provides an overview of the data that can be accessed in this repository.
+
+| File Name  | Description |
+| ------------- | ------------- | 
+| julia_package_names.csv  | Matches all Julia Package Names to their UUID. |
+
+
+<br />
+
 
 
 
