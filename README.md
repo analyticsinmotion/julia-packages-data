@@ -37,7 +37,7 @@ The following table provides an overview of the data that can be accessed in thi
 
 | File Name  | Description |
 | ------------- | ------------- | 
-| julia_package_names.csv  | Matches all Julia Package Names to their UUID. |
+| julia_package_names.csv  | Matches all current Julia Package Names to their UUID. |
 
 
 <br />
