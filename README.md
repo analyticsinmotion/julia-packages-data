@@ -43,6 +43,49 @@ The following table provides an overview of the data that can be accessed in thi
 <br />
 
 
+## How to access and download data files
+
+
+### Download directly from GitHub
+
+1. Click on the following link to access the raw version of the data file:
+<a href="https://github.com/analyticsinmotion/julia-packages-data/blob/main/data/julia_package_names.csv" target="_blank">julia_package_names.csv</a>
+
+2. Click the "Download" button located at the top right of the screen to download the raw data file (julia_package_names.csv) to your local machine. If prompted, choose a location to save the file.
+
+### Using Julia to access data
+
+1. Install the required packages:
+
+```julia
+using Pkg; Pkg.add(["HTTP", "CSV", "DataFrames"])
+```
+
+2. Import the Required Modules:
+```julia
+using HTTP, CSV, DataFrames
+```
+
+3. Create a helper function:
+```julia
+function get_julia_master_file(return_dataframe::Bool=true, download_csv::Bool=false)
+    url = "https://raw.githubusercontent.com/analyticsinmotion/julia-packages-data/main/data/julia_package_names.csv"
+    response = HTTP.get(url)
+    response.status == 200 || error("Failed to retrieve data from the URL")
+    df_julia_package_names = IOBuffer(response.body) |> CSV.File |> DataFrame    
+    download_csv ? CSV.write("julia_package_names.csv", df_julia_package_names) : nothing  
+    return return_dataframe ? df_julia_package_names : nothing
+end
+```
+
+4. Call the helper function:
+```julia
+# Variable values of true, true will return the DataFrame within Julia and also export it as a CSV file
+get_julia_master_file(true, true)
+```
+
+<br /><br />
+
 <!-- DATA DICTIONARY -->
 ## Data Dictionary
 
