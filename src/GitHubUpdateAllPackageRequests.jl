@@ -100,6 +100,12 @@ function get_and_update_all_julia_package_requests_data()
     package_request_file_names = ["package_requests", "package_requests_by_region", "package_requests_by_date", "package_requests_by_region_by_date"]
     url_prefix = "https://julialang-logs.s3.amazonaws.com/public_outputs/current/"
     file_extension = ".csv.gz"
+
+    # Details for CSV Export
+    repo_owner = "analyticsinmotion"
+    repo_name = "julia-packages-data"
+    branch_name = "main"
+    TOKEN = ENV["TOKEN"]
     
     # Loop through the File Names, build the source URL and call the function get_data_from_web()
     for file_name in package_request_file_names
@@ -113,14 +119,11 @@ function get_and_update_all_julia_package_requests_data()
         println("Number of rows in file julia_",  file_name, ".csv: ", nrow(df_output))
 
         # Export the "df_output" dataframe to GitHub
-        repo_owner = "analyticsinmotion"
-        repo_name = "julia-packages-data"
-        branch_name = "main"
-        new_file_name = string("julia_", file_name)
-        file_path = string("data/", new_file_name, ".csv")
-        TOKEN = ENV["TOKEN"]
+        #new_file_name = string("julia_", file_name)
+        #file_path = string("data/", new_file_name, ".csv")
+        file_path = string("data/", string("julia_", file_name), ".csv")
         
-        println("TEST1 - File Path: ", file_path)
+        println("TEST - File Path: ", file_path)
         export_csv(df_output, repo_owner, repo_name, branch_name, file_path, TOKEN)
     end
 
