@@ -118,7 +118,9 @@ function get_and_update_all_julia_package_requests_data()
         branch_name = "main"
         new_file_name = string("julia_", file_name)
         file_path = string("data/", new_file_name, ".csv")
-        TOKEN = ENV["TOKEN"]  
+        TOKEN = ENV["TOKEN"]
+        
+        println("TEST1 - File Path: ", file_path)
         export_csv(df_output, repo_owner, repo_name, branch_name, file_path, TOKEN)
     end
 
