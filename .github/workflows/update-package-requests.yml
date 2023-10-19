@@ -1,0 +1,47 @@
+# This workflow collects all the Julia Package Request files from: https://julialang-logs.s3.amazonaws.com/public_outputs/current/
+# It will then add the Julia Package Name to all the files (matched from the UUID) making the files easier to analyze 
+
+name: Julia Package Requests
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+#  push:
+#    branches: [ "main" ]
+#  pull_request:
+#    branches: [ "main" ]
+  # Schedule the workflow to trigger at a specified time each day using a CRON expression
+  schedule:
+    - cron: '25 0 * * *'  # Runs at 12:25am UTC every day
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "update_package_names"
+  update_package_requests:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Set up Julia Environment
+      - name: Set up Julia
+        uses: julia-actions/setup-julia@v1
+        with:
+          version: 1.9
+
+      # Install Julia dependencies
+      - name: Install Julia dependencies
+        run: julia -e 'using Pkg; Pkg.add(["HTTP", "JSON", "DataFrames", "TOML", "CSV", "Base64"])'
+
+      # Run Julia Scripts to Update all the Julia Package Requests files
+      - name: Run Julia script to update Julia package request files
+        run: julia src/GitHubUpdateAllPackageRequests.jl
+        env:
+          TOKEN: ${{ secrets.TOKEN_JULIA_PACKAGE_NAMES }}
