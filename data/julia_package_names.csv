@@ -3741,6 +3741,7 @@ Hyperparameters,dec02a44-0573-464b-9dcd-b0da4b5d2d2e
 Hyperscript,47d2ed2b-36de-50cf-bf87-49c2cf4b8b91
 Hyperspecialize,1711496e-389e-5c2f-a773-3b6147c29b08
 HypertextLiteral,ac1192a8-f4b3-4bfe-ba22-af5b92cd3ab2
+HypertextTemplates,c7d46f9d-34c3-4420-bf57-257f25aec718
 HypothesisTests,09f84164-cd44-5f33-b23f-e6b0d136a0d5
 IBMQClient,02860bad-daa6-4506-8736-4a3616c18085
 IBMQJulia,2f6fcadc-0512-4fc1-bf02-5bbdd7783505
@@ -6837,6 +6838,7 @@ PyDSTool,7186c646-c682-5568-b8f7-a702076b479d
 PyFOOOF,bb993ee8-2a51-46a1-a315-55ff424041b4
 PyFormattedStrings,5f89f4a4-a228-4886-b223-c468a82ed5b9
 PyFortran90Namelists,e44308e6-bd5b-11e9-2850-49daf8f1ec40
+PyMBAR,ea233917-d838-44e9-aef6-29db41966de8
 PyMNE,6c5003b2-cbe8-491c-a0d1-70088e6a0fd6
 PyPlot,d330b81b-6aea-500a-939a-2ce795aea3ee
 PyPlotUtils,5384e752-6c47-47b3-86ac-9d091b110b31
@@ -6957,6 +6959,7 @@ QuantLib,96a2b5a2-274e-5d11-8b3e-35bccd200598
 QuantReg,a0becc08-653f-40d2-91e7-721373d1053f
 QuantReg_jll,6615ef03-4b82-5800-9c41-81d3e66fba0f
 Quante,62e6779b-560f-53ed-829f-06ad43eb5710
+Quantica,ae5ea0c6-3f5e-46a2-bc28-a7c4c7a4773c
 Quantikz,b0d11df0-eea3-4d79-b4a5-421488cbf74b
 QuantileNN,def46b05-8f36-4d9e-bd86-05836b3c85d9
 QuantileRegressions,c6596682-b856-542f-9fff-31404643e889
