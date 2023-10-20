@@ -38,6 +38,10 @@ The following table provides an overview of the data that can be accessed in thi
 | File Name  | Updated | Description |
 | ------------- | ------------- | ------------- | 
 | <a href="https://github.com/analyticsinmotion/julia-packages-data/blob/main/data/julia_package_names.csv" target="_blank">julia_package_names.csv</a> | Daily | Matches all current Julia Package Names to their UUID. |
+| <a href="https://github.com/analyticsinmotion/julia-packages-data/blob/main/data/julia_package_requests.csv" target="_blank">julia_package_requests.csv</a> | Daily | Total request count for all Julia Packages. |
+| <a href="https://github.com/analyticsinmotion/julia-packages-data/blob/main/data/julia_package_requests_by_date.csv" target="_blank">julia_package_requests_by_date.csv</a> | Daily | The request counts by date for all Julia Packages. |
+| <a href="https://github.com/analyticsinmotion/julia-packages-data/blob/main/data/julia_package_requests_by_region.csv" target="_blank">julia_package_requests_by_region.csv</a> | Daily | Total requests for each Julia Package, categorized by geographical region. |
+| <a href="https://github.com/analyticsinmotion/julia-packages-data/blob/main/data/julia_package_requests_by_region_by_date.csv" target="_blank">julia_package_requests_by_region_by_date.csv</a> | Daily | Request counts for each Julia Package, split by Geographical Region, and request date. |
 
 
 <br />
@@ -49,10 +53,9 @@ There are two methods that can be used to access and download the data files:
 
 ### Download directly from GitHub
 
-1. Click on the following link to access the raw version of the data file:
-<a href="https://github.com/analyticsinmotion/julia-packages-data/blob/main/data/julia_package_names.csv" target="_blank">julia_package_names.csv</a>
+1. Click on the link from the table able to access the raw version of the data file. Some of the files are quite large so the data may not show in the screen. This is perfectly fine and will not affect the download at all.
 
-2. Click the "Download" button located at the top right of the screen to download the raw data file (julia_package_names.csv) to your local machine. If prompted, choose a location to save the file.
+2. Click the "Download" button located at the top right of the screen to download the raw data file to your local machine. If prompted, choose a location to save the file.
 
 <br />
 
