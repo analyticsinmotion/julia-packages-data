@@ -74,8 +74,8 @@ using HTTP, CSV, DataFrames
 
 3. Create a helper function:
 ```julia
-function get_julia_master_file(return_dataframe::Bool=true, download_csv::Bool=false)
-    url = "https://raw.githubusercontent.com/analyticsinmotion/julia-packages-data/main/data/julia_package_names.csv"
+function get_julia_master_file(file_name::String, return_dataframe::Bool=true, download_csv::Bool=false)
+    url = string("https://raw.githubusercontent.com/analyticsinmotion/julia-packages-data/main/data/", file_name)
     response = HTTP.get(url)
     response.status == 200 || error("Failed to retrieve data from the URL")
     df_julia_package_names = IOBuffer(response.body) |> CSV.File |> DataFrame    
@@ -84,10 +84,43 @@ function get_julia_master_file(return_dataframe::Bool=true, download_csv::Bool=f
 end
 ```
 
-4. Call the helper function:
+4. Call the following helper functions
+
+<br />
+   
+For *Julia Package Names*
 ```julia
 # Variable values of true, true will return the DataFrame within Julia and also export it as a CSV file
-get_julia_master_file(true, true)
+file_name = "julia_package_names.csv"
+get_julia_master_file(file_name, true, true)
+```
+
+For *Julia Package Requests*
+```julia
+# Variable values of true, true will return the DataFrame within Julia and also export it as a CSV file
+file_name = "julia_package_requests.csv"
+get_julia_master_file(file_name, true, true)
+```
+
+For *Julia Package Requests by Date*
+```julia
+# Variable values of true, true will return the DataFrame within Julia and also export it as a CSV file
+file_name = "julia_package_requests_by_date.csv"
+get_julia_master_file(file_name, true, true)
+```
+
+For *Julia Package Requests by Region*
+```julia
+# Variable values of true, true will return the DataFrame within Julia and also export it as a CSV file
+file_name = "julia_package_requests_by_region.csv"
+get_julia_master_file(file_name, true, true)
+```
+
+For *Julia Package Requests by Region by Date*
+```julia
+# Variable values of true, true will return the DataFrame within Julia and also export it as a CSV file
+file_name = "julia_package_requests_by_region_by_date.csv"
+get_julia_master_file(file_name, true, true)
 ```
 
 <br /><br />
