@@ -903,6 +903,7 @@ BumpStdlibs,10e0400f-8273-43d0-bd6e-07483373ba4f
 Bumper,8ce10254-0962-460f-a3d8-1f77fea1446e
 BundleAdjustmentModels,0bf3e898-7c79-4b38-9ca6-2d9cc6573905
 BundleMethod,e8a6717a-069f-43d5-9ac2-a49b1ec5be7b
+BundledWebResources,56c11eb9-1257-4f49-abe4-0ac93e2bfd0a
 BundlerIO,654bb1e1-1cb7-4447-b770-09a16346af94
 BurrowsWheelerAligner,231d3afb-1936-45f0-8367-36f73a875095
 BusinessDays,4f18b42c-503e-5345-9536-bb0f25fc7038
@@ -1694,6 +1695,7 @@ CudaRBMs,4e7460e3-fd1b-4f88-90fa-49c1b80b3e77
 Cumulants,01e79fc4-f247-5fa3-af0e-2bd1d4cc767f
 CumulantsFeatures,89efba0d-c40c-5510-8345-5c0ed49e5930
 CumulantsUpdates,d4707d7b-0fe1-5399-a86f-c75188857573
+CuratedDatasets,960c35cc-6522-44f2-b35c-65a4a0b4f651
 CurlHTTP,d54d1f39-fb68-436b-8c41-ced000dfba13
 Currencies,0fd90b74-7c1f-579e-9252-02cd883047b9
 CurrenciesBase,a33ca353-0707-5c2b-b398-646075a850cd
@@ -3526,6 +3528,7 @@ HCIDatasets,1893dc6a-5236-4cb8-aa54-62ea411c10cd
 HCIToolbox,b6cd55e5-4d02-4e12-b82c-005f67e784bf
 HChebInterp,78faba9b-a54b-441f-8118-62407cbe4e59
 HCubature,19dc6840-f33b-545b-b366-655c7e3ffd49
+HDF4_jll,818ab7a1-5177-5f44-ba99-6e845030c6cb
 HDF5,f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f
 HDF5BinaryTemplates,2fdc933a-200b-4e87-880b-5bdfb75c9c79
 HDF5Logger,a770b2f2-aca6-5e76-943a-580dc53aa03d
@@ -5159,6 +5162,7 @@ MemPool,f9f48841-c794-520a-933b-121f7ba6ed94
 MemberFunctions,08b01624-6c0b-11e9-1b9f-6d80c967c393
 MembraneAnalysis,860fb56a-4bc2-4ee4-bb83-0a542106da62
 MembraneBase,a9449b16-1c3f-48ab-aa2c-0b9c6d97beee
+MembraneEOS,11a4bec2-2c27-4554-8fe6-a2de72ffe064
 Memcache,2542163d-3f63-581c-abc1-15efe995b982
 Memento,f28f55f0-a522-5efc-85c2-fe41dfb9b2d9
 Memoization,6fafb56a-5788-4b4e-91ca-c0cea6611c73
