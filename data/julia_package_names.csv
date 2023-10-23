@@ -4381,6 +4381,7 @@ LDAPClient,a3dbcd64-d9cb-45e9-b48d-422bbbdd8627
 LDLFactorizations,40e66cde-538c-5869-a4ad-c39174c6795b
 LDPCDecoders,3c486d74-64b9-4c60-8b1a-13a564e77efb
 LDPCStorage,d46d874d-5773-4ce9-8adb-568101dc8882
+LDrawParser,c9062c12-fdd7-47de-ae43-3b8a76d3a662
 LEAN_Community_jll,def0f3ea-0521-5e8c-a7b7-92f0f4873a26
 LERC_jll,88015f11-f218-50d7-93a8-a6af411a945d
 LFAToolkit,3f92b583-c0aa-4596-8bdf-f02f6c0a52df
@@ -4843,6 +4844,7 @@ MDTable,8d33431a-4cd1-474f-bd1e-ccfbc4b78fb4
 MDToolbox,7965e2f0-a35b-11e8-0207-19c030dd2def
 MDTrajectoryFiles,e55597f1-1f81-4e61-9c07-9db33debcbd4
 MEDYANSimRunner,b58a3b99-22e3-44d1-b5ea-258f082a6fe8
+MESTI,8d7f31fa-9986-4e1d-8c81-72752476e54d
 METIS4_jll,40b5814e-7855-5c9f-99f7-a735ce3fdf8b
 METIS_jll,d00139f3-1899-568f-a2f0-47f597d42d70
 MEstimation,38feb9b4-a243-49d8-ab24-fe2508a85779
@@ -5994,6 +5996,7 @@ OpenMDAOCore,24d19c10-6eee-420f-95df-4537264b2753
 OpenML,8b6db2d4-7670-4922-a472-f9537c81ab66
 OpenMPI_jll,fe0851c0-eecd-5654-98d4-656369965a5c
 OpenPixelControl,281f80d8-6e88-11e9-078b-b90be1742701
+OpenPolicyAgent,8f257efb-743c-4ebc-8197-d291a1f743b4
 OpenPolicyAgent_jll,6ea5c882-2ec3-5826-84d1-aff636352c13
 OpenQASM,a8821629-a4c0-4df7-9e00-12969ff383a7
 OpenQuantumBase,5dd19120-8766-11e9-1ef9-27094038a7db
