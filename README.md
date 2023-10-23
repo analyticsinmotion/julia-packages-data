@@ -28,7 +28,9 @@
 :wave: Welcome to the Julia Packages Data Repository on GitHub!  
 
 ## About this Project
-This repository is dedicated to collecting and updating a master file that maps Julia package names to their respective Universally Unique Identifiers (UUIDs). Our aim is to maintain an accurate and current record of these essential identifiers, ensuring that developers and users in the Julia ecosystem have access to reliable information for their packages. By daily updates and curation, we strive to provide a valuable resource for the Julia community. Explore, contribute, and stay informed with the latest in Julia Packages Data.
+This repository offers a systematic and consistent mapping of all Julia package names to their Universally Unique Identifiers (UUIDs). Our aim is to maintain an accurate and current record of these essential identifiers which can then be utilized to enhance other datasets, including the Julia package download statistics. This approach offers valuable insights into the Julia package ecosystem, making it easier for users and developers to access and analyze the relevant information.
+
+Thank you for being a part of the Julia Package Data Repository. Explore, and stay informed with the latest in Julia Packages Data. Your support and involvement are greatly appreciated!
 
 <br />
 
