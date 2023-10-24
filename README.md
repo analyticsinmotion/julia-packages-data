@@ -17,6 +17,7 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/analyticsinmotion/julia-packages-data/blob/main/LICENSE)&nbsp;&nbsp;
 ![Status: Stable](https://img.shields.io/badge/Status-Stable-brightgreen)&nbsp;&nbsp;
 [![Julia Packages Data](https://github.com/analyticsinmotion/julia-packages-data/actions/workflows/update-package-names.yml/badge.svg)](https://github.com/analyticsinmotion/julia-packages-data/actions/workflows/update-package-names.yml)&nbsp;&nbsp;
+[![Julia Package Requests](https://github.com/analyticsinmotion/julia-packages-data/actions/workflows/update-package-requests.yml/badge.svg)](https://github.com/analyticsinmotion/julia-packages-data/actions/workflows/update-package-requests.yml)&nbsp;&nbsp;
 [![Analytics in Motion](https://raw.githubusercontent.com/analyticsinmotion/.github/main/assets/images/analytics-in-motion-github-badge-rounded.svg)](https://www.analyticsinmotion.com)&nbsp;&nbsp;
 <!-- [![Coverage](https://codecov.io/gh/analyticsinmotion/DMARCParser.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/analyticsinmotion/DMARCParser.jl)&nbsp;&nbsp; -->
 
