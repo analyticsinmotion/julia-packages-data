@@ -6224,6 +6224,7 @@ PThreadPool_jll,a74eb8f4-56fd-5a14-80e9-60c06ef4dc0e
 PWF,0f4c3beb-4231-4c4d-93e1-709cb40a89e6
 PYTHIA_jll,47b8ac8e-e87e-59c1-8ebd-407ebead3f7c
 PaStiX_jll,46e5285b-ff06-5712-adf2-cc145d39f096
+PacMan,ebae00cb-175a-4544-90d1-5f8122d792df
 Pack1,cc01df09-5213-447c-9a1b-5a24cdf8b096
 PackageAnalyzer,e713c705-17e4-4cec-abe0-95bf5bf3e10c
 PackageCompatUI,65465c31-362d-417a-a2f0-7fa38ae507b9
@@ -6913,6 +6914,7 @@ QUBODrivers,a3f166f7-2cd3-47b6-9e1e-6fbfe0449eb0
 QUBOTools,60eb5b62-0a39-4ddc-84c5-97d2adff9319
 QUnfold,05092f44-7bf9-4fd9-a898-7e10d889cee9
 QWTWPlot,193516b8-fe0d-4284-b46c-e203758f96c4
+QWignerSymbols,a6ec71dc-95d1-4ca4-9dd3-50060f27aa2b
 QXContexts,04c26001-d4a1-49d2-b090-1d469cf06784
 QXGraphDecompositions,b15f1ded-d19a-4aca-a940-1991fcfc7750
 QXTns,995e1dad-72e3-4b97-b122-7deaeb8b44f9
@@ -7702,6 +7704,7 @@ Scanf,6ef1bc8b-493b-44e1-8d40-549aa65c4b41
 Scats,a40fd361-391c-496e-af78-06d474f782f1
 ScatterNNlib,b1168b60-8710-48c1-88d2-5c53ae207dd0
 ScatteredInterpolation,3f865c0f-6dca-5f4d-999b-29fe1e7e3c92
+ScatteringOptics,e317c96f-4a6f-4ae9-8016-294fb9063ff5
 ScenTrees,4ec4db44-c288-11e9-3202-272e944f779a
 ScenTreesMakie,9bd120df-771c-42ec-88b3-c561e7179d1b
 SceneGraphs,20c9ef15-1db2-418e-be3d-d83b089f5c41
@@ -8068,6 +8071,7 @@ Snowflake,7bd9edc1-4fdc-40a1-a0f6-da58fb4f45eb
 SnowyOwl,c5d12a1c-ebca-44e1-aaa9-03f0dbaa929f
 SnpArrays,4e780e97-f5bf-4111-9dc4-b70aaf691b06
 SnpParser,88f658c2-9c57-4237-8ba3-7a1a0c23f65a
+SoEwald2D,0daaa638-a47d-40d8-b855-b9e525a61752
 SoXResampler_jll,fbe68eb6-6641-54c6-99e3-f7c7c4d73a57
 SoapyBladeRF_jll,80aee790-0d4a-5951-bcd6-30e0bbfe317a
 SoapyLMS7_jll,e7ed14a0-13eb-5dc7-93e2-6133b2eb8bed
