@@ -3825,6 +3825,7 @@ ImageBase,c817782e-172a-44cc-b673-b171935fbb9e
 ImageBinarization,cbc4b850-ae4b-5111-9e64-df94c024a13d
 ImageChipper,7f671e5d-0047-4e0c-be3f-48e444156e7b
 ImageClipboard,6db54171-f50f-4661-a74f-bc514ef16cee
+ImageColorThresholderApp,e253f47c-99a5-4462-a47e-a31f992eca7c
 ImageComponentAnalysis,d9b9e9a0-1569-11e9-2cb5-bbca914b0e89
 ImageContainers,d7fcca20-80f2-11e9-0c11-e932b7d58cd9
 ImageContrastAdjustment,f332f351-ec65-5f6a-b3d1-319c6670881a
@@ -6883,6 +6884,7 @@ QDLDL_jll,9ae34a36-e1b6-54e9-a33d-8bba9913f854
 QD_jll,d4699623-ce05-5c67-980b-2a42053ff8b1
 QDates,25f12f5a-a783-5f9a-af99-e55629686113
 QEDbase,10e22c08-3ccb-4172-bfcf-7d7aa3d04d93
+QEDprocesses,46de9c38-1bb3-4547-a1ec-da24d767fdad
 QHull,a8468747-bd6f-53ef-9e5c-744dbc5c59e7
 QMCGenerators,fcae8fc2-2969-4f4b-b6c9-a95746d81969
 QMDDocTools,c50e25eb-ade4-4c96-a757-2a1fd62cbd8c
