@@ -1967,6 +1967,7 @@ DeterminantalPointProcesses,4d968f93-c0cd-4b7f-b189-b034d1a24a0e
 DevEnvConfig,2baef489-5d3b-4196-bdcc-c190e0714a0d
 DevIL,01638602-6071-5c9b-be9d-28079212bf65
 DevOnly,35452654-8f94-4308-82a5-51b2c5d0ad66
+DeviceDefinitions,beead57b-6593-4141-bbb8-edf896229b7f
 Devito,06ed14b1-0e40-4084-abdf-764a285f8c42
 Dex_jll,f1ef5e10-671a-599f-ac25-3c68827556ba
 DftFunctionals,6bd331d2-b28d-4fd3-880e-1a1c7f37947f
@@ -2364,6 +2365,7 @@ EliminateGraphs,b3ff564c-d3b6-11e9-0ef2-9b4ae9f9cbe1
 EllipseSampling,7d220c50-6298-48cd-9710-1d1a8ef13806
 EllipsisNotation,da5c29d0-fa7d-589e-88eb-ea29b0a81949
 Elliptic,b305315f-e792-5b7a-8f41-49f472929428
+EllipticFunctions,6a4e32cb-b31a-4929-85af-fb29d9a80738
 EllipticalSliceSampling,cad2338a-1db2-11e9-3401-43bc07c9ede2
 Elly,0bb624de-12df-571d-ad84-47aef8b93290
 EmacsVterm,b2ad6718-fff2-47f2-82f8-4d98a2866c7e
@@ -9471,6 +9473,7 @@ XCBased,fac17066-6efe-4494-9398-e70f574ba8bc
 XCrySDenStructureFormat,02310045-4665-40c9-a658-98c497d2eca9
 XDF,31bc19ec-0089-417f-990e-a2b5e7515868
 XDGSpec,fe33d248-b583-4bd1-8106-a6949c99f4d9
+XDMFFileHandler,b0b32849-8088-4a6a-980f-ce3b511736e4
 XFloats,ad7b0a5e-d6ee-550c-835e-59a288c14bf3
 XGBoost,009559a3-9522-5dbb-924b-0b6ed2b22bb9
 XGBoost_jll,a5c6f535-4255-5ca2-a466-0e519f119c46
