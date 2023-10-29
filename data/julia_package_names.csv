@@ -227,6 +227,7 @@ AlignedBinaryFormat,94fc9360-1a5e-4d84-93be-ddbadb32b3a7
 AlignedSpans,72438786-fd5d-49ef-8843-650acbdfe662
 AllanDeviations,7e732cdd-9a46-54ef-932c-559ab8d83ddb
 AllenSDK,9d22b198-c11d-497b-9ac7-6add78eade21
+AllocArrays,5c00bae2-1499-4716-9206-27f63fd08a44
 Allocations,260a3f16-0ffa-4f23-875b-1350d3996fb5
 Alpaca,fcf20ba4-066e-11ea-0417-5fa1eb97d662
 AlpacaMarkets,02dc6022-739e-4478-acf8-ef45d2bc67b8
@@ -1555,6 +1556,7 @@ ConstraintLearning,4bd09668-9077-4be7-adc9-6307a490e6df
 ConstraintModels,841a6ec5-cac3-4c42-9a0a-4b21c9553698
 ConstraintProgrammingExtensions,b65d079e-ed98-51d9-b0db-edee61a5c5f8
 ConstraintSolver,e0e52ebd-5523-408d-9ca3-7641f1cd1405
+ConstraintTrees,5515826b-29c3-47a5-8849-8513ac836620
 Constraints,30f324ab-b02d-43f0-b619-e131c61659f7
 ConstructFrom,860b446b-d18c-4409-9912-1b2a496918ae
 ConstructionBase,187b0558-2788-49d3-abe0-74a17ed4e7c9
@@ -8016,6 +8018,7 @@ Sixel,45858cf5-a6b0-47a3-bbea-62219f50df47
 SixelTerm,65edfddc-f399-4499-8369-a1bd38eee2ea
 Skans,a745460b-2075-4384-80fc-e13528d5f107
 SkeelBerzins,15eb0f9a-d441-4223-9ae5-4829ae804a45
+SkewLinearAlgebra,5c889d49-8c60-4500-9d10-5d3a22e2f4b9
 SkillRating,a4748943-f30d-4e73-8df6-5e79d9c4d1d0
 SkipLists,1bc1db3f-e088-4b4f-941a-131a3eb578db
 SkipNan,aed68c70-c8b0-4309-8cd1-d392a74f991a
@@ -8509,6 +8512,7 @@ SuperLU_MT_jll,00982de7-9f76-5194-84e1-476c61fcc171
 SuperLU_jll,f391fee2-5786-5cc9-9662-0e362ec949e2
 SuperfluidRotSpec,dc1ff568-94fa-4ad3-b92b-d84550c04ff1
 Superfluids,01347403-e5cf-4a60-9350-9edf4e6960f2
+SupplyChainModeling,8a0b78ce-42db-494b-a45c-80b287de1a3d
 SupplyChainOptimization,785807e5-a5cf-4c87-8002-234621def379
 SupplyChainSimulation,1febdd50-69ad-4f0a-8312-f316c31db602
 SupportPoints,23b1b04d-225f-44b8-8726-13685da4c661
@@ -8868,6 +8872,7 @@ TimeZones,f269a46b-ccf7-5d73-abea-4c690281aa53
 TimerOutputs,a759f4b9-e2f1-59dc-863e-4aeb61b1ea8f
 Timers,21f18d07-b854-4dab-86f0-c15a3821819a
 TimesDates,bdfc003b-8df8-5c39-adcd-3a9087f5df4a
+TimeseriesFeatures,f3112013-b923-4dfa-b867-8806c885f823
 TimeseriesPrediction,f218859d-9706-56aa-9ebf-1fa4ed7b8020
 TimeseriesSurrogates,c804724b-8c18-5caa-8579-6025a0767c70
 TimeseriesTools,380cddd1-6ef2-46ca-b087-e7151fb095ff
