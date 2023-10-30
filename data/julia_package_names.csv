@@ -3294,6 +3294,7 @@ GeoStatsDevTools,19e549d1-356f-5655-9f3d-c1d6136da705
 GeoStatsImages,7cd16168-b42c-5e7d-a585-4f59d326662d
 GeoStatsModels,ad987403-13c5-47b5-afee-0a48f6ac4f12
 GeoStatsPlots,cf22561b-6452-4701-9483-6c69015d00e1
+GeoStatsProcesses,aa102bde-5a27-4b0c-b2c1-e7a7dcc4c3e7
 GeoStatsSolvers,50e95529-e670-4fa6-84ad-e28f686cc091
 GeoStatsTransforms,725d9659-360f-4996-9c94-5f19c7e4a8a6
 GeoStatsViz,36492b79-4a51-4dff-89b6-31e03c9a81c2
@@ -5897,6 +5898,7 @@ OPFLearn,426fd8f4-da10-4833-b320-d1e833f8a26f
 OPFSampler,ce3535a8-59a6-4c0a-83ac-3858a19dc5ad
 ORCA,47be7bcc-f1a6-5447-8b36-7eeeff7534fd
 ORC_jll,fb41591b-4dee-5dae-bf56-d83afd04fbc0
+ORTools_jll,717719f8-c30c-5086-8f3c-70cd6a1e3a46
 OSMMakie,76b6901f-8821-46bb-9129-841bc9cfe677
 OSMToolset,a1c25ae6-0f93-4b3a-bddf-c248cb99b9fa
 OSQP,ab2f91bb-94b4-55e3-9ba0-7f65df51de79
@@ -6937,6 +6939,7 @@ QhullMiniWrapper_jll,460c41e3-6112-5d7f-b78c-b6823adb3f2d
 Qhull_jll,784f63db-0788-585a-bace-daefebcd302b
 QiskitOpt,81b20daf-e62b-4502-a0d1-aa084de80e33
 Qsosed,88aa254b-a4fc-49c2-a63e-728a46cd2298
+QstarzGPS,ada5f36f-82d2-4979-8729-2b99ff45c2e1
 Qt5Base_jll,ea2cea3b-5b76-57ae-a6ef-0a8af62496e1
 Qt5Charts_jll,dd720b4e-75c8-5196-993d-eac563881c8e
 Qt5Declarative_jll,c6373c32-5b88-5913-90f5-31d7686b42da
