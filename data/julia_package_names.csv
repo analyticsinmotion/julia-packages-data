@@ -3404,6 +3404,7 @@ GoogleCodeSearch,be5e5202-b427-58d6-b196-3d129152056c
 GoogleCodeSearch_jll,6c08f7c7-e449-597e-96d3-8117915de277
 GoogleDrive,91feb7a0-3508-11ea-1e8e-afea2c1c9a19
 GoogleMaps,b6ac9c74-f072-5636-adac-bd17907ec0b6
+GoogleScholar,cc0898d6-34c9-4540-a58d-8bfbe394b8dc
 GoogleSheets,831f653e-6dbc-49a2-ac93-eebfaa09c6e6
 GoogleSheetsCSVExporter,cadd898e-fd86-5def-96da-d3badf016279
 GoogleSparseHash_jll,6345bf58-7ab3-5e61-945d-7ed95101af62
@@ -3909,6 +3910,7 @@ IndentWrappers,6d4a1be2-e6b5-52a1-bf76-533525bce15e
 IndependentComponentAnalysis,a506da57-2f56-4b21-828f-08a84784c93c
 IndependentHypothesisWeighting,1340648c-e7e8-4e39-b869-c84f40c4506c
 IndexFunArrays,613c443e-d742-454e-bfc6-1d7f8dd76566
+IndexSpaces,3ceaaf38-e7b4-4193-a23a-303dd231a83a
 IndexableBitVectors,1cb3b9ac-1ffd-5777-9e6b-a3d42300664d
 IndexedGraphs,8a731c18-cfb7-4915-927e-cc26b56b67cd
 IndexedTables,6deec6e2-d858-57c5-ab9b-e6ca5bd20e43
@@ -6770,6 +6772,7 @@ Prjtrellis_jll,6a9aa77d-afea-5b9d-b858-ecc31eb61f73
 ProbNumDiffEq,bf3e78b0-7d74-48a5-b855-9609533b56a5
 ProbabilisticCircuits,2396afbe-23d7-11ea-1e05-f1aa98e17a44
 ProbabilisticEchoInversion,1f6a33d4-8dbe-4644-aee6-8f897f240d65
+ProbabilisticRoadMap,773847ca-07cc-414d-a27c-4458bbc76b2b
 ProbabilityBoundsAnalysis,cd73f0b2-6f06-11ea-242f-83a09de6a7cf
 Probably,2172800d-0309-5a57-a84f-d50c94757422
 Problox,41531fc7-7f15-48cd-9c2f-2efb66d9fe65
