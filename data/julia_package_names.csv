@@ -2758,6 +2758,7 @@ Figgy,937e9308-674a-48ca-a404-047094c8c902
 Figures,fb03b324-f2a4-578c-aba7-71fab90f4c9b
 FileCmp,343a5541-a696-4ae7-8102-bc61c09e1896
 FileIO,5789e2e9-d7fb-5bc7-8068-2c6fae9b9549
+FileJockey,bc1231ea-70fa-4965-b0b3-6932f742a22e
 FilePaths,8fc22ac5-c921-52a6-82fd-178b2807b824
 FilePathsBase,48062228-2e41-5def-b9a4-89aafe57970f
 FileTrees,72696420-646e-6120-6e77-6f6420746567
@@ -6064,6 +6065,7 @@ OptimalBids,54ed2464-0158-49e7-9a8e-1c1697a616e3
 OptimalEstimation,b4b06e15-aec3-475a-bd5d-4eaf7ad224b9
 OptimalMatrixCompletion,26d6b5db-a198-4a75-82bf-4a48696500ea
 OptimalPortfolios,f8c24b8e-07c0-4fa7-b4d4-fbfdbae127a5
+OptimalSortingNetworks,cae6f51d-d477-4615-8395-e10abcea54c6
 OptimalTransmissionRouting,1558b732-e26e-4642-a1e1-5f71193b222b
 OptimalTransport,7e02d93a-ae51-4f58-b602-d97af76e3b33
 Optimisers,3bd65402-5787-11e9-1adc-39752487f4e2
@@ -7574,6 +7576,7 @@ SIMDPolynomials,4edc584b-a88b-4acf-80bb-891198a11e01
 SIMDTypes,94e857df-77ce-4151-89e5-788b33177be4
 SIMDe_jll,3cf9baf4-9b0f-5bbb-b549-4fdfb2f4a171
 SIMDscan,e380c706-6fd7-45be-a86f-0677ced05258
+SIMIlluminationPatterns,e6514a50-921c-4af3-9933-d2ed4e901773
 SIRUS,cdeec39e-fb35-4959-aadb-a1dd5dede958
 SISL_jll,d647f7b9-f016-52c0-8515-7d1c032fadec
 SLATEC_jll,2967fdeb-73c1-5946-ae15-4ce8b52d4346
@@ -7915,6 +7918,7 @@ SimGBS,92ef5d18-3a1f-4c68-9409-006e7edfe355
 SimJulia,428bdadb-6287-5aa5-874b-9969638295fd
 SimSearchManifoldLearning,ca7ab67e-1aa0-420a-90d9-eb5aef468722
 SimSpin,ec6baca6-10c1-11ea-19b5-f7da994b81a8
+SimSpread,afa5cc60-bf5a-45b9-aa6c-27158a106b2a
 SimString,2e3c4037-312d-4650-b9c0-fcd0fc09aae4
 SimilarityNetworkFusion,6c1fd854-37c7-5216-bfd6-aad91993916b
 SimilaritySearch,053f045d-5466-53fd-b400-a066f88fe02a
@@ -8968,6 +8972,7 @@ TrajectoryOptimization,c79d492b-0548-5874-b488-5a62c1d9d0ca
 TranscodingStreams,3bb67fe8-82b1-5028-8e26-92a6c54297fa
 Transducers,28d57a85-8fef-5791-bfe6-a80928e7c999
 TransferEntropy,ea221983-52f3-5440-99c7-13ea201cd633
+TransferFunctions,ea859a41-d6bf-4726-8e40-524191381158
 TransferMatrix,2beed9eb-9e49-431e-8607-1bb8bf5c1db8
 TransformSpecifications,b92eaff8-8912-4b32-ad24-14d7c692d780
 TransformUtils,9b8138ad-1b09-5408-aa39-e87ed6d21b63
