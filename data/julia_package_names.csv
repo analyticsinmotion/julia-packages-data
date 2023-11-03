@@ -408,6 +408,7 @@ AtmosphericProfilesLibrary,86bc3604-9858-485a-bdbe-831ec50de11d
 Atom,c52e3926-4ff0-5f6e-af25-54175e0327b1
 AtomBase,ccf6c0ac-cd45-4eaf-bc3d-e8176fb87b3b
 AtomGraphs,5a360db7-3336-4c46-b5a1-be4fe079ea55
+AtomicArrays,47b95ec9-9f64-4e52-930c-0b1ac2f8934e
 AtomicData,6b77412b-f4b7-4495-8b9c-778517285205
 AtomicFileWrite,f119f125-4b25-46d8-b5f3-95ec5c404bfa
 AtomicGraphNets,ccdf130a-3c88-4595-a023-a7e7f78b9dd5
@@ -7926,6 +7927,7 @@ Similitude,d70e672a-ff44-4dfc-8031-4cc812d84922
 SimpleANOVA,fff527a3-8410-504e-9ca3-60d5e79bb1e4
 SimpleAiboWebAPI,555a2daa-e723-4fb8-a43f-c5b503b4b2ef
 SimpleBio,d9eea77d-fa5d-4a60-93a2-c9db3c2ebc67
+SimpleBoids,db6bb4f6-9d2a-4386-a383-884870da1331
 SimpleBufferStream,777ac1f9-54b0-4bf8-805c-2214025038e7
 SimpleByteStuffing,e12149e5-c757-4a94-a92e-d43df22eb56a
 SimpleCTypes,357a5a63-a2bd-4f40-8c00-16b25e94246d
