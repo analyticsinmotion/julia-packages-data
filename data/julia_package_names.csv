@@ -2529,6 +2529,7 @@ Express,b12df14e-adf7-11e9-0606-d5813a258349
 ExpressBase,6bf22d12-b2e3-4e51-8f6d-9d050a32c5d5
 ExpressCommands,0fa58581-61d8-4f50-b6a2-2e2dd41ab979
 ExpressPathToRegex,22609570-6d06-11e9-3c98-5705e233061e
+ExpressionExplorer,21656369-7473-754a-2065-74616d696c43
 ExpressionTreeForge,93090adf-0e31-445f-8c8f-44d91f61d7ad
 Expronicon,6b7a57c9-7cc1-4fdf-b7f5-e857abae3636
 ExproniconLite,55351af7-c7e9-48d6-89ff-24e801d99491
@@ -3703,6 +3704,7 @@ HoloProcessing,2a7007e0-cd7f-40de-83d0-bb76b7a3c669
 HomalgProject,50bd374c-87b5-11e9-015a-2febe71398bd
 Homebrew,d9be37ee-ecc9-5288-90f1-b9ca67657a75
 HomogeneityTestBBU,902b4cfc-36dd-46ec-9aee-5fae5b5d5a99
+HomogeneousTransformations,59ef864d-61ee-43f7-9b33-662866a07383
 HomogeneousVectors,5d3f8266-9186-4afd-be5f-84c55396a2a7
 HomotopyContinuation,f213a82b-91d6-5c5d-acf7-10f1c761b327
 HomotopyOpt,8c5e0f79-7402-43d4-9c5c-e1bde87b1895
@@ -4126,6 +4128,7 @@ JSMDUtils,67801824-9821-48b9-a814-9bfb19231086
 JSON,682c06a0-de6a-54ab-a142-c8b1cf79cde6
 JSON2,2535ab7d-5cd8-5a07-80ac-9b1792aadce3
 JSON3,0f8b85d8-7281-11e9-16c2-39a750bddbf1
+JSONFBCModels,475c1105-d6ed-49c1-9b32-c11adca6d3e8
 JSONLines,24c2b838-1c8b-4567-aca0-d45e60436bb9
 JSONPointer,cc3ff66e-924d-4e6b-b111-1d9960e4bba9
 JSONRPC,b9b8584e-8fd3-41f9-ad0c-7255d428e418
@@ -4826,6 +4829,7 @@ MAGEMin_jll,763ebaa8-b0d2-5f6b-90ef-4fc23b5db1c4
 MAGMA_jll,7a7c8717-d270-5a90-94a0-6104d6fc12ee
 MAT,23992714-dd62-5051-b70f-ba57cb901cac
 MATDaemon,88578114-2e0c-4679-8b18-24dc4fa60bec
+MATFBCModels,bd2e13bf-42c0-49e1-9a9c-885d36daf88b
 MATLAB,10e44e05-a98a-55b3-a45b-ba969058deb6
 MATLABDiffEq,e2752cbe-bcf4-5895-8727-84ebc14a76bd
 MCAnalyzer,a81df072-f4bb-11e8-03d3-cfaeda626d18
@@ -7512,6 +7516,7 @@ SARSOP_jll,e478675d-f996-546e-baa1-da59d9de2062
 SASLib,df8f2f22-cfef-5733-af3f-96770d497d85
 SBC_jll,da37f231-8920-5702-a09a-bdd970cb6ddc
 SBML,e5567a89-2604-4b09-9718-f5f78e97c3bb
+SBMLFBCModels,3e8f9d1a-ffc1-486d-82d6-6c7276635980
 SBMLToolkit,86080e66-c8ac-44c2-a1a0-9adaadfe4a4e
 SBMLToolkitTestSuite,792e603a-1588-414c-b272-614011baa40e
 SBML_jll,bb12108a-f4ef-5f88-8ef3-0b33ff7017f1
@@ -8689,6 +8694,7 @@ Taro,61d0e4fa-4e73-5030-88a9-ae4c27b203dd
 TaskLocalValues,ed4db957-447d-4319-bfb6-7fa9ae7ecf34
 TaskMaster,2f14bf60-09e4-11e9-2b32-676fc1c2075a
 Taskflow_jll,fadd631c-8d5c-5dbb-9ac9-de413eafe702
+Tasmanian_jll,5b6edb9a-6f5c-5561-95ad-cece0030cdd0
 Tau,c544e3c2-d3e5-5802-ac44-44683f340e4a
 TauDEM_jll,f79d145f-20fd-5c1a-ae67-8074679d1f1f
 TauP,dd4fbf09-c66a-460f-850c-a6bf3253bb5f
