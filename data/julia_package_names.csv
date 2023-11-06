@@ -194,6 +194,7 @@ AirfoilGmsh,e68ec710-8e48-43c5-af1a-c38c4248fd7b
 AirfoilMeshers,fb06ee43-ff84-401b-b5ac-2522e63f9402
 AirspeedVelocity,1c8270ee-6884-45cc-9545-60fa71ec23e4
 Airtable,96f7d883-6668-4fbe-bb01-b60427b16035
+Alakazam,41a1aa08-1d43-4dd7-adeb-62cd7a1359ba
 Alert,28312eec-4d86-447d-83ad-bc2b262de792
 AlertPushover,19f6540d-ecb3-4e88-b99d-153996aa3b9b
 Alexya,a0ba0308-c025-49c4-97d8-6cbc8d45a63d
@@ -572,6 +573,7 @@ BarycentricInterpolation,9eb6a62d-0ffa-5353-839e-400c605afeda
 Base58,a832ea1e-0ca7-55ca-a41a-6462721bb861
 BaseDirs,18cc8868-cbac-4acf-b575-c8ff214dc66f
 BaseType,7fbed51b-1ef5-4d67-9085-a4a9b26f478c
+BasedDumps,808baba0-b719-11eb-2c94-1803250cf58a
 Baselet,9718e550-a3fa-408a-8086-8db961cd8217
 BasesAndSamples,b47663c2-775e-4d88-bb56-6bef842cff7a
 BasicAkerRelationalScore,93b16f6d-36af-4dc8-b800-fb1fd5ea2d37
@@ -6817,6 +6819,7 @@ ProjectManagement,8d6fe0f5-cdf5-47ae-8203-553721bd1e97
 ProjectionPursuit,0eeb11d1-cc9e-46d1-8e67-fc3369e51b39
 ProjectiveVectors,01f381cc-face-5a0a-ade9-ef63dc65d628
 PromClient,880e31e2-b695-45be-a28d-96ac068cb1ee
+Prometheus,f25c1797-fe98-4e0c-b252-1b4fe3b6bde6
 Promises,21657275-7475-6620-6568-743d4d534157
 PropCheck,ca382230-33be-11e9-0059-d981d03070e4
 PropDicts,4dc08600-4268-439e-8673-d706fafbb426
