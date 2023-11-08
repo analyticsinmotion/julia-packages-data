@@ -378,6 +378,7 @@ AsmMacro,f617cd02-e7fb-5dad-8d07-aa96542e7fbb
 AssemblyView,e1a66ace-d94f-4d56-9cba-db43e0ec34d1
 AssetRegistry,bf4720bc-e11a-5d0c-854e-bdca1663c893
 Assets,4a03a35a-a24b-4d57-b425-13a263c27574
+AssigningSecondaryStructure,8ed43e74-60fb-4e11-99b9-91deed37aef7
 Assignment,30268ba6-d258-4c5c-9bcf-b5809bbf81b5
 Assimp,079381af-6941-5802-8ad5-fb13e7f1c93a
 AssociatedLegendrePolynomials,2119f1ac-fb78-50f5-8cc0-dda848ebdb19
@@ -549,6 +550,7 @@ BackwardsLinalg,442b4e1a-8b9d-11e9-03b0-f14b31742153
 Bactos,d33a0dba-7a8b-4e4b-94ae-537a05778f3e
 Badges,f8f3bd14-6f44-485b-add6-c2abd0d3421f
 BadukGoWeiqiTools,71566503-fddc-4190-936c-ecb38fefcffd
+BagOfWords,87b137f8-3b59-4550-8c54-1b47926674ff
 Bagyo,c1840010-6abe-498f-b4fc-b06597083ddc
 Balloons,3e6f9545-655e-4d7e-8b6b-631613c5ed1f
 BallroomSkatingSystem,8aed41a2-23bd-4167-baf7-1f33f6c22702
@@ -8862,6 +8864,7 @@ Thrift2,9be31aac-5446-47db-bfeb-416acd2e4415
 ThriftJuliaCompiler_jll,815b9798-8dd0-5549-95cc-3cf7d01bce66
 Thrift_jll,e0b8ae26-5307-5830-91fd-398402328850
 Thunks,490da00b-a60c-4ded-a4cf-df7cded56bfa
+Tibber,da27883c-8256-4720-924b-e7be686627bb
 TickTock,9ff05d80-102d-5586-aa04-3a8bd1a90d20
 Tidier,f0413319-3358-4bb0-8e7c-0c83523a93bd
 TidierCats,79ddc9fe-4dbf-4a56-a832-df41fb326d23
@@ -9836,6 +9839,7 @@ hidapi_jll,fc16ec7e-3cba-5ca4-a17a-1acd8165bbee
 hiredis_jll,8830ad48-7ead-5d05-b3ac-3822a1a8e113
 hsa_rocr_jll,dd59ff1a-a01a-568d-8b29-0669330f116a
 hsakmt_roct_jll,1cecccd7-a9b6-5045-9cdc-a44c19b16d76
+htscodecs_jll,fb1930eb-fbb4-57f4-9ccd-93264b9fcc29
 htslib_jll,f06fe41e-9474-5571-8c61-5634d2b2700c
 hub_jll,1414f103-7607-5802-8977-fcefe8d49cb7
 hyper_jll,a61b6c3d-25e5-5e83-9f29-3d6b98db101c
