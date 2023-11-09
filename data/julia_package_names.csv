@@ -566,6 +566,7 @@ BanyanImages,b9ad4058-0328-459a-b05c-52a04bd79ab2
 BanyanONNXRunTime,3da3ccd6-fc67-4523-8345-616f63551475
 Baobzi,fb487ce6-0906-4f0c-b439-418ac6d167e8
 Baobzi_jll,3808fb15-9b43-5646-9112-da6e39400273
+BarBay,3e4a4fdd-3c42-44bf-ab95-e818c96fb7a6
 BaremetalPi,3a90a9a9-52f9-452b-94bd-193d585bd84f
 BarkerMCMC,be4af45d-7920-418d-be3f-405e75a2263c
 BarnsleyFern,a1669a0d-1a4b-4995-a903-dbadec85cda1
@@ -4285,6 +4286,7 @@ Kaleido_jll,f7e6163d-2fa5-5f23-b69c-1db539e41963
 Kalman,d59c0ba6-2ef2-5409-8dc5-1fd9a2b46832
 KalmanFilterTools,ec016732-9331-11e9-305f-d53cb440b85a
 KalmanFilters,272a6111-cf0e-4c1b-a056-8d658cb314ee
+KangarooTwelve,2a5dabf5-6a39-42aa-818d-ce8a58d1b312
 Kanones,107500f9-53d4-4696-8485-0747242ad8bc
 Karnak,cd156443-31ad-4f6f-850f-a93ee5f75905
 KdotP,c8045c5a-940e-4537-a0b9-cab4a5eb5ca1
@@ -6507,6 +6509,7 @@ PkgDeps,839e9fc8-855b-5b3c-a3b7-2833d3dd1f59
 PkgDev,149e707d-584d-56d3-88ec-740c18e106ff
 PkgDevTools,2afb0842-1d6c-4499-8b39-71b06199676f
 PkgGraph,f9c1b9e4-72e8-4a14-ade5-14f45fc35f11
+PkgHelpers,a562b63c-6e73-49f2-82ca-bd0905bcffd6
 PkgJogger,10150987-6cc1-4b76-abee-b1c1cbd91c01
 PkgLicenses,fc669557-7ec9-5e45-bca9-462afbc28879
 PkgMetadata,d3ec5173-e411-466c-a952-137851032f03
@@ -7382,6 +7385,7 @@ Resample,318ae45f-2437-4276-8d16-19df99ea8507
 ReservoirComputing,7c2d2b1e-3dd4-11ea-355a-8f6a8116e294
 ResettableStacks,ae5879a3-cd67-5da8-be7f-38c6eb64a37b
 ResilienceDecisionMaking,e4e67209-a09d-4b87-93df-521fd564896e
+ResistanceDistance,6d9c698a-143c-4d19-893a-b951e9cb8478
 ResizableArrays,df514bf8-98b6-11e9-19f1-af1e340ea726
 Resizing,7adb8e8f-8c77-45d0-9b8f-2e5a570fba36
 ResizingTools,112dcb92-135b-4fff-bdeb-bacebdb79ec0
@@ -9346,6 +9350,7 @@ Vision,9150dba0-62ab-4b8c-b7d2-25a0d6dd685f
 VisionHeatmaps,27106da1-f8bc-4ca8-8c66-9b8289f1e035
 VisualDL,98ad42d3-8ce6-553d-ae41-509bd26b5557
 VisualGeometryDatasets,962a53e2-84f2-440b-bfbc-4e96ec28357f
+VisualGeometryOptimization,69c13e0b-7fe7-492d-975b-4112821fd6ea
 VisualRegressionTests,34922c18-7c2a-561c-bac1-01e79b2c4c92
 VisualSearchACTR,ad0872d7-b137-4624-87af-d763ac8dea1a
 VisualStringDistances,089bb0c6-1854-47b9-96f7-327dbbe09dca
