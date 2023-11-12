@@ -2669,6 +2669,7 @@ FaradayInternationalReferenceIonosphere,13f5a3bc-1e41-4c76-a7e5-29a214aba9ea
 FastAI,5d0beca9-ade8-49ae-ad0b-a3cf890e669f
 FastANI_jll,0f8dac18-3e8c-59db-a597-ed2907ab9da6
 FastActivations,f73916d7-f1f8-4ba1-9c05-cb0c1ef97587
+FastAlmostBandedMatrices,9d29842c-ecb8-4973-b1e9-a27b1157504e
 FastArrays,e5f0ab0f-a07f-5c04-9640-3d3e133d1ad4
 FastBroadcast,7034ab61-46d4-4ed7-9d0f-46aef9175898
 FastCDR_jll,4c445503-5c2d-5ebd-97f6-9e823778a91e
@@ -9235,6 +9236,7 @@ UnitlessFlatten,03de777c-af7e-5070-b460-500ad0553889
 Unityper,a7c27f48-0311-42f6-a7f8-2c11e75eb415
 UnivariateDensityEstimate,4f6a8bda-f411-5b8a-a202-ad6453283b07
 UnivariateFunctions,368b7869-440d-5a68-a3d1-bbc86b0a93b0
+UnivariateUnimodalHighestDensityRegion,accfcff7-0a28-4262-8a91-e6d956268142
 UniversalFeynRulesOutput,e2970b7e-a80f-4839-9fc1-2a0f2f4c4333
 UnixMmap,674b2976-56af-439b-a2b1-837be4a3d087
 UnixTimes,ab1a18e7-b408-4913-896c-624bb82ed7f4
