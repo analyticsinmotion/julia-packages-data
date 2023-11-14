@@ -842,6 +842,7 @@ BlueNoise,9ae74011-d0f3-412c-a047-ea779e11a931
 BlueZ_jll,471b5b61-da80-5748-8755-67d5084d21f2
 BoardGameGeek,57fe6dd9-21bb-41a8-84a4-b199e28a0641
 Bobby,bd34264e-e812-11e8-1ee8-bfb20fea2fb4
+Boids,d31cee86-d6f0-47a3-813b-bb8537950420
 Bokeh,c4b4474d-016b-471b-b14f-576041b951ff
 BokehBlink,c7d4f63d-6dfa-4fdc-9408-5961e0889e3a
 BokehServer,b7fe046f-2d24-4718-8c03-fdde6cae2a8c
@@ -944,6 +945,7 @@ CClosure,6238cdf7-1651-426a-bbec-388a63a3d275
 CDCLsat,b71133ba-6b01-47a0-b4fe-e7a9e8ed2c06
 CDCS,4fe2ecd4-b952-581a-b4b6-a532675a646e
 CDDLib,3391f64e-dcde-5f30-b752-e11513730f60
+CDE_jll,519a0aee-8577-56a6-9f9d-1e74151fa0e1
 CDGRNs,b97acbd9-7fbb-4cbc-bc29-58677f11bc5c
 CDLmotif,31692b3b-61a6-410b-a229-5e9354f2e019
 CDMrdata,60f1a76e-720d-4784-bbc6-074b7a9a39a5
@@ -1204,6 +1206,7 @@ ChainedFixes,9706b775-b1f4-4c74-b677-0491368ea71c
 Chamber,4ddda095-17ec-41dd-95c9-ce16dd2a2f48
 ChangePointDetection,68f453bf-a161-50e8-aafe-8ad75c8d6944
 ChangePrecision,3cb15238-376d-56a3-8042-d33272777c9a
+Changelog,5217a498-cd5d-4ec6-b8c2-9b85a09b6e3e
 Changepoints,98700a41-f20d-59c7-9e81-44d0470ae598
 ChangesOfVariables,9e997f8a-9a97-42d5-a9f1-ce6bfc15e2c0
 ChannelBuffers,79a69506-cdd1-4876-b8e5-7af85e53af4f
@@ -8813,6 +8816,7 @@ TestItemDetection,76b0de8b-5c4b-48ef-a724-914b33ca988d
 TestItemRunner,f8b46487-2199-4994-9208-9a1283c18c0a
 TestItems,1c621080-faea-4a02-84b6-bbd5e436b8fe
 TestLandscapes,acebfb02-3096-4040-86f5-d41b0f19d497
+TestNoAllocations,4f9cea44-66d8-4d7b-9fef-fad96b0e1517
 TestParticle,953b605b-f162-4481-8f7f-a191c2bb40e3
 TestParticleMakie,815e1cc4-5742-45dc-845d-1cec70514f1a
 TestReports,dcd651b4-b50a-5b6b-8f22-87e9f253a252
@@ -9086,6 +9090,7 @@ Tui4jl,f62ea92b-1830-43a7-8bcc-e4c334842b76
 Tulip,6dd1b50a-3aae-11e9-10b5-ef983d2400fa
 TulipIndicators_jll,b73d36f2-ba1b-519d-99df-fa501440d401
 TulipaEnergyModel,5d7bd171-d18e-45a5-9111-f1f11ac5d04d
+TulipaProfileFitting,0aa31362-0b7e-4e8d-8385-676712fa7ef3
 Tullio,bc48ee85-29a4-5162-ae0b-a64e1601d4bc
 TupleTools,9d95972d-f1c8-5527-a6e0-b4b365fa01f6
 TupleVectors,615932cf-77b6-4358-adcd-5b7eba981d7e
@@ -9358,6 +9363,7 @@ VisClaw,d5c85fe6-8620-4d3a-96f0-ac478d4f5d38
 ViscousFlow,103da179-b3e4-57c1-99a4-586354eb2c5a
 Vision,9150dba0-62ab-4b8c-b7d2-25a0d6dd685f
 VisionHeatmaps,27106da1-f8bc-4ca8-8c66-9b8289f1e035
+Visor,cf786855-3531-4b86-ba6e-3e33dce7dcdb
 VisualDL,98ad42d3-8ce6-553d-ae41-509bd26b5557
 VisualGeometryDatasets,962a53e2-84f2-440b-bfbc-4e96ec28357f
 VisualGeometryOptimization,69c13e0b-7fe7-492d-975b-4112821fd6ea
@@ -10037,6 +10043,7 @@ oneAPIKernels,3b98bdbd-c5fb-40e4-a3b9-3b59ff234f62
 oneAPI_Level_Zero_Headers_jll,f4bc562b-d309-54f8-9efb-476e56f0410d
 oneAPI_Level_Zero_Loader_jll,13eca655-d68d-5b81-8367-6d99d727ab01
 oneAPI_Level_Zero_jll,0038a6a5-a77d-50b4-8f67-3bd55e463950
+oneAPI_Support_Headers_jll,24f86df5-245d-5634-a4cc-32433d9800b3
 oneAPI_Support_jll,b049733a-a71d-5ed3-8eba-7d323ac00b36
 oneTBB_jll,1317d2d5-d96f-522e-a858-c73665f53c3e
 open62541_jll,de311183-6042-582f-9ed9-05a52085bec4
