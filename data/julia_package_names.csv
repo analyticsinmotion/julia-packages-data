@@ -546,6 +546,7 @@ BVProblemLibrary,ded0fc24-dfea-4565-b1d9-79c027d14d84
 BWA_jll,f8ebc3b1-10c5-56bc-9528-e517be8c92c9
 BZMeshes,d3690ab3-6367-44d6-ab08-b07ed981380e
 BacenSGS,cf000e6a-8cd9-4459-9820-c8fff5d8f25f
+Backboner,9ac9c2a2-1cfe-46d3-b3fd-6fa470ea56a7
 BackedUpImmutable,ce7fb557-0848-50b6-86d3-b63d1ee2efee
 BackgroundSubtraction,9977cdcb-3521-4027-9f3f-3caff6505f42
 Backtester,e95d6c4f-f375-4488-afb7-83da67c67a69
@@ -3609,6 +3610,7 @@ HaltonSequences,13907d55-377f-55d6-a9d6-25ac19e11b95
 Hamburg,fe294631-7164-4d0f-9497-e1b4dc4640c8
 Hanabi,705708ad-e62c-5f47-9095-732127600058
 Hanabi_jll,37516f07-4740-538e-b7cb-eec320f4a184
+HandIsomorphism_jll,984f9c1f-46fe-5a04-8363-0cf7ea158318
 Handles,94972ede-0d5b-11e9-1425-55c861492980
 Hankel,74863788-d124-456e-a676-9b76578dd39e
 HapLink,8ca39d33-de0d-4205-9b21-13a80f2b7eed
@@ -9092,6 +9094,7 @@ TulipIndicators_jll,b73d36f2-ba1b-519d-99df-fa501440d401
 TulipaEnergyModel,5d7bd171-d18e-45a5-9111-f1f11ac5d04d
 TulipaProfileFitting,0aa31362-0b7e-4e8d-8385-676712fa7ef3
 Tullio,bc48ee85-29a4-5162-ae0b-a64e1601d4bc
+TupleSorting,4fd249ec-063c-4b22-9af8-9ff2212cc22c
 TupleTools,9d95972d-f1c8-5527-a6e0-b4b365fa01f6
 TupleVectors,615932cf-77b6-4358-adcd-5b7eba981d7e
 TurboPFor_jll,5045cf3f-6bff-515a-9ee9-1318ad640b20
@@ -9841,6 +9844,7 @@ gfm_jll,1709ae2f-740e-5434-a713-d92bde733aaf
 ggml_jll,010131b8-9656-5f5d-909c-3207272d5029
 gh_cli_jll,5d31d589-30fb-542f-b82d-10325e863e38
 ghr_jll,07c12ed4-43bc-5495-8a2a-d5838ef8d533
+ginkgo_jll,e4326e8b-370f-5d90-bbd6-f077a22d5a69
 git_crypt_jll,cc44a8f6-01aa-5a07-9bbc-f33bd50aae3d
 github_release_jll,b0520d53-158e-5a4f-b7bb-e0a5e0db8429
 gitoxide_jll,7ab50ac8-3a8c-5d28-9910-0d361883217b
@@ -9849,6 +9853,7 @@ glog_jll,58029095-ecac-58e2-8c2a-e49631082a9d
 glslang_jll,6fd5517d-459c-5c5a-9b1a-c968b4e37a81
 gmmlib_jll,09858cae-167c-5acb-9302-fddc6874d481
 gmsh_jll,630162c2-fc9b-58b3-9910-8442a8a132e6
+goaws_jll,a437b02d-256c-57cc-b5c6-817ed6633e35
 gobject_introspection_jll,6306888c-5478-5f78-9aeb-34cb5688c579
 gocloc_jll,efd4563f-dd60-5f77-b4e3-8d1993cf4f0d
 gperf_jll,1a1c6b14-54f6-533d-8383-74cd7377aa70
