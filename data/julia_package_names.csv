@@ -262,6 +262,7 @@ Andes,93a26e3f-343a-4ab9-b467-a68c67574964
 AndorSIF,d04cd5f8-5917-4006-ac6f-d139328806a7
 AngleBetweenVectors,ec570357-d46e-52ed-9726-18773498274d
 AngularMomentumAlgebra,0bb1b1ac-0216-11e9-361b-bb110c659ce1
+AngularSpectrumMethod,34f41046-6bdb-4a9c-a4a9-19e45b4e2d17
 AnimalBehavior,6e209a40-7ba7-48e5-b07c-698d71ff5940
 AnimalBreedingTools,63445ec0-dfd7-4942-b5eb-8dcce790d249
 Animations,27a7e980-b3e6-11e9-2bcd-0b925532e340
@@ -2447,6 +2448,7 @@ EquationsOfStateOfSolids,1eaa2786-f833-4167-8397-974edad0881e
 EquationsSolver,5d795e5a-a85f-4cbe-a274-66ed2c49fe0f
 EquiBaryInterp,c5458111-f826-47c0-abe9-f36aa00852ec
 Equil,3c2bf3bc-2bd9-4d6d-b474-66378cb6c97e
+EquilibratedFlux,ed78a1e2-7d3c-417b-a9de-456fe7bc806a
 EquilibriumMeasures,f387465c-e20c-5ab1-9210-5d86af51062a
 EquivalentCircuits,da5bd070-f609-4e16-a30d-de86b3faa756
 EquivariantOperators,e0aa4542-b1ed-4e6a-a09e-9c4627a9da65
