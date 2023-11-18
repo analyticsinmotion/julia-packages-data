@@ -2869,6 +2869,7 @@ FlatBuffers,53afe959-3a16-52fa-a8da-cf864710bae9
 FlatGeobuf,d985ece1-97de-4d33-914c-38fb84042e15
 FlatRBAC,8105d49c-dd64-42b3-9b59-da2596eb3c6b
 Flatten,4c728ea3-d9ee-5c9a-9642-b6f7d7dc04fa
+Flavio,e03d936e-b143-417e-99f1-948e30aaf057
 Fleetdm,b59b0a0d-53c2-4291-959f-8e09d58f6318
 FletcherPenaltySolver,e59f0261-166d-4fee-8bf3-5e50457de5db
 FlexExtract_jll,928114cd-b949-50c5-8a7b-63c9d706fec3
@@ -7820,6 +7821,7 @@ SegmentAnalytics,383780d8-6555-4e9d-ab4b-56ed78d9a773
 SegmentAnything,daca4e5c-8485-4416-9301-671ef5a159db
 SegmentIntersections,8ddd4dee-9780-47b0-8411-bdd780c27350
 SegyIO,157a0f19-4d44-4de5-a0d0-07e2f0ac4dfa
+SeisBase,8b7dfb90-41a7-4c72-9751-87603311c074
 SeisIO,b372bb87-02dd-52bb-bcf6-c30dd83fd342
 SeisMain,5696fd22-15e8-11e9-1986-f9ab08703604
 SeisModels,47bbc3d6-959e-5592-a00a-d17660d07a0f
@@ -9950,6 +9952,7 @@ liblinear_jll,275f1f90-abd2-5ca1-9ad8-abd4e3d66eb7
 liblsl_jll,b37880e1-55fa-5503-9f1a-f1223ce0b53e
 libmcfp_jll,7c79adba-b25c-591c-9e76-5703f3b8509b
 libmicrohttpd_jll,9663f319-c281-55ef-904e-227b7281b1a1
+libminc_jll,dce2f2bf-0ed4-5a0e-8af7-a90b827a9344
 libmodplug_jll,4d619e01-cdd4-5c75-9845-95db0342950b
 libmonitor_jll,17301647-d5f0-5157-99fa-219446a5b904
 libmseed_jll,ccc2c699-b150-5417-88f2-a95a0d1581d9
