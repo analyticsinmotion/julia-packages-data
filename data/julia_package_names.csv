@@ -1205,6 +1205,7 @@ ChainRulesCore,d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4
 ChainRulesOverloadGeneration,f51149dc-2911-5acf-81fc-2076a2a81d4f
 ChainRulesTestUtils,cdddcdb0-9152-4a09-a978-84456f9df70a
 ChainedFixes,9706b775-b1f4-4c74-b677-0491368ea71c
+Chairmarks,0ca39b1e-fe0b-4e98-acfc-b1656634c4de
 Chamber,4ddda095-17ec-41dd-95c9-ce16dd2a2f48
 ChangePointDetection,68f453bf-a161-50e8-aafe-8ad75c8d6944
 ChangePrecision,3cb15238-376d-56a3-8042-d33272777c9a
@@ -4866,6 +4867,7 @@ MCMCDebugging,6d524b87-5f90-4494-b601-374a5b87a94b
 MCMCDiagnosticTools,be115224-59cd-429b-ad48-344e309966f0
 MCMCDiagnostics,6e857e4b-079a-58c4-aeab-bc2670384359
 MCMCTempering,ce233488-44ea-4441-b732-192676ce2298
+MCMCTesting,9963b6a1-5d46-439c-8efc-3a487843c7fa
 MCPTrajectoryGameSolver,d93e73c3-c101-4c3f-b101-f812c3e47675
 MCParticles,24600035-b1cd-4d3f-b79a-9b7e18b664a2
 MCPhylo,af0ac7d2-842d-415f-bd76-8183c117c674
@@ -9409,6 +9411,7 @@ WCS_jll,550c8279-ae0e-5d1b-948f-937f2608a23e
 WENO4,92e69b6b-b976-4d9c-9029-10b5a528961a
 WFA2_jll,5b169025-4f0f-56c1-ad31-633326e7abb3
 WGLMakie,276b4fcb-3e11-5398-bf8b-a0c2d153d008
+WGPUCanvas,edfb154a-8991-4155-9628-fd26c9c32bf2
 WGPUCompute,494b1f74-06dd-4437-8477-4a86f2a8d703
 WGPUCore,53d714bf-0d76-4802-84b4-6cb75cca55f5
 WGPUNative,c14bfd16-04f9-4c2f-a915-b355584b5509
