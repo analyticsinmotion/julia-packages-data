@@ -2501,6 +2501,7 @@ ExactReals,cc8eb9ea-40c6-483d-ae01-5f60885b8dd9
 ExactWrightFisher,8c1589a6-e1d0-11e8-3509-29fca4fccf6a
 Exafmmt_jll,eacd9ca4-7f43-55e5-94d9-9be91740ea79
 Example,7876af07-990d-54b4-ab0e-23690620f79a
+ExampleJuggler,3bbe58f8-ed81-4c4e-a134-03e85fcf4a1a
 ExcelFiles,89b67f3b-d1aa-5f6f-9ca4-282e8d98620d
 ExcelReaders,c04bee98-12a5-510c-87df-2a230cb6e075
 ExcelUtilities,55336d7b-7a60-40a5-8869-d5806121a906
@@ -9459,6 +9460,7 @@ Weave,44d3d7a6-8a23-5bf8-98c5-b353f8df5ec9
 Web3,0881af41-a624-557c-96ff-9a730c8d7287
 WebAssembly,4f6df8df-4739-5653-a877-cf57ee625c27
 WebAssemblyInterfaces,74d8c2bb-7b3a-4d47-ac1c-f80c5e9b8189
+WebAssets,5318a24a-cfbb-471b-80de-2ec25d7c2d8b
 WebBlast,9f6dbb68-adea-48dd-82a4-058b403bed1f
 WebDriver,05625dda-b54a-434a-8c43-5c7937dfa4f0
 WebIO,0f1e0344-ec1d-5b48-a673-e5cf874b6c29
