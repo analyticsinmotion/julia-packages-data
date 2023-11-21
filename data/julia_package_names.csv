@@ -232,6 +232,7 @@ AlignedSpans,72438786-fd5d-49ef-8843-650acbdfe662
 AllanDeviations,7e732cdd-9a46-54ef-932c-559ab8d83ddb
 AllenSDK,9d22b198-c11d-497b-9ac7-6add78eade21
 AllocArrays,5c00bae2-1499-4716-9206-27f63fd08a44
+AllocCheck,9b6a8646-10ed-4001-bbdc-1d2f46dfbb1a
 Allocations,260a3f16-0ffa-4f23-875b-1350d3996fb5
 Alpaca,fcf20ba4-066e-11ea-0417-5fa1eb97d662
 AlpacaMarkets,02dc6022-739e-4478-acf8-ef45d2bc67b8
@@ -4397,6 +4398,7 @@ KryburyCompress,665f56ad-f4f7-4f50-adde-d55c796959f8
 Krylov,ba0b0d4f-ebba-5204-a429-3ac8c609bfb7
 KrylovKit,0b1a1467-8014-51b9-945f-bf0ae24f4b77
 KrylovMethods,9a2cd570-f05c-5dc1-9209-93ad6f5727f7
+KrylovPreconditioners,45d422c2-293f-44ce-8315-2cb988662dec
 Kuber,87e52247-8a1b-5e01-9430-8fbcac83a23a
 Kucoin,0cdc39bb-36b4-4ec4-ad63-255670c92e6e
 KungIChi,f52142bb-6843-4e16-a1b1-69f2acef56c5
@@ -8013,6 +8015,7 @@ SimplePolynomials,cc47b68c-3164-5771-a705-2bc0097375a0
 SimplePosetAlgorithms,0c1320c5-0940-5dc6-8c7d-d9650cdddf58
 SimplePosets,b2aef97b-4721-5af9-b440-0bad754dc5ba
 SimpleProbabilisticPrograms,be9b72de-c8a7-4672-afa1-cdbf18967232
+SimpleQuantumCircuit,435ee224-1b87-4f8d-89fc-f6e8a2c17c6c
 SimpleQuaternions,3a9c7681-b7ab-4d38-9bb7-f7834a016733
 SimpleRandom,a6525b86-64cd-54fa-8f65-62fc48bdc0e8
 SimpleRationalFunctions,1a520dc8-4f4e-523b-a9bd-3b3d46c5454b
@@ -8254,6 +8257,7 @@ SpectralEnvelope,ff710082-a9bc-57f3-81b5-980fc0acaaef
 SpectralGaussianSimulation,1f53f557-16c0-5f8f-980f-fb7167e19889
 SpectralKit,5c252ae7-b5b6-46ab-a016-b0e3d78320b7
 SpectralResampling,01da207a-183e-480e-93ab-a94ea6491b8c
+SpectralStatistics,26aafa55-59f7-45ac-9841-9c476cd28090
 SpeechAugment,85f1d090-a841-11eb-2200-31772235f1bd
 SpeechFeatures,6f3487c4-5ca2-4050-bfeb-2cf56df92307
 SpeedDate,2e38f7da-5467-4768-b2f8-11afcbc6cdb1
@@ -9031,6 +9035,7 @@ TransformsBase,28dd2a49-a57a-4bfb-84ca-1a49db9b96b8
 TransitionMatrices,057c4241-e127-4181-840e-6b4b92e6eef5
 TransitionPathTheory,8e25bcd3-68d4-49ab-a21a-eececf317700
 TransitionalMCMC,5bc637a6-1a46-43ed-8ea7-ee39cc1921ce
+TransitionsInTimeseries,5f5b98ec-1183-43e0-887a-12fdc55c52f7
 Transits,2e59a628-7bac-4d38-8059-3a73ba0928ab
 Transliterate,6413a62a-abe4-4af6-86c3-5403bf7fb405
 TransmuteDims,24ddb15e-299a-5cc3-8414-dbddc482d9ca
