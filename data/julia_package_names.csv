@@ -1911,6 +1911,7 @@ DayCounts,44e31299-2c53-5a9b-9141-82aa45d7972f
 DbgMacro,d6ce5c67-b3b1-4855-8eb4-4ca27575037e
 Dbus_jll,ee1fde0b-3d02-5ea6-8484-8dfef6360eab
 DeIdentification,b905b068-7150-5b22-bc23-80596c88c6a6
+DeMorgan,454c4576-8353-43f8-8d90-1177b7ee912a
 DebianGlibc_jll,3812390e-129a-5d25-9b88-6fc12c151a30
 DebugAdapter,17994d07-08fe-42cc-bc1b-7af499b1ea47
 DebugDataWriter,810e33c6-efd6-4462-86b1-f71ae88af720
@@ -1941,6 +1942,7 @@ DeepUnfoldedCDLMotif,29c5a556-b6e4-4b12-acd4-bb8b306706d2
 DefaultApplication,3f0dd361-4fe0-5fc6-8523-80b14ec94d85
 DefaultArrays,bb1859e0-6c46-48fc-af17-5b269a75ae2f
 DefaultFields,736c604d-46d4-4c6b-993b-58f501ada7d6
+DefaultKeywordArguments,d739bc73-037a-4484-8212-e0e00e9ea6bf
 Defer,6f25fe36-ecbb-5dff-aeb8-f7b50c87fb5f
 DeferredAcceptance,7ba42312-65e6-11eb-2a40-f37f14131e13
 DeferredFutures,d2772ebe-fee8-5277-ba6e-705bb5633645
@@ -5335,6 +5337,7 @@ Mimi_NAS_pH,113fc11f-d823-43a8-a074-b997e93e8190
 MinAtar,a0b457aa-173f-450d-9d76-dd2c7c1da9bd
 MinFEM,bd0dc85c-d10e-11e8-1961-03914cacc29c
 MinHash,4b3c9753-2685-44e9-8a29-365b96c023ed
+Minc2,8e6f2f06-34e2-40fe-8437-e396464d2a7f
 Mineos,daba6828-70d2-4229-869c-b11708ab6c61
 Mineos_jll,77b29d01-de08-56f3-96c6-9f6f21a29421
 Minesweeper,758a1c58-1ae5-4273-bf23-de2a3f195520
@@ -6665,6 +6668,7 @@ PolygonIO,8d21102f-33ed-495a-9a0c-ac543572a703
 PolygonInbounds,e4521ec6-8c1d-418e-9da2-b3bc4ae105d6
 PolygonOps,647866c9-e3ac-4575-94e7-e3d426903924
 Polyhedra,67491407-f73d-577b-9b50-8179a7c68029
+PolyhedralCubature,b83ae5ca-432e-4ddc-9034-449efe1fb776
 PolyhedralOmega,cb40c8c0-6f69-4117-9a87-8a763eccf627
 PolyhedralRelaxations,2e741578-48fa-11ea-2d62-b52c946f73a0
 Polylabel,49a44318-e865-4b63-9842-695152d634c1
@@ -6857,6 +6861,7 @@ PropertyUtils,7eaf9d98-b424-4a14-afcb-82e7a14ea1c6
 ProportionalFitting,3c40d49d-59d4-4b5d-adaa-75a7fbc8c64f
 Proportions,cc50ea96-f961-4e72-b5ee-c2bc8a08302f
 Proquint,710532b4-0dcf-4e85-9a00-0fba2d710edd
+ProtPlot,77b3afcc-388a-4e14-926d-b99c82d1a01f
 ProteinEnsembles,186d2b2d-8ad5-54a6-bcea-66047609c611
 ProteinSecondaryStructures,c298f58b-271f-48cb-96ac-5442ca7c67d9
 ProtoBuf,3349acd9-ac6a-5e09-bcdb-63829b23a429
@@ -8237,6 +8242,7 @@ SpatialDependence,011225bf-f2c3-4261-bf98-e88701b28bbe
 SpatialEcology,348f2d5d-71a3-5ad4-b565-8af070f99681
 SpatialGraphs,c8109be6-b162-4503-8829-8b6b29b93f50
 SpatialGrids,3ce1bdb9-727b-5794-a8c0-19c5c87cd16a
+SpatialHashTables,894afd4e-5c6f-4d1a-a294-873acbd0e95c
 SpatialIndexing,d4ead438-fe20-5cc5-a293-4fd39a41b74c
 SpatialJackknife,e2fa44a5-09d5-5fa2-a080-aa0766578c8a
 SpatioTemporalTraits,6a04ffb7-1155-443c-92eb-f1f26f00354c
