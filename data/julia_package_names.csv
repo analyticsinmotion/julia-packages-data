@@ -1478,6 +1478,7 @@ CompilerSupportLibraries_jll,e66e0078-7015-5450-92f7-15fbd957f2ae
 Complementarity,a9b2a840-c9d5-5181-a245-8df664c2d6e7
 ComplexBigMatrices,3f1b4eae-c8d4-40fb-a061-a38fdedae056
 ComplexDiff,79852310-0c84-4a19-a2da-89f133eb5081
+ComplexElliptic,fc032641-0a8e-429a-9c5f-63deb23bae7a
 ComplexMixtures,6f35c628-ac57-5bae-8ea9-703a8964f6e9
 ComplexOperations,45c10c9a-3fea-40aa-8a0f-0e2f7025918e
 ComplexOptInterface,25c3070e-1275-41b5-afef-2f982c87090a
@@ -8007,6 +8008,7 @@ SimpleHypergraphs,aa4a32ff-dd5d-5357-90e3-e7a9512f0501
 SimpleI18n,e6e9dfa0-c7c8-478f-b0d1-9bf91bc25951
 SimpleIMGUI,37c0dfa8-367e-4f81-95ac-b6bdb4b61673
 SimpleIntegrals,c106d4f1-74b1-53cf-8919-47dd3f5c79fb
+SimpleIterator,7cb8a005-ebb1-44a9-b470-e3223924bb96
 SimpleLexica,8970d5fd-81b2-46cd-bbc5-7585a55eff67
 SimpleLife,cdff3cb4-2c4b-5bf5-8db2-d08d991b0013
 SimpleMatch,a3ae8450-d22f-11e9-3fe0-77240e25996f
@@ -9431,6 +9433,7 @@ WGPUCore,53d714bf-0d76-4802-84b4-6cb75cca55f5
 WGPUNative,c14bfd16-04f9-4c2f-a915-b355584b5509
 WGPUgfx,02f56413-64a8-464d-a8fa-8dfc28b55f81
 WGSLTypes,8cf5275a-6167-4820-ac24-74d7d0e6cf05
+WIGXJPFjl,c012394e-041f-4dac-954c-af2908646be0
 WORLD,0818e8b4-bd9c-59ff-a62a-597382e55725
 WORLD_jll,df1608cb-88be-5058-95d4-2cc1fff969de
 WRDSMerger,59d27aa3-834e-4232-9046-52ef43e86786
