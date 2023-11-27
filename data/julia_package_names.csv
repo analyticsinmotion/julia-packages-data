@@ -1565,6 +1565,7 @@ ConstantRNGs,aa9b60e7-6b1c-4c29-a6e5-e43521412437
 ConstantTime,adc38e39-84cc-4087-89ab-f4eae76b2d15
 Constellation,12cd0da3-566c-4730-bd56-a37e9f18d9f8
 ConstituencyTrees,bb729d96-d836-50c8-a5f6-280bdc4918fa
+ConstitutiveModels,fc6ee7eb-129a-416f-804b-d7271ece6a3a
 ConstrainedControl,5933d0f4-dc4a-46ce-a189-54b4465bd7a4
 ConstrainedDynamics,65b0d8a9-e9fd-4f02-8653-a7163c490b26
 ConstrainedDynamicsVis,07ee0992-da0a-4409-aa8f-e0a0c9c09c30
@@ -8890,6 +8891,7 @@ ThreadPinning,811555cd-349b-4f26-b7bc-1f208b848042
 ThreadPools,b189fb0b-2eb5-4ed4-bc0c-d34c51242431
 ThreadSafeDicts,4239201d-c60e-5e0a-9702-85d713665ba7
 ThreadTools,dbf13d8f-d36e-4350-8970-f3a99faba1a8
+ThreadedDenseSparseMul,3d91a4ae-1078-4a13-9dfb-76f34bf57907
 ThreadedIterables,11d239b0-c0b9-11e8-1935-d5cfa53abb03
 ThreadedScans,24d252fe-5d94-4a69-83ea-56a14333d47a
 ThreadedSparseArrays,59d54670-b8ac-4d81-ab7a-bb56233e17ab
