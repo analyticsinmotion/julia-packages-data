@@ -5168,6 +5168,7 @@ MatrixNetworks,4f449596-a032-5618-b826-5a251cb6dc11
 MatrixOptim,cccf0e64-bc08-11e9-3692-c1021c9b9532
 MatrixPencils,48965c70-4690-11ea-1f13-43a2532b2fa8
 MatrixPolynomials,bd52c179-449c-4965-a404-68b29a447f4b
+MatrixProductBP,3d39929c-b583-45fa-b331-3f50b693a38a
 MatrixProfile,24e37439-14ec-4097-bda3-6a65822e2305
 Matte,b0b859e2-eb2e-45cd-bd98-8fc21bfdc9fa
 MatterEnv,9a24efd3-56f5-4b6c-a4cc-8c3068a60637
@@ -5963,6 +5964,7 @@ ObjectStores,03c2b57b-fb4c-5576-ac09-ef0ca0563633
 ObjectSystem,beb21ac1-5488-4e8e-a65a-eed5c6ff7e13
 ObjectiveC,e86c9b32-1129-44ac-8ea0-90d5bb39ded9
 ObjectivePaths,f54fc8bb-b7bf-4bdb-b2c8-0a06351fc134
+ObservableCortex,bfb82bb4-2e03-4c62-8cbb-f4e539ad28e8
 ObservablePmap,471f3579-fe7c-4d8d-9c38-de9ac94d91b4
 Observables,510215fc-4207-5dde-b226-833fc4488ee2
 ObservationDims,bd245535-7a0d-4808-be35-e2fe847ca032
@@ -7561,6 +7563,7 @@ SASLib,df8f2f22-cfef-5733-af3f-96770d497d85
 SBC_jll,da37f231-8920-5702-a09a-bdd970cb6ddc
 SBML,e5567a89-2604-4b09-9718-f5f78e97c3bb
 SBMLFBCModels,3e8f9d1a-ffc1-486d-82d6-6c7276635980
+SBMLImporter,210efffb-c3c8-456d-a807-6f55560b12fe
 SBMLToolkit,86080e66-c8ac-44c2-a1a0-9adaadfe4a4e
 SBMLToolkitTestSuite,792e603a-1588-414c-b272-614011baa40e
 SBML_jll,bb12108a-f4ef-5f88-8ef3-0b33ff7017f1
@@ -7834,6 +7837,7 @@ SeeToDee,1c904df7-48cd-41e7-921b-d889ed9a470c
 SegmentAnalytics,383780d8-6555-4e9d-ab4b-56ed78d9a773
 SegmentAnything,daca4e5c-8485-4416-9301-671ef5a159db
 SegmentIntersections,8ddd4dee-9780-47b0-8411-bdd780c27350
+SegregatedVMSSolver,90220dfc-fac3-4908-b895-51c1a1f4cb85
 SegyIO,157a0f19-4d44-4de5-a0d0-07e2f0ac4dfa
 SeisBase,8b7dfb90-41a7-4c72-9751-87603311c074
 SeisIO,b372bb87-02dd-52bb-bcf6-c30dd83fd342
@@ -8733,6 +8737,7 @@ TabularTDLearning,df77095f-98f0-51e5-a706-d0ff5a5ad33f
 Tachyons,3f90d43e-2ba6-5087-9e86-8e3765b17318
 TagPOMDPProblem,8a653263-a1cc-4cf9-849f-f530f6ffc800
 Taichi,6a7659b3-242e-4b14-83a6-15a101e52794
+TaijaInteroperability,8949ac52-83c2-4a90-b175-e52cde45fddb
 TaijaPlotting,bd7198b4-c7d6-400c-9bab-9a24614b0240
 TailwindCSS,70f3efdd-15fb-48e9-aed6-b5748bd45f5a
 TakagiFactorization,2a98de0d-ca3b-5770-8d1d-3c2c55f12676
@@ -8915,6 +8920,7 @@ TidierData,fe2206b3-d496-4ee9-a338-6a095c4ece80
 TidierDates,20186a3f-b5d3-468e-823e-77aae96fe2d8
 TidierPlots,337ecbd1-5042-4e2a-ae6f-ca776f97570a
 TidierStrings,248e6834-d0f8-40ef-8fbb-8e711d883e9c
+TidierText,8f0b679f-44a1-4a38-8011-253e3a78fd39
 TidierVest,969b988e-7aed-4820-b60d-bdec252047c4
 TidyStanza,b2c96470-cb50-47b8-9d8d-45534fe4e5bb
 TidyTest,ef104744-fcb3-4e7e-8bb2-6e95860d81ed
