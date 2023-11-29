@@ -101,6 +101,7 @@ AbstractNumbers,85c772de-338a-5e7f-b815-41e76c26ac1f
 AbstractOperators,d9c5613a-d543-52d8-9afd-8f241a8c3f1c
 AbstractPDEInterfaces,db474457-f03d-4fd7-b196-5f323c96c803
 AbstractPPL,7a57a42e-76ec-4ea3-a279-07e840d6d9cf
+AbstractPermutations,36d08e8a-54dd-435f-8c9e-38a475050b11
 AbstractPlotting,537997a7-5e4e-5d89-9595-2241ea00577e
 AbstractPlutoDingetjes,6e696c72-6542-2067-7265-42206c756150
 AbstractRationals,4958c51a-00f6-11ea-2b94-f3f784e4d148
@@ -1232,6 +1233,7 @@ ChebyshevTransforms,2752694e-a3a0-42bd-9f17-5f3242da1ce6
 Check_jll,491db154-c145-5abe-9c32-446728d60cce
 CheckedArithmetic,2c4a1fb8-30c1-4c71-8b84-dff8d59868ee
 CheckedArithmeticCore,740b204e-26e5-40b1-866a-9c367e60c4b6
+CheckedCalls,6490f8d2-1475-45bb-865d-edb65413071d
 Checkerboard,b297549e-c8cb-44e5-9c33-b7e2667db6fc
 Checkpointing,eb46d486-4f9c-4c3d-b445-a617f2a2f1ca
 Checkpoints,b4a3413d-e481-5afc-88ff-bdfbd6a50dce
@@ -3424,6 +3426,7 @@ Gnuplot,dc211083-a33a-5b79-959f-2ff34033469d
 GnuplotLite,d23aac74-fdd5-4749-9733-a7e65d8a2269
 GnuplotScripting,483a2fc8-eb99-45b6-a231-8c481e9ade22
 Gnuplot_jll,e5af9688-3aeb-5ed5-8c7e-253e55323d3e
+GoAWS,00b10cec-568b-4d01-83ea-8604cd7f25ae
 GoFish,d00ce6d8-e47b-41eb-9812-442785832f3b
 Goalign_jll,ed1357da-d9e6-57e3-b342-6130e0ca2d5e
 GoldenSequences,e13314f6-e9b3-11e9-0763-f13dff015e8a
@@ -4818,6 +4821,7 @@ LoopVectorization,bdcacae8-1622-11e9-2a5c-532679323890
 LopShelve,b886a573-0f84-4e1e-bf4c-dbf643e19b24
 Loraine,df0521af-66a0-42b3-822e-f30debbfe642
 LorentzDrudeMetals,100d92e6-c477-5236-9e74-205fcab5fd63
+LorentzGroup,5249e202-7b38-466e-aecc-8fc3462187b6
 LorentzVectorHEP,f612022c-142a-473f-8cfd-a09cf3793c6c
 LorentzVectors,3f54b04b-17fc-5cd4-9758-90c048d965e3
 Lorenz96,3fb22c43-5981-45f6-b839-6cbd65dbe502
@@ -5189,6 +5193,7 @@ MaxwellInterface,7207f3b3-84f3-4c9f-b950-dd331d8ad5c8
 MaxwellSALT,af179572-5b27-49bb-a7da-7163b0e709f2
 MayOptimize,049513e6-5a5e-4281-9d48-334ebac8954e
 Maybe,334f122f-1118-46cc-837f-bff747ee6f78
+MaybeInplace,bb5d69b7-63fc-4a16-80bd-7e42200c7bdb
 Mazes,2e5c213e-ab15-5c8d-991f-abb7b09c23af
 MbedTLS,739be429-bea8-5141-9913-cc70e7f3736d
 MbedTLS_jll,c8ffd9c3-330d-5841-b78e-0817d7145fa1
@@ -5540,6 +5545,7 @@ MultiJuMP,f6097e2c-3ba3-5605-a9a8-3a277acb490f
 MultiKDE,77543b7f-bd95-4024-91c1-46775346e0e7
 MultiModalMuSig,a66acb62-5df1-561a-8400-71bc98699397
 MultiObjectiveAlgorithms,0327d340-17cd-11ea-3e99-2fd5d98cecda
+MultiPrecisionArrays,e0585029-f0fd-471c-997a-b805c9f71f28
 MultiQuad,8fca5bbe-a785-4bb7-9793-c0c8ddca5d4b
 MultiResolutionIterators,396aa475-d5af-5b65-8c11-5c82e21b2380
 MultiScaleArrays,f9640e96-87f6-5992-9c3b-0743c6a49ffa
