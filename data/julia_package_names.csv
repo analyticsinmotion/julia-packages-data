@@ -6864,6 +6864,7 @@ ProjectiveVectors,01f381cc-face-5a0a-ade9-ef63dc65d628
 PromClient,880e31e2-b695-45be-a28d-96ac068cb1ee
 Prometheus,f25c1797-fe98-4e0c-b252-1b4fe3b6bde6
 Promises,21657275-7475-6620-6568-743d4d534157
+PromptingTools,670122d1-24a8-4d70-bfce-740807c42192
 PropCheck,ca382230-33be-11e9-0059-d981d03070e4
 PropDicts,4dc08600-4268-439e-8673-d706fafbb426
 ProperOrthogonalDecomposition,78421dfc-ac16-5d69-8300-c22153e3d0b6
@@ -8632,6 +8633,7 @@ SweepContractor,75a5deae-e917-4509-af32-a989148c8d5f
 SweepOperator,7522ee7d-7047-56d0-94d9-4bc626e7058d
 SwiftShader_jll,c404ff5a-e271-5628-8eaa-423d39d64c15
 SwitchOnSafety,ceb7f16a-07bf-5f4a-9354-b68f01b1610f
+Swizzles,60694085-d904-4bfc-95dc-1e0e768e9359
 SymArrays,c2b21f84-4a8e-4c96-99a2-2b79df568f75
 SymDict,2da68c74-98d7-5633-99d6-8493888d7b1e
 SymDiff,d0f7bc7f-cd2f-4cc8-8336-d901b45b4b8e
@@ -9490,6 +9492,7 @@ WeatherReport,3c954167-71e4-4212-9688-830d6b8fcbc2
 Weave,44d3d7a6-8a23-5bf8-98c5-b353f8df5ec9
 Web3,0881af41-a624-557c-96ff-9a730c8d7287
 WebAssembly,4f6df8df-4739-5653-a877-cf57ee625c27
+WebAssemblyCompiler,9bc180e8-272c-4d08-a460-9682f1716cbe
 WebAssemblyInterfaces,74d8c2bb-7b3a-4d47-ac1c-f80c5e9b8189
 WebAssets,5318a24a-cfbb-471b-80de-2ec25d7c2d8b
 WebBlast,9f6dbb68-adea-48dd-82a4-058b403bed1f
@@ -9719,6 +9722,7 @@ YisyAIFramework,1833fadb-d4a3-4bdc-92b3-7dbe365d2b7d
 YodaFiles,db43a6b5-d1be-4ac2-9828-026fb2246ab5
 Yosys_jll,2eded7df-79ee-58af-89be-7676cda93c14
 Yota,cd998857-8626-517d-b929-70ad188a48f0
+YoungTableaux,b7062236-b0aa-4473-bf76-66f344053691
 Yunir,6ba116df-6904-454d-b214-90038a8281a6
 Z3,06b161dc-0161-11ea-0f74-41f836f4024b
 ZBar,ae056753-435e-4d6b-8005-e923ff6e8938
