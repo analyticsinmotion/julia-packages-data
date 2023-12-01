@@ -1266,6 +1266,8 @@ Chuffed_jll,77125aae-c893-5498-99e3-e30470bfa328
 ChunkSplitters,ae650224-84b6-46f8-82ea-d812ca08434e
 ChunkedArrays,8bab3169-4815-5aad-9f88-5df82062e999
 ChunkedBase,a380dd43-0ebf-4429-88d6-6f06ea920732
+ChunkedCSV,c0d0730e-6432-44b2-a51e-6ec55e1c8b99
+ChunkedJSONL,f218240f-9760-4928-9282-fb77ffd82776
 CineFiles,56ba7af4-1aa7-4a85-af25-aa88a55212a9
 CircStats,2f6764a1-d620-4564-9394-76eb7c776766
 CircleFit,a2741ea9-3318-4d4b-8b99-ae5c58b57db7
@@ -2249,6 +2251,7 @@ DynamicGrids,a5dba43e-3abc-5203-bfc5-584ca68d3f5b
 DynamicGridsGtk,db222a54-9a4e-11e9-2a63-0f03ae0fd449
 DynamicGridsInteract,3ccff026-9a20-11e9-1704-43e1c6ed0af5
 DynamicHMC,bbc10e6e-7c05-544b-b16e-64fede858acb
+DynamicHMCExamples,2771e1c8-acf3-11e8-3576-cd129da217b6
 DynamicHMCModels,6266e5bf-9887-5dfa-a522-2c46ecdcf14a
 DynamicIterators,6c76993d-992e-5bf1-9e63-34920a5a5a38
 DynamicLinearModels,dc5eaf77-5719-4a86-9393-27bd7a74eb3e
@@ -7285,6 +7288,7 @@ Reactive,a223df75-4e93-5b7c-acf9-bdd599c0f4de
 ReactiveDynamics,c7456e7d-545a-4b79-91ea-6e93d96dd4d4
 ReactiveGraphs,e49d8811-4385-4fad-be34-8522254608f3
 ReactiveMP,a194aa59-28ba-4574-a09c-4a745416d6e3
+ReactiveToolkit,5352d3c8-010c-4f6e-a427-fe5152755be6
 ReadCoverageDistributions,c76e7e64-dca4-11eb-0ff5-1d6d625192a2
 ReadDatastores,70a005b8-9d8a-11e9-0d98-c909fa2e52d2
 ReadLIBSVM,472a48ec-b7f1-4628-bb5d-b49bc9312f54
