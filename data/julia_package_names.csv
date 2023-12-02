@@ -955,6 +955,7 @@ CDLmotif,31692b3b-61a6-410b-a229-5e9354f2e019
 CDMrdata,60f1a76e-720d-4784-bbc6-074b7a9a39a5
 CDSAPI,8a7b9de3-9c00-473e-88b4-7eccd7ef2fea
 CEDICT,76a33514-0aea-4d2f-abaf-6a43b94fc20c
+CEEDesigns,e939450b-799e-4198-a5f5-3f2f7fb1c671
 CEnum,fa961155-64e5-5f13-b03f-caf6b980ea82
 CFITSIO,3b1b4be9-1499-4b22-8d78-7db3344d1961
 CFITSIO_jll,b3e40c51-02ae-5482-8a39-3ace5868dcf4
@@ -2126,6 +2127,7 @@ DispatchedTuples,508c55e1-51b4-41fd-a5ca-7eb0327d070d
 Dispatcher,a48d5fe2-965b-541b-8ad8-ab19b69f3f25
 DispatcherCache,38708fd2-87cb-5685-8cf6-f81d134ed590
 Dispersal,8797f018-3445-11e9-3969-c13eb94a0661
+DispersionRelations,78f632dc-6214-4aca-89df-9f86f5ac7c9e
 DispersiveShallowWater,4ab875f6-b79a-4e28-9745-4f0293954817
 DisplayAs,0b91fe84-8a4c-11e9-3e1d-67c38462b6d6
 DisplayStructure,3564bb48-796b-48a4-9154-f091725b7055
@@ -3386,6 +3388,7 @@ GigaScatter,9213d8c3-915d-41ea-a218-6d7652ffb8c6
 GilbertCurves,88fa7841-ef32-4516-bb70-c6ec135699d9
 GillMatsuno,39e863eb-a116-4232-ae62-2a8db89e9457
 Gingko_jll,ebc12d66-1ae6-5e16-bc1b-c04a92e425de
+Ginkgo,4c8bd3c9-ead9-4b5e-a625-08f1338ba0ec
 Git,d7ba0133-e1db-5d97-8f8c-041e4b3a1eb2
 GitCommand,49b5b516-ca3f-4003-a081-42bdcf55082d
 GitFilterRepo,72c675ce-d821-4fa1-bc7b-baba4c7e6388
@@ -3936,6 +3939,7 @@ ImportKeysightBin,76a68121-5bb9-42aa-bb53-85bca5455360
 ImportMacros,92a963f6-6b1d-11e9-1d6c-8d25856e017b
 Impostor,c85fbf42-ee25-425e-8745-f7176d4f19ec
 Impute,f7bf1975-0170-51b9-8c5f-a992d46b9575
+InMAPSourceReceptorMatrices,4ce82931-4c10-4b80-a308-e2bd97408557
 InMemoryDatasets,5c01b14b-ab03-46ff-b164-14c663efdd9f
 InPartS,f768f48f-0d8a-415b-80aa-7de5ff9b8474
 InPlace,12a7aed9-f4ee-5e21-a57e-4f63a8148421
@@ -8438,6 +8442,7 @@ StationaryRandomFields,6ab34832-f7e5-40a4-9cd7-47ea82b5c144
 StatisticalGraphics,8341d8ab-e5ae-4f11-aa21-e11c5cc71259
 StatisticalMeasures,a19d573c-0a75-4610-95b3-7071388c7541
 StatisticalMeasuresBase,c062fc1d-0d66-479b-b6ac-8b44719de4cc
+StatisticalProcessMonitoring,5c25986e-1fdd-4016-bfbf-d983868d020f
 StatisticalRethinking,2d09df54-9d0f-5258-8220-54c2a3d4fbee
 StatisticalRethinkingPlots,e1a513d0-d9d9-49ff-a6dd-9d2e9db473da
 StatisticalTraits,64bff920-2084-43da-a3e6-9bb72801c0c9
@@ -9461,6 +9466,7 @@ WRDSMerger,59d27aa3-834e-4232-9046-52ef43e86786
 Wakame,4447db07-3941-47e2-90a2-965b7cb1b6ce
 Walker2014Sampling,a2f0375b-2a06-4a22-9386-496d263139c3
 Walker2020Sampling,f34fe3fd-af96-4859-b26f-d1ad3ec20571
+Walrus,bec5164f-1c7a-4c32-8768-be9354254d6a
 Waluigi,aa5a021a-6c35-4f46-b189-2143d43923dc
 Wandb,ad70616a-06c9-5745-b1f1-6a5f42545108
 WandbMacros,e69cbec5-4d86-4e4e-9018-58a9d8b3f761
