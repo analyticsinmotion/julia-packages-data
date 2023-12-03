@@ -151,6 +151,7 @@ AdaptiveMCMC,717c3277-546c-407d-8270-09a39a0919a0
 AdaptiveRejectionSampling,c75e803d-635f-53bd-ab7d-544e482d8c75
 AdaptiveResonance,3d72adc0-63d3-4141-bf9b-84450dd0395b
 AdaptiveSparseGrids,676d8d29-539e-4f06-b848-7dd647dd5291
+AdaptiveTestPlots,d194c7c1-4081-4169-ba52-101f65b44e42
 AdaptiveWindows,310fb2ca-6a3f-11ec-0326-3f7b497a96a3
 AddInit,fb98f0d0-f82c-4729-879a-95be0d8634ee
 AddLatest,404e4c7d-d40a-4c57-9c40-90ee175e5491
@@ -3277,6 +3278,7 @@ GenericSVD,01680d73-4ee2-5a08-a1aa-533608c188bb
 GenericSchur,c145ed77-6b09-5dd9-b285-bf645a82121e
 GenericTensorNetworks,3521c873-ad32-4bb4-b63d-f4f178f42b49
 GeneticBitArrays,5d6f8c34-7f74-4dab-a49b-48b3414fbfce
+GeneticProgramming,ad102508-34d1-48cc-9d5a-825d0c17f2b5
 GeneticScreens,4867d790-6146-11e9-2b04-0dd79efdd1cc
 GeneticVariantBase,2447270c-d849-4bf9-ac0d-b5c0b265991c
 GeneticVariation,9bc6ac9d-e6b2-5f70-b0a8-242a01662520
@@ -6487,6 +6489,7 @@ Photosynthesis,537ec7c9-aaee-45d0-8af0-4b77892958a6
 PhyML_jll,1371226f-2bf8-5a91-99cc-70a4fbc99e18
 PhyNEST,115de871-c282-4823-a74f-b03678acf966
 Phylo,aea672f4-3940-5932-aa44-993d1c3ff149
+PhyloClustering,2e4ec7c6-185f-4bfd-8419-ce336ea983f6
 PhyloCoalSimulations,53f7b83a-06b5-4910-9a21-1896bf762ade
 PhyloDiamond,5fd89c64-9bfa-4c3b-9406-7e573fc4f4af
 PhyloModels,6465ae08-de3a-5dbe-bda8-3920f6a01ab7
@@ -7265,6 +7268,7 @@ RateLimiter,24b76ae0-009b-4410-993f-7a05b90d7239
 RatingCurves,e9e3b3e0-5095-4984-97e8-7ac0126a89f0
 RationalFunctionApproximation,c92886a3-cb30-4e18-b84f-372dde475ecc
 RationalGenerators,2737ff73-0d59-47a5-9105-cfa0dee446ca
+RationalProjectivePlane,c6f45eda-53e9-4846-927e-3bf2d3f4e2f3
 RationalRoots,308eb6b3-cc68-5ff3-9e97-c3c4da4fa681
 Ratios,c84ed2f1-dad5-54f0-aa8e-dbefe2724439
 RawArray,d3d335b2-f152-507c-820e-958e337efb65
@@ -8387,6 +8391,7 @@ StanSamples,52d0d7a9-b304-5f31-a727-b234d0b606ff
 StanVariational,6ede68ce-8466-5085-8a79-4c4de3d9cf4a
 StandaloneIpopt,2377441b-c98c-4b62-8dd7-ad61dfe8e447
 StandardMarketData,7a408522-0ffe-11ea-0d13-d3c3bdffbeb4
+StandardPacked,65f29c17-9e56-4606-972f-81e04007695c
 StandardYoungTableaux,ae443f46-3c91-4a85-9741-732d995991b6
 StandardizedMatrices,56780e9a-f91f-500b-9a21-c8c66253dea0
 StandardizedPredictors,5064a6a7-f8c2-40e2-8bdc-797ec6f1ae18
