@@ -290,6 +290,7 @@ AnyMOD,16ed6a40-d4c3-11e9-1e10-59384530c1b4
 AnytimeWeightedAStar,ec8c4e8f-3dff-4cc6-be8a-faba0f6c4cb5
 AoGExtensions,7df18d33-496e-4cfd-8564-72cba2c0b329
 Apophis,cf72b054-1e85-4718-a3f4-02cfdc10a054
+AppBundler,40eb83ae-c93a-480c-8f39-f018b568f472
 AppDirs,5a4fb9a2-b02d-4ffe-b178-6027dc2bc1ce
 AppleAccelerate,13e28ba4-7ad8-5781-acae-3021b1ed3924
 AppliGeneralLedger,69311175-8ceb-4e66-8d4a-fec439d19437
@@ -3473,6 +3474,7 @@ GraphLaplacians,a1251efa-393a-423f-9d7b-faaecba535dc
 GraphMLDatasets,21828b05-d3b3-40ad-870e-a4bc2f52d5e8
 GraphMakie,1ecd5474-83a3-4783-bb4f-06765db800d2
 GraphMatFun,456a00ab-810a-4bbb-9f06-6bc08c0a1e82
+GraphNetCore,7809f980-de1b-4f9a-8451-85f041491431
 GraphNets,9052fb24-8e06-4531-a321-89bd3c4584f9
 GraphNeuralNetworks,cffab07f-9bc2-4db1-8861-388f63bf7694
 GraphPPL,b3f8163a-e979-4e85-b43e-1f63d8c8b42c
@@ -8378,6 +8380,7 @@ StanBase,d0ee94f6-a23d-54aa-bbe9-7f572d6da7f5
 StanDataFrames,80e77ffc-c35e-544b-8e57-5accc6d0de25
 StanDiagnose,fb13fc95-9a72-5e81-90ef-432a29d7f4c2
 StanDump,9713c8f3-0168-54b5-986e-22c526958f39
+StanIO,a1b0710c-ff81-4c57-8075-167cfc590dd3
 StanLogDensityProblems,a545de4d-8dba-46db-9d34-4e41d3f07807
 StanMCMCChain,8f1571ae-b3a1-52af-8ab1-32258739efdb
 StanMCMCChains,e9003ee5-8d1f-52e9-81b4-38b583c0e573
@@ -8477,10 +8480,12 @@ StenoGraphs,78862bba-adae-4a83-bb4d-33c106177f81
 Stheno,8188c328-b5d6-583d-959b-9690869a5511
 Stipple,4acbeb90-81a0-11ea-1966-bdaff8155998
 StippleCharts,30ddb3f0-912f-4f34-9804-e4bb31290777
+StippleDownloads,291a174b-6542-42e7-9996-fc00d7c03310
 StippleLatex,8706c442-30ce-4f68-b407-b81ebf148be9
 StippleMathjs,7fb1dcd0-db8f-4201-9509-3dea5d7792e9
 StipplePlotly,ec984513-233d-481d-95b0-a3b58b97af2b
 StipplePlotlyExport,d3391a6e-3825-4561-b7f8-2cd130659cb1
+StippleTypedArrays,304e07c4-4ffc-4adf-87bc-5a9afdf39ded
 StippleUI,a3c5d34a-b254-4859-a8fa-b86abb7e84a3
 StirredReactor,0f306737-e494-4d62-9475-91bb092c0e67
 StochDynamicProgramming,f6024387-75e5-5fdf-b095-327b05c0905f
@@ -9526,6 +9531,7 @@ WeightedPCA,ee299941-4bd7-491e-86f9-95d1f98baef4
 WeightsAndBiasLogger,71805093-c1fc-4af5-8d0a-8dde53c6ac46
 WellKnownGeometry,0f680547-7be7-4555-8820-bb198eeb646b
 Wells,5231157d-7ae6-5dec-b9aa-3f65828037ac
+Westerfit,f202a280-4a11-4d8a-9d54-4c7a90dde5df
 Wflow,d48b7d99-76e7-47ae-b1d5-ff0c1cf9a818
 WhereTheWaterFlows,ea906314-1493-4d22-a0af-f886a20c9fba
 WhereTraits,c9d4e05b-6318-49cb-9b56-e0e2b0ceadd8
