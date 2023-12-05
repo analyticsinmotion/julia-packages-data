@@ -2085,6 +2085,7 @@ DiffusiveShockAccelerationModels,66fc4661-a670-4cc2-b407-bfd81989e880
 Difmap,697f6f98-b792-4bca-85fe-71b3d053de65
 DigilentWaveForms,90c6a8ac-129f-4ce1-be23-9dee1ca31d3e
 DigitalComm,a7b11256-881b-11e9-3aff-ff4a76f1bfae
+DigitalHolography,91df39b6-5e55-447c-8840-2e09be0f70fd
 Dijkstra,e7a83b92-501e-4b94-a6dd-ebbcc1d264fa
 DimArrays,afd54cf4-456d-5b26-a0a9-2ab8a8120e3d
 DimensionalData,0703355e-b756-11e9-17c0-8b28908087d0
@@ -3580,6 +3581,7 @@ H5Zbzip2,094576f2-1e46-4c84-8e32-c46c042eaaa2
 H5Zlz4,eb20ec05-5464-47b5-ba41-098e3c1068a3
 H5Zzstd,f6f2d980-1ec6-471c-a70d-0270e22f1103
 HAML,0bc81568-2411-4001-9bf1-c899fa54f385
+HCGeoTherm,28071b0f-1505-495f-9565-3513cfd1c620
 HCIDatasets,1893dc6a-5236-4cb8-aa54-62ea411c10cd
 HCIToolbox,b6cd55e5-4d02-4e12-b82c-005f67e784bf
 HChebInterp,78faba9b-a54b-441f-8118-62407cbe4e59
@@ -8789,6 +8791,7 @@ TaylorDiag,39da1b83-8f04-4f20-a181-3ec16610cec7
 TaylorDiff,b36ab563-344f-407b-a36a-4f200bebf99c
 TaylorFourierTransform,b7963979-8425-4501-99b9-c790a878aaaf
 TaylorIntegration,92b13dbe-c966-51a2-8445-caca9f8a7d42
+TaylorInterface,628e9319-2ed5-413a-8fcb-ba6034deb837
 TaylorInversion,b52af375-caae-415f-bfb3-e49a502a248a
 TaylorModels,314ce334-5f6e-57ae-acf6-00b6e903104a
 TaylorSeries,6aa5eb33-94cf-58f4-a9d0-e4b2c4fc25ea
