@@ -2262,6 +2262,7 @@ DynamicIterators,6c76993d-992e-5bf1-9e63-34920a5a5a38
 DynamicLinearModels,dc5eaf77-5719-4a86-9393-27bd7a74eb3e
 DynamicMovementPrimitives,c3fee2e9-8015-57de-85e5-c840d3ed97ec
 DynamicNLPModels,18c187db-a9a9-4c13-a1b2-7cf0a4f6591a
+DynamicOED,bec7fea8-67ad-492e-b01d-b4dfa914b0da
 DynamicObjects,23d02862-63fe-4c6e-8fdb-1d52cbbd39d5
 DynamicPPL,366bfd00-2699-11ea-058f-f148b4cae6d8
 DynamicPipe,e2608387-6d34-4676-ab1d-f98b51cb1878
@@ -4210,6 +4211,7 @@ Jaynes,a2015381-cef8-4fe1-827c-95a77dd17ccf
 Jchemo,fbca9394-dd0a-4d1c-b066-ae75f6ef1ad5
 Jedis,b89ccfe0-2c5f-46f6-b89b-da3e1c2e286f
 JefimenkoModels,d277eb4b-a029-4f3f-8547-f56fb2721095
+Jello,6872b481-e419-48a0-81d2-be4ee5684529
 JellyMe4,19ac8677-9a15-4623-9afd-84acc6165ce7
 JeszenszkiBasis,4eec09b6-37c8-513a-a01b-84ce271f0312
 JetPack,24ef3835-3876-54c3-8a7a-956cf69ca0b2
@@ -6444,6 +6446,7 @@ PerfChecker,6309bf6b-a531-4b08-891e-8ee981e5c424
 PerfectPacking,81c3f1f7-c8b1-4afe-97d0-b306023db0e9
 PerformanceProfilingHttpEndpoints,773a18e9-432f-47dd-82a7-1a805cf6f851
 PerformanceTestTools,dc46b164-d16f-48ec-a853-60448fc869fe
+PeriLab,2ecefcea-59f0-46dd-9cfd-1d2b8cc5f112
 Peridynamics,4dc47793-80f3-4232-b30e-ca78ca9d621b
 PeriodicGraphEmbeddings,f305370e-dc8e-427a-bb15-d3949eabeccf
 PeriodicGraphEquilibriumPlacement,72a2d4b8-adbf-4c88-a101-42c807716bb0
@@ -9601,6 +9604,7 @@ WriteTFW,49d7a207-2b26-4c4c-b0e9-253fdb5aa2df
 WriteVTK,64499a7a-5c06-52f2-abe2-ccb03c286192
 Wynn,fbb19de7-1342-5f93-8193-71ff412e753d
 X11_jll,546b0b6d-9ca3-5ba2-8705-1bc1841d8479
+X13as_jll,6c9beba9-e00a-580e-a2fe-633c5dfe81b1
 XAIBase,9b48221d-a747-4c1b-9860-46a1d8ba24a7
 XAM,d759349c-bcba-11e9-07c2-5b90f8f05f7c
 XCB,16167f82-ea26-5cba-b1de-ed6fd5e30a10
