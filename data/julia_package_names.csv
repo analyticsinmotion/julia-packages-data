@@ -5268,6 +5268,7 @@ MeshCat,283c5d60-a78f-5afe-a0af-af636b173e11
 MeshCatMechanisms,6ad125db-dd91-5488-b820-c1df6aab299d
 MeshCore,43a99bba-f459-4d0e-8139-f3df11d847d4
 MeshFinder,94afc05e-a560-4acd-8e11-a7bb2c092f45
+MeshGraphNets,f7b4726d-4195-44ab-b39c-37bbdadae004
 MeshIO,7269a6da-0436-5bbc-96c2-40638cbb6118
 MeshKeeper,484b717a-98b9-4b0c-89dc-fb7d7e739263
 MeshMaker,eff96cbd-3442-458f-9fe2-6cad589fe5e1
@@ -7618,6 +7619,7 @@ SDL2_jll,ab825dc5-c88e-5901-9575-1e5e20358fcf
 SDL2_mixer_jll,7e88e5ca-120e-58e7-9660-b2187fd466c0
 SDL2_net_jll,f85291cd-a23d-5685-85d1-de13e1abbd3f
 SDL2_ttf_jll,ca9d4746-8a27-5104-babe-80f83b336947
+SDLCanvas,736c1586-5226-4b2e-9818-fad6972f0408
 SDMX,dab8ebd6-0c04-4f46-ad10-062f8ec9cad9
 SDPA,b9a10b5b-afa4-512f-a053-bb3d8080febc
 SDPAFamily,bfe18334-aefd-11e9-1109-4bf2b15a5b91
@@ -9056,6 +9058,7 @@ TrackingTimers,88ba133c-8695-4d62-9a5c-bcf16b6d2e1a
 Tracy,e689c965-62c8-4b79-b2c5-8359227902fd
 TracyProfiler_jll,0c351ed6-8a68-550e-8b79-de6f926da83c
 TracyWidomBeta,2ad872f3-bd17-40a7-8827-3f17cb035345
+TradeStationAPI,49138a36-0386-40e9-aaa4-13a46f310b6c
 Trading,35d28339-5a58-4012-acd2-38f468f495ee
 TrafficAssignment,735ffce8-66c7-5b61-a90f-89c46d1a79d5
 TrainRuns,e4541106-d44c-4e00-b50b-ecdf479fcf92
