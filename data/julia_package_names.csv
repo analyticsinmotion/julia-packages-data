@@ -485,6 +485,7 @@ AverageShiftedHistograms,77b51b56-6f8f-5c3a-9cb4-d71f9594ea6e
 Avro,65fc3dcb-49af-4f0c-a340-607eef534a14
 AvrutinSearch,ed76c251-e25f-44f6-91ec-f57abd734d0d
 Awabi,b89ecf66-93e0-42cf-a85d-3fd691c1774b
+AwkwardArray,7d259134-7f60-4bf1-aa00-7452e11bde56
 AxisAlgorithms,13072b0f-2c55-5437-9ae7-d433b7a33950
 AxisArrayConversion,972ef8a8-2335-4604-a4a0-94f299de4a83
 AxisArrayTables,af8da316-43a4-49f0-bd76-7de0cd630fd6
@@ -2843,6 +2844,7 @@ FiniteElementContainers,d08262e4-672f-4e7f-a976-f2cea5767631
 FiniteFields,bbb6641c-4b7b-4120-8cb1-379a8ed7c848
 FiniteFloats,e34fb328-7f7f-54d6-9f45-12944764ead7
 FiniteGroups,7eb45ad1-e93a-4d9d-8e8f-2bf75ed29802
+FiniteHorizonGramians,b59a298d-d283-4a37-9369-85a9f9a111a5
 FiniteHorizonPOMDPs,8a13bbfe-798e-11e9-2f1c-eba9ee5ef093
 FiniteHorizonValueIteration,c7772946-478f-4fc8-9340-5223c2489741
 FiniteMesh,d3ebd857-6980-4843-ad12-8da20c4645b4
@@ -7225,6 +7227,7 @@ RadiationDetectorSignals,bf2c0563-65cf-5db2-a620-ceb7de82658c
 RadiationSpectra,4f207c7e-01da-51d7-a1a0-c8c06dd1d883
 RadiativeTransfer,ace8185b-fa20-42f5-912d-1e850dbe6a09
 RadiiPolynomial,f2081a94-c849-46b6-8dc9-07bb90ed72a9
+RadonKA,86de8297-835b-47df-b249-c04e8db91db5
 RainFARM,e9a4e08f-a0a3-5224-a821-6d0231c12d6b
 Ramps,620c3add-4af5-46cb-82b5-af0dc8736fda
 RamseySpectroscopyCore,c2a93995-efaf-4fb2-b3df-3b08479f64e0
@@ -8771,6 +8774,7 @@ TabularTDLearning,df77095f-98f0-51e5-a706-d0ff5a5ad33f
 Tachyons,3f90d43e-2ba6-5087-9e86-8e3765b17318
 TagPOMDPProblem,8a653263-a1cc-4cf9-849f-f530f6ffc800
 Taichi,6a7659b3-242e-4b14-83a6-15a101e52794
+TaijaData,9d524318-b4e6-4a65-86d2-b2b72d07866c
 TaijaInteroperability,8949ac52-83c2-4a90-b175-e52cde45fddb
 TaijaPlotting,bd7198b4-c7d6-400c-9bab-9a24614b0240
 TailwindCSS,70f3efdd-15fb-48e9-aed6-b5748bd45f5a
