@@ -2710,6 +2710,7 @@ FastExpm,7868e603-8603-432e-a1a1-694bd70b01f2
 FastFilter,5470531f-076d-47a9-aacb-e15e1e7f44ac
 FastFloat16s,ecdfd59a-7c14-409c-ab7a-3704f8e92dd6
 FastGaussQuadrature,442a2c76-b920-505d-bb47-c5924d526838
+FastGaussianProcesses,0daff098-cd89-4feb-a73f-3cd5564178fe
 FastGeoProjections,981663e8-0c94-46dd-b2cf-efc8480900ec
 FastGraphletTransform,8757296b-2078-477d-a41d-7d2812277c39
 FastGroupBy,e6aeac8e-85c6-520e-8612-effc59bc0f33
@@ -9163,6 +9164,7 @@ TuePlots,7dc86ad5-723e-4492-bd0d-d0b58009a4c8
 Tui4jl,f62ea92b-1830-43a7-8bcc-e4c334842b76
 Tulip,6dd1b50a-3aae-11e9-10b5-ef983d2400fa
 TulipIndicators_jll,b73d36f2-ba1b-519d-99df-fa501440d401
+TulipaClustering,314fac8b-c762-4aa3-9d12-851379729163
 TulipaEnergyModel,5d7bd171-d18e-45a5-9111-f1f11ac5d04d
 TulipaProfileFitting,0aa31362-0b7e-4e8d-8385-676712fa7ef3
 Tullio,bc48ee85-29a4-5162-ae0b-a64e1601d4bc
