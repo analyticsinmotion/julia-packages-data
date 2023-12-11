@@ -693,6 +693,7 @@ BiGGReactions,0f8c7381-4745-4de4-ab54-b92c670edbdd
 BibInternal,2027ae74-3657-4b95-ae00-e2f7d55c3e64
 BibParser,13533e5b-e1c2-4e57-8cef-cac5e52f6474
 BibTeX,7b0aa2c9-049f-5cec-894a-2b6b781bb25e
+BiblicalHebrew,23d2231d-1fc1-47c2-a612-987552d9b38e
 Bibliography,f1be7e48-bf82-45af-a471-ae754a193061
 BifurcationInference,7fe238d6-d31e-4646-aa16-9d8429fd6da8
 BifurcationKit,0f109fa4-8a5d-4b75-95aa-f515264e7665
@@ -3543,6 +3544,7 @@ Groebner,0b43b601-686d-58a3-8a1c-6623616c7cd4
 GroebnerBasis,e39c9192-ea4d-5e15-9584-a488c6d614bd
 GroundMotion,1a1bcaad-b889-5540-93fc-02c6735e0f5a
 GroundwaterPlots,4497dbff-a3fd-4ae5-909f-dd1339757ac3
+GroupPresentations,e70aea02-d551-4d4a-88dc-a60a3b79560b
 GroupRings,0befed6a-bd73-11e8-1e41-a1190947c2f5
 GroupSlices,d853e229-7c7c-56e9-b6be-9a1acc5f13d9
 GroupedArrays,6407cd72-fade-4a84-8a1e-56e431fc1533
@@ -5688,6 +5690,7 @@ NMEA,6dcfc07b-8fa8-55f0-94e3-d46e2fec2cdb
 NMEAParser,e33883a1-8aa8-4e6e-a42d-0daf9e203b40
 NMF,6ef6ca0d-6ad7-5ff6-b225-e928bfa0a386
 NMFk,e40cd9e2-a1df-5d90-a1fa-603fdc3dbdd8
+NMRAnalysis,e8f11e50-668f-4bdf-b40b-95f76662da30
 NMRTools,c2839fe3-f1de-42fc-897f-c1b0e8db4db6
 NNFEM,9fbee185-08cf-5df3-934a-20f446aa0bf6
 NNHelferlein,b9e938e5-d80d-48a2-bb0e-6649b4a98aeb
@@ -9801,6 +9804,7 @@ ZygoteStructArrays,d4e84096-4d6c-49d8-a925-3f99c52ed105
 abPOA_jll,0568d011-26ca-5176-956c-c5f1596cf1f5
 acl_jll,ed5aba05-e74d-5cf7-8b09-107ba3463b8e
 adwaita_icon_theme_jll,b437f822-2cd6-5e08-a15c-8bac984d38ee
+agg_jll,5233c530-8ff5-54e9-96dc-9768cc911b78
 aiger_jll,9446b0d0-acab-56e8-85a3-5890a8313c19
 algoimWrapper_jll,3c43aa7b-5398-51f3-8d75-8f051e6faa4d
 algoim_jll,752d281f-1d7c-5d86-be98-c17301473446
