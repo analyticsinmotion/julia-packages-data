@@ -3184,6 +3184,7 @@ GStreamer_jll,aaaaf01e-2457-52c6-9fe8-886f7267d736
 GTK3_jll,77ec8976-b24b-556a-a1bf-49a033a670a6
 GTK4_jll,6ebb71f1-8434-552f-b6b1-dc18babcca63
 GTKmm3_jll,6c5188dc-7670-5467-b522-e8b8d9d5f1a3
+GTPSA_jll,a4739e29-4b97-5c0b-bbcf-46f08034c990
 GXBeam,974624c9-1acb-4ad6-a627-8ac40fc27a3e
 GZip,92fee26a-97fe-5a0c-ad85-20a5f3185b63
 GadJet,1cc33cce-174c-413c-94d0-34de58e4bd4a
@@ -4706,6 +4707,7 @@ LifeInsuranceContracts,fd4345fa-c73f-4ad5-b086-dba238792776
 LifeInsuranceDataModel,4892898e-25d7-46ce-b5c3-dea2164303ac
 LifeInsuranceProduct,492f22fc-54e6-4f0f-bb9b-bacd199f5046
 LifeTable,4210c81c-ea79-58ed-b1f5-cefccb200c31
+LiftAndLearn,192fc49d-b0e9-4795-8347-9ce9b8a8946d
 LiftedMaps,d22a30c1-52ac-4762-a8c9-5838452405e0
 LiftedTrajectoryGames,f0ea6279-6eb1-4d7a-a045-07bc2fa39d95
 LightBSON,a4a7f996-b3a6-4de6-b9db-2fa5f350df41
