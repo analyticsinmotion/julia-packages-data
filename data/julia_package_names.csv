@@ -50,6 +50,7 @@ ARMANets,33eca030-06a8-11eb-2ae2-bd410d8394ef
 ARules,7cbe2057-1070-5a1a-9a20-8e476bfa53e1
 ASCIIrasters,81770e7c-c736-4fa5-8129-46dd21831640
 ASDF,686f71d1-807d-59a4-a860-28280ea06d7b
+ASDF2,da470b1c-b0a8-4533-b4d1-e613846a4bd7
 ASE,51974c44-a7ed-5088-b8be-3e78c8ba416c
 ASEconvert,3da9722f-58c2-4165-81be-b4d7253e8fd2
 ASL_jll,ae81ac8f-d209-56e5-92de-9978fef736f9
@@ -1257,6 +1258,7 @@ ChemometricsData,fc65c5b3-1e2f-40fc-8189-28dcf66ce270
 ChemometricsTools,a9718f02-dbee-5ae5-ad0e-dfbd07fa387b
 CherenkovDeconvolution,7995dc16-b5cc-11e8-32a0-21341f07e0b5
 Chess,717200cc-f167-4fd3-b4bf-b5e480529844
+Chevie,367f69f0-ca63-11e8-2372-438b29340c1b
 ChipSort,06416c39-db7e-5258-b068-33480f0cdbbc
 Chipmunk_jll,d4d167ca-650b-5bdd-911d-0fc9b8119a40
 ChirpSignal,f60141a0-4cd3-11eb-3573-695a6f1942a1
@@ -2054,6 +2056,7 @@ DiffEqSensitivity,41bf760c-e81c-5289-8e54-58b1f1f8abe2
 DiffEqTutorials,6d1b261a-3be8-11e9-3f2f-0b112a9a8436
 DiffEqUncertainty,ef61062a-5684-51dc-bb67-a0fcdec5c97d
 DiffFusion,be7e520c-a8fa-4f26-8f65-6d6d1049182e
+DiffImageRotation,cb1f95eb-7c3a-45bc-9e18-5c07f1beaacd
 DiffOpt,930fe3bc-9c6b-11ea-2d94-6184641e85e7
 DiffPrivacy,53714aee-e5d1-4d1b-abff-f814f0c675a5
 DiffRaster2D,4b684d98-c3ff-425e-b462-3ad63461a205
@@ -5904,6 +5907,7 @@ NonogramSolver,108db2ec-6058-46d0-81ab-928f1904c069
 NonparametricRegression,db432338-e110-4b7a-9c53-0ace38eb8f7f
 NonsmoothOptim,0dfc7a1c-e419-4470-a3bc-787e626244db
 NonstationaryProcessesBase,af5f7d59-81cb-4819-a164-3c52f7fc19dd
+NonuniformFFTs,cd96f58b-6017-4a02-bb9e-f4d81626177f
 Nord,0e1eec36-3e51-505b-9453-8db846dc2724
 Norg,64228516-68de-4e23-8112-6940bc1970d1
 NormalForms,109d20d8-9763-411c-9b60-7eb2a068657f
@@ -7055,6 +7059,7 @@ Qt6Svg_jll,6de9746b-f93d-5813-b365-ba18ad4a9cf3
 Qt6Wayland_jll,e99dba38-086e-5de3-a5b1-6e4c66e897c3
 Qt_jll,ede63266-ebff-546c-83e0-1c6fb6d0efc8
 QuDiffEq,c02438fe-7edc-11e9-0a49-b5c5aafabe04
+QuEST_jll,4a967bbd-a16f-537d-8e95-e68e89d08900
 QuadEig,c91c7b58-0d0b-4d20-b830-a38cac847d15
 QuadGG,c505f82d-ff9d-4c3e-8ff7-8eb8c484653e
 QuadGK,1fd47b50-473d-5c70-9696-f719f8f3bcdc
@@ -8441,6 +8446,7 @@ StatProfilerHTML,a8a75453-ed82-57c9-9e16-4cd1196ecbf5
 StataCall,149ba50c-99c4-11e9-1e32-e960083e84dc
 StataDTAFiles,b8b3a5fb-3772-5a86-9e24-bf4afc28128a
 StateSpaceEcon,e4c825b0-b65c-11ea-0b5a-6176b64e7b7f
+StateSpaceInference,8583ecf1-8684-4f91-a25a-60406f5ba88d
 StateSpaceModels,99342f36-827c-5390-97c9-d7f9ee765c78
 StateSpaceReconstruction,1441a9f6-6a74-5418-a591-cdf1d78a07f0
 StateSpaceRoutines,261fd431-d7e4-51f7-86ab-ce9e57fc1fff
@@ -8621,6 +8627,7 @@ SuiteSparseMatrixCollection,ac199af8-68bc-55b8-82c4-7abd6f96ed98
 SuiteSparse_GPU_jll,d273dfef-62f2-5f88-806b-f32b81b662f1
 SuiteSparse_LBT_jll,8a7bcfce-81ee-5a07-a07c-c8520ac69669
 SuiteSparse_jll,bea87d4a-7f5b-5778-9afe-8cc45184846c
+SumOfExponentials,577c3ae3-e2e9-4c4d-8517-88b63258dae5
 SumOfSquares,4b9e565b-77fc-50a5-a571-1244f986bda1
 SumProductNetworks,5f6e642e-680c-5a9c-a175-7c23ed4da89e
 SumTypes,8e1ec7a9-0e02-4297-b0fe-6433085c89f2
