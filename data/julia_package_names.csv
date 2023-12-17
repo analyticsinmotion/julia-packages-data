@@ -404,6 +404,7 @@ AstroImages,fe3fc30c-9b16-11e9-1c73-17dabf39f4ad
 AstroLib,c7932e45-9af1-51e7-9da9-f004cd3a462b
 AstroNbodySim,034523a5-eae8-49f5-9052-0ea364535333
 AstroPlot,00b67d96-df8a-4e04-ab4d-0170e12eeaec
+AstroRepresentations,403ab190-7cad-4c95-848f-e576570a949d
 AstroTime,c61b5328-d09d-5e37-a9a8-0eb41c39009c
 AstrodynamicalCalculations,c0cf9fb7-f496-4999-a425-c50785d1b88b
 AstrodynamicalModels,4282b555-f590-4262-b575-3e516e1493a7
@@ -838,6 +839,7 @@ BloqadeGates,9b473568-af80-491c-8f51-e251334462c1
 BloqadeKrylov,bd27d05e-4cd1-5e79-84dd-c5d7d508ade2
 BloqadeLattices,bd27d05e-4ce1-5e79-84dd-c5d7d508bbe4
 BloqadeMIS,bd27d05e-4ce1-5e74-84dd-c5d7d508bbe2
+BloqadeNoisy,7534646f-0cda-4b9e-a311-3a9166d831c9
 BloqadeODE,bd27d05e-4ce1-5e79-84dd-c5d7d508bbe5
 BloqadeQMC,2c0eea08-e05e-11ec-33df-b7e33af02477
 BloqadeSchema,a64e8dd8-bb5a-11ec-104d-290571fc3a8d
