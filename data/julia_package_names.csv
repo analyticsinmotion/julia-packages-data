@@ -9180,6 +9180,7 @@ TruthTables,9ec6d097-1036-44b0-a6be-6d8b59e15e3f
 Try,bf1d0ff0-c4a9-496b-85f0-2b0d71c4f32a
 TryCatch,0ca489f0-7580-4b41-9fdc-1863c852da4c
 TryExperimental,ae3b139e-64da-4858-8f55-5617df0d650e
+Tryparse,7b412df5-33c1-4334-b65f-95ccdd546b1c
 Tsunami,36e41bbe-399b-4a86-8623-faa02b4c2ac8
 TtH_jll,f7b99bbd-2e5d-508a-a6d9-3364a7ade44d
 TuePlots,7dc86ad5-723e-4492-bd0d-d0b58009a4c8
@@ -9391,6 +9392,7 @@ VOTables,3abbdab7-df67-4801-8590-8effec53f469
 VPTrees,6889b67b-453b-53df-8fa8-6efd51eae556
 VQC,f53c5859-8f70-4782-8aac-8d69ad6f55c5
 VSL,04294c92-b9b2-5258-861c-e23397c8ec5d
+VSPGeom,9b3f6a95-fce2-4bc5-94a2-f99b39986ea6
 VT100,7774df62-37c0-5c21-b34d-f6d7f98f54bc
 VTKBase,4004b06d-e244-455f-a6ce-a5f9919cc534
 VTKDataIO,c6703add-1d23-52c6-9943-3ad88652b9b2
