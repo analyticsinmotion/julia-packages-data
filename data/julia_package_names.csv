@@ -2212,6 +2212,7 @@ DomainColoringToy,7cf40ad8-af6a-4ede-b3c6-2a9df3bce851
 DomainIntegrals,cc6bae93-f070-4015-88fd-838f9505a86c
 DomainSets,5b8099bc-c8ec-5219-889f-1d9e522a28bf
 DopplerSpectroscopyCore,5ae39bbf-cd25-4248-8c0a-5a8eea00c34e
+DormandPrince,5e45e72d-22b8-4dd0-9c8b-f96714864bcd
 DoseCalculators,fb202ad0-d22e-11eb-2fc2-a7d76729265e
 DotEnv,4dc1fcf4-5e3b-5448-94ab-0c38ec0385c1
 DotMaps,98454f44-f182-4945-8d34-ddde53e72162
@@ -6661,6 +6662,7 @@ PlutoExtras,ed5d0301-4775-4676-b788-cf71e66ff8ed
 PlutoHooks,0ff47ea0-7a50-410d-8455-4348d5de0774
 PlutoLinks,0ff47ea0-7a50-410d-8455-4348d5de0420
 PlutoLiveExport,27cf6249-c7ba-466c-943c-2006590103b7
+PlutoMapPicker,474136ad-924f-47fa-9297-876420b5dc85
 PlutoPDF,6eb38059-8c05-41f7-8871-5e7e2697ace6
 PlutoPlotly,8e989ff0-3d88-8e9f-f020-2b208a939ff0
 PlutoProfile,ee419aa8-929d-45cd-acf6-76bd043cd7ba
