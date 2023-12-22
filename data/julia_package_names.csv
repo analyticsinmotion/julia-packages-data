@@ -864,6 +864,7 @@ Boltzmann,00bb91fb-75dd-5f5f-97ed-3cee78a05366
 BoltzmannMachines,4f8fbe5d-35a6-506b-99b3-b5866748635b
 BoltzmannMachinesPlots,e853e177-4ae5-507f-af00-4766098699e4
 BondGraphs,d1a4f103-cd9c-465b-aef3-7f12ef11bc98
+Bonito,824d6782-a2ef-11e9-3a09-e5662e0c26f8
 Bonmin_jll,29cba6d7-6840-5cf2-a2fa-9bdfccfe29ea
 Bonobo,f7b14807-3d4d-461a-888a-05dd4bca8bc3
 Bonsai,30a8ad1e-2947-4f5c-9f0c-168e614e8e53
@@ -1329,6 +1330,7 @@ CliMADatasets,49523d62-8978-4391-abdd-b8467d4505ae
 ClickHouse,82f2e89e-b495-11e9-1d9d-fb40d7cf2130
 CliffordAlgebras,ca841f6f-225c-4bbd-a467-7a3512dfa6f6
 Cliffords,276b0191-6968-5de0-98fd-2a81b0f3910d
+ClimaAnalysis,29b5916a-a76c-4e73-9657-3c8fd22e65e6
 ClimaAtmos,b2c96348-7fb7-4fe0-8da9-78d88439e717
 ClimaCache,781d2db2-48ae-11ec-81d3-0242ac130003
 ClimaComms,3a4d1b5c-c61d-41fd-a00a-5873ba7a1b0d
@@ -3361,6 +3363,7 @@ GeoStatsPlots,cf22561b-6452-4701-9483-6c69015d00e1
 GeoStatsProcesses,aa102bde-5a27-4b0c-b2c1-e7a7dcc4c3e7
 GeoStatsSolvers,50e95529-e670-4fa6-84ad-e28f686cc091
 GeoStatsTransforms,725d9659-360f-4996-9c94-5f19c7e4a8a6
+GeoStatsValidation,36f43c0d-3673-45fc-9557-6860e708e7aa
 GeoStatsViz,36492b79-4a51-4dff-89b6-31e03c9a81c2
 GeoTables,e502b557-6362-48c1-8219-d30d308dcdb0
 GeoThermalCloud,9b555b37-faa4-4dca-b31f-51f0aad2d23b
@@ -4312,6 +4315,7 @@ JupyterFormatter,b8b539d8-55b4-4e60-a505-d7876c054e58
 JupyterParameters,2f2169dc-6776-11e9-1952-6179d4a35fe3
 JupyterPlutoConverter,1eb89384-759d-4e70-b7ef-f01bc3213651
 Jusdl,5fb878b0-68d2-11e9-223c-0f99f93215f8
+JustRelax,34418575-392d-4e26-8c6d-96b0910afa06
 JustSayIt,d7252348-293e-4f11-8d42-c8418dda4315
 Justly,3ed2f0d3-1e15-46aa-b21a-890b713d7b5d
 Jute,82bedeac-9837-5b62-883a-b5b3b7c811c5
@@ -4848,6 +4852,7 @@ Logomaker,3e22dfff-eee4-477b-ac6a-6f7f49e5ccf0
 LokiLogger,51d429d1-9683-4c89-86d7-889f440454ef
 LombScargle,fc60dff9-86e7-5f2f-a8a0-edeadbb75bd9
 LongDatasetSort,3293fb92-4d5f-4840-a675-6a8c3e839d01
+LongMemory,f5f8e4a8-cb56-40ea-a13e-090cc212d358
 LongestPaths,3a25c17e-307c-411a-a047-890a9a5fbb4d
 LongwaveModePropagator,38c6559a-e0a7-48c6-827d-3f02e2d19cec
 LookingGlass,1fcbbee2-b350-4a01-aad8-439064dba09e
@@ -5109,6 +5114,7 @@ MakieCore,20f20a25-4f0e-4fdf-b5d1-57303727442b
 MakieDraw,8315f7d3-d5d2-4d16-bebe-3aa4ef51e4f8
 MakieGallery,dbd62bd0-c9f5-5087-a2e1-f5c4bb0cec90
 MakieLayout,5a521ce4-ebb9-4793-b5b7-b334dfe8393c
+MakiePDF,e9a2b5d4-2139-42d9-ad42-ef6c084e8c4b
 MakiePublication,dde8697e-0d61-460d-88dd-856f66710dd1
 MakieRichText,9317242e-1230-4881-bcbc-8f9566308e0e
 MakieTeX,6d554a22-29e7-47bd-aee5-0c5f06619414
@@ -6537,6 +6543,7 @@ Phylopic,c889285c-44aa-4473-b1e1-56f5d4e3ccf5
 PhysOcean,3725be50-bbbd-5592-92c3-2f0e82159c3e
 PhysicalCommunications,afadef72-ae1a-11e9-3795-e55b3621c13e
 PhysicalConstants,5ad8b20f-a522-5ce9-bfc9-ddf1d5bda6ab
+PhysicalFDM,4fd04e27-7767-4ec9-b70f-09a3b509a447
 PhysicalMeshes,97d9904f-034f-4fb7-aeaa-03a173434233
 PhysicalOceanography,e1a20e90-c40e-46c0-93e3-c2da05da97e3
 PhysicalParticles,78724250-4eb2-11e9-0f34-13a7aab864c5
@@ -9321,6 +9328,7 @@ UnitParser,4f5ed358-3ce2-420f-a24d-a4403009d11e
 UnitRangesSortedSets,72c04766-89e7-4306-a268-94416c2640a0
 UnitSystems,3a241a3c-2137-41aa-af5e-1388e404ca09
 UnitTestDesign,239896fa-e45a-40e8-9993-3c434b0bc450
+UnitTypes,b0895f2b-ad30-48b9-9e38-efbd1231cd91
 Unitary,75ebfc8e-976a-11e9-26c7-f5346d660b1d
 Unitful,1986cc42-f94f-5a68-af5c-568840ba703d
 UnitfulAngles,6fb2a4bd-7999-5318-a3b2-8ad61056cd98
