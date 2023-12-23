@@ -405,6 +405,7 @@ AstroLib,c7932e45-9af1-51e7-9da9-f004cd3a462b
 AstroNbodySim,034523a5-eae8-49f5-9052-0ea364535333
 AstroPlot,00b67d96-df8a-4e04-ab4d-0170e12eeaec
 AstroRepresentations,403ab190-7cad-4c95-848f-e576570a949d
+AstroSimBase,c6a34d98-f626-4d8d-b450-a3f124eaada6
 AstroTime,c61b5328-d09d-5e37-a9a8-0eb41c39009c
 AstrodynamicalCalculations,c0cf9fb7-f496-4999-a425-c50785d1b88b
 AstrodynamicalModels,4282b555-f590-4262-b575-3e516e1493a7
@@ -2020,6 +2021,7 @@ Dhall,f7fc0f56-fd22-44bd-b234-bafb44a5fc23
 DiBitVectors,1d781980-c74a-44d0-9ec2-b658ff5df7eb
 DiagnosisClassification,07aaf720-95f5-4794-b3fe-c98bfa9054ef
 Diagonalizations,9cd687f3-b62d-43f3-8fd3-ffcd9e581047
+DiagrammaticEquations,6f00c28b-6bed-4403-80fa-30e0dc12f317
 Diamond_jll,cf5bb7c9-ab56-52de-8deb-a2cf8e1fd3a3
 Diana,070d9d8b-17a7-5814-83fa-42438ba5c6e0
 Dianli,d08873cf-a47e-4b69-9395-6fab01a89815
@@ -3790,6 +3792,7 @@ HuggingFaceApi,3cc741c3-0c9d-4fbe-84fa-cdec264173de
 HuggingFaceDatasets,d94b9a45-fdf5-4270-b024-5cbb9ef7117d
 HuggingFaceHub,d0076355-e2c0-48e6-a044-05906e51b7fc
 Huginn,9cb796e9-d0ea-421b-b37d-eb97bc1add55
+Hugo_jll,c8420254-0ddf-5525-a2d3-3ad9242def7d
 HumanReadableSExpressions,dfa09964-7899-4f24-b5ee-10dc563fda7c
 Humanize,7ec9b9c5-1998-51e1-b7fc-fc3590c18259
 Hungarian,e91730f6-4275-51fb-a7a0-7064cfbd3b39
@@ -5138,6 +5141,7 @@ ManualMemory,d125e4d3-2237-4719-b19c-fa641b8a4667
 ManualNLPModels,30dfa513-9b2f-4fb3-9796-781eabac1617
 ManuscriptOrthography,c7d01213-112e-44c9-bed3-ac95fd3728c7
 ManyBody,859def05-0fb7-4ff0-8e39-3bde5e09c2f7
+MapMaths,0922fada-4501-4821-9da5-5833bcb2b8d4
 MapTiles,fea52e5a-b371-463b-85f5-81770daa2737
 MappedArrays,dbb5928d-eab1-5f90-85c2-b9b0edb7c900
 MarSwitching,b2b8a7f1-da70-4e5f-beaa-e2774ec39c2f
