@@ -6060,6 +6060,7 @@ OhMyREPL,5fb14364-9ced-5910-84b2-373655c76a03
 OkFiles,b25a35d4-863d-483c-9fa1-95480bd075d2
 Olive,724ecaf6-c7a0-4c22-b37e-0bb7b4193da8
 OliveImages,d5c9dd0d-5678-4538-8542-c68b20ea893d
+OlivePython,723e633f-9a76-4329-b2d1-0431e20a66c6
 Omega,1af16e33-887a-59b3-8344-18f1671b3ade
 OmegaCore,84d23798-d00f-4e9b-a82e-be69778c030a
 OmicsProfiles,2c1f4335-9aeb-47fb-ad11-94d99429346c
@@ -9075,6 +9076,7 @@ ToolipsMemWrite,57c31d6b-7ec9-45e4-80ae-c449616bb020
 ToolipsRemote,706d13b3-298e-4297-9e9a-14f4a49b71e5
 ToolipsSVG,8ae86ec9-919d-4ece-9a6d-09b7d28dae11
 ToolipsSession,2fe55384-55bc-4df3-9d59-c817d405cd05
+ToolipsUDP,c24f5779-9d3b-4059-90d7-a34104ea6889
 TopOpt,53a1e1a5-51bb-58a9-8a02-02056cc81109
 TopOptMakie,e9c7d871-bed6-4650-ae23-a24e464b8b55
 TopOptProblems,27704a7e-a4df-40bc-951d-d074625df1c8
