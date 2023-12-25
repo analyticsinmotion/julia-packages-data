@@ -3078,6 +3078,7 @@ FwiFlow,a6a960b4-e246-4968-83bc-819d1955448a
 FymEnvs,d6fd7ba0-2ca9-4676-ba23-5bed9e863cfb
 GADM,a8dd9ffe-31dc-4cf5-a379-ea69100a8233
 GAFramework,91ca9103-c91c-5507-a6ff-05d8648e996f
+GALAHAD_jll,1621ace8-c1f0-5e32-a05d-ca786afa56c2
 GAMS,1ca51c6a-1b4d-4546-9ae1-53e0a243ab12
 GANAK_jll,fb55a5e3-47f6-5155-863f-85a2a13cd9d0
 GAP,c863536a-3901-11e9-33e7-d5cd0df7b904
@@ -3525,6 +3526,7 @@ GraphsMatching,c3af3a8c-b79e-4b01-bf44-c718d7e0e0d6
 GraphvizDotLang,6039e64d-d8b8-4c93-8e43-7efd2f757352
 Graphviz_jll,3c863552-8265-54e4-a6dc-903eb78fde85
 Grassmann,4df31cd9-4c27-5bea-88d0-e6a7146666d8
+GraviPet,5928621a-8be5-4e72-aa40-6d276f04f5c4
 GrayCode,3c6b6a22-b11f-44c2-accc-f87d49953a21
 GrayCodeIterator,3799e836-959c-4c62-a3fe-d89251bd6289
 GrayCoding,189a535d-5fc2-4299-8577-09928eef1b75
@@ -5783,6 +5785,7 @@ NavAbilitySDK,f3e6a059-199c-4ada-8143-fcefb97e6165
 Navigation,cc87a3b2-3706-4f35-b5b4-b2c85061916d
 Nbdev,d6ab3a89-b2a3-4279-9123-91d1be4d1a9a
 NbodyGradient,69f646f0-5709-4f35-9e52-1656edff0883
+Ncurses,247b9857-0442-4f1c-b9a0-de109b4a5af1
 Ncurses_jll,68e3532b-a499-55ff-9963-d1c0c0748b3a
 NeRCA,89b7c20c-a96a-11e9-35df-35fba0891eb2
 NeXLCore,93a0284f-3680-435e-8d39-dd6e52a1dbc8
@@ -7467,6 +7470,7 @@ RemoteSensingToolbox,c88070b3-ddf6-46c7-b699-196056389566
 RemoveLFS,a262596c-dd27-4d54-b019-3619024addbd
 RenderJay,54f35ada-98a6-4c15-bdf4-2485f34720f9
 RenoiseOSC,7e67a06f-bc16-486c-bec5-3b6767787fd6
+RepeatingDecimalNotations,fbb887af-2519-40af-8dc5-25186fd85022
 ReplGPT,8ef5fce9-1516-4e06-b171-18cb54ddb04b
 ReplMaker,b873ce64-0db9-51f5-a568-4457d8e49576
 Replay,dd78c5bf-19c4-4e9c-96ce-c3ec745c7812
@@ -8119,6 +8123,7 @@ SimpleTweaks,379a6b09-926d-464b-b907-221504e1dab7
 SimpleTypePrint,01919df6-f63c-417e-aa23-898e227d26ec
 SimpleUnPack,ce78b400-467f-4804-87d8-8f486da07d0a
 SimpleUnderscores,6d1cdbda-8746-447f-946f-1c9ac97fcb50
+SimpleValidations,5ead8e6a-226e-4abd-9fac-4ba193e998ab
 SimpleValueGraphs,b43c691f-cac2-5415-8122-396fe16a49fc
 SimpleWebsockets,129f17fe-97ed-471b-8d4c-fbfa5a103ea8
 SimpleWeightedGraphs,47aef6b3-ad0c-573a-a1e2-d07658019622
@@ -8613,6 +8618,7 @@ StructuralDynamicsODESolvers,5837384c-0389-41f0-a8dd-204a40e5dede
 StructuralEquationModels,383ca8c5-e4ff-4104-b0a9-f7b279deed53
 StructuralIdentifiability,220ca800-aa68-49bb-acd8-6037fa93a544
 StructuralInheritance,eb3e9d2b-04dc-54b3-9584-49775b812a39
+StructureFunctions,e93fee26-4d5e-49c1-899d-490508cfd19b
 StructuredArrays,2e8cd123-6858-488d-b42d-068777248635
 StructuredGrids,3d2d666f-9104-4379-abe9-d44f4b99a429
 StructuredLight,13204c95-a6e5-4c09-8c7b-ee09b09e0944
