@@ -5143,6 +5143,7 @@ ManualMemory,d125e4d3-2237-4719-b19c-fa641b8a4667
 ManualNLPModels,30dfa513-9b2f-4fb3-9796-781eabac1617
 ManuscriptOrthography,c7d01213-112e-44c9-bed3-ac95fd3728c7
 ManyBody,859def05-0fb7-4ff0-8e39-3bde5e09c2f7
+MapMakie,fe52baaf-6d3a-4a5f-a57b-73f45372fb58
 MapMaths,0922fada-4501-4821-9da5-5833bcb2b8d4
 MapTiles,fea52e5a-b371-463b-85f5-81770daa2737
 MappedArrays,dbb5928d-eab1-5f90-85c2-b9b0edb7c900
@@ -5847,6 +5848,7 @@ NeuralFieldEq,d4f2cf9b-1959-46fe-97e6-985c98850872
 NeuralGraphPDE,dc0c328b-2f26-4c4e-a741-3d78bb01adf9
 NeuralGraphicsGL,263f7e6d-e369-49af-a86e-c85638573b76
 NeuralNetDiffEq,8faf48c0-8b73-11e9-0e63-2155955bfa4d
+NeuralNetworkReachability,5de1e908-2f08-45bf-a571-ac88a54f7e7f
 NeuralOperators,ea5c82af-86e5-48da-8ee1-382d6ad7af4b
 NeuralPDE,315f7962-48a3-4962-8226-d0f33b1235f0
 NeuralPDELogging,7c138fc3-9327-4ab8-b9a3-c864f3475625
@@ -6312,6 +6314,7 @@ POMDPModels,355abbd5-f08e-5560-ac9e-8b5f2592a0ca
 POMDPPolicies,182e52fb-cfd0-5e46-8c26-fd0667c990f4
 POMDPSimulators,e0d0a172-29c6-5d4e-96d0-f262df5d01fd
 POMDPSolve,a575d7f4-a5df-53f5-8ba4-9d691c1ba8ff
+POMDPSolve_jll,7dc2201c-deb4-56f8-b3a0-2ab29a2c732a
 POMDPStressTesting,6fc570d8-62cd-4d35-b113-bbf3c1b8276a
 POMDPTesting,92e6a534-49c2-5324-9027-86e3c861ab81
 POMDPToolbox,0729bffe-8e6b-52fa-a3fa-893719b744f4
@@ -9454,6 +9457,7 @@ VectorInterface,409d34a3-91d5-4945-b6ec-7529ddf182d8
 VectorSphericalHarmonics,4b2bd704-7189-418b-a6ce-5ef15384b069
 VectorSphericalWaves,bf4a7d2c-6958-4c00-8946-baf74e22a0dc
 VectorizationBase,3d5dd08c-fd9d-11e8-17fa-ed2836048c2f
+VectorizationTransformations,80703ced-6a7a-43a7-9240-bd692d5c00f6
 VectorizedKmers,2ef45bd6-4c2b-43d8-88b3-40597287359a
 VectorizedRNG,33b4df10-0173-11e9-2a0c-851a7edac40e
 VectorizedReduction,4ffe575c-65e5-43f4-bc05-e0b500dc3d2c
