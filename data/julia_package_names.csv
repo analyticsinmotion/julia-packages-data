@@ -149,6 +149,7 @@ AdaptiveDistanceFields,a1957575-6125-5dba-8f92-417d2d1f4a46
 AdaptiveFilters,c4f366c8-f60d-49ea-b3e5-386989159d04
 AdaptiveKDTrees,68d1b5e8-2215-47d8-a76e-d1727e222b22
 AdaptiveMCMC,717c3277-546c-407d-8270-09a39a0919a0
+AdaptiveRegularization,79adfba0-1eab-50d9-8528-0589417a2bfe
 AdaptiveRejectionSampling,c75e803d-635f-53bd-ab7d-544e482d8c75
 AdaptiveResonance,3d72adc0-63d3-4141-bf9b-84450dd0395b
 AdaptiveSparseGrids,676d8d29-539e-4f06-b848-7dd647dd5291
@@ -8293,6 +8294,7 @@ Soup3_jll,fcd1aa73-243d-5665-acf3-2a5a4322c7a8
 SourceCodeMcCormick,a7283dc5-4ecf-47fb-a95b-1412723fc960
 SourceWalk,2987fe4f-acca-4bd1-87ee-98b3d562f1a1
 SpaceIndices,5a540a4e-639f-452a-b107-23ea09ed4d36
+SpaceInvaders,27459e48-f83e-40a1-9b04-5e43823e0701
 SpaceLiDAR,29bf0bfc-420f-4fa5-b441-811fd9e6e11d
 SpaceTimeFields,0af78db0-3b7c-4df8-88bd-686b7cc5245d
 Spacey,6fa23216-6d9f-473e-ad34-00be7be2628b
