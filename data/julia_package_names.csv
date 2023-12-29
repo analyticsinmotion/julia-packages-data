@@ -2184,6 +2184,7 @@ Divergences,7f07e4c8-6df2-5971-ad44-bf349b9adcfd
 Diversity,d3d5718d-52de-57ab-b67a-eca7fd6175a4
 DobotMagician,eb17b914-a2e5-45e7-813f-e6fb2969af31
 DocExtensions,cbdad009-89f1-4e05-85a0-06b07b50707d
+DocInventories,43dc2714-ed3b-44b5-b226-857eda1aa7de
 DocOpt,968ba79b-81e4-546f-ab3a-2eecfa62a9db
 DocSeeker,33d173f1-3be9-53c5-a697-8225b67db89c
 DocStringExtensions,ffbed154-4ef7-542d-bbb7-c09d3a79fcae
@@ -8659,6 +8660,7 @@ SuiteSparseMatrixCollection,ac199af8-68bc-55b8-82c4-7abd6f96ed98
 SuiteSparse_GPU_jll,d273dfef-62f2-5f88-806b-f32b81b662f1
 SuiteSparse_LBT_jll,8a7bcfce-81ee-5a07-a07c-c8520ac69669
 SuiteSparse_jll,bea87d4a-7f5b-5778-9afe-8cc45184846c
+SumOfExpVPMR,2c69873a-e0bb-44e1-90b4-d15ac3b7e936
 SumOfExponentials,577c3ae3-e2e9-4c4d-8517-88b63258dae5
 SumOfSquares,4b9e565b-77fc-50a5-a571-1244f986bda1
 SumProductNetworks,5f6e642e-680c-5a9c-a175-7c23ed4da89e
