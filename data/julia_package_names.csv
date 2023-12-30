@@ -2111,6 +2111,7 @@ DimensionfulAngles,2d4b8d7a-02d9-40f9-9abe-9c695b77de0d
 Dimensionless,a24885ee-f44e-4313-a031-cb477fdea68a
 DiracNotation,e655511c-e992-5001-b8e2-2048e6aa15e9
 DirectConvolution,60a1edcd-6e1b-57a1-8cb7-ec83bf7a2d9a
+DirectDedispersion,a2b09c40-4565-4331-b8db-e5f4adc7e768
 DirectGaussianSimulation,b9828eed-09bc-50cb-b95c-f80757bd8d62
 DirectQhull,c3f9d41a-afcb-471e-bc58-0b8d83bd86f4
 DirectQhullHelper_jll,af82f447-cd1e-5518-b874-3ab508da728e
@@ -6360,6 +6361,7 @@ PackageCompatUI,65465c31-362d-417a-a2f0-7fa38ae507b9
 PackageCompiler,9b87118b-4619-50d2-8e1e-99f35a4d4d9d
 PackageExtensionCompat,65ce6f38-6b18-4e1d-a461-8949797d7930
 PackageStates,412cc100-f440-45a8-9ec7-153ed5111422
+PackedIntegers,7c0bfd36-8adf-4958-a1b0-362003732c56
 PackedReadWrite,5d6e2f64-5c87-46b6-9ff4-cf810e78676d
 PackedVectorsOfVectors,7713531c-48ef-4bdd-9821-9ff7a8736089
 Packing,19eb6ba3-879d-56ad-ad62-d5c202156566
@@ -6822,6 +6824,7 @@ PowerDynamics,cc46b21f-1b17-51c2-b642-af74c3d3a8be
 PowerFlowData,dd99e9e3-7471-40fc-b48d-a10501125371
 PowerFlows,94fada2c-fd9a-4e89-8d82-81405f5cb4f6
 PowerGraphics,5f7eddb3-86b1-49e8-a95a-ddc0f45eea41
+PowerLawNoise,9abb9eec-80c7-4a18-accd-d591357fead6
 PowerModels,c36e90e8-916a-50a6-bd94-075b64ef4655
 PowerModelsACDC,ff45984e-d068-5f4c-9e32-c4133509d236
 PowerModelsADA,bf5a6c5f-0285-47d6-bb57-79927775d05d
@@ -10101,6 +10104,7 @@ libnode_jll,76d26698-d9ba-5ca1-ae24-4ac9393d02a0
 libopenjpegextra_jll,45948f9d-8d54-5094-b7bd-7e0ca68150a5
 libosmium_jll,7f0a2ee1-9b43-5740-ae82-b54233cf7071
 libpcap_jll,f78539f5-9ba6-5ded-ae79-6d41194c59b7
+libpicosat_jll,6b231c3b-13f8-5ced-86ae-8860c7f75d86
 libplist_jll,7bef5416-8376-5e75-ab4d-144910ca2ef4
 libpng_jll,b53b4c65-9356-5827-b1ea-8c7a1a84506f
 libpolars_jll,155e46ed-8d3e-59a0-8e1f-b48074a428ad
