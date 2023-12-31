@@ -3222,6 +3222,7 @@ GalacticNOMAD,6c1b17f4-5d83-47e4-91dc-4b94a71b6df7
 GalacticOptim,a75be94c-b780-496d-a8a9-0878b188d577
 GalacticOptimJL,9d3c5eb1-403b-401b-8c0f-c11105342e6b
 GalacticOptimisers,86b7a833-eb4b-49e2-87ed-89357ad7afa2
+GalacticPotentials,761e15e1-915f-4e6a-be22-a19e6141b375
 GalaxyBrain,25ddbe4d-0058-4ca6-a349-d40aaa747e42
 GaloisFields,8d0d7f98-d412-5cd4-8397-071c807280aa
 Gama_jll,e49eef03-c325-580d-b9c2-ffdb035fe7b1
@@ -6112,6 +6113,7 @@ OpenEXR,52e1d378-f018-4a11-a4be-720524705ac7
 OpenEXR_jll,18a262bb-aa17-5467-a713-aee519bc75cb
 OpenEphysLoader,98c9b6dd-1b90-5d67-90ca-be6a773cd6f7
 OpenFAST_jll,a5beeac0-58b9-51ef-9177-6a87f706d2c0
+OpenFHE_jll,a2687184-f17b-54bc-b2bb-b849352af807
 OpenFOAM_jll,89340185-c6b7-517e-a5e0-0a450377a6e4
 OpenGLMathematics_jll,cc7be9be-d298-5888-8f50-b85d5f9d6d73
 OpenIDConnect,195a77af-17c0-520f-ac58-3336c7ea8576
@@ -8883,6 +8885,7 @@ TempestSDR,a2deda47-164f-4e4d-810f-425bbd57e6e7
 Tempo,c33777b2-e695-4fae-9135-aeae8855dd81
 Temporal,a110ec8f-48c8-5d59-8f7e-f91bc4cc0c3d
 TemporalGPs,e155a3c4-0841-43e1-8b83-a0e4f03cc18f
+TenNetLib,1ce00845-9e1b-4798-bd63-033d15ad4ca9
 TenPuzzle,2b1cd6f4-158b-5933-849b-48df756daf9e
 TeneT,260a78e0-cbf2-49ba-8157-48058c700f32
 TensArrays,70eefb7d-4b42-471c-acf6-aaa17e297c50
