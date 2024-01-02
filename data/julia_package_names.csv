@@ -891,6 +891,7 @@ BoxCoxTrans,4c24c29e-1bf7-59e2-a6c7-e500a6482ce4
 BoxLeastSquares,6c353534-c22b-44cc-9076-7b904de9fadc
 BoxSymmetries,c15e2422-6468-4519-b170-1e308ff69150
 BoxesWorld,3a8eabaa-ff0c-46c8-af7c-f38dcbb67fff
+BplusCore,1fb136ff-715c-473e-9ae1-0caef0ff09b1
 BracedErrors,22c333fb-6c73-5509-a736-78cf55b615ef
 BraidChains,2f0bda38-0aac-4c24-8082-32a9a5324934
 BraidGroup,88710b8a-735b-4c46-a451-f37baff89cb3
@@ -4371,6 +4372,7 @@ Keldysh,50f2bc7e-5fd7-11e9-13c7-85fb88b4f34f
 KeldyshED,675b6b9c-7c2f-11e9-3bf3-dfd4d61640f7
 Kelpie,1b112299-d6bc-44e2-912a-478f25731460
 KelvinletsImage,c268e415-724e-5440-8745-890f0ae6d2bf
+KeplerGL,389c4311-7670-4ca7-a1b4-f34bb8a2527a
 KeplerTools,200436fd-7f69-44ff-b485-688a1ddb115b
 Kerberos_krb5_jll,b39eb1a6-c29a-53d7-8c32-632cd16f18da
 KernelAbstractions,63c18a36-062a-441e-b654-da1e3ab1ce7c
@@ -10209,6 +10211,7 @@ open62541_jll,de311183-6042-582f-9ed9-05a52085bec4
 openPMD,e4c73209-6c8c-4213-807b-38d671e094ab
 openPMD_api_jll,0cbd5639-4ed4-5caa-9af9-db1a1b49a12d
 openbabel_jll,deeba441-a6a4-5e65-99ae-21494d2aa7fd
+openfhe_julia_jll,e5e97983-1b8c-50fe-92b7-0e05c8c202e2
 opusfile_jll,4fb77979-f048-53ce-ae57-a45249826a33
 osmium_jll,4698e515-9779-5814-ac19-c1da39f829b4
 oxigraph_server_jll,ca7c0f55-ad95-5972-a3e2-8e5b4e3bed80
