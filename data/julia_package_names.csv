@@ -764,6 +764,7 @@ BioStockholm,eeb925a3-6f9d-43e6-829e-e0ea03b76ecf
 BioStructures,de9282ab-8554-53be-b2d6-f6c222edabfc
 BioSymbols,3c28c6f8-a34d-59c4-9654-267d177fcfa9
 BioTools,fa51a905-6db9-5d43-b62f-5461347a870a
+BioVossEncoder,e7894126-fa72-4101-935a-4d6cb73e7565
 BiobakeryUtils,fa5322f5-bd84-5069-834a-abf3230fb8f8
 BiochemNetABC,eb87d800-f8b7-11ed-3652-a7ab94e0ce49
 BiodiversityObservationNetworks,a5b868d3-191d-4bba-a38a-ad28190da010
@@ -1907,6 +1908,7 @@ DataInterpolations,82cc6244-b520-54b8-b5a6-8a565e85f1d0
 DataKnots,f3f2b2ad-91c8-5588-b964-d77e2d3bb090
 DataLoaders,2e981812-ef13-4a9c-bfa0-ab13047b12a9
 DataManipulation,38052440-ad76-4236-8414-61389b2c5143
+DataMigrations,0c4ad18d-0c49-4bc2-90d5-5bca8f00d6ae
 DataPipeline,9ced6f0a-eb77-43a8-bbd1-bbf3031b0d12
 DataPipes,02685ad9-2d12-40c3-9f73-c6aeda6a7ff5
 DataRegistryUtils,1a5903ec-9658-4297-bb6d-314c615f2e02
@@ -6807,6 +6809,7 @@ PosDefManifoldML,a07f4532-e2c9-11e9-2ea2-6d98fe4a1f21
 PoseComposition,0a8ab332-79e8-43e0-a313-949ce1168071
 PositionVelocityTime,52ec0b5e-ee36-11ea-211c-3d844fc5682d
 PositiveFactorizations,85a6dd25-e78a-55b7-8502-1745935b8125
+PosixChannels,0f0bcd13-3e12-4a59-be10-81f16103b667
 PossibilisticArithmetic,31822d60-0862-422f-9a3d-0eb9781332f3
 PostNewtonian,377afc40-5642-4616-8613-b7ebca523866
 PosteriorDB,1c4bc282-d2f5-44f9-b6d1-8c4424a23ad4
@@ -7284,6 +7287,7 @@ RadiationDetectorSignals,bf2c0563-65cf-5db2-a620-ceb7de82658c
 RadiationSpectra,4f207c7e-01da-51d7-a1a0-c8c06dd1d883
 RadiativeTransfer,ace8185b-fa20-42f5-912d-1e850dbe6a09
 RadiiPolynomial,f2081a94-c849-46b6-8dc9-07bb90ed72a9
+RadioPropagation,b7825cb4-7108-404a-9145-f310ea34db32
 RadonKA,86de8297-835b-47df-b249-c04e8db91db5
 RainFARM,e9a4e08f-a0a3-5224-a821-6d0231c12d6b
 Ramps,620c3add-4af5-46cb-82b5-af0dc8736fda
@@ -7708,6 +7712,7 @@ SHTns,5dc4ea12-f621-4038-8458-a22eae100703
 SHTns_jll,daf09cc5-9ab3-509e-9618-0b89086eb825
 SIAMFANLEquations,084e46ad-d928-497d-ad5e-07fa361a48c4
 SIAN,cf7bdac0-b945-4905-b5ad-bc3f1a757483
+SIGPROCFiles,5f30fb9f-668d-42ca-b792-67747b8fdcd1
 SIIP2Marmot,9dbaeea7-558f-4e29-ba60-30a5dee37710
 SIIPExamples,2c79006f-6450-48c4-b124-fbadab4f299d
 SIMD,fdea26ae-647d-5447-a871-4b548cad5224
@@ -9666,6 +9671,7 @@ Word2Vec,c64b6f0f-98cd-51d1-af78-58ae84944834
 Word2Vec_jll,9fbe4022-c126-5389-b4b2-756cc9f654d0
 WordCloud,6385f0a0-cb03-45b6-9089-4e0acc74b26b
 WordErrorRate,150a09a7-b056-4ea4-b4c3-781faca6e549
+WordFrequencyDistributions,e54f717d-7b48-4a5e-b2d3-ea27d5093ee4
 WordLists,a1d29d3a-d9e2-490e-8d90-47673445ca57
 WordNet,a945a9ba-879e-550e-aa45-2a4d52798e91
 WordTokenizers,796a5d58-b03d-544a-977e-18100b691f6e
