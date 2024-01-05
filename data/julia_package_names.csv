@@ -33,6 +33,7 @@ AMCL_jll,3d240a5b-71e6-5479-a1fd-1de0b877801d
 AMD,14f7f29c-3bd6-536c-9a0b-7339e30b5a3e
 AMDGPU,21141c5a-9bdb-4563-92ae-f87d6854732e
 AMDGPUnative,12f4821f-d7ee-5ba6-b76b-566925c5fcc5
+AMGCL_C_jll,e3ba5bb7-5aef-5326-9a13-9617383dcacb
 AMGX,c963dde9-0319-47f5-bf0c-b07d3c80ffa6
 AMGX_jll,656d14af-56e4-5275-8e68-4e861d7b5043
 AMLPipelineBase,e3c3008a-8869-4d53-9f34-c96f99c8a2b6
@@ -892,6 +893,7 @@ BoxCoxTrans,4c24c29e-1bf7-59e2-a6c7-e500a6482ce4
 BoxLeastSquares,6c353534-c22b-44cc-9076-7b904de9fadc
 BoxSymmetries,c15e2422-6468-4519-b170-1e308ff69150
 BoxesWorld,3a8eabaa-ff0c-46c8-af7c-f38dcbb67fff
+BplusApp,6498524c-785b-4e26-b825-b7be109d6de7
 BplusCore,1fb136ff-715c-473e-9ae1-0caef0ff09b1
 BracedErrors,22c333fb-6c73-5509-a736-78cf55b615ef
 BraidChains,2f0bda38-0aac-4c24-8082-32a9a5324934
@@ -5573,6 +5575,7 @@ MotifPvalue,639d9495-0bf7-4cd9-80c6-a19f5ec6f406
 MotifRecognition,2a4d4a8f-c57f-4bed-b307-c16a2225f1ea
 MotifSequenceGenerator,7d228ccb-0fc9-53c8-a429-8c9b5b572bc3
 MotionCaptureJointCalibration,d0551c8d-3c54-58b6-a75a-e266c30cc699
+MotivationalQuotes,724a119f-db80-47b0-bd89-50af95d0d526
 MovingBoundaryProblems1D,a903a81a-d576-4eaa-89dc-ab2b94f0d51c
 Mozi,938b0b66-b18d-59c3-b436-87bb841ccf42
 MoziCSys,6caa8793-38a2-477f-bdca-0f7426d014a4
@@ -6119,6 +6122,7 @@ OpenEXR,52e1d378-f018-4a11-a4be-720524705ac7
 OpenEXR_jll,18a262bb-aa17-5467-a713-aee519bc75cb
 OpenEphysLoader,98c9b6dd-1b90-5d67-90ca-be6a773cd6f7
 OpenFAST_jll,a5beeac0-58b9-51ef-9177-6a87f706d2c0
+OpenFHE,77ce9b8e-ecf5-45d1-bd8a-d31f384f2f95
 OpenFHE_jll,a2687184-f17b-54bc-b2bb-b849352af807
 OpenFOAM_jll,89340185-c6b7-517e-a5e0-0a450377a6e4
 OpenGLMathematics_jll,cc7be9be-d298-5888-8f50-b85d5f9d6d73
