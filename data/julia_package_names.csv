@@ -3899,6 +3899,7 @@ IVFADC,c28a5fd4-166f-4f83-b04d-195ccdb4ae51
 IVerilog_jll,985f9f6c-a11c-5717-b596-40558d7e7751
 IbanGen,fc00964e-0523-47c6-8ffe-685369a5ce95
 IbnrClaims,9ac2770f-f924-4de4-828c-1183aeafeae2
+IceCream,029bc01f-a38c-4df2-9931-c297cb6cdd02
 IceCubePublicDataReader,92d88b90-fb16-475b-94b1-bf26618d6898
 IceFloeTracker,04643c7a-9ac6-48c5-822f-2704f9e70bd3
 Icestorm_jll,d066d2d9-0d34-5c4c-ae28-f0a7a1fd9f53
@@ -7493,6 +7494,7 @@ RemoteSensingToolbox,c88070b3-ddf6-46c7-b699-196056389566
 RemoveLFS,a262596c-dd27-4d54-b019-3619024addbd
 RenderJay,54f35ada-98a6-4c15-bdf4-2485f34720f9
 RenoiseOSC,7e67a06f-bc16-486c-bec5-3b6767787fd6
+ReparametrizableDistributions,7d03e222-df96-4b80-bcdc-d089be88b5f2
 RepeatingDecimalNotations,fbb887af-2519-40af-8dc5-25186fd85022
 ReplGPT,8ef5fce9-1516-4e06-b171-18cb54ddb04b
 ReplMaker,b873ce64-0db9-51f5-a568-4457d8e49576
@@ -7604,6 +7606,7 @@ RobustShortestPath,16f6c422-f222-508b-b0da-15025777bca7
 RockSample,de008ff0-c357-11e8-3329-7fe746fe836e
 Rocket,df971d30-c9d6-4b37-b8ff-e965b2cb3a40
 Rocketeer,5e8e706b-2fa9-4c18-afb5-213c5db89150
+RocksDB_jll,929051ad-fb88-5b66-b23d-0e6143a08ed8
 Roentgen,b0d14063-c48a-4081-83d5-5a5ab48cb495
 RoentgenPlots,12d18e13-cff8-4251-aa6b-8ee855ff1651
 RollingFunctions,b0e4dd01-7b14-53d8-9b45-175a3e362653
@@ -10147,6 +10150,7 @@ libsixel_jll,075b6546-f08a-558a-be8f-8157d0f608a5
 libsndfile_jll,5bf562c0-5a39-5b4f-b979-f64ac885830c
 libsodium_jll,a9144af2-ca23-56d9-984f-0d03f7b5ccf8
 libspatialite_jll,a4c9d1fc-8f32-52c2-b7e7-251980156b63
+libssh_jll,a8d4f100-aa25-5708-be18-96e0805c2c9d
 libsvm_jll,08558c22-525a-5d2a-acf6-0ac6658ffce4
 libtasn1_jll,3f48aabc-caa9-5088-9d68-3c6fc69eadfd
 libtirpc_jll,86ddda40-0562-5640-9cf4-1268408005c8
