@@ -841,6 +841,7 @@ BlockingMethod,d9bca9eb-1e72-4788-bb56-3426fa9acbbd
 BloomFilters,d3d7f49f-8593-5289-ba71-9c4f4848f489
 Bloqade,bd27d05e-4ce1-5e79-84dd-c5d7d508bbe1
 BloqadeCUDA,bd27d05e-4ce1-5e79-84dd-c5d7d508bbe3
+BloqadeDormandPrince,19133132-2f02-44a9-8d8c-5915d2e7e792
 BloqadeExpr,bd27d05e-4ce1-5e79-84dd-c5d7d508abe2
 BloqadeGates,9b473568-af80-491c-8f51-e251334462c1
 BloqadeKrylov,bd27d05e-4cd1-5e79-84dd-c5d7d508ade2
@@ -2713,6 +2714,7 @@ FaceDetection,00808967-75e2-4046-a522-2ca211e35506
 FacilityLocationProblems,3771e204-432d-45a9-9661-5d0025a53671
 FactorGraph,528f6532-2a0d-4856-bb42-8bcefd89a10f
 FactorLoadingMatrices,1366662e-918a-4969-8935-7dd8903d6446
+FactorRotations,be5e9834-f3d9-4b7e-b5ea-d062861d4ac2
 FactoredValueMCTS,c016a6d7-1193-47d7-896a-d9f14d6b4b26
 Faddeyeva985,4e51ce9a-7ecb-4b33-a20a-6d9e1a01b2b3
 FairPortfolio,e1e19928-8d36-4c46-ac11-218c50463393
@@ -4518,6 +4520,7 @@ LITS,86b0dc02-7903-11e9-325f-f195ca7e6c1a
 LKH,294deba0-74fa-42c9-af84-c3834b01fefc
 LLD_jll,d55e3150-da41-5e91-b323-ecfd1eec6109
 LLLplus,142c1900-a1c3-58ae-a66d-b187f9ca6423
+LLMTextAnalysis,a88142f3-a164-49e9-925a-9408902b6922
 LLSModels,39f5bc3e-5160-4bf8-ac48-504fd2534d24
 LLVM,929cbde3-209d-540e-8aea-75f648917ca0
 LLVMCGUtils,c5498d99-2f2d-4cb3-afa9-ddf6a5930ca7
@@ -7624,6 +7627,7 @@ Rocketeer,5e8e706b-2fa9-4c18-afb5-213c5db89150
 RocksDB_jll,929051ad-fb88-5b66-b23d-0e6143a08ed8
 Roentgen,b0d14063-c48a-4081-83d5-5a5ab48cb495
 RoentgenPlots,12d18e13-cff8-4251-aa6b-8ee855ff1651
+RollingDedispersion,de1a5888-936f-4c73-9525-49a60d2dc87e
 RollingFunctions,b0e4dd01-7b14-53d8-9b45-175a3e362653
 RollingTimeWindows,f505f7a3-54df-415c-985c-0663f6ab9b41
 RomanNumerals,37834d88-8936-577c-80c9-1066ecf66832
@@ -10006,6 +10010,7 @@ duf_jll,77fda4b3-100c-5a35-9709-1e47c79e10df
 eQuilibrator,9d196975-2c9b-462f-a3cc-8957d44b8c95
 eccodes_jll,b04048ba-5ccd-5610-b3f6-85129a548705
 elfshaker_jll,3654c272-9f13-50b0-a4d5-1f2e7e802f45
+elmerfem_jll,e3611c10-6a58-5a41-9d67-bb33baa44221
 ensmallen_jll,d1a6e830-de90-5fe4-8599-c1a9c9fe1834
 ephemeralpg_jll,1b42a6b1-a0b2-50eb-a0be-acc79e4b08a0
 eudev_jll,35ca27e7-8b34-5b7f-bca9-bdc33f59eb06
