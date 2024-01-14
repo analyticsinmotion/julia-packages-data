@@ -2356,6 +2356,7 @@ EarthSciData,a293c155-435f-439d-9c11-a083b6b47337
 EarthSciMLBase,e53f1632-a13c-4728-9402-0c66d48804b0
 EasyABM,2ab8e4d3-e1e9-4248-86a3-8419d2d242e9
 EasyConfig,acab07b0-f158-46d4-8913-50acef6d41fe
+EasyCurl,5dc68c43-2cae-45c1-9c9f-30d6e2b9e002
 EasyFFTs,08be435b-48e7-4090-a646-9e3615ae1968
 EasyFit,fde71243-0cda-4261-b7c7-4845bd106b21
 EasyJobs,66d786ec-6e9c-4d5d-a8f6-aa4f8d7350fb
@@ -6823,6 +6824,7 @@ Porcupine,3b53a3d7-3f34-4bba-8df2-4717a8b1e972
 PoreMatMod,2de0d7f0-0963-4438-8bc8-7e7ffe3dc69a
 PorousMaterials,68953c7c-a3c7-538e-83d3-73516288599e
 PortAudio,80ea8bcb-4634-5cb3-8ee8-a132660d1d2d
+PortMidi_jll,6b227df9-c220-5195-838c-e1464939a66f
 Porta,fb2f1d7b-1de9-45a3-b106-388808110f78
 PortfolioAnalytics,55d897a4-798b-418f-87f2-da98fa5ba518
 PortfolioOpt,d204b4b0-6ba1-497c-bfb5-71589c3b52ce
@@ -7206,6 +7208,7 @@ QuantumTomography,1d9c40fe-1d26-11ea-03f8-f5801c7a1696
 QuantumWalk,715ab00d-497d-5f5e-92b0-16e551a8d81b
 QuartetNetworkGoodnessFit,1382f7fc-2744-4d9d-8ec6-1e3efdec0746
 Quarto,d7167be5-f61b-4dc9-b75c-ab62374668c5
+QuartoNotebookRunner,4c0109c6-14e9-4c88-93f0-2b974d3468f4
 QuartzImageIO,dca85d43-d64c-5e67-8c65-017450d5d020
 QuasiArrays,c4ea9172-b204-11e9-377d-29865faadc5c
 QuasiCopula,c47b6ae2-b804-4668-9957-eb588c99ffbc
@@ -9460,6 +9463,7 @@ VCFTools,a620830f-fdd7-5ebc-8d26-3621ab35fbfe
 VDT_jll,474730fa-5ea9-5b8c-8629-63de62f23418
 VIDA,4096cdfb-f084-40a3-b02d-1a2a54920cb8
 VIGRA_jll,75c9d399-9f49-5d0c-80c8-ccece7b7b166
+VKcurve,3aa97455-9fe4-4946-8fa7-967d4b754676
 VLBIData,679fc9cc-3e84-11e9-251b-cbd013bd8115
 VLBIImagePriors,b1ba175b-8447-452c-b961-7db2d6f7a029
 VLBILikelihoods,90db92cd-0007-4c0a-8e51-dbf0782ce592
