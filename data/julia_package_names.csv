@@ -2603,6 +2603,7 @@ ExpressionTreeForge,93090adf-0e31-445f-8c8f-44d91f61d7ad
 Expronicon,6b7a57c9-7cc1-4fdf-b7f5-e857abae3636
 ExproniconLite,55351af7-c7e9-48d6-89ff-24e801d99491
 ExtXYZ,352459e4-ddd7-4360-8937-99dcb397b478
+ExtendableFEMBase,12fb9182-3d4c-4424-8fd1-727a0899810c
 ExtendableGrids,cfc395e8-590f-11e8-1f13-43a2532b2fa8
 ExtendableSparse,95c220a8-a1cf-11e9-0c77-dbfce5f500b3
 ExtendedDates,78f5a1cc-aa73-4dda-b6b2-4d6b1976988f
@@ -4456,6 +4457,7 @@ Knockout,bcebb21b-c2e3-54f8-a781-646b90f6d2cc
 KnuthBendix,c2604015-7b3d-4a30-8a26-9074551ec60a
 Kokkos_jll,c1216c3d-6bb3-5a2b-bbbf-529b35eba709
 KomaMRI,6a340f8b-2cdf-4c04-99be-4953d9b66d0a
+KomaMRIBase,d0bc0b20-b151-4d03-b2a4-6ca51751cb9c
 KomaMRICore,4baa4f4d-2ae9-40db-8331-a7d1080e3f4e
 KomaMRIPlots,76db0263-63f3-4d26-bb9a-5dba378db904
 Kombinator,c77a6b6f-abe2-4dd7-b2b3-8d5a1483deca
@@ -5567,6 +5569,7 @@ Mongoc,4fe8b98c-fc19-5c23-8ec2-168ff83495f2
 MongocUtils,e584fc4d-3f36-46f9-b493-fafa6061fac8
 MonkeyLang,2e3b8ffb-b112-4a86-975c-b56a8cdf8971
 MonolithicFEMVLFS,02a35734-3e3a-4c9f-8994-84c0fbc3ad2f
+MonotoneDecomposition,985e57c0-c0fb-4ac0-a7f6-0eae5cf96536
 MonotoneSplines,92812004-5f8d-4354-96af-0c8b7c0637d0
 MonotonicSplines,568f7cb4-8305-41bc-b90d-d32b39cc99d1
 MonteCarloIntegration,4886b29c-78c9-11e9-0a6e-41e1f4161f7b
@@ -8415,6 +8418,8 @@ SpeexDSP_jll,f2f9631b-9a4e-5b48-9975-88f638ec36a7
 SpelledOut,4728c690-e668-4265-bc0d-51a8c0f93067
 Spglib,f761d5c5-86db-4880-b97f-9680a7cccfb5
 SphereSurfaceHistogram,b3f7556e-2c1d-50f9-83b1-7c1b68b21cf8
+SphereUDE,d7416ba7-148a-4110-b27d-9087fcebab2d
+SpheriCart,5caf2b29-02d9-47a3-9434-5931c85ba645
 SphericalFourierBesselDecompositions,7c5eff59-6392-4db1-b2e3-7d0560cca202
 SphericalFunctions,af6d55de-b1f7-4743-b797-0829a72cf84e
 SphericalGeometry,b58e7a8d-b3e8-4a5d-bea9-e6440cab77fd
@@ -9052,6 +9057,7 @@ ThreadedSparseArrays,59d54670-b8ac-4d81-ab7a-bb56233e17ab
 ThreadedSparseCSR,39591389-4884-462a-89e7-9edfce40b6eb
 ThreadingUtilities,8290d209-cae3-49c0-8002-c8c24d57dab5
 ThreadsX,ac1d9e8a-700a-412c-b207-f0111f4b6c0d
+ThreeBodyDecays,e6563dab-9ca1-5843-bde3-2ccf38d63843
 ThreeBodyProblem,f5e9ba3c-56cf-4230-8a8f-3a70500a02a9
 ThreeBodyTB,2a26a249-28ed-4bc9-828d-d3ac47f0d73d
 ThreePhasePowerModels,8503087a-994b-5095-bd6e-f54267f2dd19
