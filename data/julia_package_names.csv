@@ -211,6 +211,7 @@ AlgRemez_jll,acb6dc63-88f0-54c7-a126-ccdc963b8b3f
 Algames,4a64a370-b39e-4988-9b44-fc3fb6d78c25
 AlgamesDriving,05a75892-fe32-4716-96a1-7eeaafed9006
 AlgebraOfGraphics,cbdf2221-f076-402e-a563-3d30da359d67
+AlgebraOfNNs,534c8b83-7bda-4b0b-8aeb-3cd4e0939877
 AlgebraPDF,e09e93a3-870c-4c75-9b71-3eefe58c6e5b
 AlgebraResultTypes,32e1273b-95f2-5990-a28e-8939b2e70f37
 AlgebraicAgents,f6eb0ae3-10fa-40e6-88dd-9006ba45093a
@@ -6827,6 +6828,7 @@ Porcupine,3b53a3d7-3f34-4bba-8df2-4717a8b1e972
 PoreMatMod,2de0d7f0-0963-4438-8bc8-7e7ffe3dc69a
 PorousMaterials,68953c7c-a3c7-538e-83d3-73516288599e
 PortAudio,80ea8bcb-4634-5cb3-8ee8-a132660d1d2d
+PortMidi,42b16160-194f-40b3-8419-7a13c10fa643
 PortMidi_jll,6b227df9-c220-5195-838c-e1464939a66f
 Porta,fb2f1d7b-1de9-45a3-b106-388808110f78
 PortfolioAnalytics,55d897a4-798b-418f-87f2-da98fa5ba518
@@ -10225,6 +10227,7 @@ mimalloc_jll,38cef826-3163-5c31-a333-3957420b3fb7
 minify_jll,7dd700f0-7fa2-5578-8ac1-d309908db794
 minimap2_jll,d341526d-637d-5003-8fc4-9c6812cd2b55
 minio_jll,ad83bbfc-c153-533a-bb97-700a7db721e0
+mlir_jl_tblgen_jll,3dcf74f3-6bc3-597e-9d13-043388c3118a
 mlpack,cf18a64e-e90e-11e8-37b7-fb5df6478bc0
 mlpack_jll,156a7db3-27ba-586e-a86b-f061da4f95ea
 mold_jll,0903f2b2-81ff-5be9-abf7-91be1d67eee8
