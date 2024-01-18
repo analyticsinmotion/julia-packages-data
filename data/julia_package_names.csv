@@ -189,6 +189,7 @@ AffineInvariantMCMC,a0f608ac-68d0-5108-ad9a-0cdca73324f3
 AffineMaps,2c83c9a8-abf5-4329-a0d7-deffaf474661
 AffyCelFiles,efc83544-1c47-49f8-8867-17a7f6cc0942
 Agents,46ada45e-f475-11e8-01d0-f70cc89e6671
+AgentsExampleZoo,88acaeb2-2f63-4ada-bca2-2825d9da22ed
 AgentsPlots,7820620d-95fb-4739-93b3-b0a14dd83f9a
 AgnosticBayesEnsemble,c45979d0-65bc-461f-b799-33f894c17e9f
 AhoCorasick,d3f0555b-2bad-4562-9b77-2c235c75f977
@@ -9734,6 +9735,7 @@ WorldVocoder,7277111d-0ca7-4af3-9cd2-5d6e94f85dba
 Wrangling,9e19721c-8a1a-4e7b-ae00-562464868f98
 WrappedMultiGraphs,2815cbbd-0d7d-431b-a8da-1940906b5714
 WrappedR,2cb1610a-c9de-4cc5-9cd8-c4853e5c0aaf
+WringTwistree,b97f57d3-c4d5-419f-b8d9-90964b0843a1
 WriteTFW,49d7a207-2b26-4c4c-b0e9-253fdb5aa2df
 WriteVTK,64499a7a-5c06-52f2-abe2-ccb03c286192
 Wynn,fbb19de7-1342-5f93-8193-71ff412e753d
