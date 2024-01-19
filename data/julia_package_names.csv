@@ -4,6 +4,7 @@ ABBAj,6b41afa3-2ed9-49a7-abc1-b2d458227d0d
 ABCDMatrixOptics,ccdfd77c-c9b6-493d-8c46-f34d2494ed29
 ABC_jll,73717f16-8662-5d85-9e79-a3c1fc1c8861
 ABCdeZ,208e7efd-7036-4c82-8b73-3e7ae71c2350
+ACAFact,2e0d8c30-fd72-45bd-a04c-a052d00f6fe4
 ACEbase,14bae519-eb20-449c-a949-9c58ed33163e
 ACME,ca8b7239-ccd3-5cce-807f-2072f3f0d108
 ACSets,227ef7b5-1206-438b-ac65-934d6da304b8
@@ -3849,6 +3850,7 @@ HyperVoronoiDelaunay,1a55de6a-d783-4007-8775-0d59a3e033cc
 HyperbolicCrossApprox,db4fe9aa-a353-4142-ac3f-608941c5a4fc
 HyperbolicPlane,0111da9b-5c18-507b-82d1-0701aba3485a
 HypercubeTransform,9ec9aee3-0fd3-44c2-8e61-a50acc66f3c8
+Hyperelastics,c20c605d-adbe-46e4-9db6-e2b04c3ba023
 HypergeoMat,45a664f0-7593-4733-b76c-60f36ef4c15f
 HypergeometricFunctions,34004b35-14d8-5ef3-9330-4cdb6864b03a
 Hyperopt,93e5fe13-2215-51db-baaf-2e9a34fb2712
@@ -4218,6 +4220,7 @@ JLFzf,1019f520-868f-41f5-a6de-eb00f4b6a39c
 JLLPrefixes,afc68a34-7891-4c5a-9da1-1c62935e7b0d
 JLLWrappers,692b3bcd-3c85-4b1f-b108-f13ce0eb3210
 JLSO,9da8a3cd-07a3-59c0-a743-3fdc52c30d11
+JMPReader,d9f7e686-cf87-4d12-8d7a-0e9b8c9fba29
 JMcDM,358108f5-d052-4d0a-8344-d5384e00c0e5
 JOLI,bb331ad6-a1cf-11e9-23da-9bcb53c69f6f
 JQuants,9ec6771f-e08b-47bc-92e5-dcad4d5f32bd
@@ -4461,6 +4464,7 @@ Kokkos_jll,c1216c3d-6bb3-5a2b-bbbf-529b35eba709
 KomaMRI,6a340f8b-2cdf-4c04-99be-4953d9b66d0a
 KomaMRIBase,d0bc0b20-b151-4d03-b2a4-6ca51751cb9c
 KomaMRICore,4baa4f4d-2ae9-40db-8331-a7d1080e3f4e
+KomaMRIFiles,fcf631a6-1c7e-4e88-9e64-b8888386d9dc
 KomaMRIPlots,76db0263-63f3-4d26-bb9a-5dba378db904
 Kombinator,c77a6b6f-abe2-4dd7-b2b3-8d5a1483deca
 KongYiji,3943505e-88e3-5b18-a3d9-e2be89fdab48
@@ -8409,6 +8413,7 @@ SpectralDistances,2b0dec9d-f767-4f95-9e73-7df56487de68
 SpectralEnvelope,ff710082-a9bc-57f3-81b5-980fc0acaaef
 SpectralGaussianSimulation,1f53f557-16c0-5f8f-980f-fb7167e19889
 SpectralIndices,df0093a1-273d-40bc-819a-796ec3476907
+SpectralInference,a959a40c-7f6b-448f-a4b7-059cce266d3c
 SpectralKit,5c252ae7-b5b6-46ab-a016-b0e3d78320b7
 SpectralResampling,01da207a-183e-480e-93ab-a94ea6491b8c
 SpectralStatistics,26aafa55-59f7-45ac-9841-9c476cd28090
