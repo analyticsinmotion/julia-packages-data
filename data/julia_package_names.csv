@@ -2433,6 +2433,7 @@ ElementSymbols,05abb99a-2616-4a0f-b7a8-7cbd3e8a9a5b
 Elemental,902c3f28-d1ec-5e7e-8399-a24c3845ee38
 Elemental_jll,c2e960f2-a21d-557e-aa36-859d46eed7e8
 ElementaryChemistry,95ad8c96-4a8b-47ff-b6a3-cf0853d8b4d4
+ElementaryPDESolutions,88a69b33-da0f-4502-8c8c-d680cf4d883b
 ElementarySymmetricFunctions,777c1f86-6c82-42ca-a30b-c579d49eb024
 Elfel,9ca883c9-bd92-40d2-857a-2c75d8956e5d
 Elfutils_jll,ab5a07f8-06af-567f-a878-e8bb879eba5a
@@ -6734,6 +6735,7 @@ PlutoDependencyExplorer,72656b73-756c-7461-726b-72656b6b696b
 PlutoDevMacros,a0499f29-c39b-4c5c-807c-88074221b949
 PlutoExtras,ed5d0301-4775-4676-b788-cf71e66ff8ed
 PlutoHooks,0ff47ea0-7a50-410d-8455-4348d5de0774
+PlutoImageCoordinatePicker,79686372-6169-7274-6170-6568746b6366
 PlutoLinks,0ff47ea0-7a50-410d-8455-4348d5de0420
 PlutoLiveExport,27cf6249-c7ba-466c-943c-2006590103b7
 PlutoMapPicker,474136ad-924f-47fa-9297-876420b5dc85
