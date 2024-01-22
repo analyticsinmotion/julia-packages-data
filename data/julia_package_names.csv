@@ -751,6 +751,7 @@ Bio3DView,99c8bb3a-9d13-5280-9740-b4880ed9c598
 BioAlignments,00701ae9-d1dc-5365-b64a-a3a3ebf5695e
 BioCCP,79e6b149-e254-49fe-a721-3c4960de1574
 BioCore,37cfa864-2cd6-5c12-ad9e-b6597d696c81
+BioDemultiplexer,39204792-bc26-423a-8bcf-54c03468b271
 BioEnergeticFoodWebs,9b49b652-2545-5b88-a3af-87b516beb26f
 BioFetch,f8217676-c24a-4825-a874-ba6ce2a4fe08
 BioGenerics,47718e42-2ac5-11e9-14af-e5595289c2ea
@@ -1684,6 +1685,7 @@ CoulombFunctions,a1073327-32f2-4398-bd61-1b686fd668f2
 CoulombIntegrals,42e5845a-f9f1-11e8-0afe-795ea56ed153
 Coulter,a3d351dc-6fd6-5e2a-8264-8c30d37eaa59
 CountDownLatches,621fb831-fdad-4fff-93ac-1af7b7ed19e3
+CountFlops,1db9610d-79e1-487a-8d40-77f3295c7593
 CountTimeSeries,f648fdee-df8a-4cb4-ac79-58ced742ae0a
 CountdownLetters,ab51929a-ac93-4d67-a0ea-9824f8544b9e
 CountdownNumbers,dc1670bf-010d-423c-baea-ccde1e2dde80
@@ -1908,6 +1910,7 @@ DataEnvelopmentAnalysis,a100299e-89d6-11e9-0fa0-2daf497e6a05
 DataFitting,2e2c70e5-d463-5cb0-9776-5d0c86956fe9
 DataFlow,a237f610-4214-5ca7-a9c6-385896804134
 DataFlowTasks,d1549cb6-e9f4-42f8-98cc-ffc8d067ff5b
+DataFrameIntervals,33b79e07-adbe-4034-b8be-6bacde625d75
 DataFrameMacros,75880514-38bc-4a95-a458-c2aea5a3a702
 DataFrameTools,ff0d0012-cacc-467c-a675-b36108f55689
 DataFrames,a93c6f00-e57d-5684-b7b6-d8193f3e46c0
@@ -3260,6 +3263,7 @@ GarishPrint,b0ab02a7-8576-43f7-aa76-eaa7c3897c54
 Garlic,154c3855-1f1e-46e8-b837-ca60023b1bfc
 GasChem,58070593-4751-4c87-a5d1-63807d11d76c
 GasChromatographySimulator,dd82b6e2-56ef-419d-b271-0be268cb65f5
+GasChromatographySystems,2a17fa6e-c440-4af9-acac-c1be9e3a006f
 GasDispersion,ac6af613-5479-4178-853e-9d66de417193
 GasModels,5e113713-6c35-5477-b766-e1109486666f
 GasPowerModels,1fcaf345-95e3-5b8b-91d6-2145eb844b9d
@@ -7050,6 +7054,7 @@ PyMBAR,ea233917-d838-44e9-aef6-29db41966de8
 PyMNE,6c5003b2-cbe8-491c-a0d1-70088e6a0fd6
 PyPlot,d330b81b-6aea-500a-939a-2ce795aea3ee
 PyPlotUtils,5384e752-6c47-47b3-86ac-9d091b110b31
+PyQDecoders,17f5de1a-9b79-4409-a58d-4d45812840f7
 PyQHA,5a1273f0-a906-4eb0-8178-7035f457d819
 PyRhodium,e525b322-f4d5-5e8a-9e4c-f31b6ef474ca
 PySA,46b73cfa-376a-48ee-8926-0c45ac3f7830
@@ -7620,6 +7625,7 @@ RiskAdjustedLinearizations,7bb39b10-f246-11ea-2456-25a63198e074
 RiskBudgeting,a9f5bb6c-0632-44f9-9c01-5aa9e657c941
 RiskLabAI,a72881da-fdaa-49c1-8962-99caf4ccfee8
 RiskMeasures,b5a8929a-7a15-4aed-937e-21e1a404cbc5
+RitSpls,3ede0511-6366-4a84-9f28-defd1d710745
 Rmath,79098fc4-a85e-5d69-aa6a-4863f24498fa
 Rmath_jll,f50d1b31-88e8-58de-be2c-1cc44531875f
 RoME,91fb55c2-4c03-5a59-ba21-f4ea956187b8
@@ -7976,6 +7982,7 @@ SeasonalTrendLoess,42fb36cb-998a-4034-bf40-4eee476c43a1
 SeawaterPolynomials,d496a93d-167e-4197-9f49-d3af4ff8fe40
 Secp256k1,bfa37bea-997f-11e9-0e02-2d50932a0e04
 SecretSanta,bb3d3a65-b032-5cdd-a073-dfed7b606c01
+SecureArithmetic,38cee09b-6d7e-4d21-866e-807a7f642fe9
 SecureIO,ee77041e-65ec-469d-b516-892ca52996d6
 SeeToDee,1c904df7-48cd-41e7-921b-d889ed9a470c
 SegmentAnalytics,383780d8-6555-4e9d-ab4b-56ed78d9a773
@@ -9561,6 +9568,7 @@ VersionVigilante,227ca074-f042-4221-a2ff-40f0acdddd34
 VertexFinder,c0d8f697-7833-4eed-a9bd-1f3da4013f1a
 VertexSafeGraphs,19fa3120-7c27-5ec5-8db8-b0b0aa330d6f
 ViZDoom,13bb3beb-38fe-5ca7-9a46-050a216300b1
+VibrationGEPHelpers,3f428ce3-b273-4d47-9ed2-092cb711fea6
 VibrationalAnalysis,04082e5c-1d57-4577-9a0f-61e6cd56dade
 ViconUDP,e67f3e0e-e319-4e6a-90db-462f780913e2
 VideoIO,d6d074c3-1acf-5d4c-9a43-ef38773959a2
