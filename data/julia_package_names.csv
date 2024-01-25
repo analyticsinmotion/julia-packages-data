@@ -1719,6 +1719,7 @@ CrossMappings,7011085d-2e9b-5a7b-b0c2-f102c05e50c2
 CrossfilterCharts,6fc5cb8a-a410-53bb-86da-72917ac2b213
 Crossterm,89a1a94d-67fa-4c27-8677-ab6d33b1ad6c
 CrudePythonTranslator,58c7ca78-788c-4120-b21e-78fc10394fb4
+Crux,e51cc422-768a-4345-bb8e-2246287ae729
 CryoGrid,a535b82e-5f3d-4d97-8b0b-d6483f5bebd5
 CrypticCrosswords,5f016b6a-1706-11e9-24c5-5177419d09cb
 CryptoCompare,11e80037-4638-4273-b0e8-a6ba7842ecc6
@@ -2884,6 +2885,7 @@ Finch,9177782c-1635-4eb9-9bfb-d9dfa25e6bce
 FindClosest,ce6c7843-e314-4a0c-820f-2e6f904d3a2a
 FindComplexZeros,0a534ecb-6644-4a7e-8523-fc75d3442ec4
 FindDefinition,93ffb859-d6b2-40fc-9f9f-e7ec8bc255b8
+FindFirstFunctions,64ca27bc-2ba2-4a57-88aa-44e436879224
 FindMinimaxPolynomial,af72fe11-ff17-4ca6-9497-daf1aa55531e
 FindPeaks1D,d8961e24-b28b-4efb-8e50-1c680b9a7431
 FindSteadyStates,5ce5e58b-649a-467a-bfd0-ccefe064e451
@@ -3424,6 +3426,7 @@ GeometricTools,83792f5e-c6a1-11e8-2e0a-93511f02ae5f
 GeometricalOptics,bcf78de8-a01d-4207-9174-b5b11956a333
 GeometricalPredicates,fd0ad045-b25c-564e-8f9c-8ef5c5f21267
 GeometryBasics,5c1252a2-5f33-56bf-86c9-59e7332b4326
+GeometryOptimization,673bf261-a53d-43b9-876f-d3c1fc8329c2
 GeometryPrimitives,17051e67-205e-509e-8301-03b320b998e6
 GeometryTypes,4d00f742-c7ba-57c2-abde-4428a4b178cb
 Geomorphometry,714e3e49-7933-471a-9334-4a6a65a92f36
@@ -4960,6 +4963,7 @@ MATDaemon,88578114-2e0c-4679-8b18-24dc4fa60bec
 MATFBCModels,bd2e13bf-42c0-49e1-9a9c-885d36daf88b
 MATLAB,10e44e05-a98a-55b3-a45b-ba969058deb6
 MATLABDiffEq,e2752cbe-bcf4-5895-8727-84ebc14a76bd
+MAiNGO_jll,6ab0fed5-a098-5dc6-978d-ebec7ca9d2e4
 MCAnalyzer,a81df072-f4bb-11e8-03d3-cfaeda626d18
 MCHammer,58716550-704d-11e9-05c2-8f708e47025f
 MCIntegration,ea1e2de9-7db7-4b42-91ee-0cd1bf6df167
@@ -5491,6 +5495,7 @@ MixedModelsMakie,b12ae82c-6730-437f-aff9-d2c38332a376
 MixedModelsPermutations,647c4018-d7ef-4d03-a0cc-8889a722319e
 MixedModelsSerialization,b32ace64-3998-4ca6-afd0-a0db4a0482b2
 MixedModelsSim,d5ae56c5-23ca-4a1f-b505-9fc4796fc1fe
+MixedStructTypes,3d69f371-6fa5-5add-b11c-3293622cad62
 MixedSubdivisions,291d046c-3347-11e9-1e74-c3d251d406c6
 MixedTypesContainers,d538787b-fcd7-45dd-a3fb-92a4ecb31e9f
 Mixers,2a8e4939-dab8-5edc-8f64-72a8776f13de
