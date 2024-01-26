@@ -3756,6 +3756,7 @@ HerbEvaluation,eb1bf938-813d-4942-ac0f-b4657a683e76
 HerbGrammar,4ef9e186-2fe5-4b24-8de7-9f7291f24af7
 HerbInterpret,5bbddadd-02c5-4713-84b8-97364418cca7
 HerbSearch,3008d8e8-f9aa-438a-92ed-26e9c7b4829f
+HerbSpecification,6d54aada-062f-46d8-85cf-a1ceaf058a06
 Hermetic,b255c96a-a4ac-5b61-a2c4-3db36d36609d
 HeroIcons,0e288569-e4b5-43fd-9baa-cb516e1232f8
 Hestia,75036a29-a2ca-4eb4-a964-4c35e636f9a9
@@ -5911,6 +5912,7 @@ NeuralPDE,315f7962-48a3-4962-8226-d0f33b1235f0
 NeuralPDELogging,7c138fc3-9327-4ab8-b9a3-c864f3475625
 NeuralQuantumState,b766470a-6a6d-4ee5-8c70-1dce02664e06
 NeuroAnalysis,088af2c0-9cce-11e8-35da-81725c7f79e6
+NeuroAnalyzer,b40dcafa-b65c-47ad-a230-3174ba5cadd1
 NeuroCore,d459d6fe-e785-4cae-bf87-14a4152982ff
 NeuroFlow,accb2a19-7d14-4fef-adf6-2d18346bd8ac
 NeuroFormats,3448aec0-5570-4d68-9f4a-848140e12c29
@@ -8535,6 +8537,7 @@ StanMCMCChains,e9003ee5-8d1f-52e9-81b4-38b583c0e573
 StanMamba,1f9da163-5ddd-5895-b7bb-161347ed2303
 StanModels,fb740163-aa3c-59c1-9c12-c3f890714cde
 StanOptimize,fbd8da12-e93d-5a64-9231-612a0707ab99
+StanPathfinder,e8ee4b5e-54b2-4408-8575-c3c89e582a15
 StanQuap,e4723793-2808-4fc5-8a98-c57f4c160c53
 StanRun,d49c3b98-12bb-537a-8c40-37c13654c7f4
 StanSample,c1514b29-d3a0-5178-b312-660c88baa699
