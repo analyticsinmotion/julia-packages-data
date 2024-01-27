@@ -4364,6 +4364,7 @@ JupyterFormatter,b8b539d8-55b4-4e60-a505-d7876c054e58
 JupyterParameters,2f2169dc-6776-11e9-1952-6179d4a35fe3
 JupyterPlutoConverter,1eb89384-759d-4e70-b7ef-f01bc3213651
 Jusdl,5fb878b0-68d2-11e9-223c-0f99f93215f8
+JustPIC,10dc771f-8528-4cd9-9d3b-b21b2e693339
 JustRelax,34418575-392d-4e26-8c6d-96b0910afa06
 JustSayIt,d7252348-293e-4f11-8d42-c8418dda4315
 Justly,3ed2f0d3-1e15-46aa-b21a-890b713d7b5d
@@ -6993,6 +6994,7 @@ ProjectEuler,34942f61-84b4-43a8-8f7e-e317c275c964
 ProjectEulerUtil,f3fda6fd-dc4e-47de-8408-2e5155a8ff39
 ProjectFlow,7d1cd4b3-4447-4d54-bfa7-38e21a341f12
 ProjectManagement,8d6fe0f5-cdf5-47ae-8203-553721bd1e97
+ProjectRoot,e3f974f6-674d-4b8e-a3d1-5850677db852
 ProjectionPursuit,0eeb11d1-cc9e-46d1-8e67-fc3369e51b39
 ProjectiveVectors,01f381cc-face-5a0a-ade9-ef63dc65d628
 PromClient,880e31e2-b695-45be-a28d-96ac068cb1ee
@@ -10371,6 +10373,7 @@ seatd_jll,1322d9e5-2885-5d14-b40b-5d6c7dfe9ea1
 sed_jll,8ce03227-cf0a-51af-b0b4-2693c0743e9f
 sgtsnepi_jll,c2c51ba6-9464-585c-93d5-ba434ab08fad
 simdjson_jll,40266717-b07e-50ee-a1c6-5956cbf905d9
+smesh_jll,e8c45408-479c-54df-ae5b-4501057d3a5a
 snappy_jll,fe1e1685-f7be-5f59-ac9f-4ca204017dfd
 soapysdr_jll,343a40d9-ed99-5d34-8b56-649aaa4ecee6
 sparseQFCA,077cf62c-ad2d-5edd-99ec-638372f8b004
