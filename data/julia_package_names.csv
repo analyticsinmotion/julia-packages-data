@@ -603,6 +603,7 @@ Baselet,9718e550-a3fa-408a-8086-8db961cd8217
 BasesAndSamples,b47663c2-775e-4d88-bb56-6bef842cff7a
 BasicAkerRelationalScore,93b16f6d-36af-4dc8-b800-fb1fd5ea2d37
 BasicBSpline,4c5d9882-2acf-4ea4-9e48-968fd4518195
+BasicBSplineExporter,769ccd65-a659-4118-b5e3-8f57c631b3e0
 BasicBSplineFitting,0b67037f-a240-4a3f-af2e-8325c7d59380
 BasicDataLoaders,f0789d0e-9b93-4002-b86d-d7fb1957141c
 BasicInterpolators,26cce99e-4866-4b6d-ab74-862489e035e0
@@ -2471,6 +2472,7 @@ Emporium,4f286ecd-06d3-4492-bdef-0ca090b7d070
 EnKF,685896a8-a41b-11e9-3419-3315e75b5d74
 EncodedArrays,97725368-735e-11e9-0dd7-6bf34c3b13a8
 Encodings,8275c4fe-57c3-4fbf-b39c-271e6148849a
+Endatabas,3c24e884-fd8b-4642-9948-3255f4665db5
 EndpointRanges,340492b5-2a47-5f55-813d-aca7ddf97656
 EnergyCommunity,2f2d8a28-e724-42c4-aa4e-51fe4e6b7a61
 EnergyExpressions,f4b57a2e-27c7-11e9-0cb0-edd185b706f6
@@ -5743,6 +5745,7 @@ NCDatasets,85f8d34a-cbdd-5861-8df4-14fed0d494ab
 NCEI,1f554e9c-ddc6-5d78-a4ef-ff7defcf835d
 NCRegressionTests,1789bc09-29e6-4c93-9c75-fe2179693664
 NCTiles,4c1fdd90-559f-11e9-1abf-07ceafc4ffc0
+NDPriorityQueues,62ce6dcf-afc2-4b9e-bf6a-7a1353c578d1
 NDTensors,23ae76d9-e61a-49c4-8f12-3f1a16adf9cf
 NDTools,98581153-e998-4eef-8d0d-5ec2c052313d
 NEFTInterface,a0053b83-2858-41a9-bfb0-1030075bb8f6
@@ -8524,6 +8527,7 @@ StableLinearAlgebra,7d06c537-f8ff-4c22-91e1-ce4088e3cfd7
 StableMap,626594ce-0aac-4e81-a7f6-bc4bb5ff97e9
 StableRNGs,860ef19b-820b-49d6-a774-d7a799459cd3
 StableSpectralElements,fb992021-99c7-4c2d-a14b-5e48ac4045b2
+StableTasks,91464d47-22a1-43fe-8b7f-2d57ee82463f
 StableTrees,9113e207-2504-4b06-8eee-d78e288bee65
 StackCollections,501fa84d-4592-420e-a352-d1184606d913
 StackOverflow,1a8df32f-26ad-40b8-8029-212bc012bd57
