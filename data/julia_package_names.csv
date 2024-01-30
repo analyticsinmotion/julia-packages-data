@@ -474,6 +474,7 @@ AutoHashEquals,15f4f7f2-30c1-5605-9d31-71845cf9641f
 AutoLandmarking,513749c4-1492-45a3-bfbf-e630717bb7f0
 AutoMLPipeline,08437348-eef5-4817-bc1b-d4e9459680d6
 AutoPreallocation,e7028de2-df94-4053-9fdc-99272086b8d4
+AutoPrettyPrinting,9109d3c5-9510-494f-be9f-db449708e717
 AutoSymPTR,78a0c066-08f1-49a8-82f0-b29cd485e1d3
 AutoSysimages,4eb35182-e5c8-446d-8ecc-33e714a26cef
 AutoVectors,dac988ce-a3dc-42da-8c49-b1e833185731
@@ -1255,6 +1256,7 @@ Chartmetric,5e0982d9-853c-416b-a9e6-ad7fe38a6229
 ChatAPICall,dab9e3cf-270b-48a8-a707-d6834c795ca3
 ChatThemAll,d20e7657-e361-40d3-9674-24e82b8f1914
 CheapThreads,b630d9fa-e28e-4980-896d-83ce5e2106b2
+ChebParticleMesh,1983ef0c-217d-4026-99b0-9163e7750d85
 ChebyshevApprox,17a596ad-87cd-578c-9b6d-01108c31dc04
 ChebyshevFiltering,1d56a567-eebb-4d79-96f4-589d6165ccdd
 ChebyshevTransforms,2752694e-a3a0-42bd-9f17-5f3242da1ce6
@@ -2109,6 +2111,7 @@ DifferentialDynamicsModels,cb52cc87-d0c7-5933-bad1-08679d8b4c67
 DifferentialEquations,0c46a032-eb83-5123-abaf-570d42b7fbaa
 DifferentialEvolutionMCMC,607db5a9-722a-4af8-9a06-1810c0fe385b
 DifferentialForms,9e54b8bf-1ae4-4c45-8656-f6b46e7970a3
+DifferentialPhaseContrast,4f2186bb-3a2c-44f0-a062-04c6d4d3fd0d
 DiffieHellman,0e61fee8-20a4-4374-8233-5198f28d9d66
 DiffinDiffs,1c15b2bf-cfaa-4a64-9ed6-b84bdd745e5c
 DiffinDiffsBase,7fc23ce2-6e83-4e3c-822f-a79085ccb3e8
@@ -3110,6 +3113,7 @@ Fuzzy,a9166f1b-85e5-4df0-9c26-e06b441f12e8
 FuzzyCRegression,f92c8a04-155b-4747-b198-4c6b1c04e8f7
 FuzzyClusteringSimilarity,edb9ae08-98fc-4535-bc7b-43b5fa0191ff
 FuzzyCompletions,fb4132e2-a121-4a70-b8a1-d5b831dcdcc2
+FuzzyEmbeddingMatch,3f13813c-b3c5-46a6-9f94-8bb23878de35
 FuzzyLogic,271df9f8-4390-4196-9d4f-bdd0b67035b3
 FvCFD,3894bb1e-daea-4181-948f-3877d7a6e5a8
 FwiFlow,a6a960b4-e246-4968-83bc-819d1955448a
@@ -7537,6 +7541,7 @@ ReinforcementLearningTrajectories,6486599b-a3cd-4e92-a99a-2cea90cc8c3c
 ReinforcementLearningZoo,d607f57d-ee1e-4ba7-bcf2-7734c1e31854
 RelationalDatasets,6b8bdb16-f930-11eb-22b5-7ba1dabdf7a8
 RelativisticDynamics,9dfc3e7a-5dd6-4aec-9244-c4a41014c270
+RelevancePropagation,0be6dd02-ae9e-43eb-b318-c6e81d6890d8
 RelevanceStacktrace,6c8a4c8a-cd07-4735-95b7-b1ced2eaf8fd
 ReliabilityDiagrams,e5f51471-6270-49e4-a15a-f1cfbff4f856
 ReliabilityOptimization,55eddd50-7f45-4398-96cf-6a37e2b16f80
@@ -8067,6 +8072,7 @@ SequentialMonteCarlo,8c675823-c5d5-50f8-acb2-29aff48dfc1d
 SequentialSamplingModels,0e71a2a6-2b30-4447-8742-d083a85e82d1
 Serd,42699a24-3520-5f41-a549-6a478ed667c2
 Serd_jll,0d4e85e1-a563-5338-9f64-3e4dc8b67009
+Serde,db9b398d-9517-45f8-9a95-92af99003e0e
 SerialDependence,807e6dab-69e6-5de1-b50c-dbd9513c50df
 SerialPorts,5d0f9de7-4c7f-54f5-bec2-484e8c04014e
 SerializationCaches,3f9d9eeb-f6fe-486e-aab5-ad2c1ff40024
@@ -8300,6 +8306,7 @@ SmartAsserts,56560af0-ab70-43fe-a531-155d81972b00
 SmartML,eb8b94b2-5e6e-4467-a0a4-aef532806662
 SmartParser,286a8d42-4b94-434a-8a6f-23eaeb4e0727
 Smartphores,d1712120-4320-4bd5-bb6f-c06e5f298789
+Smesh,e2b06280-edec-413c-a3a2-1b4e389db7bf
 Smg2s,36e52ba8-0d61-4da2-bc57-6d85c7a279e7
 SmoQyDQMC,00e12d65-277b-447e-9c1d-a17422dd36f5
 SmolyakApprox,6b19cf85-48de-5d9d-bfff-465abea14fab
