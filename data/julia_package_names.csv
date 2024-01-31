@@ -240,6 +240,7 @@ AlignedArrays,1603b9d5-f456-4bc7-93d8-0a6ecb110267
 AlignedBinaryFormat,94fc9360-1a5e-4d84-93be-ddbadb32b3a7
 AlignedSpans,72438786-fd5d-49ef-8843-650acbdfe662
 AllanDeviations,7e732cdd-9a46-54ef-932c-559ab8d83ddb
+AllenNeuropixelsBase,0b0e28cf-a3af-44db-8bea-1c4507018d35
 AllenSDK,9d22b198-c11d-497b-9ac7-6add78eade21
 AllocArrays,5c00bae2-1499-4716-9206-27f63fd08a44
 AllocCheck,9b6a8646-10ed-4001-bbdc-1d2f46dfbb1a
@@ -2479,6 +2480,7 @@ Endatabas,3c24e884-fd8b-4642-9948-3255f4665db5
 EndpointRanges,340492b5-2a47-5f55-813d-aca7ddf97656
 EnergyCommunity,2f2d8a28-e724-42c4-aa4e-51fe4e6b7a61
 EnergyExpressions,f4b57a2e-27c7-11e9-0cb0-edd185b706f6
+EnergyModelsBase,5d7e687e-f956-46f3-9045-6f5a5fd49f50
 EnergyStatistics,631263cc-0f82-11ea-1caf-35c9eae72d11
 EngThermBase,dffbff30-506a-45ba-b474-e78cc8ad254e
 EnglishText,a9e4a3a0-3b51-51f6-8ce2-a898b8c5b12e
@@ -4948,6 +4950,7 @@ Lowess,a2847a04-7795-4581-bff1-964344ea125d
 LsqFit,2fda8390-95c7-5789-9bda-21331edee243
 LuaCall,b19d909c-f536-5a7e-8424-a4fb7ce1e4d7
 Lua_jll,a4086b1d-a96a-5d6b-8e4f-2030e6f25ba6
+Lucky,091b6c57-2055-4743-a613-81d9bc5174d5
 Lucon,ee70d37e-021e-48ac-98f1-58dad3ba901e
 Luna,30eb0fb0-5147-11e9-3356-d75b018717ce
 Luna_jll,5c9374ce-fdac-595e-b98d-9d97a97a2302
@@ -7972,6 +7975,7 @@ SciMLExpectations,afe9f18d-7609-4d0e-b7b7-af0cb72b8ea8
 SciMLNLSolve,e9a6253c-8580-4d32-9898-8661bb511710
 SciMLOperators,c0aeaf25-5076-4817-a8d5-81caf7dfa961
 SciMLSensitivity,1ed8b502-d754-442c-8d5d-10ac956f44a1
+SciMLStructures,53ae85a6-f571-4167-b2af-e1d143709226
 SciMLTutorials,30cb0354-2223-46a9-baa0-41bdcfbe0178
 SciMLWorkshop,6821e370-b0bb-497c-beb7-809790cbeb12
 SciPy,ebc72ef8-9537-4fb0-b64e-ac76025fed2d
@@ -10403,6 +10407,7 @@ startin_jll,c0017dae-bb0d-5ae0-bc81-a2950b9c605d
 stb_jll,0a870b86-ede5-5f68-8916-0c4c2008bb27
 stldecomposition_jll,d8cc2a31-0abf-5619-8b1f-2aa308935162
 stork_jll,a0ec7baa-763d-5d6b-86f7-e243a75ef8c4
+strace_jll,1d56ff18-86b0-54eb-9ca6-1c12e018e922
 systemd_jll,867622ac-8f22-5251-87e3-8aff4582acdf
 t8code_jll,4ee9bed8-4011-53f7-90c2-22363c2f500d
 tblis_jll,9c7f617c-f299-5d18-afb6-044c7798b3d0
