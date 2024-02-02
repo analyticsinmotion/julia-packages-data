@@ -2419,6 +2419,7 @@ EgyptianFractions,0f160d28-7819-5803-9275-299e9913be39
 EigenShow,84cdf194-f1a7-4248-80dd-8c89ca764f78
 Eigen_jll,bc6bbf8a-a594-5541-9c57-10b0d0312c70
 Eikonal,a6aab1ba-8f88-4217-b671-4d0788596809
+EinExprs,b1794770-133b-4de1-afb4-526377e9f4c5
 EindhovenLogo,18231132-4f0d-4a5b-8f66-ccd1a8e66870
 Einsum,b7d42ee7-0b51-5a75-98ca-779d3107e4c0
 Eirene,9c0f25c4-2ca1-5870-89f6-52640788da1d
@@ -3387,6 +3388,7 @@ GeoDataFrames,62cb38b5-d8d2-4862-a48e-6a340996859f
 GeoDataPicker,ad26291b-5ad9-4b61-8cdb-f4ecfd1c1fc8
 GeoDatasets,ddc7317b-88db-5cb5-a849-8449e5df04f9
 GeoEfficiency,b1f22607-7830-5ceb-9a8e-05ab1ac77008
+GeoEnergyIO,3b1dd628-313a-45bb-9d8d-8f3c48dcb5d4
 GeoEstimation,a4aa24f8-9f24-4d1a-b848-66d123bfa54d
 GeoFormatTypes,68eda718-8dee-11e9-39e7-89f7f65f511f
 GeoGreensFunctions,1bc39cc2-b9cd-470c-972b-2e3fb46182c5
@@ -4733,6 +4735,7 @@ LibPQ_jll,08be9ffa-1c94-5ee5-a977-46a84ec9b350
 LibPSF,5cf4117a-c29c-5f6c-be10-22558df91208
 LibRaw,8142987f-9819-4f19-97f4-21b8cfe217f7
 LibRaw_jll,d66ac3f3-933a-5ab8-8aa2-9e591b3c5af3
+LibSSH,00483490-30f8-4353-8aba-35b82f51f4d0
 LibSSH2_jll,29816b5a-b9ab-546f-933c-edad1886dfa8
 LibSerialPort,a05a14c7-6e3b-5ba9-90a2-45558833e1df
 LibSndFile,b13ce0c6-77b0-50c6-a2db-140568b8d1a5
@@ -6136,7 +6139,9 @@ Ogs6InputFileHandler,711b9c6a-ebcb-49ea-83af-4d7ff437a08a
 OhMyArtifacts,cf8be1f4-309d-442e-839d-29d2a0af6cb7
 OhMyQSIM,19761982-0bba-11ea-3d5f-93c17441e836
 OhMyREPL,5fb14364-9ced-5910-84b2-373655c76a03
+OhMyThreads,67456a42-1dca-4109-a031-0a68de7e3ad5
 OkFiles,b25a35d4-863d-483c-9fa1-95480bd075d2
+OktaJWTVerifier,4bff0fe4-4ead-499c-9e50-e12c47db005b
 Olive,724ecaf6-c7a0-4c22-b37e-0bb7b4193da8
 OliveImages,d5c9dd0d-5678-4538-8542-c68b20ea893d
 OlivePython,723e633f-9a76-4329-b2d1-0431e20a66c6
@@ -8389,6 +8394,7 @@ SorptionModels,44adabc6-386d-4db0-bb6e-0f7b06129544
 SortFilters,d6dedbf8-78c7-4e81-bd5f-fe48695b798a
 SortMark,15f864f9-903d-48fa-aa6c-47f5a1506de6
 SortMerge,041a2d23-8c6e-5597-be73-bf96b5e0dfd4
+SortTileRecursiveTree,746ee33f-1797-42c2-866d-db2fce69d14d
 SortedIteratorProducts,6df855aa-0571-4a39-928e-ca59f790d640
 SortedVectors,9404b2b5-64ac-5ade-85a3-77c836ef30b4
 SortingAlgorithms,a2af1166-a08f-5f64-846c-94a0d3cef48c
@@ -9728,6 +9734,7 @@ WeightedPCA,ee299941-4bd7-491e-86f9-95d1f98baef4
 WeightsAndBiasLogger,71805093-c1fc-4af5-8d0a-8dde53c6ac46
 WellKnownGeometry,0f680547-7be7-4555-8820-bb198eeb646b
 Wells,5231157d-7ae6-5dec-b9aa-3f65828037ac
+WenoNeverworld,dc645f23-3555-4f2f-8f6e-8cb879a663f8
 Westerfit,f202a280-4a11-4d8a-9d54-4c7a90dde5df
 Wflow,d48b7d99-76e7-47ae-b1d5-ff0c1cf9a818
 WhereTheWaterFlows,ea906314-1493-4d22-a0af-f886a20c9fba
