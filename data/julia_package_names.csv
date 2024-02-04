@@ -1362,6 +1362,7 @@ ClimaCoreSpectra,c2caaa1d-32ae-4754-ba0d-80e7561362e9
 ClimaCoreTempestRemap,d934ef94-cdd4-4710-83d6-720549644b70
 ClimaCoreVTK,c8b6d40d-e815-466f-95ae-c48aefa668fa
 ClimaLSM,7884a58f-fab6-4fd0-82bb-ecfedb2d8430
+ClimaLand,08f4d4ce-cf43-44bb-ad95-9d2d5f413532
 ClimaTimeSteppers,595c0a79-7f3d-439a-bc5a-b232dc3bde79
 ClimaUtilities,b3f4f4ca-9299-4f7f-bd9b-81e1242a7513
 ClimateBase,35604d93-0fb8-4872-9436-495b01d137e2
@@ -7058,6 +7059,7 @@ PseudoPotentialIO,cb339c56-07fa-4cb2-923a-142469552264
 Pseudopotentials,1b2dc2e6-48aa-4f00-b8f4-19d1a71d7a0e
 Pseudoseq,5fa9f68e-f4b0-11e8-18b8-fb82dd3c6483
 Pseudospectra,d6c5b33e-0240-5bd5-a771-a97ae748a961
+PseudostableRecurrences,4f7db8a5-8d22-4d9a-baad-9979a979c0ae
 PsychometricsBazaarBase,b0d9cada-d963-45e9-a4c6-4746243987f1
 PsychometricsBazzarBase,8a5e4057-03e0-4a42-ba57-0eb88ce604f5
 PsychomotorVigilanceTask,3a23ab9a-e60c-4129-b1e4-17a645949bd3
@@ -8393,6 +8395,7 @@ SolveDSGE,00bf1f32-23ad-54cc-bf6e-3216db8a43a2
 SolverBenchmark,581a75fa-a23a-52d0-a590-d6201de2218a
 SolverCore,ff4d7338-4cf1-434d-91df-b86cb86fb843
 SolverLogging,c2e08473-88be-4f39-9d3c-afcdb6e3aeb8
+SolverParameters,d076d87d-d1f9-4ea3-a44b-64b4cdd1e470
 SolverTest,4343dc35-3317-4c6e-8877-f0cc8502c90e
 SolverTools,b5612192-2639-5dc1-abfe-fbedd65fab29
 SolverTraces,619b3e1a-df4a-11e8-3b0b-a997e0925a8d
@@ -9329,6 +9332,7 @@ TriplotRecipes,808ab39a-a642-4abf-81ff-4cb34ebbffa3
 Trixi,a7f1ee26-1774-49b1-8366-f1abc58fbfcb
 Trixi2Img,821991e7-028e-4e54-884c-f74f8833bc95
 Trixi2Vtk,bc1476a1-1ca6-4cc3-950b-c312b255ff95
+TrixiBase,9a0f1c46-06d5-4909-a5a3-ce25d3fa3284
 TropicalCyclonePotentialIntensity,3d638a7a-a2e4-42bc-a032-160bbf3719f9
 TropicalGEMM,a4ad3063-64a7-4bad-8738-34ed09bc0236
 TropicalGemmC_jll,4f4992fb-2984-5eba-87b8-475305d0f5fc
