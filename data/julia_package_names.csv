@@ -1165,6 +1165,7 @@ CapacityExpansion,c5f7ca31-19be-526c-ac1d-e0dcac83edb8
 CapacityExpansionData,2c92f082-f457-11e9-1715-ebb1b5fff37b
 Capnp,4a176cb5-e787-4417-92d8-5e07a66a639e
 Capstone_jll,0bfc08ce-5f35-58d0-8256-ec6a7315737c
+CaratheodoryFejerApprox,591793e0-8db6-4f40-aac6-a66fe5f65964
 Cares_jll,de7616f8-1794-5cde-83a7-2ebe299f2f48
 CarlemanLinearization,4803f6b2-022a-4c1b-a771-522a3413ec86
 Carlo,780c37f4-4e5a-43de-9e79-65c261e525a4
@@ -2487,6 +2488,7 @@ EnergyCommunity,2f2d8a28-e724-42c4-aa4e-51fe4e6b7a61
 EnergyExpressions,f4b57a2e-27c7-11e9-0cb0-edd185b706f6
 EnergyModelsBase,5d7e687e-f956-46f3-9045-6f5a5fd49f50
 EnergyModelsGeography,3f775d88-a4da-46c4-a2cc-aa9f16db6708
+EnergyModelsInvestments,fca3f8eb-b383-437d-8e7b-aac76bb2004f
 EnergyModelsRenewableProducers,b007c34f-ba52-4995-ba37-fffe79fbde35
 EnergyStatistics,631263cc-0f82-11ea-1caf-35c9eae72d11
 EngThermBase,dffbff30-506a-45ba-b474-e78cc8ad254e
@@ -2714,6 +2716,7 @@ FLoopsBase,b9860ae5-e623-471e-878b-f6a53c775ea6
 FMI,14a09403-18e3-468f-ad8a-74f8dda2d9ac
 FMIBuild,226f0e26-6dd6-4589-ada7-1d32f6e1d800
 FMICore,8af89139-c281-408e-bce2-3005eb87462f
+FMIExchange,d0f58030-e4f1-4214-a600-bc055fa6d38e
 FMIExport,31b88311-cab6-44ed-ba9c-fe5a9abbd67a
 FMIFlux,fabad875-0d53-4e47-9446-963b74cae21f
 FMIImport,9fcbc62e-52a0-44e9-a616-1359a0008194
@@ -4979,6 +4982,7 @@ Lyra,ffbea66a-397b-416b-b21c-0d4295c18fac
 Lz4_jll,5ced341a-0733-55b8-9ab6-a4889d929147
 M4_jll,9051c120-a745-5e86-aaa7-8cbc404dba28
 MAFFT_jll,72a4bdf2-be5e-5c84-b157-f1dc2927f791
+MAGEMinApp,3bfd43b6-b983-4998-9dd6-d5d715d830b7
 MAGEMin_C,e5d170eb-415a-4524-987b-12f1bce1ddab
 MAGEMin_jll,763ebaa8-b0d2-5f6b-90ef-4fc23b5db1c4
 MAGMA_jll,7a7c8717-d270-5a90-94a0-6104d6fc12ee
@@ -5669,6 +5673,7 @@ MultiBisect,66877b0d-840f-4af8-a0b5-b62f5ea465b3
 MultiCDF,663b7897-4180-4011-967b-e4930277ef1a
 MultiChannelColors,d4071afc-4203-49ee-90bc-13ebeb18d604
 MultiComponentFlash,35e5bd01-9722-4017-9deb-64a5d32478ff
+MultiData,8cc5100c-b3d1-4f82-90cb-0ea93d317aba
 MultiDimDictionaries,87ff4268-a46e-478f-b30a-76b83dd64e3c
 MultiDimEquations,a3219271-55cc-59b6-9a1f-6f3111928ce1
 MultiDocumenter,87ed4bf0-c935-4a67-83c3-2a03bee4197c
@@ -7495,6 +7500,7 @@ RectiGrids,8ac6971d-971d-971d-971d-971d5ab1a71a
 RecurrenceAnalysis,639c3291-70d9-5ea2-8c5b-839eba1ee399
 RecurrenceCoefficients,de372851-07f4-4192-bc5b-b0c28d817e5e
 RecursiveArrayTools,731186ca-8d62-57ce-b412-fbd966d074cd
+RecursiveDicts,e20b0d26-85b9-4cc4-ab0c-abba12ca33a5
 RecursiveFactorization,f2c3362d-daeb-58d1-803e-2bc74f2840b4
 RecursiveTiles,7d867975-de6c-4c05-9efa-f68ebc224697
 RecursiveTupleMath,4a4311fe-81ff-4bcc-86a3-5026a4bf5b9f
