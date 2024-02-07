@@ -6201,6 +6201,7 @@ OpenEphysLoader,98c9b6dd-1b90-5d67-90ca-be6a773cd6f7
 OpenFAST_jll,a5beeac0-58b9-51ef-9177-6a87f706d2c0
 OpenFHE,77ce9b8e-ecf5-45d1-bd8a-d31f384f2f95
 OpenFHE_jll,a2687184-f17b-54bc-b2bb-b849352af807
+OpenFOAM_com_jll,fd4958d8-5e5c-566c-bfe6-815b1420e10d
 OpenFOAM_jll,89340185-c6b7-517e-a5e0-0a450377a6e4
 OpenGLMathematics_jll,cc7be9be-d298-5888-8f50-b85d5f9d6d73
 OpenIDConnect,195a77af-17c0-520f-ac58-3336c7ea8576
@@ -8556,6 +8557,7 @@ SquidGame,dd7facba-cbc5-45d8-adb5-1f8b832104f1
 Squirrel,257d0e10-ba0c-4014-b61a-657d3b5dcd33
 StLifeIns,eeb17163-f076-48da-b693-6d8cb2af5572
 StableDQMC,0827807b-44c9-51d0-af97-efe667fe6b2a
+StableHLO_jll,8e2113cd-f17d-5ab7-b6d2-001f8cdd4bf4
 StableHashTraits,c5dd0088-6c3f-4803-b00e-f31a60c170fa
 StableHashes,2ca40811-0e74-4ca9-a2c0-1cd8c267dd5a
 StableLinearAlgebra,7d06c537-f8ff-4c22-91e1-ce4088e3cfd7
