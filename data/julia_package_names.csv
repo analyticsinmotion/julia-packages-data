@@ -3342,6 +3342,7 @@ GeneralizedGaussianQuadrature,958e0c08-f14d-42e8-a0ab-84193b3783f2
 GeneralizedGenerated,6b9d7cbe-bcb9-11e9-073f-15a7a543e2eb
 GeneralizedMonteCarlo,e9bfd9a4-9025-4baf-81dc-99e507987dd3
 GeneralizedMorseWavelets,b8d14031-e142-472f-b25f-bd9018bb5b90
+GeneralizedPhase,13235c25-d339-4138-a8bf-65c4e89d8d0a
 GeneralizedRouwenhorst,aa6e03af-5005-41e9-ae6d-aa2507035e62
 GeneralizedSDistributions,759b0772-debe-4df1-a45f-0e53fcd0f49c
 GeneralizedSVD,230433e9-56bc-4951-b27a-551e36a437d8
@@ -7285,6 +7286,7 @@ QuasiArrays,c4ea9172-b204-11e9-377d-29865faadc5c
 QuasiCopula,c47b6ae2-b804-4668-9957-eb588c99ffbc
 QuasiEwald,983f8767-50b7-4083-a328-dfb7a9c26de7
 QuasiGLM,e2a73505-cb16-4f72-bfa1-862ae24a0184
+QuasiGrad,ead79d5d-eeb6-4e9e-b9c0-d4b75b0c44ab
 QuasiMonteCarlo,8a4e6c94-4038-4cdc-81c3-7e6ffdb2a71b
 QuasiNewtonMethods,64452400-c6f4-4a1d-a4f6-ad403655768a
 QuasiPeriodicCrystals,3b68f936-7ca7-4d01-8649-6fbe85730bea
@@ -9021,6 +9023,7 @@ Telescope_jll,ae456e04-aaf2-55ce-80c6-09193969412e
 TempestModel_jll,2962c967-6e2c-5a30-9da7-7ff16ffb0b2a
 TempestRemap_jll,8573a8c5-1df0-515e-a024-abad257ee284
 TempestSDR,a2deda47-164f-4e4d-810f-425bbd57e6e7
+TemplateMatching,b21ddb9f-2587-4215-bf7c-fbe182daf540
 Tempo,c33777b2-e695-4fae-9135-aeae8855dd81
 Temporal,a110ec8f-48c8-5d59-8f7e-f91bc4cc0c3d
 TemporalGPs,e155a3c4-0841-43e1-8b83-a0e4f03cc18f
