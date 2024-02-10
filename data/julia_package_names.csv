@@ -758,6 +758,7 @@ BioCore,37cfa864-2cd6-5c12-ad9e-b6597d696c81
 BioDemultiplexer,39204792-bc26-423a-8bcf-54c03468b271
 BioEnergeticFoodWebs,9b49b652-2545-5b88-a3af-87b516beb26f
 BioFetch,f8217676-c24a-4825-a874-ba6ce2a4fe08
+BioFindr,77580646-997d-4218-a3cc-42097ecd1c68
 BioGenerics,47718e42-2ac5-11e9-14af-e5595289c2ea
 BioGraph,bbceaa37-9423-4c65-8842-740620a24309
 BioLab,1fe83854-81c0-42f7-afc9-71ba9af673ca
@@ -3525,6 +3526,7 @@ GnuplotScripting,483a2fc8-eb99-45b6-a231-8c481e9ade22
 Gnuplot_jll,e5af9688-3aeb-5ed5-8c7e-253e55323d3e
 GoAWS,00b10cec-568b-4d01-83ea-8604cd7f25ae
 GoFish,d00ce6d8-e47b-41eb-9812-442785832f3b
+GoTextProtocol,605aa4d1-f09b-4313-be12-5c56fd59aa57
 Goalign_jll,ed1357da-d9e6-57e3-b342-6130e0ca2d5e
 GoldenSequences,e13314f6-e9b3-11e9-0763-f13dff015e8a
 GoldfarbIdnaniSolver,906ccaf3-f60c-4d27-be89-7848ae703cf8
@@ -7927,6 +7929,7 @@ SZ_jll,409b0d58-1332-5589-be3b-4d778b0df058
 Sabermetrics,415736d3-e371-4b8a-9ed5-2a314a4b3aac
 SafeByteCalculators,88ce4d4d-ee2f-4b4a-abd3-cbc3580a88f7
 SafeREPL,5e6a0ad9-8e90-40fa-86b1-deb43b8cfda7
+SafeTensors,eeda0dda-7046-4914-a807-2495fc7abb89
 SafeTestsets,1bc83da4-3b8d-516f-aca4-4fe02f6d838f
 SaferIntegers,88634af6-177f-5301-88b8-7819386cfa38
 SaguaroTrader,26277856-a3f7-4646-aaac-f090473ab108
@@ -9062,6 +9065,7 @@ Tensors,48a634ad-e948-5137-8d70-aa71f2a747f4
 Term,22787eb5-b846-44ae-b979-8e399b8463ab
 TermFrequencyInverseDocumentFrequency,2841d249-20d1-448a-8f4f-e4924d4d8a20
 TermInterface,8ea1fca8-c5ef-4a55-8b96-4e9afe9c9a3c
+TermStructureModels,7e9258e2-c4b0-4fc1-89eb-9ad7f6b40598
 TerminalCalendar,9e34d9e9-352a-4bdb-89aa-065cccceaa64
 TerminalClock,65687e93-20ea-45b9-bbc3-ed39219e1d43
 TerminalExtensions,d3a6a179-465e-5219-bd3e-0137f7fd17c7
