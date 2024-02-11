@@ -8342,6 +8342,7 @@ SmartParser,286a8d42-4b94-434a-8a6f-23eaeb4e0727
 Smartphores,d1712120-4320-4bd5-bb6f-c06e5f298789
 Smesh,e2b06280-edec-413c-a3a2-1b4e389db7bf
 Smg2s,36e52ba8-0d61-4da2-bc57-6d85c7a279e7
+SmoQyDEAC,9c442b74-637f-4296-b43a-959aa316565a
 SmoQyDQMC,00e12d65-277b-447e-9c1d-a17422dd36f5
 SmolyakApprox,6b19cf85-48de-5d9d-bfff-465abea14fab
 SmoothLivePlot,31434429-0e9f-4d24-947a-14cd43782323
@@ -9669,6 +9670,7 @@ VisualStringDistances,089bb0c6-1854-47b9-96f7-327dbbe09dca
 VisualizeMotifs,dc339a6f-2fa1-401a-9066-9c0d413e71da
 ViterbiDecoder,5f0870c7-49c9-4542-b5f1-5d9ed4caea51
 Viznet,52a3aca4-6234-47fd-b74a-806bdf78ede9
+VkFFTCUDA,fce8808e-e16a-45a8-8cbe-ffae295c7ea5
 Vlasiator,7d2ba682-ad6e-4e20-80d9-3f2d4a610bb4
 VlasiatorMakie,af7e05b2-8ba0-474e-bf83-503ba399852e
 VlasiatorPyPlot,de93d4bb-68ab-4e1d-9036-cf3c624bd395
