@@ -694,6 +694,7 @@ BesselK,432ab697-7a72-484f-bc4a-bc531f5c819b
 Bessels,0e736298-9ec6-45e8-9647-e4fc86a2fe38
 BestApproximation,b55500c1-4cdc-457d-b883-f6a82974aba3
 BestModelSubset,0f6bdffc-513a-42d2-9813-9a545800a63f
+BetaDecayUtils,b2723bf5-94c5-4359-89e1-3e553b39f040
 BetaML,024491cd-cc6b-443e-8034-08ea7eb7db2b
 BetaReader,e5583720-4bc8-44d1-bd9a-9734450b0166
 BetaRegression,2339b9c3-daaf-4eaa-90d5-e8471159c344
@@ -2028,6 +2029,7 @@ DependenciesParser,074bffb8-faa7-59ba-9894-a592f955b684
 DependencyTrees,9ae0eaca-57f6-5d9a-9b02-4a09e011bd92
 DependencyWalker,7db386b5-e858-4964-8eb4-2fa66f8df882
 DependentBootstrap,191d1da1-0f37-5779-b8ea-a655caa0c150
+DepotDelivery,5c353f05-31b8-41b6-b09f-65e5456b8b1e
 DeprecateKeywords,83f0f1bf-2a81-4f2a-8178-033dcab3e60b
 DerivableFunctions,b86e32d1-1d4d-4472-88d2-1980e9d19c92
 DerivableFunctionsBase,2a74400c-0885-457e-a858-e4f63fac11e2
@@ -6792,6 +6794,7 @@ PlutoLinks,0ff47ea0-7a50-410d-8455-4348d5de0420
 PlutoLiveExport,27cf6249-c7ba-466c-943c-2006590103b7
 PlutoMapPicker,474136ad-924f-47fa-9297-876420b5dc85
 PlutoPDF,6eb38059-8c05-41f7-8871-5e7e2697ace6
+PlutoPages,d5dc3dd1-4774-47c7-8860-0a1ad9e34b8c
 PlutoPlotly,8e989ff0-3d88-8e9f-f020-2b208a939ff0
 PlutoProfile,ee419aa8-929d-45cd-acf6-76bd043cd7ba
 PlutoPublish,8101fb26-ae3c-408d-aed3-f7cb81499a91
@@ -9097,6 +9100,7 @@ TestLandscapes,acebfb02-3096-4040-86f5-d41b0f19d497
 TestNoAllocations,4f9cea44-66d8-4d7b-9fef-fad96b0e1517
 TestParticle,953b605b-f162-4481-8f7f-a191c2bb40e3
 TestParticleMakie,815e1cc4-5742-45dc-845d-1cec70514f1a
+TestReadme,484a2c26-6e88-4a69-ae62-8a3d6c887535
 TestReports,dcd651b4-b50a-5b6b-8f22-87e9f253a252
 TestSetExtensions,98d24dd4-01ad-11ea-1b02-c9a08f80db04
 TestTools,a8cb73c1-6ac8-4a70-8c57-09fe1bc7c59b
@@ -9734,6 +9738,7 @@ WatershedParcellation,d5eb8130-0e6d-4b05-a476-6219b4bda902
 WaveFD,44f9e87b-acd6-44e6-b5b0-e1db9a6b2dd4
 WaveFD_jll,c8b78e2a-5255-5058-b631-96af8a7e9abf
 WaveOperators,8a8a931e-bb7e-411d-b5ad-3690531b5574
+WaveOpticsPropagation,c4c7a1f9-3adc-4a73-843a-d378b6c86436
 WavePropBase,91c5bd54-65f5-4719-ae3b-9579edfc4a0b
 Waveforms,cb13b1c6-351e-5134-b3ad-d6a530956a82
 WaveguideQED,c4555495-0e8d-488d-8e6a-965ecefe9055
