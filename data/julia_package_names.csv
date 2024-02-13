@@ -1578,6 +1578,7 @@ Conductor,d194a933-43b5-4953-818b-974a45c81e67
 Conduit_jll,36ec8eac-713e-50f0-b9f1-e7516df2c55e
 ConeProj,57e5918e-c4e5-47a8-bf19-0d608e0bd369
 ConfParser,88353bc9-fd38-507d-a820-d3b43837d6b9
+ConfSets,aad220d6-53bb-4824-ac0f-9e0382ca6dbc
 ConfidenceBands,6840a270-7180-4af9-9adc-8b0ddd17b6f2
 Config,9d05fc2c-525b-11e9-1a36-8f70a3e496dc
 ConfigEnv,01234589-554d-41b7-ae5c-7b6ee2db6796
@@ -1835,6 +1836,7 @@ DINA,2e9d5fb1-712f-4dff-9379-c18f12b3746d
 DINCAE,0d879ee6-e5ed-4b6f-b65c-f78122b59944
 DIVAnd,efc8151c-67de-5a8f-9a35-d8f54746ae9d
 DIVAnd_HFRadar,7f46824f-871f-4a07-b57f-28974f6a6036
+DLFP8Types,f4c16678-4a16-415b-82ef-ed337c5d6c7c
 DLMReader,e1d33f9a-7203-49d2-8e1a-e3c4f85197b8
 DLPack,53c2dc0f-f7d5-43fd-8906-6c0220547083
 DLPipelines,e6530d7c-7faa-4ede-a0d6-9eff9baad396
@@ -5391,6 +5393,7 @@ MeshCore,43a99bba-f459-4d0e-8139-f3df11d847d4
 MeshFinder,94afc05e-a560-4acd-8e11-a7bb2c092f45
 MeshGraphNets,f7b4726d-4195-44ab-b39c-37bbdadae004
 MeshIO,7269a6da-0436-5bbc-96c2-40638cbb6118
+MeshIntegrals,dadec2fd-bbe0-4da4-9dbe-476c782c8e47
 MeshKeeper,484b717a-98b9-4b0c-89dc-fb7d7e739263
 MeshMaker,eff96cbd-3442-458f-9fe2-6cad589fe5e1
 MeshPlots,de9684d3-f81f-49d9-ae9e-c828b202dea9
