@@ -3257,6 +3257,7 @@ GStreamer_jll,aaaaf01e-2457-52c6-9fe8-886f7267d736
 GTK3_jll,77ec8976-b24b-556a-a1bf-49a033a670a6
 GTK4_jll,6ebb71f1-8434-552f-b6b1-dc18babcca63
 GTKmm3_jll,6c5188dc-7670-5467-b522-e8b8d9d5f1a3
+GTPSA,b27dd330-f138-47c5-815b-40db9dd9b6e8
 GTPSA_jll,a4739e29-4b97-5c0b-bbcf-46f08034c990
 GXBeam,974624c9-1acb-4ad6-a627-8ac40fc27a3e
 GZip,92fee26a-97fe-5a0c-ad85-20a5f3185b63
@@ -4378,6 +4379,7 @@ JuliaNVTXCallbacks_jll,9c1d0b0a-7046-5b2e-a33f-ea22f176ac7e
 JuliaPetra,0a7d185b-be57-59df-ac21-86d8a1799c2e
 JuliaProjectFormatter,139e0cf6-64b2-48ae-acd2-4285c0bb47c3
 JuliaRunClient,ea4eb333-db47-5fdf-b6ce-79c8b2b3edd3
+JuliaScript,eac5aaee-ac7f-40cd-ab88-b72e0a6c4bd0
 JuliaSyntax,70703baa-626e-46a2-a12c-08ffd08c73b4
 JuliaVariables,b14d175d-62b4-44ba-8fb7-3064adc8c3ec
 JuliaWebAPI,480116ec-64ea-5dec-baca-db6b11e96e37
@@ -6254,6 +6256,7 @@ OpenTelemetryExporterPrometheus,34e26579-e93c-4b5e-ba07-7afb633408c2
 OpenTelemetryProto,cc651e92-2989-4f95-bcc3-32e6fb6ac025
 OpenTelemetrySDK,f5929ecf-be04-446c-b2f2-494e1fe70ee4
 OpenTrick,102dff8d-99cb-5cc2-9bf9-d9fe3a2e5e7a
+OpenVAF_jll,c649151a-19b8-53bd-9f17-80f8f8085f60
 Openresty_jll,87da34d4-7b1b-5a94-8376-8cb65bf3132c
 OperationsResearchModels,8042aa49-e599-49ec-a8f7-b5b80cc82a88
 OperatorFlux,47cfafe2-3833-4da3-8183-ce14c2b92cbd
@@ -7822,6 +7825,7 @@ SFrontiers,450466ac-e45e-40ce-9385-fade81a2016c
 SGP4,60da9cfa-42fa-5d4e-b2f8-76785adb806a
 SGtSNEpi,e6c19c8d-e382-4a50-b2c6-174ddd647730
 SHA,ea8e919c-243c-51af-8825-aaa63cd721ce
+SHAKE,9c8de619-9405-45f5-abce-b523323dfc2f
 SHOT_jll,c1ab834c-c4a5-50f5-9156-8f0fe7758b0e
 SHTOOLS,c916fbc8-b869-4f3a-86b1-58538899335e
 SHTOOLS_jll,ff580fc6-ede1-5b7e-942f-684e38381daf
