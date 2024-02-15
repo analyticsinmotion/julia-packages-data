@@ -8098,6 +8098,7 @@ SentencePiece_jll,0cc836cc-86cb-5b0e-b290-caf6c31794d8
 SententialDecisionDiagrams,7fb4d062-ec23-11e9-0b7c-0d74514dd3ea
 Sentinel,b367cf14-19c4-4862-849d-7c6f64208072
 SentinelArrays,91c51154-3ec4-41a3-a24f-3f23e20d615c
+SentinelExplorer,e5d154b4-4325-4737-9c37-b2b3515e42eb
 SentinelMissings,b1dc47e8-ebfd-568c-9de9-431a7ef94af6
 SentinelViews,1c95a9c1-8e3f-460f-8963-106dcc440218
 SeparableFunctions,c8c7ead4-852c-491e-a42d-3d43bc74259e
@@ -10264,6 +10265,7 @@ libinput_jll,36db933b-70db-51c0-b978-0f229ee0e533
 libint_jll,5fdff7f3-485e-5122-bc58-379aa217adcc
 libjlnode_jll,e3ef64f0-f261-50ad-b884-29c8a26457f8
 libjulia_jll,5ad3ddd2-0711-543a-b040-befd59781bbf
+libjwt_jll,4c1783e2-9161-5535-8c19-0930ad2c4cff
 liblinear_jll,275f1f90-abd2-5ca1-9ad8-abd4e3d66eb7
 liblsl_jll,b37880e1-55fa-5503-9f1a-f1223ce0b53e
 libmcfp_jll,7c79adba-b25c-591c-9e76-5703f3b8509b
