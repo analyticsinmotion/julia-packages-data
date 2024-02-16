@@ -577,6 +577,7 @@ Badges,f8f3bd14-6f44-485b-add6-c2abd0d3421f
 BadukGoWeiqiTools,71566503-fddc-4190-936c-ecb38fefcffd
 BagOfWords,87b137f8-3b59-4550-8c54-1b47926674ff
 Bagyo,c1840010-6abe-498f-b4fc-b06597083ddc
+BakerStreet,79c3fcf7-ab10-4df2-b330-e2e1bedd9b25
 Balloons,3e6f9545-655e-4d7e-8b6b-631613c5ed1f
 BallroomSkatingSystem,8aed41a2-23bd-4167-baf7-1f33f6c22702
 BandedMatrices,aae01518-5342-5314-be14-df237901396f
@@ -2348,6 +2349,7 @@ EDF,ccffbfc1-f56e-50fb-a33b-53d1781b2825
 EDFPlus,582d7a84-78fd-59ab-a7bb-47fc6b175004
 EDFlib_jll,b51820a9-a924-5fc2-b09e-5fb7870ce458
 EDKit,f6058819-fd6f-45d3-a3c8-4753d8c54d1a
+EDM4hep,eb32b910-dde9-4347-8fce-cd6be3498f0c
 EFIT,cda752c5-6b03-55a3-9e33-132a441b0c17
 EFTfitter,2a2a6a96-a4ec-477f-941b-476720990667
 EHRAuthentication,45047142-e73a-4b31-ae20-3729a1bbef33
@@ -3333,6 +3335,7 @@ GemmKernels,312cec97-f96c-4f55-a63d-8e567f91b59b
 Gen,ea4f424c-a589-11e8-07c0-fd5c91b9da4a
 GenFlux,bf80db26-2df5-4c23-a907-3a9ed30ce870
 GenICamRuntime_jll,aa41fe3f-f84b-5278-bb8c-b34b17f07c6c
+GenLib,e0fdd441-59bc-4b30-afdc-19bed4d9eb49
 GenLinearAlgebra,2304d612-645f-44c0-913c-a25a709b015d
 GenParticleFilters,56b76ac4-72ef-411e-b419-6d312ed86a6f
 GenServers,7ba82512-5dde-4a56-aa4f-e00f617b4033
@@ -5117,6 +5120,7 @@ MMCAcovid19,3fbf9143-36f1-400e-9c84-fa51782749e9
 MMG_jll,86086c02-e288-5929-a127-40944b0018b7
 MMTF,259c3a9c-12c3-507f-b21f-68ecc40fcda4
 MMseqs2_jll,2f0138a6-2765-53ae-bca2-2fe9d5077335
+MNPDynamics,f81e04c9-20b8-526d-9626-780ee78293fb
 MOSLab,646a8480-3455-4dcb-93e7-a10dc646a0af
 MOTIFs,21ade233-9772-486b-8b4a-1a75b0845905
 MPC_jll,2ce0c516-f11f-5db3-98ad-e0e1048fbd70
