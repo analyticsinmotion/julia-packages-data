@@ -6501,6 +6501,7 @@ Pangomm_jll,9c53b654-4175-57d2-a160-8980ed551c15
 ParGOGraphs,9c72e466-2585-4cd6-b2fc-9c3ab070dc04
 ParSpMatVec,ccf9b6e2-7ea7-596a-9d65-09863b18e8cc
 ParXRec,ce505a99-8540-44bd-8e52-2947982c0c75
+ParabolicTrigonometry,2c67d0d1-3dd0-4e24-8359-dd001bbc3df8
 ParallelAnalysis,c8fef40c-3641-40f1-b0ae-e08425a5d2fc
 ParallelDataTransfer,2dcacdae-9679-587a-88bb-8b444fb7085b
 ParallelKMeans,42b8e9d4-006b-409a-8472-7f34b3fb58af
@@ -6547,6 +6548,7 @@ ParserCombinator,fae87a5f-d1ad-5cf0-8f61-c941e1580b46
 Parsers,69de0a69-1ddd-5017-9359-2bf0b02dc9f0
 PartedArrays,c45eb73e-4025-11e9-27c7-23913323ccd5
 PartialFunctions,570af359-4316-4cb7-8c74-252c00c2016b
+PartialFuns,f26b6392-6076-4cfd-b91e-dd0fce713497
 PartialLeastSquaresRegressor,f4b1acfe-f311-436c-bb79-8483f53c17d5
 PartialSvdStoch,1149b383-0994-4c0b-8959-503b8afb0ac2
 PartialWaveFunctions,793d2195-304b-438e-bbb1-bc33c872ac39
@@ -7084,6 +7086,7 @@ Pseudopotentials,1b2dc2e6-48aa-4f00-b8f4-19d1a71d7a0e
 Pseudoseq,5fa9f68e-f4b0-11e8-18b8-fb82dd3c6483
 Pseudospectra,d6c5b33e-0240-5bd5-a771-a97ae748a961
 PseudostableRecurrences,4f7db8a5-8d22-4d9a-baad-9979a979c0ae
+PsychExpAPIs,77c98508-ef4f-4ba4-b29c-7765a84ccfdf
 PsychometricsBazaarBase,b0d9cada-d963-45e9-a4c6-4746243987f1
 PsychometricsBazzarBase,8a5e4057-03e0-4a42-ba57-0eb88ce604f5
 PsychomotorVigilanceTask,3a23ab9a-e60c-4129-b1e4-17a645949bd3
