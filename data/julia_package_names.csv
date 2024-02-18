@@ -5890,6 +5890,7 @@ NavAbilitySDK,f3e6a059-199c-4ada-8143-fcefb97e6165
 Navigation,cc87a3b2-3706-4f35-b5b4-b2c85061916d
 Nbdev,d6ab3a89-b2a3-4279-9123-91d1be4d1a9a
 NbodyGradient,69f646f0-5709-4f35-9e52-1656edff0883
+Nclusion,cef8bb50-3052-47ee-9080-7fa14a4c9a42
 Ncurses,247b9857-0442-4f1c-b9a0-de109b4a5af1
 Ncurses_jll,68e3532b-a499-55ff-9963-d1c0c0748b3a
 NeRCA,89b7c20c-a96a-11e9-35df-35fba0891eb2
@@ -6531,6 +6532,7 @@ ParametricAirfoils,4c14af30-da9f-11e9-34cd-f9f0aee9fd2c
 ParametricLP,8460d8c8-5267-486f-aef2-9a24dd859eab
 ParametricMCPs,9b992ff8-05bb-4ea1-b9d2-5ef72d82f7ad
 ParametricOptInterface,0ce4ce61-57bf-432b-a095-efac525d185e
+ParametricProcesses,9ce9415f-ecd2-4b63-a3f6-984ce63e76ce
 ParametrisedConvexApproximators,668502ff-1e8f-42bf-95c7-24f1e819f537
 Parametron,41fac6d6-0ffa-5bcc-b863-17dd4947be41
 Paraml,0a452357-00e2-49ec-9da5-12084d27edbc
@@ -7466,6 +7468,7 @@ RawFile,7a16de70-abc6-11e8-02b0-4fe68abe0eac
 RayCastWorlds,a48166eb-4254-4927-9a4f-eb5d9658c5fa
 RayCaster,17f63090-eba8-4cc7-872a-3f6808909c39
 RayTraceEllipsoid,f4cd0703-4c39-5e89-823d-694fbb07b12c
+RayTraceHeatTransfer,7cf1493d-886e-405c-b582-53b49fa147b6
 RayTracer,60dacb86-48ff-11e9-0f01-03ab8794bbc9
 RayTracing,3007c720-8091-40db-9339-e09e4eb4c7ea
 Raylib,681baf3e-1d1e-48c9-b5e5-b1aea2d6d4d9
@@ -8903,6 +8906,7 @@ SymbolicCodegen,fc9b0551-4f1b-42e1-8440-e8a535f5a551
 SymbolicControlSystems,886cb795-8fd3-4b11-92f6-8071e46f71c5
 SymbolicGA,be1275fb-6550-422f-8b88-a5943ccecfb8
 SymbolicIndexingInterface,2efcf032-c050-4f8e-a9bb-153293bab1f5
+SymbolicInference,0c4721b3-3133-403d-859d-6fdff663af57
 SymbolicIntegration,315ce56f-eed0-411d-ab8a-2fbdf9327b51
 SymbolicNumericIntegration,78aadeae-fbc0-11eb-17b6-c7ec0477ba9e
 SymbolicPlanners,b6fe5377-9711-4fad-95b0-be4eed71ecbb
@@ -9365,6 +9369,7 @@ Tricks,410a4b4d-49e4-4fbc-ab6d-cb71b17b3775
 Tries,666c268a-d78f-417b-b45a-09e10b365109
 TrigPolys,bbdedc48-cb31-4a37-9fe3-b015aecc8dd3
 Trilinos_jll,b6fd3212-6f87-5999-b9ea-021e9cd21b17
+TrillionDollarWords,d66529d5-f4f4-49d9-a69b-da67f5535f0a
 TriplotBase,981d1d27-644d-49a2-9326-4793e63143c3
 TriplotRecipes,808ab39a-a642-4abf-81ff-4cb34ebbffa3
 Trixi,a7f1ee26-1774-49b1-8366-f1abc58fbfcb
