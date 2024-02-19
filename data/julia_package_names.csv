@@ -775,6 +775,7 @@ BioRecordsProcessing,321bc2d7-9525-42af-8b23-17b2621d5ea8
 BioSeqInt,576b2be1-a97f-46b2-8c3d-3d276b5e41b2
 BioSequences,7e6ae17a-c86d-528c-b3b9-7f778a29fe59
 BioServices,a0d4ced5-b29c-5395-b614-ca030a679c4b
+BioSimplex,f37aa7dd-fb3b-4c75-b722-300831487a5c
 BioStockholm,eeb925a3-6f9d-43e6-829e-e0ea03b76ecf
 BioStructures,de9282ab-8554-53be-b2d6-f6c222edabfc
 BioSymbols,3c28c6f8-a34d-59c4-9654-267d177fcfa9
@@ -1661,6 +1662,7 @@ Convex,f65535da-76fb-5f13-bab9-19810c17039a
 Convex1d,d65ab6ab-6660-44ea-a7a3-f3acdcb1c2e6
 ConvexBodyProximityQueries,e9983d58-8b29-5530-8046-db49618142f9
 ConvexFit,87351080-99b7-4180-88c0-67eb87125a50
+ConvexFlows,e6d6bbd2-f446-4b3b-b420-735d85b530c7
 ConvexHulls2d,438b5665-92b0-42e6-bc36-e4ac8449fa2d
 ConvolutionOperators,15927181-a1bb-497c-b745-8dbf505c019d
 ConvolutionalOperatorLearning,3c17ac3d-2343-4d75-b01f-81723beeda4b
@@ -3176,6 +3178,7 @@ GBIF,ee291a33-5a6c-5552-a3c8-0f29a1181037
 GBIF2,dedd4f52-e074-43bf-924d-d6bce14ad628
 GBPirate,c37147bc-d8ce-4575-897d-76a03a2493f7
 GCCBootstrap_jll,7627cfbf-f290-59f7-b5e8-595c7b62b918
+GCIdentifier,b7ea765e-cbac-4e4a-9b0d-5427cc302506
 GCMAES,4aa9d100-eb0f-11e8-15f1-25748831eb3b
 GCP,5a343a44-5b48-11e9-39be-f77f9e6fd977
 GCPDecompositions,f59fb95b-1bc8-443b-b347-5e445a549f37
@@ -3538,6 +3541,7 @@ GoTextProtocol,605aa4d1-f09b-4313-be12-5c56fd59aa57
 Goalign_jll,ed1357da-d9e6-57e3-b342-6130e0ca2d5e
 GoldenSequences,e13314f6-e9b3-11e9-0763-f13dff015e8a
 GoldfarbIdnaniSolver,906ccaf3-f60c-4d27-be89-7848ae703cf8
+GoodsteinSequences,808baba0-b719-11eb-2c94-7207250e358f
 GoogleCloud,55e21f81-8b0a-565e-b5ad-6816892a5ee7
 GoogleCloudObjectStores,2a67aa01-6213-50f9-bb91-c167b72acb78
 GoogleCodeSearch,be5e5202-b427-58d6-b196-3d129152056c
@@ -5547,6 +5551,7 @@ Mixtape,17c23775-69b5-4366-8053-0c64bad4914c
 MixtureDensityNetworks,521d8788-cab4-41cb-a05a-da376f16ad79
 Mjolnir,1154507a-7ac2-44fe-9f15-34617bca9db5
 Mkcert,f2e023e7-06c5-4a31-9859-21762dffa823
+MnemonicDiscriminationIndex,4ce081f7-88d2-45e6-980f-ae8df33f05ea
 MoM_AllinOne,ed5fc19a-51e0-403b-bf3b-cfeba61ff831
 MoM_Basics,84796d1e-6a74-43fe-971c-cdafebd16eaa
 MoM_Kernels,831fc53b-0fa6-4fbb-adc4-fa1e0b19763e
@@ -7297,6 +7302,7 @@ QuantumStateDistributions,78ba9c6e-4c92-4abc-8d32-e9cb1304b8da
 QuantumStatePlots,42a22799-231f-43e2-8d9d-80a724399a88
 QuantumSymbolics,efa7fd63-0460-4890-beb7-be1bbdfbaeae
 QuantumTomography,1d9c40fe-1d26-11ea-03f8-f5801c7a1696
+QuantumToolbox,6c2fb7c5-b903-41d2-bc5e-5a7c320b9fab
 QuantumWalk,715ab00d-497d-5f5e-92b0-16e551a8d81b
 QuartetNetworkGoodnessFit,1382f7fc-2744-4d9d-8ec6-1e3efdec0746
 Quarto,d7167be5-f61b-4dc9-b75c-ab62374668c5
@@ -7402,6 +7408,7 @@ RadeonProRender,27029320-176d-4a42-b57d-56729d2ad457
 RadeonProRender_jll,e92fa02b-1b7a-5e4e-a5cb-14fe26dfc45b
 RadialBasisFunctionModels,48790e7e-73b2-491a-afa5-62818081adcb
 RadialBasisFunctions,79ee0514-adf7-4479-8807-6f72ea8967e8
+RadialPiecewisePolynomials,7dab568b-3cf7-4f91-a977-b4631dfca174
 RadiationDetectorDSP,afd6e06f-c550-5763-af36-7391d39e46ec
 RadiationDetectorSignals,bf2c0563-65cf-5db2-a620-ceb7de82658c
 RadiationSpectra,4f207c7e-01da-51d7-a1a0-c8c06dd1d883
@@ -9856,6 +9863,7 @@ WorldDynamics,34572acc-64b2-43ec-bac8-7b2a4baad13f
 WorldOceanAtlasTools,04f20302-f1b9-11e8-29d9-7d841cb0a64a
 WorldVocoder,7277111d-0ca7-4af3-9cd2-5d6e94f85dba
 Wrangling,9e19721c-8a1a-4e7b-ae00-562464868f98
+WrapIt_jll,c56a8eb6-3dd0-5432-903d-1a19a3d2a949
 WrappedMultiGraphs,2815cbbd-0d7d-431b-a8da-1940906b5714
 WrappedR,2cb1610a-c9de-4cc5-9cd8-c4853e5c0aaf
 WringTwistree,b97f57d3-c4d5-419f-b8d9-90964b0843a1
