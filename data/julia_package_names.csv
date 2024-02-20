@@ -3081,6 +3081,7 @@ FranklinTemplates,3a985190-f512-4703-8d38-2a7944ed5916
 FranklinTheorems,f9b7297b-b8b9-4883-a559-829bcd556a2f
 FranklinUtils,dcd8a645-c81d-482f-af4b-568f72f3e16d
 Fread,d4cd8268-698a-43f6-9edf-e88d5ecd117c
+FrechetDist,04d82aa0-596e-49d4-9e15-129fccfbf66a
 FredApi,1f615318-737c-46ca-9fde-6231706b5dcc
 FredData,6e85b7ee-7d24-5488-b1b7-e4f4198c51ac
 Fredholm,1b4b468e-bff8-4dce-bfe5-35e47b6235aa
@@ -4589,6 +4590,7 @@ LLSModels,39f5bc3e-5160-4bf8-ac48-504fd2534d24
 LLVM,929cbde3-209d-540e-8aea-75f648917ca0
 LLVMCGUtils,c5498d99-2f2d-4cb3-afa9-ddf6a5930ca7
 LLVMCompilerRT_jll,4e17d02c-6bf5-513e-be62-445f41c75a11
+LLVMDowngrader_jll,f52de702-fb25-5922-94ba-81dd59b07444
 LLVMExtra_jll,dad2f222-ce93-54a1-a47d-0025e8a3acab
 LLVMLibUnwind_jll,47c5dbc3-30ba-59ef-96a6-123e260183d9
 LLVMLoopInfo,8b046642-f1f6-4319-8d3c-209ddc03c586
@@ -4751,6 +4753,7 @@ LibGEOS,a90b1aa1-3769-5649-ba7e-abc5a9d163eb
 LibGEOSMakie,1902729b-b4d4-4bb0-ae7d-e2f19e2a15fb
 LibGit2_jll,e37daf67-58a4-590a-8e99-b0245dd2ffc5
 LibIIO,054d326e-df27-43d9-b4b2-3b491c653341
+LibLZO,32aa4ff1-cc5a-4ead-abec-09bb076ef871
 LibMPDec_jll,7106de7a-f406-5ef1-84f7-3345f7341bd2
 LibModbus,eb9b09e8-e158-48db-9998-d0f1810f0d04
 LibModbus_jll,f28bf708-275a-52ef-9ea6-4821c17573f9
