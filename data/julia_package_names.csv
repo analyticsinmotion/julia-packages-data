@@ -1432,6 +1432,7 @@ Cobweb,ec354790-cf28-43e8-bb59-b484409b7bad
 CocktailDB,5dab4e14-3d8d-47b0-9250-6e6291c569a8
 CodeCosts,01031290-36d5-4888-8ad8-581b08f8a907
 CodeInfoTools,bc773b8a-8374-437a-b9f2-0e9785855863
+CodeSearch,a370208a-6d19-4556-96f2-3584234c2a74
 CodeTools,53a63b46-67e4-5edd-8c66-0af0544a99b9
 CodeTracking,da1fd8a2-8d9e-5ec2-8556-3022fb5608a2
 CodeTransformation,3c9fd3ee-a92c-11e9-08dd-a9434b97651a
@@ -4640,6 +4641,7 @@ LambdaMaker,8b137802-21d4-43b8-8610-b92ef2bbc330
 LambertW,984bce1d-4616-540c-a9ee-88d1112d94c9
 LandDataTools,d1413c6f-1a60-4f18-acd6-8d361c31e2f3
 LandauDistribution,6012e1b8-0df6-47e7-96ae-5acef29e6d22
+LandsatExplorer,28909d84-766e-4dab-8e3e-91fd31d78b70
 Langevin,42433972-eea5-42bb-ab72-392315b4e8df
 LanguageDetect,cd500c3e-2407-4d3b-a6bb-21ab03710513
 LanguageFinder,e8e009a8-4479-409b-a274-75b76d9b8a40
@@ -6000,6 +6002,7 @@ NodeCall,84d67a5e-1aa2-4817-a501-81e0ebf70bff
 NodeJS,2bd173c7-0d6d-553b-b6af-13a54713934c
 NodeJS_16_jll,a4b94fbf-73f5-58ff-888d-48a8396e17f6
 NodeJS_18_jll,c1e1d063-8311-5f52-a749-c7b05e91ae37
+NodeJS_20_jll,c7aee132-11e1-519c-8219-0a43005e73c2
 NodesAndModes,7aca2e03-f7e2-4192-9ec8-f4ca66d597fb
 Noise,81d43f40-5267-43b7-ae1c-8b967f377efa
 NoiseRobustDifferentiation,470638dc-0858-4731-a73a-678bdc45695b
