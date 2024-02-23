@@ -2159,6 +2159,7 @@ DirectSum,22fd7b30-a8c0-5bf2-aabe-97783860d07c
 DirectTrajectoryOptimization,a9f42406-efe7-414c-8b71-df971cc98041
 DirectedAcyclicGraphs,1e6dae5e-d6e2-422d-9af3-452e7a3785ee
 DirectionalStatistics,e814f24e-44b0-11e9-2fd5-aba2b6113d95
+DiscoDiff,944e5dbc-7108-4f31-a215-df58b8009117
 Discord,e67e5439-1494-44b2-b9ab-d191a16377ec
 Discreet,c2843242-4f35-58a6-a2a0-7e7527607317
 DiscreteChoiceModels,c2e53169-916a-425c-bc99-aa016d67d968
@@ -9580,6 +9581,7 @@ UniversalFeynRulesOutput,e2970b7e-a80f-4839-9fc1-2a0f2f4c4333
 UnixMmap,674b2976-56af-439b-a2b1-837be4a3d087
 UnixTimes,ab1a18e7-b408-4913-896c-624bb82ed7f4
 Unmarshal,cbff2730-442d-58d7-89d1-8e530c41eb02
+Unroll,36e64239-2ab9-4580-84fb-56737a503d36
 Unrolled,9602ed7d-8fef-5bc8-8597-8f21381861e8
 UnrollingAverages,3f956635-a9f6-4086-ac4e-002c78554187
 UnsafeArrays,c4a57d5a-5b31-53a6-b365-19f8c011fbd6
