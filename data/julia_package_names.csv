@@ -2526,6 +2526,7 @@ Enzyme,7da242da-08ed-463a-9acd-ee780be4f1d9
 EnzymeCore,f151be2c-9106-41f4-ab19-57ee4f262869
 EnzymeTestUtils,12d8515a-0907-448a-8884-5fe00fdf1c5a
 Enzyme_jll,7cc45869-7501-5eee-bdea-0790c847d4ef
+EoSSuperancillaries,c1bf003f-4e47-49d9-bdfd-5a4051db3c04
 Ephemerides,6a9c3322-c8fe-4c26-8ad6-14a6f8acd2a0
 Epicrop,ba61b42c-0a63-478a-861d-cedeca8bda8f
 EpithelialDynamics1D,ace8a2d7-7779-48a6-a8a4-cf6831a7e55b
@@ -4348,6 +4349,7 @@ JlrsLedger_jll,946c7259-7191-581b-9320-f4a77977c88e
 JlrsReflect,3e9c415f-dc9c-4763-9f27-843ce091455a
 JobSchedulers,eeff360b-c02d-44d3-ab26-4013c616a17e
 JointEnergyModels,48c56d24-211d-4463-bbc0-7a701b291131
+JointSurvivalModels,54f05ff3-c196-4f1a-acfd-0c2b8e4405db
 JokerJailBreak,58f162c1-cbb9-45ca-87ec-ee33e09b9a4e
 Jokes,51dfaa90-333b-4553-a411-bc8026e4957c
 Jolab,0583885e-d035-482f-8ce1-fd86afbe19e8
@@ -5961,6 +5963,7 @@ NetworkLayout,46757867-2c16-5918-afeb-47bfcb05e46a
 NetworkLearning,e2554591-2d5a-5553-bb4c-ff0ef3342964
 NetworkOptions,ca575930-c2e3-43a9-ace4-1e988b2c1908
 NetworkProtocols,cc8e9863-198f-4c11-8208-8a22403099d5
+NeumannKelvin,7f078b06-e5c4-4cf8-bb56-b92882a0ad03
 NeuralArithmetic,ab1feca7-9272-4c7d-b713-789d3461e743
 NeuralAttentionlib,12afc1b8-fad6-47e1-9132-84abc478905f
 NeuralDynamics,4a0b20f9-fc5a-4814-8f96-b33a141a51c8
@@ -6579,6 +6582,7 @@ ParticleMDI,c070f950-bb2a-11e8-1d15-1b6f26bd9de9
 ParticleMethods,b097825d-39ce-45b2-a4ab-941e2c2df7e8
 ParticleScattering,3532a73c-0c3e-5edc-89e3-d771336b0a2d
 PartitionedArrays,5a9dfac6-5c52-46f7-8278-5e2210713be9
+PartitionedSolvers,11b65f7f-80ac-401b-9ef2-3db765482d62
 PartitionedStructures,a6683cb1-4e99-4d03-b5b5-b79ed0acabcf
 PartitionedVectors,9d5e22db-ddc8-46c9-8309-91b035e7f733
 PassiveTracerFlows,dc26d6a1-c8d5-50f2-8a17-f57a5c578a00
@@ -7227,6 +7231,7 @@ Qt5Tools_jll,a9c6e4b1-b2fb-56d5-96a9-25f276f13840
 Qt65Compat_jll,f5784262-74e5-52be-b835-f3e8a3cf8710
 Qt6Base_jll,c0090381-4147-56d7-9ebc-da0b1113ec56
 Qt6Declarative_jll,629bc702-f1f5-5709-abd5-49b8460ea067
+Qt6Positioning_jll,3ab57c46-54b1-52cd-a3f5-dc477084d9ef
 Qt6ShaderTools_jll,ce943373-25bb-56aa-8eca-768745ed7b5a
 Qt6Svg_jll,6de9746b-f93d-5813-b365-ba18ad4a9cf3
 Qt6Wayland_jll,e99dba38-086e-5de3-a5b1-6e4c66e897c3
@@ -8180,6 +8185,7 @@ Shelly,d5c2ffab-b4e7-4ef6-aef9-6ba302e36d3e
 Sherlock,50c525cd-8faa-4dfa-b5e0-1fbe0ebc7ed3
 Sherlogs,d4954a42-a18b-4f81-bb79-24f1192c93d8
 ShiftedArrays,1277b4bf-5013-50f5-be3d-901d8477a67a
+ShiftedProximalOperators,d4fd37fa-580c-4e43-9b30-361c21aae263
 ShipMMG,37f2b0bf-0c13-4883-8808-e75eb56597e7
 ShockwaveProperties,77d2bf28-a3e9-4b9c-9fcf-b85f74cc8a50
 Shoco,f786175c-7be2-5c6f-a66a-14694b1fea27
@@ -9927,6 +9933,7 @@ XboxController,84b136a2-8bec-4844-b63d-93659377b41a
 XbrlXML,bd8e2f07-ddbe-4e10-a07d-d9c59cd9946f
 Xerces_jll,637d83c4-b86a-5d90-b82d-5cf0573a8cfc
 Xfoil,19641d66-a62d-11e8-2441-8f57a969a9c4
+XicTools_jll,05e36573-c726-5118-99be-97aa17437f28
 Xicor,77194b58-d7c3-46dd-b530-0e56265cadd8
 Xorg_compositeproto_jll,0af4abc2-9bda-511f-85a5-daebf69421ba
 Xorg_damageproto_jll,17eb5352-d50b-5fdc-b767-c749cd790e65
