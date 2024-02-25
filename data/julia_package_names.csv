@@ -5021,6 +5021,7 @@ MATDaemon,88578114-2e0c-4679-8b18-24dc4fa60bec
 MATFBCModels,bd2e13bf-42c0-49e1-9a9c-885d36daf88b
 MATLAB,10e44e05-a98a-55b3-a45b-ba969058deb6
 MATLABDiffEq,e2752cbe-bcf4-5895-8727-84ebc14a76bd
+MAiNGO,19f71287-e05d-461c-be93-c347e7defd4d
 MAiNGO_jll,6ab0fed5-a098-5dc6-978d-ebec7ca9d2e4
 MCAnalyzer,a81df072-f4bb-11e8-03d3-cfaeda626d18
 MCHammer,58716550-704d-11e9-05c2-8f708e47025f
@@ -5794,6 +5795,7 @@ NASM_jll,08ca2550-6d73-57c0-8625-9b24120f3eae
 NBInclude,0db19996-df87-5ea3-a455-e3a50d440464
 NBodySimulator,0e6f8da7-a7fc-5c8b-a220-74e902c310f9
 NCBITaxonomy,f88b31d2-eb98-4433-b52d-2dd32bc6efce
+NCCL,3fe64909-d7a1-4096-9b7d-7a0f12cf0f6b
 NCCL_jll,4d6d38e4-5b87-5e63-912a-873ff2d649b7
 NCDataFrame,419ca8c6-2b20-4634-9f6c-b2c5f1429aea
 NCDatasets,85f8d34a-cbdd-5861-8df4-14fed0d494ab
@@ -7043,6 +7045,7 @@ ProbabilisticRoadMap,773847ca-07cc-414d-a27c-4458bbc76b2b
 ProbabilityBoundsAnalysis,cd73f0b2-6f06-11ea-242f-83a09de6a7cf
 Probably,2172800d-0309-5a57-a84f-d50c94757422
 Problox,41531fc7-7f15-48cd-9c2f-2efb66d9fe65
+ProcessBasedModelling,ca969041-2cf3-4b10-bc21-86f4417093eb
 ProconIO,14bbafba-0b52-4ec8-8fe0-855204a3b917
 Procrastinate,3362a694-cdb4-48f5-aa9a-ff559879651c
 ProductArrays,39a08dd0-b4b7-4086-afbb-eb1796240846
@@ -9533,6 +9536,7 @@ Unicode2LaTeX,a6a4b4a1-58ae-5f2f-bbf9-c7004aa6538b
 UnicodeFun,1cfade01-22cf-5700-b092-accc4b62d6e1
 UnicodeGraphics,ebadf6b4-db70-5817-83da-4a19ad584e34
 UnicodePlots,b8865327-cd53-5732-bb35-84acbb429228
+UnicodeREPL,386912cb-a936-462a-a347-7bd6cef0b04e
 Unicode_Entities,a8aa15d3-c567-5e9f-b6cc-4b0f97f09cf7
 Unicorn_jll,6d54e6d0-aa66-5537-971b-bc3b5065bd4e
 Unidecode,967fb449-e509-55aa-8007-234b4096b967
@@ -9683,6 +9687,7 @@ VegaLite,112f6efa-9a02-5b7d-90c0-432ed331239a
 VegetationPeriods,4df5cbe9-1151-4758-a012-f067475fd452
 Vensim2MTK,6539e830-265a-11ee-32ea-19fcbc6dc4d8
 VerTeX,cc48e778-429c-5593-b60f-2bcf41d5649c
+VeriQuEST,3aa2c528-5caf-4a2e-b044-409d1cbc6a28
 VerizonEctoken_jll,020a3b16-f9c3-57ee-bc19-dd452accb145
 VersatileHDPMixtureModels,cb401d7d-c4f9-4284-af24-a1eca280e8e8
 VersionCheck,a637dc6b-bca1-447e-a4fa-35264c9d0580
