@@ -1741,6 +1741,7 @@ CrypticCrosswords,5f016b6a-1706-11e9-24c5-5177419d09cb
 CryptoCompare,11e80037-4638-4273-b0e8-a6ba7842ecc6
 CryptoDashApp,8f55a569-a1ee-45d2-b761-b2b316ddd8e9
 CryptoGroups,bc997328-bedd-407e-bcd3-5758e064a52d
+CryptoMarketData,57973c84-8724-49d2-9af5-7f2266b21095
 CryptoMiniSat,8e9d5576-ec03-11e9-187e-e534548435ab
 CryptoMiniSat_jll,cf02a7a8-8cd0-5932-97be-477f95a4d9ce
 CryptoSignatures,35cc5888-0c46-470e-89c7-eafcaf79a1aa
@@ -7238,6 +7239,8 @@ Qt6Positioning_jll,3ab57c46-54b1-52cd-a3f5-dc477084d9ef
 Qt6ShaderTools_jll,ce943373-25bb-56aa-8eca-768745ed7b5a
 Qt6Svg_jll,6de9746b-f93d-5813-b365-ba18ad4a9cf3
 Qt6Wayland_jll,e99dba38-086e-5de3-a5b1-6e4c66e897c3
+Qt6WebChannel_jll,83f1a98f-4f9b-584f-8f95-63c67b3a1da2
+Qt6WebSockets_jll,35d9aba7-3991-5541-aec2-52abade7e365
 Qt_jll,ede63266-ebff-546c-83e0-1c6fb6d0efc8
 QuDiffEq,c02438fe-7edc-11e9-0a49-b5c5aafabe04
 QuEST,2f8c4c1a-2c62-410c-b829-98d6ce53c0c2
@@ -9432,6 +9435,7 @@ TulipaClustering,314fac8b-c762-4aa3-9d12-851379729163
 TulipaEnergyModel,5d7bd171-d18e-45a5-9111-f1f11ac5d04d
 TulipaProfileFitting,0aa31362-0b7e-4e8d-8385-676712fa7ef3
 Tullio,bc48ee85-29a4-5162-ae0b-a64e1601d4bc
+TumorGrowth,f6b3d34e-977a-4e7e-a738-d5ddf4b5a606
 TupleSorting,4fd249ec-063c-4b22-9af8-9ff2212cc22c
 TupleTools,9d95972d-f1c8-5527-a6e0-b4b365fa01f6
 TupleVectors,615932cf-77b6-4358-adcd-5b7eba981d7e
@@ -10255,6 +10259,7 @@ kubectl_jll,ed23c2a5-89c4-5d52-b0ca-9d53aadf8c45
 lapackpp_jll,5dde4c60-e15a-59a1-8194-93aa09eef4ab
 lazygit_jll,01a6f0b2-7079-58b6-a815-2223d49c44bc
 ldid_jll,df1af0dd-2f85-5d2f-b099-55d224f7db60
+lfr_benchmark_jll,cb590574-ea86-51dd-800e-297a027516d0
 lib4ti2_jll,1493ae25-0f90-5c0e-a06c-8c5077d6d66f
 libCEED_jll,762fde13-7596-547b-826d-8223c52d51c1
 libLAS_jll,84dbc9eb-108a-5969-a599-69afb4e6b6ac
