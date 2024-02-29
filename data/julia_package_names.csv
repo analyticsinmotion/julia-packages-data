@@ -407,6 +407,7 @@ AssociativeWindowAggregation,444271a7-5434-4a02-b82b-0e30a9223c60
 AsterReader,cb1a753d-6b7b-52e3-9bfe-57d99d445c39
 AstroAngles,5c4adb95-c1fc-4c53-b4ea-2a94080c53d2
 AstroChemistry,7f947402-6d9b-49de-a6e7-82c660dce669
+AstroConstants,59872b50-2c0f-4331-84f7-44577a892ba3
 AstroIC,5b3ca070-48c3-41ea-b469-89825dd01fde
 AstroIO,c85a633c-0c3f-44a2-bffe-7f9d0681b3e7
 AstroImages,fe3fc30c-9b16-11e9-1c73-17dabf39f4ad
@@ -2633,6 +2634,7 @@ ExpiringCaches,bd5c46ae-da38-4b10-bcdd-5005402f2c4f
 ExplainabilityMethods,cd722a4f-8d55-446b-8550-a4aabc9151ab
 ExplainableAI,4f1bc3e1-d60d-4ed0-9367-9bdff9846d3b
 ExplicitFluxLayers,aafdbc67-5cd5-409a-82a0-ebc47ac8091e
+ExplicitImports,7d51a73a-1435-4ff3-83d9-f097790105c7
 ExpmV,a3781d3e-2c8e-5597-8496-846d69e16182
 Expokit,a1e7a1ef-7a5d-5822-a38c-be74e1bb89f4
 ExponentialAction,e24c0720-ea99-47e8-929e-571b494574d3
@@ -3654,6 +3656,7 @@ Groebner,0b43b601-686d-58a3-8a1c-6623616c7cd4
 GroebnerBasis,e39c9192-ea4d-5e15-9584-a488c6d614bd
 GroundMotion,1a1bcaad-b889-5540-93fc-02c6735e0f5a
 GroundwaterPlots,4497dbff-a3fd-4ae5-909f-dd1339757ac3
+GroupNumbers,3c80737e-c28d-49fd-9c64-d7d44b4f4ed8
 GroupPresentations,e70aea02-d551-4d4a-88dc-a60a3b79560b
 GroupRings,0befed6a-bd73-11e8-1e41-a1190947c2f5
 GroupSlices,d853e229-7c7c-56e9-b6be-9a1acc5f13d9
