@@ -3595,6 +3595,7 @@ GraphMatFun,456a00ab-810a-4bbb-9f06-6bc08c0a1e82
 GraphNetCore,7809f980-de1b-4f9a-8451-85f041491431
 GraphNets,9052fb24-8e06-4531-a321-89bd3c4584f9
 GraphNeuralNetworks,cffab07f-9bc2-4db1-8861-388f63bf7694
+GraphOptInterface,2c3d953e-07eb-42f7-9900-e75950e41d88
 GraphPPL,b3f8163a-e979-4e85-b43e-1f63d8c8b42c
 GraphPlot,a2cc645c-3eea-5389-862e-a155d0052231
 GraphQLClient,09d831e3-9c21-47a9-bfd8-076871817219
@@ -9692,6 +9693,7 @@ Vcov,ec2bfdc2-55df-4fc9-b9ae-4958c2cf2486
 Vecchia,8d73829f-f4b0-474a-9580-cecc8e084068
 VectorBackedLists,64f724f3-1cac-477b-9517-c036ece31ef8
 VectorInterface,409d34a3-91d5-4945-b6ec-7529ddf182d8
+VectorPrisms,fca4bea3-143f-49fa-bca2-9809b242ef85
 VectorSphericalHarmonics,4b2bd704-7189-418b-a6ce-5ef15384b069
 VectorSphericalWaves,bf4a7d2c-6958-4c00-8946-baf74e22a0dc
 VectorizationBase,3d5dd08c-fd9d-11e8-17fa-ed2836048c2f
@@ -9907,6 +9909,7 @@ WorldDynamics,34572acc-64b2-43ec-bac8-7b2a4baad13f
 WorldOceanAtlasTools,04f20302-f1b9-11e8-29d9-7d841cb0a64a
 WorldVocoder,7277111d-0ca7-4af3-9cd2-5d6e94f85dba
 Wrangling,9e19721c-8a1a-4e7b-ae00-562464868f98
+WrapIt,962878d8-9763-11ee-8c14-fbf60c98afae
 WrapIt_jll,c56a8eb6-3dd0-5432-903d-1a19a3d2a949
 WrappedMultiGraphs,2815cbbd-0d7d-431b-a8da-1940906b5714
 WrappedR,2cb1610a-c9de-4cc5-9cd8-c4853e5c0aaf
