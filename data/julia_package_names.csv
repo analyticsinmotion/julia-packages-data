@@ -1760,6 +1760,7 @@ Crystallography,3bff3928-7a76-11e9-2089-d112443085a5
 CrystallographyBase,93b1d1cd-a8ea-4aa5-adb1-b2407ea0ba8d
 CrystallographyCore,80545937-1184-4bc9-b283-396e91386b5c
 CrystallographyRecipes,6d201c90-cd51-4bcb-ba42-504028e2f5e7
+Cthonios,a67e86c2-42a5-4f10-921b-1e94bb8ae306
 Cthulhu,f68482b8-f384-11e8-15f7-abe071a5a75f
 CuArrays,3a865a2d-5b23-5a0f-bc46-62713ec82fae
 CuCountMap,7f9ef4d9-b8e2-47f5-be66-f1ea02ff3f4a
@@ -2484,6 +2485,7 @@ Elliptic,b305315f-e792-5b7a-8f41-49f472929428
 EllipticFunctions,6a4e32cb-b31a-4929-85af-fb29d9a80738
 EllipticalSliceSampling,cad2338a-1db2-11e9-3401-43bc07c9ede2
 Elly,0bb624de-12df-571d-ad84-47aef8b93290
+EltypeExtensions,583f92f5-06d6-4306-8236-316410defc98
 EmacsVterm,b2ad6718-fff2-47f2-82f8-4d98a2866c7e
 EmailScraper,4bfef8eb-d10e-4c1e-a6a0-b774b262ad28
 EmbeddedGraphs,9c1af47c-29f5-11e9-0b47-9f5334384f20
@@ -6257,6 +6259,7 @@ OpenFHE_jll,a2687184-f17b-54bc-b2bb-b849352af807
 OpenFOAM_com_jll,fd4958d8-5e5c-566c-bfe6-815b1420e10d
 OpenFOAM_jll,89340185-c6b7-517e-a5e0-0a450377a6e4
 OpenGLMathematics_jll,cc7be9be-d298-5888-8f50-b85d5f9d6d73
+OpenGeoSysUncertaintyQuantification,2b9e718a-2bbf-456a-af48-1d5a69fa48c6
 OpenIDConnect,195a77af-17c0-520f-ac58-3336c7ea8576
 OpenInterfaces,07e4ff7f-07bb-45cd-9e58-8fac98767c00
 OpenJpeg_jll,643b3616-a352-519d-856d-80112ee9badc
@@ -6329,6 +6332,7 @@ Optimisers,3bd65402-5787-11e9-1adc-39752487f4e2
 Optimization,7f7a1694-90dd-40f0-9382-eb1efda571ba
 OptimizationAlgorithms,5eef6961-c6df-46a7-ba44-0f01c6045f8f
 OptimizationBBO,3e6eede4-6085-4f62-9a71-46d9bc1eb92b
+OptimizationBase,bca83a33-5cc9-4baa-983d-23429ab6bcbb
 OptimizationCMAEvolutionStrategy,bd407f91-200f-4536-9381-e4ba712f53f8
 OptimizationEvolutionary,cb963754-43f6-435e-8d4b-99009ff27753
 OptimizationFlux,253f991c-a7b2-45f8-8852-8b9a9df78a86
@@ -6399,6 +6403,7 @@ PALEOboxes,804b410e-d900-4b2a-9ecd-f5a06d4c1fd4
 PALEOcopse,4a6ed817-0e58-48c6-8452-9e9afc8cb508
 PALEOmodel,bf7b4fbe-ccb1-42c5-83c2-e6e9378b660c
 PALEOocean,41de04b1-2efd-44ae-92ae-39d71a4fd99b
+PALEOsediment,e0a37952-6f01-4236-91ff-62fdc855f67b
 PANDA,57a71ab2-c1ee-420a-94e0-f42fd769768c
 PAPI,c3f66453-0ce3-4e3d-8601-c404262f204f
 PAPI_jll,062e04e5-c3d3-5549-ab66-579a72a7bc1b
@@ -6983,6 +6988,7 @@ PowerFlowData,dd99e9e3-7471-40fc-b48d-a10501125371
 PowerFlows,94fada2c-fd9a-4e89-8d82-81405f5cb4f6
 PowerGraphics,5f7eddb3-86b1-49e8-a95a-ddc0f45eea41
 PowerLawNoise,9abb9eec-80c7-4a18-accd-d591357fead6
+PowerLawSamplers,ea71c90e-cdc5-43db-a32d-9c22f1535540
 PowerModels,c36e90e8-916a-50a6-bd94-075b64ef4655
 PowerModelsACDC,ff45984e-d068-5f4c-9e32-c4133509d236
 PowerModelsADA,bf5a6c5f-0285-47d6-bb57-79927775d05d
@@ -7288,6 +7294,7 @@ QuantReg,a0becc08-653f-40d2-91e7-721373d1053f
 QuantReg_jll,6615ef03-4b82-5800-9c41-81d3e66fba0f
 Quante,62e6779b-560f-53ed-829f-06ad43eb5710
 Quantica,ae5ea0c6-3f5e-46a2-bc28-a7c4c7a4773c
+QuanticsGrids,634c7f73-3e90-4749-a1bd-001b8efc642d
 Quantikz,b0d11df0-eea3-4d79-b4a5-421488cbf74b
 QuantileNN,def46b05-8f36-4d9e-bd86-05836b3c85d9
 QuantileRegressions,c6596682-b856-542f-9fff-31404643e889
@@ -8898,6 +8905,7 @@ SuperLU_MT_jll,00982de7-9f76-5194-84e1-476c61fcc171
 SuperLU_jll,f391fee2-5786-5cc9-9662-0e362ec949e2
 SuperfluidRotSpec,dc1ff568-94fa-4ad3-b92b-d84550c04ff1
 Superfluids,01347403-e5cf-4a60-9350-9edf4e6960f2
+Supernovae,f00d7deb-a70b-45c2-b896-7f55cd638e72
 SupplyChainModeling,8a0b78ce-42db-494b-a45c-80b287de1a3d
 SupplyChainOptimization,785807e5-a5cf-4c87-8002-234621def379
 SupplyChainSimulation,1febdd50-69ad-4f0a-8312-f316c31db602
