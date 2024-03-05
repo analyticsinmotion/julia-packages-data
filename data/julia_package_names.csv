@@ -2157,6 +2157,7 @@ DimensionalData,0703355e-b756-11e9-17c0-8b28908087d0
 DimensionalPlotRecipes,c619ae07-58cd-5f6d-b883-8f17bd6a98f9
 DimensionfulAngles,2d4b8d7a-02d9-40f9-9abe-9c695b77de0d
 Dimensionless,a24885ee-f44e-4313-a031-cb477fdea68a
+Dionysos,d92c97cf-b87d-42c1-a9c0-25df00b4d958
 DiracNotation,e655511c-e992-5001-b8e2-2048e6aa15e9
 DirectConvolution,60a1edcd-6e1b-57a1-8cb7-ec83bf7a2d9a
 DirectDedispersion,a2b09c40-4565-4331-b8db-e5f4adc7e768
@@ -4597,6 +4598,7 @@ LDrawParser,c9062c12-fdd7-47de-ae43-3b8a76d3a662
 LEAN_Community_jll,def0f3ea-0521-5e8c-a7b7-92f0f4873a26
 LERC_jll,88015f11-f218-50d7-93a8-a6af411a945d
 LFAToolkit,3f92b583-c0aa-4596-8bdf-f02f6c0a52df
+LFRBenchmarkGraphs,e2d0dd93-c6be-4a4f-9a61-2b35d7242bb2
 LFUDACache,4ae1174a-2808-43b3-975e-65e36c59b120
 LFortran_jll,ce41e285-fe27-5f74-b435-39d2fdbcd14f
 LHAPDF_jll,35e999c2-fdc2-5bcf-ab83-8b034bf9a5d1
@@ -7410,6 +7412,7 @@ RELOG,a2afcdf7-cf04-4913-85f9-c0d81ddf2008
 REPLCompletions,3fc713dc-8771-5a7b-b2d9-79d2995ff451
 REPLHistory,a5566ce3-012c-4b09-85b8-62131f0c3f36
 REPLMaze,124a7ef3-0f4b-4896-aed6-e944e7e0912b
+REPLSmuggler,ad7bff83-59f0-4382-9fe5-c2ac8aa77434
 REPLTetris,6af34c43-eb40-584a-ba44-023879b5265e
 REPLTreeViews,00000000-1111-2222-3333-444444444444
 REPLference,89b048f0-36f8-47dc-b812-110e59d1ec6a
@@ -8971,6 +8974,7 @@ SymbolicGA,be1275fb-6550-422f-8b88-a5943ccecfb8
 SymbolicIndexingInterface,2efcf032-c050-4f8e-a9bb-153293bab1f5
 SymbolicInference,0c4721b3-3133-403d-859d-6fdff663af57
 SymbolicIntegration,315ce56f-eed0-411d-ab8a-2fbdf9327b51
+SymbolicLimits,19f23fe9-fdab-4a78-91af-e7b7767979c3
 SymbolicNumericIntegration,78aadeae-fbc0-11eb-17b6-c7ec0477ba9e
 SymbolicPlanners,b6fe5377-9711-4fad-95b0-be4eed71ecbb
 SymbolicRegression,8254be44-1295-4e6a-a16d-46603ac705cb
@@ -9707,6 +9711,7 @@ Varpro,ad47e2ae-6390-11e8-3558-e91f8c28af54
 VaxData,a6f58a78-e649-57e2-81bc-1d865c7b74f7
 Vcov,ec2bfdc2-55df-4fc9-b9ae-4958c2cf2486
 Vecchia,8d73829f-f4b0-474a-9580-cecc8e084068
+VectorAlignments,137e0234-31ad-43b7-8b27-b236525e28e1
 VectorBackedLists,64f724f3-1cac-477b-9517-c036ece31ef8
 VectorInterface,409d34a3-91d5-4945-b6ec-7529ddf182d8
 VectorPrisms,fca4bea3-143f-49fa-bca2-9809b242ef85
