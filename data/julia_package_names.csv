@@ -3485,6 +3485,7 @@ GeometricTools,83792f5e-c6a1-11e8-2e0a-93511f02ae5f
 GeometricalOptics,bcf78de8-a01d-4207-9174-b5b11956a333
 GeometricalPredicates,fd0ad045-b25c-564e-8f9c-8ef5c5f21267
 GeometryBasics,5c1252a2-5f33-56bf-86c9-59e7332b4326
+GeometryOps,3251bfac-6a57-4b6d-aa61-ac1fef2975ab
 GeometryOptimization,673bf261-a53d-43b9-876f-d3c1fc8329c2
 GeometryPrimitives,17051e67-205e-509e-8301-03b320b998e6
 GeometryTypes,4d00f742-c7ba-57c2-abde-4428a4b178cb
@@ -9130,6 +9131,7 @@ TensorBoardLogger,899adc3e-224a-11e9-021f-63837185c80f
 TensorCast,02d47bb6-7ce6-556a-be16-bb1710789e2b
 TensorCategories,258c694e-7338-4d4d-b524-4851272a75cf
 TensorCore,62fd8b95-f654-4bbd-a8a5-9c27f68ccd50
+TensorCrossInterpolation,b261b2ec-6378-4871-b32e-9173bb050604
 TensorDecompositions,04ed911b-6d5f-4088-a74e-60d2d5028204
 TensorFactorizations,cc4d5295-06e1-420e-aa8e-2bd5f6f39c3c
 TensorFields,86e2b4fd-d9c8-44dc-a03f-e0a387f3b4e6
