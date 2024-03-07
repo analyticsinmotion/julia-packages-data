@@ -4886,6 +4886,7 @@ LineSearches,d3d80556-e9d4-5f37-9878-2ab0fcc64255
 LinearAdjoints,3201237a-9847-11e9-0d2a-6d530c977506
 LinearAlgebraX,9b3f67b0-2d00-526e-9884-9e4938f8fb88
 LinearAlgebraicRepresentation,95167b0c-186a-594b-a231-52369c6de044
+LinearCombinations,67be3549-475c-46bf-8928-de3404d670d9
 LinearCovarianceModels,4af8ee2a-afa9-11e9-10dc-fb1b37f8f4b5
 LinearDynamicsModels,93c30095-2a61-55f3-920e-6649674b8a9e
 LinearElasticity,8b390c8a-e41e-419b-b3a5-595c9a4d2b26
@@ -5258,6 +5259,7 @@ Malt,36869731-bdee-424d-aa32-cab38c994e3b
 Mamba,5424a776-8be3-5c5b-a13f-3551f69ba0e6
 MambaLite,ee262687-6dc1-48e3-a463-c0a35b1bf9d0
 MambaModels,3348d572-c7ce-5100-8a2c-7d2bb2d34f8f
+ManagedLoops,36a4119d-6b73-4371-88fe-ba2d91f5495d
 Mangal,b8b640a6-63d9-51e6-b784-5033db27bef2
 Mango,5e49fdec-d473-4d14-b295-7bff2fcf1925
 ManifestUtilities,8c44504f-1cba-4a08-a12a-8828b1581fee
@@ -9978,6 +9980,7 @@ XSteamUnits,8dcf7b82-35f3-4204-ad2f-e05d602ed089
 XTermColors,c8c2cc18-de81-4e68-b407-38a3a0c0491f
 XUnit,3e3c03f2-1a94-11e9-2981-050a4ca824ab
 XVGReader,b7ef2bfb-7515-4281-9a05-d3c99bbad18e
+XXHashNative,e5d8e439-e7fa-4681-9c12-1c64bda517be
 XXhash,137af188-b1ec-11e9-0b40-31ed9142ae64
 XYZFiles,a225628a-78ad-46da-a6ce-ba24cead9d4b
 XZ_jll,ffd25f8a-64ca-5728-b0f7-c24cf3aae800
