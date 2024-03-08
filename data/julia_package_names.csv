@@ -920,6 +920,7 @@ BraidChains,2f0bda38-0aac-4c24-8082-32a9a5324934
 BraidGroup,88710b8a-735b-4c46-a451-f37baff89cb3
 BrainFlow,abd5acf9-0fc9-4730-984d-e27a37823580
 Braket,19504a0f-b47d-4348-9127-acc6cc69ef67
+BraketAHS,aad1d28c-1a3f-47da-806d-2ed76430c1d6
 BranchAndBound,df125234-20bf-4c0f-9bfa-104d3353f312
 BranchAndPrune,d3bc4f2e-91e6-11e9-365e-cd067da536ce
 BranchFlowModel,73c867df-75f8-459f-abd8-059b58de1e18
@@ -2710,6 +2711,7 @@ FFMPEG,c87230d0-a227-11e9-1b43-d7ebe4e7570a
 FFMPEG_jll,b22a6f82-2f65-5046-a5b2-351ab43fb4e5
 FFTA,b86e33f2-c0db-4aa1-a6e0-ab43e668529e
 FFTDists,872ebf62-bb8d-4945-b244-254eba715075
+FFTIndexing,71991d8d-1ef0-4564-8bfb-550f91a1a974
 FFTInterpolations,e9c4abe8-3893-4664-acb8-58f49d1e9fc0
 FFTResampling,c3173eba-33fe-4761-8a84-0ec65b39ba9a
 FFTViews,4f61f5a4-77b1-5117-aa51-3ab5ef4ef0cd
@@ -7116,6 +7118,7 @@ PropDicts,4dc08600-4268-439e-8673-d706fafbb426
 ProperOrthogonalDecomposition,78421dfc-ac16-5d69-8300-c22153e3d0b6
 PropertyDicts,f8a19df8-e894-5f55-a973-672c1158cbca
 PropertyFunctions,09e99361-2bb8-48a2-a80f-de58f0739eb4
+PropertyMethods,347c79ec-5835-41b8-b087-11d269c34aff
 PropertyUtils,7eaf9d98-b424-4a14-afcb-82e7a14ea1c6
 ProportionalFitting,3c40d49d-59d4-4b5d-adaa-75a7fbc8c64f
 Proportions,cc50ea96-f961-4e72-b5ee-c2bc8a08302f
@@ -7911,6 +7914,7 @@ SIIPExamples,2c79006f-6450-48c4-b124-fbadab4f299d
 SIMD,fdea26ae-647d-5447-a871-4b548cad5224
 SIMDDualNumbers,3cdde19b-5bb0-4aaf-8931-af3e248e098b
 SIMDMath,5443be0b-e40a-4f70-a07e-dcd652efc383
+SIMDMathFunctions,d22a7203-ad50-4fbc-abc4-d6ac724cca58
 SIMDPirates,21efa798-c60a-11e8-04d3-e1a92915a26a
 SIMDPolynomials,4edc584b-a88b-4acf-80bb-891198a11e01
 SIMDTypes,94e857df-77ce-4151-89e5-788b33177be4
@@ -8922,6 +8926,7 @@ SupplyChainModeling,8a0b78ce-42db-494b-a45c-80b287de1a3d
 SupplyChainOptimization,785807e5-a5cf-4c87-8002-234621def379
 SupplyChainSimulation,1febdd50-69ad-4f0a-8312-f316c31db602
 SupportPoints,23b1b04d-225f-44b8-8726-13685da4c661
+Supposition,5a0628fe-1738-4658-9b6d-0b7605a9755b
 Suppressor,fd094767-a336-5f1f-9728-57cf17d0bbfb
 SurfaceCoverage,75f4d65b-1b42-4905-9fb1-6d40607712e8
 SurfaceFluxes,49b00bb7-8bd4-4f2b-b78c-51cd0450215f
