@@ -1609,6 +1609,7 @@ Conjugates,cd731e1f-768d-4c10-b144-5251ec0945a2
 ConnectFourSolver,c01be385-ab27-4b9c-92b7-2e6a77fbe7c3
 ConnectFourSolver_jll,5ab91c8a-5c16-538d-97cb-84915cefd4b0
 Consensus,39099a2c-f609-41b4-99c2-62ec6735b6c9
+ConsensusBasedX,8f5ebde3-ef8e-4825-b277-c25898c0de77
 ConservationLawsParticles,dbb53eb6-f4e4-11e9-1aca-071dd871ed0a
 ConsistencyResampling,4937dc1f-c7a3-5772-9d42-4a8277f2eb51
 ConsistentKoopman,e2e491fc-7d8f-4591-840c-7964746acd08
@@ -2755,6 +2756,7 @@ FMISensitivity,3e748fe5-cd7f-4615-8419-3159287187d2
 FMIZoo,724179cf-c260-40a9-bd27-cccc6fe2f195
 FMM2D,2d63477d-9690-4b75-bcc1-c3461d43fecc
 FMM2D_jll,0fc7e017-fbf9-5352-9b8d-9e37f15ce1cd
+FMM3D,1e13804c-f9b7-11ea-0ef0-29f3b1745df8
 FMM3D_jll,62c264cc-5bfb-59d7-84eb-c0e4dde7f66b
 FMMLIB2D,1a804d9e-d798-534b-a6a9-4525c36f0718
 FMUComplianceChecker_jll,0194ec6b-b63a-5ff6-8ef2-16ca86305613
@@ -3783,6 +3785,7 @@ HarmonicBalance,e13b9ff6-59c3-11ec-14b1-f3d2cc6c135e
 HarmonicOrthogonalPolynomials,e416a80e-9640-42f3-8df8-80a93ca01ea5
 HarmonicPolya,ace2b9e4-5609-4448-9398-3ff0de655bd8
 HarmonicPowerFlow,86181a9d-c058-48c5-9890-3e968e8a8777
+HarmonicPowerModels,56365af1-a032-4c1d-861b-3c9f15bdb54e
 HarwellRutherfordBoeing,ce388394-9b3f-5993-a911-eb95552e4f2e
 HashArrayMappedTries,076d061b-32b6-4027-95e0-9a2c6f6d7e74
 HashCode2014,7bbed249-721d-42ac-b1f6-7cf884be0fbe
@@ -7308,6 +7311,7 @@ QuantReg_jll,6615ef03-4b82-5800-9c41-81d3e66fba0f
 Quante,62e6779b-560f-53ed-829f-06ad43eb5710
 Quantica,ae5ea0c6-3f5e-46a2-bc28-a7c4c7a4773c
 QuanticsGrids,634c7f73-3e90-4749-a1bd-001b8efc642d
+QuanticsTCI,b11687fd-3a1c-4c41-97d0-998ab401d50e
 Quantikz,b0d11df0-eea3-4d79-b4a5-421488cbf74b
 QuantileNN,def46b05-8f36-4d9e-bd86-05836b3c85d9
 QuantileRegressions,c6596682-b856-542f-9fff-31404643e889
@@ -8841,6 +8845,7 @@ StringCases,f22f4433-750e-5048-95f9-cae576f2c120
 StringDistances,88034a9c-02f8-509d-84a9-84ec65e18404
 StringEncodings,69024149-9ee7-55f6-a4c4-859efe599b68
 StringManipulation,892a3eda-7b42-436c-8928-eab12a02cf0e
+StringMethod,e62e6a7e-3b2b-4391-b20a-030a7103b929
 StringParserPEG,b0c8ea40-1aeb-11ea-0927-b51424bf2dfe
 StringViews,354b36f9-a18e-4713-926e-db85100087ba
 StripRTF,221a10cb-40ed-42a6-9d60-e07216d033df
@@ -9453,6 +9458,7 @@ Trixi,a7f1ee26-1774-49b1-8366-f1abc58fbfcb
 Trixi2Img,821991e7-028e-4e54-884c-f74f8833bc95
 Trixi2Vtk,bc1476a1-1ca6-4cc3-950b-c312b255ff95
 TrixiBase,9a0f1c46-06d5-4909-a5a3-ce25d3fa3284
+TrixiParticles,66699cd8-9c01-4e9d-a059-b96c86d16b3a
 TropicalCyclonePotentialIntensity,3d638a7a-a2e4-42bc-a032-160bbf3719f9
 TropicalGEMM,a4ad3063-64a7-4bad-8738-34ed09bc0236
 TropicalGemmC_jll,4f4992fb-2984-5eba-87b8-475305d0f5fc
