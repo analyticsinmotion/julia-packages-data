@@ -6762,6 +6762,7 @@ Pinchot_jll,a0e007bb-30f3-5a40-a04b-58baf70e7e14
 Pinecone,ee90fdae-f7f0-4648-8b00-9c0307cf46d9
 Pingouin,61ac1d4c-5a1f-4019-949c-7919748f8c44
 Pio3d,276a7f50-ef14-5ff6-a3e3-20ef51d5e3d7
+Pioran,58cf54c2-5899-443a-99a6-60958a74ec4a
 Pipe,b98c9c47-44ae-5843-9183-064241ee97a0
 Pipebraces,25a62be5-bbe8-4619-a10f-9066af09d2c9
 Pipelines,ef544631-5c6f-4e9b-994c-12e7a4cd724c
@@ -6820,6 +6821,7 @@ Plasma,d4286570-51d5-4bbe-9c0b-035637fe1a6e
 PlasmaEquilibriumToolkit,57ef8d28-8191-49ce-8cf8-17f9379aac88
 Plasmo,d3f7391f-f14a-50cc-bbe4-76a32d1bad3c
 PlasmoData,18473d7d-a938-4be0-a189-2b040dfe6be7
+PlasmoDataPlots,edc0d1de-cbb6-43e5-80c3-282b59182d08
 PlasmoPlots,a21664a3-f668-4e98-8a13-7892286ec16a
 PlateKinematics,f961096e-11ae-497c-ad8a-ff09638a4fbf
 PlateMotionRequests,d13234e1-ff52-466f-9770-1615bbbda812
@@ -8370,6 +8372,7 @@ SimplexQuad,f5de1e94-2f77-472d-8c3b-9d09f580ee5e
 Simplices,d5428e67-3037-59ba-9ab1-57a04f0a3b6a
 Simplicial,bb1577d6-fed0-5ffd-8131-5296c7c3c7ad
 SimplicialCubature,552d7cc9-94b7-4d62-a95c-872e87830e46
+SimplicialSets,3f952873-5d0e-4cfa-8412-438bae177e42
 Simpson,8e55fee6-e67b-4637-994c-810009a3f62d
 Simpsons,777baba0-b230-11eb-2c94-4386250cf58f
 SimradEK60,8e323af8-d215-5c39-b262-30cfc2fa9c48
@@ -8991,6 +8994,7 @@ SymbolicLimits,19f23fe9-fdab-4a78-91af-e7b7767979c3
 SymbolicNumericIntegration,78aadeae-fbc0-11eb-17b6-c7ec0477ba9e
 SymbolicPlanners,b6fe5377-9711-4fad-95b0-be4eed71ecbb
 SymbolicRegression,8254be44-1295-4e6a-a16d-46603ac705cb
+SymbolicSigns,27726e8a-9648-448d-a8f7-a27e0ac037d6
 SymbolicUtils,d1185830-fcd6-423d-90d6-eec64667417b
 SymbolicWedderburn,858aa9a9-4c7c-4c62-b466-2421203962a2
 Symbolics,0c5d862f-8b57-4792-8d23-62f2024744c7
@@ -10221,6 +10225,7 @@ cmt_jll,65323cdd-17ec-5719-9643-72016a7f97e3
 cohomCalg_jll,5558cf25-a90e-53b0-b813-cadaa3ae7ade
 coordgenlibs_jll,f6050b86-aaaf-512f-8549-0afff1b4d57f
 coreutils_jll,5818bda4-868b-5068-b238-e370ed6eefef
+cppcheck_jll,74123790-a849-591a-9c73-46a70652358a
 crun_jll,aef68bef-9b3f-58c3-affd-5589e119eed3
 cryptopp_jll,9ced465f-3d53-56cd-9803-9d1649b5e965
 cuDNN,02a925ec-e4fe-4b08-9a7e-0d78e3d38ccd
