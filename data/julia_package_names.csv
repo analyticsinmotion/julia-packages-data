@@ -2138,6 +2138,7 @@ DifferentialEquations,0c46a032-eb83-5123-abaf-570d42b7fbaa
 DifferentialEvolutionMCMC,607db5a9-722a-4af8-9a06-1810c0fe385b
 DifferentialForms,9e54b8bf-1ae4-4c45-8656-f6b46e7970a3
 DifferentialPhaseContrast,4f2186bb-3a2c-44f0-a062-04c6d4d3fd0d
+DifferentialRiccatiEquations,9819f967-4574-4d9d-b214-002eeba273d9
 DiffieHellman,0e61fee8-20a4-4374-8233-5198f28d9d66
 DiffinDiffs,1c15b2bf-cfaa-4a64-9ed6-b84bdd745e5c
 DiffinDiffsBase,7fc23ce2-6e83-4e3c-822f-a79085ccb3e8
@@ -3167,6 +3168,7 @@ FwiFlow,a6a960b4-e246-4968-83bc-819d1955448a
 FymEnvs,d6fd7ba0-2ca9-4676-ba23-5bed9e863cfb
 GADM,a8dd9ffe-31dc-4cf5-a379-ea69100a8233
 GAFramework,91ca9103-c91c-5507-a6ff-05d8648e996f
+GALAHAD,c591611e-c43e-4808-98fb-ce4cafe3a717
 GALAHAD_jll,1621ace8-c1f0-5e32-a05d-ca786afa56c2
 GAMS,1ca51c6a-1b4d-4546-9ae1-53e0a243ab12
 GANAK_jll,fb55a5e3-47f6-5155-863f-85a2a13cd9d0
@@ -4093,6 +4095,7 @@ IncompleteLU,40713840-3770-5561-ab4c-a76e7d0d7895
 IncompressibleNavierStokes,5e318141-6589-402b-868d-77d7df8c442e
 IncrementalInference,904591bb-b899-562f-9e6f-b8df64c7d480
 IncrementalPruning,82ee451e-1805-57fd-b4f9-e90c19bcb3e9
+IncrementalSVD,de227602-7e15-40a7-b166-bbaff82a52b8
 Indefinite,45c00fa2-1600-43ce-a2e6-f91e59655264
 IndentWrappers,6d4a1be2-e6b5-52a1-bf76-533525bce15e
 IndependentComponentAnalysis,a506da57-2f56-4b21-828f-08a84784c93c
@@ -5734,6 +5737,7 @@ MultiAgentSysAdmin,a4538d8c-5052-4f30-aec9-286910cf67a1
 MultiAssayExperiments,c9137f73-29f3-4436-b9da-846274f1d332
 MultiAssign,5e2c8b86-4afa-40de-bd09-d9d381e5dc2b
 MultiBisect,66877b0d-840f-4af8-a0b5-b62f5ea465b3
+MultiBroadcastFusion,c3c07f87-98de-43f2-a76f-835b330b2cbb
 MultiCDF,663b7897-4180-4011-967b-e4930277ef1a
 MultiChannelColors,d4071afc-4203-49ee-90bc-13ebeb18d604
 MultiComponentFlash,35e5bd01-9722-4017-9deb-64a5d32478ff
@@ -10434,6 +10438,7 @@ libwinit_jll,97be0fec-884d-58b1-bbbf-0a8836650f3e
 libxcrypt_jll,87c3e826-2eb0-5ec5-bf6f-86db62fa23b2
 libxcrypt_legacy_jll,5ef642bb-a58b-5208-ae37-583168b2c491
 libxls_jll,86717fa1-76ed-5f2d-aba0-009d7207923f
+libzenohc_jll,938f45e1-bfa9-5428-95ae-33d45742c18e
 libzip_jll,337d8026-41b4-5cde-a456-74a10e5b31d1
 licensecheck_jll,4ecb348a-8b88-51ea-b912-4c460483ee91
 llama_cpp_jll,98bd2d0b-bc7c-583a-ba54-7299b0ad0e7f
