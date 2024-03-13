@@ -1182,6 +1182,7 @@ Carlo,780c37f4-4e5a-43de-9e79-65c261e525a4
 CarouselArrays,728b0f75-d1ac-44d2-96e7-73f1be4eca2f
 CartesianCutCell,21ad27bb-7bae-4588-b189-a1a591923795
 CartesianDDM,e340eb63-7005-45f1-b263-fba3e88328fa
+CartesianDomains,31d3d393-e656-4614-8ab7-f376885a6db2
 CartesianGeneticProgramming,a58c8383-ac42-4eac-b920-efb5a098c09c
 CartesianGrids,3e975e5d-2cf8-4263-9573-8460aaf534d9
 CartesianJoin,53bdf068-0a7a-4e29-924d-659363f059ee
@@ -1610,6 +1611,7 @@ ConnectFourSolver,c01be385-ab27-4b9c-92b7-2e6a77fbe7c3
 ConnectFourSolver_jll,5ab91c8a-5c16-538d-97cb-84915cefd4b0
 Consensus,39099a2c-f609-41b4-99c2-62ec6735b6c9
 ConsensusBasedX,8f5ebde3-ef8e-4825-b277-c25898c0de77
+ConsensusBasedXPlots,69c88b9d-9dd6-4dd3-8f65-085fa43a946d
 ConservationLawsParticles,dbb53eb6-f4e4-11e9-1aca-071dd871ed0a
 ConsistencyResampling,4937dc1f-c7a3-5772-9d42-4a8277f2eb51
 ConsistentKoopman,e2e491fc-7d8f-4591-840c-7964746acd08
@@ -4994,6 +4996,7 @@ LongestPaths,3a25c17e-307c-411a-a047-890a9a5fbb4d
 LongwaveModePropagator,38c6559a-e0a7-48c6-827d-3f02e2d19cec
 LookingGlass,1fcbbee2-b350-4a01-aad8-439064dba09e
 LoopFieldCalc,896acac2-5fe1-47fe-8ead-27e3a9bc5c85
+LoopManagers,d33d4f76-8fbe-47a6-acd9-ead534c583ff
 LoopThrottle,39f5be34-8529-5463-bac7-bf6867c840a3
 LoopTools,928ab408-997d-4a59-a6b5-2799fca5a421
 LoopTools_jll,e275ce21-2bb6-5a50-939e-e917944b1aed
@@ -10189,6 +10192,7 @@ basiclu_jll,5629d00f-ba42-508e-84a8-8193befe9d4f
 battery_cli_jll,dd074c01-bd9e-510d-b91d-361c690844c9
 bcftools_jll,b51ba988-139c-5e66-8d45-d5b53cbf8c72
 beefalo_jll,a30d6a8e-903d-54eb-aa61-387f835467ce
+biber_jll,8ac4b36a-8846-5b9b-8645-a4ae0c6335e5
 bitshuffle_jll,228fe19c-1b83-5282-a626-13744502a320
 bitwarden_cli_jll,9720d140-3882-5b8d-84f3-6af565c4e518
 blasfeo_jll,6b574d4a-bb57-5a4b-b7e6-1c794c903646
