@@ -3352,6 +3352,7 @@ GaussianMixtureTest,435c3d8c-e5f4-5f7f-83ee-d96dcc9b5a11
 GaussianMixtures,cc18c42c-b769-54ff-9e2a-b28141a64aae
 GaussianProcesses,891a1506-143c-57d2-908e-e1f8e92e6de9
 GaussianRandomFields,e4b2fa32-6e09-5554-b718-106ed5adafe9
+GaussianRelations,8e80e5df-fef1-4887-b628-3eb47b49e5ff
 GaussianSimulation,e40f437e-72ad-4a71-a29e-78c1c8d897bb
 GaussianVariationalInference,f96f1e2a-1be0-483a-ac4e-37f33550e2cb
 GcodeParser,62e9c5db-4b94-4124-bf6e-8488b3d8d26b
