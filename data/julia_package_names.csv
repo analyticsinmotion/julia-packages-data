@@ -3571,6 +3571,7 @@ GoAWS,00b10cec-568b-4d01-83ea-8604cd7f25ae
 GoFish,d00ce6d8-e47b-41eb-9812-442785832f3b
 GoTextProtocol,605aa4d1-f09b-4313-be12-5c56fd59aa57
 Goalign_jll,ed1357da-d9e6-57e3-b342-6130e0ca2d5e
+Gogeta,8b0c908c-0e18-4590-8d3d-9c2483fd76bf
 GoldenSequences,e13314f6-e9b3-11e9-0763-f13dff015e8a
 GoldfarbIdnaniSolver,906ccaf3-f60c-4d27-be89-7848ae703cf8
 GoodsteinSequences,808baba0-b719-11eb-2c94-7207250e358f
@@ -4454,6 +4455,7 @@ Jutul,2b460a1a-8a2b-45b2-b125-b5c536396eb9
 JutulDarcy,82210473-ab04-4dce-b31b-11573c4f8e0a
 JutulDarcyRules,41f0c4f5-9bdd-4ef1-8c3a-d454dff2d562
 K8sClusterManagers,5aeab163-63d2-4171-9fbf-e22244d80acb
+K8sDeputy,2481ae95-212f-4650-bb21-d53ea3caf09f
 KAShim_jll,652de3ec-ffb6-5c91-88b5-9e9ede6ab7e4
 KCP_jll,000eeb74-f857-587a-a816-be5685e97e75
 KCenters,5d8de97f-65f8-4dd6-a15b-0f89c36a43ce
@@ -6511,6 +6513,7 @@ PQPolygonSDK,a9381516-e38f-4c81-935c-32707fb4df4c
 PRIMA,0a7d04aa-8ac2-47b3-b7a7-9dbd6ad661ed
 PRIMA_jll,eead6e0c-2d5b-5641-a95c-b722de96d551
 PRIMME_jll,9916bc9e-ef43-57a6-9be0-2f3f923f8145
+PRISMA,7b67a8d2-c4f5-4933-b91c-0fc427024db5
 PROJ_jll,58948b4f-47e0-5654-a9ad-f609743f8632
 PRONTO,97df7862-8962-462b-83f4-d1fea1a8c26c
 PROPACK,b169e327-5944-5131-97a6-5d3d3f0a476a
@@ -10365,6 +10368,7 @@ libconfuse_jll,9f03c2a6-2865-5578-ae11-af8a29163b66
 libcrossterm_jll,7fdd842c-1c35-5047-b6c4-5b8c94d478bc
 libcsv_jll,76ce3406-eb3b-58b5-9095-caeac20e920c
 libcxxwrap_julia_jll,3eaa8342-bff7-56a5-9981-c04077f7cee7
+libdatachannel_jll,a9336cb3-2ff0-5b58-948f-a453a6f195b0
 libdeflate_jll,46979653-d7f6-5232-b59e-dd310c4598de
 libdivsufsort_jll,3acd9466-597a-52f5-9fc8-ad906e2116c6
 libdrm_jll,8e53e030-5e6c-5a89-a30b-be5b7263a166
