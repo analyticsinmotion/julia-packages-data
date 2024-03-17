@@ -6665,6 +6665,7 @@ Peccon,f5b9415a-ee94-4c1d-9f36-779b616d2866
 Pedigree,fd4f9bdd-bf75-4419-92eb-a4eb745abf0e
 PedigreeBase,9e3bf72a-84c4-4798-98fd-c28eed5cded1
 Peggy,73a55e99-9441-455f-8acb-d9f8f3d4403a
+PellsEquation,b53f056f-43f6-4734-8d94-3aedffe6e4fb
 PenPlots,61246389-3d51-4c70-b82d-266223a1b313
 PenaltyFunctions,06bb1623-fdd5-5ca2-a01c-88eae3ea319e
 PencilArrays,0e08944d-e94e-41b1-9406-dcf66b6a9d2e
@@ -8677,6 +8678,7 @@ SquidGame,dd7facba-cbc5-45d8-adb5-1f8b832104f1
 Squirrel,257d0e10-ba0c-4014-b61a-657d3b5dcd33
 StLifeIns,eeb17163-f076-48da-b693-6d8cb2af5572
 StableDQMC,0827807b-44c9-51d0-af97-efe667fe6b2a
+StableDistributions,3756410d-ab6e-41a2-9897-9aa267a7ef31
 StableHLO_jll,8e2113cd-f17d-5ab7-b6d2-001f8cdd4bf4
 StableHashTraits,c5dd0088-6c3f-4803-b00e-f31a60c170fa
 StableHashes,2ca40811-0e74-4ca9-a2c0-1cd8c267dd5a
@@ -8959,6 +8961,7 @@ SurrealDB,0dc7cda7-6a2c-4f49-b8ae-2ed91ee7b183
 SurrealNumbers,58abba7c-3f8b-5571-af36-87c463197a71
 SurrealdbWS,7b3dffa2-a94d-4703-aaf5-57911c725dc8
 SurrogateModelOptim,dc3f66f6-feed-11e8-2006-85573fddfdbc
+SurrogatedDistanceModels,0e04eddd-96ac-454e-8372-d12cc190ad6e
 Surrogates,6fc51010-71bc-11e9-0e15-a3fcc6593c49
 SurrogatesAbstractGPs,78aa1720-c2af-471b-b307-964fd38f9b5f
 SurrogatesBase,89f642e6-4179-4274-8202-c11f4bd9a72c
