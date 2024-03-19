@@ -928,6 +928,7 @@ BranchFlowModel,73c867df-75f8-459f-abd8-059b58de1e18
 BranchTests,734052d1-fea3-4ffe-af92-b9cc64c3051c
 Bravais,ada6cbde-b013-4edf-aa94-f6abe8bd6e6b
 BraveNewAlgorithm,62e8e4ba-3e3d-40af-bbe6-192e07c2d347
+BrazilCentralBank,1db8e8ca-f8ef-4fae-b3f5-ea2940ece087
 BrazilFinancialData,83903589-8fc8-4699-b7ad-cfd56ee128ec
 Bridge,2d3116d5-4b8f-5680-861c-71f149790274
 BridgeDiffEq,1aa9af3a-2424-508f-bb7e-0626de155470
@@ -1992,6 +1993,7 @@ DebugAdapter,17994d07-08fe-42cc-bc1b-7af499b1ea47
 DebugDataWriter,810e33c6-efd6-4462-86b1-f71ae88af720
 Debugger,31a5f54b-26ea-5ae9-a837-f05ce5417438
 DebuggingUtilities,5a34b05b-6094-51df-87c5-5e0368a91250
+DebyeFunctions,91f3b874-6c94-4f22-b713-af5bc3fd212f
 DecFP,55939f99-70c6-5e9b-8bb0-5071ed7d61fd
 DecFP_jll,47200ebd-12ce-5be5-abb7-8e082af23329
 Decapodes,679ab3ea-c928-4fe6-8d59-fd451142d391
@@ -8159,6 +8161,7 @@ SegyIO,157a0f19-4d44-4de5-a0d0-07e2f0ac4dfa
 SeisBase,8b7dfb90-41a7-4c72-9751-87603311c074
 SeisIO,b372bb87-02dd-52bb-bcf6-c30dd83fd342
 SeisMain,5696fd22-15e8-11e9-1986-f9ab08703604
+SeisMakie,1618359f-28d0-421c-9c3d-0705aaf8cc0d
 SeisModels,47bbc3d6-959e-5592-a00a-d17660d07a0f
 SeisNoise,8cc7c3c0-6b5d-11e9-39fe-c9cd0236e08b
 SeisPDF,724aefe2-fcf9-4672-ae74-24b98027dbbf
@@ -9235,6 +9238,7 @@ TetGen_jll,b47fdcd6-d2c1-58e9-bbba-c1cee8d8c179
 Tetris,d02b474b-c6a0-45b1-beee-9a2049fa00e6
 TexTables,ebf5ac4f-3ec1-555f-9ac9-3d72ed88c471
 TexasHoldem,6cef90fc-eb55-4a2a-97d0-7ecce2b738fe
+Text2Tex,14f4b459-b795-4db2-be2a-be7a7c74c78d
 TextAnalysis,a2db99b7-8b79-58f8-94bf-bbc811eef33d
 TextBox,699dc53c-77f3-421a-b787-0eea097c79c4
 TextClassification,8e067cb0-742a-4f90-93f9-f1fa01b385ec
