@@ -502,6 +502,7 @@ AvailablePotentialEnergyFramework,ce1b76f3-601c-5192-adf8-a07e935792b9
 Avalon,d462d321-1585-4840-9f3e-06f5c1b6ea25
 AverageShiftedHistograms,77b51b56-6f8f-5c3a-9cb4-d71f9594ea6e
 Avro,65fc3dcb-49af-4f0c-a340-607eef534a14
+Avro_jll,497e9ebb-6d82-5bd4-be3d-5b7dba4508ca
 AvrutinSearch,ed76c251-e25f-44f6-91ec-f57abd734d0d
 Awabi,b89ecf66-93e0-42cf-a85d-3fd691c1774b
 AwkwardArray,7d259134-7f60-4bf1-aa00-7452e11bde56
@@ -8367,6 +8368,7 @@ SimpleSDMDatasets,2c7d61d0-5c73-410d-85b2-d2e7fbbdcefa
 SimpleSDMLayers,2c645270-77db-11e9-22c3-0f302a89c64c
 SimpleSolvers,36b790f5-6434-4fbe-b711-1f64a1e2f6a2
 SimpleStatics,755f8035-bddb-4884-b09e-b908b7adad44
+SimpleStringScanners,fe2b3641-c6e9-460c-8da8-2838146e3f25
 SimpleSudoku,8f8cde19-4581-4697-bfbd-917306c72405
 SimpleTensorNetworks,4456351a-5be3-4067-ade9-541926a41e04
 SimpleTestRunner,4aa1efa8-8c96-46dc-bb17-447ab531c4bc
@@ -9219,6 +9221,7 @@ TestDatasets,d87db82d-f13c-4813-8aaa-e1e6f642888e
 TestEnv,1e6cf692-eddd-4d53-88a5-2d735e33781b
 TestExtras,5ed8adda-3752-4e41-b88a-e8b09835ee3a
 TestFunctionRunner,792026f5-ac9a-4a19-adcb-47b0ce2deb5d
+TestHandcalcFunctions,6ba57fb7-81df-4b24-8e8e-a3885b6fcae7
 TestImages,5e47fb64-e119-507b-a336-dd2b206d9990
 TestItemDetection,76b0de8b-5c4b-48ef-a724-914b33ca988d
 TestItemRunner,f8b46487-2199-4994-9208-9a1283c18c0a
