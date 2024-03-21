@@ -2926,6 +2926,7 @@ FinEtoolsFlexBeams,1d6e2fc3-29aa-4bd6-bf55-212bcb8e2840
 FinEtoolsFlexStructures,723391e6-6814-4d1d-921c-018f691214d8
 FinEtoolsHeatDiff,972d1c22-8bdd-11e9-11cf-cdcb7577b041
 FinEtoolsMeshing,2cd38203-e337-4286-87ff-2ce1a63ddf55
+FinEtoolsMultithreading,6d2818ca-ed81-4c53-b1fa-1f68c2fd5913
 FinEtoolsTetsFromTris,7dbda32b-b8f8-4b95-b50c-a09c52aba2c8
 FinEtoolsVibInFluids,bec31ec3-4858-4ad8-9f9e-aabdaa4a593b
 FinEtoolsVoxelMesher,508a6b02-8bde-11e9-1a67-e1104bdc04c9
@@ -6051,6 +6052,7 @@ NicePipes,13650a8a-fc62-4efe-b79a-7f834fdd9eb5
 NighttimeLights,4d912a30-7731-4b12-9bf5-9d9a78b4f19a
 Ninja_jll,76642167-d241-5cee-8c94-7a494e8cb7b7
 NipponColors,6ad8dad8-821c-43d6-81bb-8d3dfb5c0fb6
+NistyPQC,2b8046e5-a088-403d-a84e-acdf171f9a66
 NoRainbows,0123455d-aa4f-468e-93ab-d299a68444db
 NodalPolynomialSpaces,0b197c3a-da26-4bf3-b373-765e7d9e4c53
 Nodariety,ffab58b1-199d-4bd9-83d9-8aaad2b4ff2e
@@ -9364,6 +9366,7 @@ ToQUBO,9a412ddf-83fa-43b6-9748-7843c851aa65
 ToStruct,43ec2cc1-0e50-5406-a854-b7ff8fdb8dad
 Todo,b28a226c-6cff-11e9-1336-699fd753ab00
 ToeplitzMatrices,c751599d-da0a-543b-9d20-d0a503d91d24
+ToggleMenus,6dfc96c8-e1b7-449c-9871-5de18f44e5a6
 ToggleableAsserts,07ecc579-1b30-493c-b961-3180daf6e3ae
 Tokei_jll,3ac119c9-1236-5556-b556-adc8150b0244
 Tokenize,0796e94c-ce3b-5d07-9a54-7f471281c624
