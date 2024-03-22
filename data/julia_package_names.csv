@@ -917,6 +917,7 @@ BoxSymmetries,c15e2422-6468-4519-b170-1e308ff69150
 BoxesWorld,3a8eabaa-ff0c-46c8-af7c-f38dcbb67fff
 BplusApp,6498524c-785b-4e26-b825-b7be109d6de7
 BplusCore,1fb136ff-715c-473e-9ae1-0caef0ff09b1
+BplusTools,9c855568-ef52-4907-8d6a-2b3bbb89a4a6
 BracedErrors,22c333fb-6c73-5509-a736-78cf55b615ef
 BraidChains,2f0bda38-0aac-4c24-8082-32a9a5324934
 BraidGroup,88710b8a-735b-4c46-a451-f37baff89cb3
@@ -5388,6 +5389,7 @@ MaxPlus,41177cfe-c387-11e9-2806-edd030e4594e
 Maxima,e6386f5f-9a8a-5a5d-a605-d2d61207ca5a
 MaximinOPF,9a7b7887-c5ce-4a33-a17b-c1c258e18085
 MaximumEntropyMomentClosures,2abced8b-c1f8-4749-8ec9-beabb40c04e0
+MaximumIndependentSet_jll,84ef374a-9d6e-5be7-91be-6cf66a2d5e4c
 MaximumLikelihoodPower,b27c85e4-d77a-5c9d-b9af-900830bae76b
 MaximumLikelihoodProblems,e149cee4-a9c8-4a03-a7b6-d91720412337
 Maxvol,4cc553b9-be87-484b-81d9-b5ae2a4e3958
@@ -5673,6 +5675,7 @@ MoistAir,6964bd62-30e7-41c5-9f4a-5b4eb733a2a8
 MoistThermodynamics,0460cc1c-04d8-4f02-b57d-511136c80085
 MolSimToolkit,054db54f-6694-444d-9bbb-e9ecdbfe77be
 MolecularBoxes,aea3f91d-3b18-5712-a377-5bd7ed4ed15b
+MolecularDynamicsFiles,fdf1312e-3664-4954-b7ca-858ba92ca8e2
 MolecularDynamicsIntegrators,293f545e-9dd2-11e9-1210-cf5bcdc9c322
 MolecularEvolution,9f975960-e239-4209-8aa0-3d3ad5a82892
 MolecularGaussians,be997a16-3bf6-4821-ae3d-37ccaa1f3368
@@ -9983,6 +9986,7 @@ WrapIt_jll,c56a8eb6-3dd0-5432-903d-1a19a3d2a949
 WrappedMultiGraphs,2815cbbd-0d7d-431b-a8da-1940906b5714
 WrappedR,2cb1610a-c9de-4cc5-9cd8-c4853e5c0aaf
 WringTwistree,b97f57d3-c4d5-419f-b8d9-90964b0843a1
+WriteDocx,d049ceea-54ee-41d7-a26f-ba29db3b6599
 WriteTFW,49d7a207-2b26-4c4c-b0e9-253fdb5aa2df
 WriteVTK,64499a7a-5c06-52f2-abe2-ccb03c286192
 Wynn,fbb19de7-1342-5f93-8193-71ff412e753d
