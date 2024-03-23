@@ -1241,6 +1241,7 @@ CellSegmentation,bc04555c-6b3a-48e0-9330-69d76e9b444f
 CellularAutomata,878138dc-5b27-11ea-1a71-cb95d38d6b29
 CellularPotts,11b7dee7-cd95-48a5-a457-717aae94d0bd
 CenteredRBMs,def70c09-f69f-4396-afd1-e8507a6dddbf
+CentralizedCaches,d1073d05-2d26-4019-b855-dfa0385fef5e
 CeresSolver_jll,274fe647-06be-54d6-af78-99f37f3755f2
 Cgl_jll,3830e938-1dd0-5f3e-8b8e-b3ee43226782
 ChaChaCiphers,f23b13a2-9352-431b-a28a-b2f20c485fa1
@@ -3071,6 +3072,7 @@ ForecastPlots,95c0ec29-a3eb-434e-bd76-d289ebf6f18a
 ForeignCallbacks,809b5ff2-8730-47bb-8e19-67299d747c44
 Foresight,c6e1034d-1844-4b96-abf2-c5824a5aa8c3
 ForestBiometrics,41a43668-ff68-5e81-b2d7-6ef3c0dd3db1
+ForestPlot,4c160800-dae9-4e88-8d4c-769bf7c259e1
 FormFactor,e4b5035b-6f80-41c4-b9c7-57c4172102a9
 Format,1fa38f19-a742-5d3f-a2b9-30dd87b9d5f8
 FormatSpecimens,3372ea36-2a1a-11e9-3eb7-996970b6ffbd
@@ -4954,6 +4956,7 @@ LittleEndianBase128,1724a1d5-ab78-548d-94b3-135c294f96cf
 LittleEphemeris,216eeeb1-80f3-427b-9618-77bd73e1755d
 LittleManComputer,c742fd3c-88f6-4004-ba45-01ef0bf0104f
 LiveServer,16fef848-5104-11e9-1b77-fb7a48bbb589
+LoRaPHY,646e3a94-a092-4ccf-81d9-1ab43b008f5e
 LoadAllPackages,b37bcd2d-1570-475d-a8c6-9b4fae6d0ba9
 LoadFlint,472f376f-f1cf-461b-9ac1-d103423be9b7
 LoadTensorDecompositions,bae27b42-c72a-5733-8f2d-201965195bfc
@@ -5124,6 +5127,7 @@ MIPVerify,e5e5f8be-2a6a-5994-adbb-5afbd0e30425
 MIRT,7035ae7a-3787-11e9-139a-5545ed3dc201
 MIRTio,274281c4-ae57-11e9-2014-65d3d5d9358c
 MIRTjim,170b2178-6dee-4cb0-8729-b3e8b57834cc
+MITgcm,dce5fa8e-68ce-4431-a242-9469c69627a0
 MITgcmTools,62725fbc-3a66-4df3-9000-e33e85b3a198
 MIToS,51bafb47-8a16-5ded-8b04-24ef4eede0b5
 MKL,33e6dc65-8f57-5167-99aa-e5a354878fb2
@@ -8992,9 +8996,11 @@ SwaggerMarkdown,1b6eb727-ad4b-44eb-9669-b9596a6e760f
 Swalbe,1073fb09-a5e2-4e80-8bde-f3562efda53f
 SwapLiterals,b9c42661-4c44-44aa-8691-47710c88d134
 SwapStreams,0b152c4a-7e29-418b-9258-223db38db9d9
+SwarmMakie,0b1c068e-6a84-4e66-8136-5c95cafa83ed
 SweepContractor,75a5deae-e917-4509-af32-a989148c8d5f
 SweepOperator,7522ee7d-7047-56d0-94d9-4bc626e7058d
 SwiftShader_jll,c404ff5a-e271-5628-8eaa-423d39d64c15
+SwissVAMyKnife,fafdf525-54c7-48ec-ae29-528bd4cccfab
 SwitchOnSafety,ceb7f16a-07bf-5f4a-9354-b68f01b1610f
 Swizzles,60694085-d904-4bfc-95dc-1e0e768e9359
 SymArrays,c2b21f84-4a8e-4c96-99a2-2b79df568f75
@@ -10512,6 +10518,7 @@ neper_jll,258f42f6-ca5a-5cac-81eb-6d63eea71a0c
 nghttp2_jll,8e850ede-7688-5339-a07c-302acd2aaf8d
 ngspice_jll,57e080ce-e004-5ece-a144-c95753423b2a
 nlminb_jll,c04a2911-6870-53d6-aa47-4d7d5aff1028
+nlohmann_json_jll,7c7c7bd4-5f1c-5db3-8b3f-fcf8282f06da
 nng_jll,53193e1d-1121-5463-9373-c3c6ce833a10
 normaliz_jll,6690c6e9-4e12-53b8-b8fd-4bffaef8839f
 ntl_jll,7494e58d-996d-52b4-b7cf-f5d9dde4b521
