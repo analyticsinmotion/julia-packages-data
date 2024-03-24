@@ -8907,6 +8907,7 @@ StructuredArrays,2e8cd123-6858-488d-b42d-068777248635
 StructuredGrids,3d2d666f-9104-4379-abe9-d44f4b99a429
 StructuredLight,13204c95-a6e5-4c09-8c7b-ee09b09e0944
 StructuredOptimization,46cd3e9d-64ff-517d-a929-236bc1a1fc9d
+StructuredPrinting,98e085c8-1edc-4d9d-bf3b-8d7a8502c19d
 StructuresKit,f6c18a9d-8941-4a0a-88a3-c5fc4dcc4715
 Struve,bbbc800e-c7bf-11e8-107b-9b6d1d23829a
 Stuffing,4175e07e-e5b7-423e-8796-3ea7f6d48281
@@ -10099,6 +10100,7 @@ Xorg_xorgproto_jll,c4d99508-4286-5418-9131-c86396af500b
 Xorg_xproto_jll,46797783-dccc-5433-be59-056c4bde8513
 Xorg_xtrans_jll,c5fb5394-a638-5e4d-96e5-b29de1b5cf10
 Xpress,9e70acf3-d6c9-5be6-b5bd-4e2c73e3e054
+Xpress_jll,308bddfa-7f95-4fa6-a557-f2c7addc1869
 Xsum,1fd64df0-a4d2-11e9-360d-2f03868f4cf5
 Xtals,ede5f01d-793e-4c47-9885-c447d1f18d6d
 XtalsPyTools,eeb819d4-c189-4e83-a288-887db76b1875
