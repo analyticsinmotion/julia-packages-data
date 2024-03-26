@@ -1688,6 +1688,7 @@ Cookbook,5c1ef01f-39c8-5834-b1a0-1a342f75f4df
 CoolProp,e084ae63-2819-5025-826e-f8e611a84251
 CoolProp_jll,3351c21f-4feb-5f29-afb9-f4fcb0e27549
 CooperativeGames,4bb2c6fa-c716-443c-bd78-f2a2f3c4e880
+CoordRefSystems,b46f11dc-f210-4604-bfba-323c1ec968cb
 CoordinateConverterGK,d77a50d3-17ea-48e4-bb1c-35f220bfae06
 CoordinateDescent,c00ed354-b9be-54b8-8a23-c5ac771bc43a
 CoordinateTransformations,150eb455-5306-5404-9cee-2592286d6298
@@ -2438,6 +2439,7 @@ EclipsingBinaryStars,298f00ba-5fcf-566c-9100-f8b551e1d946
 EcoBase,a58aae7d-b440-5a11-b283-399458f99aac
 EcoSISTEM,ed2dc23b-ada4-5fdb-a26f-56368a14ad8f
 EcologicalNetworks,f03a62fe-f8ab-5b77-a061-bb599b765229
+EcologicalNetworksDynamics,2fd9189a-c387-4076-88b7-22b33b5a4388
 EcologicalNetworksPlots,9f7a259d-73a7-556d-a7a2-3eb122d3865b
 EconJobMarket,06c3203b-997f-43f4-b568-00aa318f11a0
 EconPDEs,a3315474-fad9-5060-8696-cee5f38a87b7
@@ -3589,6 +3591,7 @@ GoogleCloudObjectStores,2a67aa01-6213-50f9-bb91-c167b72acb78
 GoogleCodeSearch,be5e5202-b427-58d6-b196-3d129152056c
 GoogleCodeSearch_jll,6c08f7c7-e449-597e-96d3-8117915de277
 GoogleDrive,91feb7a0-3508-11ea-1e8e-afea2c1c9a19
+GoogleGenAI,903d41d1-eaca-47dd-943b-fee3930375ab
 GoogleMaps,b6ac9c74-f072-5636-adac-bd17907ec0b6
 GoogleScholar,cc0898d6-34c9-4540-a58d-8bfbe394b8dc
 GoogleSheets,831f653e-6dbc-49a2-ac93-eebfaa09c6e6
@@ -6757,6 +6760,7 @@ PhysOcean,3725be50-bbbd-5592-92c3-2f0e82159c3e
 PhysicalCommunications,afadef72-ae1a-11e9-3795-e55b3621c13e
 PhysicalConstants,5ad8b20f-a522-5ce9-bfc9-ddf1d5bda6ab
 PhysicalFDM,4fd04e27-7767-4ec9-b70f-09a3b509a447
+PhysicalFFT,d41fe92e-7e57-414e-90fb-fae81d34872f
 PhysicalMeshes,97d9904f-034f-4fb7-aeaa-03a173434233
 PhysicalOceanography,e1a20e90-c40e-46c0-93e3-c2da05da97e3
 PhysicalParticles,78724250-4eb2-11e9-0f34-13a7aab864c5
