@@ -904,6 +904,7 @@ BosonSampling,4f11539d-f4e6-47f3-a15e-0809978c3ed1
 Bosonic,fdc9d97d-6704-4816-9428-252828370922
 BotCoreLCMTypes,fce17d29-6d86-5006-bee5-0f8b6f52dd81
 BoteSalvatICX,fe54227b-96c7-489b-9963-dd1ce2905f30
+BoundaryCrossingProbabilities,0edc300c-2ee6-41ce-b883-757e1a513d2d
 BoundaryLayerDynamics,9d12ad70-aa0c-11e8-0216-810054b526d2
 BoundaryValueDiffEq,764a87c0-6b3e-53db-9096-fe964310641d
 BoundaryValueProblems,4e0c136c-7fd7-450f-8fba-42b64cbda8b5
@@ -8888,6 +8889,7 @@ StringEncodings,69024149-9ee7-55f6-a4c4-859efe599b68
 StringManipulation,892a3eda-7b42-436c-8928-eab12a02cf0e
 StringMethod,e62e6a7e-3b2b-4391-b20a-030a7103b929
 StringParserPEG,b0c8ea40-1aeb-11ea-0927-b51424bf2dfe
+StringUnits,aae3921f-be51-4fa0-a720-c5500441fcbd
 StringViews,354b36f9-a18e-4713-926e-db85100087ba
 StripRTF,221a10cb-40ed-42a6-9d60-e07216d033df
 Strs,7bddbee9-b4ee-5d4f-bf0b-c84b4398bbf6
@@ -10630,6 +10632,7 @@ stb_jll,0a870b86-ede5-5f68-8916-0c4c2008bb27
 stldecomposition_jll,d8cc2a31-0abf-5619-8b1f-2aa308935162
 stork_jll,a0ec7baa-763d-5d6b-86f7-e243a75ef8c4
 strace_jll,1d56ff18-86b0-54eb-9ca6-1c12e018e922
+svg2pdf_jll,a8f3a209-3a10-5cb5-98f7-143dfc3372cb
 systemd_jll,867622ac-8f22-5251-87e3-8aff4582acdf
 t8code_jll,4ee9bed8-4011-53f7-90c2-22363c2f500d
 tblis_jll,9c7f617c-f299-5d18-afb6-044c7798b3d0
