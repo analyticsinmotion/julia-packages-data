@@ -2248,6 +2248,7 @@ DitherPunk,b8f752a5-abd5-43b6-a55b-e75efda20de0
 Ditherings,18716f60-6c0e-11e9-0a37-e9870d4a7c8f
 Divergences,7f07e4c8-6df2-5971-ad44-bf349b9adcfd
 Diversity,d3d5718d-52de-57ab-b67a-eca7fd6175a4
+DoNOF,c2cb89bc-8ac9-4fc1-90b0-361a3529c1c9
 DobotMagician,eb17b914-a2e5-45e7-813f-e6fb2969af31
 DocExtensions,cbdad009-89f1-4e05-85a0-06b07b50707d
 DocInventories,43dc2714-ed3b-44b5-b226-857eda1aa7de
@@ -3793,6 +3794,7 @@ HandIsomorphism_jll,984f9c1f-46fe-5a04-8363-0cf7ea158318
 Handcalcs,e8a07092-c156-4455-ab8e-ed8bc81edefb
 Handles,94972ede-0d5b-11e9-1425-55c861492980
 Hankel,74863788-d124-456e-a676-9b76578dd39e
+Hanzi,485a87e4-fb71-42ca-b614-bc87b1bb3702
 HapLink,8ca39d33-de0d-4205-9b21-13a80f2b7eed
 Harbest,88b9f9d1-ecd7-45aa-9934-346af437630c
 HardSphereDynamics,2cbf6e9d-eec9-4262-aa18-cb9280186e6b
@@ -5731,6 +5733,7 @@ MortarContact2DAD,c1673bdb-6aff-560b-99da-c78ea6da9af3
 Morton,2a6d852e-3fac-5a38-885c-fe708af2d09e
 MosaicPlutoPlugin,4f430837-3c73-4d84-983f-319326c5f667
 MosaicViews,e94cdb99-869f-56ef-bcf0-1ae2bcbe0389
+MosaikAPIv3,733f0b2a-2dd6-45a4-80ec-bf2267f2a32d
 Mosek,6405355b-0ac2-5fba-af84-adbd65488c0e
 MosekTools,1ec41992-ff65-5c91-ac43-2df89e9693a4
 MosimoBase,a39d5f18-f8b1-4777-8f97-f1f91469dbd0
@@ -7014,6 +7017,7 @@ PosDefManifoldML,a07f4532-e2c9-11e9-2ea2-6d98fe4a1f21
 PoseComposition,0a8ab332-79e8-43e0-a313-949ce1168071
 PositionVelocityTime,52ec0b5e-ee36-11ea-211c-3d844fc5682d
 PositiveFactorizations,85a6dd25-e78a-55b7-8502-1745935b8125
+PositiveIntegrators,d1b20bf0-b083-4985-a874-dc5121669aa5
 PosixChannels,0f0bcd13-3e12-4a59-be10-81f16103b667
 PossibilisticArithmetic,31822d60-0862-422f-9a3d-0eb9781332f3
 PostNewtonian,377afc40-5642-4616-8613-b7ebca523866
@@ -7708,6 +7712,7 @@ RemBG,c9661a82-1e2c-4ef3-adad-5e80c329bd66
 Remark,79b45036-8e38-5d04-8f49-b9fb23ff5a0d
 Remarkable,4ac160eb-0277-4e02-b3c6-a4c4623dd812
 Rematch,bfecab0d-fd4d-5014-a23f-56c5fae6447a
+Rembus,aa126574-2ec3-42c9-8bf5-7f62001d6bce
 Remez,2e7db186-766a-50e7-8928-5c30181fb135
 RemoteFiles,cbe49d4c-5af1-5b60-bb70-0a60aa018e1b
 RemoteHPC,c4f2a1c4-7655-40d8-82ee-c6ae0a8b7409
@@ -8954,6 +8959,7 @@ SumOfSquares,4b9e565b-77fc-50a5-a571-1244f986bda1
 SumProductNetworks,5f6e642e-680c-5a9c-a175-7c23ed4da89e
 SumTypes,8e1ec7a9-0e02-4297-b0fe-6433085c89f2
 SummarizedExperiments,b04b66ec-f619-4ebf-810e-cf5ccc546695
+SummaryTables,6ce4ecf0-73a7-4ce3-9fb4-80ebfe887b60
 SummationByPartsOperators,9f78cca6-572e-554e-b819-917d2f1cf240
 SunAsAStar,1bd1a468-645d-4223-8813-48273918c0e0
 SunCalc,46d852a4-2fba-44bf-a445-ee38df28a2fc
