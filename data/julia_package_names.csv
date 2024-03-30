@@ -4487,6 +4487,7 @@ KNearestCenters,4dca28ae-43b8-11eb-1f5e-d55054101997
 KOrderPerturbations,469b1a10-d817-41b3-9228-c19fbf63afb5
 KROME,5c8b4ca1-0b6a-42b8-94b6-413025dcddf5
 KRPC,7a052949-c101-4ca3-9a7e-43a2532b2fa8
+KSVD,778123d0-3295-4563-8004-fb5c576fbcd9
 KVectors,41ef3c92-da78-11e9-207c-f32a9899af8c
 KWLinalg,3123b30d-1c8b-4465-a616-3de951cb5b45
 KaHyPar,2a6221f6-aa48-11e9-3542-2d9e0ef01880
@@ -5405,6 +5406,7 @@ MaximumIndependentSet,9e812ceb-42a3-473a-b295-b8bb2099a8ce
 MaximumIndependentSet_jll,84ef374a-9d6e-5be7-91be-6cf66a2d5e4c
 MaximumLikelihoodPower,b27c85e4-d77a-5c9d-b9af-900830bae76b
 MaximumLikelihoodProblems,e149cee4-a9c8-4a03-a7b6-d91720412337
+Maxnet,81f79f80-22f2-4e41-ab86-00c11cf0f26f
 Maxvol,4cc553b9-be87-484b-81d9-b5ae2a4e3958
 MaxwellBase,7ddc1c72-b467-4b56-ac1e-188734e3cfa7
 MaxwellFDFD,9ee19b4e-b9c3-5130-be0e-e5859ba17e49
@@ -7272,6 +7274,7 @@ QRMumps,422b30a1-cc69-4d85-abe7-cc07b540c444
 QRupdate,29d2ae51-7246-454b-9a65-19ff7b2849a5
 QRupdate_ng_jll,c2997458-08a2-5152-82e8-5e3e3871749a
 QRupdatesFast,20ee83fe-e634-4b6c-9f98-3c5eb64c79e6
+QSFit,fea25315-b951-4667-83c9-50e53efab241
 QSM,794fc106-2fa4-440f-961c-0d7d7b47016a
 QSWalk,2ef04bfc-99ca-5394-8b07-22b12ff94927
 QSimulator,84ebd660-cff8-11e8-33d2-5334dd07f13c
@@ -7697,6 +7700,7 @@ ReinforcementLearningEnvironmentDiscrete,1785f50a-c9a2-51c8-aad6-0dd19114bd56
 ReinforcementLearningEnvironmentGym,79e443b6-e52e-5c29-b616-02b77327f8c3
 ReinforcementLearningEnvironments,25e41dd2-4622-11e9-1641-f1adca772921
 ReinforcementLearningExperiments,6bd458e5-1694-412f-b601-3a888375c491
+ReinforcementLearningFarm,14eff660-7080-4cec-bba2-cfb12cd77ac3
 ReinforcementLearningTrajectories,6486599b-a3cd-4e92-a99a-2cea90cc8c3c
 ReinforcementLearningZoo,d607f57d-ee1e-4ba7-bcf2-7734c1e31854
 RelationalDatasets,6b8bdb16-f930-11eb-22b5-7ba1dabdf7a8
@@ -8581,6 +8585,7 @@ SpaceTimeFields,0af78db0-3b7c-4df8-88bd-686b7cc5245d
 Spacey,6fa23216-6d9f-473e-ad34-00be7be2628b
 Spark,e3819d11-95af-5eea-9727-70c091663a01
 SparkSQL,4860efcf-db82-4443-af70-6b708dedc2d2
+Sparlectra,31ce9bba-fd9d-44a1-b005-f5f509afda38
 SparseADRules,ae8a6b66-6d5b-48e8-98b1-80a7170c1f48
 SparseArrayKit,a9a3c162-d163-4c15-8926-b8794fbefed2
 SparseArraysCOO,610335e3-e389-450b-99eb-3a0a1c8c6bf9
