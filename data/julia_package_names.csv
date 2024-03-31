@@ -235,6 +235,7 @@ AlgoimDiff_jll,ce515d28-882f-5689-846d-f09a18d37b96
 AlgorithmicCompetition,435e633d-9c15-4973-be77-d092c40524e8
 AlgorithmicRecourseDynamics,3d1ede72-abb8-4340-bf8e-2ae06849b5ec
 AlgorithmsCollection,9ff941b3-d743-4c60-9dd5-2748db76006b
+AliasTables,66dad0bd-aa9a-41b7-9441-69ab47430ed8
 Alicorn,80a53053-bcf5-42c0-89b5-2140b4d6711b
 AlignedArrays,1603b9d5-f456-4bc7-93d8-0a6ecb110267
 AlignedBinaryFormat,94fc9360-1a5e-4d84-93be-ddbadb32b3a7
@@ -5779,6 +5780,7 @@ MultiDimEquations,a3219271-55cc-59b6-9a1f-6f3111928ce1
 MultiDocumenter,87ed4bf0-c935-4a67-83c3-2a03bee4197c
 MultiFloats,bdf0d083-296b-4888-a5b6-7498122e68a5
 MultiFractalFields,424b133d-7d37-4eca-9954-b7e5ab009cd0
+MultiHashParsing,73786568-6863-756d-6873-6168796e616d
 MultiIndexArrays,2f7e0951-2673-41f4-a6a8-e6772a4b2a08
 MultiJuMP,f6097e2c-3ba3-5605-a9a8-3a277acb490f
 MultiKDE,77543b7f-bd95-4024-91c1-46775346e0e7
@@ -9557,6 +9559,7 @@ TumorGrowth,f6b3d34e-977a-4e7e-a738-d5ddf4b5a606
 TupleSorting,4fd249ec-063c-4b22-9af8-9ff2212cc22c
 TupleTools,9d95972d-f1c8-5527-a6e0-b4b365fa01f6
 TupleVectors,615932cf-77b6-4358-adcd-5b7eba981d7e
+TuplesOfNTuples,48ce63ed-6f34-4d1b-af9f-4e5ab636a982
 TurboPFor_jll,5045cf3f-6bff-515a-9ee9-1318ad640b20
 TurbulenceConvection,8e072fc4-01f8-44fb-b9dc-f9336c367e6b
 TurbulentWords,61083c21-b130-4e74-9cd1-836f8dfec7b9
