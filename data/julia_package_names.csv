@@ -42,6 +42,7 @@ AMLPipelineBase,e3c3008a-8869-4d53-9f34-c96f99c8a2b6
 AMQPClient,79c8b4cd-a41a-55fa-907c-fab5288e1383
 AMRVW,233ec0c9-6b8d-4766-b9a2-a16e389fc38a
 AMReX_jll,9b6a1cb2-ee7e-5f22-a98b-ab382f85f133
+AM_jll,b6f02f42-5e06-57a7-8984-092e481b1935
 ANOVA,0825541b-7374-5e1e-93bd-72e337c8a986
 ANOVAapprox,5e027bd6-ab01-4733-8320-e0223e929ebb
 ANSIColoredPrinters,a4c015fc-c6ff-483c-b24f-f7ea428134e9
@@ -9723,6 +9724,7 @@ UnixTimes,ab1a18e7-b408-4913-896c-624bb82ed7f4
 Unmarshal,cbff2730-442d-58d7-89d1-8e530c41eb02
 Unroll,36e64239-2ab9-4580-84fb-56737a503d36
 Unrolled,9602ed7d-8fef-5bc8-8597-8f21381861e8
+UnrolledUtilities,0fe1646c-419e-43be-ac14-22321958931b
 UnrollingAverages,3f956635-a9f6-4086-ac4e-002c78554187
 UnsafeArrays,c4a57d5a-5b31-53a6-b365-19f8c011fbd6
 UnsafeAssume,99140e25-3765-45c6-8186-bf020531d25b
@@ -10473,6 +10475,7 @@ libpolars_jll,155e46ed-8d3e-59a0-8e1f-b48074a428ad
 libpolymake_julia_jll,4d8266f6-2b3b-57e3-ad7a-d431eaaac945
 libportaudio_jll,2d7b7beb-0762-5160-978e-1ab83a1e8a31
 libportaudio_ringbuffer_jll,8c9f9fde-75ea-5170-83a2-66d24179d9fc
+libpostal_jll,af819820-d0b8-51fd-9b6f-e7926976c73e
 libpsl_jll,c4fadf96-db99-5883-8c55-41cf0165eeb0
 librdkafka_jll,7943bfb0-7437-5acd-a008-22777931c7aa
 librealsense_jll,65edd895-dc1e-518e-896c-dc343a3c7f2e
