@@ -4113,6 +4113,7 @@ Impute,f7bf1975-0170-51b9-8c5f-a992d46b9575
 InMAPSourceReceptorMatrices,4ce82931-4c10-4b80-a308-e2bd97408557
 InMemoryDatasets,5c01b14b-ab03-46ff-b164-14c663efdd9f
 InPartS,f768f48f-0d8a-415b-80aa-7de5ff9b8474
+InPartSObstacles,4110d2ad-ee24-4968-96bf-19205974a08d
 InPlace,12a7aed9-f4ee-5e21-a57e-4f63a8148421
 IncGammaBeta,5087d2c0-5ad2-51de-b1ef-eaf82f0743fd
 IncompleteLU,40713840-3770-5561-ab4c-a76e7d0d7895
@@ -6663,6 +6664,7 @@ ParticleMDI,c070f950-bb2a-11e8-1d15-1b6f26bd9de9
 ParticleMethods,b097825d-39ce-45b2-a4ab-941e2c2df7e8
 ParticleScattering,3532a73c-0c3e-5edc-89e3-d771336b0a2d
 PartitionedArrays,5a9dfac6-5c52-46f7-8278-5e2210713be9
+PartitionedLS,19f41c5e-8610-11e9-2f2a-0d67e7c5027f
 PartitionedSolvers,11b65f7f-80ac-401b-9ef2-3db765482d62
 PartitionedStructures,a6683cb1-4e99-4d03-b5b5-b79ed0acabcf
 PartitionedVectors,9d5e22db-ddc8-46c9-8309-91b035e7f733
@@ -8484,6 +8486,7 @@ Slugify,6a57dadc-0402-4d39-bf46-19b28e03609d
 SlurmAddAllocatedProcs,4b0af0f2-a3e4-42c8-afa2-c5af2ee86004
 SlurmClusterManager,c82cd089-7bf7-41d7-976b-6b5d413cbe0a
 SlurmWorkloadFileGenerator,da235a08-baf4-11e9-2387-6f19a530ddff
+SmallCollections,2b935e18-93d6-40ac-ae34-fe54c09f00e1
 SmallCouplingDynamicCavity,1607259e-80f4-4675-b495-cb9c54bacb3f
 SmallDatasetMaker,7016d903-ac20-4882-9d97-75c232100024
 SmallZarrGroups,d423b6e5-1c84-4ae2-8d2d-b903aee15ac7
@@ -9422,6 +9425,7 @@ ToolipsMarkdown,33f7ff50-f2f2-41f0-8a96-482dce5c1514
 ToolipsMemWrite,57c31d6b-7ec9-45e4-80ae-c449616bb020
 ToolipsRemote,706d13b3-298e-4297-9e9a-14f4a49b71e5
 ToolipsSVG,8ae86ec9-919d-4ece-9a6d-09b7d28dae11
+ToolipsServables,bf3a9e68-ca66-4981-8178-9d71c4f8abaa
 ToolipsSession,2fe55384-55bc-4df3-9d59-c817d405cd05
 ToolipsUDP,c24f5779-9d3b-4059-90d7-a34104ea6889
 TopOpt,53a1e1a5-51bb-58a9-8a02-02056cc81109
@@ -10555,6 +10559,7 @@ neofetch_jll,9e63c3cd-fb65-5a20-944b-2e08a37f68f9
 neper_jll,258f42f6-ca5a-5cac-81eb-6d63eea71a0c
 nghttp2_jll,8e850ede-7688-5339-a07c-302acd2aaf8d
 ngspice_jll,57e080ce-e004-5ece-a144-c95753423b2a
+nlcglib_jll,782cc49c-e073-530d-b5fe-579a70b042cc
 nlminb_jll,c04a2911-6870-53d6-aa47-4d7d5aff1028
 nlohmann_json_jll,7c7c7bd4-5f1c-5db3-8b3f-fcf8282f06da
 nng_jll,53193e1d-1121-5463-9373-c3c6ce833a10
