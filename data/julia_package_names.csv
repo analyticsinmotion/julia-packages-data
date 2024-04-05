@@ -744,6 +744,7 @@ BinDeps,9e28174c-4ba2-5203-b857-d8d62c4213ee
 BinStatistics,41602cae-99cf-4169-ad6c-01f6ab844ef7
 BinaryBuilder,12aac903-9f7c-5d81-afc2-d9565ea332ae
 BinaryBuilderBase,7f725544-6523-48cd-82d1-3fa08ff4056e
+BinaryBuilderPlatformExtensions,213f2928-4d72-6f46-7461-4c705f634367
 BinaryDecisionDiagrams,cd45f48d-2bff-4983-a793-756749635bd1
 BinaryProvider,b99e7846-7c00-51b0-8f62-c81ae34c0232
 BinaryRecordReader,27e49e6c-9eba-4945-878d-08e5ccc7cbcd
