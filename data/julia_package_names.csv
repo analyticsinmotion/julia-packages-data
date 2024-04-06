@@ -655,6 +655,7 @@ BayesianNonparametricStatistics,f7704626-33a3-4ab5-a647-692f1f31d75f
 BayesianNonparametrics,7e49bc5d-d907-5fdd-93a4-11f1b4f8bb51
 BayesianOptimization,4c6ed407-134f-591c-93fa-e0f7c164a0ec
 BayesianQuadrature,609f5bd8-aef1-42b2-b90e-083e3346dba9
+BayesianTomography,ae1f9aa5-51e1-43df-aa72-b1a458b33a1f
 BayesianTools,196d93e9-2b0a-59bc-85dd-07b4a30d24dc
 Baytes,72ddfcfc-6e9d-43df-829b-7aed7c549d4f
 BaytesCore,e5a8efeb-54cd-4583-bf9c-87b09970f7ba
@@ -9502,6 +9503,7 @@ TravelingSalesmanExact,737fac7d-4440-55ef-927e-002196e95561
 TravelingSalesmanHeuristics,8c8f4381-2cdd-507c-846c-be2bcff6f45f
 TreatmentPanels,7885c543-3ac4-48a3-abed-7a36d7ddb69f
 Trebuchet,98b73d46-197d-11e9-11eb-69a6ff759d3a
+TreeArchival,216c6a2e-6c61-7669-6863-726165657274
 TreeKnit,03f602be-98a1-4bb2-9504-fbd3406624a7
 TreeOfLife,84ef9827-9357-47d4-b4e4-19dbb3edd7c1
 TreeParzen,eb66a70c-a255-11e9-03ea-7ba6b2f22006
