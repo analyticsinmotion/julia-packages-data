@@ -1384,6 +1384,7 @@ ClimaCorePlots,cf7c7e5a-b407-4c48-9047-11a94a308626
 ClimaCoreSpectra,c2caaa1d-32ae-4754-ba0d-80e7561362e9
 ClimaCoreTempestRemap,d934ef94-cdd4-4710-83d6-720549644b70
 ClimaCoreVTK,c8b6d40d-e815-466f-95ae-c48aefa668fa
+ClimaDiagnostics,1ecacbb8-0713-4841-9a07-eb5aa8a2d53f
 ClimaLSM,7884a58f-fab6-4fd0-82bb-ecfedb2d8430
 ClimaLand,08f4d4ce-cf43-44bb-ad95-9d2d5f413532
 ClimaParams,5c42b081-d73a-476f-9059-fd94b934656c
@@ -3176,6 +3177,7 @@ Functors,d9f16b24-f501-4c13-a1f2-28368ffc5196
 FundamentalsNumericalComputation,e48b7b93-d2a8-4750-aba7-f743ccd5256c
 FunnyORM,6f72f9d7-811b-4da6-baae-56a3a3823ad6
 FuseApi,67451fab-d9b0-4aa1-a584-3691f4a673db
+FusibleBroadcasts,1183179b-6fd2-4027-9f34-791c8040edc0
 FusionSystems,f78baae1-78cd-4069-8705-3f3564aaf290
 Futbolista,d5a28882-127d-4cd3-bca1-824ce50d98df
 Fuzzy,a9166f1b-85e5-4df0-9c26-e06b441f12e8
@@ -6630,6 +6632,7 @@ ParameterTests,8eb61621-d5fd-4192-a1eb-e9414570b645
 ParameterisedModule,d16e510f-c236-4b74-8eb3-5d2ec9a3ec6e
 ParameterizedFunctions,65888b18-ceab-5e60-b2b9-181511a3b968
 ParameterizedNotebooks,efe69fdf-5f6b-4971-99df-296990405262
+ParameterizedQuantumControl,409be4c9-afa4-4246-894e-472b92a1ed06
 Parameters,d96e819e-fc66-5662-9728-84c9c7592b0a
 ParametricAirfoils,4c14af30-da9f-11e9-34cd-f9f0aee9fd2c
 ParametricLP,8460d8c8-5267-486f-aef2-9a24dd859eab
@@ -7622,6 +7625,7 @@ ReadStatTables,52522f7a-9570-4e34-8ac6-c005c74d4b84
 ReadStat_jll,a4dc8951-f1cc-5499-9034-9ec1c3e64557
 ReadVTK,dc215faf-f008-4882-a9f7-a79a826fadc3
 ReadWriteDlm2,670cb119-9e6b-5dfa-81ab-9d3c314fe86c
+Readability,4455ec5f-b558-4ef1-b6d8-c3694046c382
 ReadableNumbers,7774933c-dd73-5de8-a8c3-ca082e6dff1c
 ReadableRegex,cbbcb084-453d-4c4c-b292-e315607ba6a4
 Readables,0d4725de-cd7c-5e44-8a85-a48caeef9fa5
