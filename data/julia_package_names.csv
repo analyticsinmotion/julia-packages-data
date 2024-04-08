@@ -1388,6 +1388,7 @@ ClimaDiagnostics,1ecacbb8-0713-4841-9a07-eb5aa8a2d53f
 ClimaLSM,7884a58f-fab6-4fd0-82bb-ecfedb2d8430
 ClimaLand,08f4d4ce-cf43-44bb-ad95-9d2d5f413532
 ClimaParams,5c42b081-d73a-476f-9059-fd94b934656c
+ClimaSeaIce,6ba0ff68-24e6-4315-936c-2e99227c95a4
 ClimaTimeSteppers,595c0a79-7f3d-439a-bc5a-b232dc3bde79
 ClimaUtilities,b3f4f4ca-9299-4f7f-bd9b-81e1242a7513
 ClimateBase,35604d93-0fb8-4872-9436-495b01d137e2
@@ -1491,6 +1492,7 @@ ColorSchemes,35d6a980-a343-548e-a6ea-1d62b119f2f4
 ColorTypes,3da002f7-5984-5a60-b8a6-cbb66c0b333f
 ColorVectorSpace,c3611d14-8923-5661-9e6a-0046d554d3a4
 ColoredLLCodes,15eaffa3-7f74-46bc-af11-fdd2893a4aba
+Colorfy,03fe91ce-8ec6-4610-8e8d-e7491ccca690
 Colors,5ae59095-9a9b-59fe-a467-6f913c188581
 Colosseum,22445b90-2740-4147-9227-5e1785e46a65
 ColumnSelectors,9cc86067-7e36-4c61-b350-1ac9833d277f
@@ -2020,6 +2022,7 @@ DecisionTree,7806a523-6efd-50cb-b5f6-3fa6f1930dbb
 DecompUtil_jll,2ebad9b3-2ef2-5978-ad98-6cd1c30fc6b8
 DeconvOptim,03e7cd2f-1a03-4ea9-b59b-760a446df67f
 Deconvolution,41ba435c-a500-5816-a783-a9707c6f5f3a
+Dedispersion,fc859fcf-df02-4415-b05f-e38a41bf0974
 Deductive,1a5e8c1d-b073-459e-b18e-ab421a81424e
 DeepCompartmentModels,398c52f8-e6e0-45bd-bf73-2340696b0a8e
 DeepDiffs,ab62b9b5-e342-54a8-a765-a90f495de1a6
@@ -7583,6 +7586,7 @@ RasterDataSources,3cb90ccd-e1b6-4867-9617-4276c8b2ca36
 RasterHistograms,dfdd8f93-37cf-4dac-b522-93b2288e19f1
 Rasters,a3a2b9e3-a471-40c9-b274-f788e487c689
 RateLimiter,24b76ae0-009b-4410-993f-7a05b90d7239
+RateTables,d40fb65e-c2ee-4113-9e14-cb96ca0acb32
 RatingCurves,e9e3b3e0-5095-4984-97e8-7ac0126a89f0
 RationalFunctionApproximation,c92886a3-cb30-4e18-b84f-372dde475ecc
 RationalGenerators,2737ff73-0d59-47a5-9105-cfa0dee446ca
@@ -8083,6 +8087,7 @@ SafeREPL,5e6a0ad9-8e90-40fa-86b1-deb43b8cfda7
 SafeTensors,eeda0dda-7046-4914-a807-2495fc7abb89
 SafeTestsets,1bc83da4-3b8d-516f-aca4-4fe02f6d838f
 SaferIntegers,88634af6-177f-5301-88b8-7819386cfa38
+SafetySignalDetection,ad9a3248-762c-4ade-a843-8f185e2c18ff
 SaguaroTrader,26277856-a3f7-4646-aaac-f090473ab108
 SaguaroTraderResults,1186189a-80ad-45af-add8-08b461ccbf8f
 SalesForceBulkApi,de68a502-6b26-11e9-2c24-19af4cbda7e6
