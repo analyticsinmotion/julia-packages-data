@@ -318,6 +318,7 @@ ApproxFunFourier,59844689-9c9d-51bf-9583-5b794ec66d30
 ApproxFunOrthogonalPolynomials,b70543e2-c0d9-56b8-a290-0d4d6d4de211
 ApproxFunRational,3d0dae4a-d0ce-400f-add5-31ee3cccaa25
 ApproxFunSingularities,f8fcb915-6b99-5be2-b79a-d6dbef8e6e7e
+ApproxLogFunction,e8ddb7d6-0a34-4df1-87ae-36dec4b447d4
 ApproxManifoldProducts,9bbbb610-88a1-53cd-9763-118ce10c1f89
 ApproximateBayesianComputing,2bb279fe-b7da-5b2b-8ce2-4088845e51bb
 ApproximateComputations,49d1aae2-ae6b-5d26-a063-7cf6630cf99c
@@ -1817,6 +1818,7 @@ CurveProximityQueries,e79eea86-5fe6-5310-9049-79d90d78ad74
 Curves,9bed79ab-e35b-4b7a-8527-918872a9571e
 CurvilinearGrids,58b19789-dd19-4aa2-839c-c763a7b10301
 CustomUnitRanges,dc8bdbbb-1ca9-579f-8c36-e416f6a65cce
+CutBranching_jll,a275e4ba-a8a9-5328-a18a-85c73bd42860
 CutPruners,65d46eb8-70e9-5a30-bf48-2afa3a021b8f
 CuthillMcKee,17f17636-5e38-52e3-a803-7ae3aaaf3da9
 CvxCompress,3e489a4b-a92a-5e1b-a7bf-ed666eae205e
@@ -2160,6 +2162,7 @@ DifferentialEvolutionMCMC,607db5a9-722a-4af8-9a06-1810c0fe385b
 DifferentialForms,9e54b8bf-1ae4-4c45-8656-f6b46e7970a3
 DifferentialPhaseContrast,4f2186bb-3a2c-44f0-a062-04c6d4d3fd0d
 DifferentialRiccatiEquations,9819f967-4574-4d9d-b214-002eeba273d9
+DifferentiationInterface,a0c0ee7d-e4b9-4e03-894e-1c5f64a51d63
 DiffieHellman,0e61fee8-20a4-4374-8233-5198f28d9d66
 DiffinDiffs,1c15b2bf-cfaa-4a64-9ed6-b84bdd745e5c
 DiffinDiffsBase,7fc23ce2-6e83-4e3c-822f-a79085ccb3e8
