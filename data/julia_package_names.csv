@@ -4123,6 +4123,7 @@ Impute,f7bf1975-0170-51b9-8c5f-a992d46b9575
 InMAPSourceReceptorMatrices,4ce82931-4c10-4b80-a308-e2bd97408557
 InMemoryDatasets,5c01b14b-ab03-46ff-b164-14c663efdd9f
 InPartS,f768f48f-0d8a-415b-80aa-7de5ff9b8474
+InPartSMakie,6a17de3e-552d-46b5-89f5-35afbcb8c2d5
 InPartSObstacles,4110d2ad-ee24-4968-96bf-19205974a08d
 InPlace,12a7aed9-f4ee-5e21-a57e-4f63a8148421
 IncGammaBeta,5087d2c0-5ad2-51de-b1ef-eaf82f0743fd
@@ -8557,6 +8558,7 @@ SodShockTube,2160a001-e9fc-4c63-b529-f2c7ec8d982c
 Sodium,4f5b5e99-b0ad-42cd-b47a-334e172ec8bd
 SodiumSeal,2133526b-2bfb-4018-ac12-889fb3908a75
 SoftGlobalScope,b85f4697-e234-5449-a836-ec8e2f98b302
+SoftHSM2_jll,f8279b81-109e-5889-b60a-462064c9b7ac
 SoftPosit,0775deef-a35f-56d7-82da-cfc52f91364d
 SoftPosit_jll,f9aa12f2-fb2a-5e38-99be-91dba0a1f972
 SoftmaxRegression,034a18dc-0e7b-49fe-982a-6cb6859f61a6
@@ -9679,6 +9681,7 @@ UnderwaterAcoustics,0efb1f7a-1ce7-46d2-9f48-546a4c8fbb99
 UnetSockets,28ddc128-e2b5-11e9-14fc-f7f8bf0be62e
 UnetUtils,4d0033b7-5721-4f65-a8b8-e6b2952e74b5
 Unfold,181c99d8-e21b-4ff3-b70b-c233eddec679
+UnfoldBIDS,b54e767b-1ebd-4480-ac2a-f5f4d8853074
 UnfoldCDL,dbccb84b-e307-4652-ba5b-383ef6e27386
 UnfoldMakie,69a5ce3b-64fb-4f22-ae69-36dd4416af2a
 UnfoldSim,ed8ae6d2-84d3-44c6-ab46-0baf21700804
