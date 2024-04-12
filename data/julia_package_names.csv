@@ -1385,6 +1385,7 @@ ClimaCorePlots,cf7c7e5a-b407-4c48-9047-11a94a308626
 ClimaCoreSpectra,c2caaa1d-32ae-4754-ba0d-80e7561362e9
 ClimaCoreTempestRemap,d934ef94-cdd4-4710-83d6-720549644b70
 ClimaCoreVTK,c8b6d40d-e815-466f-95ae-c48aefa668fa
+ClimaCoupler,4ade58fe-a8da-486c-bd89-46df092ec0c7
 ClimaDiagnostics,1ecacbb8-0713-4841-9a07-eb5aa8a2d53f
 ClimaLSM,7884a58f-fab6-4fd0-82bb-ecfedb2d8430
 ClimaLand,08f4d4ce-cf43-44bb-ad95-9d2d5f413532
@@ -2163,6 +2164,7 @@ DifferentialForms,9e54b8bf-1ae4-4c45-8656-f6b46e7970a3
 DifferentialPhaseContrast,4f2186bb-3a2c-44f0-a062-04c6d4d3fd0d
 DifferentialRiccatiEquations,9819f967-4574-4d9d-b214-002eeba273d9
 DifferentiationInterface,a0c0ee7d-e4b9-4e03-894e-1c5f64a51d63
+DifferentiationInterfaceTest,a82114a7-5aa3-49a8-9643-716bb13727a3
 DiffieHellman,0e61fee8-20a4-4374-8233-5198f28d9d66
 DiffinDiffs,1c15b2bf-cfaa-4a64-9ed6-b84bdd745e5c
 DiffinDiffsBase,7fc23ce2-6e83-4e3c-822f-a79085ccb3e8
@@ -3394,6 +3396,7 @@ Gemini,0e52221f-e550-4e6d-bdf1-4c59b98d8cd5
 GemmKernels,312cec97-f96c-4f55-a63d-8e567f91b59b
 Gen,ea4f424c-a589-11e8-07c0-fd5c91b9da4a
 GenFlux,bf80db26-2df5-4c23-a907-3a9ed30ce870
+GenGPT3,bf5e1513-8b89-42fc-a2bc-387c809df403
 GenICamRuntime_jll,aa41fe3f-f84b-5278-bb8c-b34b17f07c6c
 GenLib,e0fdd441-59bc-4b30-afdc-19bed4d9eb49
 GenLinearAlgebra,2304d612-645f-44c0-913c-a25a709b015d
@@ -6645,6 +6648,7 @@ Parameters,d96e819e-fc66-5662-9728-84c9c7592b0a
 ParametricAirfoils,4c14af30-da9f-11e9-34cd-f9f0aee9fd2c
 ParametricLP,8460d8c8-5267-486f-aef2-9a24dd859eab
 ParametricMCPs,9b992ff8-05bb-4ea1-b9d2-5ef72d82f7ad
+ParametricOperators,db9e0614-c73c-4112-a40c-114e5b366d0d
 ParametricOptInterface,0ce4ce61-57bf-432b-a095-efac525d185e
 ParametricProcesses,9ce9415f-ecd2-4b63-a3f6-984ce63e76ce
 ParametrisedConvexApproximators,668502ff-1e8f-42bf-95c7-24f1e819f537
@@ -8362,6 +8366,7 @@ SimpleAiboWebAPI,555a2daa-e723-4fb8-a43f-c5b503b4b2ef
 SimpleArgParse,4c739d64-e22d-44e1-ada1-53a1c3c0e953
 SimpleBio,d9eea77d-fa5d-4a60-93a2-c9db3c2ebc67
 SimpleBoids,db6bb4f6-9d2a-4386-a383-884870da1331
+SimpleBoundaryValueDiffEq,be0294bd-f90f-4760-ac4e-3421ce2b2da0
 SimpleBufferStream,777ac1f9-54b0-4bf8-805c-2214025038e7
 SimpleByteStuffing,e12149e5-c757-4a94-a92e-d43df22eb56a
 SimpleCTypes,357a5a63-a2bd-4f40-8c00-16b25e94246d
@@ -9582,6 +9587,7 @@ Tulip,6dd1b50a-3aae-11e9-10b5-ef983d2400fa
 TulipIndicators_jll,b73d36f2-ba1b-519d-99df-fa501440d401
 TulipaClustering,314fac8b-c762-4aa3-9d12-851379729163
 TulipaEnergyModel,5d7bd171-d18e-45a5-9111-f1f11ac5d04d
+TulipaPlots,b0e16111-6728-43b3-a540-753ecafcbb71
 TulipaProfileFitting,0aa31362-0b7e-4e8d-8385-676712fa7ef3
 Tullio,bc48ee85-29a4-5162-ae0b-a64e1601d4bc
 TumorGrowth,f6b3d34e-977a-4e7e-a738-d5ddf4b5a606
@@ -10009,6 +10015,7 @@ Wigxjpf_jll,236017c9-faef-5401-ab52-d2664edfb5d0
 WikiText,b61fe8a8-5644-50f8-8f27-7d732010995a
 Wikidata,d5e6d34e-0946-4041-89ae-8db3fad848f3
 WildBootTests,65c2e505-86ba-4c19-93f1-95506c1443d5
+WildcardArrays,05d16eb0-506c-4fac-9187-f7ce7e253b09
 Wilkinson,74aeefec-6ade-5337-bbc5-48a18adb804f
 WilliamsonTransforms,48feb556-9bdd-43a2-8e10-96100ec25e22
 Wilsonloop,f3c8d4fe-2f22-401d-8228-e6a01d7a1d02
