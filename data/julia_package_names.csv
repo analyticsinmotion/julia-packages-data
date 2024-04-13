@@ -586,6 +586,7 @@ BadukGoWeiqiTools,71566503-fddc-4190-936c-ecb38fefcffd
 BagOfWords,87b137f8-3b59-4550-8c54-1b47926674ff
 Bagyo,c1840010-6abe-498f-b4fc-b06597083ddc
 BakerStreet,79c3fcf7-ab10-4df2-b330-e2e1bedd9b25
+BallArithmetic,77e4f72b-b5a4-4fb0-ac2a-dcc32095a072
 Balloons,3e6f9545-655e-4d7e-8b6b-631613c5ed1f
 BallroomSkatingSystem,8aed41a2-23bd-4167-baf7-1f33f6c22702
 BandedMatrices,aae01518-5342-5314-be14-df237901396f
@@ -746,6 +747,7 @@ BinDeps,9e28174c-4ba2-5203-b857-d8d62c4213ee
 BinStatistics,41602cae-99cf-4169-ad6c-01f6ab844ef7
 BinaryBuilder,12aac903-9f7c-5d81-afc2-d9565ea332ae
 BinaryBuilderBase,7f725544-6523-48cd-82d1-3fa08ff4056e
+BinaryBuilderGitUtils,654d7472-7548-7361-4832-74694762694c
 BinaryBuilderPlatformExtensions,213f2928-4d72-6f46-7461-4c705f634367
 BinaryDecisionDiagrams,cd45f48d-2bff-4983-a793-756749635bd1
 BinaryProvider,b99e7846-7c00-51b0-8f62-c81ae34c0232
@@ -1389,6 +1391,7 @@ ClimaCoupler,4ade58fe-a8da-486c-bd89-46df092ec0c7
 ClimaDiagnostics,1ecacbb8-0713-4841-9a07-eb5aa8a2d53f
 ClimaLSM,7884a58f-fab6-4fd0-82bb-ecfedb2d8430
 ClimaLand,08f4d4ce-cf43-44bb-ad95-9d2d5f413532
+ClimaOcean,0376089a-ecfe-4b0e-a64f-9c555d74d754
 ClimaParams,5c42b081-d73a-476f-9059-fd94b934656c
 ClimaSeaIce,6ba0ff68-24e6-4315-936c-2e99227c95a4
 ClimaTimeSteppers,595c0a79-7f3d-439a-bc5a-b232dc3bde79
@@ -1812,6 +1815,7 @@ CurrencyAmounts,35f9db7c-caf0-4b8b-9aa8-b55447bc07d3
 CurrentPopulationSurvey,d0231af6-78e7-4e9e-9602-dcd107aeccbe
 CurricularAnalytics,593ffa3d-269e-5d81-88bc-c3b6809c35a6
 CurricularVisualization,fbaee398-1ac9-4ee2-a69c-ef17203eefbf
+Curry,e4be5ba2-6463-56d8-8409-50d2cdcb556e
 Curve25519,25832199-8a4b-40f8-aacc-9f7ea667c83d
 CurveFit,5a033b19-8c74-5913-a970-47c3779ef25c
 CurveFitParameters,75b670ed-29d0-4b9b-bcd2-edac41b9c208
@@ -2603,6 +2607,7 @@ Espresso,6912e4f1-e036-58b0-9138-08d1e6358ea9
 EspyInsideFunction,d6b55740-5cb4-11ec-1cb9-93db9984c461
 Estapir,b3701df6-d9dc-468b-b8b3-43cf0e13d0c8
 EstimatingEquationsRegression,29055884-00e7-4984-94b8-2baec6a723d6
+Estrin,4642663a-9907-4130-9c18-0ebd857e5e35
 EuclidGraphs,6d00f6e2-8806-480a-ab08-d5e107e6bfed
 EulerAngles,754c60e7-4104-4b2f-84f1-902fd791391f
 EulerCharacteristic,2c1df2f5-4ab6-47a9-8339-2c9d55c0a52c
@@ -7620,6 +7625,7 @@ ReTest,e0db7c4e-2690-44b9-bad6-7687da720f89
 ReTestItems,817f1d60-ba6b-4fd5-9520-3cf149f6a823
 ReachabilityAnalysis,1e97bd63-91d1-579d-8e8d-501d2b57c93f
 ReachabilityBase,379f33d0-9447-4353-bd03-d664070e549f
+Reactant_jll,0192cb87-2b54-54ad-80e0-3be72ad8a3c0
 ReactionCommons,3fc4dfc6-bd63-4703-97f2-4579ab7691c1
 ReactionMechanismSimulator,c2d78dd2-25c4-5b79-bebc-be6c69dd440f
 ReactionNetworkImporters,b4db0fb7-de2a-5028-82bf-5021f5cfa881
