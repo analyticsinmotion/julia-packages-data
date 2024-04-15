@@ -2257,6 +2257,7 @@ DistributedQuery,15823ff3-ba11-45dc-afab-613a0ec31816
 DistributedReinforcementLearning,4d01364a-afc1-4828-a15a-b5219e90899b
 DistributedRelaxationTimes,77006267-fdeb-46de-a135-5da16dc5426c
 DistributedSparseGrids,963c640e-cdaa-5978-8b8a-59ae1a680e3d
+DistributedSparseGridsPlotting,548b5689-f04a-429b-874f-be14d81f5589
 DistributedStwdLDA,4f7c0122-5260-4c96-aca3-bf9f51513501
 DistributionFits,45214091-1ed4-4409-9bcf-fdb48a05e921
 DistributionMeasures,35643b39-bfd4-4670-843f-16596ca89bf3
@@ -9976,6 +9977,7 @@ WaveletsExt,8f464e1e-25db-479f-b0a5-b7680379e03f
 WavesAndEigenvalues,a73532ca-c7c2-4c65-85c3-8d67803e4c1d
 Wayland_jll,a2964d1f-97da-50d4-b82a-358c7fce9d89
 Wayland_protocols_jll,2381bf8a-dfd0-557d-9999-79630e7b1b91
+WeakKeyIdDicts,ecbed89c-9d59-4137-ae1f-d1084086d01c
 WeakRefStrings,ea10d353-3f73-51f8-a26c-33c1cb351aa5
 WeakValueDicts,897b6980-f191-5a31-bcb0-bf3c4585e0c1
 WeaklyHard,e696503b-f323-426b-b112-c19e2df62724
