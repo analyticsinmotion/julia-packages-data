@@ -2208,6 +2208,7 @@ Discord,e67e5439-1494-44b2-b9ab-d191a16377ec
 Discreet,c2843242-4f35-58a6-a2a0-7e7527607317
 DiscreteChoiceModels,c2e53169-916a-425c-bc99-aa016d67d968
 DiscreteDifferentialGeometry,4ae10c0b-1ab8-4fd6-bf00-fff7d91da249
+DiscreteEntropy,940648b6-1797-4129-9403-35667d1f6004
 DiscreteEvents,127e53a7-d08a-4bd9-afb0-daf0d2b65a85
 DiscreteEventsLite,8b1724b8-7d2d-4f3a-bca2-6234a697fafb
 DiscreteFunctions,b53ab163-7315-5a32-b7e7-8af45be20176
@@ -2509,6 +2510,7 @@ ElectronGas,8c98e03e-8755-48b1-a5ef-1e2e7812a7c9
 ElectronLiquid,fe3a0b7f-0e79-43cc-aa0f-33de5212abe5
 ElectronTests,fa9e6d27-338f-4c48-a526-3b082c2df35e
 Electrum,b7bf5f09-dce4-461b-b741-5180c76f4cfe
+ElemCo,094d408e-8508-40f4-9646-a254980d91ac
 ElementSymbols,05abb99a-2616-4a0f-b7a8-7cbd3e8a9a5b
 Elemental,902c3f28-d1ec-5e7e-8399-a24c3845ee38
 Elemental_jll,c2e960f2-a21d-557e-aa36-859d46eed7e8
@@ -3557,6 +3559,7 @@ GibbsTypePriors,1266804b-bd95-4f6b-9d1e-355bae9cde8b
 Giflib_jll,59f7168a-df46-5410-90c8-f2779963d0ec
 GigaSOM,a03a9c34-069e-5582-a11c-5c984cab887c
 GigaScatter,9213d8c3-915d-41ea-a218-6d7652ffb8c6
+GilaElectromagnetics,d021e48d-d5bb-41e2-b1a9-c560019218de
 GilbertCurves,88fa7841-ef32-4516-bb70-c6ec135699d9
 GillMatsuno,39e863eb-a116-4232-ae62-2a8db89e9457
 Gingko_jll,ebc12d66-1ae6-5e16-bc1b-c04a92e425de
@@ -9383,6 +9386,7 @@ TidierCats,79ddc9fe-4dbf-4a56-a832-df41fb326d23
 TidierDB,86993f9b-bbba-4084-97c5-ee15961ad48b
 TidierData,fe2206b3-d496-4ee9-a338-6a095c4ece80
 TidierDates,20186a3f-b5d3-468e-823e-77aae96fe2d8
+TidierFiles,8ae5e7a9-bdd3-4c93-9cc3-9df4d5d947db
 TidierPlots,337ecbd1-5042-4e2a-ae6f-ca776f97570a
 TidierStrings,248e6834-d0f8-40ef-8fbb-8e711d883e9c
 TidierText,8f0b679f-44a1-4a38-8011-253e3a78fd39
