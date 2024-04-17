@@ -1573,6 +1573,7 @@ CompositionalNetworks,4b67e4b5-442d-4ef5-b760-3f5df3a57537
 CompositionsBase,a33af91c-f02d-484b-be07-31d278c5ca2b
 CompoundPeriods,a216cea6-0a8c-5945-ab87-5ade47210022
 CompressHashDisplace,33dc01b2-0ff1-4271-8670-ed883dd4b55b
+CompressedBeliefMDPs,0a809e47-b8eb-4578-b4e8-4c2c5f9f833c
 CompressedSensing,adc28fdd-7b77-41a2-89a7-a1a193b336a0
 CompressedSparseBlocks,c9633620-f88e-4e67-b3af-074911471b78
 CompressiveLearning,5d372d12-fa29-11e8-3ae3-03dd413d87db
@@ -3148,6 +3149,7 @@ Fread,d4cd8268-698a-43f6-9edf-e88d5ecd117c
 FrechetDist,04d82aa0-596e-49d4-9e15-129fccfbf66a
 FredApi,1f615318-737c-46ca-9fde-6231706b5dcc
 FredData,6e85b7ee-7d24-5488-b1b7-e4f4198c51ac
+FredMDQD,37d59902-f8b1-4525-bb82-82b728cb01b3
 Fredholm,1b4b468e-bff8-4dce-bfe5-35e47b6235aa
 FreeParameters,c2bd907f-6643-4f95-bba2-6fb2889bb36c
 FreeSurfer,cbb28e16-2113-4377-92c1-bba511c54513
