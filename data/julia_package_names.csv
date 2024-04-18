@@ -553,6 +553,7 @@ BLPData,eb622722-88ce-45f2-a8b9-c2f73a5cb263
 BLST_jll,07413bf9-d2c6-5469-9e83-945f30a2c5ad
 BM3DDenoise,95fb3b36-088a-43fb-bb1b-b1f34fadbd7d
 BMesh,91fb467a-ecbd-11ec-0e64-1b9c3501232a
+BOLT_jll,a0afc4d6-34a3-5dc3-9aa8-ab4d2706eb2d
 BOMBs,9fa3cf97-96f5-4594-8ac7-dc80311f2c9e
 BPFnative,b6338580-32ea-11e9-1791-33a79977d8c4
 BPGates,2c1a90cd-bec4-4415-ae35-245016909a8f
@@ -1845,6 +1846,7 @@ Cyclotomics,da8f5974-afbb-4dc8-91d8-516d5257c83b
 CyrusSASL_jll,6422fedd-75a7-50c2-a7c3-a11dad25a896
 D3Trees,e3df1716-f71e-5df9-9e2d-98e193103c45
 D3TypeTrees,41994980-b535-5476-86a1-6733688e0e4a
+DACE_jll,40de70a5-cf80-53d9-bda4-3aa67fea2f4f
 DAEProblemLibrary,dfb8ca35-80a1-48ba-a605-84916a45b4f8
 DAMMmodel,7af7f183-cd03-4039-bf6b-67ea3eb1648d
 DANDIArchive,47d7f1a7-5a03-43cb-9594-a2dfa8fa9501
