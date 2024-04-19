@@ -266,6 +266,7 @@ Amb,c42f9944-9a8f-11e9-2851-1930a3e1c813
 AmplNLReader,77dd3d4c-cb1d-5e09-9340-85030ff7ba66
 AmplNLWriter,7c4d4715-977e-5154-bfe0-e096adeac482
 AnalyticComb,8a73a7cf-268c-4a55-9a00-18d79986516d
+AnalyticalMethodValidation,b401a7b7-5953-49f1-86ca-9d186498acee
 Ananke,1a22c728-0c56-469f-9cf3-be645c8711d1
 Anasol,fd9e7046-df80-5870-8bf6-b6b2342464ec
 Anatta,6ea38b10-3220-4105-9032-02c82e619cdd
@@ -671,6 +672,7 @@ BaytesOptim,c78c806d-0713-4f4e-8b87-f7023233ea83
 BaytesPMCMC,c4a8eb41-45be-4f57-9046-b06303d6bef8
 BaytesSMC,2428e3a5-deaa-4b4d-8ec5-54cd60d7566c
 Bcrypt,137488db-d2e6-4fb9-97f3-1e40a263e83c
+Bcube,cf06320b-b7f3-4748-8003-81a6b6979792
 BeaData,acefaad2-17a4-5d8b-aa08-e18ef75dd0cf
 BeastUtils,af749cb1-4ea1-40dc-96cd-a9902a2c5721
 Beauty,e5fb2512-507e-11e9-3018-95af41067f06
@@ -751,6 +753,7 @@ BinaryBuilder,12aac903-9f7c-5d81-afc2-d9565ea332ae
 BinaryBuilderBase,7f725544-6523-48cd-82d1-3fa08ff4056e
 BinaryBuilderGitUtils,654d7472-7548-7361-4832-74694762694c
 BinaryBuilderPlatformExtensions,213f2928-4d72-6f46-7461-4c705f634367
+BinaryBuilderSources,316c416d-4527-6863-7465-466137743047
 BinaryDecisionDiagrams,cd45f48d-2bff-4983-a793-756749635bd1
 BinaryProvider,b99e7846-7c00-51b0-8f62-c81ae34c0232
 BinaryRecordReader,27e49e6c-9eba-4945-878d-08e5ccc7cbcd
@@ -4359,6 +4362,7 @@ JLD,4138dd39-2aa7-5051-a626-17a0bb65d9c8
 JLD2,033835bb-8acc-5ee8-8aae-3f567f8a3819
 JLD2Manager,81380758-35f1-456b-ad34-99baebce6e41
 JLFzf,1019f520-868f-41f5-a6de-eb00f4b6a39c
+JLLGenerator,73536572-7074-4e69-5270-206c4c6a2061
 JLLPrefixes,afc68a34-7891-4c5a-9da1-1c62935e7b0d
 JLLWrappers,692b3bcd-3c85-4b1f-b108-f13ce0eb3210
 JLSO,9da8a3cd-07a3-59c0-a743-3fdc52c30d11
@@ -4787,6 +4791,7 @@ LazyFym,19ce2a37-d051-4e03-9a1e-989d2d09a817
 LazyGrids,7031d0ef-c40d-4431-b2f8-61a8d2f650db
 LazyGroupBy,284b63b1-8759-4032-ba27-6e3216e83f43
 LazyInverses,9f18896c-49a9-43cc-8eef-c455a8a119c6
+LazyJLLWrappers,21706172-204c-4d4f-5420-656854206f44
 LazyJSON,fc18253b-5e1b-504c-a4a2-9ece4944c004
 LazyMapWithElType,73d3c89d-d1cf-438e-a490-8441131c5e9d
 LazyModules,8cdb02fc-e678-4876-92c5-9defec4f444e
@@ -6664,6 +6669,7 @@ ParameterizedNotebooks,efe69fdf-5f6b-4971-99df-296990405262
 ParameterizedQuantumControl,409be4c9-afa4-4246-894e-472b92a1ed06
 Parameters,d96e819e-fc66-5662-9728-84c9c7592b0a
 ParametricAirfoils,4c14af30-da9f-11e9-34cd-f9f0aee9fd2c
+ParametricDFNOs,3b406863-5cae-494d-8b19-779e643ae09e
 ParametricLP,8460d8c8-5267-486f-aef2-9a24dd859eab
 ParametricMCPs,9b992ff8-05bb-4ea1-b9d2-5ef72d82f7ad
 ParametricOperators,db9e0614-c73c-4112-a40c-114e5b366d0d
