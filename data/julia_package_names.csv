@@ -1423,6 +1423,7 @@ Clipper_jll,1721f0f4-5627-55cb-8b31-c466f04189fe
 Cliquing,570927c9-3032-54d7-b655-f6b1c77412c2
 Clockwork,5f19fa64-e0b3-455f-937a-ba40af0c08d8
 CloseOpenIntervals,fb6a15b2-703c-40df-9091-08a04967cfa9
+ClosedFormExpectations,70ff922c-62d4-418d-abfc-e284e489b734
 ClosedIntervals,059b0e18-018a-5deb-a5b2-c624ee85784b
 ClosedLoopReachability,73c0b437-a350-4e9b-97ac-9adb151c271b
 CloudBase,85eb1798-d7c4-4918-bb13-c944d38e27ed
@@ -2219,6 +2220,7 @@ DiscreteEvents,127e53a7-d08a-4bd9-afb0-daf0d2b65a85
 DiscreteEventsLite,8b1724b8-7d2d-4f3a-bca2-6234a697fafb
 DiscreteFunctions,b53ab163-7315-5a32-b7e7-8af45be20176
 DiscreteMarkovChains,8abcb7ef-b365-4f7b-ac38-56893fb62f9f
+DiscreteOrderedMedian,749eb255-e7f0-474c-bf5d-cdfd6b01954b
 DiscretePIDs,c1363496-6848-4723-8758-079b737f6baf
 DiscretePOMP,51c0d67e-089d-4725-9e90-d9ba65989b17
 DiscretePersistentHomologyTransform,9598d6b2-89d7-11ea-0bed-b1104e2053b2
@@ -8484,6 +8486,7 @@ SimsOptim,5df890a3-b392-4cf8-8041-9ea1620d5364
 Simulate,7fe0908f-881e-4672-99a3-35ccdc95dcfc
 SimulatedAnnealing,119b26b8-39d9-4e2d-8f08-406d7b73be9f
 SimulatedNeuralMoments,43b7c8c0-5622-45b8-90a3-338fc50d2232
+SimulationBasedInference,78927d98-f421-490e-8789-96b006983a5c
 SimulationLogger,0f3b6f24-f534-4b11-a614-00dcf4ece10c
 SimulationLogs,e3c6736c-93d9-479d-93f3-96ff5e8836d5
 SimulinkSDIImporter,71d5d903-a9d4-4e03-9846-ef3fdeefd64d
