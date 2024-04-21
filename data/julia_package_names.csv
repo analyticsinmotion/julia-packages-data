@@ -4162,6 +4162,7 @@ IndependentHypothesisWeighting,1340648c-e7e8-4e39-b869-c84f40c4506c
 IndexFunArrays,613c443e-d742-454e-bfc6-1d7f8dd76566
 IndexSpaces,3ceaaf38-e7b4-4193-a23a-303dd231a83a
 IndexableBitVectors,1cb3b9ac-1ffd-5777-9e6b-a3d42300664d
+IndexedFactorGraphs,edf0a622-c16b-410a-a162-e53dc16a76ae
 IndexedGraphs,8a731c18-cfb7-4915-927e-cc26b56b67cd
 IndexedTables,6deec6e2-d858-57c5-ab9b-e6ca5bd20e43
 IndexedVectors,ce6fd8af-47ce-44eb-b41a-c8253e356a4d
@@ -8681,6 +8682,7 @@ SpatialGrids,3ce1bdb9-727b-5794-a8c0-19c5c87cd16a
 SpatialHashTables,894afd4e-5c6f-4d1a-a294-873acbd0e95c
 SpatialIndexing,d4ead438-fe20-5cc5-a293-4fd39a41b74c
 SpatialJackknife,e2fa44a5-09d5-5fa2-a080-aa0766578c8a
+SpatialOmicsGPs,e145bb07-96d9-421f-b0a2-c579a69b21bf
 SpatioTemporalTraits,6a04ffb7-1155-443c-92eb-f1f26f00354c
 Spec,b8ccf107-3a88-5e0f-823b-b838c6a0f327
 SpecTools,6c322a0d-46e9-4575-a44b-1e5c7962c4aa
@@ -8944,6 +8946,7 @@ Strategems,054b7d4e-9922-5ad3-8b46-7dbe695a681f
 StrategicGames,21c4ae29-9918-4bcb-9542-b100d366d64c
 StratiGraphics,135379e1-83be-5ae7-9e8e-29dade3dc6c7
 StrayCopses,f554f415-119e-4ea0-8d58-ae5601ed402a
+StreamSampling,ff63dad9-3335-55d8-95ec-f8139d39e468
 StreamToString,dc918f9c-79cc-42e6-85f1-d8b9b09632f4
 StressTest,6e3341f8-3a0d-4582-a093-9d6e6d36caf8
 StrideArrays,d1fa6d79-ef01-42a6-86c9-f7c551f8593b
@@ -10008,6 +10011,7 @@ WebAssets,5318a24a-cfbb-471b-80de-2ec25d7c2d8b
 WebBlast,9f6dbb68-adea-48dd-82a4-058b403bed1f
 WebDriver,05625dda-b54a-434a-8c43-5c7937dfa4f0
 WebIO,0f1e0344-ec1d-5b48-a673-e5cf874b6c29
+WebP,e3aaa7dc-3e4b-44e0-be63-ffb868ccd7c1
 WebSession,73909f5d-5828-4c22-bf39-7339a58e168d
 WebSockets,104b5d7c-a370-577a-8038-80a2059c5097
 WebToys,f67adaa7-c0cb-55cd-ba19-4b9b797b00eb
