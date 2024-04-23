@@ -26,6 +26,7 @@ AES,5a3fb44e-d90d-11e9-053b-99581e1bac63
 AFLplusplus_jll,2a46d845-6c66-546d-9393-effbe7e72607
 AIBECS,ace601d6-714c-11e9-04e5-89b7fad23838
 AIControl,3868d828-178d-56af-83e1-d523478a73cd
+AIHelpMe,01402e1f-dc83-4213-a98b-42887d758baa
 AKNS,75efc99c-f354-4bf0-9c4f-447e54034ed9
 ALFA,f8dd4131-4bab-4a89-9326-aead9c214d0d
 ALPS_jll,6a88e26e-56cb-5037-a572-1ff8e7f440e8
@@ -2013,6 +2014,7 @@ Dataverse,9c0b9be8-e31e-490f-90fe-77697562404d
 DateFormats,44557152-fe0a-4de1-8405-416d90313ce6
 DateSelectors,c900ad91-5c7c-41b8-bce1-46b0264fae1d
 DateShifting,7c3ad74f-ee21-4e60-a1ba-ecae6f0cff80
+DateTimes64,b342263e-b350-472a-b1a9-8dfd21b51589
 DayCounts,44e31299-2c53-5a9b-9141-82aa45d7972f
 DbgMacro,d6ce5c67-b3b1-4855-8eb4-4ca27575037e
 Dbus_jll,ee1fde0b-3d02-5ea6-8484-8dfef6360eab
@@ -5698,6 +5700,7 @@ ModelWrappers,44c54197-9f56-47cc-9960-7f2e20bfb0d6
 ModelicaScriptingTools,9bd7ba1c-b518-491f-8f72-7efe190322aa
 ModelingToolkit,961ee093-0014-501f-94e3-6117800e7a78
 ModelingToolkitDesigner,23d639d0-9462-4d1e-84fe-d700424865b8
+ModelingToolkitNeuralNets,f162e290-f571-43a6-83d9-22ecc16da15f
 ModelingToolkitStandardLibrary,16a59e39-deab-5bd0-87e4-056b12336739
 Models,e6388cff-ecff-480c-9b53-83211bf7812a
 ModernGL,66fc600b-dfda-50eb-8b99-91cfa97b1301
@@ -8651,6 +8654,7 @@ SparseADRules,ae8a6b66-6d5b-48e8-98b1-80a7170c1f48
 SparseArrayKit,a9a3c162-d163-4c15-8926-b8794fbefed2
 SparseArraysCOO,610335e3-e389-450b-99eb-3a0a1c8c6bf9
 SparseBase,8047a082-0763-4c4f-a23b-a4a948721f1d
+SparseConnectivityTracer,9f842d2f-2579-4b1d-911e-f412cf18a3f5
 SparseDiffTools,47a9eef4-7e08-11e9-0b38-333d64bd3804
 SparseExtra,9b3c4d32-3d7d-4a87-a5c7-b3f87cf9d22b
 SparseGaussianProcesses,48e2ed6f-953e-42f9-a56e-74c660f20e0a
