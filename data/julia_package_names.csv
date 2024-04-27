@@ -4845,6 +4845,7 @@ LibAMVW_jll,3420f54a-cca3-5752-a4b4-c8f5453f04ac
 LibASICamera,d52fb188-cbdc-4a2a-a9d4-49c222ce4b32
 LibAWSCRT,df7458b6-5204-493f-a0e7-404b4eb72fac
 LibArchive_jll,1e303b3e-d4db-56ce-88c4-91e52606a1a8
+LibAwsCommon,c6e421ba-b5f8-4792-a1c4-42948de3ed9d
 LibBirch_jll,9af553da-f2ee-58c4-bad9-1c5e8386f243
 LibCEED,2cd74e05-b976-4426-91fa-5f1011f8952b
 LibCImGui,9be01004-c4f5-478b-abeb-cb32b114cf5e
@@ -7395,6 +7396,7 @@ QuadraticModels,f468eda6-eac5-11e8-05a5-ff9e497bcd19
 QuadraticModelsCPLEX,a53098ac-c15a-4696-bee0-14caaca04665
 QuadraticModelsGurobi,b0275aa7-013b-42ad-9e10-dc5d6db0accb
 QuadraticModelsXpress,2cf8c267-6e70-4ce4-bd8d-41913dbccd90
+QuadraticProgramNetworks,576966be-9dca-4525-ada1-64298180af2c
 QuadraticToBinary,014a38d5-7acb-4e20-b6c0-4fe5c2344fd1
 Quadrature,67601950-bd08-11e9-3c89-fd23fb4432d2
 QuadratureCuba,1e5cbd8a-c439-4026-92c2-98742b2c817b
