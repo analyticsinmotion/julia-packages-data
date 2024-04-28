@@ -2933,6 +2933,7 @@ FewSpecialFunctions,6fcbd3ca-4273-49c4-98b3-81b765566de6
 FeynmanDiagram,e424a512-dbd9-41ff-9883-094748823e72
 FeynmanKacParticleFilters,b43f8e06-e683-11e8-294f-8d3ef32cb08c
 FiberNlse,21c1a3e3-8543-4069-a1c4-5ed3e2bf6e2f
+Fibers,79c5424f-e3fe-4f6a-a484-e0e793a8858c
 FieldAlgebra,0b62d163-fd1d-4060-a953-4385d03545e2
 FieldConstants,73d362c4-b7ec-495f-a538-f22f12d4d8ae
 FieldDefaults,49426c49-986f-5969-8844-d5cc96441cfc
@@ -4046,6 +4047,7 @@ ITensorLattices,3ef2b461-a4cb-42b1-a580-b83f8df68c40
 ITensorMPOCompression,03645d51-6a26-4d1e-b9a1-035dc79d88e7
 ITensorMakie,72ca75eb-df6f-4d6b-80c5-d5eab17be3f9
 ITensorNetworks,2919e153-833c-4bdc-8836-1ea460a35fc7
+ITensorNumericalAnalysis,666f501e-685d-4e36-ab44-ece85df6022b
 ITensorParallel,0fccfcd2-f061-4985-9740-339d3f86bfce
 ITensorTDVP,25707e16-a4db-4a07-99d9-4d67b7af0342
 ITensorUnicodePlots,73163f41-4a9e-479f-8353-73bf94dbd758
@@ -4541,6 +4543,7 @@ KaTeX,07258bb1-70fb-50ed-9200-988f9681c4d2
 KadanoffBaym,82532805-809c-4ef0-842b-4b00c5e9be5f
 KahanSummation,8e2b3108-d4c1-50be-a7a2-16352aec75c3
 Kahuna,a159c9be-0176-11ea-0d64-b53c1d07f8ae
+KaitaiStruct,701c8e6d-1b01-4551-886b-1760f51f9f8d
 Kaleido,caafb194-7e8d-11e9-2724-d5981dd0806d
 Kaleido_jll,f7e6163d-2fa5-5f23-b69c-1db539e41963
 Kalman,d59c0ba6-2ef2-5409-8dc5-1fd9a2b46832
