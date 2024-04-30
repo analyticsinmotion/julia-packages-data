@@ -3761,6 +3761,7 @@ GumbelSoftmax,f60ed98c-c695-46ff-9817-9af1b038875e
 Gumbo,708ec375-b3d6-5a57-a7ce-8257bf98657a
 Gumbo_jll,528830af-5a63-567c-a44a-034ed33b8444
 Gurobi,2e9cd046-0924-5485-92f1-d5272153d98b
+Gurobi_jll,c018c7e6-a5b0-4aea-8f80-9c1ef9991411
 Gym,b0807396-df37-52ae-a4b9-7a7124410845
 GymSpaces,4896a6fa-884d-11e9-35a0-9763e69c01ff
 Gzip_jll,be1be57a-8558-53c3-a7e5-50095f79957e
@@ -4586,6 +4587,7 @@ KhepriBase,4cc0fe96-1163-46f3-ba32-de1e65d9548f
 Kibisis,b7c0a452-59f3-4788-8baf-51dfb4e989a2
 Kinematic1D,a8a3bb05-6cc5-4342-abf6-5cc636bd2b35
 KinematicCoordinateTransformations,730d3219-0a85-48f9-b699-9f31f8913d09
+KinematicDriver,83200819-b45f-4027-aa6a-8223b29c73a7
 Kinetic,82403725-3cee-4f7c-b214-1ce71af4a797
 KirUtil,35055d32-6816-4a65-8aeb-d6e3aca393e8
 Kira_jll,a1c41f1e-cd41-5ae0-adc9-ae0791720039
@@ -5246,6 +5248,7 @@ MMG_jll,86086c02-e288-5929-a127-40944b0018b7
 MMTF,259c3a9c-12c3-507f-b21f-68ecc40fcda4
 MMseqs2_jll,2f0138a6-2765-53ae-bca2-2fe9d5077335
 MNPDynamics,f81e04c9-20b8-526d-9626-780ee78293fb
+MORWiki,4add22a6-c4b7-49d8-833a-0e1707ec89d0
 MOSLab,646a8480-3455-4dcb-93e7-a10dc646a0af
 MOTIFs,21ade233-9772-486b-8b4a-1a75b0845905
 MPC_jll,2ce0c516-f11f-5db3-98ad-e0e1048fbd70
@@ -5341,6 +5344,7 @@ MakiePublication,dde8697e-0d61-460d-88dd-856f66710dd1
 MakieRichText,9317242e-1230-4881-bcbc-8f9566308e0e
 MakieTeX,6d554a22-29e7-47bd-aee5-0c5f06619414
 MakieThemes,e296ed71-da82-5faf-88ab-0034a9761098
+MallocArrays,bdde6022-96f5-457e-ae5c-df64ce731513
 Malt,36869731-bdee-424d-aa32-cab38c994e3b
 Mamba,5424a776-8be3-5c5b-a13f-3551f69ba0e6
 MambaLite,ee262687-6dc1-48e3-a463-c0a35b1bf9d0
@@ -10044,6 +10048,7 @@ WhereTraits,c9d4e05b-6318-49cb-9b56-e0e2b0ceadd8
 Whisper,1846abd0-4e01-46c4-9113-916b63b070ed
 Whitebox,b538f1be-d065-4026-b484-95330fe3abdc
 WhiteboxTools_jll,8bca1bde-e0b5-5803-b535-ac666483fcca
+Whitening,3dc6825e-6d30-452c-8c3b-9f912c2c1081
 WhittleLikelihoodInference,3fdf5847-2998-4bb9-885b-ec39b41f41a6
 Why,7f495793-cad1-50ff-b494-a17fbecc6ac4
 WhyNotEqual,e6125b7d-2298-432f-af45-a1235af9403e
