@@ -5893,6 +5893,7 @@ MurmurHash3,b10b62ed-fbae-5ea5-b934-abaf0477b71d
 Muscade,93488820-1883-11ed-0c34-05177b029e4d
 MuseInference,43b88160-90c7-4f71-933b-9d65205cd921
 MusicManipulations,274955c0-c284-5bf7-b122-5ecd51c559de
+MusicProcessing,32bb9398-a9ad-408c-b137-8304ef5cbed9
 MusicTheory,564e61e1-4667-41b2-a4a2-754a0240c775
 MusicVisualizations,8e838768-4b4f-4130-9d6d-43f7b35ca0d6
 MusicXML,521615e9-e573-4eb2-bc7e-702d55c0bb95
@@ -6657,6 +6658,7 @@ Pangomm_jll,9c53b654-4175-57d2-a160-8980ed551c15
 ParGOGraphs,9c72e466-2585-4cd6-b2fc-9c3ab070dc04
 ParSpMatVec,ccf9b6e2-7ea7-596a-9d65-09863b18e8cc
 ParXRec,ce505a99-8540-44bd-8e52-2947982c0c75
+ParaReal,d8ab9f86-dde6-11e9-3216-afd74457b932
 ParabolicTrigonometry,2c67d0d1-3dd0-4e24-8359-dd001bbc3df8
 ParallelAnalysis,c8fef40c-3641-40f1-b0ae-e08425a5d2fc
 ParallelDataTransfer,2dcacdae-9679-587a-88bb-8b444fb7085b
@@ -7687,6 +7689,7 @@ Readables,0d4725de-cd7c-5e44-8a85-a48caeef9fa5
 Readline_jll,05236dd9-4125-5232-aa7c-9ec0c9b2c25a
 RealContinuedFractions,2913f2de-b437-495a-9482-ef041561d0d3
 RealDot,c1ae055f-0cd5-4b69-90a6-9a35b1a98df9
+RealFFTs,3645faec-0534-4e91-afef-021db0981eec
 RealNeuralNetworks,4491297b-8966-5840-8cb9-b189d60f3398
 RealPolyhedralHomotopy,0ea325ba-5c5f-496b-acec-8be67510f465
 RealPolynomialRoots,87be438c-38ae-47c4-9398-763eabe5c3be
@@ -8904,6 +8907,7 @@ Statsd,3a38cb31-b91a-4cb6-a3cc-e596c78fb826
 StatusSwitchingQP,73a7d86c-03e3-42fb-a0f5-70ef6cda08f4
 SteadyStateDiffEq,9672c7b4-1e72-59bd-8a11-6ac3964bc41f
 SteamTables,43dc94dd-f011-5c5d-8ab2-5073432dc0ba
+SteamWebAPIs,e6ff7510-e9ee-4fc9-8d54-48d13dde7e75
 Steganography,b36d76f3-e888-5fd0-8dd3-e39a55b413c6
 StellarSpectraObservationFitting,6b1189bd-9150-44f8-8055-f6ca7d16451e
 StellaratorOptimization,f2f44f23-99b2-4d7c-931e-31858dc08d61
