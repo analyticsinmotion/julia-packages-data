@@ -7432,6 +7432,7 @@ QuantitativeMRI,659767e3-31a7-4dc1-8563-6e03f484b231
 QuantitativeSusceptibilityMappingTGV,bd393529-335a-4aed-902f-5de61cc7ff49
 QuantizedArrays,a7db621c-8ce0-11e9-16a1-0f86dc86bd10
 QuantizedNoise,73f4e83f-5129-41ef-a7bf-22ba0654e29d
+QuantumACES,57b1db7a-c9fc-4178-b66e-6b8364be52bb
 QuantumAlgebra,1b9008d5-2a9d-4901-8cfb-44bb87795b64
 QuantumAnnealing,4832667a-bab9-40a8-88f6-be9efce3ea89
 QuantumAnnealingAnalytics,f4de928d-7c93-4858-9dcf-40bc6948a1da
@@ -7583,6 +7584,7 @@ RadeonProRender_jll,e92fa02b-1b7a-5e4e-a5cb-14fe26dfc45b
 RadialBasisFunctionModels,48790e7e-73b2-491a-afa5-62818081adcb
 RadialBasisFunctions,79ee0514-adf7-4479-8807-6f72ea8967e8
 RadialPiecewisePolynomials,7dab568b-3cf7-4f91-a977-b4631dfca174
+Radiant,b26cd056-4456-4d61-8550-65e4ff5b9100
 RadiationDetectorDSP,afd6e06f-c550-5763-af36-7391d39e46ec
 RadiationDetectorSignals,bf2c0563-65cf-5db2-a620-ceb7de82658c
 RadiationSpectra,4f207c7e-01da-51d7-a1a0-c8c06dd1d883
@@ -10282,6 +10284,7 @@ ZXCalculus,3525faa3-032d-4235-a8d4-8c2939a218dd
 Zabbix,bfb209d9-8743-5e3a-8711-bc78bba37304
 Zalgo,5b351978-c8a9-11e9-2467-a1bfb30aea0b
 Zarr,0a941bbe-ad1d-11e8-39d9-ab76183a1d99
+ZarrDatasets,519a4cdf-1362-424a-9ea1-b1d782dbb24b
 Zellij_jll,f51964ae-9c2b-58f9-be08-f952495c30f4
 Zenith_jll,ab215d34-98c8-565c-96d8-6589c1ef91a8
 ZernikePolynomials,e462d300-c971-11e9-30f1-fb93b1f8f73a
