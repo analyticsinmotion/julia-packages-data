@@ -477,6 +477,7 @@ Authorization,b5147960-3063-5349-a9c3-a0b314d6952d
 AutoBZCore,66bd3e16-1600-45cf-8f55-0b550710682b
 AutoCorrelationResampling,7721453b-5e57-40b4-b973-78d00789d4c1
 AutoDiffOperators,6e1301d5-4f4d-4fb5-9679-7191e22f0e0e
+AutoEncoderToolkit,1575904b-3569-468b-ae7a-8569c4d6dae9
 AutoExpe,7514acc9-c05b-434e-9853-2d72b8bb89c2
 AutoGP,6eb593e7-dfb4-4e48-b98e-d7222cdf0053
 AutoGainCtrl,0e8e90c2-a086-42a1-8334-f09dd3896087
@@ -4577,6 +4578,7 @@ KeyCounter,f308447f-e99f-46ec-ad9e-5a4c598148f8
 KeyboardDriven,d6b73c45-a735-4b19-932b-179aebda8fdc
 KeyedDistributions,2576fb08-064d-4cab-b15d-8dda7fcb9a6d
 KeyedFrames,ddd84059-9b64-5d1b-85eb-da48df743e32
+Keyring,50ea2a6d-d012-47d2-ba52-47aa164fcf80
 Keyutils_jll,c2be6516-4eb7-57db-a4a4-4d4eb801fdbe
 KeywordCalls,4d827475-d3e4-43d6-abe3-9688362ede9f
 KeywordDispatch,5888135b-5456-5c80-a1b6-c91ef8180460
