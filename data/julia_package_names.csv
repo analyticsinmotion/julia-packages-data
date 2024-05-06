@@ -2782,6 +2782,7 @@ FIFOStreams,52a73f2b-c786-4122-ad8a-b7fbd35c9081
 FIGlet,3064a664-84fe-4d92-92c7-ed492f3d8fae
 FINUFFT,d8beea63-0952-562e-9c6a-8e8ef7364055
 FIRLSFilterDesign,1d969ca1-ee82-491a-b198-7f2f63a25c18
+FITSHeaders,8163a04c-c153-4fb1-a498-3402381ec208
 FITSIO,525bcba6-941b-5504-bd06-fd0dc1a4d2eb
 FITSTables,7c1f5dd0-abd1-46fd-a3fe-70b5915849d6
 FLAC,abae9e3b-a9a0-4778-b5c6-ca109b507d99
@@ -4561,6 +4562,7 @@ KeldyshED,675b6b9c-7c2f-11e9-3bf3-dfd4d61640f7
 Kelpie,1b112299-d6bc-44e2-912a-478f25731460
 KelvinletsImage,c268e415-724e-5440-8745-890f0ae6d2bf
 KeplerGL,389c4311-7670-4ca7-a1b4-f34bb8a2527a
+KeplerGLBase,aea72984-0742-4639-bc0a-1d6e7e468236
 KeplerTools,200436fd-7f69-44ff-b485-688a1ddb115b
 Kerberos_krb5_jll,b39eb1a6-c29a-53d7-8c32-632cd16f18da
 KernelAbstractions,63c18a36-062a-441e-b654-da1e3ab1ce7c
@@ -6346,6 +6348,7 @@ OnlinePackage,dec300e5-7e5b-577b-bc13-c7c11ad250bc
 OnlinePortfolioSelection,038f9fe3-14bd-47ca-b081-2e00e8c46dfa
 OnlineStats,a15396b6-48d5-5d58-9928-6d29437db91e
 OnlineStatsBase,925886fa-5bf2-5e8e-b522-a9147a512338
+OnlineTechnicalIndicators,dc2d07fb-478f-4566-8417-81bb3e5a7af1
 OohataHuzinaga,a8c67e1a-51a8-4393-8cc1-c530063cb104
 OpSel,099ba0d8-67b8-41ac-a69a-bfd69f53aa15
 OpenADMIXTURE,425c031d-9e5b-441b-a07e-4acde9a966a3
@@ -9017,6 +9020,7 @@ StructuredPrinting,98e085c8-1edc-4d9d-bf3b-8d7a8502c19d
 StructuresKit,f6c18a9d-8941-4a0a-88a3-c5fc4dcc4715
 Struve,bbbc800e-c7bf-11e8-107b-9b6d1d23829a
 Stuffing,4175e07e-e5b7-423e-8796-3ea7f6d48281
+StyledStrings,f489334b-da3d-4c2e-b8f0-e476e12c162b
 SubMatrixSelectionSVD,1e09ba94-8865-5af0-8cfd-6b3609c426e6
 SubSIt,f42569b2-8c12-4cce-ba3b-39ee24d84962
 SubTypes,673f7e10-fa62-11e9-1b68-4159967c0379
