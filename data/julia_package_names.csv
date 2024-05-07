@@ -1101,6 +1101,7 @@ CUDAPreconditioners,57b3401a-ff44-4c54-9e38-1c8db7da4902
 CUDASIMDTypes,ba1ee33b-8807-41fd-9812-6d5f2ce04139
 CUDA_Driver,a6be3551-5000-4724-bfab-551d491a12f7
 CUDA_Driver_jll,4ee394cb-3365-5eb0-8335-949819d2adfc
+CUDA_JIT_jll,065fcff2-4c6f-5d7b-b503-46c258ff608a
 CUDA_Runtime_Discovery,1af6417a-86b4-443c-805f-a4643ffb695f
 CUDA_Runtime_jll,76a88914-d11a-5bdc-97e0-2f5a05c973a2
 CUDA_SDK_jll,6cbf2f2e-7e60-5632-ac76-dca2274e0be0
@@ -2655,6 +2656,7 @@ ExaTron,28b18bf8-76f9-41ea-81fa-0f922810b349
 ExactConversions,9d710cfd-26d5-4b84-a0a4-2b62d6e9d5fb
 ExactConvolution,0d552887-2f53-4f11-9665-485c167a9a55
 ExactDiagonalization,52dcaa32-6da7-11e9-20ef-755843cf72eb
+ExactFieldSolutions,2a6b1ac7-2de5-4354-bffb-bf009f6a4bef
 ExactODEReduction,790186a0-1ec0-11ec-1f13-43a2532b2fa8
 ExactOptimalTransport,24df6009-d856-477c-ac5c-91f668376b31
 ExactPredicates,429591f6-91af-11e9-00e2-59fbe8cec110
@@ -3919,6 +3921,7 @@ HierarchicalLogging,f33c120b-91a0-4a1c-b926-14fa61c08c77
 HierarchicalMatrices,7c893195-952b-5c83-bb6e-be12f22eed51
 HierarchicalTemporalMemory,db654dba-670c-566a-9226-64313b881ded
 HierarchicalUtils,f9ccea15-0695-44b9-8113-df7c26ae4fa9
+HighDimMixedModels,5d0d0550-ba84-42d6-a33e-4f9cf65119aa
 HighDimPDE,57c578d5-59d4-4db8-a490-a9fc372d19d2
 HighFrequencyCovariance,c79ce38c-73ba-4c3d-834c-fb94999fb590
 HighLevelTypes,66835562-f1c4-5586-a145-e564a3963a4b
@@ -4829,6 +4832,7 @@ LearningHorse,62371590-58c0-453a-97c0-b8b10383e1ee
 LearningStrategies,4e8a8231-0ba9-591b-8620-81c6740d7791
 LeastSquaresOptim,0fc2ff8b-aaa3-5acd-a817-1944a5e08891
 Lebedev,c5712dd9-2571-4e23-b661-b4a261421493
+Lectionary,6244d477-9cf0-4e07-8f6b-f8ee26bc0292
 LeftChildRightSiblingTrees,1d6d02ad-be62-4b6b-8a6d-2f90e265016e
 LegacyStrings,1b4a561d-cfcb-5daf-8433-43fcf8b4bea3
 LegendrePolynomials,3db4a2ba-fc88-11e8-3e01-49c72059a882
@@ -8926,6 +8930,7 @@ Stheno,8188c328-b5d6-583d-959b-9690869a5511
 Stipple,4acbeb90-81a0-11ea-1966-bdaff8155998
 StippleCharts,30ddb3f0-912f-4f34-9804-e4bb31290777
 StippleDownloads,291a174b-6542-42e7-9996-fc00d7c03310
+StippleKeplerGL,2b41e42f-53d9-436c-aed0-ebb7c31b58f1
 StippleLatex,8706c442-30ce-4f68-b407-b81ebf148be9
 StippleMathjs,7fb1dcd0-db8f-4201-9509-3dea5d7792e9
 StipplePlotly,ec984513-233d-481d-95b0-a3b58b97af2b
