@@ -2436,6 +2436,7 @@ EQDSKReader,0d45e213-aaf5-468d-97e2-5d9984e6e107
 ERA5Reanalysis,99c076f5-c00e-46eb-a0bd-7ba31777c146
 ERFA,17511681-8477-586a-8d98-4cfd5a1f2ec3
 ERFA_jll,a00367d1-88f1-52c5-9c6b-193aa5f849e1
+ESAInterpolationFiles,dfb2dbec-0384-47ba-b614-66be42e3cf9e
 ESeriesRounding,7b398af1-3c03-4c36-a68d-b29057ec0a45
 EarCut,5160dea5-cc57-53b0-be5f-ac191989508a
 EarCut_jll,5ae413db-bbd1-5e63-b57d-d24a61df00f5
@@ -7000,6 +7001,7 @@ PlutoUI,7f904dfe-b85e-4ff6-b463-dae2292396a8
 PlutoUIExtra,a011ac08-54e6-4ec3-ad1c-4165f16ac4ce
 PlutoVSCodeDebugger,560812a8-17ff-4261-aab5-f8f600b273e2
 PlutoVista,646e1f28-b900-46d7-9d87-d554eb38a413
+PlutoWorkspaceExplorer,88acd20c-1248-4a97-8a3e-4ab1c55a24a0
 PlyIO,42171d58-473b-503a-8d5f-782019eb09ec
 PoGO,043b967d-4e64-47a6-97d4-0007e6b4905c
 PoincareInvariants,26663084-47d3-540f-bd97-40ca743aafa4
