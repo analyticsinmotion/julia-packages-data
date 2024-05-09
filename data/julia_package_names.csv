@@ -3308,6 +3308,7 @@ GMT_jll,b68b8c3f-ed99-5bef-9675-4739d9426b26
 GModelFit,ac42e6ba-c0bf-4fcf-827d-deea44b16255
 GModelFitViewer,5d93b50e-5cc7-4feb-a740-ec85257caa01
 GNCTestServer,301134cd-0795-4287-8b73-e567f40fdffd
+GNNlib,a6a84749-d869-43f8-aacc-be26a1996e48
 GNSSDecoder,bf6b1ec8-12ad-4501-972c-3dec0d675c2b
 GNSSReceiver,c84cffac-6943-4fe6-9449-f6d23817af8b
 GNSSSignals,52c80523-2a4e-5c38-8979-05588f836870
