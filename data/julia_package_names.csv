@@ -353,6 +353,7 @@ ArgParse,c7e460c6-2fb9-53a9-8c5b-16f535851c63
 ArgTools,0dad84c5-d112-42e6-8d28-ef12dabb789f
 ArgoData,9eb831cf-c491-48dc-bed4-6aca718df73c
 Argos,ef244971-cf80-42b0-9762-2c2c832df5d5
+ArguMend,c85fd23e-5eaf-479f-abdc-5c469c653c21
 ArgumentModes,2dc46c84-39f7-4c37-9a42-c3faed15caad
 ArgumentProcessor,da5e4181-4678-44ac-9e93-56ca85e03b1f
 Aria2_jll,9ab3bdc3-1250-5043-8fac-ac7e82d2cbc9
@@ -756,6 +757,7 @@ BinaryBuilderBase,7f725544-6523-48cd-82d1-3fa08ff4056e
 BinaryBuilderGitUtils,654d7472-7548-7361-4832-74694762694c
 BinaryBuilderPlatformExtensions,213f2928-4d72-6f46-7461-4c705f634367
 BinaryBuilderSources,316c416d-4527-6863-7465-466137743047
+BinaryBuilderToolchains,33566f4c-336c-3150-6d30-4374274e6143
 BinaryDecisionDiagrams,cd45f48d-2bff-4983-a793-756749635bd1
 BinaryProvider,b99e7846-7c00-51b0-8f62-c81ae34c0232
 BinaryRecordReader,27e49e6c-9eba-4945-878d-08e5ccc7cbcd
@@ -4054,6 +4056,7 @@ ITensorGPU,d89171c1-af8f-46b3-badf-d2a472317c15
 ITensorGaussianMPS,2be41995-7c9f-4653-b682-bfa4e7cebb93
 ITensorLattices,3ef2b461-a4cb-42b1-a580-b83f8df68c40
 ITensorMPOCompression,03645d51-6a26-4d1e-b9a1-035dc79d88e7
+ITensorMPS,0d1a4710-d33b-49a5-8f18-73bdf49b47e2
 ITensorMakie,72ca75eb-df6f-4d6b-80c5-d5eab17be3f9
 ITensorNetworks,2919e153-833c-4bdc-8836-1ea460a35fc7
 ITensorNumericalAnalysis,666f501e-685d-4e36-ab44-ece85df6022b
@@ -4861,7 +4864,18 @@ LibAMVW_jll,3420f54a-cca3-5752-a4b4-c8f5453f04ac
 LibASICamera,d52fb188-cbdc-4a2a-a9d4-49c222ce4b32
 LibAWSCRT,df7458b6-5204-493f-a0e7-404b4eb72fac
 LibArchive_jll,1e303b3e-d4db-56ce-88c4-91e52606a1a8
+LibAwsAuth,e028494f-7ddb-47cd-bd9c-7e7578dea4c5
+LibAwsCal,ef519ef6-af43-41a0-8ac4-eb81328190af
+LibAwsChecksums,332a3e40-df62-419b-9f04-2cb73588ccaf
 LibAwsCommon,c6e421ba-b5f8-4792-a1c4-42948de3ed9d
+LibAwsCompression,51c8708f-2dd9-446d-a0d4-ba9f49ba4b23
+LibAwsEventStream,7707c54a-f152-44d3-a3d6-cc4209ac0b85
+LibAwsHTTP,ce851869-0d7a-41e7-95ef-2d4cb63876dd
+LibAwsIO,a5388770-19df-4151-b103-3d71de896ddf
+LibAwsIot,d022c788-31c6-4e56-9a35-f63e7e4f3ca1
+LibAwsMqtt,dbf63f58-971e-4a9b-b153-820e5f7f543b
+LibAwsS3,7e4e0a2a-738e-4919-8f64-2391d105e660
+LibAwsSdkutils,c5f27dc9-c37b-4573-9b6c-b90055172160
 LibBirch_jll,9af553da-f2ee-58c4-bad9-1c5e8386f243
 LibCEED,2cd74e05-b976-4426-91fa-5f1011f8952b
 LibCImGui,9be01004-c4f5-478b-abeb-cb32b114cf5e
@@ -6038,6 +6052,7 @@ NativeFileDialog_jll,94d9ae2c-efc7-56f8-9a02-54c47b797961
 NativeNaNMath,6e4fe5f8-bc0f-434f-9b40-863822321529
 NativeSARSOP,a07c76ea-660d-4c9a-8028-2e6dbd212cb8
 NaturalES,89824b7a-ce3e-4367-b4d5-add9d360affc
+NaturalEarth,436b0209-26ab-4e65-94a9-6526d86fea76
 NaturalNeighbours,f16ad982-4edb-46b1-8125-78e5a8b5a9e6
 NaturalSort,c020b1a1-e9b0-503a-9c33-f039bfc54a85
 NaturallyUnitful,872cf16e-200e-11e9-2cdf-8bb39cfbec41
@@ -6091,6 +6106,7 @@ NetRC,4ceb92a4-8458-42c6-ac22-7a21adf6253e
 NetcdfIO,6a36f34d-89cf-423a-87c4-84549e82f670
 Netgen_jll,cd95cb84-3722-50de-b350-5a08abf29683
 Netpbm,f09324ee-3d7c-5217-9330-fc30815ba969
+Netpbm_jll,98999733-62a0-5dba-8ad6-4caa993b519a
 Nettle,49dea1ee-f6fa-5aa6-9a11-8816cee7d4b9
 Nettle_jll,4c82536e-c426-54e4-b420-14f461c4ed8b
 NetworkDynamics,22e9dc34-2a0d-11e9-0de0-8588d035468b
