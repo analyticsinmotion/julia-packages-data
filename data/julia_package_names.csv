@@ -6086,6 +6086,7 @@ Neighborhood,645ca80c-8b79-4109-87ea-e1f58159d116
 NeighborhoodApproximationIndex,73dc1408-15d9-420f-8382-2ac46fb81e72
 NeighbourLists,2fcf5ba9-9ed4-57cf-b73f-ff513e316b9c
 NelderMead,2f6b4ddb-b4ff-44c0-b59b-2ab99302f970
+NelsonRules,f967765a-671f-4dab-8ad7-3d510d8fd276
 Nemo,2edaba10-b0f1-5616-af89-8c11ac63239a
 Neo4j,d2adbeaf-5838-5367-8a2f-e46d570981db
 Neo4jBolt,6bf848c2-a04c-470f-9a4d-5a21d02c3e16
@@ -7682,6 +7683,7 @@ RationalGenerators,2737ff73-0d59-47a5-9105-cfa0dee446ca
 RationalProjectivePlane,c6f45eda-53e9-4846-927e-3bf2d3f4e2f3
 RationalRoots,308eb6b3-cc68-5ff3-9e97-c3c4da4fa681
 Ratios,c84ed2f1-dad5-54f0-aa8e-dbefe2724439
+Raven,cfd3f2ab-0fb0-4d51-9553-03e53d33f144
 RawArray,d3d335b2-f152-507c-820e-958e337efb65
 RawFile,7a16de70-abc6-11e8-02b0-4fe68abe0eac
 RayCastWorlds,a48166eb-4254-4927-9a4f-eb5d9658c5fa
