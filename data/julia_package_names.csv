@@ -248,6 +248,7 @@ AllenSDK,9d22b198-c11d-497b-9ac7-6add78eade21
 AllocArrays,5c00bae2-1499-4716-9206-27f63fd08a44
 AllocCheck,9b6a8646-10ed-4001-bbdc-1d2f46dfbb1a
 Allocations,260a3f16-0ffa-4f23-875b-1350d3996fb5
+AlmostBlockDiagonals,a95523ee-d6da-40b5-98cc-27bc505739d5
 Alpaca,fcf20ba4-066e-11ea-0417-5fa1eb97d662
 AlpacaMarkets,02dc6022-739e-4478-acf8-ef45d2bc67b8
 AlphaMolWrapper_jll,3fb590a3-637c-5b79-98b0-0e302591ed6a
@@ -1017,6 +1018,7 @@ CDMrdata,60f1a76e-720d-4784-bbc6-074b7a9a39a5
 CDSAPI,8a7b9de3-9c00-473e-88b4-7eccd7ef2fea
 CEDICT,76a33514-0aea-4d2f-abaf-6a43b94fc20c
 CEEDesigns,e939450b-799e-4198-a5f5-3f2f7fb1c671
+CESFunctions,41fc9631-8896-47d9-8244-cfbf74589b0a
 CEnum,fa961155-64e5-5f13-b03f-caf6b980ea82
 CFITSIO,3b1b4be9-1499-4b22-8d78-7db3344d1961
 CFITSIO_jll,b3e40c51-02ae-5482-8a39-3ace5868dcf4
@@ -3437,6 +3439,7 @@ GenLinearAlgebra,2304d612-645f-44c0-913c-a25a709b015d
 GenParticleFilters,56b76ac4-72ef-411e-b419-6d312ed86a6f
 GenServers,7ba82512-5dde-4a56-aa4f-e00f617b4033
 GenTeX,986b9465-75d6-44a0-94a2-e5aa8586ae9d
+GenX,5d317b1e-30ec-4ed6-a8ce-8d2d88d7cfac
 GeneDrive,d9acca20-95e5-11e9-3d4c-3b57da6f4e87
 GeneFinder,2bc6ee46-2158-4f5a-a720-91cb2d7cee64
 GeneMatrix,b017c6bb-e7c7-4437-8ee6-a27b72ea26ab
@@ -6902,6 +6905,7 @@ Pilot,ae4e50cc-6dbb-4f20-9f13-c46e7dac87e8
 Pinchot_jll,a0e007bb-30f3-5a40-a04b-58baf70e7e14
 Pinecone,ee90fdae-f7f0-4648-8b00-9c0307cf46d9
 Pingouin,61ac1d4c-5a1f-4019-949c-7919748f8c44
+Pinot,14b02da0-8be6-40d8-a4f8-a7d73caed26e
 Pio3d,276a7f50-ef14-5ff6-a3e3-20ef51d5e3d7
 Pioran,58cf54c2-5899-443a-99a6-60958a74ec4a
 Pipe,b98c9c47-44ae-5843-9183-064241ee97a0
@@ -8605,6 +8609,7 @@ Smesh,e2b06280-edec-413c-a3a2-1b4e389db7bf
 Smg2s,36e52ba8-0d61-4da2-bc57-6d85c7a279e7
 SmoQyDEAC,9c442b74-637f-4296-b43a-959aa316565a
 SmoQyDQMC,00e12d65-277b-447e-9c1d-a17422dd36f5
+SmoQyHankelCorrCleaner,0ea08462-a9b7-4dbd-b738-4196db0ff3ad
 SmolyakApprox,6b19cf85-48de-5d9d-bfff-465abea14fab
 SmoothLivePlot,31434429-0e9f-4d24-947a-14cd43782323
 SmoothNumbers,48ae9875-8a8b-401f-9c90-1ad5d6adef54
