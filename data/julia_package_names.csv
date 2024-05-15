@@ -136,6 +136,7 @@ Acquisition,d4bbf60b-102b-5ffb-8f97-a7ea5817e69f
 ActinFriction,6c004e30-2d62-4b0c-a9dc-5f2a1b1306a8
 ActinRingsMC,9ef53a5f-0b2d-4acd-b164-e3995a0d2389
 ActionModels,320cf53b-cc3b-4b34-9a10-0ecb113566a3
+ActiveInference,688b0e7a-0122-4325-8669-5ff08899a59e
 ActorInterfaces,7e194583-e687-41a0-9133-1c22a29c80af
 ActorInterfacesTests,bf64f69c-3949-4e90-aa8d-30c3e4cdf50d
 Actors,18269d71-cc38-4e02-b8c8-1db30113a6dd
@@ -4662,6 +4663,7 @@ KrigingModel,49b3b870-118c-11ea-1661-71d34d312539
 Kroki,b3565e16-c1f2-4fe9-b4ab-221c88942068
 KronLinInv,cc83e5c8-98fc-11e9-313e-e750fdcd15c8
 Kronecker,2c470bb0-bcc8-11e8-3dad-c9649493f05e
+KroneckerProductKernels,cdbd8a54-2c11-4475-85dd-323d022ca3c3
 KroneckerProducts,1b19e153-50d3-4699-8064-93bcb9fb4fba
 KroneckerTools,7e59e93b-e0cb-42c7-aa95-426cb754d61e
 Krotov,b05dcdc7-62f6-4360-bf2c-0898bba419de
