@@ -3402,6 +3402,7 @@ Gasdynamics1D,147bd2d4-5614-4af7-9716-06bc640f25f6
 GasphaseReactions,ceedd18c-cbe2-4568-b16d-0e09f1cb20d1
 Gaston,4b11ee91-296f-5714-9832-002c20994614
 Gateway,f2e1f862-4456-4210-88f5-8c0e866c18bb
+Gattino,f0fb3ee5-f608-41f3-a42d-dac276373afc
 Gaugefields,a461e10c-0d91-493e-bc41-027b226eee91
 GaussBP,7e9f8bf2-99af-4218-abca-a9d13ed0f79b
 GaussMLE,39799108-5025-4d0e-9a62-95a61c8c6061
@@ -3909,6 +3910,7 @@ HerbInterpret,5bbddadd-02c5-4713-84b8-97364418cca7
 HerbSearch,3008d8e8-f9aa-438a-92ed-26e9c7b4829f
 HerbSpecification,6d54aada-062f-46d8-85cf-a1ceaf058a06
 Hermetic,b255c96a-a4ac-5b61-a2c4-3db36d36609d
+HermiteInterpolation,e59a9049-0778-4b41-b4a6-c75571210bee
 HeroIcons,0e288569-e4b5-43fd-9baa-cb516e1232f8
 Hestia,75036a29-a2ca-4eb4-a964-4c35e636f9a9
 HetaSimulator,630b40c4-2f38-41ff-bcb3-b2c7232fed0d
@@ -10453,6 +10455,7 @@ cuTensorNet,448d79b3-4b49-4e06-a5ea-00c62c0dc3db
 czmq_jll,bada3277-1da5-58a9-94c6-da212cd39369
 dSFMT_jll,05ff407c-b0c1-5878-9df8-858cc2e60c36
 datamash_jll,5e3497f2-6421-5a2b-b76c-5131171094e1
+dav1d_jll,349a489e-63ad-5fc4-b473-f70c9c959831
 deSolveDiffEq,0518478a-701b-4815-806c-24ad5cb92f09
 devspace_jll,f3d103f0-1a5c-5786-832a-e5a97cefde2e
 diffutils_jll,11f5bf75-d780-529b-b59b-a3a04c974070
@@ -10600,6 +10603,7 @@ liblsl_jll,b37880e1-55fa-5503-9f1a-f1223ce0b53e
 libmcfp_jll,7c79adba-b25c-591c-9e76-5703f3b8509b
 libmicrohttpd_jll,9663f319-c281-55ef-904e-227b7281b1a1
 libminc_jll,dce2f2bf-0ed4-5a0e-8af7-a90b827a9344
+libmng_jll,6e914d37-4380-5380-976e-126d180cb924
 libmodplug_jll,4d619e01-cdd4-5c75-9845-95db0342950b
 libmonitor_jll,17301647-d5f0-5157-99fa-219446a5b904
 libmseed_jll,ccc2c699-b150-5417-88f2-a95a0d1581d9
