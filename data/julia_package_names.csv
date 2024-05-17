@@ -686,6 +686,7 @@ Bedgraph,0bcc2ff6-69eb-520d-bede-0374fc5bd2fd
 BedgraphFiles,85eb9095-274b-55ce-be28-9e90f41ac741
 BeeEncoder,88bd2ba4-b024-4779-b1f7-c7f148753aae
 BeepBeep,97dd0070-d6c0-43ac-b134-ca84cdbd343e
+BeforeIT,ca9fcad7-41d0-4f76-b1e5-366c28bce52e
 Behavior,7a129280-419d-58e9-81ef-4f6801251892
 BehaviorTree,f69da737-dcaa-4055-be2f-aa6e9fbb4bc4
 BeliefGridValueIteration,d6851e30-d4b8-11e9-06de-0b345e2a813d
@@ -946,6 +947,7 @@ BraidGroup,88710b8a-735b-4c46-a451-f37baff89cb3
 BrainFlow,abd5acf9-0fc9-4730-984d-e27a37823580
 Braket,19504a0f-b47d-4348-9127-acc6cc69ef67
 BraketAHS,aad1d28c-1a3f-47da-806d-2ed76430c1d6
+BraketSimulator,76d27892-9a0b-406c-98e4-7c178e9b3dff
 BranchAndBound,df125234-20bf-4c0f-9bfa-104d3353f312
 BranchAndPrune,d3bc4f2e-91e6-11e9-365e-cd067da536ce
 BranchFlowModel,73c867df-75f8-459f-abd8-059b58de1e18
@@ -6865,6 +6867,7 @@ Phylo,aea672f4-3940-5932-aa44-993d1c3ff149
 PhyloClustering,2e4ec7c6-185f-4bfd-8419-ce336ea983f6
 PhyloCoalSimulations,53f7b83a-06b5-4910-9a21-1896bf762ade
 PhyloDiamond,5fd89c64-9bfa-4c3b-9406-7e573fc4f4af
+PhyloGaussianBeliefProp,e3084505-90a0-4799-8167-4168d9f39f7c
 PhyloModels,6465ae08-de3a-5dbe-bda8-3920f6a01ab7
 PhyloNetworks,33ad39ac-ed31-50eb-9b15-43d0656eaa72
 PhyloPlots,c0d5b6db-e3fc-52bc-a87d-1d050989ed3b
@@ -9749,6 +9752,7 @@ TypedSyntax,d265eb64-f81a-44ad-a842-4247ee1503de
 TypedTables,9d95f2ec-7b3d-5a63-8d20-e2491e220bb9
 TypstGenerator,b4d5b4e8-9a4e-401d-a981-0a2e8ff042be
 Typst_jll,eb4b1da6-20f6-5c66-9826-fdb8ad410d0e
+Typstry,f0ed7684-a786-439e-b1e3-3b82803b501e
 UAParser,9c2e70fb-c67a-5ec7-8d93-51b38135a8ac
 UASM_jll,bbf38c07-751d-5a2b-a7fc-5c0acd9bd57e
 UBPF_jll,502467ad-4a4a-57e4-9860-6b433130b33f
@@ -10557,6 +10561,7 @@ libaom_jll,a4ae2306-e953-59d6-aa16-d00cac43593b
 libass_jll,0ac62f75-1d6f-5e53-bd7c-93b484bb37c0
 libasyncns_jll,ed080073-db63-57db-a029-74e11ae80737
 libatomic_ops_jll,05a86a2e-8047-56b1-a9eb-0973326f4c2d
+libavif_jll,d7a461ab-9c30-58dd-b115-285ac81dc4e5
 libavtp_jll,c33e1e51-3cb7-5762-8964-d0cfbd951039
 libblastrampoline_jll,8e850b90-86db-534c-a0d3-1478176c7d93
 libbluray_jll,4a6b8444-0b90-5145-9aa0-b7d88b695d06
@@ -10855,12 +10860,16 @@ xfoil_light_jll,70cc596b-f351-5640-b155-76ddf0ff62ca
 xhyve_jll,df5f24a2-ce61-5be2-97f7-106f5424b9fe
 xkbcommon_jll,d8fb68d0-12a3-5cfd-a85a-d49703b185fd
 xrootdgo_jll,9d84c17e-11f2-50ef-8cc9-e9701362097f
+xsimd_jll,9e151094-6d0c-5a5c-8bf5-2fcad2e63db9
 xsum_jll,e979a739-315a-50ee-b437-b496a9503be1
+xtensor_jll,e692580d-a894-5e11-adde-c3d453d9283f
+xtl_jll,ba385536-920d-53da-b5db-5183e89bfaf8
 xtrx_jll,f7ce82bc-bc1e-5125-bd1d-6a84dd39bfb4
 xxHash_jll,5fdcd639-92d1-5a06-bf6b-28f2061df1a9
 yaml_cpp_jll,01fea8cc-7d33-533a-824e-56a766f4ffe8
 yq_jll,174e927f-d384-57ac-82db-e88370a29c21
 z3_jll,1bc4e1ec-7839-5212-8f2f-0d16b7bd09bc
+z5_jll,c9251380-99b7-5c1d-a474-9aaf727e38ce
 zbar_jll,e2ef1e04-4331-5370-a106-92245136390b
 zed_jll,a2fbc99b-683d-5036-9e5b-937a48409984
 zfp_jll,007be453-5351-5f08-b8c7-bf95923b8de2
