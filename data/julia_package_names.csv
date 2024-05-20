@@ -3942,6 +3942,7 @@ HierarchicalTemporalMemory,db654dba-670c-566a-9226-64313b881ded
 HierarchicalUtils,f9ccea15-0695-44b9-8113-df7c26ae4fa9
 HighDimMixedModels,5d0d0550-ba84-42d6-a33e-4f9cf65119aa
 HighDimPDE,57c578d5-59d4-4db8-a490-a9fc372d19d2
+HighFive_jll,714382d7-300d-5cff-9119-eab393adbf23
 HighFrequencyCovariance,c79ce38c-73ba-4c3d-834c-fb94999fb590
 HighLevelTypes,66835562-f1c4-5586-a145-e564a3963a4b
 HighVoronoi,1d30c219-805f-47bd-9cb8-33f291c94a4c
@@ -3956,6 +3957,7 @@ Hilbert,5befdd30-5572-5129-8422-0c92d957d47a
 HilbertSchmidtIndependenceCriterion,08eae483-2844-53a4-a2b9-23549d80f877
 HilbertSpaceFillingCurve,515b7ef8-bac0-55e1-a220-237e90591ccc
 Hiredis,b602d61d-8564-4e44-9fbd-3fa22bd1775c
+HistogramBinnings,8296b526-8b84-45d3-81d6-36727ca56808
 HistogramThresholding,2c695a8d-9458-5d45-9878-1b8a99cf7853
 Historic,e6ec0b50-ef98-488a-a141-280ae2eaf113
 HistoricalStdlibVersions,6df8b67a-e8a0-4029-b4b7-ac196fe72102
@@ -5077,6 +5079,7 @@ LocalPoly,c0c96f75-fb1e-4a0c-bd73-67714f26b91d
 LocalProjections,8dd5e8af-b996-4a51-9681-92a36a2638c1
 LocalRegistry,89398ba2-070a-4b16-a995-9893c55d93cf
 LocalSearchSolvers,2b10edaa-728d-4283-ac71-07e312d6ccf3
+LocalSignalAttributes,0a92bf9b-4da3-44e8-9286-830175b27cf8
 LocalStore,7673ebd9-f02d-46dd-b879-08aafde2f01b
 LocalizationMicroscopy,798e6d30-19ab-11e9-36f8-37cfc5a8426e
 LocallyCompetitive,86bb8979-40af-4c14-b177-a78efc84e952
@@ -6386,6 +6389,7 @@ OneRule,90484964-6d6a-4979-af09-8657dbed84ff
 OneTwoMany,762dc654-8631-413a-a342-372a7419ad9d
 OnlineLogBinning,6694b27a-7f2b-41da-9dea-d3f4793b6534
 OnlinePackage,dec300e5-7e5b-577b-bc13-c7c11ad250bc
+OnlinePortfolioAnalytics,d39dbdee-9d7b-4a6f-a064-c0eaa0a6e939
 OnlinePortfolioSelection,038f9fe3-14bd-47ca-b081-2e00e8c46dfa
 OnlineStats,a15396b6-48d5-5d58-9928-6d29437db91e
 OnlineStatsBase,925886fa-5bf2-5e8e-b522-a9147a512338
@@ -6420,6 +6424,7 @@ OpenFOAM_jll,89340185-c6b7-517e-a5e0-0a450377a6e4
 OpenGLMathematics_jll,cc7be9be-d298-5888-8f50-b85d5f9d6d73
 OpenGeoSysUncertaintyQuantification,2b9e718a-2bbf-456a-af48-1d5a69fa48c6
 OpenIDConnect,195a77af-17c0-520f-ac58-3336c7ea8576
+OpenImageIO_jll,fd470f6e-6842-5666-8cbd-b5630dfbbd08
 OpenInterfaces,07e4ff7f-07bb-45cd-9e58-8fac98767c00
 OpenJpeg_jll,643b3616-a352-519d-856d-80112ee9badc
 OpenLDAPClient_jll,234f2d50-f964-585e-b1c8-17cd4567e563
@@ -8024,6 +8029,7 @@ SAMaDB,aa959544-2f3b-44d5-8079-5ba914f22dbb
 SAOImageDS9,dbce9b26-8eb4-4825-964b-d4940cf8daff
 SARSOP,cef570c6-3a94-5604-96b7-1a5e143043f2
 SARSOP_jll,e478675d-f996-546e-baa1-da59d9de2062
+SASLMR,c5384bee-8a12-426e-bc63-175ec2f1897e
 SASLib,df8f2f22-cfef-5733-af3f-96770d497d85
 SBC_jll,da37f231-8920-5702-a09a-bdd970cb6ddc
 SBML,e5567a89-2604-4b09-9718-f5f78e97c3bb
@@ -9120,6 +9126,7 @@ SuperLUDIST,4cd002a6-0da4-410d-a012-232df062f478
 SuperLU_DIST_jll,9a1356b0-3c82-5da3-b77c-7c198e8bd7ab
 SuperLU_MT_jll,00982de7-9f76-5194-84e1-476c61fcc171
 SuperLU_jll,f391fee2-5786-5cc9-9662-0e362ec949e2
+Superfacility,f7a38f07-e5d6-4eec-ba19-7d8f01225f45
 SuperfluidRotSpec,dc1ff568-94fa-4ad3-b92b-d84550c04ff1
 Superfluids,01347403-e5cf-4a60-9350-9edf4e6960f2
 Supernovae,f00d7deb-a70b-45c2-b896-7f55cd638e72
@@ -9151,6 +9158,7 @@ Survey,c1a98b4d-6cd2-47ec-b9e9-69b59c35373c
 SurveyDataWeighting,0d23d9a6-c44e-4ca5-9c36-ffcb6594a9c5
 Survival,8a913413-2070-5976-9d4c-2b364fdc2f7f
 SurvivalAnalysis,d1dd7d07-e5c2-418a-8652-e20add45d312
+SurvivalDistributions,7121986e-ae89-4673-ae4e-1cb822919a18
 SurvivalSignature,13fa4dc1-3690-464b-a752-a9f12e029c3c
 SwagUI,bf05d729-34b2-4f1f-a2f1-2452bece7ebc
 Swagger,2d69052b-6a58-5cd9-a030-a48559c324ac
