@@ -1394,6 +1394,7 @@ ClearStacktrace,710b7bb7-6527-48f4-8ff2-df22ae1c6308
 CliMADatasets,49523d62-8978-4391-abdd-b8467d4505ae
 ClickHouse,82f2e89e-b495-11e9-1d9d-fb40d7cf2130
 CliffordAlgebras,ca841f6f-225c-4bbd-a467-7a3512dfa6f6
+CliffordNumbers,3998ac73-6bd4-4031-8035-f167dd3ed523
 Cliffords,276b0191-6968-5de0-98fd-2a81b0f3910d
 ClimaAnalysis,29b5916a-a76c-4e73-9657-3c8fd22e65e6
 ClimaAtmos,b2c96348-7fb7-4fe0-8da9-78d88439e717
@@ -7726,6 +7727,7 @@ Reactant,3c362404-f566-11ee-1572-e11a4b42c853
 Reactant_jll,0192cb87-2b54-54ad-80e0-3be72ad8a3c0
 ReactionCommons,3fc4dfc6-bd63-4703-97f2-4579ab7691c1
 ReactionMechanismSimulator,c2d78dd2-25c4-5b79-bebc-be6c69dd440f
+ReactionNetworkEvolution,61220d1e-4cdb-4fc3-9e6c-02bd7f830b85
 ReactionNetworkImporters,b4db0fb7-de2a-5028-82bf-5021f5cfa881
 ReactionSensitivity,ed25ef7a-b813-415f-98cd-eb06d9efe1db
 Reactive,a223df75-4e93-5b7c-acf9-bdd599c0f4de
@@ -8742,6 +8744,7 @@ SparseInverseSubset,dc90abb0-5640-4711-901d-7e5b23a2fada
 SparseKmeansFeatureRanking,a6138be3-5d3e-4f3e-9009-7e37efc59f36
 SparseMatricesCOO,fa32481b-f100-4b48-8dc8-c62f61b13870
 SparseMatricesCSR,a0a7dd2c-ebf4-11e9-1f05-cf50bc540ca1
+SparseMatrixColorings,0a514795-09f3-496d-8182-132a7b665d35
 SparseMatrixDicts,5cb6c4b0-9b79-11e8-24c9-f9621d252589
 SparsePCA,7700fd7a-0a3e-455e-9ac1-177bceab20a5
 SparseRegression,ca6142a6-a6a7-57f5-b674-4a8484b22e92
