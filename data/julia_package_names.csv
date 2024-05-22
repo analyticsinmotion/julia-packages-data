@@ -3130,6 +3130,7 @@ ForecastData,97bfbf95-b26f-4f60-9525-b5a468fedbf5
 ForecastEval,c08c26e9-7d88-5404-9cd5-c0fa6a8b90ba
 ForecastPlots,95c0ec29-a3eb-434e-bd76-d289ebf6f18a
 ForeignCallbacks,809b5ff2-8730-47bb-8e19-67299d747c44
+Forem,365d3a1d-b59a-4d63-acf2-d6b0cfbb80c9
 Foresight,c6e1034d-1844-4b96-abf2-c5824a5aa8c3
 ForestBiometrics,41a43668-ff68-5e81-b2d7-6ef3c0dd3db1
 ForestPlot,4c160800-dae9-4e88-8d4c-769bf7c259e1
@@ -4305,6 +4306,7 @@ Interpolations,a98d9a8b-a2ab-59e6-89dd-64a1c18fca59
 InterpretMe,e2b23942-74cb-440b-b3b6-a912e3f01750
 Intersections,6d0fbc77-481e-44fe-9ace-1653ddcdea34
 IntervalArithmetic,d1acc4aa-44c8-5952-acd4-ba5d80a2a253
+IntervalBoxes,43d83c95-ebbb-40ec-8188-24586a1458ed
 IntervalConstraintProgramming,138f1668-1576-5ad7-91b9-7425abbf3153
 IntervalContractors,15111844-de3b-5229-b4ba-526f2f385dc9
 IntervalLapper,1bf80048-ef54-4e19-a2c1-a160028d98bb
@@ -6602,6 +6604,7 @@ PDMats,90014a1f-27ba-587c-ab20-58faa44d9150
 PDMatsExtras,2c7acb1b-7338-470f-b38f-951d2bcb9193
 PDSampler,f9d848e4-75a0-5321-a43a-fbaa97166838
 PEG,12d937ae-5f68-53be-93c9-3a6f997a20a8
+PEPSKit,52969e89-939e-4361-9b68-9bc7cde4bdeb
 PERMANOVA,f33fedc7-88ab-426d-b3f4-502f30fbdde3
 PETLION,5e0a28e4-193c-47fa-bbb8-9c901cc1ac2c
 PETSc,ace2c81b-2b5f-4b1e-a30d-d662738edfe0
@@ -10689,6 +10692,7 @@ lrslib_jll,3873f7d0-7b7c-52c3-bdf4-8ab39b8f337a
 lttng_tools_jll,37591b3e-a3c2-50e0-b676-8bc36018f336
 lttng_ust_jll,a2826780-45ff-53db-9dda-fd961bc58de1
 mPulseAPI,314d2b54-f2c3-11ea-15f2-0bcf2fc50b35
+manifold_jll,466ed8ff-2df3-54fa-a5b0-f65ecab082ee
 marble_jll,678d7417-9a84-558b-a975-2deb8d71bebc
 mdbtools_jll,07583aeb-fc39-51f3-a266-a2fa5ce88e58
 mdoodz_jll,0a56ae03-39c2-5dea-b057-4d914594188b
@@ -10706,6 +10710,7 @@ mousetrap_jll,0e90efc8-2bbd-550f-bf3c-306a2edaaeef
 mpg123_jll,3205ef68-7822-558b-ad0d-1b4740f12437
 mpv_jll,3b7eb3ab-5558-5250-ad56-7cbe1b8a43e3
 mrfDepth_jll,53656f53-9700-50e7-bf9c-d3aea1338d1b
+msgpack_cxx_jll,b129c591-c9d9-59ef-8959-ff59aa278493
 msgpack_jll,43dd8cde-e9ee-5d59-924a-18d3f2773c4d
 msolve_jll,6d01cc9a-e8f6-580e-8c54-544227e08205
 mtdev_jll,009596ad-96f7-51b1-9f1b-5ce2d5e8a71e
