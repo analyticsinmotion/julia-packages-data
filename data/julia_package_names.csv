@@ -2055,6 +2055,7 @@ DecisionTree,7806a523-6efd-50cb-b5f6-3fa6f1930dbb
 DecompUtil_jll,2ebad9b3-2ef2-5978-ad98-6cd1c30fc6b8
 DeconvOptim,03e7cd2f-1a03-4ea9-b59b-760a446df67f
 Deconvolution,41ba435c-a500-5816-a783-a9707c6f5f3a
+DecoratedParticles,023d0394-cb16-4d2d-a5c7-724bed42bbb6
 Dedispersion,fc859fcf-df02-4415-b05f-e38a41bf0974
 Deductive,1a5e8c1d-b073-459e-b18e-ab421a81424e
 DeepCompartmentModels,398c52f8-e6e0-45bd-bf73-2340696b0a8e
@@ -2933,6 +2934,7 @@ FeatherLib,409f5150-fb84-534f-94db-80d1e10f57e1
 FeatureDescriptors,cb0561c3-42a1-46a3-8749-4ae46de0afcc
 FeatureEng,1da23141-447d-474e-a064-8dd6bac2aab2
 FeatureRegistries,c6aefb4f-3ac3-4095-8805-528476b02c02
+FeatureSelection,33837fe5-dbff-4c9e-8c2f-c5612fe2b8b6
 FeatureSelectors,e0e7d8aa-9f8d-4d2b-94aa-a22ac5d6b31b
 FeatureTransforms,8fd68953-04b8-4117-ac19-158bf6de9782
 FeedbackNets,9baa0d68-9979-11e9-30aa-bfec78b4c1ae
@@ -6774,6 +6776,7 @@ PartiallySeparableSolvers,ee47c953-e16d-47b3-8c84-b49e0fa97f8a
 ParticleCorrelations,2bdc0d93-21f3-4e16-a26e-769a2eaf80d4
 ParticleDA,61cd1fb4-f4c4-4bc8-80c6-ea5639a6ca2e
 ParticleFilters,c8b314e2-9260-5cf8-ae76-3be7461ca6d0
+ParticleHolography,b8f7f481-73e0-42c6-b6bd-c66d3b4942cc
 ParticleMDI,c070f950-bb2a-11e8-1d15-1b6f26bd9de9
 ParticleMethods,b097825d-39ce-45b2-a4ab-941e2c2df7e8
 ParticleScattering,3532a73c-0c3e-5edc-89e3-d771336b0a2d
