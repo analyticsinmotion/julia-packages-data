@@ -2843,6 +2843,7 @@ FTPServer,9c2b0ca7-0fb3-5789-8f1a-7604e426024c
 FWFTables,1acc1471-1fd5-4be2-a8c2-3f3b1db75813
 FXdiv_jll,04d6f918-1a1e-5862-bbec-f5b7bf9ea9e9
 FaSTLMM,18d3ab0b-97fc-5e2b-aa05-5bdf3eee57bb
+FaSTLMMlight,26e330ee-2514-4fac-b42d-929ac0d6997d
 FaSTMMRunner,d9cb9cd8-68ce-459b-835c-d1d063edcaa6
 Fable,a3ea4736-0a3b-4c29-ac8a-20364318a635
 FaceDetection,00808967-75e2-4046-a522-2ca211e35506
@@ -4088,6 +4089,7 @@ ITensorVisualizationBase,cd2553d2-8bef-4d93-8a38-c62f17d5ad23
 ITensors,9136182c-28ba-11e9-034c-db9fb085ebd5
 ITensorsVisualization,f2aed53d-2f32-47c3-a7b9-1ee253853786
 ITerSOLvers,d5f7a247-b52f-4d20-a862-6998306c65a0
+ITerm2Images,9348d769-4460-4e86-9927-452f530f5601
 IUCNRedList,974fe673-6e6b-4833-bfec-235320a1a9d9
 IVFADC,c28a5fd4-166f-4f83-b04d-195ccdb4ae51
 IVerilog_jll,985f9f6c-a11c-5717-b596-40558d7e7751
@@ -5253,6 +5255,7 @@ MLDataUtils,cc2ba9b6-d476-5e6d-8eaf-a92d5412d41d
 MLDatasets,eb30cadb-4394-5ae3-aed4-317e484a6458
 MLFlowClient,64a0f543-368b-4a9a-827a-e71edb2a0b83
 MLFlowLogger,a17d1b34-d2df-4d9e-9e11-6289e57bd259
+MLIR,bfde9dd4-8f40-4a1e-be09-1475335e1c92
 MLIR_jll,a70bccb4-a5c0-5e2e-a329-e731972457e8
 MLInterpret,8be67bde-e6c3-11e9-38b8-61e71f321663
 MLJ,add582a8-e3ab-11e8-2d5e-e98b27df1bc7
@@ -9069,6 +9072,7 @@ StructIO,53d494c1-5632-5724-8f4c-31dff12d585f
 StructJuMP,34f15cae-5318-50c9-93d3-9feadd34e321
 StructMapping,7c3b921d-20d6-4eba-ad57-605525e86ab2
 StructTypes,856f2bd8-1eba-4b0a-8007-ebc267875bd4
+StructUtils,ec057cc2-7a8d-4b58-b3b3-92acb9f63b42
 StructViews,7ec7c78e-fb05-449e-ad6d-89bad1428a9b
 StructWalk,31cdf514-beb7-4750-89db-dda9d2eb8d3d
 StructuralCausalModels,a41e6734-49ce-4065-8b83-aff084c01dfd
@@ -10886,6 +10890,7 @@ xkbcommon_jll,d8fb68d0-12a3-5cfd-a85a-d49703b185fd
 xrootdgo_jll,9d84c17e-11f2-50ef-8cc9-e9701362097f
 xsimd_jll,9e151094-6d0c-5a5c-8bf5-2fcad2e63db9
 xsum_jll,e979a739-315a-50ee-b437-b496a9503be1
+xtensor_io_jll,a56137cc-9937-5467-96f1-bf8abe647212
 xtensor_jll,e692580d-a894-5e11-adde-c3d453d9283f
 xtl_jll,ba385536-920d-53da-b5db-5183e89bfaf8
 xtrx_jll,f7ce82bc-bc1e-5125-bd1d-6a84dd39bfb4
