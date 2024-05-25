@@ -4258,6 +4258,7 @@ InplaceOps,505f98c9-085e-5b2c-8e89-488be7bf1f34
 Insolation,e98cc03f-d57e-4e3c-b70c-8d51efe9e0d8
 InspectDR,d0351b0e-4b05-5898-87b3-e2a8edfddd1d
 InstaRound,609f54d3-8a97-4836-aa37-e3dc8f03ac88
+InstantFrame,d4c411e5-b967-4c36-b61c-e426871b3c50
 InstantiateFromURL,43edad99-fa64-5e4f-9937-1c09a410b73f
 InstrumentConfig,2ae464b0-21de-4247-9233-e7c17725eb53
 InstrumentOperator,9e589c1b-9e01-4e00-831a-aa39ce86e3ef
@@ -7477,6 +7478,7 @@ QuadraticToBinary,014a38d5-7acb-4e20-b6c0-4fe5c2344fd1
 Quadrature,67601950-bd08-11e9-3c89-fd23fb4432d2
 QuadratureCuba,1e5cbd8a-c439-4026-92c2-98742b2c817b
 QuadratureCubature,e0ec9b62-6d54-4d46-b3b0-ad6116370d23
+QuadratureOnImplicitRegions,b906bd41-8a13-4c88-a09a-4b011115ea16
 QuadratureRules,a08977f5-a20d-4b99-b11f-f5ea535e0575
 Quadtrees,f668e113-9f8b-4879-aee4-af57b0614260
 QuakeML,6dae4b62-8e81-11e8-042c-0346828cfc4a
@@ -10387,6 +10389,7 @@ Zlib_jll,83775a58-1f1d-513f-b197-d71354ab007a
 Zomato,f91f2aa8-3cb3-52ab-b009-b9f47c1c1b27
 ZonalFlow,728887dd-28ad-4880-9c43-8461f4f025ea
 Zotero,a6782e42-190c-4b39-989d-970618284c73
+ZstdSeekable_jll,86ac9985-db92-5090-8b9c-ec8f613186b3
 Zstd_jll,3161d3a3-bdf6-5164-811a-617609db77b4
 Zygote,e88e6eb3-aa80-5325-afca-941959d7151f
 ZygoteRules,700de1a5-db45-46bc-99cf-38207098b444
