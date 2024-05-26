@@ -3086,6 +3086,7 @@ FlightGNC,f141b7d0-6781-47a7-9266-a0707263841d
 FlightMechanics,d8b13f87-1844-53e1-ad89-0742af8604bf
 FlightMechanicsUtils,0ddfa1e6-9159-4d5a-8b9e-3a0591f1f4a7
 FlightSims,a4c2f6ca-3fbe-4430-8ede-32935de4c069
+FlipGraphs,bf6bd3dc-c349-4a39-9695-9ea99bf10cfe
 FlipPA,a9676066-08b1-4647-a3cf-89b449beb4d6
 Float8s,81dfefd7-55b0-40c6-a251-db853704e186
 FloatTracker,1722352a-da05-4a89-9ace-0f2f7ef630bb
@@ -5407,6 +5408,7 @@ ManagedLoops,36a4119d-6b73-4371-88fe-ba2d91f5495d
 Mangal,b8b640a6-63d9-51e6-b784-5033db27bef2
 Mango,5e49fdec-d473-4d14-b295-7bff2fcf1925
 ManifestUtilities,8c44504f-1cba-4a08-a12a-8828b1581fee
+ManifoldBindings,6347b20d-ab3f-4582-b354-87a116902036
 ManifoldDiff,af67fdf4-a580-4b9f-bbec-742ef357defd
 ManifoldDiffEq,1143c485-9b25-4e23-a65f-701df382ec90
 ManifoldLearning,06eb3307-b2af-5a2a-abea-d33192699d32
@@ -5647,6 +5649,7 @@ MicroCollections,128add7d-3638-4c79-886c-908ea0c25c34
 MicroCoverage,735f9d89-249f-4fc4-9125-480239e6a78f
 MicroFloatingPoints,6e0295d3-a2ae-4d9e-ab31-7b55fc0f4333
 MicroLogging,cecf6091-0e4e-54ba-8cba-f0e96a51f282
+MicroMagnetic,cef16ca0-16a8-11ef-389e-9fbcf1974e83
 MicroMamba,0b3b1443-0f03-428d-bdfb-f27f9c1191ea
 MicroTracker,f2f4b30c-0e7b-4018-b992-2f46df5706a6
 MicrobeAgents,b17a4bac-8667-4a2d-84f7-1883ae0b8dbb
@@ -7240,6 +7243,7 @@ PrettyNumbers,d1bdb62b-d559-469f-b147-fd8a93502a34
 PrettyPrint,8162dcfd-2161-5ef2-ae6c-7681170c5f98
 PrettyPrinting,54e16d92-306c-5ea0-a30b-337be88ac337
 PrettyTables,08abe8d2-0d0c-5749-adfa-8a2ac140af0d
+PrettyTests,ecd20d55-42c1-4d31-a87b-fff5cebab0b6
 Primes,27ebfcd6-29c5-5fa9-bf4b-fb8fc14df3ae
 PrimitiveCollisions,3b8dc6f2-bddc-4c88-9cf9-9f37a0c17a29
 PrimitiveOneHot,13d12f88-f12b-451e-9b9f-13b97e01cc85
@@ -8936,6 +8940,7 @@ StateSpaceSets,40b095a5-5852-4c12-98c7-d43bf788e795
 Static,aedffcd0-7271-4cad-89d0-dc628f76c6d3
 StaticArrayInterface,0d7ed370-da01-4f52-bd93-41d350b8b718
 StaticArrays,90137ffa-7385-5640-81b9-e52037218182
+StaticArraysBlasInterfaces,3c95a420-e72f-46bd-bd8e-135251b8d06f
 StaticArraysCore,1e83bf80-4336-4d27-bf5d-d5a4f845583c
 StaticBitSets,72d6c30d-a10b-4e7e-bc09-3079d9530bdf
 StaticCompiler,81625895-6c0f-48fc-b932-11a18313743c
