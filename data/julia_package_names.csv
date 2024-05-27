@@ -6137,6 +6137,7 @@ NetCDF_jll,7243133f-43d8-5620-bbf4-c2c921802cf3
 NetDecOPF,7e11003c-6902-4de6-b30c-de11577d87f1
 NetPromoterScore,84d37b2b-9fed-4c25-9b89-de30dae39924
 NetRC,4ceb92a4-8458-42c6-ac22-7a21adf6253e
+NetSurvival,8f9d5d0e-dd2e-4568-92d4-f8c5d34f25cf
 NetcdfIO,6a36f34d-89cf-423a-87c4-84549e82f670
 Netgen_jll,cd95cb84-3722-50de-b350-5a08abf29683
 Netpbm,f09324ee-3d7c-5217-9330-fc30815ba969
@@ -8624,6 +8625,7 @@ Slacker,1fee779b-79a2-446d-a52f-d1aa38b3d5ab
 Sleipnir,f5e6c550-199f-11ee-3608-394420200519
 SlepcWrap,c3679e3b-785e-4ccc-b734-b7685cbb935e
 SliceMap,82cb661a-3f19-5665-9e27-df437c7e54c8
+SliceSampling,43f4d3e8-9711-4a8c-bd1b-03ac73a255cf
 SlidingDistancesBase,25b0cc0c-38e4-462f-a11d-8564868c562d
 SlimOptim,e4c7bc62-5b23-4522-a1b9-71c2be45f1df
 SlimPlotting,f6d04670-764e-495b-a720-91c3c9a588ff
