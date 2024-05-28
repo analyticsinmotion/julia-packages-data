@@ -787,6 +787,7 @@ BioCCP,79e6b149-e254-49fe-a721-3c4960de1574
 BioCore,37cfa864-2cd6-5c12-ad9e-b6597d696c81
 BioDemultiplexer,39204792-bc26-423a-8bcf-54c03468b271
 BioEnergeticFoodWebs,9b49b652-2545-5b88-a3af-87b516beb26f
+BioExplorer,92f832ab-a3ce-4d7c-a08d-a5d13ab1bbba
 BioFetch,f8217676-c24a-4825-a874-ba6ce2a4fe08
 BioFindr,77580646-997d-4218-a3cc-42097ecd1c68
 BioGenerics,47718e42-2ac5-11e9-14af-e5595289c2ea
@@ -1184,6 +1185,7 @@ CalibrationAnalysis,f96f8458-5c05-4a28-b3fd-d398aeb95222
 CalibrationErrors,33913031-fe46-5864-950f-100836f47845
 CalibrationErrorsDistributions,20087e1a-bb94-462b-b900-33d17a750383
 CalibrationTests,2818745e-0823-50c7-bc2d-405ac343d48b
+CallableExpressions,391672e0-bbe4-4ab4-8bc9-b89a79cbc2f0
 Callbacks,db1e321a-d383-57b4-a664-0144fd54e973
 CallendarVanDusen,7659f2e7-3eba-428e-a299-bc867dd8ac42
 Cambrian,7f27c84d-2d74-42e5-be5f-94f6748267f3
@@ -2053,6 +2055,7 @@ DecisionMakingUtils,e21ee072-cbb1-4ecc-b257-6a793c43976a
 DecisionProgramming,0e836bf4-a496-11ea-2c13-edcbe498ce6b
 DecisionTree,7806a523-6efd-50cb-b5f6-3fa6f1930dbb
 DecompUtil_jll,2ebad9b3-2ef2-5978-ad98-6cd1c30fc6b8
+DecomposingPolynomialSystems,f22b1612-9f73-4f98-889e-ed5396e1a4da
 DeconvOptim,03e7cd2f-1a03-4ea9-b59b-760a446df67f
 Deconvolution,41ba435c-a500-5816-a783-a9707c6f5f3a
 DecoratedParticles,023d0394-cb16-4d2d-a5c7-724bed42bbb6
@@ -3211,6 +3214,7 @@ FullNetworkSystems,877b7152-b508-43dc-81fb-72341a693988
 FunSQL,cf6cc811-59f4-4a10-b258-a8547a8f6407
 FunWrap,af455024-efd4-48e8-b4ac-752b8c56ff1f
 FuncPipelines,9ed96fbb-10b6-44d4-99a6-7e2a3dc8861b
+FuncTransforms,79abecb7-a74d-442d-bb0e-6136fbda6b73
 FunctionBarrier,4c0387fe-3044-4118-bcfd-2d5824909cc7
 FunctionChains,8e6b2b91-af83-483e-ba35-d00930e4cf9b
 FunctionIndices,43668171-7344-4272-8ca6-106380bd294d
@@ -4375,6 +4379,7 @@ IsotopicCalc,5554e927-0bdd-4e37-b621-d0b49d571e7b
 ItPropFit,7a994e6b-35c0-41b3-a964-b7f62fc12992
 ItemGraphs,d5eda45b-7e79-5788-9687-2c6ab7b96158
 ItemResponseDatasets,e47bb625-2913-44fb-8b24-b88572ac4ea9
+ItemResponseFunctions,18e85bec-f2a0-4122-b3a6-37651333b522
 ItemResponsePlots,05da4de1-0d5c-4141-b8ea-157f25fdd429
 IterTools,c8e1da08-722c-5040-9ed9-7db0dc04731e
 IterableTables,1c8ee90f-4401-5389-894e-7a04a3dc0f4d
@@ -10584,6 +10589,7 @@ ldid_jll,df1af0dd-2f85-5d2f-b099-55d224f7db60
 lfr_benchmark_jll,cb590574-ea86-51dd-800e-297a027516d0
 lib4ti2_jll,1493ae25-0f90-5c0e-a06c-8c5077d6d66f
 libCEED_jll,762fde13-7596-547b-826d-8223c52d51c1
+libCppInterOp_jll,2bd6b0f1-efc2-5146-be01-bc30fa938f5c
 libLAS_jll,84dbc9eb-108a-5969-a599-69afb4e6b6ac
 libLLVM_assert_jll,393490a8-41a6-5dea-8ab1-81a396b80891
 libLLVM_jll,8f36deef-c2a5-5394-99ed-8e07531fb29a
