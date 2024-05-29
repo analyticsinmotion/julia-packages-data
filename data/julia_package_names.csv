@@ -1906,6 +1906,7 @@ DINA,2e9d5fb1-712f-4dff-9379-c18f12b3746d
 DINCAE,0d879ee6-e5ed-4b6f-b65c-f78122b59944
 DIVAnd,efc8151c-67de-5a8f-9a35-d8f54746ae9d
 DIVAnd_HFRadar,7f46824f-871f-4a07-b57f-28974f6a6036
+DJUICE,1cb5fe60-6b70-416b-9050-039c23a62a10
 DLFP8Types,f4c16678-4a16-415b-82ef-ed337c5d6c7c
 DLMReader,e1d33f9a-7203-49d2-8e1a-e3c4f85197b8
 DLPack,53c2dc0f-f7d5-43fd-8906-6c0220547083
@@ -2259,6 +2260,7 @@ DiskArrays,3c3547ce-8d99-4f5e-a174-61eb10b00ae3
 DiskBackedDicts,a606033f-14ee-4438-ae87-3b404a2b735d
 DiskCaches,83811839-e1fd-4dfd-90d4-61934971aaca
 DiskDataProviders,09c11fbc-f0d5-45fc-84dd-4606816a719d
+DispatchDoctor,8d63f2c5-f18a-4cf2-ba9d-b3f60fc568c8
 DispatchedTuples,508c55e1-51b4-41fd-a5ca-7eb0327d070d
 Dispatcher,a48d5fe2-965b-541b-8ad8-ab19b69f3f25
 DispatcherCache,38708fd2-87cb-5685-8cf6-f81d134ed590
@@ -4511,6 +4513,7 @@ JuMP,4076af6c-e467-56ae-b986-b466b2749572
 JuMPChance,bbd82366-0c69-5eef-bed9-5a0dd17fc720
 JuMPeR,707a9f91-dad3-556f-9594-9b9a3b777385
 JudiLing,b43a184b-0e9d-488b-813a-80fd5dbc9fd8
+JudiLingMeasures,c131b360-78aa-49ef-85bf-52f23aef648f
 Judycon,821431bb-3694-4a4d-8d24-d71fd509a174
 Judyp,03e8d3fe-358f-4065-ab07-c13f1e32eb0b
 Juice,2f3a4f60-c16e-4e75-8ff0-658cff9aee65
@@ -10245,6 +10248,7 @@ XNumbers,4adfaa65-5b36-4fba-9909-626196083c27
 XPA,d310a076-6a08-52b6-ab78-79baa254182b
 XPA_jll,9dbca590-e19a-5566-89a8-3997bfd21c58
 XPORTA,8c143463-af6f-456f-8aed-72447cb569d2
+XRootD_cxxwrap_jll,bb14ce0c-f071-543a-8ca1-cd3dc3e29ed0
 XRootD_jll,b6113df7-b24e-50c0-846f-35a2e36cb9d5
 XSLT,b76b70d0-c2e6-4f10-aa24-8ebd5c87d188
 XSLT_jll,aed1982a-8fda-507f-9586-7b0439959a61
@@ -10484,6 +10488,7 @@ cilantro_jll,a3b35723-f448-5ea8-82d7-f10131ef8160
 cilkrts_jll,71772805-00bc-5a29-9044-a26d819b7806
 cmark_gfm_jll,a3df0bfa-898a-51af-9696-aaeb342b5108
 cmark_jll,7ecd0961-8137-5994-b1c6-01b84f60da24
+cminpack_jll,b792d7bf-f512-5dba-8a02-6d8084434f1d
 cmocka_jll,f83fd561-6387-5ecc-9835-b38c8eaffb11
 cmt_jll,65323cdd-17ec-5719-9643-72016a7f97e3
 cohomCalg_jll,5558cf25-a90e-53b0-b813-cadaa3ae7ade
@@ -10915,6 +10920,7 @@ yaml_cpp_jll,01fea8cc-7d33-533a-824e-56a766f4ffe8
 yq_jll,174e927f-d384-57ac-82db-e88370a29c21
 z3_jll,1bc4e1ec-7839-5212-8f2f-0d16b7bd09bc
 z5_jll,c9251380-99b7-5c1d-a474-9aaf727e38ce
+zarray_jll,c058db89-f906-57f2-99e8-5bc0314c4ef9
 zbar_jll,e2ef1e04-4331-5370-a106-92245136390b
 zed_jll,a2fbc99b-683d-5036-9e5b-937a48409984
 zfp_jll,007be453-5351-5f08-b8c7-bf95923b8de2
