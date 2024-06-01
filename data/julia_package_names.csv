@@ -2236,6 +2236,7 @@ DirectionalStatistics,e814f24e-44b0-11e9-2fd5-aba2b6113d95
 DiscoDiff,944e5dbc-7108-4f31-a215-df58b8009117
 Discord,e67e5439-1494-44b2-b9ab-d191a16377ec
 Discreet,c2843242-4f35-58a6-a2a0-7e7527607317
+DiscreteChoiceCalculations,759baa6d-43dc-42d9-a008-b157c131ff49
 DiscreteChoiceModels,c2e53169-916a-425c-bc99-aa016d67d968
 DiscreteDifferentialGeometry,4ae10c0b-1ab8-4fd6-bf00-fff7d91da249
 DiscreteEntropy,940648b6-1797-4129-9403-35667d1f6004
@@ -5638,6 +5639,7 @@ Metalhead,dbeba491-748d-5e0e-a39e-b530a07fa0cc
 MetapopulationDynamics,67afee28-ec33-4cc2-88ea-a48c87ed52f9
 Metatheory,e9d8d322-4543-424a-9be4-0cc815abe26c
 MethodAnalysis,85b6ec6f-f7df-4429-9514-a64bcd9ee824
+MethodInspector,b1dd13ee-3653-43d9-9a5b-1245bfcfc883
 MethodOfLines,94925ecb-adb7-4558-8ed8-f975c56a0bf4
 Metida,a1dec852-9fe5-11e9-361f-8d9fde67cfa2
 MetidaBase,075456b7-4006-432f-9324-2f8453996c49
@@ -9098,6 +9100,7 @@ StructuralDynamicsODESolvers,5837384c-0389-41f0-a8dd-204a40e5dede
 StructuralEquationModels,383ca8c5-e4ff-4104-b0a9-f7b279deed53
 StructuralIdentifiability,220ca800-aa68-49bb-acd8-6037fa93a544
 StructuralInheritance,eb3e9d2b-04dc-54b3-9584-49775b812a39
+StructuralUnits,ec81c399-378c-4a82-baa1-80fb2fc85b6c
 StructureFunctions,e93fee26-4d5e-49c1-899d-490508cfd19b
 StructuredArrays,2e8cd123-6858-488d-b42d-068777248635
 StructuredGrids,3d2d666f-9104-4379-abe9-d44f4b99a429
