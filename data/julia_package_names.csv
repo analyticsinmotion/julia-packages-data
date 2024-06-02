@@ -1568,6 +1568,7 @@ CompatDevTools,732b9ffd-ba4a-45cb-82b2-a390f71ea5ac
 CompatEntryUtilities,8be7a408-1a4a-465c-8be3-3898d13eb8a5
 CompatHelper,aa819f21-2bde-4658-8897-bab36330d9b7
 CompatHelperLocal,5224ae11-6099-4aaa-941d-3aab004bd678
+CompetingClocks,5bb9b785-358c-4fee-af0f-b94a146244a8
 CompileBot,877fb49a-56b0-480a-9049-319c0c353852
 CompileTraces,92d184ee-bd0d-43d0-b768-a20943f3d1e3
 CompilerPluginTools,6b7a57c9-7cc1-4fdf-b7f5-e857abae3638
@@ -9725,6 +9726,7 @@ TrueRandom,e77d87cc-b440-4d37-a0c9-dafffb38ae8a
 TrueSkill,f37d3882-d878-4a7b-89a5-2d9832311052
 TrueSkillThroughTime,093ab8f2-bf28-59ac-8da0-1d7157d27bf9
 TruncatedDistributions,77af390e-3af4-4cd8-bbfa-7ab7569c172d
+TruncatedMVN,502039d7-87d7-456d-8cc8-96307cceeee2
 TruncatedStacktraces,781d530d-4396-4725-bb49-402e4bee1e77
 TrustRegionMethods,14486370-d344-40f0-8ff9-262f8a3330be
 Trusty,8d423e50-a21a-41c9-877a-e99e491e0514
