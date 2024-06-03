@@ -2440,6 +2440,7 @@ EDFPlus,582d7a84-78fd-59ab-a7bb-47fc6b175004
 EDFlib_jll,b51820a9-a924-5fc2-b09e-5fb7870ce458
 EDKit,f6058819-fd6f-45d3-a3c8-4753d8c54d1a
 EDM4hep,eb32b910-dde9-4347-8fce-cd6be3498f0c
+EEGToolkit,60d25398-4b8b-433c-a8d4-4fe867135cfd
 EFIT,cda752c5-6b03-55a3-9e33-132a441b0c17
 EFTfitter,2a2a6a96-a4ec-477f-941b-476720990667
 EHRAuthentication,45047142-e73a-4b31-ae20-3729a1bbef33
@@ -7325,6 +7326,7 @@ ProteinSecondaryStructures,c298f58b-271f-48cb-96ac-5442ca7c67d9
 ProtoBuf,3349acd9-ac6a-5e09-bcdb-63829b23a429
 ProtoStructs,437b6fc4-8e8e-11e9-3fa1-ad391e66c018
 ProtocolDataUnits,07db6e9f-91ad-4fbd-9fd8-5722e51e9a72
+ProudPalettes,61d02e3d-8de9-45ce-a87b-73174b99cb55
 ProvenanceBase,4d266fdc-498f-48d9-a85b-1209f2b17158
 ProxAL,12c3852d-bf95-4e7b-be60-68937c3c927b
 ProxSDP,65e78d25-6039-50a4-9445-38022e3d2eb3
@@ -7541,6 +7543,7 @@ QuantumEspresso_jll,74603b90-2fcf-5710-a7d7-830b31b8b33c
 QuantumFluidSpectra,8ddfec37-9569-48bd-b1f3-d8731767ee3a
 QuantumFoca,a8c63e1a-51a3-4393-8cc1-c539063cb104
 QuantumGradientGenerators,a563f35e-61db-434d-8c01-8b9e3ccdfd85
+QuantumGraining,77585022-d976-43ff-a138-80a6f5a3bb8b
 QuantumInfo,bedefb8d-ef00-5401-aa81-ae9c3f6f84cc
 QuantumInformation,3c0b384b-479c-5684-b2ef-9d7a46dd931e
 QuantumInterface,5717a53b-5d69-4fa3-b976-0bf2f97ca1e5
