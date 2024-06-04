@@ -759,9 +759,11 @@ BinBencherBackend,63a9268e-b9e5-4a07-aba6-1f52d4878f75
 BinDeps,9e28174c-4ba2-5203-b857-d8d62c4213ee
 BinStatistics,41602cae-99cf-4169-ad6c-01f6ab844ef7
 BinaryBuilder,12aac903-9f7c-5d81-afc2-d9565ea332ae
+BinaryBuilderAuditor,53524979-5234-6e31-4220-6120654b694c
 BinaryBuilderBase,7f725544-6523-48cd-82d1-3fa08ff4056e
 BinaryBuilderGitUtils,654d7472-7548-7361-4832-74694762694c
 BinaryBuilderPlatformExtensions,213f2928-4d72-6f46-7461-4c705f634367
+BinaryBuilderProducts,21737265-7a69-6e4f-4974-6375646f7270
 BinaryBuilderSources,316c416d-4527-6863-7465-466137743047
 BinaryBuilderToolchains,33566f4c-336c-3150-6d30-4374274e6143
 BinaryDecisionDiagrams,cd45f48d-2bff-4983-a793-756749635bd1
@@ -2823,6 +2825,7 @@ FLTK_jll,4fce6fc7-ba6a-5f4c-898f-77e99806d6f8
 FLoops,cc61a311-1640-44b5-9fba-1b764f453329
 FLoopsBase,b9860ae5-e623-471e-878b-f6a53c775ea6
 FMI,14a09403-18e3-468f-ad8a-74f8dda2d9ac
+FMIBase,900ee838-d029-460e-b485-d98a826ceef2
 FMIBuild,226f0e26-6dd6-4589-ada7-1d32f6e1d800
 FMICore,8af89139-c281-408e-bce2-3005eb87462f
 FMIExchange,d0f58030-e4f1-4214-a600-bc055fa6d38e
@@ -6218,6 +6221,7 @@ NodeJS_18_jll,c1e1d063-8311-5f52-a749-c7b05e91ae37
 NodeJS_20_jll,c7aee132-11e1-519c-8219-0a43005e73c2
 NodesAndModes,7aca2e03-f7e2-4192-9ec8-f4ca66d597fb
 Noise,81d43f40-5267-43b7-ae1c-8b967f377efa
+NoiseModels,15788e68-7bd7-41f2-9680-b6e1d80350af
 NoiseRobustDifferentiation,470638dc-0858-4731-a73a-678bdc45695b
 NoisyQuantumComputerSimulator,6ddf540b-e790-4651-beb9-197bf739545d
 NomnomlJS,05e5b401-cbd0-4511-9ee7-1ac7fa2205f5
@@ -10257,6 +10261,7 @@ XNumbers,4adfaa65-5b36-4fba-9909-626196083c27
 XPA,d310a076-6a08-52b6-ab78-79baa254182b
 XPA_jll,9dbca590-e19a-5566-89a8-3997bfd21c58
 XPORTA,8c143463-af6f-456f-8aed-72447cb569d2
+XRootD,164e3b87-dc46-4cbc-97a6-5b310108fce0
 XRootD_cxxwrap_jll,bb14ce0c-f071-543a-8ca1-cd3dc3e29ed0
 XRootD_jll,b6113df7-b24e-50c0-846f-35a2e36cb9d5
 XSLT,b76b70d0-c2e6-4f10-aa24-8ebd5c87d188
