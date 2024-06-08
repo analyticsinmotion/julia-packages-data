@@ -3115,6 +3115,7 @@ FluxArchitectures,53d20848-f986-4c56-957e-0e417ec068db
 FluxDiffUtils,61bfa2bf-ac51-4dc3-9c62-6a5180432d13
 FluxExtra,81ebe36b-92a1-4b50-bd7a-fa963d2933c8
 FluxJS,0e18b5df-1f6d-5218-abdd-6febb37acc78
+FluxKAN,5d54f141-216f-4d16-867d-ae7ad4aba2dd
 FluxMPI,acf642fa-ee0e-513a-b9d5-bcd150f7ec3b
 FluxNLPModels,31fab0eb-bb78-4d15-8993-a8083bba6d27
 FluxOptTools,ca11d760-9bce-11e9-0b7e-4f72fcadb4f9
@@ -5567,6 +5568,7 @@ Mechanical,b6165d09-d606-4e15-90e2-256b7a45a1cf
 MechanismGeometries,931e9471-e8fb-5385-a477-07ad12718aca
 MedEval3D,07fe485e-7252-451c-a484-d20a4cdbbf79
 MedEye3d,48a1af7b-3279-4eeb-8f2b-7ca229bb51b1
+MedImages,fbff095b-7891-4fc4-b5e5-3cd99b9dd225
 MedPipe3D,80492ae4-ba08-4770-a16e-2cec06b8739e
 Media,e89f7d12-3494-54d1-8411-f7d8b9ae1f27
 Medipix,c2036f84-fecd-45db-822d-61dbed506f2f
@@ -6539,6 +6541,7 @@ OptimizationEvolutionary,cb963754-43f6-435e-8d4b-99009ff27753
 OptimizationFlux,253f991c-a7b2-45f8-8852-8b9a9df78a86
 OptimizationGCMAES,6f0a0517-dbc2-4a7a-8a20-99ae7f27e911
 OptimizationMOI,fd9f6733-72f4-499f-8506-86b2bdd0dea1
+OptimizationManopt,e57b7fff-7ee7-4550-b4f0-90e9476e9fb6
 OptimizationMetaheuristics,3aafef2f-86ae-4776-b337-85a36adf0b55
 OptimizationMultistartOptimization,e4316d97-8bbb-4fd3-a7d8-3851d2a72823
 OptimizationNLopt,4e6fcdb7-1186-4e1f-a706-475e75c168bb
@@ -7284,6 +7287,7 @@ ProbabilisticEchoInversion,1f6a33d4-8dbe-4644-aee6-8f897f240d65
 ProbabilisticRoadMap,773847ca-07cc-414d-a27c-4458bbc76b2b
 ProbabilityBoundsAnalysis,cd73f0b2-6f06-11ea-242f-83a09de6a7cf
 Probably,2172800d-0309-5a57-a84f-d50c94757422
+ProblemSet,806f51fd-16a3-4f55-bd44-f0d72f9cf926
 Problox,41531fc7-7f15-48cd-9c2f-2efb66d9fe65
 ProcessBasedModelling,ca969041-2cf3-4b10-bc21-86f4417093eb
 ProconIO,14bbafba-0b52-4ec8-8fe0-855204a3b917
@@ -7618,6 +7622,7 @@ RAPIDS,2764e59e-7dd7-4b2d-a28d-ce06411bac13
 RAxML_jll,c041c47d-3145-556a-bf4b-99e7014d775b
 RBMsAnnealedImportanceSampling,f4818a02-fb31-488d-84ee-227add8f92b8
 RBNF,83ef0002-5b9e-11e9-219b-65bac3c6d69c
+RBiQuaternions,be7923c8-3e70-447d-8860-ce9fd1d8f58a
 RCall,6f49c342-dc21-5d91-9882-a32aef131414
 RDDP,2f046eea-e9a0-482c-8c12-e34140017081
 RDKafka,43e2f499-f4c7-585f-8317-cbc2d9c3bf8f
