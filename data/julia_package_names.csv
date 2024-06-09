@@ -2418,6 +2418,7 @@ DynamicPolynomials,7c1d4256-1411-5781-91ec-d7bc3513ac07
 DynamicQuantities,06fc5a27-2a28-4c7c-a15d-362465fb6821
 DynamicScope,21d0a5ee-021b-4147-8d5c-120bff51c915
 DynamicSparseArrays,8086fd22-9a0c-46a5-a6c8-6e24676501fe
+DynamicSumTypes,5fcdbb90-de43-509e-b9a6-c4d43f29cf26
 DynamicTerminal,43557e69-2879-4f78-9f9f-e79486a55683
 DynamicalBilliards,4986ee89-4ee5-5cef-b6b8-e49ba721d7a5
 DynamicalSystems,61744808-ddfa-5f27-97ff-6e42cc95d634
@@ -4695,6 +4696,7 @@ KoreanJosa,a89d73a9-ae92-4287-941f-57cd51dbf5ba
 Korg,acafc109-a718-429c-b0e5-afd7f8c7ae46
 Kpax3,ad72c4b6-2990-538c-bd38-e122d63d24d9
 KrakenEx,905906f8-4650-4186-8b30-13842c9f1f1c
+Krang,54806c32-d51a-438d-8447-e0041be2fbfb
 Kriging,6133562b-a8e8-5ea3-954b-37642b766dad
 KrigingEstimators,d293930c-a38c-56c5-8ebb-12008647b47a
 KrigingModel,49b3b870-118c-11ea-1661-71d34d312539
@@ -9563,6 +9565,7 @@ TileMaps,91422e4c-10a5-47ab-9349-b60c71326670
 TileProviders,263fe934-28e1-4ae9-998a-c2629c5fede6
 TiledIteration,06e1c1a7-607b-532d-9fad-de7d9aa2abac
 TiledViews,ab21d65a-3167-428d-8ea2-d01236aa30f2
+TimeArrays,058eeebf-2231-41de-8410-62311c15f51e
 TimeAxes,9a9fc9a6-283d-47e9-a2f6-b3a44e559ea3
 TimeDag,91963e24-6e66-4132-aeb8-436d9f37dbc7
 TimeDataFrames,ff13af16-2f41-468a-a2e1-aff5c43aabf7
