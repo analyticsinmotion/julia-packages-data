@@ -649,6 +649,7 @@ BatchReactor,ae347489-fc42-416e-8e9d-f76cf1731aac
 Batched,1629540a-9a93-50e9-aec3-2a5ae159dca9
 BatchedBLAS,dfa6e8bd-ffa5-4347-817a-aa08eb84b250
 BatchedRoutines,a9ab73d0-e05c-5df1-8fde-d6a4645b8d8e
+BatchedTransformations,8ba27c4b-52b5-4b10-bc66-a4fda05aa11b
 Batsrus,e74ebddf-6ac1-4047-a0e5-c32c99e57753
 BattMo,6f0c0536-3c2c-4762-a987-c605a8a6f898
 BayesBase,b4ee3484-f114-42fe-b91c-797d54a0c67e
@@ -3076,6 +3077,7 @@ FlameGraphs,08572546-2f56-4bcf-ba4e-bab62c3a3f89
 Flamenco,98617a16-9322-42db-a24f-fe7c2280ec91
 FlangClassic_RTLib_jll,48abaad9-6585-5455-9ce3-84cd0709264b
 FlangClassic_jll,b3f849d4-7198-5f76-a9c5-8e4f35f75d39
+FlashRank,22cc3f58-1757-4700-bb45-2032706e5a8d
 FlashWeave,2be3f83a-7913-5748-9f20-7d448995b934
 FlatBuffers,53afe959-3a16-52fa-a8da-cf864710bae9
 FlatGeobuf,d985ece1-97de-4d33-914c-38fb84042e15
@@ -5613,6 +5615,7 @@ MeshCatMechanisms,6ad125db-dd91-5488-b820-c1df6aab299d
 MeshCore,43a99bba-f459-4d0e-8139-f3df11d847d4
 MeshFinder,94afc05e-a560-4acd-8e11-a7bb2c092f45
 MeshGraphNets,f7b4726d-4195-44ab-b39c-37bbdadae004
+MeshGrid,ebf956a0-ef5e-43be-9fb1-27952996e635
 MeshIO,7269a6da-0436-5bbc-96c2-40638cbb6118
 MeshIntegrals,dadec2fd-bbe0-4da4-9dbe-476c782c8e47
 MeshKeeper,484b717a-98b9-4b0c-89dc-fb7d7e739263
