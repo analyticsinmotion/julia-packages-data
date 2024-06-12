@@ -9221,6 +9221,7 @@ Survey,c1a98b4d-6cd2-47ec-b9e9-69b59c35373c
 SurveyDataWeighting,0d23d9a6-c44e-4ca5-9c36-ffcb6594a9c5
 Survival,8a913413-2070-5976-9d4c-2b364fdc2f7f
 SurvivalAnalysis,d1dd7d07-e5c2-418a-8652-e20add45d312
+SurvivalBase,9cb6079b-e021-4662-8a75-9f65bfa286f2
 SurvivalDistributions,7121986e-ae89-4673-ae4e-1cb822919a18
 SurvivalSignature,13fa4dc1-3690-464b-a752-a9f12e029c3c
 SwagUI,bf05d729-34b2-4f1f-a2f1-2452bece7ebc
@@ -10023,6 +10024,7 @@ Vecchia,8d73829f-f4b0-474a-9580-cecc8e084068
 VectorAlignments,137e0234-31ad-43b7-8b27-b236525e28e1
 VectorBackedLists,64f724f3-1cac-477b-9517-c036ece31ef8
 VectorInterface,409d34a3-91d5-4945-b6ec-7529ddf182d8
+VectorModesolver,8c544392-5fd9-4640-bea4-e12b3d59d9d1
 VectorPrisms,fca4bea3-143f-49fa-bca2-9809b242ef85
 VectorSphericalHarmonics,4b2bd704-7189-418b-a6ce-5ef15384b069
 VectorSphericalWaves,bf4a7d2c-6958-4c00-8946-baf74e22a0dc
