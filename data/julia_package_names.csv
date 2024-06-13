@@ -7054,6 +7054,7 @@ PlotUtils,995b91a9-d308-5afd-9ec6-746e21dbc043
 Plotly,58dd65bb-95f3-509e-9936-c39a10fdeae7
 PlotlyBase,a03496cd-edff-5a9b-9e67-9cda94a718b5
 PlotlyDocumenter,9b90f1cd-2639-4507-8b17-2fbe371ceceb
+PlotlyGeometries,da4dd95e-df4f-4caf-ac06-cee3b0f5c2e6
 PlotlyJS,f0f68f2c-4968-5e81-91da-67840de0976a
 PlotlyKaleido,f2990250-8cf9-495f-b13a-cce12b45703c
 PlotlyLight,ca7969ec-10b3-423e-8d99-40f33abb42bf
@@ -8688,6 +8689,7 @@ SmoQyDEAC,9c442b74-637f-4296-b43a-959aa316565a
 SmoQyDQMC,00e12d65-277b-447e-9c1d-a17422dd36f5
 SmoQyHankelCorrCleaner,0ea08462-a9b7-4dbd-b738-4196db0ff3ad
 SmolyakApprox,6b19cf85-48de-5d9d-bfff-465abea14fab
+SmoothInterpolation,4412c578-8aba-4b04-8c8c-6ae573ccb792
 SmoothLivePlot,31434429-0e9f-4d24-947a-14cd43782323
 SmoothNumbers,48ae9875-8a8b-401f-9c90-1ad5d6adef54
 SmoothedParticles,b7455f7a-83c6-4046-bd2b-dfe6091272a6
