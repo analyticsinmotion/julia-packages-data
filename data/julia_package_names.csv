@@ -18,6 +18,7 @@ ADI,904a6c7d-4c1b-562f-9573-ab2e7e1c7946
 ADIOS2,e0ce9d3b-0dbd-416f-8264-ccca772f60ec
 ADIOS2_jll,44b1415a-b224-5c99-9168-ff4febb5f37f
 ADNLPModels,54578032-b7ea-4c30-94aa-7cbd1cce6c9a
+ADOLC_jll,5f481b30-e4a3-563b-890b-c343462061b6
 ADRIA,7dc409a7-fbe5-4c9d-b3e2-b0c19a6ba600
 ADSeismic,65edcd7e-b178-4558-a546-bf867610404b
 ADTypes,47edcb42-4c32-4615-8424-f2b9edc5f35b
@@ -2189,6 +2190,7 @@ DifferencesBase,f7c07657-0d0a-4d46-b086-01df223a7b4f
 DifferentiableBackwardEuler,f6d13b3e-c4dc-4f43-9d3d-672a47390f59
 DifferentiableCollisions,64b45163-ce2a-43f6-8f64-55d720633796
 DifferentiableEigen,73a20539-4e65-4dcb-a56d-dc20f210a01b
+DifferentiableExpectations,fc55d66b-b2a8-4ccc-9d64-c0c2166ceb36
 DifferentiableFactorizations,f7876f94-e99c-4755-b0c6-59dc4ff4934d
 DifferentiableFlatten,c78775a3-ee38-4681-b694-0504db4f5dc7
 DifferentiableFrankWolfe,b383313e-5450-4164-a800-befbd27b574d
@@ -2726,6 +2728,7 @@ ExpmV,a3781d3e-2c8e-5597-8496-846d69e16182
 Expokit,a1e7a1ef-7a5d-5822-a38c-be74e1bb89f4
 ExponentialAction,e24c0720-ea99-47e8-929e-571b494574d3
 ExponentialFamily,62312e5e-252a-4322-ace9-a5f4bf9b357b
+ExponentialFamilyManifolds,5c9727c4-3b82-4ab3-b165-76e2eb971b08
 ExponentialUtilities,d4d017d3-3776-5f7e-afef-a10c40355c18
 ExportAll,ad2082ca-a69e-11e9-38fa-e96309a31fe4
 ExportPublic,ce21103b-dbf2-498b-b3c4-edbf725743bc
@@ -3714,6 +3717,7 @@ GraphNets,9052fb24-8e06-4531-a321-89bd3c4584f9
 GraphNeuralNetworks,cffab07f-9bc2-4db1-8861-388f63bf7694
 GraphOptInterface,2c3d953e-07eb-42f7-9900-e75950e41d88
 GraphPPL,b3f8163a-e979-4e85-b43e-1f63d8c8b42c
+GraphPlayground,2f75e71a-fce0-4c28-bcf9-dfff7d3cf56c
 GraphPlot,a2cc645c-3eea-5389-862e-a155d0052231
 GraphQLClient,09d831e3-9c21-47a9-bfd8-076871817219
 GraphQLGen,e6c1444f-5479-4b7d-afd0-998686a721e1
@@ -4842,6 +4846,7 @@ LatinHypercubeSampling,a5e1c1ea-c99a-51d3-a14d-a9a37257b02d
 LatinOrthography,1e3032c9-fa1e-4efb-a2df-a06f238f6146
 LatinSquares,c3c424ec-ae8f-5049-b7bf-f9296ef684c8
 LatinSyntax,48187f9f-78ff-4060-b31e-d855612fbaec
+LatticeAnimals,8faeb6a4-9048-4507-b81f-6dcc9b8256f0
 LatticeDiracOperators,019239df-b0e3-486e-8e4c-d1c29ee5d6b9
 LatticeQCD,8a12f9b3-8daf-4285-9aa6-f1d88d857ae8
 LatticeRules,73f95e8e-ec14-4e6a-8b18-0d2e271c4e55
@@ -5419,6 +5424,7 @@ Makeitso,5616b7aa-48d8-5ba3-83fe-06b58d5edc20
 Makie,ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a
 MakieCore,20f20a25-4f0e-4fdf-b5d1-57303727442b
 MakieDraw,8315f7d3-d5d2-4d16-bebe-3aa4ef51e4f8
+MakieExtra,54e234d5-9986-40d8-815f-a5e42de435f6
 MakieGallery,dbd62bd0-c9f5-5087-a2e1-f5c4bb0cec90
 MakieLayout,5a521ce4-ebb9-4793-b5b7-b334dfe8393c
 MakiePDF,e9a2b5d4-2139-42d9-ad42-ef6c084e8c4b
@@ -8558,6 +8564,7 @@ SimpleFWA,c5e3f7f7-c02a-4fcc-b7a5-ee49051641db
 SimpleFeatures,afcd3178-a774-4cb1-a6b9-c159da09e922
 SimpleGA,6f159fe9-4850-48a0-97c4-7cf487b3e6ea
 SimpleGF2,26dc7fb7-0d88-57af-8ff4-0a7e14249ddd
+SimpleGrad,837eacb2-5a76-4cde-be3a-83fe353b65ae
 SimpleGraphAlgorithms,41400c72-0c58-5c16-8579-4ecbce768449
 SimpleGraphConverter,205b04f2-f585-4877-a239-566270b3f673
 SimpleGraphs,55797a34-41de-5266-9ec1-32ac4eb504d3
