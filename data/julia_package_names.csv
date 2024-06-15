@@ -3106,6 +3106,7 @@ FlightSims,a4c2f6ca-3fbe-4430-8ede-32935de4c069
 FlipGraphs,bf6bd3dc-c349-4a39-9695-9ea99bf10cfe
 FlipPA,a9676066-08b1-4647-a3cf-89b449beb4d6
 Float8s,81dfefd7-55b0-40c6-a251-db853704e186
+FloatIntLiterals,d825739f-1e7d-411f-adf0-2b899cf72c5b
 FloatTracker,1722352a-da05-4a89-9ace-0f2f7ef630bb
 FloatingTableView,197bc772-8d3f-4a3f-b50f-4eb5086fedbf
 FlowAtlas,ef7debb3-0d09-4604-8960-6109d4c5b3e0
@@ -3348,6 +3349,7 @@ GModelFit,ac42e6ba-c0bf-4fcf-827d-deea44b16255
 GModelFitViewer,5d93b50e-5cc7-4feb-a740-ec85257caa01
 GNCTestServer,301134cd-0795-4287-8b73-e567f40fdffd
 GNNlib,a6a84749-d869-43f8-aacc-be26a1996e48
+GNRProdEst,c5ad59e2-017c-4e02-9cbc-8c6117b2c1fd
 GNSSDecoder,bf6b1ec8-12ad-4501-972c-3dec0d675c2b
 GNSSReceiver,c84cffac-6943-4fe6-9449-f6d23817af8b
 GNSSSignals,52c80523-2a4e-5c38-8979-05588f836870
@@ -4098,6 +4100,7 @@ ISL,4d9053e4-97a6-4476-8996-fca684647641
 ISL_jll,9a84b867-ccd3-531b-bb38-095e36150902
 ISOKANN,512544ac-929d-4ba3-aa9d-55e9313a4b47
 ITK,c07c4cf6-b85e-11e9-2ee5-393f21797b38
+ITK_jll,3324d3a8-621a-5aaa-97fa-c3bc8dfc0481
 ITSOL_2_jll,00902081-cde0-5369-89f6-850dc9512c44
 ITensorGLMakie,3f718f31-6db8-4f43-a433-67cb5c73363e
 ITensorGPU,d89171c1-af8f-46b3-badf-d2a472317c15
@@ -4357,6 +4360,7 @@ IntrusiveCollections,fe54b08b-4815-4b70-8b1a-a3021f4307e7
 InvariantCausal,de0b34ba-74bd-4023-98f7-dda430e1ad06
 InvariantCausalPrediction,5fe40f08-422b-4ec7-90aa-ba60e31ac74e
 InvariantMeasures,07926553-d30c-41c2-8456-6c4d18765e90
+InvariantPointAttention,814a5788-1061-474f-a71f-873f087d5d12
 InvariantSetApproximation,5dd83098-6773-4e1e-8c90-fdd269994001
 InvariantSets,0a1268e7-2270-4ee8-9901-5a5b516c7ae9
 Invariants,115d0255-0791-41d2-b533-80bc4cbe6c10
@@ -7531,6 +7535,7 @@ QuadratureRules,a08977f5-a20d-4b99-b11f-f5ea535e0575
 Quadtrees,f668e113-9f8b-4879-aee4-af57b0614260
 QuakeML,6dae4b62-8e81-11e8-042c-0346828cfc4a
 QuanEstimation,088c8dff-a786-4a66-974c-03d3f6773f87
+QuanEstimationBase,9769ca81-ed10-4016-bab9-e66dc61d4d60
 QuandlAccess,9828b13b-9cf9-4ed3-a262-66ff2e7f23f2
 QuantEcon,fcd29c91-0bd7-5a09-975d-7ac3f643a60c
 QuantExQASM,630b6936-434f-11ea-2df3-976e72da0e99
@@ -10638,6 +10643,7 @@ kubectl_jll,ed23c2a5-89c4-5d52-b0ca-9d53aadf8c45
 lapackpp_jll,5dde4c60-e15a-59a1-8194-93aa09eef4ab
 lazygit_jll,01a6f0b2-7079-58b6-a815-2223d49c44bc
 ldid_jll,df1af0dd-2f85-5d2f-b099-55d224f7db60
+lexbor_jll,be8d7a73-1782-5ce7-96ff-8fff21e5e970
 lfr_benchmark_jll,cb590574-ea86-51dd-800e-297a027516d0
 lib4ti2_jll,1493ae25-0f90-5c0e-a06c-8c5077d6d66f
 libCEED_jll,762fde13-7596-547b-826d-8223c52d51c1
