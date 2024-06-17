@@ -2729,6 +2729,7 @@ Expokit,a1e7a1ef-7a5d-5822-a38c-be74e1bb89f4
 ExponentialAction,e24c0720-ea99-47e8-929e-571b494574d3
 ExponentialFamily,62312e5e-252a-4322-ace9-a5f4bf9b357b
 ExponentialFamilyManifolds,5c9727c4-3b82-4ab3-b165-76e2eb971b08
+ExponentialFamilyProjection,17f509fa-9a96-44ba-99b2-1c5f01f0931b
 ExponentialUtilities,d4d017d3-3776-5f7e-afef-a10c40355c18
 ExportAll,ad2082ca-a69e-11e9-38fa-e96309a31fe4
 ExportPublic,ce21103b-dbf2-498b-b3c4-edbf725743bc
@@ -7064,6 +7065,7 @@ PlotUtils,995b91a9-d308-5afd-9ec6-746e21dbc043
 Plotly,58dd65bb-95f3-509e-9936-c39a10fdeae7
 PlotlyBase,a03496cd-edff-5a9b-9e67-9cda94a718b5
 PlotlyDocumenter,9b90f1cd-2639-4507-8b17-2fbe371ceceb
+PlotlyExtensionsHelper,a7e57fc7-3548-4021-90c3-ac0e175068b1
 PlotlyGeometries,da4dd95e-df4f-4caf-ac06-cee3b0f5c2e6
 PlotlyJS,f0f68f2c-4968-5e81-91da-67840de0976a
 PlotlyKaleido,f2990250-8cf9-495f-b13a-cce12b45703c
@@ -8929,6 +8931,7 @@ Squirrel,257d0e10-ba0c-4014-b61a-657d3b5dcd33
 StLifeIns,eeb17163-f076-48da-b693-6d8cb2af5572
 StableDQMC,0827807b-44c9-51d0-af97-efe667fe6b2a
 StableDistributions,3756410d-ab6e-41a2-9897-9aa267a7ef31
+StableHLO,11df7cf1-74a9-4cb7-b537-510301b49c1b
 StableHLO_jll,8e2113cd-f17d-5ab7-b6d2-001f8cdd4bf4
 StableHashTraits,c5dd0088-6c3f-4803-b00e-f31a60c170fa
 StableHashes,2ca40811-0e74-4ca9-a2c0-1cd8c267dd5a
