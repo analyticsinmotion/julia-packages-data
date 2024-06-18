@@ -3997,6 +3997,7 @@ Hive,6735fb99-e7a2-5b86-aa6b-3fb73ebb43ff
 HmtArchive,1e7b0059-6550-4515-8382-5d3f2046a0a7
 HmtDashUtils,56120bdb-dd5b-43f0-8d83-690e170361e4
 HmtFacsimileBuilders,51afb9e0-fec5-4c9c-a749-28047e6f0de5
+HmtGutenberg,09780231-1698-4933-9d9d-4e01e0abea36
 HnswAnn,dff2f42d-5506-450f-a8d7-e8287f476a07
 Hodge,3c44080d-357b-4062-ad7b-6cab49ad4f79
 HolidayCalendars,805b3977-dd70-49b2-89e1-5b1e213f8a24
@@ -4501,6 +4502,7 @@ JetPack,24ef3835-3876-54c3-8a7a-956cf69ca0b2
 JetPackDSP,b1babd66-454c-5c15-86a3-b3c308963df9
 JetPackTransforms,e0630bc5-6e1f-509c-a3e4-0aea24bd2b1c
 JetPackWaveFD,30ac78e6-0b88-494d-b61b-9674962a0c3e
+JetReconstruction,44e8cb2c-dfab-4825-9c70-d4808a591196
 Jets,2a57b368-ab28-5ba9-84aa-637fe7991822
 Jfire,3f49405f-012b-5ae6-ad9b-9087b1131e69
 Jieko,ae98c720-c025-4a4a-838c-29b094483192
@@ -6093,6 +6095,7 @@ NTNk,530fd2b5-bc52-54ba-93c2-82eb6468edee
 NUMA,292f1341-b53f-425a-80e5-3597ad0961bf
 NUMA_jll,7f51dc2b-bb24-59f8-b771-bb1490e4195d
 NURBS,dde13934-061e-461b-aa91-2c0fad390a0d
+NVMagnetometer,28fc4bcf-da03-4841-bbdb-88baaf311b30
 NVTX,5da4648a-3479-48b8-97b9-01cb529c0a1f
 NVTX_jll,e98f9f5b-d649-5603-91fd-7774390e6439
 NWBStream,5982c9a4-5774-4415-9796-801a4f82b4d6
@@ -6453,6 +6456,7 @@ OnlineStatsBase,925886fa-5bf2-5e8e-b522-a9147a512338
 OnlineTechnicalIndicators,dc2d07fb-478f-4566-8417-81bb3e5a7af1
 OohataHuzinaga,a8c67e1a-51a8-4393-8cc1-c530063cb104
 OpSel,099ba0d8-67b8-41ac-a69a-bfd69f53aa15
+Open62541,e9b70463-8ccb-4e30-a2e2-0d1ec8db6536
 OpenADMIXTURE,425c031d-9e5b-441b-a07e-4acde9a966a3
 OpenAI,e9f21f70-7185-4079-aca2-91159181367c
 OpenAIReplMode,022fafc6-85a1-46a3-9dea-7935d3763744
@@ -8363,6 +8367,7 @@ ScikitSpatial,e57cb7e2-dadc-4589-8217-6f26b584a9fb
 ScopedValues,7e506255-f358-4e82-b7e4-beb19740aa63
 ScoreDrivenModels,4a87933e-d659-11e9-0e65-7f40dedd4a3a
 ScoredTests,f38cd097-35c0-4a4d-abf7-36f5cb14a6cb
+Scotch,c8656ae5-b689-4c12-92d5-de0ad806c81d
 ScrapeSEC,856806e7-be2f-4540-8165-3a51303b7af0
 Scratch,6c6a2e73-6563-6170-7368-637461726353
 Scruff,6c98c146-7a27-4df0-99b1-e6e7c9a81876
@@ -10242,6 +10247,7 @@ WindowAbstractions,e18202ca-4a7d-4de8-b056-fa6bbd7de157
 WindowFunctions,f8d1b8c8-e2db-43c1-b085-b5de5ced18ed
 Wine_jll,9fae3aff-8997-5dd1-9b84-5d0cc5e0bffa
 Winston,bd07be1c-e76f-5ff0-9c0b-f51ef45303c6
+WithAlloc,fb1aa66a-603c-4c1d-9bc4-66947c7b08dd
 Woff2_jll,27887bc2-7e01-59df-98ae-1bb60dc90ce9
 WolfRiverPlots,ad36b3a9-85b5-4b8d-a935-e72ac6d2d37a
 WolframAppDiscovery_jll,630c5959-bfb3-598a-bb45-cbcabe526631
