@@ -348,6 +348,7 @@ Arblib,fb37089c-8514-4489-9461-98f9c8763369
 ArcadeLearningEnvironment,b7f77d8d-088d-5e02-8ac0-89aab2acc977
 ArcadeLearningEnvironment_jll,52cbb755-00ff-5a24-b23e-8a91c598877e
 ArchGDAL,c9ce4bd3-c3d5-55b8-8973-c0e20141b8c3
+AreaInterpolation,d0f2625a-dce2-41fa-8f52-900cefdd6e0e
 Arena,53eacc40-fba4-5ad6-b4bb-526e51630e63
 ArenaArrays,a7079d05-a211-4b9a-ade9-d081fcc12f6a
 ArgCheck,dce04be8-c92d-5529-be00-80e4d2c0e197
@@ -1432,6 +1433,7 @@ ClimatePlots,b71d359b-899c-4fb1-b3ad-2de2d2cb8353
 ClimateSatellite,d91beb5f-3141-4656-855d-efd5d97b23c4
 ClimateTasks,1a49d507-8691-47fa-b95e-812ffcc74e70
 ClimateTools,4f4ee721-4970-5af2-8560-6c1d960e3231
+Climatology,9e9a4d37-2d2e-41e3-8b85-f7978328d9c7
 Clines,b03ef683-e087-4e84-9649-40693305c655
 Cling_jll,c300d64c-1c1d-5dc3-9d9e-1537157676b9
 Clingcon_jll,f3fadb3f-5422-5a6c-be27-a20f6ffb29ff
@@ -5668,6 +5670,7 @@ Metal,dde4c033-4e86-420c-a63e-0dd931031962
 MetalKernels,fc3527f7-49a6-4297-80e3-91cc46c94af5
 MetalSurfaceImpedance,d1286fa9-018f-4163-8b95-1473a4173f0d
 Metal_LLVM_Tools_jll,0418c028-ff8c-56b8-a53e-0f9676ed36fc
+Metal_Shader_Converter_jll,9cc310e4-281b-5b8b-8908-46b9a86e6271
 Metalhead,dbeba491-748d-5e0e-a39e-b530a07fa0cc
 MetapopulationDynamics,67afee28-ec33-4cc2-88ea-a48c87ed52f9
 Metatheory,e9d8d322-4543-424a-9be4-0cc815abe26c
@@ -10704,6 +10707,7 @@ libfyaml_jll,c8bb72a1-3259-5c06-b5d5-7152be8a520b
 libgeotiff_jll,06c338fa-64ff-565b-ac2f-249532af990e
 libgifextra_jll,d7c3d077-fdb7-5318-9663-3e6817e0e281
 libgraphicsmagic_jll,3e975b7b-ab84-5bf4-b4b6-586754a53ef6
+libgsd_jll,e4d6e05a-3816-5255-9332-8392038f2e0f
 libidn2_jll,e3d30ef0-22f3-5ccc-b703-2e063d8d1f30
 libidn_jll,f0f5855d-14eb-5155-b6cb-9f6c251f73bb
 libigc_jll,94295238-5935-5bd7-bb0f-b00942e9bdd5
