@@ -3059,6 +3059,7 @@ Firefly,38d273ff-5bca-42e1-8e07-0e7ae0d15fdd
 Firestore,1fb6a985-f65d-4707-9052-04af0f7ae9ca
 FirstOrderSolvers,e2860157-3336-52d5-8ddc-1def50726c76
 FirstPassageTools,accd898d-9985-405f-8366-b38793ff4f76
+FishTank,b38b52d1-0eac-4161-8266-eab412337ac4
 FisherPlot,a6a81055-8810-4a7f-bad9-3c67194ad2e1
 FishersExactTest,bb7b2d4f-b953-405a-be8a-3427bcf465e4
 FittedItemBanks,3f797b09-34e4-41d7-acf6-3302ae3248a5
@@ -4647,6 +4648,7 @@ KernelGradients,e5faadeb-7f6c-408e-9747-a7a26e81c66a
 KernelMachines,6717196d-eae9-43d0-801c-fc416e8966f6
 KernelMethods,d79e8f30-5872-11e9-0dab-2d1842b87615
 KernelOps,96fb99f5-d28b-4914-8161-ce02e97273ad
+KernelSpectralDensities,027d52a2-76e5-4228-9bfe-bc7e0f5a8348
 KeyCounter,f308447f-e99f-46ec-ad9e-5a4c598148f8
 KeyboardDriven,d6b73c45-a735-4b19-932b-179aebda8fdc
 KeyedDistributions,2576fb08-064d-4cab-b15d-8dda7fcb9a6d
@@ -4742,6 +4744,7 @@ LAPACK32_jll,17f450c3-bd24-55df-bb84-8c51b4b939e3
 LAPACK_jll,51474c39-65e3-53ba-86ba-03b1b862ec14
 LAST_jll,474d0f69-b32f-58bf-bb5c-c1a0a1bded17
 LASindex,f5cc2397-9d3e-5971-afd7-e1f28e1d1eef
+LAStools_jll,2502db7c-e51e-5cc5-b107-5f8e6dbfe9b6
 LASzip_jll,8372b9c3-1e34-5cc3-bfab-1a98e101de11
 LAZperf_jll,498468b5-6726-5392-b148-b36d48e22663
 LBFGSB,5be7bae1-8223-5378-bac3-9e7378a2f6e6
@@ -4900,6 +4903,7 @@ LearnBase,7f8f8fb0-2700-5f03-b4bd-41f8cfc144b6
 LearnVanishingIdeal,d5b806d3-2ca9-4def-9329-52b8f0583639
 LearningAlgebraicVarieties,99c59dee-8a25-45ad-b85d-0d599d702169
 LearningHorse,62371590-58c0-453a-97c0-b8b10383e1ee
+LearningSchedules,7e85a9e7-c65d-495e-8ec0-baa06f07ebbf
 LearningStrategies,4e8a8231-0ba9-591b-8620-81c6740d7791
 LeastSquaresOptim,0fc2ff8b-aaa3-5acd-a817-1944a5e08891
 Lebedev,c5712dd9-2571-4e23-b661-b4a261421493
@@ -10646,6 +10650,7 @@ iso_codes_jll,bf975903-5238-5d20-8243-bc370bc1e7e5
 isoband_jll,9a68df92-36a6-505f-a73e-abb412b6bfb4
 ittapi_jll,f03c7084-70eb-500e-bb85-e99cbc517f87
 jInv,3dacf901-f8cd-5544-86ed-7a705f85c244
+jd_jll,f37634dd-fc60-56ab-95b9-a67e66fd33fe
 jemalloc_jll,454a8cc1-5e0e-5123-92d5-09b094f0e876
 jlpkg,c4c688b2-6cc8-11e9-1c12-6d20b663313d
 jlqml_jll,6b5019fb-a83d-5b4e-a9f7-678a36c28df7
@@ -10661,6 +10666,7 @@ lexbor_jll,be8d7a73-1782-5ce7-96ff-8fff21e5e970
 lfr_benchmark_jll,cb590574-ea86-51dd-800e-297a027516d0
 lib4ti2_jll,1493ae25-0f90-5c0e-a06c-8c5077d6d66f
 libCEED_jll,762fde13-7596-547b-826d-8223c52d51c1
+libCppInterOpExtra_jll,389a429b-44cc-5496-a6f5-f62ac9baf48b
 libCppInterOp_jll,2bd6b0f1-efc2-5146-be01-bc30fa938f5c
 libLAS_jll,84dbc9eb-108a-5969-a599-69afb4e6b6ac
 libLLVM_assert_jll,393490a8-41a6-5dea-8ab1-81a396b80891
@@ -10851,12 +10857,14 @@ p7zip_jll,3f19e933-33d8-53b3-aaab-bd5110c3b7a0
 pandoc_crossref_jll,f96e3c25-ae70-5588-8d8e-4a7ab3ba4c45
 pandoc_jll,c5432543-76ad-5c9d-82bf-db097047a5e2
 patch_jll,c7bec4a6-5215-51fd-b0a3-64ceaaad3a34
+patchutils_jll,69275a5b-71b6-5a9c-a287-c8fd9491cd23
 pciutils_jll,ad59c579-8572-507f-ac8b-0f7a68c64b3d
 peco_jll,b89f85f3-45f8-5ea8-8223-9dfa39faf294
 picotool_jll,266ab589-d57d-568d-907f-a1cb33b240d5
 pigpiod_if2_jll,50515f5d-e8ff-5b26-ab2b-0473a017b18c
 pigz_jll,1bc43ea1-30af-5bc8-a9d4-c018457e6e3e
 poly2tri_jll,0bbe0808-d418-57ff-bb48-dc0bf000ef4b
+polyfill_glibc_jll,ae913f53-5f59-5f3b-81b1-950d2d33782a
 polyhedral_jll,153a2890-ff2e-5a69-ae07-3a309ed8aed3
 polymake_jll,7c209550-9012-526c-9264-55ba7a78ba2c
 polymake_oscarnumber_jll,10f31823-b687-53e6-9f29-edb9d4da9f9f
