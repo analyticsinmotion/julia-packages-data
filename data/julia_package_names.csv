@@ -1363,6 +1363,7 @@ CircuitComponentRounding,e5143800-6ee0-4b40-b4db-1d4259db07c9
 CircuitModelZoo,be429156-0856-4333-aa6d-b771e9de2f69
 Circuitscape,2b7a1792-8151-5239-925d-e2b8fdfa3201
 CircuitscapeMKLPardiso,f276a096-2d87-4069-b10e-355a3501ee6e
+CirculantAttention,84d5bf51-c9fe-456b-b992-3a1345f8cdeb
 CircularArrayBuffers,9de3a189-e0c0-4e15-ba3b-b14b9fb0aec1
 CircularArrays,7a955b69-7140-5f4e-a0ed-f168c5e2e749
 CircularList,e1d4a2be-69cc-597c-a2ea-cc5d6f241fff
@@ -2413,6 +2414,7 @@ DynamicHMCExamples,2771e1c8-acf3-11e8-3576-cd129da217b6
 DynamicHMCModels,6266e5bf-9887-5dfa-a522-2c46ecdcf14a
 DynamicIterators,6c76993d-992e-5bf1-9e63-34920a5a5a38
 DynamicLinearModels,dc5eaf77-5719-4a86-9393-27bd7a74eb3e
+DynamicModelTestUtils,726cd793-0c59-4a7a-97d2-1baad301d093
 DynamicMovementPrimitives,c3fee2e9-8015-57de-85e5-c840d3ed97ec
 DynamicNLPModels,18c187db-a9a9-4c13-a1b2-7cf0a4f6591a
 DynamicOED,bec7fea8-67ad-492e-b01d-b4dfa914b0da
@@ -4074,6 +4076,7 @@ IBMQJulia,2f6fcadc-0512-4fc1-bf02-5bbdd7783505
 ICD_GEMs,2478728f-ce00-4f2d-aaa1-6f265bd37e5b
 ICOADSDict,60101457-b834-54f3-bc3b-04499cd57c3b
 ICU_jll,a51ab1cf-af8e-5615-a023-bc2c838bba6b
+IDFCurves,17afcda4-a678-4b99-aabd-b1f8835dcb1e
 IDFDataCanada,b4a361a7-a77f-4d9e-8c40-a407543557fa
 IDSGraphs,9919d111-45a3-4056-8d55-3f6c887b9b09
 IERSConventions,4e86e20e-879b-40dc-9e12-cee74f4cd199
@@ -5713,6 +5716,7 @@ Microscopes,e2e16d05-ec94-40b7-b355-ae0fb683d354
 MicroscopyLabels,85a02ca2-d673-11e9-204d-33a606fed71d
 MicroscopyTools,5e5ac434-ba26-417f-ab6b-a88e74d16cdd
 MicrosoftMPI_jll,9237b28f-5490-5468-be7b-bb81f5f5e6cf
+Microstates,36161bb8-d084-4d22-844f-8ce7d076efe9
 Microstructure,bb9cb41e-5262-42dc-ac73-4f266bc6ab72
 MicrostructureNoise,47737169-82b5-5dea-8d33-5707f53e1c0c
 Microwaves,481e76ae-c2a1-11e9-35e0-4d409117bccf
@@ -7276,6 +7280,7 @@ PrairieIO,e0255976-123f-53e1-a894-d0440dea2ee2
 PreCICE,57fbd4af-5cc3-4712-aac0-6930e7658184
 PrePostCall,6a9148d9-5e9a-5935-86c8-72740ba3a7c7
 PreallocationTools,d236fae5-4411-538c-8e31-a6e3d9e00b46
+PrecompileAfterUpdate,9a8c767f-158d-41a6-96f9-54dc897bf7e9
 PrecompileMacro,7044eba9-3226-4c27-acf2-f557c1cd82a0
 PrecompilePlutoCourse,031ef55e-ae57-4a95-aa50-04a4c1cc4953
 PrecompileSignatures,91cefc8d-f054-46dc-8f8c-26e11d7c5411
@@ -7737,6 +7742,7 @@ RandomBasedArrays,079b6ec6-a4f7-11e9-0358-1904ae85a441
 RandomBooleanMatrices,9ae346a0-3d16-5633-ad70-ddb60ab77eac
 RandomCorrelationMatrices,2547b907-48b9-5396-a2af-edc57bff161c
 RandomExtensions,fb686558-2515-59ef-acaa-46db3789a887
+RandomFeatureMaps,780baa95-dd42-481b-93db-80fe3d88832c
 RandomFeatures,36c3bae2-c0c3-419d-b3b4-eebadd35c5e5
 RandomFourierFeatures,46bd3b77-1c99-43cd-804b-1e14830792b5
 RandomLinearAlgebraSolvers,5efb4b28-465d-11ec-08dc-2f64b808d2ca
