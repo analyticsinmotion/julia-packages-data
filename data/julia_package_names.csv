@@ -4,6 +4,7 @@ ABBAj,6b41afa3-2ed9-49a7-abc1-b2d458227d0d
 ABCDMatrixOptics,ccdfd77c-c9b6-493d-8c46-f34d2494ed29
 ABC_jll,73717f16-8662-5d85-9e79-a3c1fc1c8861
 ABCdeZ,208e7efd-7036-4c82-8b73-3e7ae71c2350
+ABCredit,91b5283e-3ff1-4617-8122-130c88cb8aba
 ACAFact,2e0d8c30-fd72-45bd-a04c-a052d00f6fe4
 ACEbase,14bae519-eb20-449c-a949-9c58ed33163e
 ACME,ca8b7239-ccd3-5cce-807f-2072f3f0d108
@@ -18,6 +19,7 @@ ADI,904a6c7d-4c1b-562f-9573-ab2e7e1c7946
 ADIOS2,e0ce9d3b-0dbd-416f-8264-ccca772f60ec
 ADIOS2_jll,44b1415a-b224-5c99-9168-ff4febb5f37f
 ADNLPModels,54578032-b7ea-4c30-94aa-7cbd1cce6c9a
+ADOLC,a7293fd6-5c8a-477e-b6cc-312e3ac044ef
 ADOLC_jll,5f481b30-e4a3-563b-890b-c343462061b6
 ADRIA,7dc409a7-fbe5-4c9d-b3e2-b0c19a6ba600
 ADSeismic,65edcd7e-b178-4558-a546-bf867610404b
@@ -646,6 +648,7 @@ BasisFunctions,4343a256-5453-507d-8aad-01a9d7189916
 BasisMatrices,08854c51-b66b-5062-a90d-8e7ae4547a49
 BasisSets,086cb5bb-2461-57d8-8068-0aed7f5b5cf6
 BaslerCamera,e40af120-e25d-11ea-0ce6-f3b09ee65c37
+BatchAssign,e837618a-1c15-48db-beb0-68297dffdb28
 BatchIterators,4161f7c7-f4e7-47ff-bbcb-bc0b24702626
 BatchReactor,ae347489-fc42-416e-8e9d-f76cf1731aac
 Batched,1629540a-9a93-50e9-aec3-2a5ae159dca9
