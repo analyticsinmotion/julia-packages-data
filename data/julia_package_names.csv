@@ -2603,6 +2603,7 @@ EndpointRanges,340492b5-2a47-5f55-813d-aca7ddf97656
 EnergyCommunity,2f2d8a28-e724-42c4-aa4e-51fe4e6b7a61
 EnergyExpressions,f4b57a2e-27c7-11e9-0cb0-edd185b706f6
 EnergyModelsBase,5d7e687e-f956-46f3-9045-6f5a5fd49f50
+EnergyModelsGUI,737a7361-d3b7-40e9-b1ac-59bee4c5ea2d
 EnergyModelsGeography,3f775d88-a4da-46c4-a2cc-aa9f16db6708
 EnergyModelsInvestments,fca3f8eb-b383-437d-8e7b-aac76bb2004f
 EnergyModelsRenewableProducers,b007c34f-ba52-4995-ba37-fffe79fbde35
@@ -4097,6 +4098,7 @@ IOAPI_jll,21284ac2-4ede-594e-ad4f-4494079aca48
 IOCapture,b5f81e59-6552-4d32-b1f0-c071b021bf89
 IOLogging,9ee9e592-2d2d-57f4-9c4b-95048a1bc2c4
 IOUtils,6aa5b9b4-0a87-4d01-8444-b9736d377f28
+IPGBs,cd26b91b-75b4-4f6e-a355-d2a0d136006d
 IPMeasures,d7dc6e0c-a753-11e8-227e-b362679e0b17
 IPNets,66763231-799b-5fff-8662-389acfc33a85
 IPUToolkit,92e0b95a-4011-435a-96f4-10064551ddbe
@@ -4894,6 +4896,7 @@ LazyJLLWrappers,21706172-204c-4d4f-5420-656854206f44
 LazyJSON,fc18253b-5e1b-504c-a4a2-9ece4944c004
 LazyMapWithElType,73d3c89d-d1cf-438e-a490-8441131c5e9d
 LazyModules,8cdb02fc-e678-4876-92c5-9defec4f444e
+LazyReports,e5afb96c-f319-4582-8667-2a6c7d02249d
 LazySets,b4f0291d-fe17-52bc-9479-3d1a343d9043
 LazyStack,1fad7336-0346-5a1a-a56f-a06ba010965b
 LazyStartup,6f20d168-bb28-4f0e-934a-fbb9859c2f63
@@ -5918,6 +5921,7 @@ MotifPvalue,639d9495-0bf7-4cd9-80c6-a19f5ec6f406
 MotifRecognition,2a4d4a8f-c57f-4bed-b307-c16a2225f1ea
 MotifSequenceGenerator,7d228ccb-0fc9-53c8-a429-8c9b5b572bc3
 MotionCaptureJointCalibration,d0551c8d-3c54-58b6-a75a-e266c30cc699
+MotionPlanningOptimization,3c0c87de-e99a-45ee-acb8-6f5f6f7d0613
 MotivationalQuotes,724a119f-db80-47b0-bd89-50af95d0d526
 MovingBoundaryProblems1D,a903a81a-d576-4eaa-89dc-ab2b94f0d51c
 Mozi,938b0b66-b18d-59c3-b436-87bb841ccf42
@@ -10173,6 +10177,7 @@ WannierIO,cb1bc77f-5443-4951-af9f-05b616a3e422
 WarmupHMC,60658175-6863-4866-a322-ab51a11c0cfe
 Wasabi,cec542a4-22c5-46cb-8ca4-a46a7737b387
 Wasmtime,f519113a-1485-4b12-af44-dbf9b5a2f6b4
+Wasmtime_jll,d20e7296-4f3e-515c-90b9-d2595a77bf72
 WaspNet,c0b53cd3-4946-4106-b8e7-91971464ade9
 WatchJuliaBurn,952999c0-2bc0-44cb-b633-dc1e299b187b
 WaterFlows,26b386a0-5622-11e9-3ee7-f1bbe84c80da
@@ -10940,6 +10945,7 @@ stb_jll,0a870b86-ede5-5f68-8916-0c4c2008bb27
 stldecomposition_jll,d8cc2a31-0abf-5619-8b1f-2aa308935162
 stork_jll,a0ec7baa-763d-5d6b-86f7-e243a75ef8c4
 strace_jll,1d56ff18-86b0-54eb-9ca6-1c12e018e922
+strobealign_jll,3fdc3add-cc48-55bb-9161-26699b513878
 svg2pdf_jll,a8f3a209-3a10-5cb5-98f7-143dfc3372cb
 systemd_jll,867622ac-8f22-5251-87e3-8aff4582acdf
 t8code_jll,4ee9bed8-4011-53f7-90c2-22363c2f500d
