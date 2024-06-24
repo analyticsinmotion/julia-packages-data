@@ -333,6 +333,7 @@ ApproximateComputations,49d1aae2-ae6b-5d26-a063-7cf6630cf99c
 ApproximateGPs,298c2ebc-0411-48ad-af38-99e88101b606
 ApproximateVI,e67a2193-b68a-469d-be77-24baf3975c82
 ApproximateVanishingIdeals,5c3d299b-aa2f-43dc-84cc-e9c547fd880b
+ApproximatingMapsBetweenLinearSpaces,31d768e5-ae28-4338-b319-fc9871ebca58
 ApproximationAnalysis,82321e43-16b0-4e95-943b-273a726d7f5d
 AprilTags,f0fec3d5-a81e-5a6a-8c28-d2b34f3659de
 AprilTags_jll,49f4e9a8-0306-5d58-91df-e9c3c0e42747
@@ -4369,6 +4370,7 @@ IntervalUnionArithmetic,bbd57523-681a-4e6b-a941-369dddcfdba8
 IntervalUnions,915bef70-1f19-473c-b914-2219c7449817
 IntervalWavelets,0605f816-0bd7-11ea-1bbe-fb0a4d530a66
 Intervals,d8418881-c3e1-53bb-8760-2df7ec849ed5
+Inti,fb74042b-437e-4c5b-88cf-d4e2beb394d5
 IntrusiveCollections,fe54b08b-4815-4b70-8b1a-a3021f4307e7
 InvariantCausal,de0b34ba-74bd-4023-98f7-dda430e1ad06
 InvariantCausalPrediction,5fe40f08-422b-4ec7-90aa-ba60e31ac74e
@@ -8615,6 +8617,7 @@ SimplePDHG,bd3c4b4f-113e-4e9f-b976-6f68b19c842b
 SimplePadics,2edc7d5a-420c-455a-9f50-96c88fa4f765
 SimplePartitions,ec83eff0-a5b5-5643-ae32-5cbf6eedec9d
 SimplePlots,307c2aad-90be-4152-b348-f51955fac6ce
+SimplePlutoInclude,6f00a2c5-ea4a-46bf-9183-91b7b57a087f
 SimplePolynomialRing,c69e25b7-ced4-43d1-bebe-53af10824047
 SimplePolynomials,cc47b68c-3164-5771-a705-2bc0097375a0
 SimplePosetAlgorithms,0c1320c5-0940-5dc6-8c7d-d9650cdddf58
