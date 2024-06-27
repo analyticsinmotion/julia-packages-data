@@ -3742,6 +3742,7 @@ GraphViz,f526b714-d49f-11e8-06ff-31ed36ee7ee0
 Graphene,f5002e42-d20c-4f71-b383-ecdb27adfd24
 GrapheneQFT,b903362a-f3fb-4fd6-ad42-15d1112bb05b
 Graphene_jll,75302f13-0b7e-5bab-a6d1-23fa92e4c2ea
+GraphicalLasso,ec280fb4-098f-495a-9118-f266479a1c55
 GraphicalModelLearning,73787735-dbe8-5e05-9488-dc58b1b075d0
 Graphics,a2bd30eb-e257-5431-a919-1863eab51364
 GraphicsMagick_jll,aa65733b-c888-5e24-8545-c87abc10c960
@@ -4699,6 +4700,7 @@ KitePodSimulator,558fcde3-b420-4fcf-b6fa-fc874c7e75b7
 KiteSimulators,a262fb0b-5671-4fb4-9d61-972db9a18944
 KiteUtils,90980105-b163-44e5-ba9f-8b1c83bb0533
 KiteViewers,2e593061-95e7-45e4-95f4-df0491f2e601
+Kitten,123e4567-e89b-12d3-a456-426614174000
 KittyTerminalImages,b7fa5abe-5c7d-46c6-a1ae-1026d0d509b9
 KiwiConstraintSolver,063317df-b1e6-4e84-b689-d7ba7b3726e4
 KmerAnalysis,a20136b7-8e32-4c10-91d3-7060c0bd8ec7
@@ -10593,6 +10595,7 @@ cuQuantum_jll,b75408ef-6fdf-5d74-b65a-7df000ad18e6
 cuStateVec,92f7fd98-d22e-4c0d-85a8-6ade11b672fb
 cuTENSOR,011b41b2-24ef-40a8-b3eb-fa098493e9e1
 cuTensorNet,448d79b3-4b49-4e06-a5ea-00c62c0dc3db
+cufinufft_jll,d94e68af-94a2-5465-a03a-ccb69bb7181e
 czmq_jll,bada3277-1da5-58a9-94c6-da212cd39369
 dSFMT_jll,05ff407c-b0c1-5878-9df8-858cc2e60c36
 datamash_jll,5e3497f2-6421-5a2b-b76c-5131171094e1
