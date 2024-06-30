@@ -727,6 +727,7 @@ BesselK,432ab697-7a72-484f-bc4a-bc531f5c819b
 Bessels,0e736298-9ec6-45e8-9647-e4fc86a2fe38
 BestApproximation,b55500c1-4cdc-457d-b883-f6a82974aba3
 BestModelSubset,0f6bdffc-513a-42d2-9813-9a545800a63f
+BestieTemplate,e5d671a7-4186-4f1a-bf88-c19b630da94f
 BetaDecayUtils,b2723bf5-94c5-4359-89e1-3e553b39f040
 BetaML,024491cd-cc6b-443e-8034-08ea7eb7db2b
 BetaReader,e5583720-4bc8-44d1-bd9a-9734450b0166
@@ -4945,6 +4946,7 @@ Lerche,d42ef402-04e6-4356-9f73-091573ea58dc
 LessUnitful,f29f6376-6e90-4d80-80c9-fb8ec61203d5
 LetsBeRational_jll,b1162f8a-ee7e-515c-ae1d-7fab3c0ab9f7
 LevelDB,6248df61-47b1-58fa-9b7c-c0f1183480ca
+LevelDB2,002418b5-1437-4398-8918-fc420664f8a4
 LevelDB_jll,e5add9ea-9f03-521a-be84-f8c1bde3cbe9
 Levenshtein,cb002d51-b850-5775-a4f8-1db47be676b8
 LevyArea,2d8b4e74-eb68-11e8-0fb9-d5eb67b50637
@@ -5636,6 +5638,7 @@ MemoryArena,5f8afd5a-bb66-5d20-9595-63d13a19fd2b
 MemoryBasedCF,f39d504a-8e86-5d7d-9b06-c60674885a6f
 MemoryInspector,86003188-52e7-4782-9607-153a7cbed274
 MemoryMutate,a5f39ad1-fb6e-5f16-afbb-4d8233a49418
+MemoryViews,a791c907-b98b-4e44-8f4d-e4c2362c6b2f
 MendelIHT,921c7187-1484-5754-b919-5d3ed9ac03c4
 MendelImpute,e47305d1-6a61-5370-bc5d-77554d143183
 MendelPlots,7ab2ea78-72dd-4c03-85d8-fc2b0db252af
@@ -8108,6 +8111,7 @@ RoundingIntegers,d5f540fe-1c90-5db3-b776-2e2f362d9394
 RowEchelon,af85af4c-bcd5-5d23-b03a-a909639aa875
 Rscape_jll,c8f3e4f4-dc8a-5e75-8464-d1f1be3e8be2
 Rsvg,c4c386cf-5103-5370-be45-f3a111cca3b8
+RuleMiner,26420b10-3f9f-4b54-bd85-e6b3d5a44d3c
 Run,e7132d5a-96e2-11e9-15da-db8a129aaaf8
 RunBinary,29c08b6a-42b0-4a71-84c9-d93be35dae53
 RunLengthArrays,11ec6118-8d4c-11e9-02bb-6986bd51d19a
@@ -8909,6 +8913,7 @@ SpeedDate,2e38f7da-5467-4768-b2f8-11afcbc6cdb1
 SpeedMapping,f1835b91-879b-4a3f-a438-e4baacf14412
 SpeedyWeather,9e226e20-d153-4fed-8a5b-493def4f21a9
 SpeexDSP_jll,f2f9631b-9a4e-5b48-9975-88f638ec36a7
+Spehulak,13b2040c-5979-4bcf-93a6-c2323bf411ba
 SpelledOut,4728c690-e668-4265-bc0d-51a8c0f93067
 Spglib,f761d5c5-86db-4880-b97f-9680a7cccfb5
 SphereSurfaceHistogram,b3f7556e-2c1d-50f9-83b1-7c1b68b21cf8
@@ -9103,6 +9108,7 @@ StippleCharts,30ddb3f0-912f-4f34-9804-e4bb31290777
 StippleDownloads,291a174b-6542-42e7-9996-fc00d7c03310
 StippleKeplerGL,2b41e42f-53d9-436c-aed0-ebb7c31b58f1
 StippleLatex,8706c442-30ce-4f68-b407-b81ebf148be9
+StippleMarkdown,2b41e42f-53d3-436c-aed0-ebb7c31b58f1
 StippleMathjs,7fb1dcd0-db8f-4201-9509-3dea5d7792e9
 StipplePlotly,ec984513-233d-481d-95b0-a3b58b97af2b
 StipplePlotlyExport,d3391a6e-3825-4561-b7f8-2cd130659cb1
@@ -9310,6 +9316,7 @@ SymSemiseparableMatrices,c927be06-f564-11e9-2e25-11633cdb9fcb
 SymSpellChecker,bb1b64e9-0ccc-445c-80cb-5313b9f7dfe1
 Symata,a906b1d5-d016-55c4-aab3-8a20cba0db2a
 SymbolServer,cf896787-08d5-524d-9de7-132aaa0cb996
+SymbolicAnalysis,4297ee4d-0239-47d8-ba5d-195ecdf594fe
 SymbolicCircuit,90f18bad-8de6-4f24-a7ee-bfe158ef45c0
 SymbolicCodegen,fc9b0551-4f1b-42e1-8440-e8a535f5a551
 SymbolicControlSystems,886cb795-8fd3-4b11-92f6-8071e46f71c5
