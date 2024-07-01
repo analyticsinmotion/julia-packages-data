@@ -4162,6 +4162,7 @@ IlluminaIdatFiles,6319967d-51f1-455d-8322-e2c0d31f3595
 ImGuiGLFWBackend,623d79b3-9695-4e60-bd7e-2a5aabaa6933
 ImGuiOpenGL2Backend,c105bd9b-9289-4129-acf4-4c081b46d160
 ImGuiOpenGLBackend,9d0819b4-44e7-43a2-ad03-8fb999128168
+ImGuiTestEngine,464e2eba-0a11-4ed3-b274-413caa1a1cca
 ImPlot,e8efc688-5342-4ad4-b4ba-9025a731b363
 ImageAnnotations,76a96b56-f16f-11e8-3761-3967fdcf98d3
 ImageAnnotationsIO,a23dbe5c-0729-48bd-99f5-ede0f658dfcb
@@ -4663,6 +4664,7 @@ KernelDensitySJ,49dc5b4e-6806-4504-b2cc-a81764e7a38b
 KernelEstimator,857edff2-01a9-55ba-8bc9-13e46c0ddbb2
 KernelFunctions,ec8451be-7e33-11e9-00cf-bbf324bd1392
 KernelGradients,e5faadeb-7f6c-408e-9747-a7a26e81c66a
+KernelInterpolation,95686e15-3c94-4443-8f08-76d06d509f7b
 KernelMachines,6717196d-eae9-43d0-801c-fc416e8966f6
 KernelMethods,d79e8f30-5872-11e9-0dab-2d1842b87615
 KernelOps,96fb99f5-d28b-4914-8161-ce02e97273ad
