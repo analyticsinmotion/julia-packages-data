@@ -3449,6 +3449,7 @@ GasChromatographySystems,2a17fa6e-c440-4af9-acac-c1be9e3a006f
 GasDispersion,ac6af613-5479-4178-853e-9d66de417193
 GasModels,5e113713-6c35-5477-b766-e1109486666f
 GasPowerModels,1fcaf345-95e3-5b8b-91d6-2145eb844b9d
+GasTranSim,69f9d653-1b8b-4f14-83cd-52913e0d1f1c
 Gasdynamics1D,147bd2d4-5614-4af7-9716-06bc640f25f6
 GasphaseReactions,ceedd18c-cbe2-4568-b16d-0e09f1cb20d1
 Gaston,4b11ee91-296f-5714-9832-002c20994614
@@ -4669,6 +4670,7 @@ KernelMachines,6717196d-eae9-43d0-801c-fc416e8966f6
 KernelMethods,d79e8f30-5872-11e9-0dab-2d1842b87615
 KernelOps,96fb99f5-d28b-4914-8161-ce02e97273ad
 KernelSpectralDensities,027d52a2-76e5-4228-9bfe-bc7e0f5a8348
+Ket,412c778c-4733-41d8-b706-9e072557ba34
 KeyCounter,f308447f-e99f-46ec-ad9e-5a4c598148f8
 KeyboardDriven,d6b73c45-a735-4b19-932b-179aebda8fdc
 KeyedDistributions,2576fb08-064d-4cab-b15d-8dda7fcb9a6d
@@ -5931,6 +5933,7 @@ MosaicViews,e94cdb99-869f-56ef-bcf0-1ae2bcbe0389
 MosaikAPIv3,733f0b2a-2dd6-45a4-80ec-bf2267f2a32d
 Mosek,6405355b-0ac2-5fba-af84-adbd65488c0e
 MosekTools,1ec41992-ff65-5c91-ac43-2df89e9693a4
+Moshi,2e0e35c7-a2e4-4343-998d-7ef72827ed2d
 MosimoBase,a39d5f18-f8b1-4777-8f97-f1f91469dbd0
 Mosquitto,db317de6-444b-4dfa-9d0e-fbf3d8dd78ea
 MotifCluster,daa9fd3b-41af-4965-b715-a21506bae1e4
@@ -10809,6 +10812,7 @@ libsodium_jll,a9144af2-ca23-56d9-984f-0d03f7b5ccf8
 libspatialite_jll,a4c9d1fc-8f32-52c2-b7e7-251980156b63
 libssh_jll,a8d4f100-aa25-5708-be18-96e0805c2c9d
 libsvm_jll,08558c22-525a-5d2a-acf6-0ac6658ffce4
+libtakum_jll,2acead13-4190-5b23-9738-715dd9fd1a00
 libtasn1_jll,3f48aabc-caa9-5088-9d68-3c6fc69eadfd
 libtirpc_jll,86ddda40-0562-5640-9cf4-1268408005c8
 libtree_jll,210123e1-2ab9-5e3e-92f0-8698273d9eb6
