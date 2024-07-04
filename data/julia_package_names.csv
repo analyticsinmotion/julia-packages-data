@@ -6941,6 +6941,7 @@ PermaProgress,a725f2ce-9316-4120-9e92-88e556b8edfa
 Permanents,e0809bc7-674c-4283-bd35-3a6d484c6d12
 PermutationGroups,8bc5a954-2dfc-11e9-10e6-cd969bffa420
 PermutationSymmetricTensors,22e17884-8c1a-4ea8-8b39-5974e24a9d31
+PermutationTests,dd25e4c7-56c0-4344-ab7a-80f9379a34f4
 Permutations,2ae35dd2-176d-5d53-8349-f30d82d94d4f
 PermutedArrays,aa3a806a-e146-4a0b-abc5-6bb34b5dedb7
 Perple_X_jll,9c18f8f7-1c8d-5a34-9fc2-3ecefed5c104
@@ -7358,6 +7359,7 @@ Problox,41531fc7-7f15-48cd-9c2f-2efb66d9fe65
 ProcessBasedModelling,ca969041-2cf3-4b10-bc21-86f4417093eb
 ProconIO,14bbafba-0b52-4ec8-8fe0-855204a3b917
 Procrastinate,3362a694-cdb4-48f5-aa9a-ff559879651c
+Prodigal_jll,7a4b51ec-a40a-52db-952c-916e8965abc8
 ProductArrays,39a08dd0-b4b7-4086-afbb-eb1796240846
 ProfileCanvas,efd6af41-a80b-495e-886c-e51b0c7d77a3
 ProfileEndpoints,873a18e9-432f-47dd-82a7-1a805cf6f852
@@ -7443,6 +7445,7 @@ PulseAudio_jll,02771fc1-bdb7-5db5-8d11-300768e00fbd
 Purses,b933ae29-2b40-4477-9757-bdbbb03ce3a4
 PushVectors,36b54c61-190e-5a5f-82d5-6f0a962d7362
 Pushover,1d40253f-d7d5-5bc2-be73-07f0f24a3532
+PyArrow,efc81ffe-9e87-4f02-af89-7663f751d186
 PyBraket,e85266a6-1825-490b-a80e-9b9469c53660
 PyBullet,9e6df25e-3b2c-44c5-be37-b553c26be21f
 PyCaesar,5de271da-f4c9-48db-ba43-272b66d09ab8
@@ -8460,6 +8463,7 @@ SelfOrganizingMaps,ba4b7379-301a-4be0-bee6-171e4e152787
 SellmeierFit,cb4c0f5c-2214-40eb-8da0-53ca8e9a3192
 Semagrams,13530c0b-fe5b-42fd-9b7e-79367be16329
 SemanticAST,c5775199-6b5c-47be-a5a7-a37436caf489
+SemanticCaches,03ba8f0e-aaaa-4626-a19b-56297996781b
 SemanticModels,f5ac2a72-33c7-5caf-b863-f02fefdcf428
 SemanticScholar,f2f2c3a1-78ca-4323-b152-8442c77f9dcc
 SemanticSpaces,3acb29d5-902e-4acc-9bd8-2830ece8358d
