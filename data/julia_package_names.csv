@@ -2779,6 +2779,7 @@ ExternalDocstrings,e189563c-0753-4f5e-ad5c-be4293c83fb4
 ExtraFun,963d7961-7533-4a80-bf6b-d3653d506006
 ExtractLinks,8f7a8886-8f8a-428e-b78f-4cb978acfc7c
 ExtractMacro,f86d3d12-fd5b-522c-99e9-61577282a1e9
+Extrae,8a0c07fa-ade5-4b2a-b81a-b192b2bedf88
 Extrae_jll,2b2c4be0-e38c-5918-b8b4-9a308845a1e9
 ExtremalOptimization,3b6521e1-56b2-406b-b1f7-6ae6ec1fb69e
 ExtremeFloats,4fba8ba3-5816-4b0a-a58e-35901defa442
@@ -3402,6 +3403,7 @@ GRQt5_jll,be234c1c-6cf4-5063-8676-3229d64ce17a
 GRQt6_jll,03d9041e-b4d2-508d-8c1c-d30ef48c1ce0
 GRUtils,0337cf30-a0fd-11e9-31db-a79914c9d7ac
 GR_jll,d2c73de3-f751-5644-a686-071e5b155ba9
+GSDFormat,1b955fb9-6f2e-4960-8f17-37db80c113c6
 GSL,92c85e6c-cbff-5e0c-80f7-495c94daaecd
 GSL_jll,1b77fbbe-d8ee-58f0-85f9-836ddc23a7a4
 GStreamer_jll,aaaaf01e-2457-52c6-9fe8-886f7267d736
@@ -4282,6 +4284,7 @@ Infiltrator,5903a43b-9cc3-4c30-8d17-598619ec4e9b
 InfiniteArrays,4858937d-0d70-526a-a4dd-2d5cb5dd786c
 InfiniteLinearAlgebra,cde9dba0-b1de-11e9-2c62-0bab9446c55c
 InfiniteOpt,20393b10-9daf-11e9-18c9-8db751c92c57
+InfiniteRandomArrays,2bc77966-89c7-476d-a40f-269028fac4a9
 InfinitesimalGenerators,2fce0c6f-5f0b-5c85-85c9-2ffe1d5ee30d
 Infinities,e1ba4f0e-776d-440f-acd9-e1d2e9742647
 Infinity,a303e19e-6eb4-11e9-3b09-cd9505f79100
