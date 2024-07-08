@@ -3434,6 +3434,7 @@ GalacticOptimJL,9d3c5eb1-403b-401b-8c0f-c11105342e6b
 GalacticOptimisers,86b7a833-eb4b-49e2-87ed-89357ad7afa2
 GalacticPotentials,761e15e1-915f-4e6a-be22-a19e6141b375
 GalaxyBrain,25ddbe4d-0058-4ca6-a349-d40aaa747e42
+GalerkinToolkit,5e3ba9c4-dd81-444d-b69a-0e7bd7bf60a4
 GaloisFields,8d0d7f98-d412-5cd4-8397-071c807280aa
 Gama_jll,e49eef03-c325-580d-b9c2-ffdb035fe7b1
 Game2048,1518badf-864b-4d38-82d7-871a0e9c2f48
@@ -4685,6 +4686,7 @@ KeywordCalls,4d827475-d3e4-43d6-abe3-9688362ede9f
 KeywordDispatch,5888135b-5456-5c80-a1b6-c91ef8180460
 KeywordSearch,f977ba8c-7144-47e8-b06b-e3f658952959
 KeywordStrings,e3267b2b-712d-427e-b03d-2cb43bb92d57
+Kezdi,48308a23-c29e-446c-b4c0-d9446a767439
 Khepri,59ceddad-2dad-55ad-af66-072f48a109d0
 KhepriAutoCAD,84eb9a3b-232b-4081-b917-cfea549d0d83
 KhepriBase,4cc0fe96-1163-46f3-ba32-de1e65d9548f
@@ -5833,6 +5835,7 @@ MobergIO,9bdc2bb6-e40d-4944-bd5f-2bf890d3f651
 MockAWS,34973bfc-0c0e-5173-a011-fa9066d4440a
 MockTableGenerators,63c704a1-a924-4685-a9dd-2c8225e4c0d3
 Mocking,78c3b35d-d492-501b-9361-3d52fe80e533
+ModalDecisionLists,dbece2fb-9d58-4710-9902-4ec759308ae8
 ModalDecisionTrees,e54bda2e-c571-11ec-9d64-0242ac120002
 ModalIntervalArithmetic,d9d21f8b-92ef-476a-95b1-a8f4ec3d740c
 ModeCouplingTheory,6cad4188-63cb-4528-a10f-dbb409b456c6
@@ -8765,6 +8768,7 @@ SmoQyHankelCorrCleaner,0ea08462-a9b7-4dbd-b738-4196db0ff3ad
 SmolyakApprox,6b19cf85-48de-5d9d-bfff-465abea14fab
 SmoothInterpolation,4412c578-8aba-4b04-8c8c-6ae573ccb792
 SmoothLivePlot,31434429-0e9f-4d24-947a-14cd43782323
+SmoothLocalProjections,991a0c71-be35-46d8-9952-fa18ace04789
 SmoothNumbers,48ae9875-8a8b-401f-9c90-1ad5d6adef54
 SmoothedParticles,b7455f7a-83c6-4046-bd2b-dfe6091272a6
 SmoothedSpectralAbscissa,879160bb-2efd-4837-9d80-7b6fff7bf698
@@ -8823,6 +8827,7 @@ Solcast,316e074d-b47d-40a7-868b-1b027d6a4e76
 Sole,7b3b3b3f-8b15-4a80-a798-b383498bc2cf
 SoleBase,4475fa32-7023-44a0-aa70-4813b230e492
 SoleData,123f1ae1-6307-4526-ab5b-aab3a92a2b8c
+SoleDecisionTreeInterface,de8eae22-3630-40e0-868c-abfc4c1bb3da
 SoleLogics,b002da8f-3cb3-4d91-bbe3-2953433912b5
 SoleModels,4249d9c7-3290-4ddd-961c-e1d3ec2467f8
 SolidModeling,87eb8544-cf78-4b0d-97e3-b7004341d5e9
@@ -9444,6 +9449,7 @@ TaijaParallel,bf1c2c22-5e42-4e78-8b6b-92e6c673eeb0
 TaijaPlotting,bd7198b4-c7d6-400c-9bab-9a24614b0240
 TailwindCSS,70f3efdd-15fb-48e9-aed6-b5748bd45f5a
 TakagiFactorization,2a98de0d-ca3b-5770-8d1d-3c2c55f12676
+Takums,e87ab966-852e-4d0b-9cf3-1c8693995dd4
 Tally,4a7475b6-8451-4f36-8c0c-176e4d128198
 Tapestree,cd6db766-07eb-5897-84c0-92a6c9b887bd
 Tapir,07d77754-e150-4737-8c94-cd238a1fb45b
