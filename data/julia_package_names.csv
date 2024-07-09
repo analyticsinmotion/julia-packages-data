@@ -5355,6 +5355,7 @@ MLJModelInterface,e80e1ace-859a-464e-9ed9-23947d8ae3ea
 MLJModels,d491faf4-2d78-11e9-2867-c94bc002c0b7
 MLJMultivariateStatsInterface,1b6a4a23-ba22-4f51-9698-8599985d3728
 MLJNaiveBayesInterface,33e4bacb-b9e2-458e-9a13-5d9a90b235fa
+MLJNonnegativeMatrixFactorization,5fbdd59d-4608-42a7-928b-f02c7ff8d663
 MLJOpenML,cbea4545-8c96-4583-ad3a-44078d60d369
 MLJParticleSwarmOptimization,17a086e9-ed03-4f30-ab88-8b63f0f6126c
 MLJScientificTypes,2e2323e0-db8b-457b-ae0d-bdfb3bc63afd
@@ -5533,6 +5534,7 @@ MaskArrays,0779ba27-d013-422b-b20d-67aa3361bf56
 MaskedArrays,e3e6debb-e142-42bc-8e83-ba8646d1d252
 MassInstallAction,e162569b-3ff4-40cf-b055-1e5f8042da73
 MassSpec,1eca0e19-7dec-47c1-ba23-53c12588e011
+MassSpecChemicals,a0caa3fb-cd40-4122-b5cb-396daad418a9
 MatInt,f23b31af-f0ea-4208-b2e0-bbfc29c446c9
 MatLang,05b439c0-bb3c-11e9-1d8d-1f0a9ebca87a
 Match,7eb4fadd-790c-5f42-8a69-bfa0b872bfbf
@@ -5614,6 +5616,7 @@ McCormick,53c679d3-6890-5091-8386-c291e8c8aaa1
 McmcHermes,1dcdc7e9-a8b1-4892-8a0a-cdab5a60ee98
 MeCab,28a8edfd-32bd-5648-83f9-9b597c29a4fc
 MealDB,7c6f5c80-a916-4f5a-ba62-8beba2430b5e
+MeanFieldGraph,f3c20582-38a4-43ca-95fd-b3c95fb7ac78
 MeanFieldToolkit,b00fcea2-f4b1-4480-b444-a0ed31c44801
 MeanFilters,86727aa0-fd67-4533-b6ed-348f1dda914f
 MeanSquaredDisplacement,13c93d70-909c-440c-af92-39d48ffa2ba2
@@ -8556,6 +8559,7 @@ ShockwaveProperties,77d2bf28-a3e9-4b9c-9fcf-b85f74cc8a50
 Shoco,f786175c-7be2-5c6f-a66a-14694b1fea27
 Shoco_jll,70823c38-4688-527f-81c8-b284cebe458d
 ShortCodes,f62ebe17-55c5-4640-972f-b59c0dd11ccf
+ShortFFTs,3a4051df-11c6-4922-af5a-d7072afac5a2
 ShortStrings,63221d1c-8677-4ff0-9126-0ff0817b4975
 ShowCases,605ecd9f-84a6-4c9e-81e2-4798472b76a3
 ShowGraphviz,14e20f5a-e304-4f94-b7d9-bca841234ddf
