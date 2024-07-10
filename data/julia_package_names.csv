@@ -1497,6 +1497,7 @@ CoNCMOR,3a989f29-cff0-4f1c-87be-5dcdd41bd240
 Cobweb,ec354790-cf28-43e8-bb59-b484409b7bad
 CocktailDB,5dab4e14-3d8d-47b0-9250-6e6291c569a8
 CodeCosts,01031290-36d5-4888-8ad8-581b08f8a907
+CodeEvaluation,5a076611-96cb-4f02-9d3a-9e309f06f8ff
 CodeInfoTools,bc773b8a-8374-437a-b9f2-0e9785855863
 CodeSculptor,68cd8150-a51e-471f-b122-888ae3e7a445
 CodeSearch,a370208a-6d19-4556-96f2-3584234c2a74
@@ -10763,6 +10764,7 @@ libcrossterm_jll,7fdd842c-1c35-5047-b6c4-5b8c94d478bc
 libcsv_jll,76ce3406-eb3b-58b5-9095-caeac20e920c
 libcxxwrap_julia_jll,3eaa8342-bff7-56a5-9981-c04077f7cee7
 libdatachannel_jll,a9336cb3-2ff0-5b58-948f-a453a6f195b0
+libdecor_jll,1183f4f0-6f2a-5f1a-908b-139f9cdfea6f
 libdeflate_jll,46979653-d7f6-5232-b59e-dd310c4598de
 libdivsufsort_jll,3acd9466-597a-52f5-9fc8-ad906e2116c6
 libdrm_jll,8e53e030-5e6c-5a89-a30b-be5b7263a166
