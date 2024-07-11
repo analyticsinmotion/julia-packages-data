@@ -1118,6 +1118,7 @@ CSetAutomorphisms,1602be87-98d2-44e8-83ad-5679ea8c0714
 CStarSurfaces,42ef8a1c-faf6-41db-96e1-562c4470a736
 CStructures,c9817921-aac3-4215-a82e-d746b8a84f94
 CSyntax,ea656a56-6ca6-5dda-bba5-7b6963a5f74c
+CTBase,54762871-cc72-4466-b8e8-f6c8b58076cd
 CUBScout,5bb2324b-4f8a-4227-8185-e835854b0a1e
 CUDA,052768ef-5323-5732-b1bb-66c8b64840ba
 CUDAKernels,72cfdca4-0801-4ab0-bf6a-d52aa10adc57
@@ -2193,6 +2194,7 @@ DiffEqUncertainty,ef61062a-5684-51dc-bb67-a0fcdec5c97d
 DiffFusion,be7e520c-a8fa-4f26-8f65-6d6d1049182e
 DiffImageRotation,cb1f95eb-7c3a-45bc-9e18-5c07f1beaacd
 DiffOpt,930fe3bc-9c6b-11ea-2d94-6184641e85e7
+DiffPointRasterisation,f984992d-3c45-4382-99a1-cf20f5c47c61
 DiffPrivacy,53714aee-e5d1-4d1b-abff-f814f0c675a5
 DiffRaster2D,4b684d98-c3ff-425e-b462-3ad63461a205
 DiffResults,163ba53b-c6d8-5494-b064-1a9d43ac40c5
@@ -6060,6 +6062,7 @@ MuttsInterface,4f105e01-9b18-47b8-92a3-3fae8366c3d5
 MutualInformationImageRegistration,f55eb597-e6a1-4806-8966-600fcb3de930
 Mux,a975b10e-0019-58db-a62f-e48ff68538c9
 MvNormalCDF,37188c8d-bc69-4638-b057-733e744175ec
+MvNormalCalibration,bbc1677d-7cf1-46ff-9fcf-9af1de965559
 MyAwesomePackage,19daf8e9-0870-4f25-9c1d-f38ed379fe1e
 MySQL,39abe10b-433b-5dbd-92d4-e302a9df00cd
 MyterialColors,1c23619d-4212-4747-83aa-717207fae70f
@@ -6634,6 +6637,7 @@ Optionals,3304b86d-eb5b-5d22-9ed4-3b0a60539cfe
 Opus,0af1e411-0638-4d6d-bb05-ed1900b440d5
 Opus_jll,91d4177d-7536-5919-b921-800302f37372
 Oracle,7240a794-28ba-5199-b477-df5fe5cf6155
+OrbitPropagationLibrarySOFA,38b9e004-e2fa-4648-aa91-337faf7b69aa
 OrbitalElements,f8fcefdb-5f5a-475b-b2a0-c41c734946b5
 OrbitalTrajectories,2b613a20-8d2a-5290-b19f-e06f4bcc2e7d
 Orbits,88f3d70c-3a4c-11ed-1389-4902f2e49de8
@@ -7362,6 +7366,7 @@ Prjtrellis_jll,6a9aa77d-afea-5b9d-b858-ecc31eb61f73
 ProbNumDiffEq,bf3e78b0-7d74-48a5-b855-9609533b56a5
 ProbabilisticCircuits,2396afbe-23d7-11ea-1e05-f1aa98e17a44
 ProbabilisticEchoInversion,1f6a33d4-8dbe-4644-aee6-8f897f240d65
+ProbabilisticParameterEstimators,0098cf3f-3e1e-4f11-b01c-dd9dec1b3374
 ProbabilisticRoadMap,773847ca-07cc-414d-a27c-4458bbc76b2b
 ProbabilityBoundsAnalysis,cd73f0b2-6f06-11ea-242f-83a09de6a7cf
 Probably,2172800d-0309-5a57-a84f-d50c94757422
@@ -7886,6 +7891,7 @@ RealFFTs,3645faec-0534-4e91-afef-021db0981eec
 RealNeuralNetworks,4491297b-8966-5840-8cb9-b189d60f3398
 RealPolyhedralHomotopy,0ea325ba-5c5f-496b-acec-8be67510f465
 RealPolynomialRoots,87be438c-38ae-47c4-9398-763eabe5c3be
+RealTimeAudioDiffEq,7a3f4937-0cad-4220-a144-0330815b2118
 RealTimeScheduling,f1524149-62f5-490d-8249-9bfac76a7111
 Rebugger,ee283ea6-eecd-56e3-beb3-83eb4d3c31e9
 Recalls,30af7cf3-eb43-44c7-afa7-33725b72a81e
@@ -7904,6 +7910,7 @@ RectiGrids,8ac6971d-971d-971d-971d-971d5ab1a71a
 RecurrenceAnalysis,639c3291-70d9-5ea2-8c5b-839eba1ee399
 RecurrenceCoefficients,de372851-07f4-4192-bc5b-b0c28d817e5e
 RecursiveArrayTools,731186ca-8d62-57ce-b412-fbd966d074cd
+RecursiveCausalDiscovery,96483cbc-aa6d-4394-9266-bb69d9075284
 RecursiveDicts,e20b0d26-85b9-4cc4-ab0c-abba12ca33a5
 RecursiveFactorization,f2c3362d-daeb-58d1-803e-2bc74f2840b4
 RecursiveTiles,7d867975-de6c-4c05-9efa-f68ebc224697
@@ -9528,6 +9535,7 @@ TensorOperations,6aa20fa7-93e2-5fca-9bc0-fbd0db3c71a2
 TensorOperationsTBLIS,1e289f0c-8058-4c3e-8acf-f8ef036bd865
 TensorPACK,31531b1e-8b04-434d-b24f-20dc49cbf098
 TensorPolynomialBases,f77b161d-e03a-5d68-b365-d5306aabeaa6
+TensorQEC,0500ac79-7fb5-4262-aaea-37bb1845d1ef
 TensorRT_jll,2eaff018-c6f9-5ddb-97b6-8b0d18888fbb
 TensorRefinement,a3b9d4e2-d0bd-4e25-82d9-b4a73f42a39d
 TensorRules,f4bef1b4-b92c-4d5f-a4ba-6d6989c7744d
@@ -9922,6 +9930,7 @@ TypedPolynomials,afbbf031-7a57-5f58-a1b9-b774a0fad08d
 TypedSyntax,d265eb64-f81a-44ad-a842-4247ee1503de
 TypedTables,9d95f2ec-7b3d-5a63-8d20-e2491e220bb9
 TypstGenerator,b4d5b4e8-9a4e-401d-a981-0a2e8ff042be
+TypstJlyfish,95e5b356-b122-4883-a78a-3c8c946b7332
 Typst_jll,eb4b1da6-20f6-5c66-9826-fdb8ad410d0e
 Typstry,f0ed7684-a786-439e-b1e3-3b82803b501e
 UAParser,9c2e70fb-c67a-5ec7-8d93-51b38135a8ac
