@@ -824,6 +824,7 @@ BioTools,fa51a905-6db9-5d43-b62f-5461347a870a
 BioVossEncoder,e7894126-fa72-4101-935a-4d6cb73e7565
 BiobakeryUtils,fa5322f5-bd84-5069-834a-abf3230fb8f8
 BiochemNetABC,eb87d800-f8b7-11ed-3652-a7ab94e0ce49
+BiochemicalAlgorithms,9d651bdf-8945-47d1-9188-34e269d8f7b5
 BiodiversityObservationNetworks,a5b868d3-191d-4bba-a38a-ad28190da010
 Biofilm,210d8ceb-62d9-4e79-bbbd-4c6870635f0a
 BioformatsLoader,d1f74bce-bb60-11ea-2eff-3d75f256b4d8
@@ -1006,6 +1007,7 @@ BundlerIO,654bb1e1-1cb7-4447-b770-09a16346af94
 BurrowsWheelerAligner,231d3afb-1936-45f0-8367-36f73a875095
 BusinessDays,4f18b42c-503e-5345-9536-bb0f25fc7038
 BytePairEncoding,a4280ba5-8788-555a-8ca8-4a8c3d966a71
+Bytez,aeec0939-83cf-4f14-8c49-2dc7569399f2
 Bzip2_jll,6e34b625-4abd-537c-b88f-471c36dfa7a0
 C3D,de436766-0b2a-5f82-bc5b-1ccc5f599b83
 CALCEPH,1537fe66-4725-5aba-80f4-3a74792cecc1
@@ -2437,6 +2439,7 @@ DynamicPPL,366bfd00-2699-11ea-058f-f148b4cae6d8
 DynamicPipe,e2608387-6d34-4676-ab1d-f98b51cb1878
 DynamicPolynomials,7c1d4256-1411-5781-91ec-d7bc3513ac07
 DynamicQuantities,06fc5a27-2a28-4c7c-a15d-362465fb6821
+DynamicQuantumCircuits,b9e8302f-12f4-484c-8961-adc524bf1aaa
 DynamicScope,21d0a5ee-021b-4147-8d5c-120bff51c915
 DynamicSparseArrays,8086fd22-9a0c-46a5-a6c8-6e24676501fe
 DynamicSumTypes,5fcdbb90-de43-509e-b9a6-c4d43f29cf26
@@ -5261,6 +5264,7 @@ MAGMA_jll,7a7c8717-d270-5a90-94a0-6104d6fc12ee
 MAT,23992714-dd62-5051-b70f-ba57cb901cac
 MATDaemon,88578114-2e0c-4679-8b18-24dc4fa60bec
 MATFBCModels,bd2e13bf-42c0-49e1-9a9c-885d36daf88b
+MATFrost,406cae98-a0f7-4766-b83f-8510a556e0e7
 MATLAB,10e44e05-a98a-55b3-a45b-ba969058deb6
 MATLABDiffEq,e2752cbe-bcf4-5895-8727-84ebc14a76bd
 MAiNGO,19f71287-e05d-461c-be93-c347e7defd4d
@@ -10253,6 +10257,7 @@ WaveFD_jll,c8b78e2a-5255-5058-b631-96af8a7e9abf
 WaveOperators,8a8a931e-bb7e-411d-b5ad-3690531b5574
 WaveOpticsPropagation,c4c7a1f9-3adc-4a73-843a-d378b6c86436
 WavePropBase,91c5bd54-65f5-4719-ae3b-9579edfc4a0b
+WaveSpec,908d4cf6-a6c0-449c-92e4-852c8f288332
 Waveforms,cb13b1c6-351e-5134-b3ad-d6a530956a82
 WaveguideQED,c4555495-0e8d-488d-8e6a-965ecefe9055
 Wavelets,29a6e085-ba6d-5f35-a997-948ac2efa89a
