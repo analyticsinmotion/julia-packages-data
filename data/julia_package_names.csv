@@ -1121,6 +1121,8 @@ CStarSurfaces,42ef8a1c-faf6-41db-96e1-562c4470a736
 CStructures,c9817921-aac3-4215-a82e-d746b8a84f94
 CSyntax,ea656a56-6ca6-5dda-bba5-7b6963a5f74c
 CTBase,54762871-cc72-4466-b8e8-f6c8b58076cd
+CTDirect,790bbbee-bee9-49ee-8912-a9de031322d5
+CTFlows,1c39547c-7794-42f7-af83-d98194f657c2
 CUBScout,5bb2324b-4f8a-4227-8185-e835854b0a1e
 CUDA,052768ef-5323-5732-b1bb-66c8b64840ba
 CUDAKernels,72cfdca4-0801-4ab0-bf6a-d52aa10adc57
@@ -6437,6 +6439,7 @@ OSMMakie,76b6901f-8821-46bb-9129-841bc9cfe677
 OSMToolset,a1c25ae6-0f93-4b3a-bddf-c248cb99b9fa
 OSQP,ab2f91bb-94b4-55e3-9ba0-7f65df51de79
 OSQP_jll,9c4f68bf-6205-5545-a508-2878b064d984
+OTF2_jll,312b3e1d-731b-5709-b7dd-8df63785c7d0
 OVERT,07e67fc4-eb77-11eb-38c2-1307cbb1fbf4
 ObjConsNLPModels,a7a71e66-9295-4c47-9853-dcf21ad69f4a
 Objconv_jll,dfe201cf-525d-5101-8f66-6dc5e2f3b224
@@ -7369,6 +7372,7 @@ PrintTypesTersely,41b232b1-0de0-4a65-aab4-126884588aaf
 PriorityChannels,a2669504-c0c1-59c8-a2df-73186d0f9ddc
 PrivateFields,f4800d5f-c5aa-4b4c-a966-fa01325904ff
 Prjtrellis_jll,6a9aa77d-afea-5b9d-b858-ecc31eb61f73
+ProToPortal,f9496bd6-a3bb-4afc-927d-7268532ebfa9
 ProbNumDiffEq,bf3e78b0-7d74-48a5-b855-9609533b56a5
 ProbabilisticCircuits,2396afbe-23d7-11ea-1e05-f1aa98e17a44
 ProbabilisticEchoInversion,1f6a33d4-8dbe-4644-aee6-8f897f240d65
@@ -7626,6 +7630,7 @@ QuantitativeMRI,659767e3-31a7-4dc1-8563-6e03f484b231
 QuantitativeSusceptibilityMappingTGV,bd393529-335a-4aed-902f-5de61cc7ff49
 QuantizedArrays,a7db621c-8ce0-11e9-16a1-0f86dc86bd10
 QuantizedNoise,73f4e83f-5129-41ef-a7bf-22ba0654e29d
+QuantizedSystemSolver,1012ed6b-4eb4-43ec-b9f7-8dc4179649a3
 QuantumACES,57b1db7a-c9fc-4178-b66e-6b8364be52bb
 QuantumAlgebra,1b9008d5-2a9d-4901-8cfb-44bb87795b64
 QuantumAnnealing,4832667a-bab9-40a8-88f6-be9efce3ea89
@@ -8082,6 +8087,7 @@ RigorousInvariantMeasures,6103b61f-200f-420b-b397-2cbeef157920
 Rimu,c53c40cc-bd84-11e9-2cf4-a9fde2b9386e
 RingBuffers,f6d8bcc6-4e01-5431-93c4-9d6004abab90
 RingLists,286e9d63-9694-5540-9e3c-4e6708fa07b2
+RingStarProblems,bed4ad48-c7de-4cc5-bbc0-d98473e6c0f4
 RipQP,1e40b3f8-35eb-4cd8-8edd-3e515bb9de08
 Ripemd,92ef3814-971d-54d3-b0c1-59b1d13fee15
 Ripple,eb854143-3a4d-4e07-9345-f0e999910b68
@@ -9277,6 +9283,7 @@ SumProductNetworks,5f6e642e-680c-5a9c-a175-7c23ed4da89e
 SumTypes,8e1ec7a9-0e02-4297-b0fe-6433085c89f2
 SummarizedExperiments,b04b66ec-f619-4ebf-810e-cf5ccc546695
 SummaryTables,6ce4ecf0-73a7-4ce3-9fb4-80ebfe887b60
+SummationByParts,55d25451-638a-4804-8089-59924bcb4a40
 SummationByPartsOperators,9f78cca6-572e-554e-b819-917d2f1cf240
 SunAsAStar,1bd1a468-645d-4223-8813-48273918c0e0
 SunCalc,46d852a4-2fba-44bf-a445-ee38df28a2fc
