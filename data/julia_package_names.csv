@@ -3638,6 +3638,7 @@ GeophysicalModelGenerator,3700c31b-fa53-48a6-808a-ef22d5a84742
 Geophysics,74efdf00-b554-44e1-bd21-abb9281d951c
 GeostatInversion,acd30bff-8734-59b1-86d1-c3ef2efb63d6
 Geotherm,8d306a12-9b36-11e8-3bde-e7538e1f5b4a
+Geppetto,7616020f-7d25-45ac-879d-3d4711576aab
 GerryChain,e09a5c58-8952-4b57-bc02-56d902e45e6e
 Gershgorin,24e2f6b0-dc6e-48a5-a23f-118d347caa96
 GetGene,fa12694a-6dff-11e9-3f23-c5fa6b69506f
@@ -4712,6 +4713,7 @@ KissABC,9c9dad79-530a-4643-a18b-2704674d4108
 KissCaches,6ce64394-0ebc-4228-bd7e-d610b0d9a47e
 KissMCMC,79d62d8d-4dfd-5781-bc85-ce78e0ac132a
 KissSmoothing,23b0397c-cd08-4270-956a-157331f0528f
+Kissat,057e91dc-0d29-4c6c-955d-3db04e6fbc7f
 Kissat_jll,971a2a11-349f-5eb6-a4bf-bc548fa92b3a
 KitBase,86eed249-3a28-466f-8d3a-596821e1af9a
 KitFort,c7785b10-740d-4428-9d22-c85dcf833c60
@@ -6543,6 +6545,7 @@ OpenFHE,77ce9b8e-ecf5-45d1-bd8a-d31f384f2f95
 OpenFHE_jll,a2687184-f17b-54bc-b2bb-b849352af807
 OpenFOAM_com_jll,fd4958d8-5e5c-566c-bfe6-815b1420e10d
 OpenFOAM_jll,89340185-c6b7-517e-a5e0-0a450377a6e4
+OpenFST,18031d04-943d-420a-99da-58315a5a21aa
 OpenGLMathematics_jll,cc7be9be-d298-5888-8f50-b85d5f9d6d73
 OpenGeoSysUncertaintyQuantification,2b9e718a-2bbf-456a-af48-1d5a69fa48c6
 OpenIDConnect,195a77af-17c0-520f-ac58-3336c7ea8576
@@ -8132,6 +8135,7 @@ Rocketeer,5e8e706b-2fa9-4c18-afb5-213c5db89150
 RocksDB_jll,929051ad-fb88-5b66-b23d-0e6143a08ed8
 Roentgen,b0d14063-c48a-4081-83d5-5a5ab48cb495
 RoentgenPlots,12d18e13-cff8-4251-aa6b-8ee855ff1651
+RogueWaveInfiniteNLS,deca77a3-49e2-4fa7-ba04-95ade2bf29f1
 RollingDedispersion,de1a5888-936f-4c73-9525-49a60d2dc87e
 RollingFunctions,b0e4dd01-7b14-53d8-9b45-175a3e362653
 RollingTimeWindows,f505f7a3-54df-415c-985c-0663f6ab9b41
@@ -8537,6 +8541,7 @@ SequencerJ,348581b9-6e84-42e0-ac4e-fe9177c221e6
 Sequent,3406161f-1d61-4e4e-ab9c-e99e0c076c20
 SequentialMonteCarlo,8c675823-c5d5-50f8-acb2-29aff48dfc1d
 SequentialSamplingModels,0e71a2a6-2b30-4447-8742-d083a85e82d1
+SequentialZfpCompression,a090a8c4-0549-4ee2-a6c2-f599d7ae654c
 Serd,42699a24-3520-5f41-a549-6a478ed667c2
 Serd_jll,0d4e85e1-a563-5338-9f64-3e4dc8b67009
 Serde,db9b398d-9517-45f8-9a95-92af99003e0e
@@ -10492,6 +10497,7 @@ XyceWrapper_jll,11346573-4739-5234-a9de-0f0819ae11a7
 Xyce_jll,b812464d-768c-53cf-a694-ea0631d6fbf4
 YAAD,7f19f2dd-709d-51a0-a533-ded4a1c488a6
 YAActL,4c422213-1242-4325-9ff2-ab065d5354a7
+YAArguParser,bcbd4c87-030e-4da8-a7f0-f342a29caad3
 YAJL,bda616b3-ac6d-5293-8ee1-22b41414598d
 YAJL_jll,4bc5dff0-e00f-5dee-8f43-8e76277f4f7d
 YAML,ddb6d928-2868-570f-bddf-ab3f9cf99eb6
