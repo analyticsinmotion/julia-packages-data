@@ -120,6 +120,7 @@ AbstractStorage,14dbef02-f468-5f15-853e-5ec8dee7b899
 AbstractTensors,a8e43f4a-99b7-5565-8bf1-0165161caaea
 AbstractTrees,1520ce14-60c1-5f80-bbc7-55ef81b5835c
 AbstractWallets,5f0830d6-faab-11e9-0c1a-a5525342cc9a
+AbstractXsdTypes,1d4aff4b-e088-40cb-b713-ffe4caf1580b
 AbstractYieldMacros,71802903-5811-4e1f-b8e7-37bd234b68eb
 Absynth,198fb612-3ccb-11e9-3f7d-cd8c0d4e7bc8
 AccelInterfaces,0fc7c93f-c1ed-4c30-8474-1cec40f2ca52
@@ -570,6 +571,7 @@ BM3DDenoise,95fb3b36-088a-43fb-bb1b-b1f34fadbd7d
 BMesh,91fb467a-ecbd-11ec-0e64-1b9c3501232a
 BOLT_jll,a0afc4d6-34a3-5dc3-9aa8-ab4d2706eb2d
 BOMBs,9fa3cf97-96f5-4594-8ac7-dc80311f2c9e
+BOSS,15052f3f-a82a-4ca3-bbc4-f478a3bd1ae2
 BPFnative,b6338580-32ea-11e9-1791-33a79977d8c4
 BPGates,2c1a90cd-bec4-4415-ae35-245016909a8f
 BQCESubroutine,29e2bfda-5ba7-471c-9125-afac425f1f80
@@ -2646,6 +2648,7 @@ EnzymeTestUtils,12d8515a-0907-448a-8884-5fe00fdf1c5a
 Enzyme_jll,7cc45869-7501-5eee-bdea-0790c847d4ef
 EoSSuperancillaries,c1bf003f-4e47-49d9-bdfd-5a4051db3c04
 Ephemerides,6a9c3322-c8fe-4c26-8ad6-14a6f8acd2a0
+EphemerisSourcesBase,b8f1d712-e88d-4f2a-8498-e66ce688ee29
 Epicrop,ba61b42c-0a63-478a-861d-cedeca8bda8f
 EpithelialDynamics1D,ace8a2d7-7779-48a6-a8a4-cf6831a7e55b
 EpochFolding,d59dda0b-512f-44d1-9007-ebd7d520ecca
@@ -5503,6 +5506,7 @@ ManifestUtilities,8c44504f-1cba-4a08-a12a-8828b1581fee
 ManifoldBindings,6347b20d-ab3f-4582-b354-87a116902036
 ManifoldDiff,af67fdf4-a580-4b9f-bbec-742ef357defd
 ManifoldDiffEq,1143c485-9b25-4e23-a65f-701df382ec90
+ManifoldGroupUtils,1a3c8808-2843-4c72-af8e-d50ed15039bf
 ManifoldLearning,06eb3307-b2af-5a2a-abea-d33192699d32
 Manifolds,1cead3c2-87b3-11e9-0ccd-23c62b72b94e
 ManifoldsBase,3362f125-f0bb-47a3-aa74-596ffd7ef2fb
