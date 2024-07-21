@@ -2684,6 +2684,7 @@ EspyInsideFunction,d6b55740-5cb4-11ec-1cb9-93db9984c461
 Estapir,b3701df6-d9dc-468b-b8b3-43cf0e13d0c8
 EstimatingEquationsRegression,29055884-00e7-4984-94b8-2baec6a723d6
 Estrin,4642663a-9907-4130-9c18-0ebd857e5e35
+Eternity2Puzzles,7b8a590e-5f29-49cd-9d3d-d6aab43f7c56
 EuclidGraphs,6d00f6e2-8806-480a-ab08-d5e107e6bfed
 EulerAngles,754c60e7-4104-4b2f-84f1-902fd791391f
 EulerCharacteristic,2c1df2f5-4ab6-47a9-8339-2c9d55c0a52c
@@ -2945,6 +2946,7 @@ FastLevenbergMarquardt,7a0df574-e128-4d35-8cbd-3d84502bf7ce
 FastLevenshtein,f79185a3-a88d-4013-8848-f9f041a6cb9a
 FastLocalCorrelationCoefficients,a52d4850-34f0-40c4-bafd-3adb601f862f
 FastME_jll,c1840c37-842c-5077-b0bd-95b7c831fb27
+FastMPOContractions,f6e391d2-8ffa-4d7a-98cd-7e70024481ca
 FastMakie,ca994201-3d74-4fad-8816-f8bc5449c7c3
 FastMarching,7c16e180-9f04-11e8-24a6-e7c7f74617b0
 FastNoise2,2be676d8-266a-4754-93de-a79a9402b830
@@ -8046,6 +8048,7 @@ RequiredInterfaces,97f35ef4-7bc5-4ec1-a41a-dcc69c7308c6
 RequiredKeywords,fa45d1ab-b616-567a-ad77-664fd15b62b2
 Requires,ae029012-a4dd-5104-9daa-d747884805df
 Resample,318ae45f-2437-4276-8d16-19df99ea8507
+ResearchSoftwareMetadata,58378933-4625-47fa-851e-05ee27d397bd
 ReservoirComputing,7c2d2b1e-3dd4-11ea-355a-8f6a8116e294
 ResettableStacks,ae5879a3-cd67-5da8-be7f-38c6eb64a37b
 ResilienceDecisionMaking,e4e67209-a09d-4b87-93df-521fd564896e
@@ -8065,6 +8068,7 @@ RestrictedBoltzmannMachinesHDF5,d76020e8-6658-45fa-bb6d-0aaddbb4b5e5
 ResultTypes,08a2b407-ddc3-586a-afd6-c784ad1fffe2
 Results,a6f57dee-de39-11ea-01ba-9f0f7c89923c
 ResumableFunctions,c5292f4c-5179-55e1-98c5-05642aab7184
+Rete,3d46c559-9b3d-4aba-9ca1-48ff7627231e
 RetentionParameterEstimator,0afdae40-3141-486e-b874-33af99ac38b5
 Retriever,ed6da631-2423-57d3-8e4b-223f43b45c0c
 RetroCap,d77cfa7a-8890-4952-b292-ef424e435f4a
@@ -8586,6 +8590,7 @@ Shapley,855ca7ad-a6ef-4de2-9ca8-726fe2a39065
 SharedMATLABEngine,0164281e-5792-487a-ab63-8965341cf816
 SharedMemoryLocks,7bb51ff7-3c6a-41be-b642-de78e6952b49
 SharedMimeInfo_jll,5996c727-abd7-5f74-ae59-138d08b03cd1
+SharedPreferences,a5a92e11-d0bb-45ff-9fc3-c070cd77387a
 Shell,89279098-3423-5141-994b-b871f91dcb82
 ShellModel,af7a45b4-ac90-45dc-abec-c5da3d7f536c
 Shelly,d5c2ffab-b4e7-4ef6-aef9-6ba302e36d3e
