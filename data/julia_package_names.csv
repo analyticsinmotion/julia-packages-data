@@ -2650,6 +2650,7 @@ EnzymeTestUtils,12d8515a-0907-448a-8884-5fe00fdf1c5a
 Enzyme_jll,7cc45869-7501-5eee-bdea-0790c847d4ef
 EoSSuperancillaries,c1bf003f-4e47-49d9-bdfd-5a4051db3c04
 Ephemerides,6a9c3322-c8fe-4c26-8ad6-14a6f8acd2a0
+EphemerisSources,858900df-f7ae-402a-aa8c-3e4ef85aa271
 EphemerisSourcesBase,b8f1d712-e88d-4f2a-8498-e66ce688ee29
 Epicrop,ba61b42c-0a63-478a-861d-cedeca8bda8f
 EpithelialDynamics1D,ace8a2d7-7779-48a6-a8a4-cf6831a7e55b
@@ -3678,6 +3679,7 @@ GitREPL,86bc0129-654e-4751-9b96-b173469afcbd
 Git_jll,f8c6e375-362e-5223-8a59-34ff63f689eb
 GithubMarkdown,ecb7cac2-dae3-4a6f-a5f6-8274be99c6cb
 GittinsIndices,528e2044-b1ef-47f1-a8f4-693ac85d91f9
+GivEmXL,dcf505f5-2bf4-45cb-8fef-5f56a3c0e7fc
 GlibNetworking_jll,99fd4003-298c-58dc-a8c7-c8e9475755a1
 Glib_jll,7746bdde-850d-59dc-9ae8-88ece973131d
 Glibc_jll,452aa2e7-e185-58db-8ff9-d3c1fa4bc997
@@ -5511,6 +5513,7 @@ ManifestUtilities,8c44504f-1cba-4a08-a12a-8828b1581fee
 ManifoldBindings,6347b20d-ab3f-4582-b354-87a116902036
 ManifoldDiff,af67fdf4-a580-4b9f-bbec-742ef357defd
 ManifoldDiffEq,1143c485-9b25-4e23-a65f-701df382ec90
+ManifoldGroupTesting,3d9140b9-2699-468e-abff-6b59d65ee1fd
 ManifoldGroupUtils,1a3c8808-2843-4c72-af8e-d50ed15039bf
 ManifoldLearning,06eb3307-b2af-5a2a-abea-d33192699d32
 Manifolds,1cead3c2-87b3-11e9-0ccd-23c62b72b94e
@@ -8796,6 +8799,7 @@ SlidingDistancesBase,25b0cc0c-38e4-462f-a11d-8564868c562d
 SlimOptim,e4c7bc62-5b23-4522-a1b9-71c2be45f1df
 SlimPlotting,f6d04670-764e-495b-a720-91c3c9a588ff
 SlimeMoldOptim,24f4c3ab-28f3-4779-ba6e-75fbc5297b09
+SlottedRandomAccess,3cd48f03-9865-4243-ab2c-9fbbaa30d0d4
 Slugify,6a57dadc-0402-4d39-bf46-19b28e03609d
 SlurmAddAllocatedProcs,4b0af0f2-a3e4-42c8-afa2-c5af2ee86004
 SlurmClusterManager,c82cd089-7bf7-41d7-976b-6b5d413cbe0a
@@ -8813,6 +8817,7 @@ Smg2s,36e52ba8-0d61-4da2-bc57-6d85c7a279e7
 SmoQyDEAC,9c442b74-637f-4296-b43a-959aa316565a
 SmoQyDQMC,00e12d65-277b-447e-9c1d-a17422dd36f5
 SmoQyHankelCorrCleaner,0ea08462-a9b7-4dbd-b738-4196db0ff3ad
+SmoQySynthAC,fe3e30a4-de68-41ff-a057-b00c4bb8fcbc
 SmolyakApprox,6b19cf85-48de-5d9d-bfff-465abea14fab
 SmoothInterpolation,4412c578-8aba-4b04-8c8c-6ae573ccb792
 SmoothLivePlot,31434429-0e9f-4d24-947a-14cd43782323
@@ -10390,6 +10395,7 @@ Workflows,115008b9-7a42-4cba-af26-8bebb992e909
 WorldBankData,2ff30676-a39f-58b2-ad74-5d1012d57b9b
 WorldDynamics,34572acc-64b2-43ec-bac8-7b2a4baad13f
 WorldOceanAtlasTools,04f20302-f1b9-11e8-29d9-7d841cb0a64a
+WorldTimeAPI,f0211111-1d23-4195-bb37-87ab15ed0197
 WorldVocoder,7277111d-0ca7-4af3-9cd2-5d6e94f85dba
 Wrangling,9e19721c-8a1a-4e7b-ae00-562464868f98
 WrapIt,962878d8-9763-11ee-8c14-fbf60c98afae
