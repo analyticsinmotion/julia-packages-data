@@ -160,6 +160,7 @@ AdaptiveDistanceFields,a1957575-6125-5dba-8f92-417d2d1f4a46
 AdaptiveFilters,c4f366c8-f60d-49ea-b3e5-386989159d04
 AdaptiveKDTrees,68d1b5e8-2215-47d8-a76e-d1727e222b22
 AdaptiveMCMC,717c3277-546c-407d-8270-09a39a0919a0
+AdaptivePredicates,35492f91-a3bd-45ad-95db-fcad7dcfedb7
 AdaptiveRegularization,79adfba0-1eab-50d9-8528-0589417a2bfe
 AdaptiveRejectionSampling,c75e803d-635f-53bd-ab7d-544e482d8c75
 AdaptiveResonance,3d72adc0-63d3-4141-bf9b-84450dd0395b
@@ -425,6 +426,7 @@ AsterReader,cb1a753d-6b7b-52e3-9bfe-57d99d445c39
 AstroAngles,5c4adb95-c1fc-4c53-b4ea-2a94080c53d2
 AstroChemistry,7f947402-6d9b-49de-a6e7-82c660dce669
 AstroConstants,59872b50-2c0f-4331-84f7-44577a892ba3
+AstroForceModels,077569d7-e100-45f3-83e3-c646e23345bd
 AstroIC,5b3ca070-48c3-41ea-b469-89825dd01fde
 AstroIO,c85a633c-0c3f-44a2-bffe-7f9d0681b3e7
 AstroImages,fe3fc30c-9b16-11e9-1c73-17dabf39f4ad
@@ -6995,6 +6997,7 @@ PersistenceDiagramsBase,b1ad91c1-539c-4ace-90bd-ea06abc420fa
 PersistenceLandscapes,57fa2ca4-3800-4457-8ea1-3c54cd81cce3
 PersistentCollections,84dc0e8b-87a2-413f-9462-a65634c44495
 PersistentHomologyTransfer,8e4506b2-5217-11ea-25a3-13470ffdf3d0
+PersonParameters,ede86a6c-608d-4331-8790-0f4b0558141a
 Pesto,f3a6be2d-a68d-4ec3-9269-e9777039d639
 Petri,4259d249-1051-49fa-8328-3f8ab9391c33
 PetroBase,b72d3798-c150-44c4-b6d4-c983c975f217
@@ -10457,6 +10460,8 @@ Xerces_jll,637d83c4-b86a-5d90-b82d-5cf0573a8cfc
 Xfoil,19641d66-a62d-11e8-2441-8f57a969a9c4
 XicTools_jll,05e36573-c726-5118-99be-97aa17437f28
 Xicor,77194b58-d7c3-46dd-b530-0e56265cadd8
+XmlStructLoader,1bf1c528-19f0-4e43-b24f-ad91d84ffbf7
+XmlStructWriter,1f6e99ea-5afe-4254-a342-0998356893f5
 Xorg_compositeproto_jll,0af4abc2-9bda-511f-85a5-daebf69421ba
 Xorg_damageproto_jll,17eb5352-d50b-5fdc-b767-c749cd790e65
 Xorg_dri2proto_jll,66fc67db-0fc8-5d7f-9e27-c97754404be4
