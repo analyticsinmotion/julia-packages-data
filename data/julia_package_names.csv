@@ -141,6 +141,7 @@ ActinFriction,6c004e30-2d62-4b0c-a9dc-5f2a1b1306a8
 ActinRingsMC,9ef53a5f-0b2d-4acd-b164-e3995a0d2389
 ActionModels,320cf53b-cc3b-4b34-9a10-0ecb113566a3
 ActiveInference,688b0e7a-0122-4325-8669-5ff08899a59e
+ActiveSetPursuit,d86c1dc8-ba26-4c98-b330-3a8efc174d20
 ActorInterfaces,7e194583-e687-41a0-9133-1c22a29c80af
 ActorInterfacesTests,bf64f69c-3949-4e90-aa8d-30c3e4cdf50d
 Actors,18269d71-cc38-4e02-b8c8-1db30113a6dd
@@ -2630,6 +2631,7 @@ EnergyModelsGeography,3f775d88-a4da-46c4-a2cc-aa9f16db6708
 EnergyModelsInvestments,fca3f8eb-b383-437d-8e7b-aac76bb2004f
 EnergyModelsRenewableProducers,b007c34f-ba52-4995-ba37-fffe79fbde35
 EnergyStatistics,631263cc-0f82-11ea-1caf-35c9eae72d11
+EnforcedTypeSignatureCallables,e0a517c1-78b8-4e0b-8db9-584d87c611c9
 EngThermBase,dffbff30-506a-45ba-b474-e78cc8ad254e
 EnglishText,a9e4a3a0-3b51-51f6-8ce2-a898b8c5b12e
 EnhancedGJK,3d39a06a-b57e-5769-b499-4d62b23c243f
@@ -3392,6 +3394,7 @@ GNSSDecoder,bf6b1ec8-12ad-4501-972c-3dec0d675c2b
 GNSSReceiver,c84cffac-6943-4fe6-9449-f6d23817af8b
 GNSSSignals,52c80523-2a4e-5c38-8979-05588f836870
 GNUMake_jll,6c1a3432-6b93-5c89-98b5-f3caf0c092ba
+GNURX_jll,9241044f-33cc-57f0-b956-7e163f19a47c
 GNUTime_jll,e85744ed-4169-5045-9cd9-67bbfebc0d5b
 GOF3R,a79dbac3-5528-457e-b637-ec38aefb197a
 GPARs,86ee5ac1-314e-4b70-9100-2b12109404ad
@@ -7544,6 +7547,7 @@ QDates,25f12f5a-a783-5f9a-af99-e55629686113
 QEDbase,10e22c08-3ccb-4172-bfcf-7d7aa3d04d93
 QEDcore,35dc0263-cb5f-4c33-a114-1d7f54ab753e
 QEDprocesses,46de9c38-1bb3-4547-a1ec-da24d767fdad
+QGIS,f157c2ba-572d-4438-a710-d9db9a9b13c0
 QHull,a8468747-bd6f-53ef-9e5c-744dbc5c59e7
 QMCGenerators,fcae8fc2-2969-4f4b-b6c9-a95746d81969
 QMDDocTools,c50e25eb-ade4-4c96-a757-2a1fd62cbd8c
@@ -9545,6 +9549,7 @@ Telegram,1da6f4ae-116c-4c38-8ee9-19974ff3601d
 TelegramClient,0c50e747-7910-4d75-be1d-ae33d9528add
 Telegrambot,accb34f3-11fe-547f-b953-62fd05adad84
 TelegraphNoise,843dd301-5ab4-451e-a248-fc72ff48def4
+TelemetryAnalysis,d7a29a4d-ab51-489b-bb94-63d3a201890b
 Telescope,5cda3ad9-a1fd-4c59-8c0c-bd6100725b84
 Telescope_jll,ae456e04-aaf2-55ce-80c6-09193969412e
 TempestModel_jll,2962c967-6e2c-5a30-9da7-7ff16ffb0b2a
@@ -10518,6 +10523,7 @@ Xorg_xproto_jll,46797783-dccc-5433-be59-056c4bde8513
 Xorg_xtrans_jll,c5fb5394-a638-5e4d-96e5-b29de1b5cf10
 Xpress,9e70acf3-d6c9-5be6-b5bd-4e2c73e3e054
 Xpress_jll,308bddfa-7f95-4fa6-a557-f2c7addc1869
+XsdToStruct,3ae7ce5f-3138-4ab9-addd-ceedf56009da
 Xsum,1fd64df0-a4d2-11e9-360d-2f03868f4cf5
 Xtals,ede5f01d-793e-4c47-9885-c447d1f18d6d
 XtalsPyTools,eeb819d4-c189-4e83-a288-887db76b1875
