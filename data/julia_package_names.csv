@@ -3388,6 +3388,7 @@ GMT_jll,b68b8c3f-ed99-5bef-9675-4739d9426b26
 GModelFit,ac42e6ba-c0bf-4fcf-827d-deea44b16255
 GModelFitViewer,5d93b50e-5cc7-4feb-a740-ec85257caa01
 GNCTestServer,301134cd-0795-4287-8b73-e567f40fdffd
+GNNGraphs,aed8fd31-079b-4b5a-b342-a13352159b8c
 GNNlib,a6a84749-d869-43f8-aacc-be26a1996e48
 GNRProdEst,c5ad59e2-017c-4e02-9cbc-8c6117b2c1fd
 GNSSDecoder,bf6b1ec8-12ad-4501-972c-3dec0d675c2b
@@ -7216,6 +7217,7 @@ PointSpreadFunctions,e8810a93-244e-46c5-8da3-35c5dd956001
 PointerArithmetic,c94a8726-515c-4ee5-9c02-6a0d0dc456e9
 PointerStructs,0ac99047-f20c-4964-adcf-e848779dacfc
 PointwiseKDEs,8083989d-5216-488c-bbe7-b79abd7e3507
+PoissonDiskSampling,d57be0ce-7c7e-4f32-9a47-3bfb603400bb
 PoissonRandom,e409e4f3-bfea-5376-8464-e040bb5c01ab
 PoissonSolvers,8f9e8900-be71-40de-a258-603fdc860a2d
 PokerHandEvaluator,18ed25b1-892a-4a3b-b8fc-1036dc9a6a89
