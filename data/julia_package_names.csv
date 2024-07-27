@@ -929,6 +929,7 @@ BokehBlink,c7d4f63d-6dfa-4fdc-9408-5961e0889e3a
 BokehServer,b7fe046f-2d24-4718-8c03-fdde6cae2a8c
 Boltz,4544d5e4-abc5-4dea-817f-29e4c205d9c8
 Boltzmann,00bb91fb-75dd-5f5f-97ed-3cee78a05366
+BoltzmannCollisionIntegral,20179301-8dfd-43f5-a10b-08fddd2c788a
 BoltzmannMachines,4f8fbe5d-35a6-506b-99b3-b5866748635b
 BoltzmannMachinesPlots,e853e177-4ae5-507f-af00-4766098699e4
 BondGraphs,d1a4f103-cd9c-465b-aef3-7f12ef11bc98
@@ -2938,6 +2939,7 @@ FastFloat16s,ecdfd59a-7c14-409c-ab7a-3704f8e92dd6
 FastGaussQuadrature,442a2c76-b920-505d-bb47-c5924d526838
 FastGaussianProcesses,0daff098-cd89-4feb-a73f-3cd5564178fe
 FastGeoProjections,981663e8-0c94-46dd-b2cf-efc8480900ec
+FastGradientProjection,db76afe2-0dac-4a3c-a8c7-f541811e5437
 FastGraphletTransform,8757296b-2078-477d-a41d-7d2812277c39
 FastGroupBy,e6aeac8e-85c6-520e-8612-effc59bc0f33
 FastHadamardStructuredTransforms_jll,3b5334fc-ad2e-52bb-943a-614153fa1c0c
@@ -4711,6 +4713,7 @@ KeyedDistributions,2576fb08-064d-4cab-b15d-8dda7fcb9a6d
 KeyedFrames,ddd84059-9b64-5d1b-85eb-da48df743e32
 Keyring,50ea2a6d-d012-47d2-ba52-47aa164fcf80
 Keyutils_jll,c2be6516-4eb7-57db-a4a4-4d4eb801fdbe
+KeywordArgumentExtraction,45533465-3150-2073-4772-41774b207255
 KeywordCalls,4d827475-d3e4-43d6-abe3-9688362ede9f
 KeywordDispatch,5888135b-5456-5c80-a1b6-c91ef8180460
 KeywordSearch,f977ba8c-7144-47e8-b06b-e3f658952959
@@ -6003,6 +6006,7 @@ MuJoCo_jll,32af7c3b-80ec-5621-8194-2f6cb2280831
 MuTuner,206a444d-62d4-4bef-89ca-f2a4a27f2209
 Mueller,dfba0342-83e6-42c7-a796-fcf383ab214c
 MuladdMacro,46d2c3a1-f734-5fdb-9937-b9b9aeba4221
+MullerPlot,77e78b5d-bb19-49bf-9459-ae694a76fbc0
 MultiAgentPOMDPs,9ac5fd70-7902-42e7-9745-ff446b44e779
 MultiAgentPathFinding,1f5aa91a-953b-4f4c-bed6-d21f3af349fa
 MultiAgentSysAdmin,a4538d8c-5052-4f30-aec9-286910cf67a1
@@ -7999,6 +8003,7 @@ RegistryInstances,2792f1a3-b283-48e8-9a74-f99dce5104f3
 RegistryTools,d1eb7eb1-105f-429d-abf5-b0f65cb9e2c4
 RegressionAndOtherStories,21324389-b050-441a-ba7b-9a837781bda0
 RegressionDiscontinuity,5f6169ef-b865-4e89-817c-551391b0abce
+RegressionDynamicCausalModeling,4fb452e6-e726-4794-90dc-adda47b23488
 RegressionFormulae,545c379f-4ec2-4339-9aea-38f2fb6a8ba2
 RegressionTables,d519eb52-b820-54da-95a6-98e1306fdade
 RegressionTests,2cca1867-674a-4323-b559-fc77c0bbdb31
@@ -11008,6 +11013,7 @@ peco_jll,b89f85f3-45f8-5ea8-8223-9dfa39faf294
 picotool_jll,266ab589-d57d-568d-907f-a1cb33b240d5
 pigpiod_if2_jll,50515f5d-e8ff-5b26-ab2b-0473a017b18c
 pigz_jll,1bc43ea1-30af-5bc8-a9d4-c018457e6e3e
+pocl_jll,627d6b7a-bbe6-5189-83e7-98cc0a5aeadd
 poly2tri_jll,0bbe0808-d418-57ff-bb48-dc0bf000ef4b
 polyfill_glibc_jll,ae913f53-5f59-5f3b-81b1-950d2d33782a
 polyhedral_jll,153a2890-ff2e-5a69-ae07-3a309ed8aed3
