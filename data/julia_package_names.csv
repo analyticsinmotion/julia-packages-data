@@ -5362,6 +5362,7 @@ MKL_Headers_jll,b2f2f022-7a59-54f4-945e-e9b78c3fd545
 MKL_jll,856f044c-d86e-5d09-b602-aeab76dc8ba7
 MLBStatsAPI,42ebdba7-407d-44c0-9113-87bc03bc22d1
 MLBase,f0e99cf1-93fa-52ec-9ecc-5026115318e0
+MLDataDevices,7e8f7934-dd98-4c1a-8fe8-92b47a384d40
 MLDataPattern,9920b226-0b2a-5f5f-9153-9aa70a013f8b
 MLDataUtils,cc2ba9b6-d476-5e6d-8eaf-a92d5412d41d
 MLDatasets,eb30cadb-4394-5ae3-aed4-317e484a6458
@@ -6646,6 +6647,7 @@ OptimalPortfolios,f8c24b8e-07c0-4fa7-b4d4-fbfdbae127a5
 OptimalSortingNetworks,cae6f51d-d477-4615-8395-e10abcea54c6
 OptimalTransmissionRouting,1558b732-e26e-4642-a1e1-5f71193b222b
 OptimalTransport,7e02d93a-ae51-4f58-b602-d97af76e3b33
+OptimalTransportNetworks,e2b46e68-897f-4e4e-ba36-a93c9789fd96
 Optimisers,3bd65402-5787-11e9-1adc-39752487f4e2
 Optimization,7f7a1694-90dd-40f0-9382-eb1efda571ba
 OptimizationAlgorithms,5eef6961-c6df-46a7-ba44-0f01c6045f8f
@@ -7747,6 +7749,7 @@ QuickHeaps,30b38841-0f52-47f8-a5f8-18d5d4064379
 QuickMenus,2230646a-bae9-43e2-a071-fff97e6a4342
 QuickPOMDPs,8af83fb2-a731-493c-9049-9e19dbce6165
 QuickTypes,ae2dfa86-617c-530c-b392-ef20fdad97bb
+Quickhull,baca2653-9c88-49d2-a488-12dbf25fc4fb
 Quiqbox,7cb8c394-fae1-4ab9-92f2-30189d7746cd
 QuizQuestions,612c44de-1021-4a21-84fb-7261cf5eb2d4
 QuranTree,f647ab69-6f05-4d64-883f-59d0fbe08d2b
@@ -7993,6 +7996,7 @@ ReferenceImplementations,e4855c6d-60ae-49c0-a936-05b0c4d57984
 ReferenceTests,324d217c-45ce-50fc-942e-d289b448e8cf
 Referenceables,42d2dcc6-99eb-4e98-b66c-637b7d73030e
 RefractiveIndex,97a43521-7681-4ec2-835f-5b8ab7e7617e
+Reg1dmt,18868e41-8ff6-40da-b6bb-8f92e709e4d6
 RegNets,b717d2d3-19c6-5ced-b36a-114a71eec478
 RegionTrees,dee08c22-ab7f-5625-9660-a9af2021b33f
 Regions,4e3eb3bd-530d-473f-987b-017f501eadde
