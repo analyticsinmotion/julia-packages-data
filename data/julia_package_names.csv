@@ -9571,6 +9571,7 @@ TelegraphNoise,843dd301-5ab4-451e-a248-fc72ff48def4
 TelemetryAnalysis,d7a29a4d-ab51-489b-bb94-63d3a201890b
 Telescope,5cda3ad9-a1fd-4c59-8c0c-bd6100725b84
 Telescope_jll,ae456e04-aaf2-55ce-80c6-09193969412e
+TemperateOptimalPowerFlow,f1e0c8a6-be03-497e-b6ff-c3d2eb1ec690
 TempestModel_jll,2962c967-6e2c-5a30-9da7-7ff16ffb0b2a
 TempestRemap_jll,8573a8c5-1df0-515e-a024-abad257ee284
 TempestSDR,a2deda47-164f-4e4d-810f-425bbd57e6e7
@@ -10094,6 +10095,7 @@ UnitfulColors,4357fcce-f6e0-4f4f-a042-c32686ab45d7
 UnitfulCoordinateSystems,09812cc9-162f-4ef5-b000-81142b1d39ff
 UnitfulCosmo,961331e1-62bb-46d9-b9e3-f058129f1391
 UnitfulCurrency,f5cc5b76-f814-11e9-291c-a1ea2b8c31c6
+UnitfulData,479269fd-87c4-43d6-a395-02aad47d928b
 UnitfulEquivalences,da9c4bc3-91c8-4f02-8a40-6b990d2a7e0c
 UnitfulIntegration,6043864f-155a-5464-b5be-64e090a46784
 UnitfulLatexify,45397f5d-5981-4c77-b2b3-fc36d6e9b728
