@@ -2426,6 +2426,7 @@ DyadicKDE,db2c278d-83f0-4638-b51a-78d51d6a70fe
 DydxV3,81fc79e4-7aed-40c1-9951-444e465e3245
 Dyn3d,d8047ffa-7f43-11e9-2204-adfbb6974ec5
 DynACof,d4e20bd3-38f5-51f3-b39d-16897e8b4820
+DynOptInterface,6c38235a-427b-4736-80fa-cf75909744ec
 DynamO_jll,0ddfd873-8cd9-589f-a512-f0bf24c94f73
 DynamicAxisWarping,aaaaaaaa-4a10-5553-b683-e707b00e83ce
 DynamicBounds,734901b1-590a-5f47-85e0-724a0ec3af09
@@ -3801,6 +3802,7 @@ GrayCoding,189a535d-5fc2-4299-8577-09928eef1b75
 GreedyAlign,e9a496d4-a0ac-4054-a7cc-e43b6064761e
 GreedyKernelMethods,49efddeb-3919-4030-a3a0-2d857547a82c
 GreekBetaCode,9dc342f4-d0cc-4e90-9103-06b4474f2d96
+GreekScientificOrthography,049fe880-56b1-44e6-a5bf-3b4decaa7e2d
 GreekSyntax,5497687e-e4d1-4cb6-b14f-a6a808518ccd
 GreenFlux,ccad5352-7643-4eb2-b711-e9c298e87bf0
 GreenFunc,9efc7ea6-d529-4241-ab29-dcf68b94af7c
@@ -8050,6 +8052,7 @@ RemoteFiles,cbe49d4c-5af1-5b60-bb70-0a60aa018e1b
 RemoteHPC,c4f2a1c4-7655-40d8-82ee-c6ae0a8b7409
 RemoteREPL,1bd9f7bb-701c-4338-bec7-ac987af7c555
 RemoteS,26020ff4-e92a-488e-a723-09c28e89e04a
+RemoteSCPI,ebbd5c0e-1502-4798-b66a-f9edf7b39368
 RemoteSemaphores,bcdc7952-6eb0-55db-bf57-82111c48552b
 RemoteSensingToolbox,c88070b3-ddf6-46c7-b699-196056389566
 RemoveLFS,a262596c-dd27-4d54-b019-3619024addbd
