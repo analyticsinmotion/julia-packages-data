@@ -421,6 +421,7 @@ AssigningSecondaryStructure,8ed43e74-60fb-4e11-99b9-91deed37aef7
 Assignment,30268ba6-d258-4c5c-9bcf-b5809bbf81b5
 Assimp,079381af-6941-5802-8ad5-fb13e7f1c93a
 AssociatedLegendrePolynomials,2119f1ac-fb78-50f5-8cc0-dda848ebdb19
+Associations,614afb3a-e278-4863-8805-9959372b9ec2
 AssociativeArrays,9477f2fd-3d51-5b6a-a127-ca3a070ddf94
 AssociativeWindowAggregation,444271a7-5434-4a02-b82b-0e30a9223c60
 AsterReader,cb1a753d-6b7b-52e3-9bfe-57d99d445c39
@@ -1520,6 +1521,7 @@ CodeTransformation,3c9fd3ee-a92c-11e9-08dd-a9434b97651a
 CodecBGZF,d9d91ef6-315d-495b-8131-db2ca24339d6
 CodecBase,6c391c72-fb7b-5838-ba82-7cfb1bcfecbf
 CodecBzip2,523fee87-0ab8-5b00-afb7-3ecf72e48cfd
+CodecInflate64,6309b1aa-fc58-479c-8956-599a07234577
 CodecLz4,5ba52731-8f18-5e0d-9241-30f10d1ec561
 CodecXz,ba30903b-d9e8-5048-a5ec-d1f5b0d4b47b
 CodecZlib,944b1d66-785c-5afd-91f1-9de20f533193
@@ -8566,6 +8568,7 @@ Sensemakr,b1eed063-bea0-4e2a-bcc5-a02b2b0a7b77
 SensitivityAnalysis,7df13313-679e-414d-9f6c-66fa593437bc
 SensitivityRankCondition,713b81e2-6747-41cf-8c92-2c171e94ab1f
 SentencePiece_jll,0cc836cc-86cb-5b0e-b290-caf6c31794d8
+Sentencize,7dcf698f-69e3-471c-af7e-711815da818c
 SententialDecisionDiagrams,7fb4d062-ec23-11e9-0b7c-0d74514dd3ea
 Sentinel,b367cf14-19c4-4862-849d-7c6f64208072
 SentinelArrays,91c51154-3ec4-41a3-a24f-3f23e20d615c
