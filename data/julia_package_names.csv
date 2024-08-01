@@ -2115,6 +2115,7 @@ DeferredFutures,d2772ebe-fee8-5277-ba6e-705bb5633645
 DefineSingletons,244e2a9f-e319-4986-a169-4d1fe445cd52
 DeformableBodies,e53d2b94-6236-11e9-2d7b-535d79ecd3d3
 DegreesOfFreedom,6bcd71f4-f95e-48eb-8a7d-f882b90fc629
+DejaVu,13e42f18-9cd8-4aec-8cff-075110cadf7e
 Delaunator,466f8f70-d5e3-4806-ac0b-a54b75a91218
 Delaunay,07eb4e4e-0c6d-46ef-bc4e-83d5e5d860a9
 DelaunayTriangulation,927a84f5-c5f4-47a5-9785-b46e178433df
@@ -5929,6 +5930,7 @@ ModuleElts,4249f315-58d4-4c46-b324-3577fc7dfca0
 ModuleInfo,3c3ff5e7-c68c-4a09-80d1-9526a1e9878a
 ModuleInterfaceTools,5cb8414e-7aab-5a03-a681-351269c074bf
 ModuleLogging,247fc82d-8a48-4c99-91f9-777a8789624c
+ModuleMixins,2b5f0a26-aae2-5c4c-af55-bc6d20297121
 Modulo2,7e4462cd-8001-4c22-b109-db8e4e581e9c
 MofonBase,f86311af-d4d5-4877-8d32-564a46a659f1
 MoistAir,6964bd62-30e7-41c5-9f4a-5b4eb733a2a8
@@ -7666,6 +7668,7 @@ QuantReg,a0becc08-653f-40d2-91e7-721373d1053f
 QuantReg_jll,6615ef03-4b82-5800-9c41-81d3e66fba0f
 Quante,62e6779b-560f-53ed-829f-06ad43eb5710
 Quantica,ae5ea0c6-3f5e-46a2-bc28-a7c4c7a4773c
+Quantics,87f76fb3-a40a-40c9-a63c-29fcfe7b7547
 QuanticsGrids,634c7f73-3e90-4749-a1bd-001b8efc642d
 QuanticsTCI,b11687fd-3a1c-4c41-97d0-998ab401d50e
 Quantikz,b0d11df0-eea3-4d79-b4a5-421488cbf74b
@@ -9661,6 +9664,7 @@ TestSetExtensions,98d24dd4-01ad-11ea-1b02-c9a08f80db04
 TestTools,a8cb73c1-6ac8-4a70-8c57-09fe1bc7c59b
 TestU01_jll,1f073b57-2743-565b-a723-478df9911235
 TestingUtilities,40452611-1178-4e48-bdfc-3af4bebad9c9
+TestsForCodecPackages,c2e61002-3542-480d-8b3c-5f05cc4f8554
 TetGen,c5d3f3f7-f850-59f6-8a2e-ffc6dc1317ea
 TetGen_jll,b47fdcd6-d2c1-58e9-bbba-c1cee8d8c179
 Tetris,d02b474b-c6a0-45b1-beee-9a2049fa00e6
