@@ -7400,6 +7400,7 @@ PressureDrop,b7afff70-4bfb-11e9-240b-a35f420ae9bd
 PressureFieldContact,1a2887a7-38b6-5ebe-8978-3a02049ebf6f
 PressureSensitiveMats,f7c67009-f2f2-4fe9-9b95-d54958a44a7b
 Pretend,8ad1c615-040c-41b0-a18f-ae9e9fd09b5b
+PrettyChairmarks,aafa11c5-44f9-44a1-b829-427e6ce1ffc2
 PrettyDoc,084d9603-a20b-479c-b400-a9298a0cdd15
 PrettyNumbers,d1bdb62b-d559-469f-b147-fd8a93502a34
 PrettyPrint,8162dcfd-2161-5ef2-ae6c-7681170c5f98
@@ -8320,6 +8321,7 @@ SLATEC_jll,2967fdeb-73c1-5946-ae15-4ce8b52d4346
 SLATE_jll,cb01ff19-587c-516c-bcf9-532d49da298d
 SLEEF,3e6341c9-01f6-5312-b33f-f8894a2e817a
 SLEEFInline,57f7a880-23e6-11ea-02cb-89910ec42bdd
+SLEEFMath,5f1e1ae2-5dfd-4ed6-a67a-be13e387a3fa
 SLEEFPirates,476501e8-09a2-5ece-8869-fb82de89a1fa
 SLEEF_jll,63e82ce6-3d80-5af4-a84c-484b71ab98bb
 SLICOTMath,9d1a7225-0961-444f-a223-3a3409dec5dd
