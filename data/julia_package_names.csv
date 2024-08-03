@@ -141,6 +141,7 @@ ActinFriction,6c004e30-2d62-4b0c-a9dc-5f2a1b1306a8
 ActinRingsMC,9ef53a5f-0b2d-4acd-b164-e3995a0d2389
 ActionModels,320cf53b-cc3b-4b34-9a10-0ecb113566a3
 ActiveInference,688b0e7a-0122-4325-8669-5ff08899a59e
+ActiveMeshStabilization,fefe8353-c905-4f2f-8060-882b8f079c8e
 ActiveSetPursuit,d86c1dc8-ba26-4c98-b330-3a8efc174d20
 ActorInterfaces,7e194583-e687-41a0-9133-1c22a29c80af
 ActorInterfacesTests,bf64f69c-3949-4e90-aa8d-30c3e4cdf50d
@@ -474,6 +475,7 @@ AtomsIOPython,9e4c859b-2281-48ef-8059-f50fe53c37b0
 AtomsToolbox,f386ec8f-7408-45ea-aa1c-e80969af901e
 AtomsView,ee286e10-dd2d-4ff2-afcb-0a3cd50c8041
 Atomsk_jll,eddcc1f7-2d42-55ad-abc0-463b4ff6875a
+Attenuations,0ff343a0-c53e-11e9-1400-85e187be3184
 AtticGreek,330c8319-f7ed-461a-8c52-cee5da4c0892
 Attr_jll,1fd713ca-387f-5abc-8002-d8b8b1623b73
 Attractors,f3fd9213-ca85-4dba-9dfd-7fc91308fec7
@@ -1764,6 +1766,7 @@ CoolProp,e084ae63-2819-5025-826e-f8e611a84251
 CoolProp_jll,3351c21f-4feb-5f29-afb9-f4fcb0e27549
 CooperativeGames,4bb2c6fa-c716-443c-bd78-f2a2f3c4e880
 CoordRefSystems,b46f11dc-f210-4604-bfba-323c1ec968cb
+CoordinateConventions,7204ce3a-f536-43d2-be4a-fbed74e90d86
 CoordinateConverterGK,d77a50d3-17ea-48e4-bb1c-35f220bfae06
 CoordinateDescent,c00ed354-b9be-54b8-8a23-c5ac771bc43a
 CoordinateTransformations,150eb455-5306-5404-9cee-2592286d6298
@@ -2654,6 +2657,7 @@ EntropyHub,3938faea-3bfa-4bc3-8092-0c6746ff9af1
 Entwine_jll,9290252f-3c82-5b4b-93a0-1879861c8c5d
 EnumX,4e289a0a-7415-4d19-859d-a7e5c4648b56
 EnvironmentMigrators,e51d7f76-d3fb-4251-851d-1e49b8315b3e
+EnvironmentalTransport,9e73f4c4-d7e8-4c78-8a11-cd2430746631
 Enzyme,7da242da-08ed-463a-9acd-ee780be4f1d9
 EnzymeCore,f151be2c-9106-41f4-ab19-57ee4f262869
 EnzymeTestUtils,12d8515a-0907-448a-8884-5fe00fdf1c5a
@@ -8788,6 +8792,7 @@ SimulatedNeuralMoments,43b7c8c0-5622-45b8-90a3-338fc50d2232
 SimulationBasedInference,78927d98-f421-490e-8789-96b006983a5c
 SimulationLogger,0f3b6f24-f534-4b11-a614-00dcf4ece10c
 SimulationLogs,e3c6736c-93d9-479d-93f3-96ff5e8836d5
+SimulationParameters,32ab26d3-25d6-405d-a295-367385e16093
 SimulinkSDIImporter,71d5d903-a9d4-4e03-9846-ef3fdeefd64d
 Sinaica,8a925c4c-1422-4188-830c-6473f2312671
 SineFit,962e16cf-eed8-4072-a8f8-1d4280395610
@@ -9903,6 +9908,7 @@ TreeTools,62f0eae3-8c0e-4032-a621-7756092209e5
 TreeView,39424ebd-4cf3-5550-a685-96706a953f40
 TreeViewWidget,f0b0d551-e269-4cb7-becc-9ac892c06888
 TreeViews,a2a6695c-b41b-5b7d-aed9-dbfdeacea5d7
+TreeWidthSolver,7d267fc5-9ace-409f-a54c-cd2374872a55
 Treebanks,64f30800-8bfd-42c1-8d67-a0fe2fc2f5f5
 TreesHeaps,11f3e0e9-035a-4796-9f15-e39fd2303e8e
 TreeverseAlgorithm,e1c63c57-2fea-45bf-a8bf-df3ea6afb545
