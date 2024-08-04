@@ -628,6 +628,7 @@ Baobzi_jll,3808fb15-9b43-5646-9112-da6e39400273
 BarBay,3e4a4fdd-3c42-44bf-ab95-e818c96fb7a6
 BaremetalPi,3a90a9a9-52f9-452b-94bd-193d585bd84f
 BarkerMCMC,be4af45d-7920-418d-be3f-405e75a2263c
+BarnesDoubleGamma,8c4ec0a7-3a81-41b6-9d5f-01f75984e8d3
 BarnsleyFern,a1669a0d-1a4b-4995-a903-dbadec85cda1
 BartIO,8b90e6a2-6e4d-4906-89ae-b5f72ca4a65b
 BaryRational,91aaffc3-5777-4842-85b7-5d3d5d6a3494
@@ -1361,6 +1362,7 @@ Chevie,367f69f0-ca63-11e8-2372-438b29340c1b
 ChipSort,06416c39-db7e-5258-b068-33480f0cdbbc
 Chipmunk_jll,d4d167ca-650b-5bdd-911d-0fc9b8119a40
 ChirpSignal,f60141a0-4cd3-11eb-3573-695a6f1942a1
+Chmy,33a72cf0-4690-46d7-b987-06506c2248b9
 ChooseOptimizer,858a232f-1959-5553-8cfc-91e1fd5304e2
 ChoosyDataLoggers,edd8e46e-3ca5-477d-bc67-b483295d3b14
 Chordal,c40dd8eb-886b-47e3-91a7-7e6ae22bd2fd
@@ -3305,6 +3307,7 @@ Functors,d9f16b24-f501-4c13-a1f2-28368ffc5196
 FundamentalsNumericalComputation,e48b7b93-d2a8-4750-aba7-f743ccd5256c
 FunnyORM,6f72f9d7-811b-4da6-baae-56a3a3823ad6
 FuseApi,67451fab-d9b0-4aa1-a584-3691f4a673db
+FuseExchangeProtocol,43dcb517-7681-482a-b959-351932bd0b36
 FusibleBroadcasts,1183179b-6fd2-4027-9f34-791c8040edc0
 FusionSystems,f78baae1-78cd-4069-8705-3f3564aaf290
 Futbolista,d5a28882-127d-4cd3-bca1-824ce50d98df
@@ -4145,6 +4148,7 @@ IJuliaBell,3da9888e-9443-4cad-add1-2f3772a855ed
 IJuliaTimeMachine,c6113210-d3d9-4301-930e-a2f8bca719bb
 ILUZero,88f59080-6952-5380-9ea5-54057fb9a43f
 ILog2,2cd5bd5f-40a1-5050-9e10-fc8cdb6109f5
+IMASdd,c5a45a97-b3f9-491c-b9a7-aa88c3bc0067
 IMFData,ade8a587-c525-5308-a3d4-dc5d47143b63
 INMET,1fb021e9-9ab7-46c1-8a23-23f3c2783cf7
 IOAPI_jll,21284ac2-4ede-594e-ad4f-4494079aca48
@@ -5806,6 +5810,7 @@ MilagroCrypto,77965072-693f-46ac-993e-134b582e13c3
 Miletus,3ae66bd7-4256-56cd-8b87-f856965b5ccf
 Mill,1d0525e4-8992-11e8-313c-e310e1f6ddea
 Millboard,39ec1447-df44-5f4c-beaa-866f30b4d3b2
+MillerExtendedHarmonic,c82744c2-dc08-461a-8c37-87ab04d0f9b8
 MillerIndices,f41335bc-9121-4844-b5af-1d5721981e9a
 Mimi,e4e893b0-ee5e-52ea-8111-44b3bdec128c
 MimiBRICK,91f4afc7-28cd-4627-b11a-a83dc9ff1a58
@@ -6907,6 +6912,7 @@ ParameterizedNotebooks,efe69fdf-5f6b-4971-99df-296990405262
 ParameterizedQuantumControl,409be4c9-afa4-4246-894e-472b92a1ed06
 Parameters,d96e819e-fc66-5662-9728-84c9c7592b0a
 ParametricAirfoils,4c14af30-da9f-11e9-34cd-f9f0aee9fd2c
+ParametricBodies,06905c2e-4b4a-4765-8bb9-c6b6b2b99b1d
 ParametricDFNOs,3b406863-5cae-494d-8b19-779e643ae09e
 ParametricLP,8460d8c8-5267-486f-aef2-9a24dd859eab
 ParametricMCPs,9b992ff8-05bb-4ea1-b9d2-5ef72d82f7ad
@@ -7641,6 +7647,7 @@ Qt_jll,ede63266-ebff-546c-83e0-1c6fb6d0efc8
 QuDiffEq,c02438fe-7edc-11e9-0a49-b5c5aafabe04
 QuEST,2f8c4c1a-2c62-410c-b829-98d6ce53c0c2
 QuEST_jll,4a967bbd-a16f-537d-8e95-e68e89d08900
+QuackIO,7b8617ff-c43a-4c37-a28b-ad5a1791f8ae
 QuadEig,c91c7b58-0d0b-4d20-b830-a38cac847d15
 QuadGG,c505f82d-ff9d-4c3e-8ff7-8eb8c484653e
 QuadGK,1fd47b50-473d-5c70-9696-f719f8f3bcdc
