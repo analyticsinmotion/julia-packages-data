@@ -2255,6 +2255,7 @@ DiffusionMap,809424d5-4f20-4f0f-8853-2ca5e8a82a88
 DiffusiveShockAccelerationModels,66fc4661-a670-4cc2-b407-bfd81989e880
 Difmap,697f6f98-b792-4bca-85fe-71b3d053de65
 DigilentWaveForms,90c6a8ac-129f-4ce1-be23-9dee1ca31d3e
+DigitalAssetExchangeFormatIO,43182933-f65b-495a-9e05-4d939cea427d
 DigitalComm,a7b11256-881b-11e9-3aff-ff4a76f1bfae
 DigitalHolography,91df39b6-5e55-447c-8840-2e09be0f70fd
 Dijkstra,e7a83b92-501e-4b94-a6dd-ebbcc1d264fa
@@ -4637,6 +4638,7 @@ JuliaProjectFormatter,139e0cf6-64b2-48ae-acd2-4285c0bb47c3
 JuliaRunClient,ea4eb333-db47-5fdf-b6ce-79c8b2b3edd3
 JuliaScript,eac5aaee-ac7f-40cd-ab88-b72e0a6c4bd0
 JuliaSyntax,70703baa-626e-46a2-a12c-08ffd08c73b4
+JuliaSyntaxHighlighting,ac6e5ff7-fb65-4e79-a425-ec3bc9c03011
 JuliaVariables,b14d175d-62b4-44ba-8fb7-3064adc8c3ec
 JuliaWebAPI,480116ec-64ea-5dec-baca-db6b11e96e37
 JuliaWorkspaces,e554591c-7f10-434f-9f27-2097f62a04fd
@@ -7315,6 +7317,7 @@ Porcupine,3b53a3d7-3f34-4bba-8df2-4717a8b1e972
 PoreMatMod,2de0d7f0-0963-4438-8bc8-7e7ffe3dc69a
 PorousMaterials,68953c7c-a3c7-538e-83d3-73516288599e
 PortAudio,80ea8bcb-4634-5cb3-8ee8-a132660d1d2d
+PortHamiltonianBenchmarkSystems,a30e1a9a-10b8-4bba-9e65-ab6e41f71348
 PortMidi,42b16160-194f-40b3-8419-7a13c10fa643
 PortMidi_jll,6b227df9-c220-5195-838c-e1464939a66f
 Porta,fb2f1d7b-1de9-45a3-b106-388808110f78
