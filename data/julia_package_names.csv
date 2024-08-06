@@ -5832,6 +5832,7 @@ Minc2,8e6f2f06-34e2-40fe-8437-e396464d2a7f
 Mineos,daba6828-70d2-4229-869c-b11708ab6c61
 Mineos_jll,77b29d01-de08-56f3-96c6-9f6f21a29421
 Minesweeper,758a1c58-1ae5-4273-bf23-de2a3f195520
+Mingw_jll,2d94bacf-4d71-535d-a47c-45e808015115
 MiniFB,cc649173-1898-4bb8-8a16-ca5f88bd87d9
 MiniFB_jll,b93afbca-07d8-5443-9979-bb4221978155
 MiniLoggers,93f3dd0f-005d-4452-894a-a31841fa4078
@@ -8742,6 +8743,7 @@ SimpleIntegrals,c106d4f1-74b1-53cf-8919-47dd3f5c79fb
 SimpleIterator,7cb8a005-ebb1-44a9-b470-e3223924bb96
 SimpleLexica,8970d5fd-81b2-46cd-bbc5-7585a55eff67
 SimpleLife,cdff3cb4-2c4b-5bf5-8db2-d08d991b0013
+SimpleLooper,ff33fe5b-d8e3-4cbd-8bd9-3d2408ff8cab
 SimpleMatch,a3ae8450-d22f-11e9-3fe0-77240e25996f
 SimpleMock,a896ed2c-15a5-4479-b61d-a0e88e2a1d25
 SimpleNonlinearSolve,727e6d20-b764-4bd8-a329-72de5adea6c7
@@ -9855,6 +9857,7 @@ TracedRandom,03576162-b2ff-4022-a931-e67b9900fd45
 TracedSample,1599bd91-74fb-4c27-8c45-ca87281f2b07
 Traceur,37b6cedf-1f77-55f8-9503-c64b63398394
 TrackedDistributions,b1c9364c-c21d-5dc1-9093-c544b07b6c73
+TrackedFloats,7a5d1e54-997a-4d8d-a933-9898ed6911f7
 Tracker,9f7883ad-71c0-57eb-9f7f-b5c9e6d3789c
 Tracking,10b2438b-ffd4-5096-aa58-44041d5c8f3b
 TrackingHeaps,d94bfb22-46ad-56c3-87d0-f6c298cb800e
