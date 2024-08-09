@@ -697,6 +697,7 @@ BaytesMCMC,8e6e46a0-107e-4f93-8296-97663f3953ce
 BaytesOptim,c78c806d-0713-4f4e-8b87-f7023233ea83
 BaytesPMCMC,c4a8eb41-45be-4f57-9046-b06303d6bef8
 BaytesSMC,2428e3a5-deaa-4b4d-8ec5-54cd60d7566c
+BcdiCore,72eb6a3e-ca63-4742-b260-85b05ca6d9e4
 Bcrypt,137488db-d2e6-4fb9-97f3-1e40a263e83c
 Bcube,cf06320b-b7f3-4748-8003-81a6b6979792
 BeaData,acefaad2-17a4-5d8b-aa08-e18ef75dd0cf
@@ -7043,7 +7044,9 @@ PhaseRec,694d4756-7efa-46c2-8f81-162496cbdea7
 PhaseSpaceIO,de004529-e20a-5d30-89d8-7739140c50e5
 PhaseSpaceTools,0e21426a-da0a-11e8-1f13-43a2532b2fa8
 PhasedArray,26694ec9-1e1a-50ce-959e-f72fe0aa84a3
+PhilipsDataList,8d02dd3f-0ae5-4a36-8097-157a91f88471
 PhilipsHue,4f36922e-b395-5139-af69-051d0331eef0
+PhilipsWorkspace,a5223014-48d4-4ad6-9e99-a590982f2972
 Phonetics,e3a49ea3-7edf-49e1-b84f-839ab305a372
 PhotoAcoustic,86b14aa7-fcb7-4836-b4c7-056f45a9c77b
 PhotoOrganizer,5e3a6505-df5b-52db-bcdc-6b03808ffcbb
@@ -7328,6 +7331,7 @@ Portinari,72ee7ba2-92b2-4971-a97d-28f521fe8910
 PosDefManifold,f45a3650-5c51-11e9-1e9a-133aa5e309cf
 PosDefManifoldML,a07f4532-e2c9-11e9-2ea2-6d98fe4a1f21
 PoseComposition,0a8ab332-79e8-43e0-a313-949ce1168071
+Posets,9a158a65-591e-4f68-ac4f-9ffef2fc51f2
 PositionVelocityTime,52ec0b5e-ee36-11ea-211c-3d844fc5682d
 PositiveFactorizations,85a6dd25-e78a-55b7-8502-1745935b8125
 PositiveIntegrators,d1b20bf0-b083-4985-a874-dc5121669aa5
@@ -8432,6 +8436,7 @@ SaferIntegers,88634af6-177f-5301-88b8-7819386cfa38
 SafetySignalDetection,ad9a3248-762c-4ade-a843-8f185e2c18ff
 SaguaroTrader,26277856-a3f7-4646-aaac-f090473ab108
 SaguaroTraderResults,1186189a-80ad-45af-add8-08b461ccbf8f
+Sainsc,4c4340ea-7f9e-46b4-8512-61f1f6c41a11
 SalesForceBulkApi,de68a502-6b26-11e9-2c24-19af4cbda7e6
 Salsa,1fbf2c77-44e2-4d5d-8131-0fa618a5c278
 SampleChains,754583d1-7fc4-4dab-93b5-5eaca5c9622e
