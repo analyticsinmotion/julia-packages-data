@@ -7228,6 +7228,7 @@ PlutoStyles,16e07271-a41c-4e3e-b73a-b807cf2ea0eb
 PlutoTables,e64c0356-fa58-4209-b01c-f6c8ed5474f5
 PlutoTeachingTools,661c6b06-c737-4d37-b85c-46df65de6f69
 PlutoTest,cb4044da-4d16-4ffa-a6a3-8cad7f73ebdc
+PlutoTurtles,67697473-756c-6b61-6172-6b407461726b
 PlutoUI,7f904dfe-b85e-4ff6-b463-dae2292396a8
 PlutoUIExtra,a011ac08-54e6-4ec3-ad1c-4165f16ac4ce
 PlutoVSCodeDebugger,560812a8-17ff-4261-aab5-f8f600b273e2
@@ -7858,6 +7859,7 @@ RadialPiecewisePolynomials,7dab568b-3cf7-4f91-a977-b4631dfca174
 Radiant,b26cd056-4456-4d61-8550-65e4ff5b9100
 RadiationDetectorDSP,afd6e06f-c550-5763-af36-7391d39e46ec
 RadiationDetectorSignals,bf2c0563-65cf-5db2-a620-ceb7de82658c
+RadiationPatterns,b6717af4-2a8a-40aa-9b8e-77d45ce125cc
 RadiationSpectra,4f207c7e-01da-51d7-a1a0-c8c06dd1d883
 RadiativeTransfer,ace8185b-fa20-42f5-912d-1e850dbe6a09
 RadiiPolynomial,f2081a94-c849-46b6-8dc9-07bb90ed72a9
