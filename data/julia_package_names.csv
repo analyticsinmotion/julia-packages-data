@@ -836,6 +836,7 @@ BioVossEncoder,e7894126-fa72-4101-935a-4d6cb73e7565
 BiobakeryUtils,fa5322f5-bd84-5069-834a-abf3230fb8f8
 BiochemNetABC,eb87d800-f8b7-11ed-3652-a7ab94e0ce49
 BiochemicalAlgorithms,9d651bdf-8945-47d1-9188-34e269d8f7b5
+BiochemicalVisualization,00dfb448-20af-4b14-a659-f3892fa4f701
 BiodiversityObservationNetworks,a5b868d3-191d-4bba-a38a-ad28190da010
 Biofilm,210d8ceb-62d9-4e79-bbbd-4c6870635f0a
 BioformatsLoader,d1f74bce-bb60-11ea-2eff-3d75f256b4d8
@@ -3864,6 +3865,7 @@ Grumps,3967666a-e078-4e4b-aee9-ca7b8401761d
 GrundmannMoeller,36aa67b7-9d79-4e90-bbc0-05abd90a007e
 GslibIO,4610876b-9b01-57c8-9ad9-06315f1a66a5
 GstPluginsBase_jll,e8a05a0c-2c7d-51b7-a4ec-976abaf7f9a3
+GsvdInitialization,2ac24108-be9c-42b8-8d78-6a4f62a87e7d
 Gtk,4c0ca9eb-093a-5379-98c5-f87ac0bbbf44
 Gtk4,9db2cae5-386f-4011-9d63-a5602296539b
 Gtk4Makie,478199e7-b407-4926-87ea-7196203a28d8
@@ -7533,6 +7535,7 @@ PuiseuxPolynomials,f53aee1f-40be-4d16-bc74-7d339eee78ec
 Pukeko,8cf91db1-0219-5b69-b551-5a0ff3c32cce
 PulsarSearch,b7fe27a0-ab0c-4e8e-b203-2a459fc90788
 PulseAudio_jll,02771fc1-bdb7-5db5-8d11-300768e00fbd
+PulseInputDDM,c2542da2-1f7d-11e9-2506-87691095ebb2
 Purses,b933ae29-2b40-4477-9757-bdbbb03ce3a4
 PushVectors,36b54c61-190e-5a5f-82d5-6f0a962d7362
 Pushover,1d40253f-d7d5-5bc2-be73-07f0f24a3532
@@ -8610,6 +8613,7 @@ SeqGen_jll,1820de90-959d-54bb-9e2e-c539b020f79b
 SeqLoggers,5370ec29-8137-43b2-8ce7-bd26b38685e0
 SeqShuffle,5ea955a8-74dc-49b5-be65-6ee01fc504f7
 SequenceLogos,7a3f67ce-6eeb-4904-9da4-2cbd106a5944
+SequenceTokenizers,782fbe24-d740-44eb-8e9f-f0831b1cb5e5
 SequenceVariation,eef6e190-9969-4f06-a38f-35a110a8fdc8
 SequencerJ,348581b9-6e84-42e0-ac4e-fe9177c221e6
 Sequent,3406161f-1d61-4e4e-ab9c-e99e0c076c20
@@ -10486,6 +10490,7 @@ XCrySDenStructureFormat,02310045-4665-40c9-a658-98c497d2eca9
 XDF,31bc19ec-0089-417f-990e-a2b5e7515868
 XDGSpec,fe33d248-b583-4bd1-8106-a6949c99f4d9
 XDMFFileHandler,b0b32849-8088-4a6a-980f-ce3b511736e4
+XDiag_jll,05e47fe5-458f-5313-a276-ec18ac0ef94c
 XFloats,ad7b0a5e-d6ee-550c-835e-59a288c14bf3
 XGBoost,009559a3-9522-5dbb-924b-0b6ed2b22bb9
 XGBoost_jll,a5c6f535-4255-5ca2-a466-0e519f119c46
