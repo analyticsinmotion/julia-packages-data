@@ -6717,6 +6717,7 @@ OrderedCollections,bac558e1-5e72-5ebc-8fee-abe8a469f55d
 OrdinalGWAS,00428148-03d9-50ae-bfb7-4a690d5612f1
 OrdinalMultinomialModels,b51826c6-2bc1-4eb0-a3af-c080fd29f1d0
 OrdinaryDiffEq,1dea7af3-3e70-54e6-95c3-0bf5283fa5ed
+OrdinaryDiffEqCore,bbf590c4-e513-4bbe-9b18-05decba2e5d8
 Org,587fedb0-ad84-11e9-2bd6-d15ea4be1f9e
 OrnsteinZernike,51399321-c693-48c0-994d-05e3df0250f2
 OrthoMatchingPursuit,2ae2181e-4684-4b2c-a413-203f2dd831ec
@@ -8073,6 +8074,7 @@ ReinforcementLearningFarm,14eff660-7080-4cec-bba2-cfb12cd77ac3
 ReinforcementLearningTrajectories,6486599b-a3cd-4e92-a99a-2cea90cc8c3c
 ReinforcementLearningZoo,d607f57d-ee1e-4ba7-bcf2-7734c1e31854
 RelationalDatasets,6b8bdb16-f930-11eb-22b5-7ba1dabdf7a8
+Relationals,0682c367-51f6-4d82-8bfe-b4722079e034
 RelativisticDynamics,9dfc3e7a-5dd6-4aec-9244-c4a41014c270
 RelevancePropagation,0be6dd02-ae9e-43eb-b318-c6e81d6890d8
 RelevanceStacktrace,6c8a4c8a-cd07-4735-95b7-b1ced2eaf8fd
@@ -8335,6 +8337,7 @@ SHTns,5dc4ea12-f621-4038-8458-a22eae100703
 SHTns_jll,daf09cc5-9ab3-509e-9618-0b89086eb825
 SIAMFANLEquations,084e46ad-d928-497d-ad5e-07fa361a48c4
 SIAN,cf7bdac0-b945-4905-b5ad-bc3f1a757483
+SIFDecode_jll,54dcf436-342f-53ea-8005-3708a1ae6c8c
 SIGPROCFiles,5f30fb9f-668d-42ca-b792-67747b8fdcd1
 SIIP2Marmot,9dbaeea7-558f-4e29-ba60-30a5dee37710
 SIIPExamples,2c79006f-6450-48c4-b124-fbadab4f299d
@@ -10755,6 +10758,7 @@ casacore_jll,72fd12c2-f19b-5d3c-931a-6bbe5223e3ce
 casacorecxx_jll,689e2960-4160-5310-ae7f-2d2095288874
 casacorewrapper_jll,5eb88fab-4dde-58d8-af5d-492bc9ff933e
 catch22_jll,8a07c0c5-99ad-56cb-bc82-72eed1bb61ce
+catchaMouse16_jll,dcffe42e-adbb-5815-9d51-5ab017577a26
 cbindgen_jll,a52b955f-5256-5bb0-8795-313e28591558
 cddlib_jll,f07e07eb-5685-515a-97c8-3014f6152feb
 cereal_jll,2f220576-6c59-591b-aa52-ca90a5ab5ffc
