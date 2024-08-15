@@ -6154,6 +6154,7 @@ NEOSServer,f10290a3-90ea-431b-80e2-02d4e6b73321
 NEO_jll,700fe977-ac61-5f37-bbc8-c6c4b2b6a9fd
 NEOs,b41c07a2-2abb-11e9-070a-c3c1b239e7df
 NES,ec764722-9dc8-11e9-08dd-a3cdb7c22a6f
+NESSie,f00e83c4-bd01-11e9-272c-ff1b96fb444d
 NExOS,a0d681ee-6dde-4d9d-b128-06c773d9ceb4
 NFFT,efe261a4-0d2b-5849-be55-fc731d526b0d
 NFFT3,53104703-03e8-40a5-ab01-812303a44cae
@@ -6187,6 +6188,7 @@ NLsolve,2774e3e8-f4cf-5e23-947b-6d7e65073b56
 NMEA,6dcfc07b-8fa8-55f0-94e3-d46e2fec2cdb
 NMEAParser,e33883a1-8aa8-4e6e-a42d-0daf9e203b40
 NMF,6ef6ca0d-6ad7-5ff6-b225-e928bfa0a386
+NMFMerge,9cc52eda-dfaf-4e21-aae3-9f26bed153a3
 NMFk,e40cd9e2-a1df-5d90-a1fa-603fdc3dbdd8
 NMRAnalysis,e8f11e50-668f-4bdf-b40b-95f76662da30
 NMRTools,c2839fe3-f1de-42fc-897f-c1b0e8db4db6
@@ -6482,6 +6484,7 @@ OMOPCDMDatabaseConnector,123dea01-d0aa-44c8-898b-977e0601f7b1
 OMOPCommonDataModel,ba65db9e-6590-4054-ab8a-101ed9124986
 OMRemote,25b2b4a2-b5c6-11e9-0768-bd8610217833
 ONNX,d0dd6a25-fac6-55c0-abf7-829e0c774d20
+ONNXLowLevel,26bbae53-793e-4dc4-8f6d-18bb7d98adf6
 ONNXNaiveNASflux,2e935253-ba83-4645-9154-13ffeb13a688
 ONNXRunTime,e034b28e-924e-41b2-b98f-d2bbeb830c6a
 ONNXRuntime_jll,09e6dd1b-8208-5c7e-a336-6e9061773d0b
