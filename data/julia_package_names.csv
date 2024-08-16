@@ -305,6 +305,7 @@ Ansillary,e36756a0-2672-11ea-3472-2f9ad6253375
 Ant,fc2879f5-75d7-582e-8603-c64deb99b744
 AntColony,75b11117-7252-40c0-b375-554c734de600
 AntennaPattern,190b1fc3-f725-4b56-bc75-d9d21258ce5e
+Anthropic,a00d14cb-3434-48ec-9b49-cfc2b9ce2a8f
 Antic_jll,e21ec000-9f72-519e-ba6d-10061e575a27
 Antique,be6e5d0e-34a5-4c8f-af83-e1b5389203d8
 Antlr4CppRuntime_jll,642bff37-c5db-510f-b67c-24692d406d7f
@@ -2645,6 +2646,7 @@ EndpointRanges,340492b5-2a47-5f55-813d-aca7ddf97656
 EnergyCommunity,2f2d8a28-e724-42c4-aa4e-51fe4e6b7a61
 EnergyExpressions,f4b57a2e-27c7-11e9-0cb0-edd185b706f6
 EnergyModelsBase,5d7e687e-f956-46f3-9045-6f5a5fd49f50
+EnergyModelsCO2,84b3f4d7-d799-4a5d-b06c-25c90dcfcad7
 EnergyModelsGUI,737a7361-d3b7-40e9-b1ac-59bee4c5ea2d
 EnergyModelsGeography,3f775d88-a4da-46c4-a2cc-aa9f16db6708
 EnergyModelsInvestments,fca3f8eb-b383-437d-8e7b-aac76bb2004f
@@ -10045,6 +10047,7 @@ Tyler,e170d443-b9d6-418a-9ee8-061e966341ef
 TypeClasses,addcc920-e0cf-11e8-30b7-0fb08706b574
 TypeCompletion,8f700d64-2ec0-4e18-b562-010c3a374dda
 TypeDBClient,7ffdda62-db04-4838-9798-febd00f3125c
+TypeDomainNaturalNumberLists,7d526985-4c4e-42f3-8365-e6139167f00a
 TypeDomainNaturalNumbers,06919feb-fec6-4e74-a260-ddb603bc7a1b
 TypeParams,aef91bff-20f9-45ec-bc27-6bc16f693c59
 TypeParsers,6b5504e1-0c77-489f-ba22-2b282cee145f
@@ -10506,6 +10509,7 @@ XCrySDenStructureFormat,02310045-4665-40c9-a658-98c497d2eca9
 XDF,31bc19ec-0089-417f-990e-a2b5e7515868
 XDGSpec,fe33d248-b583-4bd1-8106-a6949c99f4d9
 XDMFFileHandler,b0b32849-8088-4a6a-980f-ce3b511736e4
+XDiag,3edaab83-692e-476a-bab5-541af84d25fc
 XDiag_jll,05e47fe5-458f-5313-a276-ec18ac0ef94c
 XFloats,ad7b0a5e-d6ee-550c-835e-59a288c14bf3
 XGBoost,009559a3-9522-5dbb-924b-0b6ed2b22bb9
