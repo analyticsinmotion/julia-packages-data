@@ -936,6 +936,7 @@ BlueZ_jll,471b5b61-da80-5748-8755-67d5084d21f2
 BoardGameGeek,57fe6dd9-21bb-41a8-84a4-b199e28a0641
 Bobby,bd34264e-e812-11e8-1ee8-bfb20fea2fb4
 Boids,d31cee86-d6f0-47a3-813b-bb8537950420
+BoilerplateCvikli,9c9f911a-9395-49bd-b3fc-139ceb24aa85
 Bokeh,c4b4474d-016b-471b-b14f-576041b951ff
 BokehBlink,c7d4f63d-6dfa-4fdc-9408-5961e0889e3a
 BokehServer,b7fe046f-2d24-4718-8c03-fdde6cae2a8c
@@ -1202,6 +1203,7 @@ CachedCalls,f8c5305c-6a45-4f66-b1f2-5751ba853d4a
 CachedDicts,e69b5797-b9f7-4a92-bcfe-7d0cb35ca5b6
 CachedFunctions,ed268df6-2d29-4139-a3e0-ddeb8be80dc7
 Caching,68ad905a-5087-500a-aae7-0fd6acda2eb1
+CadCAD,56c374c5-0231-4cc5-a8a5-dfd13506b270
 Caesar,62eebf14-49bc-5f46-9df9-f7b7ef379406
 Cairo,159f3aea-2a34-519c-b102-8c37f9878175
 CairoMakie,13f3f980-e62b-5c42-98c6-ff1f3baf88f0
@@ -2508,6 +2510,7 @@ EHTModels,aba06f68-8285-4329-b7bf-b3157c6bc00b
 EHTNCDBase,0d1a6071-c6ae-40ce-b68e-43bf1c0beb66
 EHTUVData,56783127-7e15-4e7d-9691-d34b50bc826a
 EHTUtils,9d0fa6a6-ae25-4c2e-8152-6c4b7f2016aa
+ELFIO_jll,2133ec9d-2300-5c3e-b0d9-ae6a10eb43df
 EMIRT,8acf8dda-514d-5c36-9488-7e3496cf596e
 EMpht,0ca9fa26-8833-11e9-3415-832a08817e5a
 EPGsim,b6a82cc1-40c9-4006-90b7-9176002c0410
@@ -7119,6 +7122,7 @@ PiecewiseAffineApprox,029c5f1c-0dc4-4551-8b87-a10b73fe3713
 PiecewiseDeterministicMarkovProcesses,86206cdf-4603-54e0-bd58-22a2dcbf57aa
 PiecewiseIncreasingRanges,efdf428f-f294-58b6-a961-90c8051bff4c
 PiecewiseLinearApprox,fcfa6960-8e2e-11e9-2cde-29dd09221fb3
+PiecewiseLinearFunctions,08f3856d-0b18-48ce-8d4b-10c3630068d6
 PiecewiseLinearOpt,0f51c51e-adfa-5141-8a04-d40246b8977c
 PiecewiseOrthogonalPolynomials,4461d12d-4663-4550-8580-cb764c85e20f
 PiecewisePolynomials,be45d740-dee7-11e9-3cd8-1d315c23bbf9
@@ -7806,6 +7810,7 @@ QuickPOMDPs,8af83fb2-a731-493c-9049-9e19dbce6165
 QuickTypes,ae2dfa86-617c-530c-b392-ef20fdad97bb
 Quickhull,baca2653-9c88-49d2-a488-12dbf25fc4fb
 Quiqbox,7cb8c394-fae1-4ab9-92f2-30189d7746cd
+Quiver,cdbb3f72-2527-4dbd-9d0e-93533a5519ac
 QuizQuestions,612c44de-1021-4a21-84fb-7261cf5eb2d4
 QuranTree,f647ab69-6f05-4d64-883f-59d0fbe08d2b
 Qutilities,144146ce-868b-5e43-9e5b-0e94f26a569f
@@ -11168,6 +11173,7 @@ strace_jll,1d56ff18-86b0-54eb-9ca6-1c12e018e922
 strobealign_jll,3fdc3add-cc48-55bb-9161-26699b513878
 svg2pdf_jll,a8f3a209-3a10-5cb5-98f7-143dfc3372cb
 systemd_jll,867622ac-8f22-5251-87e3-8aff4582acdf
+systemtap_jll,0a077753-09e0-5213-973e-a9bab7f4efc7
 t8code_jll,4ee9bed8-4011-53f7-90c2-22363c2f500d
 tblis_jll,9c7f617c-f299-5d18-afb6-044c7798b3d0
 tectonic_jll,d7dd28d6-a5e6-559c-9131-7eb760cdacc5
