@@ -3846,6 +3846,7 @@ GridVisualize,5eed8a63-0fb0-45eb-886d-8d5a387d12b8
 GridVisualizeTools,5573ae12-3b76-41d9-b48c-81d0b6e61cc5
 GridWorlds,e15a9946-cd7f-4d03-83e2-6c30bacb0043
 Gridap,56d4f2e9-7ea1-5844-9cf6-b9c51ca7ce8e
+GridapBifurcationKit,e171ecf3-c79e-4835-a39e-60b47bc527f4
 GridapDistributed,f9701e48-63b3-45aa-9a63-9bc6c271f355
 GridapDistributedPETScWrappers,743b6f9b-fae8-55fc-a981-4e9a2885e829
 GridapEmbedded,8838a6a3-0006-4405-b874-385995508d5d
@@ -4087,6 +4088,7 @@ HomalgProject,50bd374c-87b5-11e9-015a-2febe71398bd
 Homebrew,d9be37ee-ecc9-5288-90f1-b9ca67657a75
 HomogeneityTestBBU,902b4cfc-36dd-46ec-9aee-5fae5b5d5a99
 HomogeneousNonemptyListsRecursive,58cefdaf-8f0f-4d3b-b82f-141b0dc67fdd
+HomogeneousStrictlyBinaryTrees,72443837-f9fa-4857-83bd-ff360b668cc2
 HomogeneousTransformations,59ef864d-61ee-43f7-9b33-662866a07383
 HomogeneousVectors,5d3f8266-9186-4afd-be5f-84c55396a2a7
 HomotopyContinuation,f213a82b-91d6-5c5d-acf7-10f1c761b327
@@ -8023,6 +8025,7 @@ RectangularFullPacked,27983f2f-6524-42ba-a408-2b5a31c238e4
 RectiGrids,8ac6971d-971d-971d-971d-971d5ab1a71a
 RecurrenceAnalysis,639c3291-70d9-5ea2-8c5b-839eba1ee399
 RecurrenceCoefficients,de372851-07f4-4192-bc5b-b0c28d817e5e
+RecurrenceRelationships,807425ed-42ea-44d6-a357-6771516d7b2c
 RecursiveArrayTools,731186ca-8d62-57ce-b412-fbd966d074cd
 RecursiveCausalDiscovery,96483cbc-aa6d-4394-9266-bb69d9075284
 RecursiveDicts,e20b0d26-85b9-4cc4-ab0c-abba12ca33a5
@@ -10065,6 +10068,7 @@ TypeClasses,addcc920-e0cf-11e8-30b7-0fb08706b574
 TypeCompletion,8f700d64-2ec0-4e18-b562-010c3a374dda
 TypeDBClient,7ffdda62-db04-4838-9798-febd00f3125c
 TypeDomainNaturalNumberLists,7d526985-4c4e-42f3-8365-e6139167f00a
+TypeDomainNaturalNumberStrictlyBinaryTrees,f5023ec8-5a1e-4e68-9745-2bb2270cc447
 TypeDomainNaturalNumbers,06919feb-fec6-4e74-a260-ddb603bc7a1b
 TypeParams,aef91bff-20f9-45ec-bc27-6bc16f693c59
 TypeParsers,6b5504e1-0c77-489f-ba22-2b282cee145f
