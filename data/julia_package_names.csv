@@ -4176,6 +4176,7 @@ INMET,1fb021e9-9ab7-46c1-8a23-23f3c2783cf7
 IOAPI_jll,21284ac2-4ede-594e-ad4f-4494079aca48
 IOCapture,b5f81e59-6552-4d32-b1f0-c071b021bf89
 IOLogging,9ee9e592-2d2d-57f4-9c4b-95048a1bc2c4
+IOStructs,4d2d9364-ca76-473b-964a-083ad86fcbf9
 IOUtils,6aa5b9b4-0a87-4d01-8444-b9736d377f28
 IPGBs,cd26b91b-75b4-4f6e-a355-d2a0d136006d
 IPMeasures,d7dc6e0c-a753-11e8-227e-b362679e0b17
@@ -10458,6 +10459,7 @@ Wells,5231157d-7ae6-5dec-b9aa-3f65828037ac
 WenoNeverworld,dc645f23-3555-4f2f-8f6e-8cb879a663f8
 Westerfit,f202a280-4a11-4d8a-9d54-4c7a90dde5df
 Wflow,d48b7d99-76e7-47ae-b1d5-ff0c1cf9a818
+WhereIsMyDocstring,aac05064-a116-4aba-9bed-53c9d53f4642
 WhereTheWaterFlows,ea906314-1493-4d22-a0af-f886a20c9fba
 WhereTraits,c9d4e05b-6318-49cb-9b56-e0e2b0ceadd8
 Whisper,1846abd0-4e01-46c4-9113-916b63b070ed
