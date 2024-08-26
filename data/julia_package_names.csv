@@ -5730,6 +5730,7 @@ Memento,f28f55f0-a522-5efc-85c2-fe41dfb9b2d9
 Memoization,6fafb56a-5788-4b4e-91ca-c0cea6611c73
 Memoize,c03570c3-d221-55d1-a50c-7939bbd78826
 MemoizedMethods,2f808968-54ae-4603-8d72-6e67d20f0a1c
+MemoizedSerialization,a7e9380e-af78-4e01-8a55-c3c07e4c7344
 MemorableUniqueIdentifier,6b7b3763-cd0c-472b-8fbb-4a24108ca9a5
 MemoryArena,5f8afd5a-bb66-5d20-9595-63d13a19fd2b
 MemoryBasedCF,f39d504a-8e86-5d7d-9b06-c60674885a6f
@@ -6059,6 +6060,7 @@ MuTuner,206a444d-62d4-4bef-89ca-f2a4a27f2209
 Mueller,dfba0342-83e6-42c7-a796-fcf383ab214c
 MuladdMacro,46d2c3a1-f734-5fdb-9937-b9b9aeba4221
 MullerPlot,77e78b5d-bb19-49bf-9459-ae694a76fbc0
+MultiAffine,251e6cbc-5fb1-4602-bd1f-2bec286d6307
 MultiAgentPOMDPs,9ac5fd70-7902-42e7-9745-ff446b44e779
 MultiAgentPathFinding,1f5aa91a-953b-4f4c-bed6-d21f3af349fa
 MultiAgentSysAdmin,a4538d8c-5052-4f30-aec9-286910cf67a1
@@ -7740,6 +7742,7 @@ QuadraticModels,f468eda6-eac5-11e8-05a5-ff9e497bcd19
 QuadraticModelsCPLEX,a53098ac-c15a-4696-bee0-14caaca04665
 QuadraticModelsGurobi,b0275aa7-013b-42ad-9e10-dc5d6db0accb
 QuadraticModelsXpress,2cf8c267-6e70-4ce4-bd8d-41913dbccd90
+QuadraticOptimizer,e7241e48-3d3b-4ed3-9130-818aaeb8a636
 QuadraticProgramNetworks,576966be-9dca-4525-ada1-64298180af2c
 QuadraticToBinary,014a38d5-7acb-4e20-b6c0-4fe5c2344fd1
 Quadrature,67601950-bd08-11e9-3c89-fd23fb4432d2
