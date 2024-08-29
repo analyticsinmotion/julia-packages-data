@@ -3773,6 +3773,7 @@ GoogleCodeSearch,be5e5202-b427-58d6-b196-3d129152056c
 GoogleCodeSearch_jll,6c08f7c7-e449-597e-96d3-8117915de277
 GoogleDrive,91feb7a0-3508-11ea-1e8e-afea2c1c9a19
 GoogleGenAI,903d41d1-eaca-47dd-943b-fee3930375ab
+GoogleHashCode2014,a405283a-0100-47ff-b2ed-5493eb4224b2
 GoogleMaps,b6ac9c74-f072-5636-adac-bd17907ec0b6
 GoogleScholar,cc0898d6-34c9-4540-a58d-8bfbe394b8dc
 GoogleSheets,831f653e-6dbc-49a2-ac93-eebfaa09c6e6
@@ -6115,6 +6116,7 @@ MultiplesOfPi,b749d01f-fee9-4313-9f11-89ddf7ea9d58
 Multiplexers,d8f48be2-8af9-45f0-b400-11a6372d221d
 MultiscaleGraphSignalTransforms,cc44fc10-d0fb-5545-af72-ba1cb661a341
 Multisets,3b2b4ff1-bcff-5658-a3ee-dbcf1ce5ac09
+Multispati,3ff64760-8a89-40e2-854d-b45336bb1975
 MultistartOptimization,3933049c-43be-478e-a8bb-6e0f7fd53575
 Multitaper,a81958ac-9ec9-4086-814d-3ae87249a5e8
 MultivariateAnomalies,6b1494d1-c0e4-5e11-970b-cb64accc6d0e
@@ -9600,6 +9602,7 @@ TIFFDatasets,8d837e6f-fc51-4c76-affd-c130faf94be7
 TKTDsimulations,e31a5254-3556-45b0-bb0a-af5ec6251750
 TLDR,ea576619-15d3-4675-b24c-7b7a8f11ced0
 TMLE,8afdd2fb-6e73-43df-8b62-b1650cd9c8cf
+TMLECLI,2573d147-4098-46ba-9db2-8608d210ccac
 TMatrix_jll,f6676dc9-6ae6-5380-b4ed-33bd8634dc70
 TMscore_jll,1d8dad79-2f3d-554c-bf22-543753cb6ff4
 TOML,fa267f1f-6049-4f14-aa54-33bafae1ed76
