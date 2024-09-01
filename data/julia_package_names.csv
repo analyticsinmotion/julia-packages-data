@@ -5581,6 +5581,7 @@ ManifoldDiffEq,1143c485-9b25-4e23-a65f-701df382ec90
 ManifoldGroupTesting,3d9140b9-2699-468e-abff-6b59d65ee1fd
 ManifoldGroupUtils,1a3c8808-2843-4c72-af8e-d50ed15039bf
 ManifoldLearning,06eb3307-b2af-5a2a-abea-d33192699d32
+ManifoldNormal,5fcb9600-4313-48cf-863b-acbfec9160af
 Manifolds,1cead3c2-87b3-11e9-0ccd-23c62b72b94e
 ManifoldsBase,3362f125-f0bb-47a3-aa74-596ffd7ef2fb
 MannKendall,1761a1e1-e032-445b-870e-f3b23132a90a
@@ -6409,6 +6410,7 @@ NomnomlJS,05e5b401-cbd0-4511-9ee7-1ac7fa2205f5
 NonConvexPenalizedRegression,393d5197-c0a3-4293-bd2f-5829bf091ab1
 NonNegLeastSquares,b7351bd1-99d9-5c5d-8786-f205a815c4d7
 NonNegLeastSquaresMLJInterface,548c1776-ba68-4672-b53d-6583dd12d8ca
+NonParametricNORTA,e97a57fc-2266-4ea9-80d8-a1f12fb1471b
 NonPromoting,8a6dfff7-c70d-5acc-95c4-5c1b1ecb2469
 NonUniformRandomVariateGeneration,cd27a545-1e2a-5997-b51f-f9caa06aeab2
 NoncommutativeGraphs,3c3e07df-3689-4029-aba7-dd69ca7e6285
@@ -7257,6 +7259,7 @@ PlotAxes,8b6f5f00-d239-11e8-3a24-33314b00f6b0
 PlotGraphviz,78a92bc3-407c-4e2f-aae5-75bb47a6fe36
 PlotIter,570a651b-f435-48ab-b76d-fb07b459bafb
 PlotMesh,bc4dbde8-7fd0-4c88-9497-16e7bc903013
+PlotPWM,044a62f1-e260-4c1b-b41b-507424d69d9a
 PlotPlants,62700b34-1872-4917-b6af-4f42ae699f38
 PlotRNA,eab79ae3-43af-4078-b4a3-b180fd2797a7
 PlotReferenceImages,c5e800db-1e6b-5f72-915a-308d267b7a19
