@@ -2368,6 +2368,7 @@ DitherPunk,b8f752a5-abd5-43b6-a55b-e75efda20de0
 Ditherings,18716f60-6c0e-11e9-0a37-e9870d4a7c8f
 Divergences,7f07e4c8-6df2-5971-ad44-bf349b9adcfd
 Diversity,d3d5718d-52de-57ab-b67a-eca7fd6175a4
+DividedDifferences,ca54fc82-bf42-49fd-94f8-048f44d9e20a
 DoNOF,c2cb89bc-8ac9-4fc1-90b0-361a3529c1c9
 DobotMagician,eb17b914-a2e5-45e7-813f-e6fb2969af31
 DocExtensions,cbdad009-89f1-4e05-85a0-06b07b50707d
@@ -3080,6 +3081,7 @@ FilterHelpers,d8f44d74-4a63-4059-add9-16c5740a0809
 FilteredGroupbyMacro,d46d16aa-1548-45e6-bb37-c0a3431c6626
 FinEtools,91bb5406-6c9a-523d-811d-0644c4229550
 FinEtoolsAcoustics,72171760-8bdd-11e9-0dbf-b3b512e82515
+FinEtoolsDDMethods,093fdad3-4fce-4574-aa49-c2a24de4f00d
 FinEtoolsDeforLinear,e9187c00-8bdd-11e9-1e70-7ba8303116a2
 FinEtoolsDeforNonlinear,c9fbf690-8ea2-11e9-1d56-e5e266ebe695
 FinEtoolsFlexBeams,1d6e2fc3-29aa-4bd6-bf55-212bcb8e2840
