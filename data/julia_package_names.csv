@@ -1640,6 +1640,7 @@ ComplexPaths,a25e2219-d8cc-47b2-bc88-9b0dc7d4b2a3
 ComplexPhasePortrait,38ac1a67-8e16-5889-9a62-b2c9995eb50f
 ComplexPlots,1fd36721-02e5-4f31-ac70-029fcd7253d3
 ComplexRegions,c64915e2-6c82-11e9-38e9-1f159a780463
+ComplexToys,7b41c207-ea06-4250-aacd-19be2e667afc
 ComplexValues,41a84b80-6cf2-11e9-379d-9df124847946
 ComplexityMeasures,ab4b797d-85ee-42ba-b621-05d793b346a2
 ComponentArrays,b0b7db55-cfe3-40fc-9ded-d10e2dbeff66
@@ -3193,6 +3194,7 @@ FloatTracker,1722352a-da05-4a89-9ace-0f2f7ef630bb
 FloatingTableView,197bc772-8d3f-4a3f-b50f-4eb5086fedbf
 FlowAtlas,ef7debb3-0d09-4604-8960-6109d4c5b3e0
 FlowCutterPACE17_jll,008204e2-cd5c-5c6d-9360-d31f32b5f6c2
+FlowGeometry,af326652-bfa1-11e9-1b34-cf9047ce1632
 FlowWorkspace,93705cf0-0d0c-4207-9085-aa3a02725bf0
 Flowstar,a8054ddd-9dca-4d20-8ffe-ae96ec1541f1
 Flowstar_jll,857d554b-2109-5851-8b71-fc429cd15c15
@@ -4099,6 +4101,7 @@ HnswAnn,dff2f42d-5506-450f-a8d7-e8287f476a07
 Hodge,3c44080d-357b-4062-ad7b-6cab49ad4f79
 HolidayCalendars,805b3977-dd70-49b2-89e1-5b1e213f8a24
 HolidayJp,a0f9f270-aa2e-430a-aba3-8faa33662de6
+Holidays,6a61c59e-0e35-4be2-9181-ca44005fb204
 HoloProcessing,2a7007e0-cd7f-40de-83d0-bb76b7a3c669
 HomalgProject,50bd374c-87b5-11e9-015a-2febe71398bd
 Homebrew,d9be37ee-ecc9-5288-90f1-b9ca67657a75
@@ -6728,6 +6731,7 @@ OptimizationMOI,fd9f6733-72f4-499f-8506-86b2bdd0dea1
 OptimizationManopt,e57b7fff-7ee7-4550-b4f0-90e9476e9fb6
 OptimizationMetaheuristics,3aafef2f-86ae-4776-b337-85a36adf0b55
 OptimizationMultistartOptimization,e4316d97-8bbb-4fd3-a7d8-3851d2a72823
+OptimizationNLPModels,064b21be-54cf-11ef-1646-cdfee32b588f
 OptimizationNLopt,4e6fcdb7-1186-4e1f-a706-475e75c168bb
 OptimizationNOMAD,2cab0595-8222-4775-b714-9828e6a9e01b
 OptimizationOptimJL,36348300-93cb-4f02-beb5-3c3902f8871e
@@ -11297,6 +11301,7 @@ xfoil_light_jll,70cc596b-f351-5640-b155-76ddf0ff62ca
 xhyve_jll,df5f24a2-ce61-5be2-97f7-106f5424b9fe
 xkbcommon_jll,d8fb68d0-12a3-5cfd-a85a-d49703b185fd
 xrootdgo_jll,9d84c17e-11f2-50ef-8cc9-e9701362097f
+xrt_jll,bb401bc5-fb22-5674-bf0e-333823e8805f
 xsimd_jll,9e151094-6d0c-5a5c-8bf5-2fcad2e63db9
 xsum_jll,e979a739-315a-50ee-b437-b496a9503be1
 xtensor_io_jll,a56137cc-9937-5467-96f1-bf8abe647212
