@@ -1913,6 +1913,7 @@ CurvilinearGrids,58b19789-dd19-4aa2-839c-c763a7b10301
 CustomUnitRanges,dc8bdbbb-1ca9-579f-8c36-e416f6a65cce
 CutBranching_jll,a275e4ba-a8a9-5328-a18a-85c73bd42860
 CutPruners,65d46eb8-70e9-5a30-bf48-2afa3a021b8f
+CutQuad,b130fd59-4ea5-47f9-9e42-9608cf6d689d
 CuthillMcKee,17f17636-5e38-52e3-a803-7ae3aaaf3da9
 CvxCompress,3e489a4b-a92a-5e1b-a7bf-ed666eae205e
 CvxCompress_jll,2493bdd5-554a-52e1-bea5-dc84d30aecb9
@@ -6293,6 +6294,7 @@ NaturalNeighbours,f16ad982-4edb-46b1-8125-78e5a8b5a9e6
 NaturalSort,c020b1a1-e9b0-503a-9c33-f039bfc54a85
 NaturallyUnitful,872cf16e-200e-11e9-2cdf-8bb39cfbec41
 NatureGas,e0f4c8e6-5ce5-555a-ba92-69b8d3d44885
+NautyGraphs,7509a0a4-015a-4167-b44b-0799a1a2605e
 NautyTraces,d13d708c-e6ca-4145-9b59-cdd1b3737971
 NavAbilitySDK,f3e6a059-199c-4ada-8143-fcefb97e6165
 Navigation,cc87a3b2-3706-4f35-b5b4-b2c85061916d
