@@ -5673,6 +5673,7 @@ MatrixDepot,b51810bb-c9f3-55da-ae3c-350fc1fbce05
 MatrixEnsembles,c7015dd7-3fb7-4a4c-827e-526313618491
 MatrixEquations,99c1a7ee-ab34-5fd5-8076-27c950a045f4
 MatrixFactorizations,a3b82374-2e81-5b9e-98ce-41277c0e4c87
+MatrixFunctionDiff,5a80cb59-5c4a-4b04-8570-513e0deda534
 MatrixImpute,86adb855-6620-4b42-899a-fdd8a58d2ebe
 MatrixLM,37290134-6146-11e9-0c71-a5c489be1f53
 MatrixLMnet,436227dc-6146-11e9-240b-9df6ee45b799
