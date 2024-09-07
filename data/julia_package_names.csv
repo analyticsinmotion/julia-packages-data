@@ -898,6 +898,7 @@ Blades,ab78ad86-d995-11e9-19c2-2d9731c36d75
 Blake3Hash,8f478455-a32d-4928-b0e4-72b19a7d5574
 BlankLocalizationCore,dc39d501-6ffa-4c27-9708-7dc7e3b1a5c3
 BliContractor,81fc84e3-e8a8-47e5-b99c-4287f7e3a083
+BlindingIndex,67be77aa-8e15-4dcd-9068-de5e3adff985
 Blink,ad839575-38b3-5650-b840-f874b8c74a25
 Bloaty_jll,179dd4c9-9988-5cd9-88b2-3b95f65d2a72
 BlobTracking,738e0a8b-9125-4fc4-8d4f-3a5b1a21603b
@@ -1932,6 +1933,7 @@ Cyclotomics,da8f5974-afbb-4dc8-91d8-516d5257c83b
 CyrusSASL_jll,6422fedd-75a7-50c2-a7c3-a11dad25a896
 D3Trees,e3df1716-f71e-5df9-9e2d-98e193103c45
 D3TypeTrees,41994980-b535-5476-86a1-6733688e0e4a
+DACE,f4439622-e757-4457-9ca0-f65a61d23f40
 DACE_jll,40de70a5-cf80-53d9-bda4-3aa67fea2f4f
 DAEProblemLibrary,dfb8ca35-80a1-48ba-a605-84916a45b4f8
 DAMMmodel,7af7f183-cd03-4039-bf6b-67ea3eb1648d
@@ -7617,6 +7619,7 @@ Psychro,9516f557-4a54-5a79-b954-c272e753c77a
 Psychrometrics,89d1cb86-bf84-46ce-bdfb-ab7f830013b1
 PtFEM,9b64898b-da2a-5774-a656-fd6fb605642c
 PtrArrays,43287f4e-b6f4-7ad1-bb20-aadabca52c3d
+PubChem,1db272ca-bb6a-4d7c-9426-e93aef723262
 PubChemCrawler,30e472fa-2b12-4c0b-9705-07d174b7a4e1
 PublicAPI,e27abb06-81da-40e5-a77a-80f0fe2578fc
 Publish,f065f642-d108-4f50-8aa5-6749150a895a
@@ -9348,6 +9351,7 @@ StippleMarkdown,2b41e42f-53d3-436c-aed0-ebb7c31b58f1
 StippleMathjs,7fb1dcd0-db8f-4201-9509-3dea5d7792e9
 StipplePlotly,ec984513-233d-481d-95b0-a3b58b97af2b
 StipplePlotlyExport,d3391a6e-3825-4561-b7f8-2cd130659cb1
+StippleTabs,29f11006-3202-4091-a17b-0a26282d76dd
 StippleTypedArrays,304e07c4-4ffc-4adf-87bc-5a9afdf39ded
 StippleUI,a3c5d34a-b254-4859-a8fa-b86abb7e84a3
 StirredReactor,0f306737-e494-4d62-9475-91bb092c0e67
@@ -10625,6 +10629,7 @@ XNumbers,4adfaa65-5b36-4fba-9909-626196083c27
 XPA,d310a076-6a08-52b6-ab78-79baa254182b
 XPA_jll,9dbca590-e19a-5566-89a8-3997bfd21c58
 XPORTA,8c143463-af6f-456f-8aed-72447cb569d2
+XRT,4d396880-2e3f-4be1-8c36-e87777010d00
 XRootD,164e3b87-dc46-4cbc-97a6-5b310108fce0
 XRootD_cxxwrap_jll,bb14ce0c-f071-543a-8ca1-cd3dc3e29ed0
 XRootD_jll,b6113df7-b24e-50c0-846f-35a2e36cb9d5
