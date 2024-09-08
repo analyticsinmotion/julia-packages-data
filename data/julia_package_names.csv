@@ -199,6 +199,7 @@ AesKeywrapNettle,d0ff3c94-28b9-43ce-b75b-813f49a99563
 AffineArithmetic,2e89c364-fad6-56cb-99bd-ebadcd2cf8d2
 AffineInvariantMCMC,a0f608ac-68d0-5108-ad9a-0cdca73324f3
 AffineMaps,2c83c9a8-abf5-4329-a0d7-deffaf474661
+AffineMotions,4fe253f5-c7a7-4e36-a4a1-b5bab8c98bb8
 AffyCelFiles,efc83544-1c47-49f8-8867-17a7f6cc0942
 Agents,46ada45e-f475-11e8-01d0-f70cc89e6671
 AgentsExampleZoo,88acaeb2-2f63-4ada-bca2-2825d9da22ed
@@ -1943,6 +1944,7 @@ DAQP_jll,5c51c916-43bf-57fe-9d62-13064ebbf40d
 DASKR,165a45c3-f624-5814-8e85-3bdf39a7becd
 DASKR_jll,655fdf9c-4522-5e7e-b537-e46a52300ea6
 DASSL,e993076c-0cfd-5d6b-a1ac-36489fdf7917
+DBCtoDBF_jll,404e8f35-d372-56c3-89ac-e648a26fddda
 DBFTables,75c7ada1-017a-5fb6-b8c7-2125ff2d6c93
 DBInterface,a10d1c49-ce27-4219-8d33-6db1a4562965
 DBMigrations,277cf75d-8bce-46ef-b2a4-258a2479b121
@@ -3021,6 +3023,7 @@ FastVision,7bf02486-ff4c-4e73-b158-40c00866b54f
 FastaIO,a0c94c4b-ebed-5953-b5fc-82fe598ac79f
 FastaLoader,139838d8-4077-4d8a-94e1-e6dd554a184c
 Fastnet,020e4cdc-d87b-429d-8327-eec64f3aefd1
+Fastscapelib_jll,85b6c75f-dabe-5cb8-ba5f-2ccb8070923d
 FatDatasets,81214a02-5f62-11e9-0034-85477e58be7c
 Fatou,5f923234-c850-556d-bb4f-28324fa1959a
 Faulhaber,33540e4f-9c8d-4a7a-bd62-985e8d20a53a
@@ -5196,6 +5199,7 @@ LinearAlgebraX,9b3f67b0-2d00-526e-9884-9e4938f8fb88
 LinearAlgebraicRepresentation,95167b0c-186a-594b-a231-52369c6de044
 LinearCombinations,67be3549-475c-46bf-8928-de3404d670d9
 LinearCovarianceModels,4af8ee2a-afa9-11e9-10dc-fb1b37f8f4b5
+LinearDecisionRules,ee4db4e3-7eec-47e5-9935-9699b02754f6
 LinearDynamicsModels,93c30095-2a61-55f3-920e-6649674b8a9e
 LinearElasticity,8b390c8a-e41e-419b-b3a5-595c9a4d2b26
 LinearElasticityBase,c9ccf908-6911-46c3-b424-436f6a0ac525
@@ -10157,6 +10161,7 @@ TypeVars,1398eb57-c31f-488b-b7ed-988721cb81f1
 TypedCodeUtils,687fb87b-adea-59d5-9be9-82253b54685d
 TypedDelegation,bc724e2e-2423-57c2-8f10-788c81380fc8
 TypedFASTX,6c3c8c82-ef46-460a-9a5a-30cbd93ae9ab
+TypedNamedTuples,ccff231a-7084-4552-ab5c-55556ada9b2a
 TypedPolynomials,afbbf031-7a57-5f58-a1b9-b774a0fad08d
 TypedSyntax,d265eb64-f81a-44ad-a842-4247ee1503de
 TypedTables,9d95f2ec-7b3d-5a63-8d20-e2491e220bb9
@@ -11323,6 +11328,7 @@ xtrx_jll,f7ce82bc-bc1e-5125-bd1d-6a84dd39bfb4
 xxHash_jll,5fdcd639-92d1-5a06-bf6b-28f2061df1a9
 yaml_cpp_jll,01fea8cc-7d33-533a-824e-56a766f4ffe8
 yq_jll,174e927f-d384-57ac-82db-e88370a29c21
+yyjson_jll,c205f263-c50b-522f-8355-d1dd211834e2
 z3_jll,1bc4e1ec-7839-5212-8f2f-0d16b7bd09bc
 z5_jll,c9251380-99b7-5c1d-a474-9aaf727e38ce
 zarray_jll,c058db89-f906-57f2-99e8-5bc0314c4ef9
