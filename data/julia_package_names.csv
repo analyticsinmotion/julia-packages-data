@@ -1661,6 +1661,7 @@ CompressedSensing,adc28fdd-7b77-41a2-89a7-a1a193b336a0
 CompressedSparseBlocks,c9633620-f88e-4e67-b3af-074911471b78
 CompressiveLearning,5d372d12-fa29-11e8-3ae3-03dd413d87db
 ComputabilityTheory,1aac4ff9-3d20-4305-ad99-6d6ea6b313c2
+ComputableDAGs,62933717-1c9d-4a3f-b06f-7ab7f17ca32d
 ComputationalResources,ed09eef8-17a6-5b46-8889-db040fac31e3
 ComputedFieldTypes,459fdd68-db75-56b8-8c15-d717a790f88e
 ComputedFields,ca9a45ee-5845-4167-bbbe-6c434770cc9d
@@ -2674,6 +2675,7 @@ EnergyModelsGUI,737a7361-d3b7-40e9-b1ac-59bee4c5ea2d
 EnergyModelsGeography,3f775d88-a4da-46c4-a2cc-aa9f16db6708
 EnergyModelsInvestments,fca3f8eb-b383-437d-8e7b-aac76bb2004f
 EnergyModelsRenewableProducers,b007c34f-ba52-4995-ba37-fffe79fbde35
+EnergySamplers,f446124b-5d5e-4171-a6dd-a1d99768d3ce
 EnergyStatistics,631263cc-0f82-11ea-1caf-35c9eae72d11
 EnforcedTypeSignatureCallables,e0a517c1-78b8-4e0b-8db9-584d87c611c9
 EngThermBase,dffbff30-506a-45ba-b474-e78cc8ad254e
@@ -7149,6 +7151,7 @@ Photodynamics,19d19b8a-d445-44de-bef5-58c3ebc30fa7
 Photometry,af68cb61-81ac-52ed-8703-edc140936be4
 Photon,0bf025f6-8a23-43ed-a0f8-ad988f0a8cd8
 Photosynthesis,537ec7c9-aaee-45d0-8af0-4b77892958a6
+PhreeqcRM_jll,0e4d9a47-ac49-502f-82ee-cd7c370ff5e0
 PhyML_jll,1371226f-2bf8-5a91-99cc-70a4fbc99e18
 PhyNEST,115de871-c282-4823-a74f-b03678acf966
 Phylo,aea672f4-3940-5932-aa44-993d1c3ff149
@@ -8881,6 +8884,7 @@ SimpleRationalFunctions,1a520dc8-4f4e-523b-a9bd-3b3d46c5454b
 SimpleRoots,6accb78c-d340-5052-9dc3-a835939e19d0
 SimpleSDMDatasets,2c7d61d0-5c73-410d-85b2-d2e7fbbdcefa
 SimpleSDMLayers,2c645270-77db-11e9-22c3-0f302a89c64c
+SimpleSim,b9efc609-bc7d-446c-95a0-c858d8725e88
 SimpleSolvers,36b790f5-6434-4fbe-b711-1f64a1e2f6a2
 SimpleStatics,755f8035-bddb-4884-b09e-b908b7adad44
 SimpleStringScanners,fe2b3641-c6e9-460c-8da8-2838146e3f25
