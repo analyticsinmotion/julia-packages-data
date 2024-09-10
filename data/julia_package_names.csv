@@ -4596,6 +4596,7 @@ JSOSolvers,10dff2fc-5484-5881-a0e0-c90441020f8a
 JSOSuite,ed6ae0be-a024-11e9-2788-05dbf8cd15d9
 JSObjectLiteral,a7b85b94-2b9e-11e9-2e5f-79ec22955f58
 JSServe,824d6782-a2ef-11e9-3a09-e5662e0c26f9
+JSUrl,7961c0c6-d413-4083-9ff6-822c52aae3a3
 JSXGraph,97e4c2e4-f0cb-461e-a268-312dec255b76
 JUDI,f3b833dc-6b2e-5b9c-b940-873ed6319979
 JUDI4Cloud,32925ad8-f583-44d3-8c77-a232bc7bbe09
@@ -5426,6 +5427,7 @@ MIToS,51bafb47-8a16-5ded-8b04-24ef4eede0b5
 MKL,33e6dc65-8f57-5167-99aa-e5a354878fb2
 MKLOneClassSVM,8f660ece-bb0f-4d0c-a9d4-8a8c66018381
 MKLSparse,0c723cd3-b8cd-5d40-b370-ba682dde9aae
+MKLTwoStageRO,93898484-63e5-4ba9-b4a0-175f12ac17f3
 MKL_Headers_jll,b2f2f022-7a59-54f4-945e-e9b78c3fd545
 MKL_jll,856f044c-d86e-5d09-b602-aeab76dc8ba7
 MLBStatsAPI,42ebdba7-407d-44c0-9113-87bc03bc22d1
@@ -6286,6 +6288,7 @@ NamedPositionals,a436ac3e-0271-447f-a0a9-08c7bbbdab37
 NamedTrajectories,538bc3a1-5ab9-4fc3-b776-35ca1e893e08
 NamedTupleTools,d9ec5142-1e00-5aa0-9d6a-321866360f50
 NamedTuples,73a701b4-84e1-5df0-88ff-1968ee2ee8dc
+NamingConventions,d2ef9726-cd01-476d-83ec-59819e6084ab
 Namtso,14fc9687-df25-4852-9e56-61a08c6e8132
 NanoDates,46f1a544-deae-4307-8689-c12aa3c955c6
 NanoVG_jll,38a0872c-fafd-5507-99b7-5cae04c321c8
@@ -9755,6 +9758,7 @@ TensorGames,dad72d94-522a-402a-84d3-a630e8ffd4d6
 TensorInference,c2297e78-99bd-40ad-871d-f50e56b81012
 TensorKit,07d1fe3e-3e46-537d-9eac-e9e13d0d4cec
 TensorKitManifolds,11fa318c-39cb-4a83-b1ed-cdc7ba1e3684
+TensorKitSectors,13a9c161-d5da-41f0-bcbd-e1a08ae0647f
 TensorMarket,8b7d4fe7-0b45-4d0d-9dd8-5cc9b23b4b77
 TensorNetworkAD,6b36f460-1d4e-5459-a8c4-3ab8f40f7d47
 TensorNetworkCodes,b317c587-d840-4e81-9857-9d906192e215
@@ -10165,6 +10169,7 @@ TypeVars,1398eb57-c31f-488b-b7ed-988721cb81f1
 TypedCodeUtils,687fb87b-adea-59d5-9be9-82253b54685d
 TypedDelegation,bc724e2e-2423-57c2-8f10-788c81380fc8
 TypedFASTX,6c3c8c82-ef46-460a-9a5a-30cbd93ae9ab
+TypedMatrices,a0429a07-0388-4c37-a18a-23d110f8915c
 TypedNamedTuples,ccff231a-7084-4552-ab5c-55556ada9b2a
 TypedPolynomials,afbbf031-7a57-5f58-a1b9-b774a0fad08d
 TypedSyntax,d265eb64-f81a-44ad-a842-4247ee1503de
@@ -11011,6 +11016,7 @@ libasyncns_jll,ed080073-db63-57db-a029-74e11ae80737
 libatomic_ops_jll,05a86a2e-8047-56b1-a9eb-0973326f4c2d
 libavif_jll,d7a461ab-9c30-58dd-b115-285ac81dc4e5
 libavtp_jll,c33e1e51-3cb7-5762-8964-d0cfbd951039
+libbensolve_jll,b87178c0-1e03-5bfb-8a01-b03b192b63a7
 libblastrampoline_jll,8e850b90-86db-534c-a0d3-1478176c7d93
 libbluray_jll,4a6b8444-0b90-5145-9aa0-b7d88b695d06
 libboxer_jll,5847ba37-b048-5c88-b501-c62f664b1471
@@ -11175,6 +11181,7 @@ oneAPI_Level_Zero_Loader_jll,13eca655-d68d-5b81-8367-6d99d727ab01
 oneAPI_Level_Zero_jll,0038a6a5-a77d-50b4-8f67-3bd55e463950
 oneAPI_Support_Headers_jll,24f86df5-245d-5634-a4cc-32433d9800b3
 oneAPI_Support_jll,b049733a-a71d-5ed3-8eba-7d323ac00b36
+oneDNN_jll,3523a63d-8698-5b6f-b2c2-68eaa6bde0f0
 oneTBB_jll,1317d2d5-d96f-522e-a858-c73665f53c3e
 open62541_jll,de311183-6042-582f-9ed9-05a52085bec4
 openPMD,e4c73209-6c8c-4213-807b-38d671e094ab
