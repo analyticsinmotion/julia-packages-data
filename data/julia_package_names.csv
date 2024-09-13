@@ -1945,6 +1945,7 @@ DAQP_jll,5c51c916-43bf-57fe-9d62-13064ebbf40d
 DASKR,165a45c3-f624-5814-8e85-3bdf39a7becd
 DASKR_jll,655fdf9c-4522-5e7e-b537-e46a52300ea6
 DASSL,e993076c-0cfd-5d6b-a1ac-36489fdf7917
+DBCDatasus,0a41c9ea-d8d3-4f8c-9570-eb3876ab6987
 DBCtoDBF_jll,404e8f35-d372-56c3-89ac-e648a26fddda
 DBFTables,75c7ada1-017a-5fb6-b8c7-2125ff2d6c93
 DBInterface,a10d1c49-ce27-4219-8d33-6db1a4562965
@@ -2791,6 +2792,7 @@ Exodus,f57ae99e-f805-4780-bdca-96e224be1e5a
 Exodus_jll,fc7263ad-bce8-5229-97b1-c6ddabda41b1
 ExoplanetsSysSim,e0ba718c-02ec-11e9-384b-dd2930072415
 ExpFamilyDistributions,ac7c78bc-e309-483d-b879-ab7fdbfc3919
+ExpFamilyPCA,9c724b78-6801-4402-8a63-53f028696012
 ExpandNestedData,8a7d223a-a7dc-4abf-8bc1-b0ce2ace9adc
 Expat_jll,2e619515-83b5-522b-bb60-26c02a35a201
 Expect,6a31a4e8-6e70-5a2d-b005-bc2d500d80a5
@@ -3685,6 +3687,7 @@ GeologicTime,7ffcb9c5-a22b-481a-ba2a-c280bedef8cf
 GeometricBase,9a0b12b7-583b-4f04-aa1f-d8551b6addc9
 GeometricDatasets,b92f1397-7bd4-4d1a-aad5-e469f2dd85cb
 GeometricEquations,c85262ba-a08a-430a-b926-d29770767bf2
+GeometricFilter,52e57683-dc88-4bd1-983c-468b4cfc34f1
 GeometricFlux,7e08b658-56d3-11e9-2997-919d5b31e4ea
 GeometricIntegrators,dcce2d33-59f6-5b8d-9047-0defad88ae06
 GeometricIntegratorsDiffEq,5a33fad7-5ce4-5983-9f5d-5f26ceab5c96
@@ -4178,6 +4181,7 @@ Hyperopt,93e5fe13-2215-51db-baaf-2e9a34fb2712
 Hyperparameters,dec02a44-0573-464b-9dcd-b0da4b5d2d2e
 Hyperscript,47d2ed2b-36de-50cf-bf87-49c2cf4b8b91
 Hyperspecialize,1711496e-389e-5c2f-a773-3b6147c29b08
+HypersurfaceRegions,6d1d4b64-24a0-4125-b8e7-5a4e0a5017ad
 HypertextLiteral,ac1192a8-f4b3-4bfe-ba22-af5b92cd3ab2
 HypertextTemplates,c7d46f9d-34c3-4420-bf57-257f25aec718
 HypothesisTests,09f84164-cd44-5f33-b23f-e6b0d136a0d5
@@ -6377,6 +6381,7 @@ NeumannKelvin,7f078b06-e5c4-4cf8-bb56-b92882a0ad03
 NeuralArithmetic,ab1feca7-9272-4c7d-b713-789d3461e743
 NeuralAttentionlib,12afc1b8-fad6-47e1-9132-84abc478905f
 NeuralDynamics,4a0b20f9-fc5a-4814-8f96-b33a141a51c8
+NeuralEstimators,38f6df31-6b4a-4144-b2af-7ace2da57606
 NeuralFieldEq,d4f2cf9b-1959-46fe-97e6-985c98850872
 NeuralGraphPDE,dc0c328b-2f26-4c4e-a741-3d78bb01adf9
 NeuralGraphicsGL,263f7e6d-e369-49af-a86e-c85638573b76
@@ -7831,6 +7836,7 @@ QuantumESPRESSOCommands,f713baf6-9299-4878-8719-8ad597e49a7b
 QuantumESPRESSOExpress,524a00d3-5d12-4323-9774-d2c11dc9d82e
 QuantumESPRESSOFormatter,a4e7ca57-d8d8-4f74-9c0b-0b18081c205e
 QuantumESPRESSOParser,a780ab42-b33a-11e9-16c1-a92d75b2a626
+QuantumElectrodynamics,bb1fba1d-cf9b-41b3-874e-4b81465537b9
 QuantumEspresso_jll,74603b90-2fcf-5710-a7d7-830b31b8b33c
 QuantumFluidSpectra,8ddfec37-9569-48bd-b1f3-d8731767ee3a
 QuantumFoca,a8c63e1a-51a3-4393-8cc1-c539063cb104
