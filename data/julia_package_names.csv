@@ -88,6 +88,7 @@ AbbreviatedTypes,1766def0-c946-4dda-a59e-d0d07f8410f7
 AbidesMarkets,58d4ea2d-0711-406a-8537-437c3b89a4c2
 AbnormalReturns,f9c80461-2ebf-4c7c-9c1c-d30d9d100fd8
 About,69d22d85-9f48-4c46-bbbe-7ad8341ff72a
+AbsSmoothFrankWolfe,6d364d26-5f85-487f-81b3-ae189dbb3e92
 AbstractAlgebra,c3fe647b-3220-5bb0-a1ea-a7954cac585d
 AbstractCircuitComponentRounding,f69727b9-8a39-40e5-8e7a-0243a3421727
 AbstractControlProcesses,d0d8031c-1ca7-4517-a182-a2551ca8592c
@@ -4343,6 +4344,7 @@ Impute,f7bf1975-0170-51b9-8c5f-a992d46b9575
 InMAPSourceReceptorMatrices,4ce82931-4c10-4b80-a308-e2bd97408557
 InMemoryDatasets,5c01b14b-ab03-46ff-b164-14c663efdd9f
 InPartS,f768f48f-0d8a-415b-80aa-7de5ff9b8474
+InPartSBiome,87678d4f-af7b-42c4-8acc-799be3e9c2d2
 InPartSMakie,6a17de3e-552d-46b5-89f5-35afbcb8c2d5
 InPartSObstacles,4110d2ad-ee24-4968-96bf-19205974a08d
 InPlace,12a7aed9-f4ee-5e21-a57e-4f63a8148421
