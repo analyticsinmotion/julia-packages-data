@@ -4227,6 +4227,7 @@ ISL,4d9053e4-97a6-4476-8996-fca684647641
 ISL_jll,9a84b867-ccd3-531b-bb38-095e36150902
 ISOKANN,512544ac-929d-4ba3-aa9d-55e9313a4b47
 ITK,c07c4cf6-b85e-11e9-2ee5-393f21797b38
+ITKIOWrapper,8538b10a-c1b7-4e8d-b607-b3a5053e6a1f
 ITKIOWrapper_jll,b6265aa4-802f-522b-a8eb-4519ac77ab09
 ITK_jll,3324d3a8-621a-5aaa-97fa-c3bc8dfc0481
 ITSOL_2_jll,00902081-cde0-5369-89f6-850dc9512c44
@@ -4458,6 +4459,7 @@ InteractiveErrors,6cff3a6f-7015-4b3b-b269-4b312a73b9bf
 InteractiveFixedEffectModels,80307280-efb2-5c5d-af8b-a9c15821677b
 InteractiveGPs,2f1d4ca1-3c43-4f00-8f03-df4ec2430900
 InteractiveGeodynamics,3ccad509-8039-4f04-ad0e-35c379e37327
+InteractiveGeospatial,9dbc1c15-08f7-42e2-915c-53d8f7c4cd8b
 InteractiveViz,d14badfc-0adb-4d57-980e-37858d990fa5
 InteratomicPotentials,a9efe35a-c65d-452d-b8a8-82646cd5cb04
 InterestRates,09453d48-b9e1-5bf0-a018-8d5c65f8cb56
