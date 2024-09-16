@@ -1313,6 +1313,7 @@ Ccluster,8fd415a7-295e-5ecb-bee7-308748477f8f
 Ccluster_jll,2795595f-8cd6-5168-9a44-49c628ee0ce1
 CeMicrodata,11053890-0308-406b-94d3-d76ebcae6419
 CellArrays,d35fcfd7-7af4-4c67-b1aa-d78070614af4
+CellArraysIndexing,6597d73a-e7d2-484e-9044-f54e6a6a1966
 CellBase,01ff7365-e1e2-4ed5-aabe-f1c451dd6d4e
 CellBasedModels,388cb286-f2b1-4654-a3bb-2e137a39c658
 CellListMap,69e1c6dd-3888-40e6-b3c8-31ac5f578864
@@ -3848,6 +3849,7 @@ Graphs,86223c79-3864-5bf0-83f7-82e725a168b6
 GraphsFlows,06909019-6f44-4949-96fc-b9d9aaa02889
 GraphsInterfaceChecker,3bef136c-15ff-4091-acbb-1a4aafe67608
 GraphsMatching,c3af3a8c-b79e-4b01-bf44-c718d7e0e0d6
+GraphsOptim,e79ef3ae-79c8-4b97-b165-63f338db30c2
 GraphvizDotLang,6039e64d-d8b8-4c93-8e43-7efd2f757352
 Graphviz_jll,3c863552-8265-54e4-a6dc-903eb78fde85
 Grassmann,4df31cd9-4c27-5bea-88d0-e6a7146666d8
@@ -6044,6 +6046,7 @@ Mongoc,4fe8b98c-fc19-5c23-8ec2-168ff83495f2
 MongocUtils,e584fc4d-3f36-46f9-b493-fafa6061fac8
 MonkeyLang,2e3b8ffb-b112-4a86-975c-b56a8cdf8971
 MonolithicFEMVLFS,02a35734-3e3a-4c9f-8994-84c0fbc3ad2f
+Monomials,272bfe72-f66c-432f-a94d-600f29493792
 MonotoneDecomposition,985e57c0-c0fb-4ac0-a7f6-0eae5cf96536
 MonotoneSplines,92812004-5f8d-4354-96af-0c8b7c0637d0
 MonotonicSplines,568f7cb4-8305-41bc-b90d-d32b39cc99d1
@@ -9463,6 +9466,7 @@ StructuredArrays,2e8cd123-6858-488d-b42d-068777248635
 StructuredGrids,3d2d666f-9104-4379-abe9-d44f4b99a429
 StructuredLight,13204c95-a6e5-4c09-8c7b-ee09b09e0944
 StructuredOptimization,46cd3e9d-64ff-517d-a929-236bc1a1fc9d
+StructuredOutputs,a64ab3a6-1e61-46d9-9cad-3303c166b426
 StructuredPrinting,98e085c8-1edc-4d9d-bf3b-8d7a8502c19d
 StructuresKit,f6c18a9d-8941-4a0a-88a3-c5fc4dcc4715
 Struve,bbbc800e-c7bf-11e8-107b-9b6d1d23829a
