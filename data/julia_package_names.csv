@@ -3760,6 +3760,7 @@ GlobalSearchRegression,5b3bc22e-96cb-5e8b-bdf1-153217652f04
 GlobalSearchRegressionGUI,a066f67d-7bb6-5c78-aee2-fe6a6ddc0b62
 GlobalSensitivity,af5da776-676b-467e-8baf-acd8249e4f0f
 GlobalSensitivityAnalysis,1b10255b-6da3-57ce-9089-d24e8517b87e
+Globtim,00da9514-6261-47e9-8848-33640cb1e528
 Gloo_jll,5909ec93-c24e-5240-9f48-bc73cd7db194
 Gloria,5b2e8964-9f3b-11e8-3f79-610468876dfe
 Glowe,d04f5788-f3bf-50c4-8044-9206750af6c9
@@ -5151,6 +5152,7 @@ Libiconv_jll,94ce4f54-9a6c-5748-9c1c-f9c7231a4531
 Libksba_jll,52a58d30-3731-5a3f-8361-26ffb4f63669
 Liblet,5ecd16ac-4fd8-43d2-a9dd-e22a5cebe6f6
 Libmount_jll,4b2f31a3-9ecc-558c-b454-b3730dcb73e9
+LibraryAugmentedSymbolicRegression,158930c3-947c-4174-974b-74b39e64a28f
 Librsvg_jll,925c91fb-5dd6-59dd-8e8c-345e74382d89
 Libsharp,ac8d63fe-4615-43ae-9860-9cd4a3820532
 Libtask,6f1fad26-d15e-5dc8-ae53-837a1d7b8c9f
@@ -6740,6 +6742,7 @@ OptimTestProblems,cec144fc-5a64-5bc6-99fb-dde8f63e154c
 OptimalApplication,3e920f78-0eb2-4966-9e73-7442414dae3e
 OptimalBids,54ed2464-0158-49e7-9a8e-1c1697a616e3
 OptimalControl,5f98b655-cc9a-415a-b60e-744165666948
+OptimalControlProblems,59046045-fb9c-4c23-964f-ff0a25704f96
 OptimalEstimation,b4b06e15-aec3-475a-bd5d-4eaf7ad224b9
 OptimalMatrixCompletion,26d6b5db-a198-4a75-82bf-4a48696500ea
 OptimalPortfolios,f8c24b8e-07c0-4fa7-b4d4-fbfdbae127a5
@@ -7177,6 +7180,7 @@ PhyloDiamond,5fd89c64-9bfa-4c3b-9406-7e573fc4f4af
 PhyloGaussianBeliefProp,e3084505-90a0-4799-8167-4168d9f39f7c
 PhyloModels,6465ae08-de3a-5dbe-bda8-3920f6a01ab7
 PhyloNetworks,33ad39ac-ed31-50eb-9b15-43d0656eaa72
+PhyloPickMe,0dfd6e21-1466-4d69-a740-ac598855cece
 PhyloPlots,c0d5b6db-e3fc-52bc-a87d-1d050989ed3b
 PhyloTools,b795de74-0e0b-491f-a34a-f5524d7c246d
 PhyloTrees,4c47b132-0681-5a5d-b498-3afcf53fd314
@@ -7560,6 +7564,7 @@ ProbabilisticParameterEstimators,0098cf3f-3e1e-4f11-b01c-dd9dec1b3374
 ProbabilisticRoadMap,773847ca-07cc-414d-a27c-4458bbc76b2b
 ProbabilityBoundsAnalysis,cd73f0b2-6f06-11ea-242f-83a09de6a7cf
 Probably,2172800d-0309-5a57-a84f-d50c94757422
+ProblemReductions,899c297d-f7d2-4ebf-8815-a35996def416
 ProblemSet,806f51fd-16a3-4f55-bd44-f0d72f9cf926
 Problox,41531fc7-7f15-48cd-9c2f-2efb66d9fe65
 ProcessBasedModelling,ca969041-2cf3-4b10-bc21-86f4417093eb
