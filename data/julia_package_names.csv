@@ -192,6 +192,7 @@ AdventOfCode,7ef4cfdd-3fec-4d8b-b242-bcc5161d01d5
 Adversarial,8264478e-c961-11e9-041d-dda11a3b20ed
 AdversarialPrediction,ad42c870-428c-46ff-ae37-01b7349146a9
 AeroAcoustics,03ede2b8-90d7-56cb-9af1-359a44c6802d
+AeroBeams,4684ee71-20c3-4c77-8fc5-ebacc9f0342e
 AeroFuse,477c59f4-51f5-487f-bf1e-8db39645b227
 AeroMDAO,ae1513eb-aba2-415b-9b88-80f66c7c7c76
 Aeron_jll,d964258c-d1ad-568a-aca9-3ef511f5bffd
@@ -5841,6 +5842,7 @@ Metalhead,dbeba491-748d-5e0e-a39e-b530a07fa0cc
 MetapopulationDynamics,67afee28-ec33-4cc2-88ea-a48c87ed52f9
 Metatheory,e9d8d322-4543-424a-9be4-0cc815abe26c
 MethodAnalysis,85b6ec6f-f7df-4429-9514-a64bcd9ee824
+MethodInSrc,c116309b-47aa-4bde-803c-ba7517b69216
 MethodInspector,b1dd13ee-3653-43d9-9a5b-1245bfcfc883
 MethodOfLines,94925ecb-adb7-4558-8ed8-f975c56a0bf4
 Metida,a1dec852-9fe5-11e9-361f-8d9fde67cfa2
