@@ -468,6 +468,7 @@ AtomicData,6b77412b-f4b7-4495-8b9c-778517285205
 AtomicFileWrite,f119f125-4b25-46d8-b5f3-95ec5c404bfa
 AtomicGraphNets,ccdf130a-3c88-4595-a023-a7e7f78b9dd5
 AtomicLevels,10933b4c-d60f-11e8-1fc6-bd9035a249a1
+AtomicLocks,de46ae7c-df16-46d9-ba75-55d31af5ce86
 AtomicMass,2c8f42cb-e0b9-4bc5-96ad-9274ec8d5f21
 AtomicMassEvaluation,9f60cadd-00eb-4e57-b715-beb4ff532cb8
 AtomicStructure,e24b7630-0518-11e9-1346-1188d3abce50
