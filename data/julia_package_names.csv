@@ -4114,6 +4114,7 @@ Historic,e6ec0b50-ef98-488a-a141-280ae2eaf113
 HistoricalStdlibVersions,6df8b67a-e8a0-4029-b4b7-ac196fe72102
 HistoryTrees,6629d18c-a67a-486a-9b40-962f9d752038
 Hive,6735fb99-e7a2-5b86-aa6b-3fb73ebb43ff
+Hjson_jll,c7ce213b-85ae-5bf1-9497-6be93055ed87
 HmtArchive,1e7b0059-6550-4515-8382-5d3f2046a0a7
 HmtDashUtils,56120bdb-dd5b-43f0-8d83-690e170361e4
 HmtFacsimileBuilders,51afb9e0-fec5-4c9c-a749-28047e6f0de5
@@ -5006,6 +5007,7 @@ LatinSquares,c3c424ec-ae8f-5049-b7bf-f9296ef684c8
 LatinSyntax,48187f9f-78ff-4060-b31e-d855612fbaec
 LatticeAnimals,8faeb6a4-9048-4507-b81f-6dcc9b8256f0
 LatticeDiracOperators,019239df-b0e3-486e-8e4c-d1c29ee5d6b9
+LatticeModels,3c3db7f8-440c-4375-905c-1a18b5307bed
 LatticeQCD,8a12f9b3-8daf-4285-9aa6-f1d88d857ae8
 LatticeRules,73f95e8e-ec14-4e6a-8b18-0d2e271c4e55
 LatticeSites,5c077215-83a5-5958-bb3f-c7068ae3c6fe
@@ -5217,6 +5219,7 @@ LineSearches,d3d80556-e9d4-5f37-9878-2ab0fcc64255
 LinearAdjoints,3201237a-9847-11e9-0d2a-6d530c977506
 LinearAlgebraX,9b3f67b0-2d00-526e-9884-9e4938f8fb88
 LinearAlgebraicRepresentation,95167b0c-186a-594b-a231-52369c6de044
+LinearAssignment,e04a135d-938e-4d6d-a2bd-80fee3964557
 LinearCombinations,67be3549-475c-46bf-8928-de3404d670d9
 LinearCovarianceModels,4af8ee2a-afa9-11e9-10dc-fb1b37f8f4b5
 LinearDecisionRules,ee4db4e3-7eec-47e5-9935-9699b02754f6
@@ -8778,6 +8781,7 @@ ShaderAbstractions,65257c39-d410-5151-9873-9b3e5be5013e
 Shaderc_jll,6bef4a77-805f-5404-b838-981e48d6e429
 ShallowWaters,56019723-2d87-4a65-81ff-59d5d8913e3c
 Shamir,e4fe616d-9329-4237-b43f-e8b93a85fd75
+ShaneGPUCountMinSketch,910541cc-34bb-47a1-b3fd-5231dc2195e0
 ShapML,8523bd24-6f66-414b-9e1e-b02db3916d64
 ShapeConstrainedStats,f73efea4-6d21-11e9-25ff-9b1447cfbccb
 ShapeFactory,5f2830c0-a9f2-11e9-177d-47448fa133db
@@ -10642,6 +10646,7 @@ X11_jll,546b0b6d-9ca3-5ba2-8705-1bc1841d8479
 X13as_jll,6c9beba9-e00a-580e-a2fe-633c5dfe81b1
 XAIBase,9b48221d-a747-4c1b-9860-46a1d8ba24a7
 XAM,d759349c-bcba-11e9-07c2-5b90f8f05f7c
+XCALibre,cf91e36b-bd94-493a-8848-32508a10963c
 XCB,16167f82-ea26-5cba-b1de-ed6fd5e30a10
 XCBased,fac17066-6efe-4494-9398-e70f574ba8bc
 XCrySDenStructureFormat,02310045-4665-40c9-a658-98c497d2eca9
