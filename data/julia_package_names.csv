@@ -6069,6 +6069,7 @@ MonteCarloSummary,09b61566-bbdb-49ee-a687-6096cc4472a0
 MonteCarloTesting,b75b2f39-c526-438a-aeb3-f18deacfdc57
 MonthlyDates,5be0b35e-b7aa-4f8f-be3c-193ee1a845a6
 MoodleQuestions,e6233ccc-e36c-49e3-ac71-1ad7b6c78055
+Mooncake,da2b9cff-9c12-43a0-ae48-6db2b0edb7d6
 MortalityModels,9406b108-c799-4c20-a955-6fb73514e56d
 MortalityTables,4780e19d-04b9-53dc-86c2-9e9aa59b5a12
 Mortar2D,0b7cd5e2-b3f3-5fae-9080-a65912ed73e3
@@ -6232,6 +6233,7 @@ NExOS,a0d681ee-6dde-4d9d-b128-06c773d9ceb4
 NFFT,efe261a4-0d2b-5849-be55-fc731d526b0d
 NFFT3,53104703-03e8-40a5-ab01-812303a44cae
 NFFTTools,7424e34d-94f7-41d6-98a0-85abaf1b6c91
+NFLData,38e18452-fdda-4cae-b91e-088906595f57
 NFLTables,d9d91892-6368-4404-842f-e6b99dc208e9
 NIDAQ,66b72792-1abf-55ab-8064-6e9051317175
 NIRX,f8c78b77-5d66-5574-88fe-980e6170bf40
@@ -6299,6 +6301,7 @@ NaiveDESPOT,6bfa5940-3c60-11ee-1a7e-43a2532b2fa8
 NaiveGAflux,81ede08e-ab29-11e9-16d3-79edd30a1d76
 NaiveNASflux,85610aed-7d32-5e57-bb50-4c2e1c9e7997
 NaiveNASlib,bd45eb3e-47ce-54bd-9eaf-e86c5f900853
+Nakala,d40b7edd-0ea2-426c-85ee-c5ce139337ad
 NamSor,9196ee18-f1f3-450f-8707-b789d68f0c83
 NameResolution,71a1bf82-56d0-4bbc-8a3c-48b961074391
 NamedArrays,86f7a689-2022-50b4-a561-43c23ac3c673
@@ -6606,6 +6609,7 @@ OceanGrids,cfe838f4-859f-11e9-2ea1-df7d4e7c3537
 OceanRasterConversions,07ff2621-03e0-4bfb-9812-e5d28c6dbff8
 OceanRobots,0b51df41-3294-4961-8d23-db645e32016d
 OceanStateEstimation,891f6deb-a4f5-4bc5-a2e3-1e8f649cdd2c
+OceanTransportMatrixBuilder,c2b4a04e-6049-4fc4-aa6a-5508a29a1e1c
 OceanTurb,d848d694-35fd-11e9-1c91-9995598ac29e
 OceanWaveSpectralFitting,a44e4c57-a566-426a-9563-b0c20c24dda1
 Oceananigans,9e8cae18-63c1-5223-a75c-80ca9d6e9a09
@@ -8204,6 +8208,7 @@ Relationals,0682c367-51f6-4d82-8bfe-b4722079e034
 RelativisticDynamics,9dfc3e7a-5dd6-4aec-9244-c4a41014c270
 RelevancePropagation,0be6dd02-ae9e-43eb-b318-c6e81d6890d8
 RelevanceStacktrace,6c8a4c8a-cd07-4735-95b7-b1ced2eaf8fd
+RelevanceVectorMachine,9fd38b11-e9ac-4299-9d3c-c25c1a5084b5
 ReliabilityDiagrams,e5f51471-6270-49e4-a15a-f1cfbff4f856
 ReliabilityOptimization,55eddd50-7f45-4398-96cf-6a37e2b16f80
 Relief,e59a39ae-ffc4-11ea-35a5-2b2996f35250
@@ -9390,6 +9395,7 @@ StippleMarkdown,2b41e42f-53d3-436c-aed0-ebb7c31b58f1
 StippleMathjs,7fb1dcd0-db8f-4201-9509-3dea5d7792e9
 StipplePlotly,ec984513-233d-481d-95b0-a3b58b97af2b
 StipplePlotlyExport,d3391a6e-3825-4561-b7f8-2cd130659cb1
+StippleTable,5bb4b094-0818-496d-ae94-fd777e10e8ba
 StippleTabs,29f11006-3202-4091-a17b-0a26282d76dd
 StippleTypedArrays,304e07c4-4ffc-4adf-87bc-5a9afdf39ded
 StippleUI,a3c5d34a-b254-4859-a8fa-b86abb7e84a3
@@ -9946,6 +9952,7 @@ TimeDataFrames,ff13af16-2f41-468a-a2e1-aff5c43aabf7
 TimeFrames,51948d2b-02eb-5b28-9840-c902cc6821c9
 TimeParallel,be6fae49-30d2-4092-b236-0bef8b98bcec
 TimeProbeSeismic,cd417b76-fc6b-4228-be91-94f5ea77264b
+TimeRecords,b543fe20-4c68-4b5f-af79-4641a0d39826
 TimeSeries,9e3dc215-6440-5c97-bce1-76c03772f85e
 TimeSeriesClassification,4869f98a-92d2-4a27-bbf6-5599fe134177
 TimeSeriesClustering,61e8395a-c5b7-11e9-0bf6-872d3bc7175c
