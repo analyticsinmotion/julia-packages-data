@@ -444,6 +444,7 @@ AstroImages,fe3fc30c-9b16-11e9-1c73-17dabf39f4ad
 AstroLib,c7932e45-9af1-51e7-9da9-f004cd3a462b
 AstroNbodySim,034523a5-eae8-49f5-9052-0ea364535333
 AstroPlot,00b67d96-df8a-4e04-ab4d-0170e12eeaec
+AstroPropagators,7f2154ff-9684-4686-a457-9182f50d0f5b
 AstroRepresentations,403ab190-7cad-4c95-848f-e576570a949d
 AstroSimBase,c6a34d98-f626-4d8d-b450-a3f124eaada6
 AstroTime,c61b5328-d09d-5e37-a9a8-0eb41c39009c
@@ -1809,6 +1810,7 @@ CoralBlox,f00a6e10-004a-11ef-3676-67ec635bc1a2
 CoreMLProtobuf,a5f34d12-0067-4cbd-84e2-651e0174c66e
 CoreNLPClient,128a14f7-a34c-4ab5-b797-7dc430f1f974
 CornerPlot,b8d669dd-3d88-55df-ae05-b65fc3f9fff9
+CornerPlotting,4a808bcd-0da0-4a1c-a768-2071018375da
 CorpusLoaders,214a0ac2-f95b-54f7-a80b-442ed9c2c9e8
 Corpuscles,e78a0372-c628-4773-9c8d-eb17d149bf93
 CorrDCA,71fba74b-94bb-4624-adc3-6f657ac12af8
@@ -2268,6 +2270,7 @@ DifferentiableFrankWolfe,b383313e-5450-4164-a800-befbd27b574d
 DifferentiableMetabolism,9677e053-0fc1-49e6-98a8-2ad3a1525e54
 DifferentiableStateSpaceModels,beacd9db-9e5e-4956-9b09-459a4b2028df
 DifferentiableTrajectoryOptimization,86fad55d-71c6-41a1-96ed-88d107dcd2ba
+DifferentialBases,12289b5d-7c11-438f-92a0-e1442e5c6fa7
 DifferentialDynamicProgramming,9cd584b6-1a68-5b24-b787-24af5fbbf48b
 DifferentialDynamicsModels,cb52cc87-d0c7-5933-bad1-08679d8b4c67
 DifferentialEquations,0c46a032-eb83-5123-abaf-570d42b7fbaa
@@ -3898,6 +3901,7 @@ GriddingMachine,f20cf718-bf4d-4727-bc8f-485b1f283ac6
 Grisu,42e2da0e-8278-4e71-bc24-59509adca0fe
 Groebner,0b43b601-686d-58a3-8a1c-6623616c7cd4
 GroebnerBasis,e39c9192-ea4d-5e15-9584-a488c6d614bd
+GroebnerWalk,6dc8777d-2b0c-4de5-9e3c-426c1820f6f9
 GroundMotion,1a1bcaad-b889-5540-93fc-02c6735e0f5a
 GroundwaterPlots,4497dbff-a3fd-4ae5-909f-dd1339757ac3
 GroupNumbers,3c80737e-c28d-49fd-9c64-d7d44b4f4ed8
@@ -4161,6 +4165,7 @@ Hwloc,0e44f5e4-bd66-52a0-8798-143a42290a1d
 Hwloc_jll,e33a78d0-f292-5ffc-b300-72abe9b543c8
 HybridAStar,123b5ccf-89cf-4973-9536-c0f20d353bb2
 HybridArrays,1baab800-613f-4b0a-84e4-9cd3431bfbb9
+HybridStructs,49057fa9-d513-5ef6-ae80-2dc68a70a2bd
 HybridSystems,2207ec0c-686c-5054-b4d2-543502888820
 HybridSystemsSimulations,bed98974-b02a-5e2f-9ee0-a103f5c450dd
 Hydro,fc36d966-fe4b-4286-9a77-63003c00d81d
@@ -4446,6 +4451,7 @@ IntegralsCuba,e00cd5f1-6337-4131-8b37-28b2fe4cd6cb
 IntegralsCubature,c31f79ba-6e32-46d4-a52f-182a8ac42a54
 IntegratedOptics,c28080c6-85c9-4c53-b771-a8cba179d15c
 IntegratedOscillatorModel,4a86908f-de09-412e-b134-eda2b762bb2a
+IntegrationTests,6be7cfa2-1838-408e-bc49-3a824ac3a1fb
 IntelGEMM,46a1a280-e6c3-11e9-0321-d12035ae5ac9
 IntelITT,c9b2f978-7543-4802-ae44-75068f23ee64
 IntelOpenMP_jll,1d5cc7b8-4909-519e-a0f8-d0f5ad9712d0
