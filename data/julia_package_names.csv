@@ -1750,6 +1750,7 @@ ConstraintProgrammingExtensions,b65d079e-ed98-51d9-b0db-edee61a5c5f8
 ConstraintSolver,e0e52ebd-5523-408d-9ca3-7641f1cd1405
 ConstraintTrees,5515826b-29c3-47a5-8849-8513ac836620
 Constraints,30f324ab-b02d-43f0-b619-e131c61659f7
+ConstraintsTranslator,314c63f5-3dda-4b35-95e7-4cc933f13053
 ConstructFrom,860b446b-d18c-4409-9912-1b2a496918ae
 ConstructionBase,187b0558-2788-49d3-abe0-74a17ed4e7c9
 ConstructionBaseExtras,914cd950-b775-4282-9f32-54fc4544c321
@@ -1942,6 +1943,7 @@ Cyclotomics,da8f5974-afbb-4dc8-91d8-516d5257c83b
 CyrusSASL_jll,6422fedd-75a7-50c2-a7c3-a11dad25a896
 D3Trees,e3df1716-f71e-5df9-9e2d-98e193103c45
 D3TypeTrees,41994980-b535-5476-86a1-6733688e0e4a
+D3_jll,4483d8a1-97c0-5c1a-b7ea-a115040394ce
 DACE,f4439622-e757-4457-9ca0-f65a61d23f40
 DACE_jll,40de70a5-cf80-53d9-bda4-3aa67fea2f4f
 DAEProblemLibrary,dfb8ca35-80a1-48ba-a605-84916a45b4f8
@@ -2054,6 +2056,7 @@ DataArrays,0fe7c1db-08c2-54a3-a222-6d1d3b7a471a
 DataAssim,cf87cc76-4620-5dad-9f0a-7411b2d39d18
 DataAssimilationBenchmarks,7c720533-a3c7-49b7-973c-85ef17efca74
 DataAugmentation,88a5189c-e7ff-4f85-ac6b-e6158070f02e
+DataAxesFormats,1375bf9c-a47d-45a1-aad5-626dd8629d98
 DataBags,497ad153-c143-42a2-80c7-87bdfcf8382a
 DataConvenience,3b531cbf-ee43-4e67-8118-dca2c9372f86
 DataDeps,124859b0-ceae-595e-8997-d05f6a7a8dfe
@@ -3936,6 +3939,7 @@ GuidedProposals,2d53f948-c29b-4abe-a473-2cf2f1798516
 GumbelSoftmax,f60ed98c-c695-46ff-9817-9af1b038875e
 Gumbo,708ec375-b3d6-5a57-a7ce-8257bf98657a
 Gumbo_jll,528830af-5a63-567c-a44a-034ed33b8444
+GumerovKanekoDuraiswamiInts2024,49d4d070-7366-40d9-8484-291b68b4f7aa
 Gurobi,2e9cd046-0924-5485-92f1-d5272153d98b
 Gurobi_jll,c018c7e6-a5b0-4aea-8f80-9c1ef9991411
 Gym,b0807396-df37-52ae-a4b9-7a7124410845
@@ -4060,6 +4064,7 @@ HelloWorldGo_jll,8c9296c2-eef7-5c5a-b7f9-196cb7be2712
 Help2man_jll,b065d96c-5f5a-5e02-95cc-818e6b3b761f
 HelpGPT,cd7fe561-ad00-49f8-bbfe-26490459673c
 HepMC3_jll,b85c3e40-22db-5268-bacb-02bd65cb4e01
+Hephaestus,88b3b2ed-56ea-4eac-b1de-e42ac45953c8
 Herb,c09c6b7f-4f63-49de-90d9-97a3563c0f4a
 HerbConstraints,1fa96474-3206-4513-b4fa-23913f296dfc
 HerbCore,2b23ba43-8213-43cb-b5ea-38c12b45bd45
@@ -10329,6 +10334,7 @@ Unityper,a7c27f48-0311-42f6-a7f8-2c11e75eb415
 UnivariateDensityEstimate,4f6a8bda-f411-5b8a-a202-ad6453283b07
 UnivariateFunctions,368b7869-440d-5a68-a3d1-bbc86b0a93b0
 UnivariateUnimodalHighestDensityRegion,accfcff7-0a28-4262-8a91-e6d956268142
+UniversalDiffEq,791b002b-939e-4b08-8060-ecf413fcb155
 UniversalFeynRulesOutput,e2970b7e-a80f-4839-9fc1-2a0f2f4c4333
 UnixMmap,674b2976-56af-439b-a2b1-837be4a3d087
 UnixTimes,ab1a18e7-b408-4913-896c-624bb82ed7f4
@@ -10788,6 +10794,7 @@ YAXArrays,c21b50f5-aa40-41ea-b809-c0f5e47bfa5c
 YFinance,e4b3b0a2-f9a3-42f3-aabb-32142cceaf77
 YOLO,af39948a-0e9f-11e9-2d1f-e71fbfcf41dd
 YOLOv7,a9523b4b-60f2-4b05-86a8-33bf953359c5
+YYJSON,dad5a794-77f7-4556-b071-d80a9747599c
 YahooFinance,71b753c1-733f-4418-b8b2-c1bb484780f7
 Yao,5872b779-8223-5990-8dd0-5abbb0748c8c
 YaoAPI,0843a435-28de-4971-9e8b-a9641b2983a8
