@@ -437,6 +437,7 @@ AsterReader,cb1a753d-6b7b-52e3-9bfe-57d99d445c39
 AstroAngles,5c4adb95-c1fc-4c53-b4ea-2a94080c53d2
 AstroChemistry,7f947402-6d9b-49de-a6e7-82c660dce669
 AstroConstants,59872b50-2c0f-4331-84f7-44577a892ba3
+AstroCoords,27fb9038-6a9d-4e07-8d5d-d0805b53c4cb
 AstroForceModels,077569d7-e100-45f3-83e3-c646e23345bd
 AstroIC,5b3ca070-48c3-41ea-b469-89825dd01fde
 AstroIO,c85a633c-0c3f-44a2-bffe-7f9d0681b3e7
@@ -2526,6 +2527,7 @@ ECLGraphColor,9c1363d0-405f-4779-b1bc-67e54cdcac85
 ECOS,e2685f51-7e38-5353-a97d-a921fd2c8199
 ECOS_jll,c2c64177-6a8e-5dca-99a7-64895ad7445f
 ECharts,f9630f5b-a116-5b0c-bd6c-4699aee17694
+ECharts_jll,ffd69456-1935-58d2-abba-ba12e8909167
 EDF,ccffbfc1-f56e-50fb-a33b-53d1781b2825
 EDFPlus,582d7a84-78fd-59ab-a7bb-47fc6b175004
 EDFlib_jll,b51820a9-a924-5fc2-b09e-5fb7870ce458
@@ -3504,6 +3506,7 @@ GTPSA,b27dd330-f138-47c5-815b-40db9dd9b6e8
 GTPSA_jll,a4739e29-4b97-5c0b-bbcf-46f08034c990
 GXBeam,974624c9-1acb-4ad6-a627-8ac40fc27a3e
 GZip,92fee26a-97fe-5a0c-ad85-20a5f3185b63
+Gabs,0eb812ee-a11f-4f5e-b8d4-bb8a44f06f50
 GadJet,1cc33cce-174c-413c-94d0-34de58e4bd4a
 Gadfly,c91e804a-d5a3-530f-b6f0-dfbca275c004
 GadgetIO,826b50da-1eb7-48f3-bd4b-d2350582c309
@@ -6221,6 +6224,7 @@ MzXML,cb69de98-8f9f-5947-b504-cdcc19a34020
 NASAEarthObservations,9526e54e-4491-4e9f-a840-d78b79cb5e3b
 NASAPrecipitation,a018b980-0677-41c0-b9a4-7f34595c2b14
 NASM_jll,08ca2550-6d73-57c0-8625-9b24120f3eae
+NATS,55e73f9c-eeeb-467f-b4cc-a633fde63d2a
 NBInclude,0db19996-df87-5ea3-a455-e3a50d440464
 NBodySimulator,0e6f8da7-a7fc-5c8b-a220-74e902c310f9
 NCBITaxonomy,f88b31d2-eb98-4433-b52d-2dd32bc6efce
@@ -7714,6 +7718,7 @@ PyramidScheme,ec211b67-1c2c-4319-878f-eaee078ee145
 Pyrox,1226fe1d-afd4-4c2e-b99d-05aabcc62d0a
 PythagoreanTriples,cf5fe419-f069-44d7-b983-50e7569e004e
 Pythia,7cdaf598-12e2-40e7-a2cf-eaf488121ec4
+Pythia8_cxxwrap_jll,2ec6ad34-3a48-58c8-92a7-b3b42157112c
 PythonCall,6099a3de-0909-46bc-b1f4-468b9a2dfc0d
 PythonCallHelpers,82926614-86f1-43a3-92dc-771be2bbc0fa
 PythonOT,3c485715-4278-42b2-9b5f-8f00e43c12ef
@@ -10587,6 +10592,7 @@ Wells,5231157d-7ae6-5dec-b9aa-3f65828037ac
 WenoNeverworld,dc645f23-3555-4f2f-8f6e-8cb879a663f8
 Westerfit,f202a280-4a11-4d8a-9d54-4c7a90dde5df
 Wflow,d48b7d99-76e7-47ae-b1d5-ff0c1cf9a818
+WhereAmI_jll,af20baa5-aa28-50c0-84ba-035a9da7272e
 WhereIsMyDocstring,aac05064-a116-4aba-9bed-53c9d53f4642
 WhereTheWaterFlows,ea906314-1493-4d22-a0af-f886a20c9fba
 WhereTraits,c9d4e05b-6318-49cb-9b56-e0e2b0ceadd8
