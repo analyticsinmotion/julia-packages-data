@@ -1017,6 +1017,7 @@ BrillouinZoneMeshes,9f696214-9961-49f3-89a2-cb1ea204eb6e
 BritishNationalGrid,07503c7f-9676-5157-a8e2-6c0d0a9caee7
 BrkgaMpIpr,028a27d2-de01-11e8-146d-d556803d83ae
 BrokenRecord,bdd55f5b-6e67-4da1-a080-6086e55655a0
+BrownDriverBriggs,ed877a0f-8e86-4599-984a-df81107104eb
 BrowseTables,5f4fecfd-7eb0-5078-b7f6-ad1f2563c22a
 BrowserMacros,0e713f60-a330-4a0f-8e30-02c28b77d9ad
 Bruno,2c64e276-ffac-4684-a264-d42a389bacb2
@@ -2751,6 +2752,7 @@ Estapir,b3701df6-d9dc-468b-b8b3-43cf0e13d0c8
 EstimatingEquationsRegression,29055884-00e7-4984-94b8-2baec6a723d6
 Estrin,4642663a-9907-4130-9c18-0ebd857e5e35
 Eternity2Puzzles,7b8a590e-5f29-49cd-9d3d-d6aab43f7c56
+EtherSPH,2e8a6dce-851f-4ff4-8c9d-f01c3f7a94ce
 EuclidGraphs,6d00f6e2-8806-480a-ab08-d5e107e6bfed
 EulerAngles,754c60e7-4104-4b2f-84f1-902fd791391f
 EulerCharacteristic,2c1df2f5-4ab6-47a9-8339-2c9d55c0a52c
@@ -4790,6 +4792,7 @@ KeplerGL,389c4311-7670-4ca7-a1b4-f34bb8a2527a
 KeplerGLBase,aea72984-0742-4639-bc0a-1d6e7e468236
 KeplerTools,200436fd-7f69-44ff-b485-688a1ddb115b
 Kerberos_krb5_jll,b39eb1a6-c29a-53d7-8c32-632cd16f18da
+Kerchunk,12c09fd5-fe6a-4e79-8f42-b31f49215243
 KernelAbstractions,63c18a36-062a-441e-b654-da1e3ab1ce7c
 KernelDensity,5ab0869b-81aa-558d-bb23-cbf5423bbe9b
 KernelDensityEstimate,2472808a-b354-52ea-a80e-1658a3c6056d
@@ -4936,6 +4939,7 @@ LITS,86b0dc02-7903-11e9-325f-f195ca7e6c1a
 LKH,294deba0-74fa-42c9-af84-c3834b01fefc
 LLD_jll,d55e3150-da41-5e91-b323-ecfd1eec6109
 LLLplus,142c1900-a1c3-58ae-a66d-b187f9ca6423
+LLMCheatsheets,bfa53fcd-5caf-4eca-9d0c-bcc16d41cad3
 LLMTextAnalysis,a88142f3-a164-49e9-925a-9408902b6922
 LLSModels,39f5bc3e-5160-4bf8-ac48-504fd2534d24
 LLVM,929cbde3-209d-540e-8aea-75f648917ca0
@@ -8466,6 +8470,7 @@ SDPNAL,f7a9608b-7678-5329-8a05-97541ebc462c
 SDPSymmetryReduction,56ed78d6-6c87-4b01-a4f7-e143c302c7a0
 SDPT3,e33b2407-87ff-50a0-8b27-f0fe7855237d
 SDWBA,a56d74ad-8193-5df7-a216-96cccc48f97a
+SDeMo,3e5feb82-bcca-434d-9cd5-c11731a21467
 SEAL,bac81e26-86e4-4b48-8696-7d0406d5dbc1
 SEAL_jll,cdf55027-1209-57fc-8789-28745714751d
 SExpressions,eaa8e424-c5f6-11e8-1b3d-d576ba0eee97
@@ -8552,6 +8557,7 @@ SPPL,d4869578-49cb-4439-a9cc-e16ca03432c4
 SPRAL_jll,319450e9-13b8-58e8-aa9f-8fd1420848ab
 SQLCipher,e3bbf2a3-a30c-4959-806c-295e8e13e4d8
 SQLCipher_jll,dc592094-f866-5418-b15b-f7542ad3543c
+SQLCollections,3934435e-e6e6-4fea-a5c0-3a716143d619
 SQLCompose,88a73ca7-34a6-43ac-bc8e-badcd0d72400
 SQLDataFrameTools,fda230f0-5871-413e-9850-4812b05d76c2
 SQLFluff,11e08050-5ec4-4c5b-9d13-2b4885894485
@@ -9457,6 +9463,7 @@ Strategems,054b7d4e-9922-5ad3-8b46-7dbe695a681f
 StrategicGames,21c4ae29-9918-4bcb-9542-b100d366d64c
 StratiGraphics,135379e1-83be-5ae7-9e8e-29dade3dc6c7
 StrayCopses,f554f415-119e-4ea0-8d58-ae5601ed402a
+StreamCallbacks,c1b9e933-98a0-46fc-8ea7-3b58b195fb0a
 StreamSampling,ff63dad9-3335-55d8-95ec-f8139d39e468
 StreamToString,dc918f9c-79cc-42e6-85f1-d8b9b09632f4
 StressTest,6e3341f8-3a0d-4582-a093-9d6e6d36caf8
@@ -10967,6 +10974,7 @@ dSFMT_jll,05ff407c-b0c1-5878-9df8-858cc2e60c36
 datamash_jll,5e3497f2-6421-5a2b-b76c-5131171094e1
 dav1d_jll,349a489e-63ad-5fc4-b473-f70c9c959831
 deSolveDiffEq,0518478a-701b-4815-806c-24ad5cb92f09
+demumble_jll,1e29f10c-031c-5a83-9565-69cddfc27673
 devspace_jll,f3d103f0-1a5c-5786-832a-e5a97cefde2e
 diffutils_jll,11f5bf75-d780-529b-b59b-a3a04c974070
 difmap_jll,43cd2700-e54a-5645-adf8-b9b288a87fe6
