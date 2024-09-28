@@ -1444,6 +1444,7 @@ Clang_assert_jll,72d370af-b0e4-5787-9b36-2e8c6f54fb93
 Clang_jll,0ee61d77-7f21-5576-8119-9fcc46b10100
 Clang_unified_jll,ffc816e1-ba66-5fa9-9ecc-bcc5cb19bea1
 Clapeyron,7c7805af-46cc-48c9-995b-ed0ed2dc909a
+ClapeyronHANNA,3f3167c7-7596-4199-a8f8-b0e6cfdc2746
 Clarabel,61c947e1-3e6d-4ee4-985a-eec8c727bd6e
 ClassImbalance,04a18a73-7590-580c-b363-eeca0919eb2a
 Classes,1a9c1350-211b-5766-99cd-4544d885a0d1
@@ -3980,6 +3981,7 @@ HGSCVRP_jll,5e659521-bdfb-59ef-a6ee-f402fe753050
 HHsuite_jll,fcf42798-af55-56d4-b791-3d7c12f793a1
 HIP_jll,2696aab5-0948-5276-aa9a-2a86a37016b8
 HITRAN,4efdbe67-70aa-4c87-84c0-bc59a9addc1a
+HJSON,6226b997-59fe-41cb-ba3d-177c22dd73bb
 HMMBase,b2b3ca75-8444-5ffa-85e6-af70e2b64fe7
 HMMER,59c5aa83-900c-4c4d-b6cc-c9bbbf32a260
 HMMER_jll,9a00dd6d-eebd-547e-8f34-c9aea159fd8a
@@ -4898,6 +4900,7 @@ Kuber,87e52247-8a1b-5e01-9430-8fbcac83a23a
 Kucoin,0cdc39bb-36b4-4ec4-ad63-255670c92e6e
 KungIChi,f52142bb-6843-4e16-a1b1-69f2acef56c5
 Kwant,ed3f9b50-51cd-11e9-3ece-75fc8af922bb
+KwdefHelpers,80d9ef48-13f8-4f87-9333-d4c97b041895
 Kwonly,18d08c8c-0732-55ee-a446-91a51d7b4206
 LACosmic,a188e134-b1c0-4a25-bc7e-93a99f0f0e06
 LAGraph_jll,51243bbd-983c-5006-9250-ac9a1da43bd7
@@ -5065,6 +5068,7 @@ LazyWAVFiles,82ba68a1-f779-4cc2-8f94-53af9af8d852
 LeafGasExchange,eed59905-05f1-464e-afba-94c39a4505fd
 LeafOptics,d155caf3-1b17-4a40-bb30-7fbeaeeea502
 Leaflet,2ed2781b-9bfa-45ba-823d-d31db75b7d93
+LeafletPluto,4fb38181-9637-4f8d-aea6-6fc02b78bbe7
 LeapSeconds,2f5f767c-a11e-5269-a972-637d4b97c32d
 LearnAPI,92ad9a40-7767-427a-9ee6-6e577f1266cb
 LearnBase,7f8f8fb0-2700-5f03-b4bd-41f8cfc144b6
@@ -7658,6 +7662,7 @@ ProudPalettes,61d02e3d-8de9-45ce-a87b-73174b99cb55
 ProvenanceBase,4d266fdc-498f-48d9-a85b-1209f2b17158
 ProxAL,12c3852d-bf95-4e7b-be60-68937c3c927b
 ProxSDP,65e78d25-6039-50a4-9445-38022e3d2eb3
+ProxTV,925ea013-038b-5ab6-a1ab-e0849925e528
 ProximalAlgorithms,140ffc9f-1907-541a-a177-7475e0a401e9
 ProximalBase,0a755509-c5b1-5d6f-9b24-59bcda3c37a3
 ProximalCore,dc4f5ac2-75d1-4f31-931e-60435d74994b
@@ -8677,6 +8682,7 @@ SchwarzChristoffel,6e93f119-a087-51f0-a155-b73ce4943121
 SciMLBase,0bca4576-84f4-4d90-8ffe-ffa030f20462
 SciMLBenchmarks,31c91b34-3c75-11e9-0341-95557aab0344
 SciMLExpectations,afe9f18d-7609-4d0e-b7b7-af0cb72b8ea8
+SciMLJacobianOperators,19f34311-ddf3-4b8b-af20-060888a46c0e
 SciMLNLSolve,e9a6253c-8580-4d32-9898-8661bb511710
 SciMLOperators,c0aeaf25-5076-4817-a8d5-81caf7dfa961
 SciMLSensitivity,1ed8b502-d754-442c-8d5d-10ac956f44a1
@@ -8905,6 +8911,7 @@ SimpleDirectMediaLayer,98e33af6-2ee5-5afd-9e75-cbc738b767c4
 SimpleDistributionPowerFlow,f823eff6-be4d-43a7-b42c-2ec4700fde1f
 SimpleDraw,d1acf6f4-8553-480e-80ae-3c883f0a995a
 SimpleDrawing,d78a06e8-ae74-583c-9a07-0d6572347000
+SimpleDrawingObjects,89d8b4ea-5f62-47ee-b8a8-d90862f742b0
 SimpleExpressions,deba94f7-f32a-40ad-b45e-be020a5ded2f
 SimpleFWA,c5e3f7f7-c02a-4fcc-b7a5-ee49051641db
 SimpleFeatures,afcd3178-a774-4cb1-a6b9-c159da09e922
@@ -10306,6 +10313,7 @@ UnifyJustTheDocs,11bfd71e-bedf-46a1-8e5b-178579ef73ee
 UnionArrays,d6dd79e4-993b-11e9-1366-0de1c9fe1122
 UnionCollections,ea2a18ed-132b-4398-a457-2ce4804e5c00
 UnionFind,99c6138d-4661-531e-8606-19bf1ec96588
+UniqueKronecker,dd29a912-d12a-442e-ae57-6933397c0393
 UniqueVectors,2fbcfb34-fd0c-5fbb-b5d7-e826d8f5b0a9
 Unishox,e63e2b3a-53a6-427d-87f9-f7afaee6e6e3
 Unishox_jll,3d704607-676d-54ad-a58f-27926b53472b
