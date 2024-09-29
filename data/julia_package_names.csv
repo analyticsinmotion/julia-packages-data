@@ -2181,6 +2181,7 @@ Demultiplex,65c8ffb1-ee6d-406d-bfb3-dd2ddae09be4
 Dendriform,d8da5c1c-6f31-57d0-a642-102aa94a823b
 Deneb,b5a61f88-a05b-4725-9526-4eca17cec623
 Deno_jll,04572ae6-984a-583e-9378-9577a1c2574d
+DenseGillespieAlgorithm,196457aa-616b-4d30-8659-0f081272c821
 DensityEstimationDatasets,4461dd73-db61-4ee9-b68e-5875fb3b3faa
 DensityInterface,b429d917-457f-4dbc-8f4c-0cc954292b1d
 DensityRatioEstimation,ab46fb84-d57c-11e9-2f65-6f72e4a7229f
@@ -3181,6 +3182,7 @@ FixedPointNumbers,53c48c17-4a7d-5ca2-90c5-79b7896eea93
 FixedPointSinCosApproximations,aedcc28f-63b5-4046-b467-b09cfa7c8db7
 FixedPointToolkit,081f7a28-ac82-48c1-a10e-fa8b3349a52a
 FixedPolynomials,3dd14ad9-0029-526e-86e9-8aa0bdd2ab0d
+FixedSizeBitVector,a6325e15-1dfe-4e9f-88de-e354d00cf0f1
 FixedSizeStrings,3ca710bb-85d4-534c-9bae-b7b5d9e27e20
 FixedWidthTables,ef6c9296-b25d-482c-a0a7-898918678e13
 Fjage,e0fd600c-be67-11e9-1f90-d366689e4029
@@ -3796,6 +3798,7 @@ GnuplotScripting,483a2fc8-eb99-45b6-a231-8c481e9ade22
 Gnuplot_jll,e5af9688-3aeb-5ed5-8c7e-253e55323d3e
 GoAWS,00b10cec-568b-4d01-83ea-8604cd7f25ae
 GoFish,d00ce6d8-e47b-41eb-9812-442785832f3b
+GoGameGraphs,56c941c6-2185-42eb-b028-2000e1fdc468
 GoTextProtocol,605aa4d1-f09b-4313-be12-5c56fd59aa57
 Goalign_jll,ed1357da-d9e6-57e3-b342-6130e0ca2d5e
 Gogeta,8b0c908c-0e18-4590-8d3d-9c2483fd76bf
@@ -4645,6 +4648,7 @@ JacobiDavidson,11c68b98-9c9b-11e8-267b-bbb95576cead
 JacobiElliptic,2a8b799e-c098-4961-872a-356c768d184c
 Jadex,302b6ea9-03d1-47d0-b3e6-7bc5ec1c11d5
 Jags,7de783dc-89a7-511c-b223-597fcba0cc71
+Jallocator,43a00f91-a958-4379-a491-35c8b4c56136
 Jansson_jll,83cbd138-b029-500a-bd82-26ec0fbaa0df
 JasPer_jll,f6ca3df5-1ae7-521a-b96b-cb83f57f3f1f
 JavaCall,494afd89-becb-516b-aafa-70d2670c0337
@@ -8987,6 +8991,7 @@ SimradRaw,83a1bcd9-a884-567d-b532-90bac4ae8d51
 SimsOptim,5df890a3-b392-4cf8-8041-9ea1620d5364
 Simulate,7fe0908f-881e-4672-99a3-35ccdc95dcfc
 SimulatedAnnealing,119b26b8-39d9-4e2d-8f08-406d7b73be9f
+SimulatedAnnealingABC,2e0e63f1-f03b-4682-b156-8f8e3c0454d9
 SimulatedNeuralMoments,43b7c8c0-5622-45b8-90a3-338fc50d2232
 SimulationBasedInference,78927d98-f421-490e-8789-96b006983a5c
 SimulationLogger,0f3b6f24-f534-4b11-a614-00dcf4ece10c
@@ -9488,6 +9493,7 @@ StringEncodings,69024149-9ee7-55f6-a4c4-859efe599b68
 StringManipulation,892a3eda-7b42-436c-8928-eab12a02cf0e
 StringMethod,e62e6a7e-3b2b-4391-b20a-030a7103b929
 StringParserPEG,b0c8ea40-1aeb-11ea-0927-b51424bf2dfe
+StringTemplates,59c22e0c-4e04-425f-9782-11a552c58a8d
 StringUnits,aae3921f-be51-4fa0-a720-c5500441fcbd
 StringViews,354b36f9-a18e-4713-926e-db85100087ba
 StripRTF,221a10cb-40ed-42a6-9d60-e07216d033df
