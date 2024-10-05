@@ -846,6 +846,7 @@ BioParticleSimulation,de6b0e7e-5d16-4ec8-852c-832f67a21244
 BioProfiling,cef322dc-4d82-11ea-04a7-113231db804d
 BioRecordsProcessing,321bc2d7-9525-42af-8b23-17b2621d5ea8
 BioSeqInt,576b2be1-a97f-46b2-8c3d-3d276b5e41b2
+BioSequenceMappings,a84bc454-70cc-4f51-8a9d-ca76a5a82222
 BioSequences,7e6ae17a-c86d-528c-b3b9-7f778a29fe59
 BioServices,a0d4ced5-b29c-5395-b614-ca030a679c4b
 BioSimplex,f37aa7dd-fb3b-4c75-b722-300831487a5c
@@ -8528,6 +8529,7 @@ SIMDTypes,94e857df-77ce-4151-89e5-788b33177be4
 SIMDe_jll,3cf9baf4-9b0f-5bbb-b549-4fdfb2f4a171
 SIMDscan,e380c706-6fd7-45be-a86f-0677ced05258
 SIMIlluminationPatterns,e6514a50-921c-4af3-9933-d2ed4e901773
+SIRIUS_jll,6b659922-2939-5935-a7a2-1bdd48c7820f
 SIRUS,cdeec39e-fb35-4959-aadb-a1dd5dede958
 SISL_jll,d647f7b9-f016-52c0-8515-7d1c032fadec
 SLATEC_jll,2967fdeb-73c1-5946-ae15-4ce8b52d4346
@@ -10049,6 +10051,7 @@ ToggleableAsserts,07ecc579-1b30-493c-b961-3180daf6e3ae
 Tokei_jll,3ac119c9-1236-5556-b556-adc8150b0244
 Tokenize,0796e94c-ce3b-5d07-9a54-7f471281c624
 Tomography,7b913008-954d-4a4c-99e7-286cce9c5096
+Tonari,91081016-e225-4157-90a8-4c5abf36a564
 Toolips,a47e2ad8-fcf7-417c-9746-32b9bdf220bd
 ToolipsAuth,3184f35e-742b-451a-92dd-8d9fc5a03efb
 ToolipsBase64,35c70e29-c044-44e8-ae14-cceff0bd3f12
