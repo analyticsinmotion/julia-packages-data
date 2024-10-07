@@ -7801,6 +7801,7 @@ QSymbolicsOptics,3c38c10f-068b-409d-8b1c-aa4375858705
 QUBO,ce8c2e91-a970-4681-856b-16178c24a30c
 QUBOConstraints,110b7fcc-6942-4061-a625-86e03d1de7cf
 QUBODrivers,a3f166f7-2cd3-47b6-9e1e-6fbfe0449eb0
+QUBOLib,c2d3eca2-2309-4628-88a9-9d4a554e7c47
 QUBOTools,60eb5b62-0a39-4ddc-84c5-97d2adff9319
 QUnfold,05092f44-7bf9-4fd9-a898-7e10d889cee9
 QWTWPlot,193516b8-fe0d-4284-b46c-e203758f96c4
@@ -8110,6 +8111,7 @@ RationalFunctionApproximation,c92886a3-cb30-4e18-b84f-372dde475ecc
 RationalGenerators,2737ff73-0d59-47a5-9105-cfa0dee446ca
 RationalProjectivePlane,c6f45eda-53e9-4846-927e-3bf2d3f4e2f3
 RationalRoots,308eb6b3-cc68-5ff3-9e97-c3c4da4fa681
+RationalVectorFitting,52b1e31a-230f-50d6-be04-0f5494ddfff6
 Ratios,c84ed2f1-dad5-54f0-aa8e-dbefe2724439
 Raven,cfd3f2ab-0fb0-4d51-9553-03e53d33f144
 RawArray,d3d335b2-f152-507c-820e-958e337efb65
