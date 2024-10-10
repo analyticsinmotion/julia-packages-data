@@ -3747,6 +3747,7 @@ Geotherm,8d306a12-9b36-11e8-3bde-e7538e1f5b4a
 Geppetto,7616020f-7d25-45ac-879d-3d4711576aab
 GerryChain,e09a5c58-8952-4b57-bc02-56d902e45e6e
 Gershgorin,24e2f6b0-dc6e-48a5-a23f-118d347caa96
+GershgorinDiscs,1acd937f-ba38-4cfb-ac8e-9b470edff748
 GetGene,fa12694a-6dff-11e9-3f23-c5fa6b69506f
 Getopt,31df374a-5bce-54dc-914a-f687be069de8
 Gettext,a6aca261-61b0-5b33-a99a-e9c977ffa089
@@ -8855,6 +8856,7 @@ ShapeFactory,5f2830c0-a9f2-11e9-177d-47448fa133db
 Shapefile,8e980c4a-a4fe-5da2-b3a7-4b4b0353a2f4
 ShapesOfVariables,b3480ff6-a2af-506e-a6b8-61d160ca6532
 Shapley,855ca7ad-a6ef-4de2-9ca8-726fe2a39065
+ShareAdd,27c01619-3163-4fe3-a204-36d38c32eb7d
 SharedMATLABEngine,0164281e-5792-487a-ab63-8965341cf816
 SharedMemoryLocks,7bb51ff7-3c6a-41be-b642-de78e6952b49
 SharedMimeInfo_jll,5996c727-abd7-5f74-ae59-138d08b03cd1
