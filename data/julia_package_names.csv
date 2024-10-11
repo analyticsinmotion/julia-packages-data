@@ -731,6 +731,7 @@ BeforeIT,ca9fcad7-41d0-4f76-b1e5-366c28bce52e
 Behavior,7a129280-419d-58e9-81ef-4f6801251892
 BehaviorTree,f69da737-dcaa-4055-be2f-aa6e9fbb4bc4
 BeliefGridValueIteration,d6851e30-d4b8-11e9-06de-0b345e2a813d
+BeliefPropagation,f47dce41-c8ad-4b69-b8b4-f2a36c7ebdf8
 BeliefUpdaters,8bb6e9a1-7d73-552c-a44a-e5dc5634aac4
 BellBruno,2cc14a73-b19f-41ce-8eb5-0eba8210e186
 BellDiagonalQudits,33287015-dcc4-41a7-aecb-0a84b862e0d8
@@ -3291,6 +3292,7 @@ FormattedTables,f83c0036-6341-5149-9c2c-4d931666a087
 Formatting,59287772-0a20-5a39-b81b-1366585eb4c0
 ForneyLab,9fc3f58a-c2cc-5bff-9419-6a294fefdca9
 FortranFiles,c58ffaec-ab22-586d-bfc5-781a99fd0b10
+FortranNamelistParser,8fb689aa-71ff-4044-8071-0cffc910b57d
 FortranStrings,fc18e7c4-0b83-4f3c-b75e-a9a8c77010a4
 Fortuna,c1a2adf5-a52e-430c-84bf-168fab86e0c1
 ForwardDiff,f6369f11-7733-5829-9624-2563aa707210
@@ -3473,6 +3475,7 @@ GMP_jll,781609d7-10c4-51f6-84f2-b8444358ff6d
 GMT,5752ebe1-31b9-557e-87aa-f909b540aa54
 GMTAccess,4908299a-382f-4474-b696-db03060d32c1
 GMT_jll,b68b8c3f-ed99-5bef-9675-4739d9426b26
+GMime,158299e7-fc4f-4c3e-9fda-ad8bb0e07f1e
 GModelFit,ac42e6ba-c0bf-4fcf-827d-deea44b16255
 GModelFitViewer,5d93b50e-5cc7-4feb-a740-ec85257caa01
 GNCTestServer,301134cd-0795-4287-8b73-e567f40fdffd
@@ -7480,6 +7483,7 @@ PolynomialFactors,ec145902-31c2-532e-934a-7c64254c4b82
 PolynomialGTM,d0486fca-abc3-4e94-983c-1d27790b80a4
 PolynomialMatrices,68ae48f1-ae9d-5916-b516-bab924cb4d98
 PolynomialMatrixEquations,4f9d485d-518f-41ed-81c8-372cd804c93b
+PolynomialModelReductionDataset,e73a8ff0-27fc-4bea-a65d-4cea79111efd
 PolynomialRings,c8ed2632-8d42-5af4-9089-7afd55769a28
 PolynomialRoots,3a141323-8675-5d76-9d11-e1df1406c778
 PolynomialTestSystems,4c526841-e1e8-562c-bfa9-9f39d642e243
