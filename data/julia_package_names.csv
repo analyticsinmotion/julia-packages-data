@@ -5268,6 +5268,7 @@ Lindenmayer,d9db2020-d13e-4bf8-b13e-b12a3214b5ef
 LineIntegralConvolution,954431ae-a746-4b0b-bf75-a8381ca95b21
 LineSearch,87fe0de2-c867-4266-b59a-2f0a94fc965b
 LineSearches,d3d80556-e9d4-5f37-9878-2ab0fcc64255
+LineageCollapse,e38bdfdf-80f5-4f0c-93e0-53dd02ee37b8
 LinearAdjoints,3201237a-9847-11e9-0d2a-6d530c977506
 LinearAlgebraX,9b3f67b0-2d00-526e-9884-9e4938f8fb88
 LinearAlgebraicRepresentation,95167b0c-186a-594b-a231-52369c6de044
@@ -6218,6 +6219,7 @@ Multitaper,a81958ac-9ec9-4086-814d-3ae87249a5e8
 MultivariateAnomalies,6b1494d1-c0e4-5e11-970b-cb64accc6d0e
 MultivariateBases,be282fd4-ad43-11e9-1d11-8bd9d7e43378
 MultivariateChebyshev,c45826ba-8c1e-4a55-8f5e-a4fe57395672
+MultivariateCreativeTelescoping,a544615c-5478-485f-b703-83893a5a3b3b
 MultivariateDiscretization,dd9280a6-c536-421c-a236-ce8c2c5b1b8d
 MultivariateFunctions,54e48022-12d0-513b-b20d-e273c072c6db
 MultivariateMoments,f4abf1af-0426-5881-a0da-e2f168889b5e
@@ -9802,6 +9804,7 @@ TailwindCSS,70f3efdd-15fb-48e9-aed6-b5748bd45f5a
 TakagiFactorization,2a98de0d-ca3b-5770-8d1d-3c2c55f12676
 Takums,e87ab966-852e-4d0b-9cf3-1c8693995dd4
 Tally,4a7475b6-8451-4f36-8c0c-176e4d128198
+TapeMeasure,80345c00-9166-4d3e-8c72-003f651600ad
 Tapestree,cd6db766-07eb-5897-84c0-92a6c9b887bd
 Tapir,07d77754-e150-4737-8c94-cd238a1fb45b
 Tar,a4e569a6-e804-4fa4-b0f3-eef7a1d5b13e
