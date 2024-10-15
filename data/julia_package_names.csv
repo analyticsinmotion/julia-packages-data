@@ -647,6 +647,7 @@ BarkerMCMC,be4af45d-7920-418d-be3f-405e75a2263c
 BarnesDoubleGamma,8c4ec0a7-3a81-41b6-9d5f-01f75984e8d3
 BarnsleyFern,a1669a0d-1a4b-4995-a903-dbadec85cda1
 BartIO,8b90e6a2-6e4d-4906-89ae-b5f72ca4a65b
+BaryPlots,435fd04b-d7a1-466b-a36d-8293cbb03b07
 BaryRational,91aaffc3-5777-4842-85b7-5d3d5d6a3494
 BarycentricInterpolation,9eb6a62d-0ffa-5353-839e-400c605afeda
 Base58,a832ea1e-0ca7-55ca-a41a-6462721bb861
@@ -984,6 +985,7 @@ BoundTypes,ff833f9a-10fd-491c-ad5c-961b556a6c53
 BoundaryCrossingProbabilities,0edc300c-2ee6-41ce-b883-757e1a513d2d
 BoundaryLayerDynamics,9d12ad70-aa0c-11e8-0216-810054b526d2
 BoundaryValueDiffEq,764a87c0-6b3e-53db-9096-fe964310641d
+BoundaryValueDiffEqCore,56b672f2-a5fe-4263-ab2d-da677488eb3a
 BoundaryValueDiffEqFIRK,85d9eb09-370e-4000-bb32-543851f73618
 BoundaryValueDiffEqMIRK,1a22d4ce-7765-49ea-b6f2-13c8438986a6
 BoundaryValueDiffEqShooting,ed55bfe0-3725-4db6-871e-a1dc9f42a757
@@ -4314,6 +4316,7 @@ IdealistaAPIClient,5722b1ce-14da-11ed-06c6-d930f2b72c9a
 IdentityRanges,bbac6d45-d8f3-5730-bfe4-7a449cd117ca
 IfElse,615f187c-cbe4-4ef1-ba3b-2fcf58d6d173
 IfTraits,7a6924a7-8ee3-403d-a531-72325acf0e39
+IgBLAST,0b79348f-fd03-46c5-b933-bdb7f1bed3f3
 Ignite,1a1b1a28-7f47-4b26-86ef-080b8200110c
 IlluminaIdatFiles,6319967d-51f1-455d-8322-e2c0d31f3595
 ImGuiGLFWBackend,623d79b3-9695-4e60-bd7e-2a5aabaa6933
@@ -5006,6 +5009,7 @@ L_BFGS_B_jll,81d17ec3-03a1-5e46-b53e-bddc35a13473
 LaMEM,2e889f3d-35ce-4a77-8ea2-858aecb630f7
 LaMEM_jll,15d6fa20-f789-5486-b71b-22b4ac8eb1c1
 LaTeXDatax,644dedec-337d-45c6-9a86-27a5fed2b77d
+LaTeXEscapes,cf6549fa-34fa-4b85-907d-0f184605242c
 LaTeXFigures,5d2f8d0c-8a3d-45b5-9848-1a5a591485bf
 LaTeXStrings,b964fa9f-0449-5b57-a5c2-d3ea65f4040f
 LaTeXTables,7a882280-b7a3-40b8-8de0-0a56d356bc86
@@ -7585,6 +7589,7 @@ PowerSystemsUnits,c279aad7-7dc9-58d3-995b-109d3f5deb94
 PowerWaterModels,7f4f7f52-2f44-4c87-b9ed-462dc784f1b2
 Powerful,542e4350-023d-42c7-b19f-8cb561780c9e
 Powersense,c5022caa-3a13-4c38-8648-ef17c886ed6e
+Powsybl_jll,b8c81e45-bfcc-5af0-87df-fd7619bc5515
 PrairieIO,e0255976-123f-53e1-a894-d0440dea2ee2
 PreCICE,57fbd4af-5cc3-4712-aac0-6930e7658184
 PrePostCall,6a9148d9-5e9a-5935-86c8-72740ba3a7c7
