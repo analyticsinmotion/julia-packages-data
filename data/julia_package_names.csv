@@ -4971,6 +4971,7 @@ LIKWID,bf22376a-e803-4184-b2ed-56326e3bff83
 LITS,86b0dc02-7903-11e9-325f-f195ca7e6c1a
 LKH,294deba0-74fa-42c9-af84-c3834b01fefc
 LLD_jll,d55e3150-da41-5e91-b323-ecfd1eec6109
+LLD_unified_jll,fbc507ec-cd81-588a-baa9-9847e80d13e9
 LLLplus,142c1900-a1c3-58ae-a66d-b187f9ca6423
 LLMCheatsheets,bfa53fcd-5caf-4eca-9d0c-bcc16d41cad3
 LLMTextAnalysis,a88142f3-a164-49e9-925a-9408902b6922
@@ -5109,6 +5110,7 @@ LearningAlgebraicVarieties,99c59dee-8a25-45ad-b85d-0d599d702169
 LearningHorse,62371590-58c0-453a-97c0-b8b10383e1ee
 LearningSchedules,7e85a9e7-c65d-495e-8ec0-baa06f07ebbf
 LearningStrategies,4e8a8231-0ba9-591b-8620-81c6740d7791
+LearningToOptimize,e1d8bfa7-c465-446a-84b9-451470f6e76c
 LeastSquaresOptim,0fc2ff8b-aaa3-5acd-a817-1944a5e08891
 Lebedev,c5712dd9-2571-4e23-b661-b4a261421493
 Lectionary,6244d477-9cf0-4e07-8f6b-f8ee26bc0292
@@ -8554,6 +8556,7 @@ SIMDTypes,94e857df-77ce-4151-89e5-788b33177be4
 SIMDe_jll,3cf9baf4-9b0f-5bbb-b549-4fdfb2f4a171
 SIMDscan,e380c706-6fd7-45be-a86f-0677ced05258
 SIMIlluminationPatterns,e6514a50-921c-4af3-9933-d2ed4e901773
+SIRIUS,3581e6f0-5a2a-4fbf-9499-336905df69aa
 SIRIUS_jll,6b659922-2939-5935-a7a2-1bdd48c7820f
 SIRUS,cdeec39e-fb35-4959-aadb-a1dd5dede958
 SISL_jll,d647f7b9-f016-52c0-8515-7d1c032fadec
