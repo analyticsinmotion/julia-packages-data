@@ -127,6 +127,7 @@ AbstractYieldMacros,71802903-5811-4e1f-b8e7-37bd234b68eb
 Absynth,198fb612-3ccb-11e9-3f7d-cd8c0d4e7bc8
 AccelInterfaces,0fc7c93f-c1ed-4c30-8474-1cec40f2ca52
 AcceleratedArrays,44e12807-9a19-5591-91cf-c1b4fb89ce64
+AcceleratedKernels,6a4ca0a5-0e36-4168-a932-d9be78d558f1
 AccerionSensorAPI_jll,df519f1b-be81-5d76-8634-ded01372dc30
 AccessibleOptimization,d88a00a0-4a21-4fe4-a515-e2123c37b885
 Accessors,7d9f7c33-5ae7-4f3b-8dc6-eff91059b697
@@ -10421,6 +10422,7 @@ UniversalFeynRulesOutput,e2970b7e-a80f-4839-9fc1-2a0f2f4c4333
 UnixMmap,674b2976-56af-439b-a2b1-837be4a3d087
 UnixTimes,ab1a18e7-b408-4913-896c-624bb82ed7f4
 Unmarshal,cbff2730-442d-58d7-89d1-8e530c41eb02
+Uno_jll,396d5378-14f1-5ab1-981d-48acd51740ed
 Unroll,36e64239-2ab9-4580-84fb-56737a503d36
 Unrolled,9602ed7d-8fef-5bc8-8597-8f21381861e8
 UnrolledUtilities,0fe1646c-419e-43be-ac14-22321958931b
