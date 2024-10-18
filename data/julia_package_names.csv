@@ -6667,6 +6667,7 @@ ObservationDims,bd245535-7a0d-4808-be35-e2fe847ca032
 ObservationSchemes,af94d80e-94fa-4c0b-866a-2d8bf15822bc
 Observers,338f10d5-c7f1-4033-a7d1-f9dec39bcaa0
 Obsidian,0a1fef19-5aa4-4284-b8c1-c1397acb49d1
+OccurrencesInterface,ee6415c8-122a-4855-89a1-90f4bac06ba6
 OceanBasins,d1bb7020-b2be-4340-9d18-d24ca645bddb
 OceanBioME,a49af516-9db8-4be4-be45-1dad61c5a376
 OceanColorData,39357346-8f20-4302-be7b-c20dcd116b7a
@@ -7717,6 +7718,7 @@ ProxyInterfaces,9b3bf0c4-f070-48bc-ae01-f2584e9c23bc
 PseudoBooleanOptimization,c8fa9a04-bc42-452d-8558-dc51757be744
 PseudoGamma,3cb8af22-bcb6-49d5-810a-fde949a5ef89
 PseudoPotentialIO,cb339c56-07fa-4cb2-923a-142469552264
+PseudopotentialGenerator,62755698-03fb-4fba-b479-db9468a99e5f
 Pseudopotentials,1b2dc2e6-48aa-4f00-b8f4-19d1a71d7a0e
 Pseudoseq,5fa9f68e-f4b0-11e8-18b8-fb82dd3c6483
 Pseudospectra,d6c5b33e-0240-5bd5-a771-a97ae748a961
@@ -7963,6 +7965,7 @@ QuartetNetworkGoodnessFit,1382f7fc-2744-4d9d-8ec6-1e3efdec0746
 Quarto,d7167be5-f61b-4dc9-b75c-ab62374668c5
 QuartoNotebookRunner,4c0109c6-14e9-4c88-93f0-2b974d3468f4
 QuartzImageIO,dca85d43-d64c-5e67-8c65-017450d5d020
+Quasar,86e06105-936e-439e-acf0-7687560b0bd9
 QuasiArrays,c4ea9172-b204-11e9-377d-29865faadc5c
 QuasiCopula,c47b6ae2-b804-4668-9957-eb588c99ffbc
 QuasiEwald,983f8767-50b7-4083-a328-dfb7a9c26de7
@@ -8132,6 +8135,7 @@ RateTables,d40fb65e-c2ee-4113-9e14-cb96ca0acb32
 RatingCurves,e9e3b3e0-5095-4984-97e8-7ac0126a89f0
 RationalFunctionApproximation,c92886a3-cb30-4e18-b84f-372dde475ecc
 RationalGenerators,2737ff73-0d59-47a5-9105-cfa0dee446ca
+RationalPolygons,d26dedfb-ad13-44bd-90c7-a2710fa2c005
 RationalProjectivePlane,c6f45eda-53e9-4846-927e-3bf2d3f4e2f3
 RationalRoots,308eb6b3-cc68-5ff3-9e97-c3c4da4fa681
 RationalVectorFitting,52b1e31a-230f-50d6-be04-0f5494ddfff6
