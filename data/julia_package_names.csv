@@ -745,6 +745,7 @@ BenchPerfConfigSweeps,ff6ab34e-6c4e-401f-aa49-786a197b91d4
 BenchmarkCI,20533458-34a3-403d-a444-e18f38190b5b
 BenchmarkConfigSweeps,5dead3b6-c9e4-435a-a292-80e2716ed6d9
 BenchmarkEnvironments,d3e05d68-52be-433b-950f-1fabddef5ccc
+BenchmarkFreeFermions,5b68a00d-ca4d-4b58-ab0c-dc082ade624e
 BenchmarkFunctions,f6782734-9c9f-4136-a5cf-b2677328accc
 BenchmarkHistograms,a80a1652-aad8-438d-b80b-ecb1a674e33b
 BenchmarkPlots,ab8c0f59-4072-4e0d-8f91-a91e1495eb26
@@ -2542,6 +2543,7 @@ EAGO,bb8be931-2a91-5aca-9f87-79e1cb69959a
 EBIC,a20a8f57-126a-498b-b7f9-397976b1b2b4
 EBayes,bad9efff-1a8e-41fb-9e7d-5d6f530fb0a3
 ECC,a99b485a-c5c8-540e-ab00-7a7265134077
+ECCO,485acfd6-c8ad-4ff9-b233-a5c7cab2dfb0
 ECLGraphColor,9c1363d0-405f-4779-b1bc-67e54cdcac85
 ECOS,e2685f51-7e38-5353-a97d-a921fd2c8199
 ECOS_jll,c2c64177-6a8e-5dca-99a7-64895ad7445f
@@ -5010,6 +5012,7 @@ LZO_jll,dd4b983a-f0e5-5f8d-a1b7-129d4a5fb1ac
 L_BFGS_B_jll,81d17ec3-03a1-5e46-b53e-bddc35a13473
 LaMEM,2e889f3d-35ce-4a77-8ea2-858aecb630f7
 LaMEM_jll,15d6fa20-f789-5486-b71b-22b4ac8eb1c1
+LaTeXCompilers,90294288-587b-4593-a557-cb1db79f8ded
 LaTeXDatax,644dedec-337d-45c6-9a86-27a5fed2b77d
 LaTeXEscapes,cf6549fa-34fa-4b85-907d-0f184605242c
 LaTeXFigures,5d2f8d0c-8a3d-45b5-9848-1a5a591485bf
@@ -5484,6 +5487,7 @@ MEstimation,38feb9b4-a243-49d8-ab24-fe2508a85779
 MFCC,ca7b5df7-6146-5dcc-89ec-36256279a339
 MFEM_seq_jll,3cf6f5a4-34a7-5d62-9a78-d5aadfae302d
 MFrontInterface,f46a0e2b-0ed0-5677-a4b9-4be52fead4dc
+MGARD_jll,55d5437f-3252-567d-b53c-03ff263d9b41
 MGVI,fdae7790-d271-4276-880d-f72bbddf129c
 MHDFlows,1d939cba-ab73-4bc0-975c-87d4c856e1f9
 MHLib,0f3a0e6e-e0e7-4894-bd64-856f0ae3b635
@@ -6329,6 +6333,7 @@ NMF,6ef6ca0d-6ad7-5ff6-b225-e928bfa0a386
 NMFMerge,9cc52eda-dfaf-4e21-aae3-9f26bed153a3
 NMFk,e40cd9e2-a1df-5d90-a1fa-603fdc3dbdd8
 NMRAnalysis,e8f11e50-668f-4bdf-b40b-95f76662da30
+NMRInversions,55c20db2-0166-4687-95c3-62a9c7afb29b
 NMRTools,c2839fe3-f1de-42fc-897f-c1b0e8db4db6
 NNFEM,9fbee185-08cf-5df3-934a-20f446aa0bf6
 NNHelferlein,b9e938e5-d80d-48a2-bb0e-6649b4a98aeb
@@ -6673,6 +6678,7 @@ OceanBioME,a49af516-9db8-4be4-be45-1dad61c5a376
 OceanColorData,39357346-8f20-4302-be7b-c20dcd116b7a
 OceanDistributions,aa3b323a-0e68-4b14-b952-9911d94e084a
 OceanGrids,cfe838f4-859f-11e9-2ea1-df7d4e7c3537
+OceanLight,ff88e13d-0366-4369-baeb-7c3fb86ee06b
 OceanRasterConversions,07ff2621-03e0-4bfb-9812-e5d28c6dbff8
 OceanRobots,0b51df41-3294-4961-8d23-db645e32016d
 OceanStateEstimation,891f6deb-a4f5-4bc5-a2e3-1e8f649cdd2c
@@ -7569,7 +7575,9 @@ PowerModelsADA,bf5a6c5f-0285-47d6-bb57-79927775d05d
 PowerModelsAnalytics,7425d11c-6b70-11e9-2bc6-9bcd3191d4b9
 PowerModelsAnnex,6e471128-d39d-5672-b02b-a742bd1b77ed
 PowerModelsDistribution,d7431456-977f-11e9-2de3-97ff7677985e
+PowerModelsDistributionRDT,66cb097a-b461-11e9-2c74-17ced528deb4
 PowerModelsDistributionStateEstimation,d0713e65-ce0c-4a8e-a1da-2ed737d217c5
+PowerModelsGMD,c92a0612-66bb-11e9-0491-518d0d864356
 PowerModelsITD,615c3f80-b0cb-4ecd-88fe-27bee056c380
 PowerModelsInterface,7a4b9400-1441-4f08-9626-3f96e0a9a29b
 PowerModelsMCDC,05d58fe5-e6ff-58ad-86d6-05dcc0b74504
@@ -7593,6 +7601,7 @@ PowerSystemsUnits,c279aad7-7dc9-58d3-995b-109d3f5deb94
 PowerWaterModels,7f4f7f52-2f44-4c87-b9ed-462dc784f1b2
 Powerful,542e4350-023d-42c7-b19f-8cb561780c9e
 Powersense,c5022caa-3a13-4c38-8648-ef17c886ed6e
+Powsybl,cc5d7637-2d3a-48eb-b6d4-9415154f8200
 Powsybl_jll,b8c81e45-bfcc-5af0-87df-fd7619bc5515
 PrairieIO,e0255976-123f-53e1-a894-d0440dea2ee2
 PreCICE,57fbd4af-5cc3-4712-aac0-6930e7658184
@@ -10220,6 +10229,7 @@ TrixiParticles,66699cd8-9c01-4e9d-a059-b96c86d16b3a
 TropicalCyclonePotentialIntensity,3d638a7a-a2e4-42bc-a032-160bbf3719f9
 TropicalGEMM,a4ad3063-64a7-4bad-8738-34ed09bc0236
 TropicalGemmC_jll,4f4992fb-2984-5eba-87b8-475305d0f5fc
+TropicalNN,45302f6a-f5d4-4eaf-9bda-c9ca7b62f2bc
 TropicalNumbers,b3a74e9c-7526-4576-a4eb-79c0d4c32334
 TropicalSemiring,8aa046c6-9529-5101-9c84-44ff67e49b72
 TropicalTensors,d36a0d72-1b97-4328-8dbd-2ebdfd409140
