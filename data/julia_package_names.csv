@@ -3790,6 +3790,7 @@ Git_jll,f8c6e375-362e-5223-8a59-34ff63f689eb
 GithubMarkdown,ecb7cac2-dae3-4a6f-a5f6-8274be99c6cb
 GittinsIndices,528e2044-b1ef-47f1-a8f4-693ac85d91f9
 GivEmXL,dcf505f5-2bf4-45cb-8fef-5f56a3c0e7fc
+Givaro_jll,718b8d5e-48ce-516c-962d-6f755aae6f80
 GlibNetworking_jll,99fd4003-298c-58dc-a8c7-c8e9475755a1
 Glib_jll,7746bdde-850d-59dc-9ae8-88ece973131d
 Glibc_jll,452aa2e7-e185-58db-8ff9-d3c1fa4bc997
@@ -9332,6 +9333,7 @@ Spinners,28ab5b7a-bdcc-4f1e-a5de-638613dcf356
 Spirograph,35d10a26-80cc-4425-970d-fdc241525858
 Splines2,5a560754-308a-11ea-3701-ef72685e98d6
 SplitApplyCombine,03a91e81-4c3e-53e1-a0a4-9c0c8f19dd66
+SplitClusterTest,3179d415-6c90-44ae-a551-1cda3561f97d
 SplitOrderedCollections,4b700b29-7da4-4670-af42-5a9783ffd6e0
 SplittableRandoms,8efc31e9-3fb0-4277-b18c-5a3d5d07abad
 SplittablesBase,171d559e-b47b-412a-8079-5efa626c420e
@@ -9476,6 +9478,7 @@ StatsProcedures,d2f4e7c0-4966-47f3-9552-d63f8a71a436
 Statsd,3a38cb31-b91a-4cb6-a3cc-e596c78fb826
 StatusSwitchingQP,73a7d86c-03e3-42fb-a0f5-70ef6cda08f4
 SteadyStateDiffEq,9672c7b4-1e72-59bd-8a11-6ac3964bc41f
+SteadyWaves,2d4f3d31-6681-40b2-b238-b8279529db51
 SteamTables,43dc94dd-f011-5c5d-8ab2-5073432dc0ba
 SteamWebAPIs,e6ff7510-e9ee-4fc9-8d54-48d13dde7e75
 Steganography,b36d76f3-e888-5fd0-8dd3-e39a55b413c6
@@ -9686,6 +9689,7 @@ Swagger,2d69052b-6a58-5cd9-a030-a48559c324ac
 SwaggerMarkdown,1b6eb727-ad4b-44eb-9669-b9596a6e760f
 Swalbe,1073fb09-a5e2-4e80-8bde-f3562efda53f
 SwapLiterals,b9c42661-4c44-44aa-8691-47710c88d134
+SwapSort,518c31a9-72dd-41b9-826f-606c4258a582
 SwapStreams,0b152c4a-7e29-418b-9258-223db38db9d9
 SwarmMakie,0b1c068e-6a84-4e66-8136-5c95cafa83ed
 SweepContractor,75a5deae-e917-4509-af32-a989148c8d5f
