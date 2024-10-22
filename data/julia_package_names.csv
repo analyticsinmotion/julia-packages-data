@@ -1318,6 +1318,7 @@ CausalELM,26abab4e-b12e-45db-9809-c199ca6ddca8
 CausalForest,31bdf679-24a7-499a-9be9-b214c66174ea
 CausalGPSLC,e033fc31-0bf0-4add-9518-8e0675b669ea
 CausalInference,8e462317-f959-576b-b3c1-403f26cec956
+CausalTables,6af48e0c-efc2-4bf7-a92f-a553ccf79fd6
 CausalityTools,5520caf5-2dd7-5c5d-bfcb-a00e56ac49f7
 CausalityToolsBase,b1f25513-c649-51ee-8a1c-0e98d01ae897
 CavityTools,217fe2f1-7e3d-419f-9934-cd6900c2759a
@@ -3900,6 +3901,7 @@ GraphsMatching,c3af3a8c-b79e-4b01-bf44-c718d7e0e0d6
 GraphsOptim,e79ef3ae-79c8-4b97-b165-63f338db30c2
 GraphvizDotLang,6039e64d-d8b8-4c93-8e43-7efd2f757352
 Graphviz_jll,3c863552-8265-54e4-a6dc-903eb78fde85
+GrasslandTraitSim,45e22d02-e628-441d-a1c7-54dcb4b48aca
 Grassmann,4df31cd9-4c27-5bea-88d0-e6a7146666d8
 GraviPet,5928621a-8be5-4e72-aa40-6d276f04f5c4
 GrayCode,3c6b6a22-b11f-44c2-accc-f87d49953a21
@@ -8920,6 +8922,7 @@ ShunnHamQuadrature,164309f2-5039-4884-b6c7-6da8aa5c66ad
 SideKicks,ae7baef6-f8d7-4188-9988-8bf5c4952615
 SigFigs,98c7d76d-7e09-410d-8095-648d0832f4ae
 SigMF,dc1af1da-aa00-46a0-b3ad-5cde4383c966
+SigmaProofs,f8559b4c-f045-44a2-8db2-503e40bb7416
 SigmaRidgeRegression,e566bdc2-f852-4ed0-870a-7389015b131d
 SigmoidNumbers,5f9c4118-ff96-4443-8e36-82746d603364
 SigmoidalProgramming,ce2a0656-6bed-5c64-9e01-e7b1ac833b80
@@ -10770,6 +10773,7 @@ X11_jll,546b0b6d-9ca3-5ba2-8705-1bc1841d8479
 X13as_jll,6c9beba9-e00a-580e-a2fe-633c5dfe81b1
 XAIBase,9b48221d-a747-4c1b-9860-46a1d8ba24a7
 XAM,d759349c-bcba-11e9-07c2-5b90f8f05f7c
+XAMAuxData,e99d641e-1821-45d7-9150-ecb7bf333fe1
 XCALibre,cf91e36b-bd94-493a-8848-32508a10963c
 XCB,16167f82-ea26-5cba-b1de-ed6fd5e30a10
 XCBased,fac17066-6efe-4494-9398-e70f574ba8bc
