@@ -5747,6 +5747,7 @@ MathLink,18c93696-a329-5786-9845-8443133fa0b4
 MathLinkExtras,319bc7fa-14a0-11ec-21e1-6160fff0bbd8
 MathML,abcecc63-2b08-419c-80c4-c63dca6fa478
 MathMLRepr,42d37811-1353-41fc-905d-730061a3b7c3
+MathOptAI,e52c2cb8-508e-4e12-9dd2-9c4755b60e73
 MathOptFormat,f4570300-c277-12e8-125c-4912f86ce65d
 MathOptInterface,b8f27783-ece8-5eb3-8dc8-9495eed66fee
 MathOptInterfaceMosek,0087ddc6-3964-5e57-817f-9937aefb0357
@@ -6977,6 +6978,7 @@ PDFHighlights,e9eb520e-30fd-490c-8483-b9cf365267e3
 PDFHighlights_jll,fe0d2b3f-bf6f-562d-b83f-78e4174e3058
 PDFIO,4d0d745f-9d9a-592e-8d18-1ad8a0f42b92
 PDFmerger,3beb2ed1-af7d-458f-b727-6e9beb3586c0
+PDMPFlux,fa921718-cbf9-4165-aaee-7047d51b02b3
 PDMats,90014a1f-27ba-587c-ab20-58faa44d9150
 PDMatsExtras,2c7acb1b-7338-470f-b38f-951d2bcb9193
 PDMatsSingular,8b9ac4da-30d1-49d3-a564-69a6ecc8b6d7
