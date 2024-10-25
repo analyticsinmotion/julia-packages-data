@@ -2160,6 +2160,7 @@ DecomposingPolynomialSystems,f22b1612-9f73-4f98-889e-ed5396e1a4da
 DeconvOptim,03e7cd2f-1a03-4ea9-b59b-760a446df67f
 Deconvolution,41ba435c-a500-5816-a783-a9707c6f5f3a
 DecoratedParticles,023d0394-cb16-4d2d-a5c7-724bed42bbb6
+DedekindCutArithmetic,a9cf20ff-59c8-5762-8ce8-520b700dfeff
 Dedispersion,fc859fcf-df02-4415-b05f-e38a41bf0974
 Deductive,1a5e8c1d-b073-459e-b18e-ab421a81424e
 DeepCompartmentModels,398c52f8-e6e0-45bd-bf73-2340696b0a8e
@@ -5421,6 +5422,7 @@ LuaCall,b19d909c-f536-5a7e-8424-a4fb7ce1e4d7
 Lua_jll,a4086b1d-a96a-5d6b-8e4f-2030e6f25ba6
 Lucky,091b6c57-2055-4743-a613-81d9bc5174d5
 Lucon,ee70d37e-021e-48ac-98f1-58dad3ba901e
+Ludwig,71a25704-ed10-46ea-9c76-1c441b891988
 Luna,30eb0fb0-5147-11e9-3356-d75b018717ce
 Luna_jll,5c9374ce-fdac-595e-b98d-9d97a97a2302
 Lunettes,45fdfeda-9075-4319-90b5-f13bf67f1b3c
@@ -7080,6 +7082,7 @@ PairVelocities,3c991dec-9c56-4f58-9859-82b65299ade1
 PairedLinkedLists,7a42b37b-ed3b-477a-9848-3661f53bb718
 PairsMacros,a3ed533e-75b3-46cb-ad8a-82d33aefb744
 PairwiseListMatrices,f9da4da7-9382-5435-b973-175f5d8dfb32
+PairwiseMappingFormat,30ee2946-b067-41c0-bed2-0900b78dbe59
 Pajarito,2f354839-79df-5901-9f0a-cdb2aac6fe30
 PalmerPenguins,8b842266-38fa-440a-9b57-31493939ab85
 PandaModels,2dbab86a-7cbf-476f-9afe-75ffd3079e7c
@@ -9697,6 +9700,7 @@ Swalbe,1073fb09-a5e2-4e80-8bde-f3562efda53f
 SwapLiterals,b9c42661-4c44-44aa-8691-47710c88d134
 SwapSort,518c31a9-72dd-41b9-826f-606c4258a582
 SwapStreams,0b152c4a-7e29-418b-9258-223db38db9d9
+SwarmAgents,6fce2c4d-9d52-4112-b2c3-c0b80c6b8436
 SwarmMakie,0b1c068e-6a84-4e66-8136-5c95cafa83ed
 SweepContractor,75a5deae-e917-4509-af32-a989148c8d5f
 SweepOperator,7522ee7d-7047-56d0-94d9-4bc626e7058d
@@ -11279,6 +11283,7 @@ libvofi_jll,62e11466-777e-5a8a-800b-95b03cc31b38
 libvorbis_jll,f27f6e37-5d2b-51aa-960f-b287f2bc3b7a
 libwatcher_jll,f2e3f4ed-6d30-53f6-bb33-6a6ab454fa9c
 libwebp_jll,c5f90fcd-3b7e-5836-afba-fc50a0988cb2
+libwebsockets_jll,b6b84edf-6aef-5ff6-9b66-656961a84a09
 libwinit_jll,97be0fec-884d-58b1-bbbf-0a8836650f3e
 libxcrypt_jll,87c3e826-2eb0-5ec5-bf6f-86db62fa23b2
 libxcrypt_legacy_jll,5ef642bb-a58b-5208-ae37-583168b2c491
