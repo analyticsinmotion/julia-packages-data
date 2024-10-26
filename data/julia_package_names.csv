@@ -4998,6 +4998,7 @@ LLVM_full_jll,a3ccf953-465e-511d-b87f-60a6490c289d
 LLVM_jll,86de99a1-58d6-5da7-8064-bd56ce2e322c
 LMDB,11f193de-5e89-5f17-923a-7d207d56daf9
 LMDB_jll,6206cf0b-f360-5984-af49-5437264c140e
+LMfit,4eb4f38b-2839-4c1d-8f96-c88b685035f5
 LNR,7c4cb9fa-83a0-5386-9231-d6167c818060
 LOLTools,e2c437b3-d38f-4222-8753-dddcd5679a95
 LPVSpectral,26dcc766-85df-5edc-b560-6076d5dbac63
@@ -5209,6 +5210,7 @@ LibUnwind_jll,745a5e78-f969-53e9-954f-d19f2f74f4e3
 LibVPX_jll,dd192d2f-8180-539f-9fb4-cc70b1dcf69a
 LibYAML,893b89ae-d513-59bf-bb22-7f8468641907
 LibYAML_jll,f531010a-71ee-5b11-8e71-2f13f29d8a82
+LibZip,89089acc-ee81-44d2-83aa-3aa2951b1031
 Libassuan_jll,3c934f36-e25c-5265-85bb-28494e4832bb
 Libbpf_jll,02f9a84d-9555-5f1a-8c3c-42027521038d
 Libcap_Ng_jll,5ee47f88-1586-5e41-8c7a-ccc44ca77d79
@@ -8701,6 +8703,7 @@ Sandbox,9307e30f-c43e-9ca7-d17c-c2dc59df670d
 SankeyPlots,8fd88ec8-d95c-41fc-b299-05f2225f2cc5
 SantasLittleHelpers,c6e7a17c-0287-4a42-9433-7fe3bf8697c3
 Santiago,4c14ae50-faa6-54c0-b22f-5cc2de459edf
+Sargassum,022a0cfc-64d6-4a4c-8da6-19b349a396b3
 Sass,322a6be2-4ae8-5d68-aaf1-3e960788d1d9
 SassC_jll,e813748c-f071-5ac4-9ddd-9e9e72545407
 SatSolver,19162200-215e-47cb-8549-eaa9b939e44b
@@ -9343,6 +9346,7 @@ Spirograph,35d10a26-80cc-4425-970d-fdc241525858
 Splines2,5a560754-308a-11ea-3701-ef72685e98d6
 SplitApplyCombine,03a91e81-4c3e-53e1-a0a4-9c0c8f19dd66
 SplitClusterTest,3179d415-6c90-44ae-a551-1cda3561f97d
+SplitComplexNumbers,2aaeee26-74d4-4395-a8a7-2c94eb819fb5
 SplitOrderedCollections,4b700b29-7da4-4670-af42-5a9783ffd6e0
 SplittableRandoms,8efc31e9-3fb0-4277-b18c-5a3d5d07abad
 SplittablesBase,171d559e-b47b-412a-8079-5efa626c420e
@@ -9777,6 +9781,7 @@ T8code,d0cc0030-9a40-4274-8435-baadcfd54fa1
 TBLIS,48530278-0828-4a49-9772-0f3830dfa1e9
 TCIITensorConversion,9f0aa9f4-9415-4e6a-8795-331ebf40aa04
 TCX,3b8c1752-506b-11e9-3f9b-8db86abc7c68
+TCX2Graph,7c1b654f-8326-48fd-8083-965747c58dac
 TCXReader,1acf2333-b1bd-424d-862d-25e89a4f23c1
 TDAmeritrade,85f6aff6-1a1d-4afc-a0ba-df5513750661
 TDLib_jll,6cfef11d-eb86-5696-bb50-1df673c3ffa1
@@ -10888,6 +10893,7 @@ Xorg_xorgproto_jll,c4d99508-4286-5418-9131-c86396af500b
 Xorg_xproto_jll,46797783-dccc-5433-be59-056c4bde8513
 Xorg_xtrans_jll,c5fb5394-a638-5e4d-96e5-b29de1b5cf10
 Xpress,9e70acf3-d6c9-5be6-b5bd-4e2c73e3e054
+XpressAPI,750d0954-2060-462e-b2dd-f6609bca40df
 Xpress_jll,308bddfa-7f95-4fa6-a557-f2c7addc1869
 XsdToStruct,3ae7ce5f-3138-4ab9-addd-ceedf56009da
 Xsum,1fd64df0-a4d2-11e9-360d-2f03868f4cf5
