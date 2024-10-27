@@ -3094,6 +3094,7 @@ FermionXYModels,19fd5c17-81b1-4921-a398-53333efd3594
 Fermionic,9854c450-6826-470b-b7cd-d3803b32f4ba
 Ferrite,c061ca5d-56c9-439f-9c0e-210fe06d3992
 FerriteGmsh,4f95f4f8-b27c-4ae5-9a39-ea55e634e36b
+FerriteInterfaceElements,76cf2c14-24ca-44b2-b86c-6046d3cfcf82
 FerriteMeshParser,0f8c756f-80dd-4a75-85c6-b0a5ab9d4620
 FerriteViz,59d0093e-b1f1-4fb7-ac85-ab57e45f39d9
 Fetch,bb354801-46f6-40b6-9c3d-d42d7a74c775
@@ -4939,6 +4940,7 @@ KungIChi,f52142bb-6843-4e16-a1b1-69f2acef56c5
 Kwant,ed3f9b50-51cd-11e9-3ece-75fc8af922bb
 KwdefHelpers,80d9ef48-13f8-4f87-9333-d4c97b041895
 Kwonly,18d08c8c-0732-55ee-a446-91a51d7b4206
+L1TrendFiltering,b2ecaf23-c471-4976-bbc3-22be69e1f6bb
 LACosmic,a188e134-b1c0-4a25-bc7e-93a99f0f0e06
 LAGraph_jll,51243bbd-983c-5006-9250-ac9a1da43bd7
 LAME_jll,c1c5ebd0-6772-5130-a774-d5fcae4a789d
@@ -6562,6 +6564,7 @@ NonlinearEquations,dcda4a48-b9f7-11e9-2d4a-7da573938c24
 NonlinearProblemLibrary,b7050fa9-e91f-4b37-bcee-a89a063da141
 NonlinearSchrodinger,b3fbeaf7-5746-403c-a6b7-06939dc82746
 NonlinearSolve,8913a72c-1f9b-4ce2-8d82-65094dcecaec
+NonlinearSolveBase,be0214bd-f91f-a760-ac4e-3421ce2b2da0
 NonlinearSolveMINPACK,c100e077-885d-495a-a2ea-599e143bf69d
 NonlinearSolvers,f4b8ab15-8e73-4e04-9661-b5912071d22b
 NonlinearSystems,deb0877a-d74a-4aeb-b6ac-c17f6fb4122e
@@ -7162,6 +7165,7 @@ ParticleCorrelations,2bdc0d93-21f3-4e16-a26e-769a2eaf80d4
 ParticleDA,61cd1fb4-f4c4-4bc8-80c6-ea5639a6ca2e
 ParticleFilters,c8b314e2-9260-5cf8-ae76-3be7461ca6d0
 ParticleHolography,b8f7f481-73e0-42c6-b6bd-c66d3b4942cc
+ParticleInCell,3f496205-d90f-4778-83b9-652c261f54b9
 ParticleMDI,c070f950-bb2a-11e8-1d15-1b6f26bd9de9
 ParticleMethods,b097825d-39ce-45b2-a4ab-941e2c2df7e8
 ParticleScattering,3532a73c-0c3e-5edc-89e3-d771336b0a2d
@@ -9135,6 +9139,7 @@ Smg2s,36e52ba8-0d61-4da2-bc57-6d85c7a279e7
 SmoQyDEAC,9c442b74-637f-4296-b43a-959aa316565a
 SmoQyDQMC,00e12d65-277b-447e-9c1d-a17422dd36f5
 SmoQyHankelCorrCleaner,0ea08462-a9b7-4dbd-b738-4196db0ff3ad
+SmoQyKPMCore,30e33e58-a96a-4fec-8c75-57692dd3ff18
 SmoQySynthAC,fe3e30a4-de68-41ff-a057-b00c4bb8fcbc
 SmolyakApprox,6b19cf85-48de-5d9d-bfff-465abea14fab
 SmoothInterpolation,4412c578-8aba-4b04-8c8c-6ae573ccb792
