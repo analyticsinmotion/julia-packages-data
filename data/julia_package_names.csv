@@ -323,6 +323,7 @@ Apophis,cf72b054-1e85-4718-a3f4-02cfdc10a054
 AppBundler,40eb83ae-c93a-480c-8f39-f018b568f472
 AppDirs,5a4fb9a2-b02d-4ffe-b178-6027dc2bc1ce
 AppleAccelerate,13e28ba4-7ad8-5781-acae-3021b1ed3924
+AppleHealthParser,d1ed7681-0bdc-4b3e-a64e-a9a059b3ebfe
 AppliGeneralLedger,69311175-8ceb-4e66-8d4a-fec439d19437
 AppliSales,c1345d04-1a7a-4e7a-b935-9916dcf58fca
 ApplicationBuilder,f9309374-59cc-5ff5-a120-e3e470a57b4a
@@ -2917,6 +2918,7 @@ FEMQuad,be8e8821-3f6f-54c2-987c-d2773c3a52cb
 FEMSparse,dcdf9ed5-39e7-592a-90de-966c054b7718
 FEniCS,186dfeec-b415-5c13-8e76-5fbf19f56f9b
 FFAST,10506e09-08cd-5f0b-aee5-631de1bcc925
+FFLAS_FFPACK_jll,dfc7ee4e-f599-5c37-83b9-6493130c4cf0
 FFMPEG,c87230d0-a227-11e9-1b43-d7ebe4e7570a
 FFMPEG_jll,b22a6f82-2f65-5046-a5b2-351ab43fb4e5
 FFTA,b86e33f2-c0db-4aa1-a6e0-ab43e668529e
@@ -7226,6 +7228,7 @@ PeriodicGraphEquilibriumPlacement,72a2d4b8-adbf-4c88-a101-42c807716bb0
 PeriodicGraphs,18c5b727-b240-4874-878a-f2e242435bab
 PeriodicHiddenMarkovModels,4873b48c-7fd1-4fb6-93c5-649b25bdde2e
 PeriodicKdV,0271e0de-59e8-44d5-83ce-0a41c44a9705
+PeriodicMatrices,dd9cd634-6083-4ae5-8f2e-b983833de2bb
 PeriodicSchurDecompositions,e5aedecb-f6c0-4c91-b6ff-fbae4296f459
 PeriodicSystems,5decd0d0-8a5f-11ec-2edd-87b25cbcd17e
 PeriodicTable,7b2266bf-644c-5ea3-82d8-af4bbd25a884
@@ -11448,6 +11451,7 @@ spectra_jll,ef34ea38-0a9e-523f-b228-55b6d5c13eb1
 spglib_jll,ac4a9f1e-bdb2-5204-990c-47c8b2f70d4e
 spla_jll,c0b6e1fa-1634-5519-836b-ea1958e971dd
 squashfs_tools_jll,eed32e3e-a7c5-5bf9-9121-5cf3ab653887
+sshpass_jll,10845e11-4a35-56cf-b896-e8069d57c2bc
 ssht_jll,06c0f48c-727e-59bc-bc79-048e0b09db0c
 startin_jll,c0017dae-bb0d-5ae0-bc81-a2950b9c605d
 stb_jll,0a870b86-ede5-5f68-8916-0c4c2008bb27
