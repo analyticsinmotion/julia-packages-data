@@ -819,6 +819,7 @@ BinaryProvider,b99e7846-7c00-51b0-8f62-c81ae34c0232
 BinaryRecordReader,27e49e6c-9eba-4945-878d-08e5ccc7cbcd
 BinaryTemplates,63ebbf9a-108b-456f-88e1-4a75abca4b5c
 BinaryTraits,190e46ec-f771-4705-b939-984896f7be0e
+BinaryTrees,289e92be-c05a-437b-9e67-5b0c799891f8
 BinaryWrappers,f01c122e-0ea1-4f85-ad8f-907073ad7a9f
 Binaryen_jll,a54ac8ab-712d-5a0e-8e11-9296c0d3c20e
 Bingomatic,5d0f211d-823e-4d77-a844-586f1e6d1e5a
@@ -1785,6 +1786,7 @@ ContextManagers,51ca0b03-0667-4ad4-bb9a-29a7d42ecc1f
 ContextTracking,6cbdd853-f5b8-41ca-9b66-f060deb7aec3
 ContextVariablesX,6add18c4-b38d-439d-96f6-d6bc489c04c5
 ContextualMacros,18b01625-79e3-4c41-8668-c88bdfdd3c6f
+ContingencyTables,d8605af1-a39a-40e5-82f3-4793871169cd
 Continuables,79afa230-ca09-11e8-120b-5decf7bf5e25
 ContinuedFractions,11738ef7-5d34-4561-8fd5-55b6644beee9
 ContinuousNormalizingFlows,00b1973d-5b2e-40bf-8604-5c9c1d8f50ac
@@ -3205,6 +3207,7 @@ FixedPoint,3325f569-5a18-4e7d-8356-246b69339eea
 FixedPointAcceleration,817d07cb-a79a-5c30-9a31-890123675176
 FixedPointDecimals,fb4d412d-6eee-574d-9565-ede6634db7b0
 FixedPointNumbers,53c48c17-4a7d-5ca2-90c5-79b7896eea93
+FixedPointNumerics,667e4c0e-a733-4321-83c7-c10aa58aff6a
 FixedPointSinCosApproximations,aedcc28f-63b5-4046-b467-b09cfa7c8db7
 FixedPointToolkit,081f7a28-ac82-48c1-a10e-fa8b3349a52a
 FixedPolynomials,3dd14ad9-0029-526e-86e9-8aa0bdd2ab0d
@@ -9542,6 +9545,7 @@ StochasticProcesses,494e3ecb-4870-42f9-9c5b-ad6e224b11d8
 StochasticPrograms,8b8459f2-c380-502b-8633-9aed2d6c2b35
 StochasticRounding,3843c9a1-1f18-49ff-9d99-1b4c8a8e97ed
 StochasticSemiDiscretizationMethod,048039a2-5e1a-11e9-0eb6-5da22298fca4
+StochasticSeriesExpansion,1c8cc5bc-bd94-4f4b-9471-62b736d0cc39
 StockFlow,58c4a0e8-2944-4d18-9fa2-e17726aee9e5
 StomataModels,5fa394f2-99ce-4e3a-9704-be7b3526889d
 Stonks,165769d7-5ed9-41fd-9f18-b88cfb146d0e
