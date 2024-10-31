@@ -775,6 +775,7 @@ BetterInputFiles,c0b1955d-4702-4680-a946-720482e78a48
 BetweenFlags,0601b4d0-0592-11e9-1558-ab091b5e7996
 Bezier,4ec6fef6-ecd9-481e-97e1-75598c2ab6c2
 Bhaskara,0ff2d225-4740-5ba6-bff6-8e455aafa9c9
+BiBufferedStreams,0a7c0d76-3150-4455-b428-d5f420c13001
 BiCePS_jll,7196b6e2-84d2-5468-aff3-a0acff4d3b58
 BiGGReactions,0f8c7381-4745-4de4-ab54-b92c670edbdd
 BibInternal,2027ae74-3657-4b95-ae00-e2f7d55c3e64
@@ -1466,6 +1467,7 @@ ClassImbalance,04a18a73-7590-580c-b363-eeca0919eb2a
 Classes,1a9c1350-211b-5766-99cd-4544d885a0d1
 ClassicalCiphers,ecf26e93-935c-5e64-9b21-bc8ac81b4723
 ClassicalOrthogonalPolynomials,b30e2e7b-c4ee-47da-9d5f-2c5c27239acd
+Claude,a00ee857-659a-4bd1-adc3-7f1f48b9fe16
 ClausenFunctions,1cc96f36-ef02-40ef-a648-5e2c13df3076
 CleanUpPullRequestPreviews,06c59129-2005-40e8-8e6e-18d91e04568a
 Cleaner,caabdcdb-0ab6-47cf-9f62-08858e44f38f
@@ -2733,6 +2735,7 @@ EntityComponentSystem,a8343a65-b356-5275-be17-d741438d126c
 EntropicCone,46c19be6-bce2-539c-96b6-a48c64de3b10
 Entropies,ed8fcbec-b94c-44b6-89df-898894ad9591
 EntropyHub,3938faea-3bfa-4bc3-8092-0c6746ff9af1
+EntropyScaling,36a13073-9e6e-4b19-b12b-cb530e79ee8e
 Entwine_jll,9290252f-3c82-5b4b-93a0-1879861c8c5d
 EnumX,4e289a0a-7415-4d19-859d-a7e5c4648b56
 EnvironmentMigrators,e51d7f76-d3fb-4251-851d-1e49b8315b3e
@@ -5070,6 +5073,7 @@ LaserFields,dfcd5af1-1e31-431a-b1a1-3c72ddca0e1b
 LaserTypes,e07c0bfa-524c-4f35-a151-c3dd916fa2f0
 Lasso,b4fcebef-c861-5a0f-a7e2-ba9dc32b180a
 LassoPlot,21d151f5-1f6d-55ec-8524-1c9aee35b0a4
+LatentClassAnalysis,b1f7610d-5a93-432d-98bb-b43418e401fd
 LatexPrint,d2208f48-c256-5759-9089-c25ed2a93924
 LatexSVG,b81a8e73-d03d-4f31-826c-30040db55cb2
 Latexify,23fbe1c1-3f47-55db-b15f-69d7ec21a316
