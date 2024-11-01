@@ -169,6 +169,7 @@ AdaptivePredicates,35492f91-a3bd-45ad-95db-fcad7dcfedb7
 AdaptiveRegularization,79adfba0-1eab-50d9-8528-0589417a2bfe
 AdaptiveRejectionSampling,c75e803d-635f-53bd-ab7d-544e482d8c75
 AdaptiveResonance,3d72adc0-63d3-4141-bf9b-84450dd0395b
+AdaptiveSampling,8eadcf17-c760-4497-b196-5192eed4b985
 AdaptiveSparseGrids,676d8d29-539e-4f06-b848-7dd647dd5291
 AdaptiveTestPlots,d194c7c1-4081-4169-ba52-101f65b44e42
 AdaptiveWindows,310fb2ca-6a3f-11ec-0326-3f7b497a96a3
@@ -838,6 +839,7 @@ BioAlignments,00701ae9-d1dc-5365-b64a-a3a3ebf5695e
 BioAtomsCount,85ca2092-e647-4015-bc79-36f358be2fb1
 BioCCP,79e6b149-e254-49fe-a721-3c4960de1574
 BioCore,37cfa864-2cd6-5c12-ad9e-b6597d696c81
+BioDemuX,ac87d701-7792-4b86-94b3-1f30c027900b
 BioDemultiplexer,39204792-bc26-423a-8bcf-54c03468b271
 BioEnergeticFoodWebs,9b49b652-2545-5b88-a3af-87b516beb26f
 BioExplorer,92f832ab-a3ce-4d7c-a08d-a5d13ab1bbba
@@ -1283,6 +1285,7 @@ CaratheodoryFejerApprox,591793e0-8db6-4f40-aac6-a66fe5f65964
 Cares_jll,de7616f8-1794-5cde-83a7-2ebe299f2f48
 CarlemanLinearization,4803f6b2-022a-4c1b-a771-522a3413ec86
 Carlo,780c37f4-4e5a-43de-9e79-65c261e525a4
+CarnotCycles,b01af851-7cff-425c-b4a4-ed45d3481e5c
 CarouselArrays,728b0f75-d1ac-44d2-96e7-73f1be4eca2f
 Cartan,e24af43f-9fd5-4672-9264-a75f3ae40eb2
 CartesianCutCell,21ad27bb-7bae-4588-b189-a1a591923795
@@ -4714,6 +4717,7 @@ Jfire,3f49405f-012b-5ae6-ad9b-9087b1131e69
 Jieko,ae98c720-c025-4a4a-838c-29b094483192
 Jin,b393f0d7-2a88-4661-a564-4e2d7462f0be
 Jinja,77962e87-5f16-4699-9e7e-ba81324b26cc
+Jinja2Cpp_jll,72923777-883d-5a9e-8d94-bec813f4d578
 JitterTime,1e62a0ea-68b0-41c4-aa04-5f1eeacd7960
 Jive,ba5e3d4b-8524-549f-bc71-e76ad9e9deed
 Jl2Py,fe5dac85-8b54-4abc-b8de-3413e1fbc3b7
@@ -4832,6 +4836,7 @@ KalmanFilters,272a6111-cf0e-4c1b-a056-8d658cb314ee
 KangarooTwelve,2a5dabf5-6a39-42aa-818d-ce8a58d1b312
 Kanones,107500f9-53d4-4696-8485-0747242ad8bc
 Karnak,cd156443-31ad-4f6f-850f-a93ee5f75905
+KdbConnect,dbd8d13a-8743-44e2-950f-49a08588fccd
 KdotP,c8045c5a-940e-4537-a0b9-cab4a5eb5ca1
 Keldysh,50f2bc7e-5fd7-11e9-13c7-85fb88b4f34f
 KeldyshED,675b6b9c-7c2f-11e9-3bf3-dfd4d61640f7
@@ -10275,6 +10280,7 @@ TrueRandom,e77d87cc-b440-4d37-a0c9-dafffb38ae8a
 TrueSkill,f37d3882-d878-4a7b-89a5-2d9832311052
 TrueSkillThroughTime,093ab8f2-bf28-59ac-8da0-1d7157d27bf9
 TruncatedDistributions,77af390e-3af4-4cd8-bbfa-7ab7569c172d
+TruncatedGaussianMixtures,d6a30cd5-d352-42fd-9418-e34000539a5a
 TruncatedMVN,502039d7-87d7-456d-8cc8-96307cceeee2
 TruncatedStacktraces,781d530d-4396-4725-bb49-402e4bee1e77
 TruncatedStreams,a94d6aec-2c5c-43a3-8874-9c6fe372d212
