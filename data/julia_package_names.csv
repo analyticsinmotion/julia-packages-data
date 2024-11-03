@@ -4040,6 +4040,7 @@ HOHQMesh,e4f4c7b8-17cb-445a-93c5-f69190ed6c8c
 HOHQMesh_jll,1d5cbd98-5122-5a8a-bea1-c186d986ee7f
 HOODESolver,217528c2-21c4-4222-9975-97f0b0cbd7c1
 HORIZONS,5a3ac768-beb4-554a-9c98-3342fe3377f5
+HPCMod,fd7ff580-634a-4fbd-a744-0f3e7cd44420
 HPTT_jll,0d2ef6bb-bd72-5e2e-be6b-e06c14f6a480
 HSARuntime,2c364e2c-59fb-59c3-96f3-194112e690e0
 HSL,34c5aeac-e683-54a6-a0e9-6e0fdc586c50
@@ -7236,6 +7237,7 @@ PerformanceProfilingHttpEndpoints,773a18e9-432f-47dd-82a7-1a805cf6f851
 PerformanceTestTools,dc46b164-d16f-48ec-a853-60448fc869fe
 PeriLab,2ecefcea-59f0-46dd-9cfd-1d2b8cc5f112
 Peridynamics,4dc47793-80f3-4232-b30e-ca78ca9d621b
+PeriodicAutoregressive,bf9113de-13c2-4ffd-8552-7be908523e05
 PeriodicGraphEmbeddings,f305370e-dc8e-427a-bb15-d3949eabeccf
 PeriodicGraphEquilibriumPlacement,72a2d4b8-adbf-4c88-a101-42c807716bb0
 PeriodicGraphs,18c5b727-b240-4874-878a-f2e242435bab
@@ -9360,6 +9362,7 @@ SpinWaveTheory,0f33b1d1-764a-4710-8fd7-79355e2c9255
 SpinWeightedSpheroidalHarmonics,680e17a6-2a17-48fd-ae01-e2b5a643bef0
 SpineBasedRecordLinkage,c1ccfb80-616c-11e9-2032-47e8246e4458
 SpineInterface,0cda1612-498a-11e9-3c92-77fa82595a4f
+SpineOpt,0d8fc150-4032-4b6e-9540-20efcb304861
 Spinnaker,8e0d2ad3-56b8-53f3-8036-54b674872bef
 SpinnakerGUI,bc11bc94-475e-4eaf-ad55-de9f2e280376
 Spinners,28ab5b7a-bdcc-4f1e-a5de-638613dcf356
