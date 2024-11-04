@@ -3337,6 +3337,7 @@ FourierSpaces,f3d7ce31-8807-4b9f-8144-4bd3ed8f0112
 FourierTools,b18b359b-aebc-45ac-a139-9c0ccbb2871e
 FractalAnimation,6118da02-c7f1-44e0-8933-0c8b5cc44c9b
 FractalDimensions,4665ce21-e117-4649-aed8-08bbe5ccbead
+FractalIntegrals,1214b007-556e-4c4e-8d39-042f176f8b35
 FractionalCalculus,638fb199-4bb2-4014-80c8-6dc0d90f156b
 FractionalDelayFilter,c1b2b608-cf0a-49e8-8122-201050f5fbe7
 FractionalDiffEq,c7492dd8-6170-483b-af64-cefb6c377d9a
@@ -5340,6 +5341,7 @@ LinearSolvePardiso,a6722589-28b8-4472-944e-bde9ee6da670
 LinearTimeVaryingModelsBase,5e7a79f3-ee03-5374-bd42-db9a52b6e959
 LinearTurboFold_jll,cd7c2323-e06e-549f-9837-4f85c0db7ff9
 LinkCutTrees,9b2c3604-c02d-4033-9e75-a81d4d4fb586
+LinkedInAPI,b8105b00-6eed-423c-b4b1-db9a63bbfa9d
 LinkedLists,70f5e60a-1556-5f34-a19e-a48b3e4aaee9
 Lints,969b4477-8239-4824-a7ce-fb2a72cbc115
 LinuxKernelHeaders_jll,d754bdc3-4c87-55c0-a004-f56830624a1e
@@ -6581,7 +6583,10 @@ NonlinearProblemLibrary,b7050fa9-e91f-4b37-bcee-a89a063da141
 NonlinearSchrodinger,b3fbeaf7-5746-403c-a6b7-06939dc82746
 NonlinearSolve,8913a72c-1f9b-4ce2-8d82-65094dcecaec
 NonlinearSolveBase,be0214bd-f91f-a760-ac4e-3421ce2b2da0
+NonlinearSolveFirstOrder,5959db7a-ea39-4486-b5fe-2dd0bf03d60d
 NonlinearSolveMINPACK,c100e077-885d-495a-a2ea-599e143bf69d
+NonlinearSolveQuasiNewton,9a2c21bd-3a47-402d-9113-8faf9a0ee114
+NonlinearSolveSpectralMethods,26075421-4e9a-44e1-8bd1-420ed7ad02b2
 NonlinearSolvers,f4b8ab15-8e73-4e04-9661-b5912071d22b
 NonlinearSystems,deb0877a-d74a-4aeb-b6ac-c17f6fb4122e
 NonlinearTestProblems,84d880b8-0062-4738-ba75-b6cb1662e554
@@ -6811,6 +6816,7 @@ OpenQuantumTools,e429f160-8886-11e9-20cb-0dbe84e78965
 OpenSMILES,29c4880b-f2d1-40f2-9463-012547100b04
 OpenSSH_jll,9bd350c2-7e96-507f-8002-3f2e150b4e1b
 OpenSSL,4d8831e6-92b7-49fb-bdf8-b643e874388c
+OpenSSLGroups,50771dd1-78b8-490c-a786-5ddc80ce15da
 OpenSSL_jll,458c3c95-2e84-50aa-8efc-19380b2a3a95
 OpenScienceFramework,ca34efa3-7b06-4646-a985-ce0937c3739e
 OpenSlide_jll,becf559c-afb9-529d-9a2d-92566e0304eb
@@ -9740,6 +9746,7 @@ Swizzles,60694085-d904-4bfc-95dc-1e0e768e9359
 SymArrays,c2b21f84-4a8e-4c96-99a2-2b79df568f75
 SymDict,2da68c74-98d7-5633-99d6-8493888d7b1e
 SymDiff,d0f7bc7f-cd2f-4cc8-8336-d901b45b4b8e
+SymDoME,b4f4f0b4-37e5-4265-8ded-9d4e2df27f01
 SymEngine,123dc426-2d89-5057-bbad-38513e3affd8
 SymEngine_jll,3428059b-622b-5399-b16f-d347a77089a4
 SymFEL,98344202-5a1c-56b1-83aa-57a11ac3493f
