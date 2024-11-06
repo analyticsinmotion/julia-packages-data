@@ -9297,6 +9297,7 @@ SparsityDetection,684fba80-ace3-11e9-3d08-3bc7ed6f96df
 SparsityOperators,a5ff1dd3-4e0a-50db-9022-6d011c1d5846
 SparsityTracing,06eadbd4-12ad-4cbc-ab6e-10f8370940a5
 Sparspak,e56a9233-b9d6-4f03-8d0f-1825330902ac
+Spasm_jll,2e6306e0-6984-547a-ab2d-63c654801828
 SpatialAccessTrees,c0867ef0-7eb8-477c-bc68-2f3754ecb96a
 SpatialBoundaries,8d2ba62a-3d23-4a2b-b692-6b63e9267be2
 SpatialDatasets,c34fe46e-cbfb-4865-a11c-95c0a2f62188
@@ -11331,6 +11332,7 @@ libwinit_jll,97be0fec-884d-58b1-bbbf-0a8836650f3e
 libxcrypt_jll,87c3e826-2eb0-5ec5-bf6f-86db62fa23b2
 libxcrypt_legacy_jll,5ef642bb-a58b-5208-ae37-583168b2c491
 libxls_jll,86717fa1-76ed-5f2d-aba0-009d7207923f
+libxlsxwriter_jll,90251a59-ee77-57fd-870b-ce07edc5a5b6
 libzenohc_jll,938f45e1-bfa9-5428-95ae-33d45742c18e
 libzip_jll,337d8026-41b4-5cde-a456-74a10e5b31d1
 licensecheck_jll,4ecb348a-8b88-51ea-b912-4c460483ee91
