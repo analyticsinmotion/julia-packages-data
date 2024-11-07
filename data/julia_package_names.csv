@@ -522,6 +522,7 @@ AutoLandmarking,513749c4-1492-45a3-bfbf-e630717bb7f0
 AutoMLPipeline,08437348-eef5-4817-bc1b-d4e9459680d6
 AutoPreallocation,e7028de2-df94-4053-9fdc-99272086b8d4
 AutoPrettyPrinting,9109d3c5-9510-494f-be9f-db449708e717
+AutoStructs,2e0df379-9877-4907-ab94-cd881f8d985b
 AutoSymPTR,78a0c066-08f1-49a8-82f0-b29cd485e1d3
 AutoSysimages,4eb35182-e5c8-446d-8ecc-33e714a26cef
 AutoVectors,dac988ce-a3dc-42da-8c49-b1e833185731
@@ -4047,6 +4048,7 @@ HSARuntime,2c364e2c-59fb-59c3-96f3-194112e690e0
 HSL,34c5aeac-e683-54a6-a0e9-6e0fdc586c50
 HSL_jll,017b0a0e-03f4-516a-9b91-836bbd1904dd
 HTML5,205e633a-858c-4dbb-8a70-2404f270abcf
+HTMLBuilder,0cf4c2ae-3c55-4387-8def-d33f99d13a02
 HTMLForge,3f2c3872-777a-411d-b946-15b25a70da51
 HTMLSanitizer,9a15a9f4-ddd5-46ee-89fc-c219f813dd6f
 HTMLStrings,c47fe496-5789-4377-b1db-55e89f2ee0c6
@@ -8510,6 +8512,7 @@ RunMyNotes,8d3555be-c6c7-539f-8b4e-403d0158b766
 RunStatistics,c967b8ff-7eea-41b9-8a9d-36c76a634080
 RungeKutta,fb486d5c-30a0-4a8a-8415-a8b4ace5a6f7
 RungeKuttaToolKit,5ccfa5ee-da33-4844-afab-33f13f6d8736
+Runic,62bfec6d-59d7-401d-8490-b29ee721c001
 Runner,847b7089-1ebf-4e83-b33e-c3c97d2ccb04
 RunningQuantiles,80c66bcf-cf80-4640-8128-20a4ffc975e3
 RuntimeEnums,5aed96f1-df88-482a-81d7-fb30b91491f6
@@ -10182,6 +10185,7 @@ TopoPlots,2bdbdf9c-dbd8-403f-947b-1a4e0dd41a7a
 TopologicalNumbers,82b459e2-751c-486c-8b84-4a85e9d7ad51
 TopologyPreprocessing,f84dc87b-1198-49da-97ab-02d881fe0800
 Torch,6a2ea274-3061-11ea-0d63-ff850051a295
+TorchCAPI_jll,dc5d5603-8d5e-5430-85a9-2783500f9f77
 Torch_jll,c12fb04c-f5e9-5c82-b5d6-b53f8f8d9a32
 ToricAtiyahBott,72dfc14a-8332-4639-b9f3-8b017b604ecf
 TotalLeastSquares,028f657a-7ace-5159-a694-8cfd97933b0c
