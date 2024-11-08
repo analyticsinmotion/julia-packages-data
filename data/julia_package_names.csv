@@ -1258,6 +1258,7 @@ CalibrationAnalysis,f96f8458-5c05-4a28-b3fd-d398aeb95222
 CalibrationErrors,33913031-fe46-5864-950f-100836f47845
 CalibrationErrorsDistributions,20087e1a-bb94-462b-b900-33d17a750383
 CalibrationTests,2818745e-0823-50c7-bc2d-405ac343d48b
+CallMode,58f4d5cc-129e-49a8-ab65-a421196c1a3b
 CallableExpressions,391672e0-bbe4-4ab4-8bc9-b89a79cbc2f0
 Callbacks,db1e321a-d383-57b4-a664-0144fd54e973
 CallendarVanDusen,7659f2e7-3eba-428e-a299-bc867dd8ac42
@@ -1283,6 +1284,7 @@ CapacityExpansionData,2c92f082-f457-11e9-1715-ebb1b5fff37b
 Capnp,4a176cb5-e787-4417-92d8-5e07a66a639e
 Capstone_jll,0bfc08ce-5f35-58d0-8256-ec6a7315737c
 CaratheodoryFejerApprox,591793e0-8db6-4f40-aac6-a66fe5f65964
+CarboKitten,690c6d5c-626a-429f-a06b-981a1dae1c19
 Cares_jll,de7616f8-1794-5cde-83a7-2ebe299f2f48
 CarlemanLinearization,4803f6b2-022a-4c1b-a771-522a3413ec86
 Carlo,780c37f4-4e5a-43de-9e79-65c261e525a4
@@ -10356,6 +10358,7 @@ TwoDotsModels,0d9b3ab0-6bba-4aec-9705-ee0b94608ce2
 TwoFAST,0dd23c3e-f403-11e8-3e11-4dddf690af97
 TwoQubitWeylChamber,cad078a0-0012-46f4-b55e-a945d44e115b
 TwoStageOptimalControl,34993466-7ea3-4614-b7d5-56f6e9aee333
+Txtar,2ff7fb67-0b19-4596-a253-8a4967e84b26
 TyJuliaCAPI,1486cb26-f54f-432e-872f-e0f1867150a0
 TyPython,9c4566a2-237d-4c69-9a5e-9d27b7d0881b
 Tyler,e170d443-b9d6-418a-9ee8-061e966341ef
