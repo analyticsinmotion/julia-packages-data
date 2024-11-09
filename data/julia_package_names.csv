@@ -1666,6 +1666,7 @@ CompatHelperLocal,5224ae11-6099-4aaa-941d-3aab004bd678
 CompetingClocks,5bb9b785-358c-4fee-af0f-b94a146244a8
 CompileBot,877fb49a-56b0-480a-9049-319c0c353852
 CompileTraces,92d184ee-bd0d-43d0-b768-a20943f3d1e3
+Compiler,807dbc54-b67e-4c79-8afb-eafe4df6f2e1
 CompilerPluginTools,6b7a57c9-7cc1-4fdf-b7f5-e857abae3638
 CompilerSupportLibraries_jll,e66e0078-7015-5450-92f7-15fbd957f2ae
 Complementarity,a9b2a840-c9d5-5181-a245-8df664c2d6e7
@@ -2464,6 +2465,7 @@ DomainColoring,c24f3079-adb7-4533-8329-9f66732e5e85
 DomainColoringToy,7cf40ad8-af6a-4ede-b3c6-2a9df3bce851
 DomainIntegrals,cc6bae93-f070-4015-88fd-838f9505a86c
 DomainSets,5b8099bc-c8ec-5219-889f-1d9e522a28bf
+DontMaterialize,5f58fed1-7d9e-412e-9290-962e4cbf8d80
 DopplerSpectroscopyCore,5ae39bbf-cd25-4248-8c0a-5a8eea00c34e
 DormandPrince,5e45e72d-22b8-4dd0-9c8b-f96714864bcd
 DoseCalculators,fb202ad0-d22e-11eb-2fc2-a7d76729265e
@@ -9267,6 +9269,7 @@ Soup3_jll,fcd1aa73-243d-5665-acf3-2a5a4322c7a8
 SourceCodeMcCormick,a7283dc5-4ecf-47fb-a95b-1412723fc960
 SourceWalk,2987fe4f-acca-4bd1-87ee-98b3d562f1a1
 SpFFT_jll,8be71ea8-ca6b-526f-84e8-fb2862ef466b
+SpaSM,017bf598-072c-475c-a75e-c3e68736ce70
 SpaceIndices,5a540a4e-639f-452a-b107-23ea09ed4d36
 SpaceInvaders,27459e48-f83e-40a1-9b04-5e43823e0701
 SpaceLiDAR,29bf0bfc-420f-4fa5-b441-811fd9e6e11d
