@@ -2541,6 +2541,7 @@ DynamicPipe,e2608387-6d34-4676-ab1d-f98b51cb1878
 DynamicPolynomials,7c1d4256-1411-5781-91ec-d7bc3513ac07
 DynamicQuantities,06fc5a27-2a28-4c7c-a15d-362465fb6821
 DynamicQuantumCircuits,b9e8302f-12f4-484c-8961-adc524bf1aaa
+DynamicSampling,2083aeaf-6258-5d07-89fc-32cf5060c837
 DynamicScope,21d0a5ee-021b-4147-8d5c-120bff51c915
 DynamicSparseArrays,8086fd22-9a0c-46a5-a6c8-6e24676501fe
 DynamicStructs,e139c391-eeee-4818-b359-c8725224fb1f
@@ -8268,6 +8269,7 @@ RecurrenceAnalysis,639c3291-70d9-5ea2-8c5b-839eba1ee399
 RecurrenceCoefficients,de372851-07f4-4192-bc5b-b0c28d817e5e
 RecurrenceRelationshipArrays,b889d2dc-af3c-4820-88a8-238fa91d3518
 RecurrenceRelationships,807425ed-42ea-44d6-a357-6771516d7b2c
+RecurrentLayers,78449bcf-6750-4b78-9e82-63d4a1ccdf8c
 RecursiveArrayTools,731186ca-8d62-57ce-b412-fbd966d074cd
 RecursiveCausalDiscovery,96483cbc-aa6d-4394-9266-bb69d9075284
 RecursiveDicts,e20b0d26-85b9-4cc4-ab0c-abba12ca33a5
