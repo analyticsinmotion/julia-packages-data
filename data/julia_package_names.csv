@@ -6830,6 +6830,7 @@ OpenSSL,4d8831e6-92b7-49fb-bdf8-b643e874388c
 OpenSSLGroups,50771dd1-78b8-490c-a786-5ddc80ce15da
 OpenSSL_jll,458c3c95-2e84-50aa-8efc-19380b2a3a95
 OpenScienceFramework,ca34efa3-7b06-4646-a985-ce0937c3739e
+OpenScripturesHebrew,a2aa3e71-aced-403c-831b-dc7e729b9ba3
 OpenSlide_jll,becf559c-afb9-529d-9a2d-92566e0304eb
 OpenSoundControl,2ff8ee2d-9747-4b2b-b699-45d473b7b9df
 OpenSpecFun_jll,efe28fd5-8261-553b-a9e1-b2916fc3738e
@@ -7778,6 +7779,7 @@ ProximalOperators,a725b495-10eb-56fe-b38b-717eba820537
 ProxyInterfaces,9b3bf0c4-f070-48bc-ae01-f2584e9c23bc
 PseudoBooleanOptimization,c8fa9a04-bc42-452d-8558-dc51757be744
 PseudoGamma,3cb8af22-bcb6-49d5-810a-fde949a5ef89
+PseudoPotentialData,5751a51d-ac76-4487-a056-413ecf6fbe19
 PseudoPotentialIO,cb339c56-07fa-4cb2-923a-142469552264
 PseudopotentialGenerator,62755698-03fb-4fba-b479-db9468a99e5f
 Pseudopotentials,1b2dc2e6-48aa-4f00-b8f4-19d1a71d7a0e
