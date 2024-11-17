@@ -5172,6 +5172,7 @@ LetsBeRational_jll,b1162f8a-ee7e-515c-ae1d-7fab3c0ab9f7
 LevelDB,6248df61-47b1-58fa-9b7c-c0f1183480ca
 LevelDB2,002418b5-1437-4398-8918-fc420664f8a4
 LevelDB_jll,e5add9ea-9f03-521a-be84-f8c1bde3cbe9
+LevelSetMethods,ca3df947-0575-4ae6-b9a3-78df393a7451
 Levenshtein,cb002d51-b850-5775-a4f8-1db47be676b8
 LevyArea,2d8b4e74-eb68-11e8-0fb9-d5eb67b50637
 Lexicographic,f3857b5d-3a50-4050-98ae-54c465879683
@@ -5955,6 +5956,7 @@ MethodAnalysis,85b6ec6f-f7df-4429-9514-a64bcd9ee824
 MethodInSrc,c116309b-47aa-4bde-803c-ba7517b69216
 MethodInspector,b1dd13ee-3653-43d9-9a5b-1245bfcfc883
 MethodOfLines,94925ecb-adb7-4558-8ed8-f975c56a0bf4
+MethodOfMoments,32490229-d69f-4a68-9525-74935b3d7b50
 Metida,a1dec852-9fe5-11e9-361f-8d9fde67cfa2
 MetidaBase,075456b7-4006-432f-9324-2f8453996c49
 MetidaBioeq,00e1d80e-504f-4d7b-946f-0aea2e7abfe3
@@ -9015,6 +9017,7 @@ SimString,2e3c4037-312d-4650-b9c0-fcd0fc09aae4
 SimilarityNetworkFusion,6c1fd854-37c7-5216-bfd6-aad91993916b
 SimilaritySearch,053f045d-5466-53fd-b400-a066f88fe02a
 Similitude,d70e672a-ff44-4dfc-8031-4cc812d84922
+Simplace,b0b0a731-1897-4268-b4ff-e689c85594d9
 SimpleANOVA,fff527a3-8410-504e-9ca3-60d5e79bb1e4
 SimpleAiboWebAPI,555a2daa-e723-4fb8-a43f-c5b503b4b2ef
 SimpleArgParse,4c739d64-e22d-44e1-ada1-53a1c3c0e953
@@ -10604,6 +10607,7 @@ VectorBackedLists,64f724f3-1cac-477b-9517-c036ece31ef8
 VectorInterface,409d34a3-91d5-4945-b6ec-7529ddf182d8
 VectorModesolver,8c544392-5fd9-4640-bea4-e12b3d59d9d1
 VectorPrisms,fca4bea3-143f-49fa-bca2-9809b242ef85
+VectorSpaceDarkMatter,93189044-1868-42be-8af9-6027680aca9b
 VectorSphericalHarmonics,4b2bd704-7189-418b-a6ce-5ef15384b069
 VectorSphericalWaves,bf4a7d2c-6958-4c00-8946-baf74e22a0dc
 VectorizationBase,3d5dd08c-fd9d-11e8-17fa-ed2836048c2f
