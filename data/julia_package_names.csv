@@ -382,6 +382,7 @@ Aria2_jll,9ab3bdc3-1250-5043-8fac-ac7e82d2cbc9
 ArnoldiMethod,ec485272-7323-5ecc-a04f-4719b315124d
 ArnoldiMethodTransformations,fede57cc-428a-11e9-3e5c-c149a0a4072d
 Arpack,7d9fca2a-8960-54d3-9f78-7d1dccf2cb97
+Arpack32_jll,e6e84423-31a5-5eac-8af8-154a55d94dc3
 Arpack_jll,68821587-b530-5797-8361-c406ea357684
 ArrayAllez,42ed035d-9ad9-5097-b4a3-321d9b0dde85
 ArrayAllocators,c9d4266f-a5cb-439d-837c-c97b191379f5
@@ -479,6 +480,7 @@ AtomicLocks,de46ae7c-df16-46d9-ba75-55d31af5ce86
 AtomicMass,2c8f42cb-e0b9-4bc5-96ad-9274ec8d5f21
 AtomicMassEvaluation,9f60cadd-00eb-4e57-b715-beb4ff532cb8
 AtomicStructure,e24b7630-0518-11e9-1346-1188d3abce50
+AtomicSymmetries,7e24f7a5-8a44-4f91-9a93-7ee03df51e54
 Atomistic,3e762ff9-b8d8-45cf-a902-edcbc7124e71
 Atomix,a9b6321e-bd34-4604-b9c9-b65b8de01458
 AtomsBase,a963bdd2-2df7-4f54-a1ee-49d51e6be12a
@@ -1267,6 +1269,7 @@ Cambrian,7f27c84d-2d74-42e5-be5f-94f6748267f3
 CameraCalibrations,70c3cbac-2c23-4b2d-966c-5a25c0a540fb
 CameraModels,0d57b887-6120-40e6-8b8c-29d3116bc0c1
 Cameras,6410b9bd-72f2-532f-9386-433801972073
+CamiDiff,2453a446-82e3-4664-a8e3-5851c117fba8
 CamiFITS,e3d38e7e-66c0-4598-81c1-d1e9bcf43bf0
 CamiMath,d302b3f7-c8ae-418d-9fc2-2c0a42bddda0
 CamiXon,e90a53f3-3599-4ebe-999f-6f75af03d43f
@@ -1382,6 +1385,7 @@ CharFuncPricing,1fb851c3-be98-478b-9657-166436d5cfc1
 CharSetEncodings,cb9422de-a9d8-5b68-86db-ff05833ab307
 CharacteristicInvFourier,a9d857e3-08c1-4480-86de-23e87aa49497
 ChargeTransport,25c3eafe-d88c-11e9-3031-f396758f002a
+ChargedParticles,e91dad46-2c06-47f2-8668-7ffa57fde2d9
 ChartParsers,de988000-0167-11e9-3115-2b7bbce15f76
 Chartmetric,5e0982d9-853c-416b-a9e6-ad7fe38a6229
 ChatAPICall,dab9e3cf-270b-48a8-a707-d6834c795ca3
@@ -1876,6 +1880,7 @@ Countries,5bf49175-83fb-4b6d-82b5-d6ded85154ae
 CountriesBorders,ee40d4b5-31c3-4fe2-b6cc-5ac7adf7f414
 CoupledElectricMagneticDipoles,f3c9a48b-9994-415a-a861-0bea7d656b27
 CoupledFields,7ad07ef1-bdf2-5661-9d2b-286fd4296dac
+CoupledNODE,88291d29-22ea-41b1-bc0b-03785bffce48
 CovarianceEstimation,587fd27a-f159-11e8-2dae-1979310e6154
 CovarianceFunctions,b3329135-7958-41d4-bb02-e084c5a526bf
 CovarianceMatrices,60f91f6f-d783-54cb-84f9-544141854719
@@ -3581,6 +3586,7 @@ GalacticOptimisers,86b7a833-eb4b-49e2-87ed-89357ad7afa2
 GalacticPotentials,761e15e1-915f-4e6a-be22-a19e6141b375
 GalaxyBrain,25ddbe4d-0058-4ca6-a349-d40aaa747e42
 GalerkinToolkit,5e3ba9c4-dd81-444d-b69a-0e7bd7bf60a4
+Galley,0b99cc74-af0a-4786-be99-594ac14242a4
 GaloisFields,8d0d7f98-d412-5cd4-8397-071c807280aa
 Gama_jll,e49eef03-c325-580d-b9c2-ffdb035fe7b1
 Game2048,1518badf-864b-4d38-82d7-871a0e9c2f48
@@ -3743,6 +3749,7 @@ GeoStatsSolvers,50e95529-e670-4fa6-84ad-e28f686cc091
 GeoStatsTransforms,725d9659-360f-4996-9c94-5f19c7e4a8a6
 GeoStatsValidation,36f43c0d-3673-45fc-9557-6860e708e7aa
 GeoStatsViz,36492b79-4a51-4dff-89b6-31e03c9a81c2
+GeoTIFF,c470187e-1474-4b46-a068-a417f109db17
 GeoTables,e502b557-6362-48c1-8219-d30d308dcdb0
 GeoThermalCloud,9b555b37-faa4-4dca-b31f-51f0aad2d23b
 Geocoder,96f0acd4-de70-4946-a647-1916fbbf835a
@@ -4288,6 +4295,7 @@ ILUZero,88f59080-6952-5380-9ea5-54057fb9a43f
 ILog2,2cd5bd5f-40a1-5050-9e10-fc8cdb6109f5
 IMASdd,c5a45a97-b3f9-491c-b9a7-aa88c3bc0067
 IMASggd,b7b5e640-9b39-4803-84eb-376048795def
+IMASutils,b8e4ee59-9bed-3a6a-a553-8dd24d6374ad
 IMFData,ade8a587-c525-5308-a3d4-dc5d47143b63
 INMET,1fb021e9-9ab7-46c1-8a23-23f3c2783cf7
 IOAPI_jll,21284ac2-4ede-594e-ad4f-4494079aca48
@@ -7411,6 +7419,7 @@ PkgVersionHelper,a83a3aaf-d014-45d2-af27-d8a782db1bf5
 PlanarConvexHulls,145d500b-351c-58b3-a0aa-f5d7e249d989
 PlanarMaps,291fd964-e446-5d75-9412-e8e0eb420fa7
 PlanetOrbits,fd6f9641-d78f-43ce-a379-ceb0bddb468a
+PlanetSim,2ce8fb18-82de-4cc8-b75d-a45bdc5f56b9
 PlanetaryEphemeris,d83715d0-7e5f-11e9-1a59-4137b20d8363
 Planets,e3f94f68-5db2-5e58-a5fa-32df241f0093
 PlanktonIndividuals,dfeb4ede-c75e-11e9-050d-41ab7a730e9e
