@@ -162,6 +162,7 @@ Adapt,79e6a3ab-5dfb-504d-930d-738a2a938a0e
 AdaptableFunctions,16094072-63d9-4fab-833b-5e04479784a5
 AdaptiveDesignOptimization,5f210a59-4c6a-4c2f-87d5-5cd98d51789a
 AdaptiveDistanceFields,a1957575-6125-5dba-8f92-417d2d1f4a46
+AdaptiveEstimators,f894c1f0-37bd-4d0b-bad6-c1e4fa45af5b
 AdaptiveFilters,c4f366c8-f60d-49ea-b3e5-386989159d04
 AdaptiveKDTrees,68d1b5e8-2215-47d8-a76e-d1727e222b22
 AdaptiveMCMC,717c3277-546c-407d-8270-09a39a0919a0
@@ -1074,6 +1075,7 @@ CALIPSO,4c24e94e-21a7-4591-8ee4-d226b67258b2
 CALiPPSO,06591efd-5e2b-42e5-a742-7087027635df
 CANalyze,2dc4fe6c-d2be-46ad-ace5-0bbcd4825534
 CAOS,84b91ece-59cc-50c4-8800-6f827c67b7cb
+CAP,d64df2ee-d2bb-46f4-8cbc-f03bb858f8cb
 CBFV,e079e57c-70e8-4f61-a09b-990e8be4fed3
 CBFlib_small_jll,9b99e207-4e38-5950-946f-a3f2976e367a
 CBLS,a3809bfe-37bb-4d48-a667-bac4c6be8d90
@@ -1106,6 +1108,7 @@ CGAL,15fcbb24-5a00-427b-98c5-e32879a22884
 CGAL_jll,8fcd9439-76b0-55f4-a525-bad0597c05d8
 CGNS_jll,5232ba32-63ef-5a57-8e6a-e52ba13cfec0
 CGcoefficient,c862aa61-d51e-47d1-b396-b1e789b4e0b6
+CHMMera,4c20a592-b4de-41d1-8706-b02f346981aa
 CHiPPS_BLIS_jll,33c101cd-e3cd-5787-bb96-d137b8b1ecc4
 CHomP,388fe821-2770-44f1-8af1-e3d616332038
 CIAOAlgorithms,44c1da8e-ad92-11ea-0c62-8351ccf0aad4
@@ -2493,6 +2496,7 @@ DrakeLCMTypes,6484683b-de53-5689-b9d2-2f18b83297fe
 DrakeVisualizer,49c7015b-b8db-5bc5-841b-fcb31c578176
 DrawSimpleGraphs,1d51b185-1a84-59cf-b84e-03b0e3da30b7
 DrelTools,fc805444-c5ec-4e06-bf74-6216be16ab28
+Drifters,bd752fb7-3f37-44cb-a8fb-f461137b623f
 DrillHoles,9d36f3b5-8124-4f7e-bcda-df733105c718
 DrillMudsThermalProps,353a8573-383f-4727-b0e9-478950a5ec11
 DroneSurveillance,63556450-714a-11e9-08e1-e368b701e279
@@ -3705,6 +3709,7 @@ GenieSession,03cc5b98-4f21-4eb6-99f2-22eced81f962
 GenieSessionFileSession,5c4fdc26-39e3-47cf-9034-e533e09961c2
 GenomeGraphs,3aa97884-90e5-11e8-2134-af657ec4f203
 GenomicAnnotations,4f8a0a0a-376d-5ac0-ab14-e88793df67f0
+GenomicDiversity,594eec9e-a086-4631-8fc7-61104af37930
 GenomicFeatures,899a7d2d-5c61-547b-bef9-6698a8d05446
 GenomicMaps,db448a0f-c3d9-5f82-93ff-ed9bd37d70e8
 GenomicOffsets,496adb70-ccd1-4bf3-8d93-537a078619e1
@@ -5273,6 +5278,7 @@ Libtiff_jll,89763e89-9b03-5906-acba-b20f662cd828
 Libtool_jll,a76c16ae-fb8f-5ff0-8826-da3b7a640f0b
 Liburing_jll,6524598b-69a8-53ae-b017-622bece5ca95
 Libuuid_jll,38a345b3-de98-5d2b-a5d3-14cd9215e700
+Libwebsockets,30a1cee6-c274-443c-b274-d8ea34e8f87d
 Libxc,66e17ffc-8502-11e9-23b5-c9248d0eb96d
 Libxc_GPU_jll,25af9330-9b41-55d4-a324-1a83c0a0a1ac
 Libxc_jll,a56a6d9d-ad03-58af-ab61-878bf78270d6
