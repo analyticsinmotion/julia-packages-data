@@ -1000,6 +1000,7 @@ BoundaryValueDiffEq,764a87c0-6b3e-53db-9096-fe964310641d
 BoundaryValueDiffEqCore,56b672f2-a5fe-4263-ab2d-da677488eb3a
 BoundaryValueDiffEqFIRK,85d9eb09-370e-4000-bb32-543851f73618
 BoundaryValueDiffEqMIRK,1a22d4ce-7765-49ea-b6f2-13c8438986a6
+BoundaryValueDiffEqMIRKN,9255f1d6-53bf-473e-b6bd-23f1ff009da4
 BoundaryValueDiffEqShooting,ed55bfe0-3725-4db6-871e-a1dc9f42a757
 BoundaryValueProblems,4e0c136c-7fd7-450f-8fba-42b64cbda8b5
 BoundedDegreeGraphs,3abdc024-f177-4c2d-bf1c-90d4f241f304
@@ -8164,6 +8165,7 @@ RadiiPolynomial,f2081a94-c849-46b6-8dc9-07bb90ed72a9
 RadioPropagation,b7825cb4-7108-404a-9145-f310ea34db32
 RadonKA,86de8297-835b-47df-b249-c04e8db91db5
 RainFARM,e9a4e08f-a0a3-5224-a821-6d0231c12d6b
+RainMaker,ce1e5628-4095-449b-8858-623a1e420393
 Ramps,620c3add-4af5-46cb-82b5-af0dc8736fda
 RamseySpectroscopyCore,c2a93995-efaf-4fb2-b3df-3b08479f64e0
 RandFieldStructFuncs,8cf9e0f4-2236-4022-885f-e952f37830b5
@@ -8581,6 +8583,7 @@ SBML_jll,bb12108a-f4ef-5f88-8ef3-0b33ff7017f1
 SCALAPACK32_jll,aabda75e-bfe4-5a37-92e3-ffe54af3c273
 SCALAPACK_jll,5d3fc3e8-a677-5550-826f-6cfd58f208da
 SCALE_MAMBA_jll,32427880-5a10-5048-bea3-44a26af5d02d
+SCCNonlinearSolve,9dfe8606-65a1-4bb3-9748-cb89d1561431
 SCIP,82193955-e24f-5292-bf16-6f2c5261a85f
 SCIP_PaPILO_jll,fc9abe76-a5e6-5fed-b0b7-a12f309cf031
 SCIP_jll,e5ac4fe4-a920-5659-9bf8-f9f73e9e79ce
