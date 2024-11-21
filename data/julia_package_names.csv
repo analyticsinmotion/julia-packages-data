@@ -6950,6 +6950,7 @@ OrdinaryDiffEqExplicitRK,9286f039-9fbf-40e8-bf65-aa933bdc4db0
 OrdinaryDiffEqExponentialRK,e0540318-69ee-4070-8777-9e2de6de23de
 OrdinaryDiffEqExtrapolation,becaefa8-8ca2-5cf9-886d-c06f3d2bd2c4
 OrdinaryDiffEqFIRK,5960d6e9-dd7a-4743-88e7-cf307b64f125
+OrdinaryDiffEqFIRKGenerator,677d4f02-548a-44fa-8eaf-26579094acaf
 OrdinaryDiffEqFeagin,101fe9f7-ebb6-4678-b671-3a81e7194747
 OrdinaryDiffEqFunctionMap,d3585ca7-f5d3-4ba6-8057-292ed1abd90f
 OrdinaryDiffEqHighOrderRK,d28bc4f8-55e1-4f49-af69-84c1a99f0f58
@@ -7186,6 +7187,7 @@ ParameterizedQuantumControl,409be4c9-afa4-4246-894e-472b92a1ed06
 Parameters,d96e819e-fc66-5662-9728-84c9c7592b0a
 ParametricAirfoils,4c14af30-da9f-11e9-34cd-f9f0aee9fd2c
 ParametricBodies,06905c2e-4b4a-4765-8bb9-c6b6b2b99b1d
+ParametricDAQP,19f72acb-e2a9-45c8-96b9-4d5487c8db2e
 ParametricDFNOs,3b406863-5cae-494d-8b19-779e643ae09e
 ParametricLP,8460d8c8-5267-486f-aef2-9a24dd859eab
 ParametricMCPs,9b992ff8-05bb-4ea1-b9d2-5ef72d82f7ad
@@ -7294,6 +7296,7 @@ PermutationGroups,8bc5a954-2dfc-11e9-10e6-cd969bffa420
 PermutationSymmetricTensors,22e17884-8c1a-4ea8-8b39-5974e24a9d31
 PermutationTests,dd25e4c7-56c0-4344-ab7a-80f9379a34f4
 Permutations,2ae35dd2-176d-5d53-8349-f30d82d94d4f
+PermuteArgs,9536dbe3-0ca9-4073-961c-7241c6d3471f
 PermutedArrays,aa3a806a-e146-4a0b-abc5-6bb34b5dedb7
 Perple_X_jll,9c18f8f7-1c8d-5a34-9fc2-3ecefed5c104
 PerronFrobenius,260eed61-d0e8-5f1e-b040-a9756a401c97
@@ -11340,6 +11343,7 @@ libpolars_jll,155e46ed-8d3e-59a0-8e1f-b48074a428ad
 libpolymake_julia_jll,4d8266f6-2b3b-57e3-ad7a-d431eaaac945
 libportaudio_jll,2d7b7beb-0762-5160-978e-1ab83a1e8a31
 libportaudio_ringbuffer_jll,8c9f9fde-75ea-5170-83a2-66d24179d9fc
+libposit_jll,51f2fc5f-9d5c-580b-98f8-9638c2091362
 libpostal_jll,af819820-d0b8-51fd-9b6f-e7926976c73e
 libpsl_jll,c4fadf96-db99-5883-8c55-41cf0165eeb0
 librdkafka_jll,7943bfb0-7437-5acd-a008-22777931c7aa
