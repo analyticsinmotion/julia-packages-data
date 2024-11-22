@@ -997,6 +997,7 @@ BoundTypes,ff833f9a-10fd-491c-ad5c-961b556a6c53
 BoundaryCrossingProbabilities,0edc300c-2ee6-41ce-b883-757e1a513d2d
 BoundaryLayerDynamics,9d12ad70-aa0c-11e8-0216-810054b526d2
 BoundaryValueDiffEq,764a87c0-6b3e-53db-9096-fe964310641d
+BoundaryValueDiffEqAscher,7227322d-7511-4e07-9247-ad6ff830280e
 BoundaryValueDiffEqCore,56b672f2-a5fe-4263-ab2d-da677488eb3a
 BoundaryValueDiffEqFIRK,85d9eb09-370e-4000-bb32-543851f73618
 BoundaryValueDiffEqMIRK,1a22d4ce-7765-49ea-b6f2-13c8438986a6
@@ -2559,6 +2560,7 @@ DynamicStructs,e139c391-eeee-4818-b359-c8725224fb1f
 DynamicSumTypes,5fcdbb90-de43-509e-b9a6-c4d43f29cf26
 DynamicTerminal,43557e69-2879-4f78-9f9f-e79486a55683
 DynamicalBilliards,4986ee89-4ee5-5cef-b6b8-e49ba721d7a5
+DynamicalCorrelators,7abe38c7-550a-49b0-ba99-33d1b5164ede
 DynamicalSystems,61744808-ddfa-5f27-97ff-6e42cc95d634
 DynamicalSystemsBase,6e36e845-645a-534a-86f2-f5d4aa5a06b4
 DynamicallyLoadedEmbedding,bb81f446-86f5-47d0-8ffc-7ac2adc264fd
@@ -8205,6 +8207,7 @@ RandomizedPropertyTest,6d7a0864-9fbc-11e9-1427-7bb65d6eba8e
 RandomizedQuasiMonteCarlo,86e2ceac-6d26-4fc9-a89c-301e41ecded2
 RangeArrays,b3c3ace0-ae52-54e7-9d0b-2c1406fd6b9d
 RangeEnclosures,1b4d18b6-9e5d-11e9-236c-f792b01831f8
+RangeExtractor,0151565a-6c01-463c-b553-c2b2e3b729c0
 RangeHelpers,3a07dd3d-1c52-4395-8858-40c6328157db
 RangeTrees,66b63344-7bd8-483a-a4f0-15733e6c45d1
 Ranges,eb7db99b-64ae-4b81-85c2-3439b6569b78
