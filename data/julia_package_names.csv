@@ -3617,6 +3617,7 @@ GasphaseReactions,ceedd18c-cbe2-4568-b16d-0e09f1cb20d1
 Gaston,4b11ee91-296f-5714-9832-002c20994614
 Gateway,f2e1f862-4456-4210-88f5-8c0e866c18bb
 Gattino,f0fb3ee5-f608-41f3-a42d-dac276373afc
+GattinoPleths,9f033946-9ab4-431a-b842-48f7db4940ab
 Gaugefields,a461e10c-0d91-493e-bc41-027b226eee91
 GaussBP,7e9f8bf2-99af-4218-abca-a9d13ed0f79b
 GaussMLE,39799108-5025-4d0e-9a62-95a61c8c6061
@@ -5626,6 +5627,7 @@ MMG_jll,86086c02-e288-5929-a127-40944b0018b7
 MMTF,259c3a9c-12c3-507f-b21f-68ecc40fcda4
 MMseqs2_jll,2f0138a6-2765-53ae-bca2-2fe9d5077335
 MNPDynamics,f81e04c9-20b8-526d-9626-780ee78293fb
+MONA_jll,469f9ae1-7f35-5207-98f8-918a8c6f7b76
 MORWiki,4add22a6-c4b7-49d8-833a-0e1707ec89d0
 MOSLab,646a8480-3455-4dcb-93e7-a10dc646a0af
 MOTIFs,21ade233-9772-486b-8b4a-1a75b0845905
@@ -6107,6 +6109,7 @@ ModelBaseEcon,1d16192e-b65e-11ea-11ed-0789cee22d2f
 ModelBasedCF,e5e64596-b6ca-11e8-20a9-11eddeb55bda
 ModelConstructors,e47e5152-bd14-11e9-1b46-c951f0a7041d
 ModelMiner,93a108e7-a327-4478-9a72-b0f8ee6311f8
+ModelObjectTools,7833e302-2a28-4046-a4d6-a6c700649641
 ModelOrderReduction,207801d6-6cee-43a9-ad0c-f0c64933efa0
 ModelOrderReductionToolkit,3b95acbd-20d2-4f07-8ac8-8df51737bf8b
 ModelParameters,4744a3fa-6c31-4707-899e-a3298e4618ad
@@ -6169,6 +6172,7 @@ Molecules,5de6a177-b489-40a9-b2f4-524242b9b679
 Molly,aa0f7f06-fcc0-5ec4-a7f3-a573f33f9c4c
 MomentArithmetic,216cd8d6-c1f2-4f0b-a686-f7bd07ccd726
 MomentClosure,01a1b25a-ecf0-48c5-ae58-55bfd5393600
+MomentMatching,a67aff5b-0ccc-47d5-9c4f-fef2ba9c9aa3
 MomentOpt,5036cc39-ae6e-5f00-bcd6-dacb213bf05a
 MomentPolynomialOpt,65cd4d85-9fe5-4fdc-93e2-c8798c615752
 MomentTensors,7bb32750-d21c-11e8-1ebc-09158bc70490
@@ -6999,6 +7003,7 @@ OutlierDetectionTest,66620973-d34b-445b-a614-4040704cad69
 OutlierDetectionTrees,6470b2ab-4fe8-498e-808d-6badd5c3da38
 OutputCollectors,6c11c7d4-943b-4e2b-80de-f2cfc2930a8c
 OverflowContexts,649716ba-0eb1-4560-ace2-251185f55281
+Overpass,834259d5-5bc3-4baf-8c23-ac7b5902f5e3
 Overseer,1ada24be-c16d-4464-9f61-27c2e0f16645
 OwnTime,18732c20-e27e-497f-aa49-3bf01a8fc721
 Oxygen,df9a0d86-3283-4920-82dc-4555fc0d1d8b
@@ -7619,8 +7624,10 @@ PosDefManifoldML,a07f4532-e2c9-11e9-2ea2-6d98fe4a1f21
 PoseComposition,0a8ab332-79e8-43e0-a313-949ce1168071
 Posets,9a158a65-591e-4f68-ac4f-9ffef2fc51f2
 PositionVelocityTime,52ec0b5e-ee36-11ea-211c-3d844fc5682d
+PositionalEmbeddings,d504d84d-5e64-4f13-be9b-c14c41279bd1
 PositiveFactorizations,85a6dd25-e78a-55b7-8502-1745935b8125
 PositiveIntegrators,d1b20bf0-b083-4985-a874-dc5121669aa5
+Posits,206caa4e-a773-11ef-0a96-55713be7837f
 PosixChannels,0f0bcd13-3e12-4a59-be10-81f16103b667
 PossibilisticArithmetic,31822d60-0862-422f-9a3d-0eb9781332f3
 PostNewtonian,377afc40-5642-4616-8613-b7ebca523866
@@ -7723,6 +7730,7 @@ PrincipalMomentAnalysisApp,e56c3062-542c-497d-ab50-e8a2f2a25ce2
 PrintFileTree,083f6447-9a71-585a-bc2e-c0ad124fd6e4
 PrintTypesTersely,41b232b1-0de0-4a65-aab4-126884588aaf
 PriorityChannels,a2669504-c0c1-59c8-a2df-73186d0f9ddc
+PrismAId,118a867e-9825-46ae-bed0-f8987ebdd75d
 PrivateFields,f4800d5f-c5aa-4b4c-a966-fa01325904ff
 Prjtrellis_jll,6a9aa77d-afea-5b9d-b858-ecc31eb61f73
 ProToPortal,f9496bd6-a3bb-4afc-927d-7268532ebfa9
@@ -8391,6 +8399,7 @@ Remarkable,4ac160eb-0277-4e02-b3c6-a4c4623dd812
 Rematch,bfecab0d-fd4d-5014-a23f-56c5fae6447a
 Rembus,aa126574-2ec3-42c9-8bf5-7f62001d6bce
 Remez,2e7db186-766a-50e7-8928-5c30181fb135
+RemoteBMI,4b6948d5-498c-54b5-b082-cdb1540453e9
 RemoteFiles,cbe49d4c-5af1-5b60-bb70-0a60aa018e1b
 RemoteHPC,c4f2a1c4-7655-40d8-82ee-c6ae0a8b7409
 RemoteREPL,1bd9f7bb-701c-4338-bec7-ac987af7c555
@@ -11214,6 +11223,7 @@ ggml_jll,010131b8-9656-5f5d-909c-3207272d5029
 gh_cli_jll,5d31d589-30fb-542f-b82d-10325e863e38
 ghr_jll,07c12ed4-43bc-5495-8a2a-d5838ef8d533
 ginkgo_jll,e4326e8b-370f-5d90-bbd6-f077a22d5a69
+gismo_jll,c3015cfb-32aa-504c-ba3d-5541e7ecaf35
 git_crypt_jll,cc44a8f6-01aa-5a07-9bbc-f33bd50aae3d
 github_release_jll,b0520d53-158e-5a4f-b7bb-e0a5e0db8429
 gitoxide_jll,7ab50ac8-3a8c-5d28-9910-0d361883217b
