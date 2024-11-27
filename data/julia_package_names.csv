@@ -2868,6 +2868,7 @@ ExpectationMaximizationPCA,20521544-8895-46ad-ab44-5135df82bd8f
 ExpectationStubs,cd0106a6-6d98-567f-99b2-156dd1635c57
 Expectations,2fe49d83-0758-5602-8f54-1f90ad0d522b
 ExperienceAnalysis,51cd30ab-a913-41ff-9b6f-9b78880a2ac2
+ExperienceReplay,9191f281-19f8-4a32-ad68-bff21db472d5
 ExperimentalDesign,4babbea4-9e7d-11e9-116f-e1ada04bd296
 Experimenter,6aee034a-9508-47b1-8e11-813cc29af79f
 ExperimentsManager,881d7174-a88b-11e9-2adc-edaefd320751
@@ -5622,6 +5623,7 @@ MLStyle,d8e11817-5142-5d16-987a-aa16d5891078
 MLSuite,fd36aebc-0777-11ea-1be3-eb1bdc5c01e1
 MLSuiteBase,d01462b0-16b5-11ea-1c8e-eb7ed7586854
 MLUtils,f1d291b0-491e-4a28-83b9-f70985020b54
+MLX_jll,f64cf55a-5a53-5b8c-8e0c-ce6c538bc415
 MMCAcovid19,3fbf9143-36f1-400e-9c84-fa51782749e9
 MMG_jll,86086c02-e288-5929-a127-40944b0018b7
 MMTF,259c3a9c-12c3-507f-b21f-68ecc40fcda4
@@ -9425,6 +9427,7 @@ SpinGlassNetworks,b7f6bd3e-55dc-4da6-96a9-ef9dbec6ac19
 SpinGlassPEPS,2c514f87-1261-494e-8566-326879aaf4fe
 SpinGlassTensors,7584fc6a-5a23-4eeb-8277-827aab0146ea
 SpinMonteCarlo,71c4a2d3-ecf8-5cd9-ab6a-09a504837b4f
+SpinSim,a9872f58-4f48-11ef-0c06-ff7f93bd3947
 SpinSymmetry,ebcc8a00-959b-4e58-a088-282ffd8a4f25
 SpinWaveTheory,0f33b1d1-764a-4710-8fd7-79355e2c9255
 SpinWeightedSpheroidalHarmonics,680e17a6-2a17-48fd-ae01-e2b5a643bef0
