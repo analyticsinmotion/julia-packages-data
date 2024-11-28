@@ -1432,6 +1432,7 @@ ChowLiuTrees,be466665-d60c-4e0a-9ae9-070eb5e678a5
 ChpSim,c133084b-7dba-4976-8ce9-624a349e415e
 Chpack,2a40f1df-ea8b-4415-b5f4-d53e15ef496e
 ChrBase,c13fa7b1-fb91-5a40-8b3c-3aad7fd30002
+ChromeDevToolsLite,fd981815-49ad-43be-956f-1ba144983534
 ChromeProfileFormat,b19f0eae-10f4-4ff0-9df2-b48cd85f6b2e
 Chron,68885b1f-77b5-52a7-b2e7-6a8014c56b98
 Chuffed,a105ee56-0da9-4c5a-a151-cc7e299d31db
@@ -6760,6 +6761,7 @@ OceanWaveSpectralFitting,a44e4c57-a566-426a-9563-b0c20c24dda1
 Oceananigans,9e8cae18-63c1-5223-a75c-80ca9d6e9a09
 OceanographyCruises,32ce50af-5875-4c4d-b676-f166988c519c
 Oceanostics,d0ccf422-c8fb-49b5-a76d-74acdde946ac
+Octave_jll,64f2a4eb-bfb0-58c4-a645-9e6f61b41e29
 Octavian,6fd5a793-0b7e-452c-907f-f8bfe9c57db4
 Octo,16905944-f982-529b-abb2-b839f98f160b
 Octofitter,daf3887e-d01a-44a1-9d7e-98f15c5d69c9
@@ -9977,6 +9979,7 @@ TcpInstruments,aaee30c5-7b57-4441-b61a-ab7186f11903
 TeXTable,a350b66b-315f-4c41-8dcc-4d7330525fdd
 TeaFiles,c40ccc24-2f2a-4785-85cd-06e8176bc8e2
 TeaSeis,db5f7d96-a200-5343-9fc6-a259b42289b2
+TechnicalAnalysis,89c1805e-7de6-4d5c-a550-370041bb1e4f
 Tectonic,9ac5f52a-99c6-489f-af81-462ef484790f
 TeeStreams,c24d529b-c83e-40e0-9fc3-05832c05a0ba
 TeensyLoaderCLI,1f6468c7-4102-49b4-b9cb-2bfb41b5fdca
