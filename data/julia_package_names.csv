@@ -1762,6 +1762,7 @@ ConjugateGradientMethod,823845fe-9a97-4ead-ad7d-52628efea333
 ConjugateGradients,f59de78d-195d-4e7b-a078-2e47da4c3ad6
 ConjugatePriors,1624bea9-42b1-5fc1-afd3-e96f729c8d6c
 Conjugates,cd731e1f-768d-4c10-b144-5251ec0945a2
+ConleyDynamics,94d474ba-9a8a-4612-aaf4-76c1836fe059
 ConnectFourSolver,c01be385-ab27-4b9c-92b7-2e6a77fbe7c3
 ConnectFourSolver_jll,5ab91c8a-5c16-538d-97cb-84915cefd4b0
 Consensus,39099a2c-f609-41b4-99c2-62ec6735b6c9
@@ -3962,6 +3963,7 @@ GridDensities,30cfb417-a18a-4984-907c-c461bfb07c95
 GridGraphs,dd2b58c7-5af7-4f17-9e46-57c68ac813fb
 GridInterpolations,bb4c363b-b914-514b-8517-4eb369bc008a
 GridLayoutBase,3955a311-db13-416c-9275-1d80ed98e5e9
+GridMaps,889a5e0f-cea4-48d1-aea6-4a3fe9168d86
 GridPotentialFlow,1f0d46c9-1630-4f7c-9a63-ed825740f08c
 GridUtilities,5c019650-0847-4ff6-8f91-f8ecfc8c3009
 GridVisualize,5eed8a63-0fb0-45eb-886d-8d5a387d12b8
@@ -6634,6 +6636,7 @@ NonlinearTestProblems,84d880b8-0062-4738-ba75-b6cb1662e554
 NonogramSolver,108db2ec-6058-46d0-81ab-928f1904c069
 NonparametricRegression,db432338-e110-4b7a-9c53-0ace38eb8f7f
 NonsmoothOptim,0dfc7a1c-e419-4470-a3bc-787e626244db
+NonstationaryProcesses,7656fb31-40ed-4019-8ece-32bdcc5fce69
 NonstationaryProcessesBase,af5f7d59-81cb-4819-a164-3c52f7fc19dd
 NonuniformFFTs,cd96f58b-6017-4a02-bb9e-f4d81626177f
 Nord,0e1eec36-3e51-505b-9453-8db846dc2724
@@ -7376,6 +7379,7 @@ PiCraft,6cc4b21d-cec8-58d5-a373-5cd579ce5971
 PiGPIO,bb151fc1-c6dc-5496-8ed6-07f94907e623
 PianoHands,74435128-bd9d-4d82-978b-bd768beb391e
 Piccolo,c4671d76-df94-11ed-2057-43d4fd632fad
+PiccoloQuantumObjects,5a402ddf-f93c-42eb-975e-5582dcda653d
 Pickle,fbb45041-c46e-462f-888f-7c521cafbc2c
 PicoQuant,2db47837-5a65-4a20-8d0f-8ec2491baa53
 PicoSAT,ff2beb65-d7cd-5ff1-a187-74671133a339
@@ -11221,6 +11225,7 @@ fpzip_jll,dabd510a-92a7-54df-aa64-c306dd35554a
 fts_jll,d65627f6-89bd-53e8-8ab5-8b75ff535eee
 fzf_jll,214eeab7-80f7-51ab-84ad-2988db7cef09
 gRPCClient,aaca4a50-36af-4a1d-b878-4c443f2061ad
+gat_jll,b88765aa-e0a2-5b02-b897-840ea4e6307e
 gawk_jll,054acbdd-7fbc-53f6-b51a-0fe4f8189fb8
 gb_jll,006bdf2e-00d8-555c-bee2-993406487cbf
 gdk_pixbuf_jll,da03df04-f53b-5353-a52f-6a8b0620ced0
