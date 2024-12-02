@@ -62,6 +62,7 @@ ASDF2,da470b1c-b0a8-4533-b4d1-e613846a4bd7
 ASE,51974c44-a7ed-5088-b8be-3e78c8ba416c
 ASEconvert,3da9722f-58c2-4165-81be-b4d7253e8fd2
 ASL_jll,ae81ac8f-d209-56e5-92de-9978fef736f9
+AStarGridSearch,892abc44-b326-442a-ba8e-5eb8be33ac6f
 AStarSearch,e6cbe913-2b79-4cc5-848a-e3bbf8537828
 ATK_jll,7b86fcea-f67b-53e1-809c-8f1719c154e8
 ATKmm_jll,ae83496e-abbd-5b27-8e4c-ced0103e1cfe
@@ -3310,6 +3311,7 @@ FluxUtils,479fec60-eb0f-11e8-3e82-6d728fa6b650
 Fluxperimental,3102ee7a-c841-4564-8f7f-ec69bd4fd658
 FlxQTL,ede81e08-c6d8-4fe3-94c2-f928d9d678ed
 FlyThroughPaths,c11bb9a7-2755-425a-88f3-ebe93bbdb91f
+Fminbnd,b7bab496-830c-4b53-8aec-8b9a988c40b4
 Fmt_jll,5dc1e892-f187-50dd-85f3-7dff85c47fc5
 FocusedBlindDecon,3b47aaff-9524-5d9d-a292-eeb6a187c032
 FoldRNA,c54b6bf2-3650-4185-8b5f-4b1290dd1f68
@@ -3437,6 +3439,7 @@ FusibleBroadcasts,1183179b-6fd2-4027-9f34-791c8040edc0
 FusionSyntheticDiagnostics,c6e34158-aa22-49e4-bb12-15cbcb518ce6
 FusionSystems,f78baae1-78cd-4069-8705-3f3564aaf290
 Futbolista,d5a28882-127d-4cd3-bca1-824ce50d98df
+FuzzifiED_jll,0fc6ce7e-a225-5ad5-93a0-97260cfa1513
 Fuzzy,a9166f1b-85e5-4df0-9c26-e06b441f12e8
 FuzzyCRegression,f92c8a04-155b-4747-b198-4c6b1c04e8f7
 FuzzyClusteringSimilarity,edb9ae08-98fc-4535-bc7b-43b5fa0191ff
@@ -3825,6 +3828,7 @@ GilbertCurves,88fa7841-ef32-4516-bb70-c6ec135699d9
 GillMatsuno,39e863eb-a116-4232-ae62-2a8db89e9457
 Gingko_jll,ebc12d66-1ae6-5e16-bc1b-c04a92e425de
 Ginkgo,4c8bd3c9-ead9-4b5e-a625-08f1338ba0ec
+Gismo,f019f137-166b-4455-b646-ee200b009b83
 Git,d7ba0133-e1db-5d97-8f8c-041e4b3a1eb2
 GitCommand,49b5b516-ca3f-4003-a081-42bdcf55082d
 GitFilterRepo,72c675ce-d821-4fa1-bc7b-baba4c7e6388
@@ -5443,6 +5447,7 @@ LogicCircuits,a7847b3b-b7f1-4dd5-83c3-60e0aa0f8599
 LogicToolkit,d3a281b0-2e49-4a34-8c25-fb04c757da16
 LogisticOptTools,1300ed3d-6860-462d-a0dd-96dd8e4084ab
 Logistics,e933307e-f964-4372-9340-e36d39c2f667
+LogitSamplers,1b30fcfc-0ee9-4be2-9cfe-b2289b43e041
 Logomaker,3e22dfff-eee4-477b-ac6a-6f7f49e5ccf0
 LokiLogger,51d429d1-9683-4c89-86d7-889f440454ef
 LombScargle,fc60dff9-86e7-5f2f-a8a0-edeadbb75bd9
@@ -7181,6 +7186,7 @@ ParGOGraphs,9c72e466-2585-4cd6-b2fc-9c3ab070dc04
 ParSpMatVec,ccf9b6e2-7ea7-596a-9d65-09863b18e8cc
 ParXRec,ce505a99-8540-44bd-8e52-2947982c0c75
 ParaReal,d8ab9f86-dde6-11e9-3216-afd74457b932
+ParaViewCatalyst,0fa3a46a-29f8-4c04-a671-08df7e71e505
 ParabolicTrigonometry,2c67d0d1-3dd0-4e24-8359-dd001bbc3df8
 ParallelAnalysis,c8fef40c-3641-40f1-b0ae-e08425a5d2fc
 ParallelDataTransfer,2dcacdae-9679-587a-88bb-8b444fb7085b
@@ -8350,6 +8356,7 @@ ReducedBasis,f18afe42-61d0-402c-a0bd-58c747008192
 ReducedBasisMethods,91da5cd7-58ae-4d67-87db-f03d1c8da121
 ReducedComplexityModeling,abb4722c-1d8e-48eb-a3bd-45b3116bfaba
 Redux,6d653af8-ad40-11e9-2720-9f1294ef7658
+ReefBiodiversityAccountSetup,0c8e82bf-eef7-4dd9-ab94-1dceb2362a9d
 ReefModEngine,f4ffb74a-bba7-4ac3-ad08-f8621d7c6d1d
 Reel,71555da5-176e-5e73-a222-aebc6c6e4f2f
 Reexport,189a3867-3050-52da-a836-e630ba90ab69
