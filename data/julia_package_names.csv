@@ -3534,6 +3534,7 @@ GModelFit,ac42e6ba-c0bf-4fcf-827d-deea44b16255
 GModelFitViewer,5d93b50e-5cc7-4feb-a740-ec85257caa01
 GNCTestServer,301134cd-0795-4287-8b73-e567f40fdffd
 GNNGraphs,aed8fd31-079b-4b5a-b342-a13352159b8c
+GNNLux,e8545f4d-a905-48ac-a8c4-ca114b98986d
 GNNlib,a6a84749-d869-43f8-aacc-be26a1996e48
 GNRProdEst,c5ad59e2-017c-4e02-9cbc-8c6117b2c1fd
 GNSSDecoder,bf6b1ec8-12ad-4501-972c-3dec0d675c2b
@@ -8068,6 +8069,7 @@ QuantumLattices,78ae1a1f-1d5d-5174-b61c-66e31b2346dc
 QuantumMAMBO,e290813f-b153-47cd-bc0b-49e404587c69
 QuantumMeasurements,81691e93-b409-492d-a237-cd8ca34c3e3f
 QuantumNLDiffEq,5411918f-e61c-4722-a33e-8517a813f4bd
+QuantumNPA,5cd12e4b-1487-4eb2-a245-40f3146b84a8
 QuantumOptics,6e0679c1-51ea-5a7c-ac74-d61b76210b0c
 QuantumOpticsBase,4f57444f-1401-5e15-980d-4471b28d5678
 QuantumPropagators,7bf12567-5742-4b91-a078-644e72a65fc1
