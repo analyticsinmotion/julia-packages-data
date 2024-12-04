@@ -730,6 +730,9 @@ BcdiStrain,3abd092d-e7bc-4ec6-94c6-c6851986118d
 BcdiTrad,b788224a-5de6-46e5-9aeb-ad1a5171efd9
 Bcrypt,137488db-d2e6-4fb9-97f3-1e40a263e83c
 Bcube,cf06320b-b7f3-4748-8003-81a6b6979792
+BcubeCGNS,a9bead8e-c4b5-4f51-8a4e-84805ae90250
+BcubeGmsh,8c8b3700-392b-4630-b974-b8b78831232a
+BcubeVTK,f7a61acb-f482-4505-b2eb-e9cadd76b6b4
 BeaData,acefaad2-17a4-5d8b-aa08-e18ef75dd0cf
 BeastUtils,af749cb1-4ea1-40dc-96cd-a9902a2c5721
 Beauty,e5fb2512-507e-11e9-3018-95af41067f06
@@ -4919,6 +4922,8 @@ Kezdi,48308a23-c29e-446c-b4c0-d9446a767439
 Khepri,59ceddad-2dad-55ad-af66-072f48a109d0
 KhepriAutoCAD,84eb9a3b-232b-4081-b917-cfea549d0d83
 KhepriBase,4cc0fe96-1163-46f3-ba32-de1e65d9548f
+KhepriIllustrator,7159cd1a-befd-4126-8a94-9819cf26f52f
+KhepriTikZ,d7448f13-5788-4f2e-89b7-cfef8ec02b84
 Kibisis,b7c0a452-59f3-4788-8baf-51dfb4e989a2
 Kinbiont,3b7c519f-be5e-4159-a208-6486ce96bb37
 Kinematic1D,a8a3bb05-6cc5-4342-abf6-5cc636bd2b35
@@ -6050,6 +6055,7 @@ MimiSNEASY,3f1801d0-c5f8-11e9-1568-bf13fd643260
 MimiSSPs,d73ed964-a3ff-4a3d-ad09-d195fe0d0b35
 Mimi_NAS_pH,113fc11f-d823-43a8-a074-b997e93e8190
 MinAtar,a0b457aa-173f-450d-9d76-dd2c7c1da9bd
+MinCostFlows,62286e6e-1779-56f1-888a-1c0056788ce0
 MinFEM,bd0dc85c-d10e-11e8-1961-03914cacc29c
 MinHash,4b3c9753-2685-44e9-8a29-365b96c023ed
 Minc2,8e6f2f06-34e2-40fe-8437-e396464d2a7f
@@ -6844,6 +6850,7 @@ OpenEXR_jll,18a262bb-aa17-5467-a713-aee519bc75cb
 OpenEphysLoader,98c9b6dd-1b90-5d67-90ca-be6a773cd6f7
 OpenFAST_jll,a5beeac0-58b9-51ef-9177-6a87f706d2c0
 OpenFHE,77ce9b8e-ecf5-45d1-bd8a-d31f384f2f95
+OpenFHE_int128_jll,a89a0bdd-1663-5679-8b21-c3a5388322bc
 OpenFHE_jll,a2687184-f17b-54bc-b2bb-b849352af807
 OpenFOAM_com_jll,fd4958d8-5e5c-566c-bfe6-815b1420e10d
 OpenFOAM_jll,89340185-c6b7-517e-a5e0-0a450377a6e4
@@ -9550,6 +9557,7 @@ StataCall,149ba50c-99c4-11e9-1e32-e960083e84dc
 StataDTAFiles,b8b3a5fb-3772-5a86-9e24-bf4afc28128a
 StateCharts,bfc335c0-d564-425b-98aa-d5c699c8b7ab
 StateMachines,59420ebe-bdc3-4117-ac89-8393ca9fcf2c
+StateSignals,cc7ea9f4-611f-50b7-86a5-d62288be5013
 StateSpaceDynamics,19cf8126-1d00-4ad8-bf17-4e76d7bc0f6d
 StateSpaceEcon,e4c825b0-b65c-11ea-0b5a-6176b64e7b7f
 StateSpaceInference,8583ecf1-8684-4f91-a25a-60406f5ba88d
