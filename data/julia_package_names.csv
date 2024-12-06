@@ -433,6 +433,7 @@ AsmMacro,f617cd02-e7fb-5dad-8d07-aa96542e7fbb
 AssemblyView,e1a66ace-d94f-4d56-9cba-db43e0ec34d1
 AssetRegistry,bf4720bc-e11a-5d0c-854e-bdca1663c893
 Assets,4a03a35a-a24b-4d57-b425-13a263c27574
+AssignTaxonomy,941572e2-79a6-4ec3-8380-7ad5c8caa571
 AssigningSecondaryStructure,8ed43e74-60fb-4e11-99b9-91deed37aef7
 Assignment,30268ba6-d258-4c5c-9bcf-b5809bbf81b5
 Assimp,079381af-6941-5802-8ad5-fb13e7f1c93a
@@ -2182,6 +2183,7 @@ DecFP_jll,47200ebd-12ce-5be5-abb7-8e082af23329
 Decapodes,679ab3ea-c928-4fe6-8d59-fd451142d391
 DecentralizedInternet,c64ce7d0-6970-11ea-3334-dbbabb1ea5a5
 Decimals,abce61dc-4473-55a0-ba07-351d65e31d42
+DecisionFocusedLearningBenchmarks,2fbe496a-299b-4c81-bab5-c44dfc55cf20
 DecisionMakingEnvironments,c2d78f9d-1393-4ac0-9d65-4613f9d81ffe
 DecisionMakingPolicies,4cd5d487-2a85-4602-baee-1f5c94b6a44c
 DecisionMakingUtils,e21ee072-cbb1-4ecc-b257-6a793c43976a
@@ -4197,6 +4199,7 @@ HierarchicalEOM,a62dbcb7-80f5-4d31-9a88-8b19fd92b128
 HierarchicalGaussianFiltering,63d42c3e-681c-42be-892f-a47f35336a79
 HierarchicalLogging,f33c120b-91a0-4a1c-b926-14fa61c08c77
 HierarchicalMatrices,7c893195-952b-5c83-bb6e-be12f22eed51
+HierarchicalStateMachines,abad772c-f3cd-4a0c-a45e-a2ff9a47795a
 HierarchicalTemporalMemory,db654dba-670c-566a-9226-64313b881ded
 HierarchicalUtils,f9ccea15-0695-44b9-8113-df7c26ae4fa9
 HighDimMixedModels,5d0d0550-ba84-42d6-a33e-4f9cf65119aa
@@ -5486,6 +5489,7 @@ LowLevelParticleFilters,d9d29d28-c116-5dba-9239-57a5fe23875b
 LowRankApprox,898213cb-b102-5a47-900c-97e73b919f73
 LowRankArithmetic,8016d1d1-7a3b-4ad2-b79e-5984174ed314
 LowRankIntegrators,a4d2327a-b40c-407e-b18c-dbb78b346b8e
+LowRankLayers,b66182ab-a85c-43b0-99bd-d85cc47c5e50
 LowRankMatrices,e65ccdef-c354-471a-8090-89bec1c20ec3
 LowRankModels,15d4e49f-4837-5ea3-a885-5b28bfa376dc
 LowRankOps,0ea32739-31af-43e6-82ee-ebe6dcf00a6f
@@ -7267,6 +7271,7 @@ ParticleMethods,b097825d-39ce-45b2-a4ab-941e2c2df7e8
 ParticleScattering,3532a73c-0c3e-5edc-89e3-d771336b0a2d
 PartitionedArrays,5a9dfac6-5c52-46f7-8278-5e2210713be9
 PartitionedLS,19f41c5e-8610-11e9-2f2a-0d67e7c5027f
+PartitionedMPSs,17ce1de9-5131-45e3-8a48-9723b6e2dc23
 PartitionedSolvers,11b65f7f-80ac-401b-9ef2-3db765482d62
 PartitionedStructures,a6683cb1-4e99-4d03-b5b5-b79ed0acabcf
 PartitionedVectors,9d5e22db-ddc8-46c9-8309-91b035e7f733
@@ -10728,6 +10733,7 @@ Vision,9150dba0-62ab-4b8c-b7d2-25a0d6dd685f
 VisionHeatmaps,27106da1-f8bc-4ca8-8c66-9b8289f1e035
 Visor,cf786855-3531-4b86-ba6e-3e33dce7dcdb
 VisualDL,98ad42d3-8ce6-553d-ae41-509bd26b5557
+VisualDiff,a4e6b4e8-4b97-4be9-afa4-72a10a6a8f69
 VisualGeometryDatasets,962a53e2-84f2-440b-bfbc-4e96ec28357f
 VisualGeometryOptimization,69c13e0b-7fe7-492d-975b-4112821fd6ea
 VisualRegressionTests,34922c18-7c2a-561c-bac1-01e79b2c4c92
