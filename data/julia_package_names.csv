@@ -507,6 +507,7 @@ Attrs,a4224b96-20e5-5401-805b-05f03f927511
 AudioDB,7751140e-3dbe-4f12-a6f7-19bdd520e90f
 AudioSchedules,0990df78-ca1d-4d03-ab92-318744ee3999
 AuditoryFilters,2b6db37a-05bd-5fbd-94f7-97a8281041e3
+AuditorySignalUtils,20759599-9703-4078-b9af-37a489742e5c
 AuditoryStimuli,8341a549-d843-5d3b-924f-10e41641b3ea
 AugmentedGPLikelihoods,4689c64d-1a23-4d3c-ad26-1c612d54a282
 AugmentedGaussianProcesses,38eea1fd-7d7d-5162-9d08-f89d0f2e271e
@@ -947,6 +948,7 @@ BlockFactorizations,5c499583-5bfe-4591-9b59-c1e192d48697
 BlockHaloArrays,8029ca6b-11ad-4a59-88a2-2e6eee4ef8a2
 BlockMatching,100fd195-2f51-49a3-864c-eaaf5f23bc5e
 BlockSystems,4663d367-db1f-4bef-81e7-dc1bd7f7b428
+BlockTensorKit,5f87ffc2-9cf1-4a46-8172-465d160bd8cd
 BlockTriangularForm,adeb47b7-70bf-415a-bb24-c358563e873a
 BlockingMethod,d9bca9eb-1e72-4788-bb56-3426fa9acbbd
 BloomFilters,d3d7f49f-8593-5289-ba71-9c4f4848f489
@@ -1850,6 +1852,7 @@ Cookbook,5c1ef01f-39c8-5834-b1a0-1a342f75f4df
 CoolProp,e084ae63-2819-5025-826e-f8e611a84251
 CoolProp_jll,3351c21f-4feb-5f29-afb9-f4fcb0e27549
 CooperativeGames,4bb2c6fa-c716-443c-bd78-f2a2f3c4e880
+CoordGridTransforms,1cf1ec0c-22f7-4062-925b-8db09db48fc3
 CoordRefSystems,b46f11dc-f210-4604-bfba-323c1ec968cb
 CoordinateConventions,7204ce3a-f536-43d2-be4a-fbed74e90d86
 CoordinateConverterGK,d77a50d3-17ea-48e4-bb1c-35f220bfae06
@@ -8389,6 +8392,7 @@ Refraction,a85f0e34-77fa-494d-9980-9155dceff362
 RefractiveIndex,97a43521-7681-4ec2-835f-5b8ab7e7617e
 Reg1dmt,18868e41-8ff6-40da-b6bb-8f92e709e4d6
 RegNets,b717d2d3-19c6-5ced-b36a-114a71eec478
+RegionGrids,ecebd26c-3930-4a82-94f6-9df2a191b288
 RegionTrees,dee08c22-ab7f-5625-9660-a9af2021b33f
 Regions,4e3eb3bd-530d-473f-987b-017f501eadde
 Registrator,4418983a-e44d-11e8-3aec-9789530b3b3e
@@ -8743,6 +8747,7 @@ SOLAR_jll,9ace170a-bc31-55e8-8cff-70366ba5762e
 SOLPS2imas,09becab6-0636-4c23-a92a-2b3723265c31
 SOM,172a5912-0be3-5bce-b68a-ea4f60b69b05
 SP2000China,c1df9deb-2e6b-43bb-8257-0a25d59f3b2a
+SP2000ChinaData,e24bbd13-ca2d-4e80-8582-2dcbdb03756c
 SPCSpectra,ddf1bf59-526a-4a23-8a87-8f8ce489e0c9
 SPDX,47358f48-d834-4249-91f5-f6185eb3d540
 SPECTrecon,ab1be465-a7f0-4423-9048-0ee774b70ed9
@@ -9008,6 +9013,7 @@ SeriesAccelerators,9dd7a2f8-ab8d-577c-ac83-a3992ff7c30e
 ServerMetrics,77d5efa4-d40d-4655-9c8b-8729ad2310a1
 ServiceSolicitation,3f93ea72-029c-46bb-aa46-2b37939b0662
 SetBuilders,0ea2c469-657e-49fe-9dbc-af43455b405b
+SetEnums,187c2503-7656-4954-a2ef-882908ec45bf
 SetIntersectionProjection,335f7d24-6316-57dd-9c3a-df470f2b739e
 SetProg,39881422-4b75-5582-a5c7-0feb14562a65
 SetRounding,3cc68bcd-71a2-5612-b932-767ffbe40ab0
@@ -9811,6 +9817,7 @@ SurfaceCoverage,75f4d65b-1b42-4905-9fb1-6d40607712e8
 SurfaceFluxes,49b00bb7-8bd4-4f2b-b78c-51cd0450215f
 SurfaceReactions,59f5dcf9-29de-47f3-bbe3-a47d1f19a124
 SurfaceTopology,1db0cb78-5717-11e9-0361-01e0964942ce
+Surge,349ef902-387d-4643-bd1b-125067241d07
 Surprise,dadb0ed2-e56b-40a7-b017-200304ddb474
 SurrealDB,0dc7cda7-6a2c-4f49-b8ae-2ed91ee7b183
 SurrealNumbers,58abba7c-3f8b-5571-af36-87c463197a71
