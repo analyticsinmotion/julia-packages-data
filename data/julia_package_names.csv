@@ -4279,6 +4279,7 @@ HybridStructs,49057fa9-d513-5ef6-ae80-2dc68a70a2bd
 HybridSystems,2207ec0c-686c-5054-b4d2-543502888820
 HybridSystemsSimulations,bed98974-b02a-5e2f-9ee0-a103f5c450dd
 Hydro,fc36d966-fe4b-4286-9a77-63003c00d81d
+HydroModels,7e3cde01-c141-467b-bff6-5350a0af19fc
 HydroPowerSimulations,fc1677e0-6ad7-4515-bf3a-bd6bf20a0b1b
 HydroRefStations,24d538e7-85d5-470c-a2b3-0f8eb58e3203
 HydroTools,179359cd-bac3-4aa1-bccd-287172463ab0
@@ -6934,6 +6935,7 @@ OptimPack_jll,8115cc2e-fb29-5d71-b5cb-a4fb1c5dcd4c
 OptimTestProblems,cec144fc-5a64-5bc6-99fb-dde8f63e154c
 OptimalApplication,3e920f78-0eb2-4966-9e73-7442414dae3e
 OptimalBids,54ed2464-0158-49e7-9a8e-1c1697a616e3
+OptimalBranchingCore,c76e7b22-e1d2-40e8-b0f1-f659837787b8
 OptimalControl,5f98b655-cc9a-415a-b60e-744165666948
 OptimalControlProblems,59046045-fb9c-4c23-964f-ff0a25704f96
 OptimalEstimation,b4b06e15-aec3-475a-bd5d-4eaf7ad224b9
@@ -9572,6 +9574,7 @@ StataDTAFiles,b8b3a5fb-3772-5a86-9e24-bf4afc28128a
 StateCharts,bfc335c0-d564-425b-98aa-d5c699c8b7ab
 StateMachines,59420ebe-bdc3-4117-ac89-8393ca9fcf2c
 StateSignals,cc7ea9f4-611f-50b7-86a5-d62288be5013
+StateSpaceAnalysis,8767b432-2e83-436f-aa62-e8e2db78ab85
 StateSpaceDynamics,19cf8126-1d00-4ad8-bf17-4e76d7bc0f6d
 StateSpaceEcon,e4c825b0-b65c-11ea-0b5a-6176b64e7b7f
 StateSpaceInference,8583ecf1-8684-4f91-a25a-60406f5ba88d
