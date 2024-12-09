@@ -2754,6 +2754,7 @@ EnergyModelsBase,5d7e687e-f956-46f3-9045-6f5a5fd49f50
 EnergyModelsCO2,84b3f4d7-d799-4a5d-b06c-25c90dcfcad7
 EnergyModelsGUI,737a7361-d3b7-40e9-b1ac-59bee4c5ea2d
 EnergyModelsGeography,3f775d88-a4da-46c4-a2cc-aa9f16db6708
+EnergyModelsHydrogen,44855f8b-b147-4985-ac18-48817d03c548
 EnergyModelsInvestments,fca3f8eb-b383-437d-8e7b-aac76bb2004f
 EnergyModelsRenewableProducers,b007c34f-ba52-4995-ba37-fffe79fbde35
 EnergySamplers,f446124b-5d5e-4171-a6dd-a1d99768d3ce
@@ -7299,6 +7300,7 @@ PatternFolds,c18a7f1d-76ad-4ce4-950d-5419b888513b
 PauliPopRec,8be9b746-4e04-44ea-bfaf-e6e65ad4ae85
 PauliStrings,f07625cc-80e4-4099-a362-36a3484d9bcc
 Pavito,cd433a01-47d1-575d-afb7-6db927ee8d8f
+PawsomeTracker,d3f98fa6-545d-4d4c-aa39-0a9eb18c40ca
 PayGroups,922b5244-06a6-4050-8ee4-e6bf4d9814f2
 PcapTools,222fe7e8-3f39-464a-bf97-d9bbb753f246
 PeaceCypher,7743456c-e0c5-4477-a2b6-196c240b0368
@@ -9651,6 +9653,7 @@ StippleCharts,30ddb3f0-912f-4f34-9804-e4bb31290777
 StippleDownloads,291a174b-6542-42e7-9996-fc00d7c03310
 StippleKeplerGL,2b41e42f-53d9-436c-aed0-ebb7c31b58f1
 StippleLatex,8706c442-30ce-4f68-b407-b81ebf148be9
+StippleMakie,ca87011c-5f75-4091-8e42-d20fc4be912c
 StippleMarkdown,2b41e42f-53d3-436c-aed0-ebb7c31b58f1
 StippleMathjs,7fb1dcd0-db8f-4201-9509-3dea5d7792e9
 StipplePlotly,ec984513-233d-481d-95b0-a3b58b97af2b
@@ -10162,6 +10165,7 @@ Thermochron,b9a8379e-ee1a-4388-b7ca-7852af1cef08
 ThermodynamicIntegration,1022446e-a4a4-4a46-8bce-0ffd39f68cd3
 Thermodynamics,b60c26fb-14c3-4610-9d3e-2d17fe7ff00c
 ThermofluidQuantities,8e558ecf-e13e-4796-9812-ac12e4724222
+ThesisArt,6184abd9-1539-47ca-b742-6ec6f8d46641
 Theta,42bdb5c4-78fb-11e9-2233-215979c148c4
 ThinFilmsTools,e990187e-78db-4ef6-b01c-c671a8d7225b
 ThinPlateSplines,1d861738-f48e-4029-b1d3-81ce6bc7f5ab
