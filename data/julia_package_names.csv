@@ -1308,6 +1308,7 @@ Carlo,780c37f4-4e5a-43de-9e79-65c261e525a4
 CarnotCycles,b01af851-7cff-425c-b4a4-ed45d3481e5c
 CarouselArrays,728b0f75-d1ac-44d2-96e7-73f1be4eca2f
 Cartan,e24af43f-9fd5-4672-9264-a75f3ae40eb2
+CartesianCategories,c5961c08-7b59-43f4-a15e-02b3e7c87ab8
 CartesianCutCell,21ad27bb-7bae-4588-b189-a1a591923795
 CartesianDDM,e340eb63-7005-45f1-b263-fba3e88328fa
 CartesianDomains,31d3d393-e656-4614-8ab7-f376885a6db2
@@ -2776,6 +2777,7 @@ EntropyHub,3938faea-3bfa-4bc3-8092-0c6746ff9af1
 EntropyInvariant,73e3304b-a6b6-4b69-aa20-e611882c686e
 EntropyScaling,36a13073-9e6e-4b19-b12b-cb530e79ee8e
 Entwine_jll,9290252f-3c82-5b4b-93a0-1879861c8c5d
+EnumSets,6e6cbeda-52ee-45ac-a8dc-908a1b2c6a2c
 EnumX,4e289a0a-7415-4d19-859d-a7e5c4648b56
 EnvironmentMigrators,e51d7f76-d3fb-4251-851d-1e49b8315b3e
 EnvironmentalTransport,9e73f4c4-d7e8-4c78-8a11-cd2430746631
@@ -6191,6 +6193,7 @@ ModuleLogging,247fc82d-8a48-4c99-91f9-777a8789624c
 ModuleMixins,2b5f0a26-aae2-5c4c-af55-bc6d20297121
 Modulo2,7e4462cd-8001-4c22-b109-db8e4e581e9c
 MofonBase,f86311af-d4d5-4877-8d32-564a46a659f1
+MoireSuperlattices,e394c99e-e854-4268-9140-34fa518dd490
 MoistAir,6964bd62-30e7-41c5-9f4a-5b4eb733a2a8
 MoistThermodynamics,0460cc1c-04d8-4f02-b57d-511136c80085
 MolSimToolkit,054db54f-6694-444d-9bbb-e9ecdbfe77be
@@ -6221,6 +6224,7 @@ MongoC_jll,90100e71-7732-535a-9be7-2e9affd1cfc1
 Mongoc,4fe8b98c-fc19-5c23-8ec2-168ff83495f2
 MongocUtils,e584fc4d-3f36-46f9-b493-fafa6061fac8
 MonkeyLang,2e3b8ffb-b112-4a86-975c-b56a8cdf8971
+MonoidalCategories,bfd98c86-782f-4b94-909f-74167f1eb613
 MonolithicFEMVLFS,02a35734-3e3a-4c9f-8994-84c0fbc3ad2f
 Monomials,272bfe72-f66c-432f-a94d-600f29493792
 MonotoneDecomposition,985e57c0-c0fb-4ac0-a7f6-0eae5cf96536
@@ -7144,6 +7148,9 @@ PProf,e4faabce-9ead-11e9-39d9-4379958e3056
 PQBaseCamp,f3fa9a12-d078-4fce-bc4d-6e7bfa191ad1
 PQEcolaPoint,6e0fd8a8-0703-4e38-9954-b94da054c472
 PQPolygonSDK,a9381516-e38f-4c81-935c-32707fb4df4c
+PRASCapacityCredits,2e1a2ed5-e89d-4cd3-bc86-c0e88a73d3a3
+PRASCore,c5c32b99-e7c3-4530-a685-6f76e19f7fe2
+PRASFiles,a2806276-6d43-4ef5-91c0-491704cd7cf1
 PRIMA,0a7d04aa-8ac2-47b3-b7a7-9dbd6ad661ed
 PRIMA_jll,eead6e0c-2d5b-5641-a95c-b722de96d551
 PRIMME_jll,9916bc9e-ef43-57a6-9be0-2f3f923f8145
@@ -10865,6 +10872,7 @@ WeightedOnlineStats,bbac0a1f-7c9d-5672-960b-c6ca726e5d5d
 WeightedPCA,ee299941-4bd7-491e-86f9-95d1f98baef4
 WeightsAndBiasLogger,71805093-c1fc-4af5-8d0a-8dde53c6ac46
 WellKnownGeometry,0f680547-7be7-4555-8820-bb198eeb646b
+WellPlates,e90c7795-22ef-4374-bdda-763920e55ac5
 Wells,5231157d-7ae6-5dec-b9aa-3f65828037ac
 WenoNeverworld,dc645f23-3555-4f2f-8f6e-8cb879a663f8
 Westerfit,f202a280-4a11-4d8a-9d54-4c7a90dde5df
