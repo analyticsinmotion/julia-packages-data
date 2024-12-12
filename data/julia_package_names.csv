@@ -2550,6 +2550,7 @@ DynamicBounds,734901b1-590a-5f47-85e0-724a0ec3af09
 DynamicBoundsBase,890bb398-7f8e-4565-ac8e-279ab2833f68
 DynamicBoundspODEsDiscrete,1c7daff2-9b32-4762-838b-ee2b1e32ee26
 DynamicBoundspODEsIneq,8922cf73-a24a-4c59-b2b7-455e840875f0
+DynamicDiff,7317a516-7a03-4707-b902-c6dba1468ba0
 DynamicExpressions,a40a106e-89c9-4ca8-8020-a735e8728b6b
 DynamicGrids,a5dba43e-3abc-5203-bfc5-584ca68d3f5b
 DynamicGridsGtk,db222a54-9a4e-11e9-2a63-0f03ae0fd449
@@ -5768,6 +5769,7 @@ Mamba,5424a776-8be3-5c5b-a13f-3551f69ba0e6
 MambaLite,ee262687-6dc1-48e3-a463-c0a35b1bf9d0
 MambaModels,3348d572-c7ce-5100-8a2c-7d2bb2d34f8f
 ManagedLoops,36a4119d-6b73-4371-88fe-ba2d91f5495d
+Mandelbrot,52854307-bbd1-4ac7-933f-adc0936abe8a
 Mangal,b8b640a6-63d9-51e6-b784-5033db27bef2
 Mango,5e49fdec-d473-4d14-b295-7bff2fcf1925
 ManiFactor,644c2d91-53c3-4334-b351-920c96c0b266
@@ -9719,6 +9721,7 @@ StreamCallbacks,c1b9e933-98a0-46fc-8ea7-3b58b195fb0a
 StreamSampling,ff63dad9-3335-55d8-95ec-f8139d39e468
 StreamToString,dc918f9c-79cc-42e6-85f1-d8b9b09632f4
 StressTest,6e3341f8-3a0d-4582-a093-9d6e6d36caf8
+Stressify,8a229381-d7eb-4865-a507-cf9af2c5cd1e
 StrideArrays,d1fa6d79-ef01-42a6-86c9-f7c551f8593b
 StrideArraysCore,7792a7ef-975c-4747-a70f-980b88e8d1da
 Strided,5e0ebb24-38b0-5f93-81fe-25c709ecae67
