@@ -1059,6 +1059,7 @@ BubbleBath,06490a66-c478-4593-a275-4b14021bccc5
 BudgetConstraints,51aacf4b-43e8-45f9-b960-ce5126c2a956
 BufferedFiles,58049f72-ad03-4b9e-92cf-b241b4467e52
 BufferedStreams,e1450e63-4bb3-523b-b2a4-4ffa8c0fd77d
+Buffers,d9ae4b7f-d04c-4b7f-92f7-4d9c2e17e1a4
 BugReporting,bcf9a6e7-4020-453c-b88e-690564246bb8
 BuildkiteUtils,82f577da-a64f-4709-b926-88c56b51bf4b
 Bukdu,3e78a19a-cc83-51d8-955b-515f39fd7955
@@ -3477,6 +3478,7 @@ GAP_pkg_ace_jll,6e11effc-327b-571d-98e3-e12b1d1e7421
 GAP_pkg_anupq_jll,995f5adf-d221-5ddc-a873-ce518b8081c9
 GAP_pkg_browse_jll,6e540885-1cbc-538c-85e7-b800ca60d645
 GAP_pkg_cddinterface_jll,edf6cd94-1a94-567d-837e-37d1f3b87eed
+GAP_pkg_cohomolo_jll,386407dc-74c0-5367-b2ac-4ae54610b78b
 GAP_pkg_crypting_jll,3b5f52f3-99b5-593a-81cd-d6cf4b425c55
 GAP_pkg_cvec_jll,03de9d45-54dd-5e36-9810-6ca1d577e6b3
 GAP_pkg_datastructures_jll,66bcec33-4fa3-551a-b2da-ca256b6829d9
@@ -3491,6 +3493,7 @@ GAP_pkg_guava_jll,70456840-cd51-5d76-a902-d128bd76a730
 GAP_pkg_io_jll,19a9678b-966c-568e-9f2e-41ceac70c829
 GAP_pkg_json_jll,b348cf08-4407-5d37-b307-1564396f8b07
 GAP_pkg_juliainterface_jll,ba154793-3a7d-51ee-8800-e295b0cf7374
+GAP_pkg_kbmag_jll,74c39be2-f71b-5dd1-bffc-f479ee282a63
 GAP_pkg_normalizinterface_jll,74f4ad05-5f81-5a78-8197-4e83b84c9c17
 GAP_pkg_nq_jll,00bf61e5-c0f9-5a3f-ba8b-68a621695b53
 GAP_pkg_orb_jll,b689cd95-dcfd-544e-a174-ce2fd787c795
@@ -8077,6 +8080,7 @@ QuantumCitations,259add83-af3e-4603-9706-50e341d5574e
 QuantumClifford,0525e862-1e90-11e9-3e4d-1b39d7109de1
 QuantumCliffordPlots,4eeed724-23be-436c-a322-a8540588cc9f
 QuantumCollocation,0dc23a59-5ffb-49af-b6bd-932a8ae77adf
+QuantumCollocationCore,2b384925-53cb-4042-a8d2-6faa627467e1
 QuantumControl,8a270532-f23f-47a8-83a9-b33d10cad486
 QuantumControlBase,f10a33bc-5a64-497c-be7b-6f86b4f0c2aa
 QuantumControlTestUtils,d3fd27c9-1dfb-4e67-b0c0-90d0d87a1e48
@@ -9438,6 +9442,7 @@ SpecialMatrices,928aab9d-ef52-54ac-8ca1-acd7ca42c160
 SpecialPolynomials,a25cea48-d430-424a-8ee7-0d3ad3742e9e
 SpecializeVarargs,24973c7f-061f-47f0-b8d1-653b711ffc2d
 SpeciesDistributionToolkit,72b53823-5c0b-4575-ad0e-8e97227ad13b
+SpeciesInteractionNetworks,49e116ef-912f-4766-9e56-896a49944adc
 SpeciesToNetworks,1cd42f4e-713b-4441-9f2f-62ba40f1840e
 Spectra,391af1a9-06f1-59d3-8d21-0be089654739
 SpectralClustering,a9453432-0461-11e9-1276-9b1ac3d3d0c6
