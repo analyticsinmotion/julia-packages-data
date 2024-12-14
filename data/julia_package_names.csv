@@ -30,6 +30,7 @@ AFLplusplus_jll,2a46d845-6c66-546d-9393-effbe7e72607
 AIBECS,ace601d6-714c-11e9-04e5-89b7fad23838
 AIControl,3868d828-178d-56af-83e1-d523478a73cd
 AIHelpMe,01402e1f-dc83-4213-a98b-42887d758baa
+AISCSteel,599de4a1-440e-403d-8b33-ce14758023a2
 AKNS,75efc99c-f354-4bf0-9c4f-447e54034ed9
 ALFA,f8dd4131-4bab-4a89-9326-aead9c214d0d
 ALPS_jll,6a88e26e-56cb-5037-a572-1ff8e7f440e8
@@ -5660,6 +5661,7 @@ MLStyle,d8e11817-5142-5d16-987a-aa16d5891078
 MLSuite,fd36aebc-0777-11ea-1be3-eb1bdc5c01e1
 MLSuiteBase,d01462b0-16b5-11ea-1c8e-eb7ed7586854
 MLUtils,f1d291b0-491e-4a28-83b9-f70985020b54
+MLX_C_jll,6073304d-8c11-559f-8a83-5ce24a08dcab
 MLX_jll,f64cf55a-5a53-5b8c-8e0c-ce6c538bc415
 MMCAcovid19,3fbf9143-36f1-400e-9c84-fa51782749e9
 MMG_jll,86086c02-e288-5929-a127-40944b0018b7
@@ -7153,6 +7155,7 @@ PProf,e4faabce-9ead-11e9-39d9-4379958e3056
 PQBaseCamp,f3fa9a12-d078-4fce-bc4d-6e7bfa191ad1
 PQEcolaPoint,6e0fd8a8-0703-4e38-9954-b94da054c472
 PQPolygonSDK,a9381516-e38f-4c81-935c-32707fb4df4c
+PRAS,05348d26-1c52-11e9-35e3-9d51842d34b9
 PRASCapacityCredits,2e1a2ed5-e89d-4cd3-bc86-c0e88a73d3a3
 PRASCore,c5c32b99-e7c3-4530-a685-6f76e19f7fe2
 PRASFiles,a2806276-6d43-4ef5-91c0-491704cd7cf1
@@ -7959,6 +7962,7 @@ QMCGenerators,fcae8fc2-2969-4f4b-b6c9-a95746d81969
 QMDDocTools,c50e25eb-ade4-4c96-a757-2a1fd62cbd8c
 QMDP,3aa3ecc9-5a5d-57c8-8188-3e47bd8068d2
 QML,2db162a6-7e43-52c3-8d84-290c1c42d82a
+QMRIColors,2bec176e-9e8c-4764-a62f-295118d1ec05
 QMSimFiles,1e04daf1-5263-4298-8d88-2487c5ff7e2f
 QNaNs,c947b005-6f94-5690-8353-b90d48bfe02f
 QOI,4b34888f-f399-49d4-9bb3-47ed5cae4e65
@@ -9723,6 +9727,7 @@ StrategicGames,21c4ae29-9918-4bcb-9542-b100d366d64c
 StratiGraphics,135379e1-83be-5ae7-9e8e-29dade3dc6c7
 StrayCopses,f554f415-119e-4ea0-8d58-ae5601ed402a
 StreamCallbacks,c1b9e933-98a0-46fc-8ea7-3b58b195fb0a
+StreamCallbacksExt,318dcf79-f1de-4874-b31b-6e12fc76f75a
 StreamSampling,ff63dad9-3335-55d8-95ec-f8139d39e468
 StreamToString,dc918f9c-79cc-42e6-85f1-d8b9b09632f4
 StressTest,6e3341f8-3a0d-4582-a093-9d6e6d36caf8
@@ -9907,6 +9912,7 @@ SymbolicNumericIntegration,78aadeae-fbc0-11eb-17b6-c7ec0477ba9e
 SymbolicPlanners,b6fe5377-9711-4fad-95b0-be4eed71ecbb
 SymbolicRegression,8254be44-1295-4e6a-a16d-46603ac705cb
 SymbolicSigns,27726e8a-9648-448d-a8f7-a27e0ac037d6
+SymbolicTracingUtils,77ddf47f-b2ab-4ded-95ee-54f4fa148129
 SymbolicUtils,d1185830-fcd6-423d-90d6-eec64667417b
 SymbolicWedderburn,858aa9a9-4c7c-4c62-b466-2421203962a2
 Symbolics,0c5d862f-8b57-4792-8d23-62f2024744c7
@@ -11286,6 +11292,7 @@ figtree_jll,eeb7bb4a-9a32-53d0-9978-007222276d6f
 file_jll,9fa45d4d-1b7c-5723-af47-664aed758436
 finufft_jll,c41cd5a2-72a3-5203-9076-a500b088fc82
 flashrom_jll,5ce1102a-d779-57d8-a38a-c227ece604ed
+flecs_jll,36bf25e4-cdf2-5fe1-89b6-d11c3d348c77
 flex_jll,48a596b8-cc7a-5e48-b182-65f75e8595d0
 flux_core_jll,381ff186-7949-5def-80e3-c2e748080dc1
 fortune_jll,08bdf8ff-2af7-5c3d-85d2-7e4de503c7bb
