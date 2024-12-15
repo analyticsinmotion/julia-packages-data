@@ -1088,6 +1088,7 @@ CALiPPSO,06591efd-5e2b-42e5-a742-7087027635df
 CANalyze,2dc4fe6c-d2be-46ad-ace5-0bbcd4825534
 CAOS,84b91ece-59cc-50c4-8800-6f827c67b7cb
 CAP,d64df2ee-d2bb-46f4-8cbc-f03bb858f8cb
+CATrustRegionMethod,9b9fad45-5422-4e5f-bb86-c82f9426b7bb
 CBFV,e079e57c-70e8-4f61-a09b-990e8be4fed3
 CBFlib_small_jll,9b99e207-4e38-5950-946f-a3f2976e367a
 CBLS,a3809bfe-37bb-4d48-a667-bac4c6be8d90
@@ -5136,6 +5137,7 @@ Languages,8ef0a80b-9436-5d2c-a485-80b904378c43
 LapSolve,f5028efd-149e-4269-ab9a-65f8f0583d22
 LaplaceBIE,25f206ee-5729-11e9-3bb3-7baf6634b443
 LaplaceRedux,c52c1a26-f7c5-402b-80be-ba1e638ad478
+LaplacianExpectationMaximization,610349f3-aa2e-4e53-b232-3ba00964b24d
 LaplacianOpt,bb20392f-64fb-4001-92e8-14b3aedd5a9e
 Laplacians,6f8e5838-0efe-5de0-80a3-5fb4f8dbb1de
 LarSurf,39bcc72a-2642-51fe-8404-ebe33c8ec443
@@ -6950,6 +6952,7 @@ OptimTestProblems,cec144fc-5a64-5bc6-99fb-dde8f63e154c
 OptimalApplication,3e920f78-0eb2-4966-9e73-7442414dae3e
 OptimalBids,54ed2464-0158-49e7-9a8e-1c1697a616e3
 OptimalBranchingCore,c76e7b22-e1d2-40e8-b0f1-f659837787b8
+OptimalBranchingMIS,1d45bab8-fbcd-445a-8de2-8d643ff389c2
 OptimalControl,5f98b655-cc9a-415a-b60e-744165666948
 OptimalControlProblems,59046045-fb9c-4c23-964f-ff0a25704f96
 OptimalEstimation,b4b06e15-aec3-475a-bd5d-4eaf7ad224b9
