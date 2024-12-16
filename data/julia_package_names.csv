@@ -8534,6 +8534,7 @@ ReverseGeocode,96b87e3f-b46e-456c-8178-0e438baab6fa
 ReverseMcCormick,f9d89e60-3bef-4186-aa8f-bdf0d7614dd6
 ReversePropagation,527681c1-8309-4d3f-8790-caf822a419ba
 ReverseStackTraces,755d2ad4-7ed4-4791-99e6-179f2b4884dd
+ReversedSeries,87ffe17a-2ae0-4c33-b274-0f3657b00e05
 ReversedStrings,d6a58270-6f46-44a2-ab4b-2a767377cb4b
 ReversibleJumpMCMC,4e599b9b-5231-4225-b353-2dfd54e54db8
 Revise,295af30f-e4ad-537b-8983-00126c2a3abe
@@ -9391,6 +9392,7 @@ Soup3_jll,fcd1aa73-243d-5665-acf3-2a5a4322c7a8
 SourceCodeMcCormick,a7283dc5-4ecf-47fb-a95b-1412723fc960
 SourceWalk,2987fe4f-acca-4bd1-87ee-98b3d562f1a1
 SpFFT_jll,8be71ea8-ca6b-526f-84e8-fb2862ef466b
+SpQEphysTools,3cf761ad-e7e3-472c-b6ca-3dfc9dcba960
 SpaSM,017bf598-072c-475c-a75e-c3e68736ce70
 SpaceIndices,5a540a4e-639f-452a-b107-23ea09ed4d36
 SpaceInvaders,27459e48-f83e-40a1-9b04-5e43823e0701
@@ -10057,6 +10059,7 @@ TeXTable,a350b66b-315f-4c41-8dcc-4d7330525fdd
 TeaFiles,c40ccc24-2f2a-4785-85cd-06e8176bc8e2
 TeaSeis,db5f7d96-a200-5343-9fc6-a259b42289b2
 TechnicalAnalysis,89c1805e-7de6-4d5c-a550-370041bb1e4f
+TechnicalIndicatorCharts,ffc6123f-ba44-4b2f-a8ce-46f3306b22af
 Tectonic,9ac5f52a-99c6-489f-af81-462ef484790f
 TeeStreams,c24d529b-c83e-40e0-9fc3-05832c05a0ba
 TeensyLoaderCLI,1f6468c7-4102-49b4-b9cb-2bfb41b5fdca
