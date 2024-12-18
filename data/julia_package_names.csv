@@ -1402,6 +1402,7 @@ CharFuncPricing,1fb851c3-be98-478b-9657-166436d5cfc1
 CharSetEncodings,cb9422de-a9d8-5b68-86db-ff05833ab307
 CharacteristicInvFourier,a9d857e3-08c1-4480-86de-23e87aa49497
 ChargeTransport,25c3eafe-d88c-11e9-3031-f396758f002a
+ChargedParticleDynamics,209b3593-7183-5600-9f8f-df5ce7fddd64
 ChargedParticles,e91dad46-2c06-47f2-8668-7ffa57fde2d9
 ChartParsers,de988000-0167-11e9-3115-2b7bbce15f76
 Chartmetric,5e0982d9-853c-416b-a9e6-ad7fe38a6229
@@ -3479,6 +3480,7 @@ GAP_lib_jll,de1ad85e-c930-5cd4-919d-ccd3fcafd1a3
 GAP_pkg_ace_jll,6e11effc-327b-571d-98e3-e12b1d1e7421
 GAP_pkg_anupq_jll,995f5adf-d221-5ddc-a873-ce518b8081c9
 GAP_pkg_browse_jll,6e540885-1cbc-538c-85e7-b800ca60d645
+GAP_pkg_caratinterface_jll,b60ae38f-62e8-5a18-8dcb-33083e9f01ee
 GAP_pkg_cddinterface_jll,edf6cd94-1a94-567d-837e-37d1f3b87eed
 GAP_pkg_cohomolo_jll,386407dc-74c0-5367-b2ac-4ae54610b78b
 GAP_pkg_crypting_jll,3b5f52f3-99b5-593a-81cd-d6cf4b425c55
@@ -3501,6 +3503,7 @@ GAP_pkg_nq_jll,00bf61e5-c0f9-5a3f-ba8b-68a621695b53
 GAP_pkg_orb_jll,b689cd95-dcfd-544e-a174-ce2fd787c795
 GAP_pkg_profiling_jll,d3697a66-ac8c-5833-932f-cdd896efbdde
 GAP_pkg_simpcomp_jll,1c659ad8-f6e2-554d-814b-22ddd907b91c
+GAP_pkg_zeromqinterface_jll,abf7faeb-cafb-5034-8851-d0d251ebcfa3
 GARCH,4d2f22df-77d7-5622-8d7f-1db4ec2bcc3a
 GATlab,f0ffcf3b-d13a-433e-917c-cc44ccf5ead2
 GAlgebra,ace2154a-7c42-11e9-15a2-c13a55fc59e4
@@ -4289,6 +4292,7 @@ HybridStructs,49057fa9-d513-5ef6-ae80-2dc68a70a2bd
 HybridSystems,2207ec0c-686c-5054-b4d2-543502888820
 HybridSystemsSimulations,bed98974-b02a-5e2f-9ee0-a103f5c450dd
 Hydro,fc36d966-fe4b-4286-9a77-63003c00d81d
+HydroModelTools,31f4d4b3-d71d-422d-8932-b4ab24c6e7e3
 HydroModels,7e3cde01-c141-467b-bff6-5350a0af19fc
 HydroPowerSimulations,fc1677e0-6ad7-4515-bf3a-bd6bf20a0b1b
 HydroRefStations,24d538e7-85d5-470c-a2b3-0f8eb58e3203
@@ -4529,6 +4533,7 @@ InfiniteArrays,4858937d-0d70-526a-a4dd-2d5cb5dd786c
 InfiniteLinearAlgebra,cde9dba0-b1de-11e9-2c62-0bab9446c55c
 InfiniteOpt,20393b10-9daf-11e9-18c9-8db751c92c57
 InfiniteRandomArrays,2bc77966-89c7-476d-a40f-269028fac4a9
+InfiniteSets,5ca6e7c4-69d2-49cf-b3ce-e6fbf50f8d91
 InfinitesimalGenerators,2fce0c6f-5f0b-5c85-85c9-2ffe1d5ee30d
 Infinities,e1ba4f0e-776d-440f-acd9-e1d2e9742647
 Infinity,a303e19e-6eb4-11e9-3b09-cd9505f79100
@@ -4945,6 +4950,7 @@ KhepriIllustrator,7159cd1a-befd-4126-8a94-9819cf26f52f
 KhepriTikZ,d7448f13-5788-4f2e-89b7-cfef8ec02b84
 Kibisis,b7c0a452-59f3-4788-8baf-51dfb4e989a2
 Kinbiont,3b7c519f-be5e-4159-a208-6486ce96bb37
+KinbiontPlots,6174cffe-3aeb-40a0-b6ea-f169f792c023
 Kinematic1D,a8a3bb05-6cc5-4342-abf6-5cc636bd2b35
 KinematicCoordinateTransformations,730d3219-0a85-48f9-b699-9f31f8913d09
 KinematicDriver,83200819-b45f-4027-aa6a-8223b29c73a7
@@ -6951,6 +6957,7 @@ OptimPack_jll,8115cc2e-fb29-5d71-b5cb-a4fb1c5dcd4c
 OptimTestProblems,cec144fc-5a64-5bc6-99fb-dde8f63e154c
 OptimalApplication,3e920f78-0eb2-4966-9e73-7442414dae3e
 OptimalBids,54ed2464-0158-49e7-9a8e-1c1697a616e3
+OptimalBranching,96e750e4-2b4b-404e-96bc-6769eb2ae924
 OptimalBranchingCore,c76e7b22-e1d2-40e8-b0f1-f659837787b8
 OptimalBranchingMIS,1d45bab8-fbcd-445a-8de2-8d643ff389c2
 OptimalControl,5f98b655-cc9a-415a-b60e-744165666948
