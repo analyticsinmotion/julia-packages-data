@@ -3223,6 +3223,7 @@ FiniteDifferenceFormula,fc1124c1-9066-4ec6-b9ac-c409d23c4e6c
 FiniteDifferenceMatrices,a7a66f33-e7b8-47af-b618-f9b5bea05f3d
 FiniteDifferences,26cc04aa-876d-5657-8c51-4c34ba976000
 FiniteElementContainers,d08262e4-672f-4e7f-a976-f2cea5767631
+FiniteElements2dDirichlet,246d098e-0122-4565-9ee7-68b1dc4e7a2c
 FiniteFields,bbb6641c-4b7b-4120-8cb1-379a8ed7c848
 FiniteFloats,e34fb328-7f7f-54d6-9f45-12944764ead7
 FiniteGroups,7eb45ad1-e93a-4d9d-8e8f-2bf75ed29802
@@ -11724,6 +11725,7 @@ z3_jll,1bc4e1ec-7839-5212-8f2f-0d16b7bd09bc
 z5_jll,c9251380-99b7-5c1d-a474-9aaf727e38ce
 zarray_jll,c058db89-f906-57f2-99e8-5bc0314c4ef9
 zbar_jll,e2ef1e04-4331-5370-a106-92245136390b
+zbc2014_jll,9bdc8d4c-a601-5095-9993-2c2aa82463f6
 zed_jll,a2fbc99b-683d-5036-9e5b-937a48409984
 zfp_jll,007be453-5351-5f08-b8c7-bf95923b8de2
 zig_jll,14449d2b-fe24-5956-b2b8-c5884298dc57
