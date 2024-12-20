@@ -2874,6 +2874,7 @@ ExcelReaders,c04bee98-12a5-510c-87df-2a230cb6e075
 ExcelUtilities,55336d7b-7a60-40a5-8869-d5806121a906
 ExceptionUnwrapping,460bff9d-24e4-43bc-9d9f-a8973cb893f4
 Exceptions,25a0344a-2aab-46d0-b534-6f1410d4c65f
+ExchangeOperations,48bbcad9-ae6a-4618-9eec-9c3ca8e1b15b
 Exercism,b06d6668-ed87-5b0c-b882-855c8dde7d29
 Exfiltrator,8fb92a4a-34c4-45cc-956f-769d12f66c92
 ExifViewer,81511e1f-44aa-483a-b228-c9d3a109f0d4
@@ -7293,6 +7294,7 @@ PartialFuns,f26b6392-6076-4cfd-b91e-dd0fce713497
 PartialLeastSquaresRegressor,f4b1acfe-f311-436c-bb79-8483f53c17d5
 PartialSvdStoch,1149b383-0994-4c0b-8959-503b8afb0ac2
 PartialWaveFunctions,793d2195-304b-438e-bbb1-bc33c872ac39
+PartiallyObservedMarkovProcesses,32433216-4d85-4b2d-94ed-a614743ba12b
 PartiallySeparableNLPModels,7f79d04d-aed5-44bf-a878-92b5ccf934e0
 PartiallySeparableSolvers,ee47c953-e16d-47b3-8c84-b49e0fa97f8a
 ParticleCorrelations,2bdc0d93-21f3-4e16-a26e-769a2eaf80d4
@@ -10576,6 +10578,7 @@ UnROOT,3cd96dde-e98d-4713-81e9-a4a1b0235ce9
 UnalignedVectors,f306ff79-ba0f-5c52-9e7c-6e6505f53397
 UnbalancedOptimalTransport,6f61b460-fd45-461a-bdf7-98edd72e362f
 UncValue,a746a8ee-edd7-11ea-299b-9348cedadb4f
+Uncertain,b33f403f-199b-472b-b9d0-1cd2092892d0
 UncertainData,dcd9ba68-c27b-5cea-ae21-829cd07325bf
 UncertainEvidence,1a86d166-648f-46fd-af52-fbd54890c8f1
 UncertainHistogramming,f2e1246a-0df0-4dad-8180-3a93ed78f8cd
