@@ -2719,6 +2719,7 @@ ElementSymbols,05abb99a-2616-4a0f-b7a8-7cbd3e8a9a5b
 Elemental,902c3f28-d1ec-5e7e-8399-a24c3845ee38
 Elemental_jll,c2e960f2-a21d-557e-aa36-859d46eed7e8
 ElementaryChemistry,95ad8c96-4a8b-47ff-b6a3-cf0853d8b4d4
+ElementaryFluxModes,89210afb-bb0f-413a-8ffa-8390a41acbf2
 ElementaryPDESolutions,88a69b33-da0f-4502-8c8c-d680cf4d883b
 ElementarySymmetricFunctions,777c1f86-6c82-42ca-a30b-c579d49eb024
 Elfel,9ca883c9-bd92-40d2-857a-2c75d8956e5d
@@ -8103,6 +8104,7 @@ QuantumControlBase,f10a33bc-5a64-497c-be7b-6f86b4f0c2aa
 QuantumControlTestUtils,d3fd27c9-1dfb-4e67-b0c0-90d0d87a1e48
 QuantumCumulants,35bcea6d-e19f-57db-af74-8011de6c7255
 QuantumDynamics,5a40c529-53c2-4483-a223-e00c1cee8134
+QuantumDynamicsCLI,7b5053f5-1407-4cb9-9ce0-e1149904b77e
 QuantumESPRESSO,95228164-aa68-11e9-35aa-d79ea5c4658d
 QuantumESPRESSOBase,51b62caa-b28f-11e9-38c2-1f67cb498e05
 QuantumESPRESSOCommands,f713baf6-9299-4878-8719-8ad597e49a7b
@@ -11570,6 +11572,7 @@ open62541_jll,de311183-6042-582f-9ed9-05a52085bec4
 openPMD,e4c73209-6c8c-4213-807b-38d671e094ab
 openPMD_api_jll,0cbd5639-4ed4-5caa-9af9-db1a1b49a12d
 openbabel_jll,deeba441-a6a4-5e65-99ae-21494d2aa7fd
+openfhe_julia_int128_jll,328aa5c7-aa14-5b23-aa57-05fb7d04b830
 openfhe_julia_jll,e5e97983-1b8c-50fe-92b7-0e05c8c202e2
 opusfile_jll,4fb77979-f048-53ce-ae57-a45249826a33
 osmium_jll,4698e515-9779-5814-ac19-c1da39f829b4
