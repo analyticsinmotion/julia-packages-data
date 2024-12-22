@@ -2761,6 +2761,7 @@ EnergyModelsBase,5d7e687e-f956-46f3-9045-6f5a5fd49f50
 EnergyModelsCO2,84b3f4d7-d799-4a5d-b06c-25c90dcfcad7
 EnergyModelsGUI,737a7361-d3b7-40e9-b1ac-59bee4c5ea2d
 EnergyModelsGeography,3f775d88-a4da-46c4-a2cc-aa9f16db6708
+EnergyModelsHeat,ad1b8b27-e232-4da9-b498-bea9c19a30d7
 EnergyModelsHydrogen,44855f8b-b147-4985-ac18-48817d03c548
 EnergyModelsInvestments,fca3f8eb-b383-437d-8e7b-aac76bb2004f
 EnergyModelsRenewableProducers,b007c34f-ba52-4995-ba37-fffe79fbde35
@@ -3114,6 +3115,7 @@ FastRationals,275e499e-7a09-5551-a1d1-9fe535a2b717
 FastRecurFlux,588c45af-af6b-483f-b667-6e294e895986
 FastRounding,fa42c844-2597-5d31-933b-ebd51ab2693f
 FastRunningMedian,3a47ddbd-112b-4cc1-b00e-3746ec434ee5
+FastSpecSoG,ebb58456-9453-4d17-87e2-7100c1ea036c
 FastSphericalHarmonics,d335c211-7587-445e-a753-f0b1fb7e445f
 FastTabular,d896c661-108c-409d-a26f-7fe446e2d3d3
 FastTransforms,057dd010-8810-581a-b7be-e3fc3b93f78c
@@ -5829,6 +5831,7 @@ MarketTechnicals,4f8c86c6-9e40-5506-9807-98571cb48bc8
 Markets,759d13a6-b709-4069-9c04-8ab7b9f0e06f
 MarkovChainHammer,38c40fd0-bccb-4723-b30d-b2caea0ad8d9
 MarkovChains,bbc22021-04b3-5587-aeab-b7019f0e8a6b
+MarkovGames,d061fddc-c47a-4172-865e-fdb23de1c5fa
 MarkovKernels,202a2b00-fae3-41a1-a054-d2db40c1e3ea
 MarkovModels,c2ae6250-d0a1-11ea-0991-234599ce5244
 Markovify,b1af39ce-6e51-5722-b548-1afc01310642
@@ -7983,6 +7986,7 @@ QOI,4b34888f-f399-49d4-9bb3-47ed5cae4e65
 QPALM,6c3e646c-629b-11e9-19d9-033f6272e8d4
 QPALM_jll,ffff4089-a68e-5e40-8b55-c7b9cd3999ca
 QPDAS,297e508c-b2a7-11e8-1524-5dccae6124f6
+QPGreen,8ff76263-3d2e-4b9c-88ff-2ca8b003e2a7
 QPSReader,10f199a5-22af-520b-b891-7ce84a7b1bd0
 QRCode,6cfbe66a-a49d-11e9-1842-750d329cfcbb
 QRCoders,f42e9828-16f3-11ed-2883-9126170b272d
@@ -8784,6 +8788,7 @@ SNOW,105f6ee8-0889-46b1-9d4b-65e03cbc8f13
 SOCRATESSingleColumnForcings,efca6b66-9b98-11ed-1a32-7b7cdccd517a
 SOFA,ad3d3fd0-b5f2-51ee-b274-8cdbe62317e2
 SOLAR_jll,9ace170a-bc31-55e8-8cff-70366ba5762e
+SOLPS2ctrl,a531d12f-ac8a-43e8-b6d9-bd121431dd49
 SOLPS2imas,09becab6-0636-4c23-a92a-2b3723265c31
 SOM,172a5912-0be3-5bce-b68a-ea4f60b69b05
 SP2000China,c1df9deb-2e6b-43bb-8257-0a25d59f3b2a
@@ -9094,6 +9099,7 @@ ShortFFTs,3a4051df-11c6-4922-af5a-d7072afac5a2
 ShortStrings,63221d1c-8677-4ff0-9126-0ff0817b4975
 ShowCases,605ecd9f-84a6-4c9e-81e2-4798472b76a3
 ShowGraphviz,14e20f5a-e304-4f94-b7d9-bca841234ddf
+ShowMethodTesting,aed2ae9c-e0a3-4a50-8068-bdeec279239a
 ShowSet,fa774e86-460a-546b-b195-92e8193e3324
 Showoff,992d4aef-0814-514b-bc4d-f2e9a6c4116f
 Shrike,e7e127b8-87f2-11eb-1459-934231b01f31
@@ -11173,6 +11179,7 @@ Zeros,bd1ec220-6eb4-527a-9b49-e79c3db6233b
 ZfpCompression,43441a71-1662-41c6-b8ea-40ed1525242b
 ZhuyinPinyin,38ead3be-40a5-4d68-aee6-2f69844d9ad8
 ZigZagBoomerang,36347407-b186-4a6a-8c98-4f4567861712
+ZilanyBruceCarney2014,83795400-82fe-439b-8fdc-4e65948642a8
 ZipArchives,49080126-0e18-4c2a-b176-c102e4b3760c
 ZipFile,a5390f91-8eb1-5f08-bee0-b1d1ffed6cea
 ZipFlow_jll,3f4651c6-dca0-5abf-a9ca-128c6c1e6eb6
