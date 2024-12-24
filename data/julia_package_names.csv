@@ -1450,6 +1450,7 @@ ChromeProfileFormat,b19f0eae-10f4-4ff0-9df2-b48cd85f6b2e
 Chron,68885b1f-77b5-52a7-b2e7-6a8014c56b98
 Chuffed,a105ee56-0da9-4c5a-a151-cc7e299d31db
 Chuffed_jll,77125aae-c893-5498-99e3-e30470bfa328
+ChunkCodecCore,0b6fb165-00bc-4d37-ab8b-79f91016dbe1
 ChunkSplitters,ae650224-84b6-46f8-82ea-d812ca08434e
 ChunkedArrays,8bab3169-4815-5aad-9f88-5df82062e999
 ChunkedBase,a380dd43-0ebf-4429-88d6-6f06ea920732
@@ -6779,6 +6780,7 @@ OPFLearn,426fd8f4-da10-4833-b320-d1e833f8a26f
 OPFSampler,ce3535a8-59a6-4c0a-83ac-3858a19dc5ad
 ORCA,47be7bcc-f1a6-5447-8b36-7eeeff7534fd
 ORC_jll,fb41591b-4dee-5dae-bf56-d83afd04fbc0
+ORToolsGenerated,6b269722-41d3-11ee-be56-0242ac120002
 ORTools_jll,717719f8-c30c-5086-8f3c-70cd6a1e3a46
 OSMMakie,76b6901f-8821-46bb-9129-841bc9cfe677
 OSMToolset,a1c25ae6-0f93-4b3a-bddf-c248cb99b9fa
@@ -8443,6 +8445,7 @@ Registrator,4418983a-e44d-11e8-3aec-9789530b3b3e
 RegistryCI,0c95cc5f-2f7e-43fe-82dd-79dbcba86b32
 RegistryCLI,41fcc7e7-1908-4925-8240-7eafabf08a75
 RegistryInstances,2792f1a3-b283-48e8-9a74-f99dce5104f3
+RegistryTimeTraveler,6e255fe7-ae48-41c3-9a63-27b032ae9e75
 RegistryTools,d1eb7eb1-105f-429d-abf5-b0f65cb9e2c4
 RegressionAndOtherStories,21324389-b050-441a-ba7b-9a837781bda0
 RegressionDiscontinuity,5f6169ef-b865-4e89-817c-551391b0abce
@@ -9108,6 +9111,7 @@ Shuffle,bf21e494-c40e-4daa-abfb-de5ec0aad010
 ShuffleProofs,31a120cc-b3cb-4d07-bbdb-d498660ddfd8
 ShunnHamQuadrature,164309f2-5039-4884-b6c7-6da8aa5c66ad
 SideKicks,ae7baef6-f8d7-4188-9988-8bf5c4952615
+SiennaPRASInterface,4b496c86-8d00-441d-b504-079c710e0aa7
 SigFigs,98c7d76d-7e09-410d-8095-648d0832f4ae
 SigMF,dc1af1da-aa00-46a0-b3ad-5cde4383c966
 SigmaProofs,f8559b4c-f045-44a2-8db2-503e40bb7416
@@ -10712,6 +10716,7 @@ VMEC_jll,71cc7b0d-25ae-54b3-b08b-36363cca7c2f
 VMLinuxBindings,3d5d7239-16b4-4651-96ed-9e800c796499
 VOLK_jll,13737630-5ab7-50a7-b423-42a4a7ec78b3
 VOTables,3abbdab7-df67-4801-8590-8effec53f469
+VP4Optim,8687cf0f-8f6d-4dd6-8e27-64e326ab5325
 VPTrees,6889b67b-453b-53df-8fa8-6efd51eae556
 VQC,f53c5859-8f70-4782-8aac-8d69ad6f55c5
 VSL,04294c92-b9b2-5258-861c-e23397c8ec5d
