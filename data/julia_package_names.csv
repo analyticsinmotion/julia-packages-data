@@ -4286,6 +4286,7 @@ HubbardAtoms,4f3da25b-ea28-4d4f-a81f-380d3f5e56a6
 HuggingFaceApi,3cc741c3-0c9d-4fbe-84fa-cdec264173de
 HuggingFaceDatasets,d94b9a45-fdf5-4270-b024-5cbb9ef7117d
 HuggingFaceHub,d0076355-e2c0-48e6-a044-05906e51b7fc
+HuggingFaceTokenizers,a6888d44-1185-43bb-bd0f-7806f9976d18
 Huginn,9cb796e9-d0ea-421b-b37d-eb97bc1add55
 Hugo_jll,c8420254-0ddf-5525-a2d3-3ad9242def7d
 HumanReadableSExpressions,dfa09964-7899-4f24-b5ee-10dc563fda7c
