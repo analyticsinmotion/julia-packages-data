@@ -5575,6 +5575,7 @@ MCMCDiagnosticTools,be115224-59cd-429b-ad48-344e309966f0
 MCMCDiagnostics,6e857e4b-079a-58c4-aeab-bc2670384359
 MCMCTempering,ce233488-44ea-4441-b732-192676ce2298
 MCMCTesting,9963b6a1-5d46-439c-8efc-3a487843c7fa
+MCP2221Driver,815728f3-0648-4f1d-b2bf-50ce5daff3a8
 MCPTrajectoryGameSolver,d93e73c3-c101-4c3f-b101-f812c3e47675
 MCParticles,24600035-b1cd-4d3f-b79a-9b7e18b664a2
 MCPhylo,af0ac7d2-842d-415f-bd76-8183c117c674
@@ -7376,6 +7377,7 @@ PeriodicGraphs,18c5b727-b240-4874-878a-f2e242435bab
 PeriodicHiddenMarkovModels,4873b48c-7fd1-4fb6-93c5-649b25bdde2e
 PeriodicKdV,0271e0de-59e8-44d5-83ce-0a41c44a9705
 PeriodicMatrices,dd9cd634-6083-4ae5-8f2e-b983833de2bb
+PeriodicMatrixEquations,52570b1b-55d0-4b45-8be2-52db9c79d90e
 PeriodicSchurDecompositions,e5aedecb-f6c0-4c91-b6ff-fbae4296f459
 PeriodicSystems,5decd0d0-8a5f-11ec-2edd-87b25cbcd17e
 PeriodicTable,7b2266bf-644c-5ea3-82d8-af4bbd25a884
@@ -8060,6 +8062,7 @@ QuadEig,c91c7b58-0d0b-4d20-b830-a38cac847d15
 QuadGG,c505f82d-ff9d-4c3e-8ff7-8eb8c484653e
 QuadGK,1fd47b50-473d-5c70-9696-f719f8f3bcdc
 QuadOsc,a9cf478a-2615-4838-ad15-fb8b30e5064d
+QuadPol,8fb4fc55-c324-4059-b5c4-a155b47617a4
 Quadmath,be4d8f0f-7fa4-5f49-b795-2f01399ab2dd
 QuadraticAberrationCorrector,9c54a951-505b-4f1b-abf9-646e3f50e8ce
 QuadraticAssignmentProblem,b5d43be9-2bc4-468f-88a1-8af1fa13b6e1
