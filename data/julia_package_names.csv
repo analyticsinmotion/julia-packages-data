@@ -1076,6 +1076,7 @@ BundleMethod,e8a6717a-069f-43d5-9ac2-a49b1ec5be7b
 BundledWebResources,56c11eb9-1257-4f49-abe4-0ac93e2bfd0a
 BundlerIO,654bb1e1-1cb7-4447-b770-09a16346af94
 BurrowsWheelerAligner,231d3afb-1936-45f0-8367-36f73a875095
+BusInjectionModel,20cea600-32a0-4edf-8dad-2de078d2a706
 BusinessDays,4f18b42c-503e-5345-9536-bb0f25fc7038
 BytePairEncoding,a4280ba5-8788-555a-8ca8-4a8c3d966a71
 Bytez,aeec0939-83cf-4f14-8c49-2dc7569399f2
@@ -1501,6 +1502,7 @@ ClassicalCiphers,ecf26e93-935c-5e64-9b21-bc8ac81b4723
 ClassicalOrthogonalPolynomials,b30e2e7b-c4ee-47da-9d5f-2c5c27239acd
 Claude,a00ee857-659a-4bd1-adc3-7f1f48b9fe16
 ClausenFunctions,1cc96f36-ef02-40ef-a648-5e2c13df3076
+Clay_jll,eef8b2eb-50cb-54da-ad81-a1e64fa68590
 CleanUpPullRequestPreviews,06c59129-2005-40e8-8e6e-18d91e04568a
 Cleaner,caabdcdb-0ab6-47cf-9f62-08858e44f38f
 ClearSky,5964c129-204c-4c32-bd6e-c8dff7ca179b
@@ -3280,6 +3282,7 @@ FlameGraphs,08572546-2f56-4bcf-ba4e-bab62c3a3f89
 Flamenco,98617a16-9322-42db-a24f-fe7c2280ec91
 FlangClassic_RTLib_jll,48abaad9-6585-5455-9ce3-84cd0709264b
 FlangClassic_jll,b3f849d4-7198-5f76-a9c5-8e4f35f75d39
+FlashAttentionWrapper,4822a80a-c2d5-4bbd-b1da-f89b711347c8
 FlashRank,22cc3f58-1757-4700-bb45-2032706e5a8d
 FlashWeave,2be3f83a-7913-5748-9f20-7d448995b934
 FlatBuffers,53afe959-3a16-52fa-a8da-cf864710bae9
@@ -9882,6 +9885,7 @@ SurfaceCoverage,75f4d65b-1b42-4905-9fb1-6d40607712e8
 SurfaceFluxes,49b00bb7-8bd4-4f2b-b78c-51cd0450215f
 SurfaceReactions,59f5dcf9-29de-47f3-bbe3-a47d1f19a124
 SurfaceTopology,1db0cb78-5717-11e9-0361-01e0964942ce
+SurfaceWaterIntegratedModeling,71e2a337-b4d4-4738-9f2b-3c37e1d3d462
 Surge,349ef902-387d-4643-bd1b-125067241d07
 Surprise,dadb0ed2-e56b-40a7-b017-200304ddb474
 SurrealDB,0dc7cda7-6a2c-4f49-b8ae-2ed91ee7b183
