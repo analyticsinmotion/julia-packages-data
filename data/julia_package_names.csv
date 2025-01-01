@@ -189,6 +189,7 @@ AdjustCRC,ff5396d8-130b-441a-8382-fec03de644a8
 AdmittanceModels,5eda1363-42a2-4d75-bc45-7e2a4a7b92b2
 AdobeGlyphList,715cd884-8f22-55db-b077-449d1f7eef73
 AdvRBMs,5c8d321f-d88f-4112-b4bc-67901fc2de0a
+AdvancedEncryptionStandard,ffb1ca98-47b0-4d1d-981f-3619cfc1f844
 AdvancedHMC,0bf59076-c3b1-5ca4-86bd-e02cd72cde3d
 AdvancedMH,5b7e9947-ddc0-4b3f-9b55-0d8042f74170
 AdvancedPS,576499cb-2369-40b2-a588-c64705576edc
@@ -7546,6 +7547,7 @@ PlantViz,358bd95d-d12c-439f-94b7-04b17e500c7f
 Plasma,d4286570-51d5-4bbe-9c0b-035637fe1a6e
 PlasmaEquilibriumToolkit,57ef8d28-8191-49ce-8cf8-17f9379aac88
 Plasmo,d3f7391f-f14a-50cc-bbe4-76a32d1bad3c
+PlasmoBenders,491f1417-53b2-48aa-b9da-44cdd6c031b7
 PlasmoData,18473d7d-a938-4be0-a189-2b040dfe6be7
 PlasmoDataPlots,edc0d1de-cbb6-43e5-80c3-282b59182d08
 PlasmoPlots,a21664a3-f668-4e98-8a13-7892286ec16a
@@ -9498,6 +9500,7 @@ SpectralInference,a959a40c-7f6b-448f-a4b7-059cce266d3c
 SpectralKit,5c252ae7-b5b6-46ab-a016-b0e3d78320b7
 SpectralResampling,01da207a-183e-480e-93ab-a94ea6491b8c
 SpectralStatistics,26aafa55-59f7-45ac-9841-9c476cd28090
+Speculator,ac92255e-d98e-45c4-b636-98964c1c8a8b
 SpeechAugment,85f1d090-a841-11eb-2200-31772235f1bd
 SpeechFeatures,6f3487c4-5ca2-4050-bfeb-2cf56df92307
 SpeedDate,2e38f7da-5467-4768-b2f8-11afcbc6cdb1
