@@ -1416,6 +1416,7 @@ ChebParticleMesh,1983ef0c-217d-4026-99b0-9163e7750d85
 ChebyshevApprox,17a596ad-87cd-578c-9b6d-01108c31dc04
 ChebyshevFiltering,1d56a567-eebb-4d79-96f4-589d6165ccdd
 ChebyshevTransforms,2752694e-a3a0-42bd-9f17-5f3242da1ce6
+CheckMate,94fda9bc-e29e-424a-aa2b-1addfed2164c
 Check_jll,491db154-c145-5abe-9c32-446728d60cce
 CheckedArithmetic,2c4a1fb8-30c1-4c71-8b84-dff8d59868ee
 CheckedArithmeticCore,740b204e-26e5-40b1-866a-9c367e60c4b6
@@ -9115,6 +9116,7 @@ Shoco_jll,70823c38-4688-527f-81c8-b284cebe458d
 ShortCodes,f62ebe17-55c5-4640-972f-b59c0dd11ccf
 ShortFFTs,3a4051df-11c6-4922-af5a-d7072afac5a2
 ShortStrings,63221d1c-8677-4ff0-9126-0ff0817b4975
+ShortcutClient,4e6207fc-2eac-4e87-a4c7-54305e430502
 ShowCases,605ecd9f-84a6-4c9e-81e2-4798472b76a3
 ShowGraphviz,14e20f5a-e304-4f94-b7d9-bca841234ddf
 ShowMethodTesting,aed2ae9c-e0a3-4a50-8068-bdeec279239a
