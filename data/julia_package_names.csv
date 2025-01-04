@@ -1794,6 +1794,7 @@ ConsistentKoopman,e2e491fc-7d8f-4591-840c-7964746acd08
 ConsoleCodes,56af3beb-dadf-49b6-97be-f243832a24ad
 ConsoleInput,35eb6272-8738-11e9-0051-6dceb7698eda
 ConsoleProgressMonitor,88cd18e8-d9cc-4ea6-8889-5259c0d15c8b
+Conspire,e166284d-f01f-4403-abd1-910b06ed061e
 ConstantArrays,ca278567-1944-4a35-ad5d-9f58fc68adb0
 ConstantRNGs,aa9b60e7-6b1c-4c29-a6e5-e43521412437
 ConstantTime,adc38e39-84cc-4087-89ab-f4eae76b2d15
@@ -3419,6 +3420,7 @@ FredApi,1f615318-737c-46ca-9fde-6231706b5dcc
 FredData,6e85b7ee-7d24-5488-b1b7-e4f4198c51ac
 FredMDQD,37d59902-f8b1-4525-bb82-82b728cb01b3
 Fredholm,1b4b468e-bff8-4dce-bfe5-35e47b6235aa
+FreeBird,b4936512-85e8-430f-a91d-7f510ed448a2
 FreeParameters,c2bd907f-6643-4f95-bba2-6fb2889bb36c
 FreeSurfer,cbb28e16-2113-4377-92c1-bba511c54513
 FreeType,b38be410-82b0-50bf-ab77-7b57e271db43
@@ -5254,6 +5256,7 @@ LevelDB_jll,e5add9ea-9f03-521a-be84-f8c1bde3cbe9
 LevelSetMethods,ca3df947-0575-4ae6-b9a3-78df393a7451
 Levenshtein,cb002d51-b850-5775-a4f8-1db47be676b8
 LevyArea,2d8b4e74-eb68-11e8-0fb9-d5eb67b50637
+Lexbor,7c3807c3-6380-4629-8731-66194421aa0a
 Lexicographic,f3857b5d-3a50-4050-98ae-54c465879683
 LiBr,2196b101-3ac0-4e12-b5a8-532424305d17
 LibAMVW_jll,3420f54a-cca3-5752-a4b4-c8f5453f04ac
