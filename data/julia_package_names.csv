@@ -5149,6 +5149,7 @@ LambdaFn,fcefd6c4-8de0-11e9-0d15-03bc7c8ec982
 LambdaMaker,8b137802-21d4-43b8-8610-b92ef2bbc330
 LambertW,984bce1d-4616-540c-a9ee-88d1112d94c9
 LandDataTools,d1413c6f-1a60-4f18-acd6-8d361c31e2f3
+LandSea,cbf7bb22-a1a6-46cb-8b24-174e3bc5fc04
 LandauDistribution,6012e1b8-0df6-47e7-96ae-5acef29e6d22
 LandsatExplorer,28909d84-766e-4dab-8e3e-91fd31d78b70
 Langevin,42433972-eea5-42bb-ab72-392315b4e8df
@@ -10148,6 +10149,7 @@ TensorNetworkAD,6b36f460-1d4e-5459-a8c4-3ab8f40f7d47
 TensorNetworkCodes,b317c587-d840-4e81-9857-9d906192e215
 TensorOperations,6aa20fa7-93e2-5fca-9bc0-fbd0db3c71a2
 TensorOperationsTBLIS,1e289f0c-8058-4c3e-8acf-f8ef036bd865
+TensorOperator,e9fcb3ac-1e93-4356-b836-ee815348c213
 TensorPACK,31531b1e-8b04-434d-b24f-20dc49cbf098
 TensorPolynomialBases,f77b161d-e03a-5d68-b365-d5306aabeaa6
 TensorQEC,0500ac79-7fb5-4262-aaea-37bb1845d1ef
@@ -10372,6 +10374,7 @@ TopoChains,61cb6e9c-cad8-11eb-0d06-599cf5a8288f
 TopoPlots,2bdbdf9c-dbd8-403f-947b-1a4e0dd41a7a
 TopologicalNumbers,82b459e2-751c-486c-8b84-4a85e9d7ad51
 TopologyPreprocessing,f84dc87b-1198-49da-97ab-02d881fe0800
+Toposes,36a15fe6-6211-457f-8fdb-aa2e0d2f3052
 Torch,6a2ea274-3061-11ea-0d63-ff850051a295
 TorchCAPI_jll,dc5d5603-8d5e-5430-85a9-2783500f9f77
 Torch_jll,c12fb04c-f5e9-5c82-b5d6-b53f8f8d9a32
