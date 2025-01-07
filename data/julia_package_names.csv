@@ -2488,6 +2488,7 @@ DocumenterInventoryWritingBackport,195adf08-069f-4855-af3e-8933a2cdae94
 DocumenterLaTeX,cd674d7a-5f81-5cf3-af33-235ef1834b99
 DocumenterMarkdown,997ab1e6-3595-5248-9280-8efb232c3433
 DocumenterMermaid,a078cd44-4d9c-4618-b545-3ab9d77f9177
+DocumenterQuarto,73f83fcb-c367-40db-89b6-8fd94701aaf2
 DocumenterTools,35a29f4d-8980-5a13-9543-d66fff28ecb8
 DocumenterVitepress,4710194d-e776-4893-9690-8d956a29c365
 Docx,cae6eaf6-1b4f-40a4-a2e0-a9a4c95b4cc3
@@ -5232,6 +5233,7 @@ LearningHorse,62371590-58c0-453a-97c0-b8b10383e1ee
 LearningSchedules,7e85a9e7-c65d-495e-8ec0-baa06f07ebbf
 LearningStrategies,4e8a8231-0ba9-591b-8620-81c6740d7791
 LearningToOptimize,e1d8bfa7-c465-446a-84b9-451470f6e76c
+LeastEffortBaseline,ed7a61b9-057e-49c1-98ca-3626ad8059a2
 LeastSquaresOptim,0fc2ff8b-aaa3-5acd-a817-1944a5e08891
 Lebedev,c5712dd9-2571-4e23-b661-b4a261421493
 Lectionary,6244d477-9cf0-4e07-8f6b-f8ee26bc0292
@@ -9780,6 +9782,7 @@ StreamCallbacks,c1b9e933-98a0-46fc-8ea7-3b58b195fb0a
 StreamCallbacksExt,318dcf79-f1de-4874-b31b-6e12fc76f75a
 StreamSampling,ff63dad9-3335-55d8-95ec-f8139d39e468
 StreamToString,dc918f9c-79cc-42e6-85f1-d8b9b09632f4
+Streamfall,09d4d480-e905-4803-959d-af438f1c2811
 StressTest,6e3341f8-3a0d-4582-a093-9d6e6d36caf8
 Stressify,8a229381-d7eb-4865-a507-cf9af2c5cd1e
 StrideArrays,d1fa6d79-ef01-42a6-86c9-f7c551f8593b
@@ -10349,6 +10352,7 @@ ToeplitzMatrices,c751599d-da0a-543b-9d20-d0a503d91d24
 ToggleMenus,6dfc96c8-e1b7-449c-9871-5de18f44e5a6
 ToggleableAsserts,07ecc579-1b30-493c-b961-3180daf6e3ae
 Tokei_jll,3ac119c9-1236-5556-b556-adc8150b0244
+TokenCompression,c6f261d0-14a8-4f75-8fa4-1d88e9d6eb58
 Tokenize,0796e94c-ce3b-5d07-9a54-7f471281c624
 Tomography,7b913008-954d-4a4c-99e7-286cce9c5096
 Tonari,91081016-e225-4157-90a8-4c5abf36a564
@@ -11687,6 +11691,7 @@ smesh_jll,e8c45408-479c-54df-ae5b-4501057d3a5a
 snappy_jll,fe1e1685-f7be-5f59-ac9f-4ca204017dfd
 soapysdr_jll,343a40d9-ed99-5d34-8b56-649aaa4ecee6
 sparseQFCA,077cf62c-ad2d-5edd-99ec-638372f8b004
+spdlog_jll,3d47416f-b330-5763-8b13-e9bf7bc8d726
 spectra_jll,ef34ea38-0a9e-523f-b228-55b6d5c13eb1
 spglib_jll,ac4a9f1e-bdb2-5204-990c-47c8b2f70d4e
 spla_jll,c0b6e1fa-1634-5519-836b-ea1958e971dd
