@@ -98,6 +98,7 @@ AbstractCosmologicalEmulators,c83c1981-e5c4-4837-9eb8-c9b1572acfc6
 AbstractDifferentiation,c29ec348-61ec-40c8-8164-b8c60e9d9f3d
 AbstractFBCModels,5a4f3dfa-1789-40f8-8221-69268c29937c
 AbstractFFTs,621f4979-c628-5d54-868e-fcf4e3e8185c
+AbstractFastHartleyTransforms,19a999c2-4b91-4a95-a5ef-9640c9e909f0
 AbstractGPs,99985d1d-32ba-4be9-9821-2ec096f28918
 AbstractGPsMakie,7834405d-1089-4985-bd30-732a30b92057
 AbstractImageReconstruction,a4b4fdbf-6459-4ec9-990d-77e1fa24a91b
@@ -3215,6 +3216,7 @@ FinEtoolsTetsFromTris,7dbda32b-b8f8-4b95-b50c-a09c52aba2c8
 FinEtoolsVibInFluids,bec31ec3-4858-4ad8-9f9e-aabdaa4a593b
 FinEtoolsVoxelMesher,508a6b02-8bde-11e9-1a67-e1104bdc04c9
 FinRua,354d5d7f-708f-4901-a0f3-d8f73932ec7d
+FinSetsForCAP,0a079e9b-4bc2-44fe-a89b-7607e4464786
 FinanceCore,b9b1ffdd-6612-4b69-8227-7663be06e089
 FinanceModels,77f2ae65-bdde-421f-ae9d-22f1af19dd76
 FinanceTools,85f8265a-5895-49c6-b0a4-da58897771f6
@@ -5897,6 +5899,7 @@ MathieuF,1d5ea620-0e37-47ee-af2a-0a7cf7ec3863
 MathieuFunctions,9663349c-1c87-11ea-291d-bd81f86a413c
 MathleticsFiles,105a4150-501d-4750-a750-eeda3b75fac2
 Matio_jll,f34749e5-bf11-50ef-9bf7-447477e32da8
+MatricesForHomalg,29b9b1b6-efa6-450e-8188-a5a2c25df071
 MatrixCompletion,ed8b4348-a40e-11e9-0eb8-b76d3f7c2c42
 MatrixCorrectionTools,41f81499-25de-46de-b591-c3cfc21e9eaf
 MatrixDepot,b51810bb-c9f3-55da-ae3c-350fc1fbce05
@@ -10785,6 +10788,7 @@ VectorAlignments,137e0234-31ad-43b7-8b27-b236525e28e1
 VectorBackedLists,64f724f3-1cac-477b-9517-c036ece31ef8
 VectorInterface,409d34a3-91d5-4945-b6ec-7529ddf182d8
 VectorModesolver,8c544392-5fd9-4640-bea4-e12b3d59d9d1
+VectorPSFs,8910f421-7bf2-4b64-9cf8-3e7fe6cfee70
 VectorPrisms,fca4bea3-143f-49fa-bca2-9809b242ef85
 VectorSpaceDarkMatter,93189044-1868-42be-8af9-6027680aca9b
 VectorSphericalHarmonics,4b2bd704-7189-418b-a6ce-5ef15384b069
