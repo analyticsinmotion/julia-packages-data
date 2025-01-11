@@ -999,6 +999,7 @@ Books,939d5c6b-51ae-42e7-97ca-7564d0d4ad91
 BoolExprs,00a27e70-1d62-540f-bcdc-a22b13a847b1
 BootlegCassette,7e930afe-c91a-4d40-8977-8548870aff83
 Bootstrap,e28b5b4c-05e8-5b66-bc03-6f0c0a0a06e0
+BorrowChecker,7bdcaa52-c310-4bb0-bf54-d941056ed284
 Boscia,36b166db-dac5-4d05-b36a-e6c4cef071c9
 BoseWormPIMC,bd945c55-3bff-4c7d-84e7-fefb69b5105e
 BosonSampling,4f11539d-f4e6-47f3-a15e-0809978c3ed1
@@ -3042,6 +3043,7 @@ FMM3D,1e13804c-f9b7-11ea-0ef0-29f3b1745df8
 FMM3D_jll,62c264cc-5bfb-59d7-84eb-c0e4dde7f66b
 FMMLIB2D,1a804d9e-d798-534b-a6a9-4525c36f0718
 FMUComplianceChecker_jll,0194ec6b-b63a-5ff6-8ef2-16ca86305613
+FNCFunctions,ab0dfefa-d313-416d-841c-e73335ae36c8
 FNVHash,5207ad80-27db-4d23-8732-fa0bd339ea89
 FORM_jll,f4eadb04-70c1-5b36-8221-785c072cda07
 FP16_jll,80cad256-a423-5ef2-ab87-13d34524053a
@@ -6116,6 +6118,7 @@ Mimi_NAS_pH,113fc11f-d823-43a8-a074-b997e93e8190
 MinAtar,a0b457aa-173f-450d-9d76-dd2c7c1da9bd
 MinCostFlows,62286e6e-1779-56f1-888a-1c0056788ce0
 MinFEM,bd0dc85c-d10e-11e8-1961-03914cacc29c
+MinFEMFlow,67bbc83b-0811-48cc-ac43-2a19a23bc93b
 MinHash,4b3c9753-2685-44e9-8a29-365b96c023ed
 Minc2,8e6f2f06-34e2-40fe-8437-e396464d2a7f
 Mineos,daba6828-70d2-4229-869c-b11708ab6c61
@@ -9779,6 +9782,7 @@ StrLiterals,68059f60-971f-57ff-a2d0-18e7de9ccc84
 StrRegex,2267b70d-4c4a-5da2-8395-98751c0d506a
 StrTables,9700d1a9-a7c8-5760-9816-a99fda30bb8f
 Strapping,3787371a-436b-4cb0-be6b-e772a55e3ebe
+StrassOPen,1971c852-c825-11ef-1d57-2185ebdca1d8
 Strategems,054b7d4e-9922-5ad3-8b46-7dbe695a681f
 StrategicGames,21c4ae29-9918-4bcb-9542-b100d366d64c
 StratiGraphics,135379e1-83be-5ae7-9e8e-29dade3dc6c7
