@@ -1678,6 +1678,7 @@ CommonWorldInvalidations,f70d9fcc-98c5-4d4a-abd7-e4cdeebd8ca8
 CommunicationsSequences,68fbbbde-83b1-4b8c-befa-f211bc8391f4
 CommunityDetection,d427f087-d71a-5a1b-ace0-b93392eea9ff
 CommutativeRings,a6d4fa9c-9e0b-4795-89f3-f481b7b5e384
+Comodo,59095408-2761-4f7a-bdc2-044e78630271
 Comonicon,863f3e99-da2a-4334-8734-de3dacbe5542
 ComoniconBuilder,0acea522-3a8c-4b93-9211-1fc67cbf95d9
 ComoniconGUI,04ab0f59-5120-4bbe-b8b6-b34cf3f2b56a
@@ -9531,6 +9532,7 @@ Spglib,f761d5c5-86db-4880-b97f-9680a7cccfb5
 SphereSurfaceHistogram,b3f7556e-2c1d-50f9-83b1-7c1b68b21cf8
 SphereUDE,d7416ba7-148a-4110-b27d-9087fcebab2d
 SpheriCart,5caf2b29-02d9-47a3-9434-5931c85ba645
+SphericalClusterMass,4e4236b1-b06d-4ded-9e3d-2d170138da79
 SphericalFourierBesselDecompositions,7c5eff59-6392-4db1-b2e3-7d0560cca202
 SphericalFunctions,af6d55de-b1f7-4743-b797-0829a72cf84e
 SphericalGeometry,b58e7a8d-b3e8-4a5d-bea9-e6440cab77fd
@@ -9737,6 +9739,7 @@ StippleLatex,8706c442-30ce-4f68-b407-b81ebf148be9
 StippleMakie,ca87011c-5f75-4091-8e42-d20fc4be912c
 StippleMarkdown,2b41e42f-53d3-436c-aed0-ebb7c31b58f1
 StippleMathjs,7fb1dcd0-db8f-4201-9509-3dea5d7792e9
+StipplePivotTable,adab0226-ee3c-44de-8f2f-393b1bf1e936
 StipplePlotly,ec984513-233d-481d-95b0-a3b58b97af2b
 StipplePlotlyExport,d3391a6e-3825-4561-b7f8-2cd130659cb1
 StippleTable,5bb4b094-0818-496d-ae94-fd777e10e8ba
@@ -11210,10 +11213,12 @@ ZMQ,c2297ded-f4af-51ae-bb23-16f91089e4e1
 ZOOclient,6c2355df-edca-54ec-9fef-f41e3964091e
 ZPares_jll,14754bdb-07d8-520b-81a9-9893a7942c3c
 ZXCalculus,3525faa3-032d-4235-a8d4-8c2939a218dd
+ZXCalculusForCAP,7f222522-6553-468a-9ae8-e55a72f59a4e
 Zabbix,bfb209d9-8743-5e3a-8711-bc78bba37304
 Zalgo,5b351978-c8a9-11e9-2467-a1bfb30aea0b
 Zarr,0a941bbe-ad1d-11e8-39d9-ab76183a1d99
 ZarrDatasets,519a4cdf-1362-424a-9ea1-b1d782dbb24b
+Zauner,ce1149fb-49fa-4541-ae6c-62019ae07d40
 Zellij_jll,f51964ae-9c2b-58f9-be08-f952495c30f4
 Zenith_jll,ab215d34-98c8-565c-96d8-6589c1ef91a8
 ZernikePolynomials,e462d300-c971-11e9-30f1-fb93b1f8f73a
