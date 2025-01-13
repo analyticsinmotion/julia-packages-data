@@ -1061,6 +1061,7 @@ BrowserMacros,0e713f60-a330-4a0f-8e30-02c28b77d9ad
 Bruno,2c64e276-ffac-4684-a264-d42a389bacb2
 Btop_jll,a14fdeb2-c00a-556b-ab4f-03d750735e9e
 BubbleBath,06490a66-c478-4593-a275-4b14021bccc5
+Buchi,484f28d2-1a9e-4e02-bb9b-910131567e8f
 BudgetConstraints,51aacf4b-43e8-45f9-b960-ce5126c2a956
 BufferedFiles,58049f72-ad03-4b9e-92cf-b241b4467e52
 BufferedStreams,e1450e63-4bb3-523b-b2a4-4ffa8c0fd77d
@@ -3104,6 +3105,7 @@ FastGraphletTransform,8757296b-2078-477d-a41d-7d2812277c39
 FastGroupBy,e6aeac8e-85c6-520e-8612-effc59bc0f33
 FastHadamardStructuredTransforms_jll,3b5334fc-ad2e-52bb-943a-614153fa1c0c
 FastHalton,05a64641-4d1a-5311-8c01-b9b6c96c7c05
+FastHartleyTransform,e0605d58-1a4b-427b-8ab9-d16fed775e83
 FastHistograms,06971c4e-2824-4b19-bcf3-55442efb9bc7
 FastIOBuffers,6ccb8d0d-f5f8-5ae0-a392-f5aa62729a81
 FastIsostasy,80efc11e-3694-4407-a4bf-24e5955cde3d
@@ -3957,6 +3959,7 @@ GradientBoosting,a108434f-6647-5a5d-ae94-d05b8175566d
 GradientMethods,5b99f244-f0f2-4726-ae95-e2da6d7785de
 GradientRobustMultiPhysics,0802c0ca-1768-4022-988c-6dd5f9588a11
 GrafCSV,070ba913-1d04-4147-8b30-d43c8af0fb3e
+Graficos,908a5197-780b-4ffb-a736-f299f747b567
 Granular,f5c4805d-b585-58fe-b08a-e9c59614aa64
 Graph500,1ba61846-84f7-5936-906d-801d78ac1a4a
 GraphBLASInterface,5f047416-9681-11e9-0804-033d9936201f
@@ -4522,6 +4525,7 @@ IncGammaBeta,5087d2c0-5ad2-51de-b1ef-eaf82f0743fd
 IncompleteLU,40713840-3770-5561-ab4c-a76e7d0d7895
 IncompressibleNavierStokes,5e318141-6589-402b-868d-77d7df8c442e
 IncrementalInference,904591bb-b899-562f-9e6f-b8df64c7d480
+IncrementalProgressBar,e78ae4d9-7c0a-4397-83ad-465eb5391708
 IncrementalPruning,82ee451e-1805-57fd-b4f9-e90c19bcb3e9
 IncrementalSVD,de227602-7e15-40a7-b166-bbaff82a52b8
 Indefinite,45c00fa2-1600-43ce-a2e6-f91e59655264
@@ -7459,6 +7463,7 @@ PhyloNetworks,33ad39ac-ed31-50eb-9b15-43d0656eaa72
 PhyloPickMe,0dfd6e21-1466-4d69-a740-ac598855cece
 PhyloPlots,c0d5b6db-e3fc-52bc-a87d-1d050989ed3b
 PhyloTools,b795de74-0e0b-491f-a34a-f5524d7c246d
+PhyloTraits,bce24f4f-6725-4ba4-a77f-2b043c8e33c5
 PhyloTrees,4c47b132-0681-5a5d-b498-3afcf53fd314
 PhylogeneticFactorAnalysis,88e69f3b-d3b7-48b0-a205-c3c72d2ca7ac
 Phylopic,c889285c-44aa-4473-b1e1-56f5d4e3ccf5
