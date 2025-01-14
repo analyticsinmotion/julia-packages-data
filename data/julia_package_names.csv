@@ -131,6 +131,7 @@ Absynth,198fb612-3ccb-11e9-3f7d-cd8c0d4e7bc8
 AccelInterfaces,0fc7c93f-c1ed-4c30-8474-1cec40f2ca52
 AcceleratedArrays,44e12807-9a19-5591-91cf-c1b4fb89ce64
 AcceleratedKernels,6a4ca0a5-0e36-4168-a932-d9be78d558f1
+AcceleratorSimUtils,8b14b3b2-39c5-4be4-bdc0-0b322e577224
 AccerionSensorAPI_jll,df519f1b-be81-5d76-8634-ded01372dc30
 AccessibleOptimization,d88a00a0-4a21-4fe4-a515-e2123c37b885
 Accessors,7d9f7c33-5ae7-4f3b-8dc6-eff91059b697
@@ -1420,6 +1421,7 @@ ChebParticleMesh,1983ef0c-217d-4026-99b0-9163e7750d85
 ChebyshevApprox,17a596ad-87cd-578c-9b6d-01108c31dc04
 ChebyshevFiltering,1d56a567-eebb-4d79-96f4-589d6165ccdd
 ChebyshevTransforms,2752694e-a3a0-42bd-9f17-5f3242da1ce6
+CheckConcreteStructs,73c92db5-9da6-4938-911a-6443a7e94a58
 CheckMate,94fda9bc-e29e-424a-aa2b-1addfed2164c
 Check_jll,491db154-c145-5abe-9c32-446728d60cce
 CheckedArithmetic,2c4a1fb8-30c1-4c71-8b84-dff8d59868ee
@@ -6708,6 +6710,7 @@ NonconvexUtils,c48e48a2-1f5e-44ff-8799-c8e168d11d1b
 NonhomotheticCES,19fc8792-2b89-4883-9e85-8362bf055f3f
 NonlinearEigenproblems,067cfa3b-fa88-53b2-a873-5b23b3a16e31
 NonlinearEquations,dcda4a48-b9f7-11e9-2d4a-7da573938c24
+NonlinearNormalForm,05e19671-dec8-4f15-984f-54eaa6ca64be
 NonlinearProblemLibrary,b7050fa9-e91f-4b37-bcee-a89a063da141
 NonlinearSchrodinger,b3fbeaf7-5746-403c-a6b7-06939dc82746
 NonlinearSolve,8913a72c-1f9b-4ce2-8d82-65094dcecaec
