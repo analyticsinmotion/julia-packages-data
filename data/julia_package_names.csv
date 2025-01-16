@@ -956,6 +956,7 @@ BlockSystems,4663d367-db1f-4bef-81e7-dc1bd7f7b428
 BlockTensorKit,5f87ffc2-9cf1-4a46-8172-465d160bd8cd
 BlockTriangularForm,adeb47b7-70bf-415a-bb24-c358563e873a
 BlockingMethod,d9bca9eb-1e72-4788-bb56-3426fa9acbbd
+BloodFlowTrixi,7b46d5ad-635f-4b66-9393-904f183e39b5
 BloomFilters,d3d7f49f-8593-5289-ba71-9c4f4848f489
 Bloqade,bd27d05e-4ce1-5e79-84dd-c5d7d508bbe1
 BloqadeCUDA,bd27d05e-4ce1-5e79-84dd-c5d7d508bbe3
@@ -5918,6 +5919,7 @@ MatrixEnsembles,c7015dd7-3fb7-4a4c-827e-526313618491
 MatrixEquations,99c1a7ee-ab34-5fd5-8076-27c950a045f4
 MatrixFactorizations,a3b82374-2e81-5b9e-98ce-41277c0e4c87
 MatrixFunctionDiff,5a80cb59-5c4a-4b04-8570-513e0deda534
+MatrixFuns,de0a5e7d-9ed9-4b51-b397-e23faa31cb8d
 MatrixImpute,86adb855-6620-4b42-899a-fdd8a58d2ebe
 MatrixLM,37290134-6146-11e9-0c71-a5c489be1f53
 MatrixLMnet,436227dc-6146-11e9-240b-9df6ee45b799
@@ -9834,6 +9836,7 @@ StructHelpers,4093c41a-2008-41fd-82b8-e3f9d02b504f
 StructIO,53d494c1-5632-5724-8f4c-31dff12d585f
 StructJuMP,34f15cae-5318-50c9-93d3-9feadd34e321
 StructMapping,7c3b921d-20d6-4eba-ad57-605525e86ab2
+StructPack,9297859c-0cb3-4368-9f60-4c60e5718164
 StructTypes,856f2bd8-1eba-4b0a-8007-ebc267875bd4
 StructUtils,ec057cc2-7a8d-4b58-b3b3-92acb9f63b42
 StructViews,7ec7c78e-fb05-449e-ad6d-89bad1428a9b
@@ -10974,6 +10977,7 @@ Wells,5231157d-7ae6-5dec-b9aa-3f65828037ac
 WenoNeverworld,dc645f23-3555-4f2f-8f6e-8cb879a663f8
 Westerfit,f202a280-4a11-4d8a-9d54-4c7a90dde5df
 Wflow,d48b7d99-76e7-47ae-b1d5-ff0c1cf9a818
+WhatsThePoint,5faae8f1-f507-432f-bd56-cf2f1161ab6f
 WhereAmI_jll,af20baa5-aa28-50c0-84ba-035a9da7272e
 WhereIsMyDocstring,aac05064-a116-4aba-9bed-53c9d53f4642
 WhereTheWaterFlows,ea906314-1493-4d22-a0af-f886a20c9fba
