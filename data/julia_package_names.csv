@@ -1804,6 +1804,7 @@ ConsoleCodes,56af3beb-dadf-49b6-97be-f243832a24ad
 ConsoleInput,35eb6272-8738-11e9-0051-6dceb7698eda
 ConsoleProgressMonitor,88cd18e8-d9cc-4ea6-8889-5259c0d15c8b
 Conspire,e166284d-f01f-4403-abd1-910b06ed061e
+Conspire_jll,ea96c060-9bc7-59d7-9cc7-60bd59623ed4
 ConstantArrays,ca278567-1944-4a35-ad5d-9f58fc68adb0
 ConstantRNGs,aa9b60e7-6b1c-4c29-a6e5-e43521412437
 ConstantTime,adc38e39-84cc-4087-89ab-f4eae76b2d15
@@ -9349,6 +9350,7 @@ Slugify,6a57dadc-0402-4d39-bf46-19b28e03609d
 SlurmAddAllocatedProcs,4b0af0f2-a3e4-42c8-afa2-c5af2ee86004
 SlurmClusterManager,c82cd089-7bf7-41d7-976b-6b5d413cbe0a
 SlurmWorkloadFileGenerator,da235a08-baf4-11e9-2387-6f19a530ddff
+SmallBodyGravity,66e334b4-30c1-4be0-8331-1eb48c315f23
 SmallCollections,2b935e18-93d6-40ac-ae34-fe54c09f00e1
 SmallCouplingDynamicCavity,1607259e-80f4-4675-b495-cb9c54bacb3f
 SmallDatasetMaker,7016d903-ac20-4882-9d97-75c232100024
@@ -9580,6 +9582,7 @@ Spinnaker,8e0d2ad3-56b8-53f3-8036-54b674872bef
 SpinnakerGUI,bc11bc94-475e-4eaf-ad55-de9f2e280376
 Spinners,28ab5b7a-bdcc-4f1e-a5de-638613dcf356
 Spirograph,35d10a26-80cc-4425-970d-fdc241525858
+SplineGrids,59c446ea-fb23-41e3-bcd2-697fa0a242d6
 Splines2,5a560754-308a-11ea-3701-ef72685e98d6
 SplitApplyCombine,03a91e81-4c3e-53e1-a0a4-9c0c8f19dd66
 SplitClusterTest,3179d415-6c90-44ae-a551-1cda3561f97d
