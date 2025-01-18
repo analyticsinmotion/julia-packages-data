@@ -627,6 +627,7 @@ BTCParser,27a35ec8-0f55-11e9-2fe5-1b2fd0e5b6fd
 BTrDB,80a4795a-bd22-11e9-2da3-91d46100624a
 BVHFiles,25714dd2-c69e-4994-8c66-7895118b2050
 BVLS_jll,b0bbf007-7f53-57f1-a715-818c96e98926
+BVPInterface_jll,c3e29f32-ab00-576f-ab3b-15208f91f29c
 BVProblemLibrary,ded0fc24-dfea-4565-b1d9-79c027d14d84
 BWA_jll,f8ebc3b1-10c5-56bc-9528-e517be8c92c9
 BZMeshes,d3690ab3-6367-44d6-ab08-b07ed981380e
@@ -2282,6 +2283,7 @@ Destruct,dde75ccc-4946-507f-85f2-ccadd28c929c
 DetectionTheory,21f26bdd-93a7-5c22-aaad-c68df1035b25
 Determinantal,2673d5e8-682c-11e9-2dfd-471b09c6c819
 DeterminantalPointProcesses,4d968f93-c0cd-4b7f-b189-b034d1a24a0e
+Determinism,1c432d04-d176-4d08-9035-b8e23c05df60
 DevEnvConfig,2baef489-5d3b-4196-bdcc-c190e0714a0d
 DevIL,01638602-6071-5c9b-be9d-28079212bf65
 DevOnly,35452654-8f94-4308-82a5-51b2c5d0ad66
@@ -3534,6 +3536,7 @@ GAP_pkg_normalizinterface_jll,74f4ad05-5f81-5a78-8197-4e83b84c9c17
 GAP_pkg_nq_jll,00bf61e5-c0f9-5a3f-ba8b-68a621695b53
 GAP_pkg_orb_jll,b689cd95-dcfd-544e-a174-ce2fd787c795
 GAP_pkg_profiling_jll,d3697a66-ac8c-5833-932f-cdd896efbdde
+GAP_pkg_semigroups_jll,6263fdc2-b0d3-58ac-9933-e1550bf6ed81
 GAP_pkg_simpcomp_jll,1c659ad8-f6e2-554d-814b-22ddd907b91c
 GAP_pkg_zeromqinterface_jll,abf7faeb-cafb-5034-8851-d0d251ebcfa3
 GARCH,4d2f22df-77d7-5622-8d7f-1db4ec2bcc3a
@@ -10366,6 +10369,7 @@ TinnitusReconstructor,998763c9-5807-4081-8b95-f32419d2af94
 TinyEKFGen,6bec017d-0eb5-4800-a30e-28dcf67ac06f
 TinyGibbs,69381cfd-d032-43bc-afd6-efe925dccc54
 TinyHugeNumbers,783c9a47-75a3-44ac-a16b-f1ab7b3acf04
+TinyMachines,5d0fdf5f-995e-4f1b-a9e8-363392c4fe32
 TinyModia,0169e107-af13-440d-89df-ca21e82123ce
 TinySegmenter,b1dd1ac2-3671-512a-91db-cff14b385d02
 TinyXML_jll,7dc7d583-5213-5900-9003-a99bbb4d6a76
