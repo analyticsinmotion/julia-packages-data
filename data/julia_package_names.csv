@@ -5814,6 +5814,7 @@ MakieDraw,8315f7d3-d5d2-4d16-bebe-3aa4ef51e4f8
 MakieExtra,54e234d5-9986-40d8-815f-a5e42de435f6
 MakieGallery,dbd62bd0-c9f5-5087-a2e1-f5c4bb0cec90
 MakieLayout,5a521ce4-ebb9-4793-b5b7-b334dfe8393c
+MakieMaestro,c922e6f1-a74a-406e-9215-09b2647b2648
 MakiePDF,e9a2b5d4-2139-42d9-ad42-ef6c084e8c4b
 MakiePublication,dde8697e-0d61-460d-88dd-856f66710dd1
 MakieRichText,9317242e-1230-4881-bcbc-8f9566308e0e
@@ -6208,6 +6209,7 @@ ModeCouplingTheory,6cad4188-63cb-4528-a10f-dbb409b456c6
 ModelBaseEcon,1d16192e-b65e-11ea-11ed-0789cee22d2f
 ModelBasedCF,e5e64596-b6ca-11e8-20a9-11eddeb55bda
 ModelConstructors,e47e5152-bd14-11e9-1b46-c951f0a7041d
+ModelContextProtocol,c58f755f-f2a7-4f48-bf29-4e9659b78499
 ModelMiner,93a108e7-a327-4478-9a72-b0f8ee6311f8
 ModelObjectTools,7833e302-2a28-4046-a4d6-a6c700649641
 ModelOrderReduction,207801d6-6cee-43a9-ad0c-f0c64933efa0
@@ -6841,6 +6843,7 @@ ObjectSystem,beb21ac1-5488-4e8e-a65a-eed5c6ff7e13
 ObjectiveC,e86c9b32-1129-44ac-8ea0-90d5bb39ded9
 ObjectivePaths,f54fc8bb-b7bf-4bdb-b2c8-0a06351fc134
 ObservableCortex,bfb82bb4-2e03-4c62-8cbb-f4e539ad28e8
+ObservablePlotExperiment,216e6a69-7265-646e-696e-656d6d65777a
 ObservablePmap,471f3579-fe7c-4d8d-9c38-de9ac94d91b4
 Observables,510215fc-4207-5dde-b226-833fc4488ee2
 ObservationDims,bd245535-7a0d-4808-be35-e2fe847ca032
@@ -8919,6 +8922,7 @@ SaguaroTraderResults,1186189a-80ad-45af-add8-08b461ccbf8f
 Sainsc,4c4340ea-7f9e-46b4-8512-61f1f6c41a11
 SalesForceBulkApi,de68a502-6b26-11e9-2c24-19af4cbda7e6
 Salsa,1fbf2c77-44e2-4d5d-8131-0fa618a5c278
+SampleArrays,740e20ac-97ea-4c00-b3fe-fb313cfcaca0
 SampleChains,754583d1-7fc4-4dab-93b5-5eaca5c9622e
 SampleChainsAbstractMCMC,e3df14af-082c-4778-8c88-0319331ee7b3
 SampleChainsDynamicHMC,6d9fd711-e8b2-4778-9c70-c1dfb499d4c4
@@ -10667,6 +10671,7 @@ Unfold,181c99d8-e21b-4ff3-b70b-c233eddec679
 UnfoldBIDS,b54e767b-1ebd-4480-ac2a-f5f4d8853074
 UnfoldCDL,dbccb84b-e307-4652-ba5b-383ef6e27386
 UnfoldMakie,69a5ce3b-64fb-4f22-ae69-36dd4416af2a
+UnfoldMixedModels,019ae9e0-8363-565c-86e5-97a5a2fe84f4
 UnfoldSim,ed8ae6d2-84d3-44c6-ab46-0baf21700804
 Unfolding,c5d2ca1b-4127-462e-b5fa-7f6e5ca16f83
 Unicode2LaTeX,a6a4b4a1-58ae-5f2f-bbf9-c7004aa6538b
@@ -11511,6 +11516,7 @@ libgeotiff_jll,06c338fa-64ff-565b-ac2f-249532af990e
 libgifextra_jll,d7c3d077-fdb7-5318-9663-3e6817e0e281
 libgraphicsmagic_jll,3e975b7b-ab84-5bf4-b4b6-586754a53ef6
 libgsd_jll,e4d6e05a-3816-5255-9332-8392038f2e0f
+libharu_jll,d4e8948d-4b7e-5538-9d15-404f6f0a9070
 libidn2_jll,e3d30ef0-22f3-5ccc-b703-2e063d8d1f30
 libidn_jll,f0f5855d-14eb-5155-b6cb-9f6c251f73bb
 libigc_jll,94295238-5935-5bd7-bb0f-b00942e9bdd5
