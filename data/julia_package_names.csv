@@ -131,6 +131,7 @@ Absynth,198fb612-3ccb-11e9-3f7d-cd8c0d4e7bc8
 AccelInterfaces,0fc7c93f-c1ed-4c30-8474-1cec40f2ca52
 AcceleratedArrays,44e12807-9a19-5591-91cf-c1b4fb89ce64
 AcceleratedKernels,6a4ca0a5-0e36-4168-a932-d9be78d558f1
+AcceleratorLattice,118f53b2-f4ec-480a-a460-1a04f660b17d
 AcceleratorSimUtils,8b14b3b2-39c5-4be4-bdc0-0b322e577224
 AccerionSensorAPI_jll,df519f1b-be81-5d76-8634-ded01372dc30
 AccessibleOptimization,d88a00a0-4a21-4fe4-a515-e2123c37b885
@@ -627,6 +628,7 @@ BTCParser,27a35ec8-0f55-11e9-2fe5-1b2fd0e5b6fd
 BTrDB,80a4795a-bd22-11e9-2da3-91d46100624a
 BVHFiles,25714dd2-c69e-4994-8c66-7895118b2050
 BVLS_jll,b0bbf007-7f53-57f1-a715-818c96e98926
+BVPInterface,349b9a96-74d8-4082-8332-dd34ffd0a01f
 BVPInterface_jll,c3e29f32-ab00-576f-ab3b-15208f91f29c
 BVProblemLibrary,ded0fc24-dfea-4565-b1d9-79c027d14d84
 BWA_jll,f8ebc3b1-10c5-56bc-9528-e517be8c92c9
@@ -3792,6 +3794,7 @@ GenomicVectors,96124ad7-5c0a-5c8f-8316-419835a3cefd
 GeoAcceleratedArrays,a1bd0a3b-d31e-42b9-ba04-538dc10eeccf
 GeoArrayOps,e6005643-8f00-58df-85c5-7d93a3520d70
 GeoArrays,2fb1d81b-e6a0-5fc5-82e6-8e06903437ab
+GeoArrow,5bc3a8d9-1bfb-4624-ba94-a391279174d6
 GeoArtifacts,2a3f1dca-97a5-4513-bfd8-b69f0106a87e
 GeoClustering,7472b188-6dde-460e-bd07-96c4bc049f7e
 GeoData,9b6fcbb8-86d6-11e9-1ce7-23a6bb139a78
