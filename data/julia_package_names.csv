@@ -2394,6 +2394,7 @@ DimensionalPlotRecipes,c619ae07-58cd-5f6d-b883-8f17bd6a98f9
 DimensionfulAngles,2d4b8d7a-02d9-40f9-9abe-9c695b77de0d
 Dimensionless,a24885ee-f44e-4313-a031-cb477fdea68a
 Dionysos,d92c97cf-b87d-42c1-a9c0-25df00b4d958
+DiracBilinears,ae7ec7fe-6a6e-422b-b650-b7e6d59ce0d8
 DiracNotation,e655511c-e992-5001-b8e2-2048e6aa15e9
 DirectConvolution,60a1edcd-6e1b-57a1-8cb7-ec83bf7a2d9a
 DirectDedispersion,a2b09c40-4565-4331-b8db-e5f4adc7e768
@@ -5122,6 +5123,7 @@ LLVMCompilerRT_jll,4e17d02c-6bf5-513e-be62-445f41c75a11
 LLVMDowngrader_jll,f52de702-fb25-5922-94ba-81dd59b07444
 LLVMExtra_jll,dad2f222-ce93-54a1-a47d-0025e8a3acab
 LLVMLibUnwind_jll,47c5dbc3-30ba-59ef-96a6-123e260183d9
+LLVMLibcxx_jll,899a7460-a157-599b-96c7-ccb58ef9beb5
 LLVMLoopInfo,8b046642-f1f6-4319-8d3c-209ddc03c586
 LLVMOpenMP_jll,1d63c593-3942-5779-bab2-d838dc0a180e
 LLVM_assert_jll,1a4ff6f1-5156-5f9a-8aa5-a2840611f610
@@ -8571,6 +8573,7 @@ Reproject,d1dcc2e6-806e-11e9-2897-3f99785db2ae
 RequiredInterfaces,97f35ef4-7bc5-4ec1-a41a-dcc69c7308c6
 RequiredKeywords,fa45d1ab-b616-567a-ad77-664fd15b62b2
 Requires,ae029012-a4dd-5104-9daa-d747884805df
+ResEE,539b6a15-2144-4f08-8574-27224deb4b81
 Resample,318ae45f-2437-4276-8d16-19df99ea8507
 ResearchSoftwareMetadata,58378933-4625-47fa-851e-05ee27d397bd
 ReservoirComputing,7c2d2b1e-3dd4-11ea-355a-8f6a8116e294
@@ -10427,6 +10430,7 @@ ToricAtiyahBott,72dfc14a-8332-4639-b9f3-8b017b604ecf
 TotalLeastSquares,028f657a-7ace-5159-a694-8cfd97933b0c
 TotalVariation,00d00faa-c8f6-542a-bba9-9987f051d897
 Tower,965ce0a6-fda6-11e9-2ec6-215e9e726cc7
+ToyPublicKeys,79566f03-f7ae-471c-a05f-4700599937bd
 TraceEstimators,e4811b68-74da-5b95-800f-4c79be0f9694
 TraceFuns,626f57eb-f6ca-464c-8f04-384fee2a352e
 TracedRandom,03576162-b2ff-4022-a931-e67b9900fd45
