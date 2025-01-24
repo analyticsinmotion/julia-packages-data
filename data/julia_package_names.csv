@@ -3470,6 +3470,7 @@ FuncPipelines,9ed96fbb-10b6-44d4-99a6-7e2a3dc8861b
 FuncTransforms,79abecb7-a74d-442d-bb0e-6136fbda6b73
 FunctionBarrier,4c0387fe-3044-4118-bcfd-2d5824909cc7
 FunctionChains,8e6b2b91-af83-483e-ba35-d00930e4cf9b
+FunctionFusion,d89a494f-3841-4324-82bc-a003799788bd
 FunctionIndices,43668171-7344-4272-8ca6-106380bd294d
 FunctionIntegrator,7685536e-2581-4f83-bef1-2ba363c9cb91
 FunctionOperators,98ce4118-165c-488a-9b71-2bb5aff4e594
@@ -9636,6 +9637,7 @@ StableSpectralElements,fb992021-99c7-4c2d-a14b-5e48ac4045b2
 StableTasks,91464d47-22a1-43fe-8b7f-2d57ee82463f
 StableTrees,9113e207-2504-4b06-8eee-d78e288bee65
 StackCollections,501fa84d-4592-420e-a352-d1184606d913
+StackEnvs,6dbe6948-1a74-428b-a0c7-b6033448b207
 StackOverflow,1a8df32f-26ad-40b8-8029-212bc012bd57
 StackPointers,062a3e2c-34b1-4659-9cae-7af421e0d832
 StackViews,cae243ae-269e-4f55-b966-ac2d0dc13c15
