@@ -3711,6 +3711,7 @@ GaussianProcesses,891a1506-143c-57d2-908e-e1f8e92e6de9
 GaussianRandomFields,e4b2fa32-6e09-5554-b718-106ed5adafe9
 GaussianRelations,8e80e5df-fef1-4887-b628-3eb47b49e5ff
 GaussianSimulation,e40f437e-72ad-4a71-a29e-78c1c8d897bb
+GaussianSplatting,991e6b22-92f0-46ac-8b70-8a93e7beee5d
 GaussianVariationalInference,f96f1e2a-1be0-483a-ac4e-37f33550e2cb
 GcodeParser,62e9c5db-4b94-4124-bf6e-8488b3d8d26b
 Gcvspl,0df96c42-4702-4aad-9d07-874ea0467d1e
@@ -7293,6 +7294,7 @@ Pango_jll,36c8627f-9965-5494-a995-c6b170f724f3
 Pangomm_jll,9c53b654-4175-57d2-a160-8980ed551c15
 ParGOGraphs,9c72e466-2585-4cd6-b2fc-9c3ab070dc04
 ParSpMatVec,ccf9b6e2-7ea7-596a-9d65-09863b18e8cc
+ParU_jll,9e0b026c-e8ce-559c-a2c4-6a3d5c955bc9
 ParXRec,ce505a99-8540-44bd-8e52-2947982c0c75
 ParaReal,d8ab9f86-dde6-11e9-3216-afd74457b932
 ParaViewCatalyst,0fa3a46a-29f8-4c04-a671-08df7e71e505
@@ -8157,6 +8159,7 @@ QuantumACES,57b1db7a-c9fc-4178-b66e-6b8364be52bb
 QuantumAlgebra,1b9008d5-2a9d-4901-8cfb-44bb87795b64
 QuantumAnnealing,4832667a-bab9-40a8-88f6-be9efce3ea89
 QuantumAnnealingAnalytics,f4de928d-7c93-4858-9dcf-40bc6948a1da
+QuantumCircuitDraw,9bc3fc32-c1cb-4aa8-b380-0758771d981f
 QuantumCircuitOpt,88128e30-b60a-4e54-ab02-1050a5f92a36
 QuantumCircuits,ad924a34-1f3f-4025-ae82-e16b6f8ddf61
 QuantumCitations,259add83-af3e-4603-9706-50e341d5574e
@@ -10071,6 +10074,7 @@ TOML,fa267f1f-6049-4f14-aa54-33bafae1ed76
 TOPCOM_jll,36f60fef-b880-50dc-9289-4aaecee93cc3
 TORA,a6da6c0f-f153-4ec6-bf42-6dc0ab733f84
 TPLib,df2c65bb-145d-4e43-9df5-5660864f8cb3
+TPSAInterface,575459ea-959c-4603-9b15-d63fb6693033
 TRExMC,4c1474f5-d57d-4103-b4cd-bd216d071502
 TSAnalysis,04d71284-fb40-11e9-15e5-dbbde6a47ab4
 TSFrames,9f90e835-9451-4aaa-bcb1-743a1b8d2f84
