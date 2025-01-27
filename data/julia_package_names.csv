@@ -3084,6 +3084,7 @@ Faddeyeva985,4e51ce9a-7ecb-4b33-a20a-6d9e1a01b2b3
 FairPortfolio,e1e19928-8d36-4c46-ac11-218c50463393
 Fairness,7c232609-d7a1-4356-98a6-13e736dd6dcd
 Faiss,97d83715-92a6-43f6-a1c3-b293f6dd920a
+Faiss_CUDA_jll,57154dfa-8ce1-53a2-a7ab-dcd9e58fb5bc
 Faker,0efc519c-db33-5916-ab87-703215c3906f
 Fakerjl,59bbcd92-9ea0-11ea-1f68-61ee4b7b554c
 Falcons,eba0fb4b-2daf-4740-90d2-e5655143e0a0
@@ -9651,6 +9652,7 @@ StagedFilters,c9c6d8d2-eaa5-11e8-3089-811798346984
 StaggeredGridCalculus,fead5d43-7759-5ac8-9dff-97135399d9eb
 Stan,682df890-35be-576f-97d0-3d8c8b33a550
 StanBase,d0ee94f6-a23d-54aa-bbe9-7f572d6da7f5
+StanBlocks,2e771a56-c23a-4e0b-9282-20c2e37157e9
 StanDataFrames,80e77ffc-c35e-544b-8e57-5accc6d0de25
 StanDiagnose,fb13fc95-9a72-5e81-90ef-432a29d7f4c2
 StanDump,9713c8f3-0168-54b5-986e-22c526958f39
