@@ -2099,6 +2099,7 @@ DactParser,11eeaae5-be1e-4218-983c-3d606d89215f
 DaemonMode,d749ddd5-2b29-4920-8305-6ff5a704e36e
 Dagger,d58978e5-989f-55fb-8d15-ea34adc7bf54
 DaggerGPU,68e73e28-2238-4d5a-bf97-e5d4aa3c4be2
+DaggerImageReconstruction,b99085f1-2f43-45a7-bd38-d511f4bff3b1
 DaggerWebDash,cfc5aa84-1a2a-41ab-b391-ede92ecae40c
 Dagitty,d56128e0-8113-48cd-82a0-fc808dc30d4b
 DailyMed,2084e9b3-e78b-4097-9d0a-08c6d7ecda99
@@ -3085,6 +3086,7 @@ FairPortfolio,e1e19928-8d36-4c46-ac11-218c50463393
 Fairness,7c232609-d7a1-4356-98a6-13e736dd6dcd
 Faiss,97d83715-92a6-43f6-a1c3-b293f6dd920a
 Faiss_CUDA_jll,57154dfa-8ce1-53a2-a7ab-dcd9e58fb5bc
+Faiss_jll,d7fe3460-1609-53b1-864c-4d331a5b7338
 Faker,0efc519c-db33-5916-ab87-703215c3906f
 Fakerjl,59bbcd92-9ea0-11ea-1f68-61ee4b7b554c
 Falcons,eba0fb4b-2daf-4740-90d2-e5655143e0a0
