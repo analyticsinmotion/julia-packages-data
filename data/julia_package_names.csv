@@ -2725,6 +2725,7 @@ Eirene,9c0f25c4-2ca1-5870-89f6-52640788da1d
 Ekztazy,c8b112a7-7677-4d35-8651-7c5b5cba290e
 ElasticArrays,fdbdab4c-e67f-52f5-8c3f-e7b388dad3d4
 ElasticFDA,f9e31aca-17d0-553a-a5f4-335c39cba33a
+ElasticFDSG,5b8de370-2f65-449b-a80a-5b10b09533c5
 ElasticPDMats,2904ab23-551e-5aed-883f-487f97af5226
 ElasticSearch,0d0b3e3c-8241-4271-8221-92a6a704d6fd
 ElasticSurfaceEmbedding,bcf6de08-7633-46ab-86e2-ee57f9a67390
@@ -7542,6 +7543,7 @@ Pinecone,ee90fdae-f7f0-4648-8b00-9c0307cf46d9
 Pingouin,61ac1d4c-5a1f-4019-949c-7919748f8c44
 Pinot,14b02da0-8be6-40d8-a4f8-a7d73caed26e
 Pio3d,276a7f50-ef14-5ff6-a3e3-20ef51d5e3d7
+Pioneer,585db54e-1982-41c9-ae07-9e9eb56c7d61
 Pioran,58cf54c2-5899-443a-99a6-60958a74ec4a
 Pipe,b98c9c47-44ae-5843-9183-064241ee97a0
 Pipebraces,25a62be5-bbe8-4619-a10f-9066af09d2c9
@@ -9994,6 +9996,7 @@ SwissVAMyKnife,fafdf525-54c7-48ec-ae29-528bd4cccfab
 SwitchOnSafety,ceb7f16a-07bf-5f4a-9354-b68f01b1610f
 Swizzles,60694085-d904-4bfc-95dc-1e0e768e9359
 SymArrays,c2b21f84-4a8e-4c96-99a2-2b79df568f75
+SymBoltz,64c5a815-d72d-4982-8b1f-85a778bbef4e
 SymDict,2da68c74-98d7-5633-99d6-8493888d7b1e
 SymDiff,d0f7bc7f-cd2f-4cc8-8336-d901b45b4b8e
 SymDoME,b4f4f0b4-37e5-4265-8ded-9d4e2df27f01
@@ -11264,6 +11267,7 @@ ZOOclient,6c2355df-edca-54ec-9fef-f41e3964091e
 ZPares_jll,14754bdb-07d8-520b-81a9-9893a7942c3c
 ZXCalculus,3525faa3-032d-4235-a8d4-8c2939a218dd
 ZXCalculusForCAP,7f222522-6553-468a-9ae8-e55a72f59a4e
+ZXing_CPP_jll,66b684e8-4fb7-5952-97a4-a506b1089b62
 Zabbix,bfb209d9-8743-5e3a-8711-bc78bba37304
 Zalgo,5b351978-c8a9-11e9-2467-a1bfb30aea0b
 Zarr,0a941bbe-ad1d-11e8-39d9-ab76183a1d99
@@ -11317,6 +11321,7 @@ at_spi2_atk_jll,de012916-1e3f-58c2-8f29-df3ef51d412d
 at_spi2_core_jll,0fc3237b-ac94-5853-b45c-d43d59a06200
 autoconf_jll,26eaf3d2-abfe-5ba7-8b46-5ee72475de40
 automake_jll,3f04dac9-704b-53bc-993e-1547579ac7a5
+autossh_jll,e17ba711-985e-5301-87b6-b2cc5f087c5c
 avr_binutils_jll,89a19a88-f0c6-5ede-9587-7a2c5ccf09c7
 avrdude_jll,0e386048-9400-53f3-9e91-0210ee04dc3b
 aws_c_auth_jll,2b3700d1-4306-52e2-a478-c162f0c514be
@@ -11678,6 +11683,7 @@ oneAPI_Support_Headers_jll,24f86df5-245d-5634-a4cc-32433d9800b3
 oneAPI_Support_jll,b049733a-a71d-5ed3-8eba-7d323ac00b36
 oneDNN_jll,3523a63d-8698-5b6f-b2c2-68eaa6bde0f0
 oneTBB_jll,1317d2d5-d96f-522e-a858-c73665f53c3e
+opam_jll,f036d964-b9b0-5a9b-a1cf-146c4878c1f8
 open62541_jll,de311183-6042-582f-9ed9-05a52085bec4
 openPMD,e4c73209-6c8c-4213-807b-38d671e094ab
 openPMD_api_jll,0cbd5639-4ed4-5caa-9af9-db1a1b49a12d
@@ -11714,6 +11720,7 @@ prrte_jll,eb928a42-fffd-568d-ab9c-3f5d54fc65b9
 psurface_jll,d6cb37aa-0f65-5fd6-8d86-c55d2c9ef130
 pugixml_jll,ef860afa-341e-548b-93de-15e6b165854a
 pybind11_jll,8a9a6109-fcbb-5819-8534-fa3eb9037080
+qpOASES_jll,f16e1b62-db32-537f-94d1-ea38eaaf9298
 qr_mumps_jll,e37b5aa0-c611-5f0f-83fb-aee446c0b77e
 quarto_jll,b7163347-bfae-5fd9-aba4-19f139889d78
 qwt_jll,ed0789fa-10db-50b3-94da-03266d70be0f
