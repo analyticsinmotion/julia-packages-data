@@ -5472,6 +5472,7 @@ LinearSolveCUDA,0d26bed2-170e-468a-8415-1cfcbba6e180
 LinearSolvePardiso,a6722589-28b8-4472-944e-bde9ee6da670
 LinearTimeVaryingModelsBase,5e7a79f3-ee03-5374-bd42-db9a52b6e959
 LinearTurboFold_jll,cd7c2323-e06e-549f-9837-4f85c0db7ff9
+Lingeling_jll,54ea7443-b7cf-5485-b0d0-86c7d7a308e1
 LinkCutTrees,9b2c3604-c02d-4033-9e75-a81d4d4fb586
 LinkedInAPI,b8105b00-6eed-423c-b4b1-db9a63bbfa9d
 LinkedLists,70f5e60a-1556-5f34-a19e-a48b3e4aaee9
@@ -5759,6 +5760,7 @@ MPISort,404a976e-21b5-45c7-95b2-5d74c9953ee0
 MPISphericalHarmonics,2527f7a4-0af4-4016-a944-036fbac19de9
 MPITestImages,67a05f95-e8e3-406b-b1ec-9f1919b23209
 MPItrampoline_jll,f1f71cc9-e9ae-5b93-9b94-4fe0e1ad3748
+MPSDynamics,8fc8f346-e1eb-498f-94db-02ffe92d8134
 MPSGE,d5dc2f44-7ae2-49e9-bc77-b47b6bca565d
 MPSKit,bb1c41ca-d63c-52ed-829e-0820dda26502
 MPSKitModels,ca635005-6f8c-4cd1-b51d-8491250ef2ab
@@ -9539,6 +9541,7 @@ SpatialIndexing,d4ead438-fe20-5cc5-a293-4fd39a41b74c
 SpatialJackknife,e2fa44a5-09d5-5fa2-a080-aa0766578c8a
 SpatialLightModulator,8496614f-bc0d-4828-b8a6-7044d7be1234
 SpatialOmicsGPs,e145bb07-96d9-421f-b0a2-c579a69b21bf
+SpatiallySymmetricTensors,267f34df-16a8-4a72-a26d-fb880b511394
 SpatioTemporalTraits,6a04ffb7-1155-443c-92eb-f1f26f00354c
 Spec,b8ccf107-3a88-5e0f-823b-b838c6a0f327
 SpecTools,6c322a0d-46e9-4575-a44b-1e5c7962c4aa
