@@ -1447,6 +1447,7 @@ ChemometricsTools,a9718f02-dbee-5ae5-ad0e-dfbd07fa387b
 CherenkovDeconvolution,7995dc16-b5cc-11e8-32a0-21341f07e0b5
 Chess,717200cc-f167-4fd3-b4bf-b5e480529844
 Chevie,367f69f0-ca63-11e8-2372-438b29340c1b
+Chevrons,d9083b8b-98e7-4ee6-a2c7-6db47b61bf48
 ChipSort,06416c39-db7e-5258-b068-33480f0cdbbc
 Chipmunk_jll,d4d167ca-650b-5bdd-911d-0fc9b8119a40
 ChirpSignal,f60141a0-4cd3-11eb-3573-695a6f1942a1
@@ -5151,6 +5152,7 @@ LRESolve,ee29a0df-cd28-4477-a8c7-b2df1281527b
 LRMoE,b6847444-3cfa-4637-857f-9c8c615f8351
 LRSLib,262c1cb6-76e2-5873-868b-19ece3183cc5
 LRUCache,8ac3fa9e-de4c-5943-b1dc-09c6b5f20637
+LSFClusterManager,af02cf76-cbe3-4eeb-96a8-af9391005858
 LSHFunctions,5134c85a-a9db-11e9-340f-8514dff59a31
 LSL,57c3d5b1-721f-43a0-b20c-e9152d812276
 LSODA,7f56f5a3-f504-529b-bc02-0b1fe5e64312
@@ -6746,6 +6748,7 @@ NonlinearSchrodinger,b3fbeaf7-5746-403c-a6b7-06939dc82746
 NonlinearSolve,8913a72c-1f9b-4ce2-8d82-65094dcecaec
 NonlinearSolveBase,be0214bd-f91f-a760-ac4e-3421ce2b2da0
 NonlinearSolveFirstOrder,5959db7a-ea39-4486-b5fe-2dd0bf03d60d
+NonlinearSolveHomotopyContinuation,2ac3b008-d579-4536-8c91-a1a5998c2f8b
 NonlinearSolveMINPACK,c100e077-885d-495a-a2ea-599e143bf69d
 NonlinearSolveQuasiNewton,9a2c21bd-3a47-402d-9113-8faf9a0ee114
 NonlinearSolveSpectralMethods,26075421-4e9a-44e1-8bd1-420ed7ad02b2
@@ -6781,6 +6784,7 @@ NuclearToolkit,89bb3bae-bcec-43ae-87b7-9dd181dc6334
 Nucleotide_Essentials,e3db82ae-3192-41ba-a352-7248a1c4d2ed
 Nuclides,cc9befaf-0110-443e-845a-60a17f3568dd
 Nuklear,8d0e9305-38f4-5c97-8ceb-e1429a1a2d0c
+NullBroadcasts,0d71be07-595a-4f89-9529-4065a4ab43a6
 Nullables,4d1e1d77-625e-5b40-9113-a560ec7a8ecd
 NumCME,1785c143-4357-4f1f-be49-5c4bc10f803a
 NumNN,10f4d809-13e9-4a6a-bcde-2b39165689aa
@@ -10630,6 +10634,7 @@ TypeDBClient,7ffdda62-db04-4838-9798-febd00f3125c
 TypeDomainNaturalNumberLists,7d526985-4c4e-42f3-8365-e6139167f00a
 TypeDomainNaturalNumberStrictlyBinaryTrees,f5023ec8-5a1e-4e68-9745-2bb2270cc447
 TypeDomainNaturalNumbers,06919feb-fec6-4e74-a260-ddb603bc7a1b
+TypeParameterAccessors,7e5a90cf-f82e-492e-a09b-e3e26432c138
 TypeParams,aef91bff-20f9-45ec-bc27-6bc16f693c59
 TypeParsers,6b5504e1-0c77-489f-ba22-2b282cee145f
 TypeSortedCollections,94a5cd58-49a0-5741-bd07-fa4f4be8babf
