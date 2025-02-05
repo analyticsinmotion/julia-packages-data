@@ -5958,6 +5958,7 @@ MatrixPencils,48965c70-4690-11ea-1f13-43a2532b2fa8
 MatrixPolynomials,bd52c179-449c-4965-a404-68b29a447f4b
 MatrixProductBP,3d39929c-b583-45fa-b331-3f50b693a38a
 MatrixProfile,24e37439-14ec-4097-bda3-6a65822e2305
+Matroids,f99c5f09-8689-4482-a891-4b988ec2fc3d
 Matte,b0b859e2-eb2e-45cd-bd98-8fc21bfdc9fa
 MatterEnv,9a24efd3-56f5-4b6c-a4cc-8c3068a60637
 MatterMost,cde0203f-520b-4e04-9aee-42e57d0f514e
@@ -8136,6 +8137,7 @@ QuadraticAberrationCorrector,9c54a951-505b-4f1b-abf9-646e3f50e8ce
 QuadraticAssignmentProblem,b5d43be9-2bc4-468f-88a1-8af1fa13b6e1
 QuadraticFormsMGHyp,6511778d-1a85-47c0-a398-81d74574b378
 QuadraticHamiltonians,3e6e0849-d9f8-4894-a942-ed0587079b8f
+QuadraticKalman,03de00d5-86b5-48ba-885c-e25084f99d9a
 QuadraticModels,f468eda6-eac5-11e8-05a5-ff9e497bcd19
 QuadraticModelsCPLEX,a53098ac-c15a-4696-bee0-14caaca04665
 QuadraticModelsGurobi,b0275aa7-013b-42ad-9e10-dc5d6db0accb
@@ -10273,6 +10275,7 @@ TestLandscapes,acebfb02-3096-4040-86f5-d41b0f19d497
 TestNoAllocations,4f9cea44-66d8-4d7b-9fef-fad96b0e1517
 TestParticle,953b605b-f162-4481-8f7f-a191c2bb40e3
 TestParticleMakie,815e1cc4-5742-45dc-845d-1cec70514f1a
+TestPicker,a64165b9-4409-4de6-85cd-a4e0953bae44
 TestReadme,484a2c26-6e88-4a69-ae62-8a3d6c887535
 TestReports,dcd651b4-b50a-5b6b-8f22-87e9f253a252
 TestSetExtensions,98d24dd4-01ad-11ea-1b02-c9a08f80db04
