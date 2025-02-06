@@ -2566,6 +2566,7 @@ DuckDB_jll,2cbbab25-fc8b-58cf-88d4-687a02676033
 Duff,3e2ffa6a-ba38-11e8-0a1c-7b69309e1c72
 DumbCompleter,b9d245dc-5d95-11e9-326a-bbd03ea8ebff
 Dummyvar,5d02951d-65b4-45d8-b6c0-f168f9df2c9e
+Dune_jll,b9b19344-8b3c-5124-8703-f18fdbc93bca
 DungAnalyse,4b12b552-3a4e-596f-96c3-8d21d15d5d04
 DungBase,bd6f3a87-2f53-57d0-9c4e-5625ef189a5e
 DustExtinction,fb44c06c-c62f-5397-83f5-69249e0a3c8e
@@ -6811,6 +6812,7 @@ OBOParse,afb48802-0cf5-5a61-b18d-a3da2e9c5fb6
 OCCT_jll,baad4e97-8daa-5946-aac2-2edac59d34e1
 OCReract,c9880795-194d-450c-832d-1e8a03a8ecd1
 OCaml_jll,c3abd6fe-9069-5508-9372-c239bf6209ff
+OCamlbuild_jll,9b3ddf5b-3949-5f18-95ec-6fd3dc1ea0dd
 ODBC,be6f12e9-ca4f-5eb2-a339-a4f995cc0291
 ODE,c030b06c-0b6d-57c2-b091-7029874bd033
 ODEConvergenceTester,42a5c2e1-f365-4540-8ca5-3684de3ecd95
