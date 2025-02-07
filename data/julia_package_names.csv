@@ -4235,6 +4235,7 @@ Help2man_jll,b065d96c-5f5a-5e02-95cc-818e6b3b761f
 HelpGPT,cd7fe561-ad00-49f8-bbfe-26490459673c
 HepMC3_jll,b85c3e40-22db-5268-bacb-02bd65cb4e01
 Hephaestus,88b3b2ed-56ea-4eac-b1de-e42ac45953c8
+Heptagon_jll,f39a6480-0c22-5bc5-b3a7-58be08593527
 Herb,c09c6b7f-4f63-49de-90d9-97a3563c0f4a
 HerbConstraints,1fa96474-3206-4513-b4fa-23913f296dfc
 HerbCore,2b23ba43-8213-43cb-b5ea-38c12b45bd45
@@ -5476,6 +5477,7 @@ LinearSolveCUDA,0d26bed2-170e-468a-8415-1cfcbba6e180
 LinearSolvePardiso,a6722589-28b8-4472-944e-bde9ee6da670
 LinearTimeVaryingModelsBase,5e7a79f3-ee03-5374-bd42-db9a52b6e959
 LinearTurboFold_jll,cd7c2323-e06e-549f-9837-4f85c0db7ff9
+Lingeling,24b7b615-05f5-4cb5-9c13-cd423f90764a
 Lingeling_jll,54ea7443-b7cf-5485-b0d0-86c7d7a308e1
 LinkCutTrees,9b2c3604-c02d-4033-9e75-a81d4d4fb586
 LinkedInAPI,b8105b00-6eed-423c-b4b1-db9a63bbfa9d
