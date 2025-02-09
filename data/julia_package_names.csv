@@ -5687,6 +5687,7 @@ MKL_Headers_jll,b2f2f022-7a59-54f4-945e-e9b78c3fd545
 MKL_jll,856f044c-d86e-5d09-b602-aeab76dc8ba7
 MLBStatsAPI,42ebdba7-407d-44c0-9113-87bc03bc22d1
 MLBase,f0e99cf1-93fa-52ec-9ecc-5026115318e0
+MLCore,c2834f40-e789-41da-a90e-33b280584a8c
 MLDataDevices,7e8f7934-dd98-4c1a-8fe8-92b47a384d40
 MLDataPattern,9920b226-0b2a-5f5f-9153-9aa70a013f8b
 MLDataUtils,cc2ba9b6-d476-5e6d-8eaf-a92d5412d41d
@@ -7675,6 +7676,7 @@ PlutoRESTClient,fe49e839-af43-4fee-8eb4-ecf92bc83904
 PlutoReport,ab5eb977-4f23-42a0-954d-2743fb6218c4
 PlutoSerialization,89dfed0f-77d6-439b-aaac-839db4b25fb8
 PlutoSliderServer,2fc8631c-6f24-4c5b-bca7-cbb509c42db4
+PlutoSplitter,26593b87-58e3-4a81-8553-1b48117f317a
 PlutoStaticHTML,359b1769-a58e-495b-9770-312e911026ad
 PlutoStyles,16e07271-a41c-4e3e-b73a-b807cf2ea0eb
 PlutoTables,e64c0356-fa58-4209-b01c-f6c8ed5474f5
@@ -9846,6 +9848,7 @@ StrRegex,2267b70d-4c4a-5da2-8395-98751c0d506a
 StrTables,9700d1a9-a7c8-5760-9816-a99fda30bb8f
 Strapping,3787371a-436b-4cb0-be6b-e772a55e3ebe
 StrassOPen,1971c852-c825-11ef-1d57-2185ebdca1d8
+StratIntervals,25535e0e-5971-408f-b193-ac148e584f39
 Strategems,054b7d4e-9922-5ad3-8b46-7dbe695a681f
 StrategicGames,21c4ae29-9918-4bcb-9542-b100d366d64c
 StratiGraphics,135379e1-83be-5ae7-9e8e-29dade3dc6c7
@@ -10137,6 +10140,7 @@ Tabulae,a03c184b-2b42-4641-ae65-f14a9f5424c6
 TabularDisplay,3eeacb1d-13c2-54cc-9b18-30c86af3cadb
 TabularMakie,a1206b2a-a832-4df1-8526-ead2f0882fc9
 TabularTDLearning,df77095f-98f0-51e5-a706-d0ff5a5ad33f
+TabulatedQuadratureRules,3da39775-d94e-428b-a709-24e9ab7fe27d
 Tachyons,3f90d43e-2ba6-5087-9e86-8e3765b17318
 TagPOMDPProblem,8a653263-a1cc-4cf9-849f-f530f6ffc800
 Taichi,6a7659b3-242e-4b14-83a6-15a101e52794
