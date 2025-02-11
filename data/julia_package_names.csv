@@ -1317,6 +1317,7 @@ CapacityExpansionData,2c92f082-f457-11e9-1715-ebb1b5fff37b
 Capnp,4a176cb5-e787-4417-92d8-5e07a66a639e
 Capstone_jll,0bfc08ce-5f35-58d0-8256-ec6a7315737c
 CaratheodoryFejerApprox,591793e0-8db6-4f40-aac6-a66fe5f65964
+CaratheodoryPruning,ab320bfc-8242-4797-bfc4-9370c33880e7
 CarboKitten,690c6d5c-626a-429f-a06b-981a1dae1c19
 Cares_jll,de7616f8-1794-5cde-83a7-2ebe299f2f48
 CarlemanLinearization,4803f6b2-022a-4c1b-a771-522a3413ec86
@@ -5269,6 +5270,7 @@ LeafletPluto,4fb38181-9637-4f8d-aea6-6fc02b78bbe7
 LeapSeconds,2f5f767c-a11e-5269-a972-637d4b97c32d
 LearnAPI,92ad9a40-7767-427a-9ee6-6e577f1266cb
 LearnBase,7f8f8fb0-2700-5f03-b4bd-41f8cfc144b6
+LearnTestAPI,3111ed91-c4f2-40e7-bb19-7f6c618409b8
 LearnVanishingIdeal,d5b806d3-2ca9-4def-9329-52b8f0583639
 LearningAlgebraicVarieties,99c59dee-8a25-45ad-b85d-0d599d702169
 LearningHorse,62371590-58c0-453a-97c0-b8b10383e1ee
@@ -5440,6 +5442,7 @@ LinLogQuantization,44354dd6-1ce2-4e80-a0fb-98a3a2b05088
 LinQuadOptInterface,f8899e07-120b-5979-ab1d-7b97bb9e1a48
 LinRegOutliers,6d4de0fb-32d9-4c65-aac1-cc9ed8b94b1a
 Lindenmayer,d9db2020-d13e-4bf8-b13e-b12a3214b5ef
+LindoAPI,5d56408f-8135-48b9-8e3b-17d984397714
 LineIntegralConvolution,954431ae-a746-4b0b-bf75-a8381ca95b21
 LineSearch,87fe0de2-c867-4266-b59a-2f0a94fc965b
 LineSearches,d3d80556-e9d4-5f37-9878-2ab0fcc64255
@@ -6845,6 +6848,7 @@ ONNX,d0dd6a25-fac6-55c0-abf7-829e0c774d20
 ONNXLowLevel,26bbae53-793e-4dc4-8f6d-18bb7d98adf6
 ONNXNaiveNASflux,2e935253-ba83-4645-9154-13ffeb13a688
 ONNXRunTime,e034b28e-924e-41b2-b98f-d2bbeb830c6a
+ONNXRuntime_CUDA_jll,a13615ec-4c6a-5020-9bdf-9d9993bbd1cf
 ONNXRuntime_jll,09e6dd1b-8208-5c7e-a336-6e9061773d0b
 ONNX_jll,4df3ec0b-c10b-5542-9400-16acb2a6b670
 ONSAS,7d8da659-23aa-453a-9a19-a3d1f6c795f5
@@ -7301,6 +7305,7 @@ PairAsPipe,38789a04-2ff8-46a2-8332-e7d8e8ce74aa
 PairPlots,43a3c2be-4208-490b-832a-a21dcd55d7da
 PairVelocities,3c991dec-9c56-4f58-9859-82b65299ade1
 PairedLinkedLists,7a42b37b-ed3b-477a-9848-3661f53bb718
+PairingHamiltonians,7c418f91-b4e2-4ebb-9133-e292c28f024b
 PairsMacros,a3ed533e-75b3-46cb-ad8a-82d33aefb744
 PairwiseListMatrices,f9da4da7-9382-5435-b973-175f5d8dfb32
 PairwiseMappingFormat,30ee2946-b067-41c0-bed2-0900b78dbe59
@@ -8123,6 +8128,7 @@ Qt5Svg_jll,3af4ccab-a251-578e-a514-ea85a0ba79ee
 Qt5Tools_jll,a9c6e4b1-b2fb-56d5-96a9-25f276f13840
 Qt65Compat_jll,f5784262-74e5-52be-b835-f3e8a3cf8710
 Qt6Base_jll,c0090381-4147-56d7-9ebc-da0b1113ec56
+Qt6Charts_jll,ce7a410b-7929-57f8-ae2b-7b8a3209b4c9
 Qt6Declarative_jll,629bc702-f1f5-5709-abd5-49b8460ea067
 Qt6Positioning_jll,3ab57c46-54b1-52cd-a3f5-dc477084d9ef
 Qt6ShaderTools_jll,ce943373-25bb-56aa-8eca-768745ed7b5a
@@ -11148,6 +11154,7 @@ XNumbers,4adfaa65-5b36-4fba-9909-626196083c27
 XPA,d310a076-6a08-52b6-ab78-79baa254182b
 XPA_jll,9dbca590-e19a-5566-89a8-3997bfd21c58
 XPORTA,8c143463-af6f-456f-8aed-72447cb569d2
+XPalm,6b523e1e-d512-416c-8e51-a8fbef0064e7
 XRT,4d396880-2e3f-4be1-8c36-e87777010d00
 XRootD,164e3b87-dc46-4cbc-97a6-5b310108fce0
 XRootD_cxxwrap_jll,bb14ce0c-f071-543a-8ca1-cd3dc3e29ed0
