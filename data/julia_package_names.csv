@@ -1006,6 +1006,7 @@ BoolExprs,00a27e70-1d62-540f-bcdc-a22b13a847b1
 BootlegCassette,7e930afe-c91a-4d40-8977-8548870aff83
 Bootstrap,e28b5b4c-05e8-5b66-bc03-6f0c0a0a06e0
 BorrowChecker,7bdcaa52-c310-4bb0-bf54-d941056ed284
+Borsh,e0ca245e-e2d4-4924-a0cc-c0f16c675cd2
 Boscia,36b166db-dac5-4d05-b36a-e6c4cef071c9
 BoseWormPIMC,bd945c55-3bff-4c7d-84e7-fefb69b5105e
 BosonSampling,4f11539d-f4e6-47f3-a15e-0809978c3ed1
@@ -1988,6 +1989,7 @@ CubedSphere,7445602f-e544-4518-8976-18f8e8ae6cdb
 CubicEoSDatabase,8742253c-1987-415f-b31d-1ec9670d9ed7
 CubicHermiteSpline,2338ea46-7d83-48cf-b44e-cf8e0b5b9cc1
 CubicSplines,9c784101-8907-5a6d-9be6-98f00873c89b
+CudaNTTs,355ed90f-8f14-42c1-a87f-2eca0abd88af
 CudaRBMs,4e7460e3-fd1b-4f88-90fa-49c1b80b3e77
 Cumulants,01e79fc4-f247-5fa3-af0e-2bd1d4cc767f
 CumulantsFeatures,89efba0d-c40c-5510-8345-5c0ed49e5930
@@ -5448,6 +5450,7 @@ LineSearch,87fe0de2-c867-4266-b59a-2f0a94fc965b
 LineSearches,d3d80556-e9d4-5f37-9878-2ab0fcc64255
 LineageCollapse,e38bdfdf-80f5-4f0c-93e0-53dd02ee37b8
 LinearAdjoints,3201237a-9847-11e9-0d2a-6d530c977506
+LinearAlgebraForCAP,3dc4824f-14ac-4ab7-8a60-75dbcd4a9d60
 LinearAlgebraX,9b3f67b0-2d00-526e-9884-9e4938f8fb88
 LinearAlgebraicRepresentation,95167b0c-186a-594b-a231-52369c6de044
 LinearAssignment,e04a135d-938e-4d6d-a2bd-80fee3964557
@@ -6022,6 +6025,7 @@ Mehrotra,ff64e54f-29a3-40c0-a3ca-0c9552343258
 Mellan,9395f11c-09ed-45be-886c-23f223b99ebb
 MemPool,f9f48841-c794-520a-933b-121f7ba6ed94
 MemberFunctions,08b01624-6c0b-11e9-1b9f-6d80c967c393
+MembraneAleFem,86937fba-f358-4be5-9204-485a094d220d
 MembraneAnalysis,860fb56a-4bc2-4ee4-bb83-0a542106da62
 MembraneBase,a9449b16-1c3f-48ab-aa2c-0b9c6d97beee
 MembraneEOS,11a4bec2-2c27-4554-8fe6-a2de72ffe064
@@ -8279,6 +8283,7 @@ Qutilities,144146ce-868b-5e43-9e5b-0e94f26a569f
 Qwind,988db7c6-b368-4d8d-9ee1-ae26d5771fb3
 R2R_jll,1e27f72a-4876-5c10-8678-3341fdb8ba55
 RAFF,4aa82a78-ed18-41f9-aee6-9d73ba3a0b42
+RAGTools,16ddad29-bbe8-45a7-857d-3d9514eb0023
 RAI,9c30249a-7e08-11ec-0e99-a323e937e79f
 RAPIDS,2764e59e-7dd7-4b2d-a28d-ce06411bac13
 RAxML_jll,c041c47d-3145-556a-bf4b-99e7014d775b
@@ -8334,6 +8339,7 @@ ROCmOpenCLRuntime_jll,10ae2a08-2eea-53f8-8c20-eec175020e9f
 ROMEO,1ea8258b-a15d-4adb-ad20-01632f467a84
 ROOT,1706fdcc-8426-44f1-a283-5be479e9517c
 ROS,a492bfac-16cc-4d50-a8b6-f03352b6b563
+ROS2,493365b4-7e18-460b-8b90-ec3e7f80d3eb
 RPCholesky,72641a9e-0ae7-4379-851f-e6d22edf0786
 RPRMakie,22d9f318-5e34-4b44-b769-6e3734a732a6
 RPkg,5d58af2d-7d6a-4ad4-9195-74ef913580e2
