@@ -2486,6 +2486,7 @@ Ditherings,18716f60-6c0e-11e9-0a37-e9870d4a7c8f
 Divergences,7f07e4c8-6df2-5971-ad44-bf349b9adcfd
 Diversity,d3d5718d-52de-57ab-b67a-eca7fd6175a4
 DividedDifferences,ca54fc82-bf42-49fd-94f8-048f44d9e20a
+DividedRectangles,8f25b07e-6077-4668-9c5e-9c6bcc4ef962
 DoNOF,c2cb89bc-8ac9-4fc1-90b0-361a3529c1c9
 DobotMagician,eb17b914-a2e5-45e7-813f-e6fb2969af31
 DocExtensions,cbdad009-89f1-4e05-85a0-06b07b50707d
@@ -3220,6 +3221,7 @@ FigCLIGen,bc9c4d6b-10c7-430a-9b0c-cd343efcf359
 Figgy,937e9308-674a-48ca-a404-047094c8c902
 Figures,fb03b324-f2a4-578c-aba7-71fab90f4c9b
 FileCmp,343a5541-a696-4ae7-8102-bc61c09e1896
+FileExplorer,edaeb83b-eb46-4343-a784-f8799e8c45af
 FileIO,5789e2e9-d7fb-5bc7-8068-2c6fae9b9549
 FileJockey,bc1231ea-70fa-4965-b0b3-6932f742a22e
 FilePaths,8fc22ac5-c921-52a6-82fd-178b2807b824
@@ -5924,6 +5926,7 @@ Matcha,8d673c98-5a32-5a15-b616-7dad274ffdd7
 MaterialDecomposition,c27b174a-794e-4afe-9da0-66d3b10781c5
 MaterialPointGenerator,18deba1c-5063-41ee-a388-01f264c5a914
 MaterialPointSolver,dc4aa359-7d89-437d-91bb-f4b330c522c1
+MaterialPointVisualizer,9ce2fbfb-c269-402f-8683-a675189e795c
 MaterialReconstruction,03cb9323-3c4b-4e23-a84c-921ade87b3a3
 Materials,35fa313e-aa48-52ea-bc82-ddb91c7db87b
 MathGL_jll,6834ddeb-87f2-5bbb-bfa4-c37572f854d4
@@ -8914,6 +8917,7 @@ SPICEKernels,8e9d28ce-e483-4ef7-bfd9-45b8fef6369c
 SPIRVIntrinsics,71d1d633-e7e8-4a92-83a1-de8814b09ba8
 SPIRV_Cross_jll,b5475fc2-85c9-5de8-8430-71c9b732ec36
 SPIRV_Headers_jll,50296a37-19d4-5487-a1d5-621c23d0d175
+SPIRV_LLVM_Backend_jll,4376b9bf-cff8-51b6-bb48-39421dff0d0c
 SPIRV_LLVM_Translator_jll,4a5d46fc-d8cf-5151-a261-86b458210efb
 SPIRV_LLVM_Translator_unified_jll,85f0d8ed-5b39-5caa-b1ae-7472de402361
 SPIRV_Tools_jll,6ac6d60f-d740-5983-97d7-a4482c0689f4
