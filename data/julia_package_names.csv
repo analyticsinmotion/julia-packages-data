@@ -690,6 +690,7 @@ BasicMD,f448d96e-cc9b-4179-976a-6795f3ef2db6
 BasicModelInterface,59605e27-edc0-445a-b93d-c09a3a50b330
 BasicPOMCP,d721219e-3fc6-5570-a8ef-e5402f47c49e
 BasicTextRender,c69498db-0706-4865-8aa9-71281a0ffe91
+BasicTreePlots,523fa316-3eda-45c7-ad2f-0d13a1dc3d77
 Basinhopping,9e7568c4-705a-47cd-b25f-0976344ae296
 Basins,7e5b28ef-eee2-49be-86fd-c343c6921134
 BasisFunctionExpansions,07f847a3-b39a-5451-bea0-0f0f0688aa14
@@ -1570,6 +1571,7 @@ ClipData,39db22c5-8506-4ef9-b8dc-9d8ef5f2b71d
 Clipper,c8f6d549-b3ab-5508-a0d1-48fe138e8cc1
 Clipper2_jll,6a795559-3f7e-5382-b5a1-7e858e3d15a4
 Clipper_jll,1721f0f4-5627-55cb-8b31-c466f04189fe
+CliqueTrees,60701a23-6482-424a-84db-faee86b9b1f8
 Cliquing,570927c9-3032-54d7-b655-f6b1c77412c2
 Clockwork,5f19fa64-e0b3-455f-937a-ba40af0c08d8
 CloseOpenIntervals,fb6a15b2-703c-40df-9091-08a04967cfa9
@@ -3472,6 +3474,7 @@ FresnelIntegrals,88497964-e39a-11e9-0fb5-b1bf0ffe80fe
 FresnelOptics,b4af267d-4eba-4511-994c-824ea3f473a1
 Fretboards,ccff39cb-adf9-4117-873b-a3f804b23ebe
 FreudenthalTriangulations,ea2b2c30-cea2-479b-adc8-fbe18a3c201b
+FreydCategoriesForCAP,cec356e3-7627-4f73-8308-af32cbf46c2b
 Fri,46a35dea-4a1c-47d3-b78b-20459e72ba5a
 FriBidi_jll,559328eb-81f9-559d-9380-de523a88c83c
 FromDigits,a6d61093-4b9a-4edd-a5a7-589135744240
@@ -3572,6 +3575,7 @@ GCMAES,4aa9d100-eb0f-11e8-15f1-25748831eb3b
 GCP,5a343a44-5b48-11e9-39be-f77f9e6fd977
 GCPDecompositions,f59fb95b-1bc8-443b-b347-5e445a549f37
 GCTAccess,1826ff36-e735-464f-baa4-30cb618cd5cb
+GCUtils,25d72b2e-e87f-11ef-9f1d-00155d5ae889
 GDAL,add2ef01-049f-52c4-9ee2-e494f65e021a
 GDAL_jll,a7073274-a066-55f0-b90d-d619367d196c
 GDB_jll,a8b33d9f-0f8b-5197-9986-f85cbaa50c6c
@@ -6300,6 +6304,7 @@ MoireSuperlattices,e394c99e-e854-4268-9140-34fa518dd490
 MoistAir,6964bd62-30e7-41c5-9f4a-5b4eb733a2a8
 MoistThermodynamics,0460cc1c-04d8-4f02-b57d-511136c80085
 MolSimToolkit,054db54f-6694-444d-9bbb-e9ecdbfe77be
+MolSimToolkitShared,aea21201-7910-416e-b888-414710bebccb
 MolecularBoxes,aea3f91d-3b18-5712-a377-5bd7ed4ed15b
 MolecularDynamicsFiles,fdf1312e-3664-4954-b7ca-858ba92ca8e2
 MolecularDynamicsIntegrators,293f545e-9dd2-11e9-1210-cf5bcdc9c322
