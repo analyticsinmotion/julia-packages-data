@@ -252,6 +252,7 @@ AlgebraicPetri,4f99eebe-17bf-4e98-b6a1-2c4f205a959b
 AlgebraicRL,c16e2c52-81b3-496d-9adf-f7ef61ccdb53
 AlgebraicRelations,1c3ea84b-a956-4dfe-a2f4-485757f48f1d
 AlgebraicRewriting,725a01d3-f174-5bbd-84e1-b9417bad95d9
+AlgebraicSolvers,36cc366f-6373-477c-92c8-0345b2862178
 AlgebraicSolving,66b61cbe-0446-4d5d-9090-1ff510639f9d
 Algencan,016819b2-f4c4-559b-a82b-d92a82b855ff
 Algoim,0eb9048c-21de-4c7a-bfac-056de1940b74
@@ -1139,6 +1140,7 @@ CHMMera,4c20a592-b4de-41d1-8706-b02f346981aa
 CHiPPS_BLIS_jll,33c101cd-e3cd-5787-bb96-d137b8b1ecc4
 CHomP,388fe821-2770-44f1-8af1-e3d616332038
 CIAOAlgorithms,44c1da8e-ad92-11ea-0c62-8351ccf0aad4
+CICOBase,33444335-3134-4342-4659-594331344435
 CIFTI,8026ff91-9e86-4f19-bd27-c139e9e8bf7a
 CIMOptimizer,f763a312-2f8b-4ea4-ad8b-371148ce3a7b
 CITIfile,8180ae47-4b51-4962-8ae8-0afeafccbbdb
@@ -3640,6 +3642,7 @@ GPUArrays,0c68f7d7-f131-5f86-a1c3-88cf8149b2d7
 GPUArraysCore,46192b85-c4d5-4398-a991-12ede77f4527
 GPUCompiler,61eb1bfa-7361-4325-ad38-22787b887f55
 GPUInspector,608d808f-ff79-47b0-a25d-21f2c9b42853
+GPUToolbox,096a3bc2-3ced-46d0-87f4-dd12716f4bfc
 GPUifyLoops,ba82f77b-6841-5d2e-bd9f-4daf811aec27
 GPnet,1e25b1b3-a3a0-53b8-8729-934c9d7c4cc0
 GR,28b8d3ca-fb5f-59d9-8090-bfdbd6d07a71
@@ -4704,6 +4707,7 @@ IntervalUnions,915bef70-1f19-473c-b914-2219c7449817
 IntervalWavelets,0605f816-0bd7-11ea-1bbe-fb0a4d530a66
 Intervals,d8418881-c3e1-53bb-8760-2df7ec849ed5
 Inti,fb74042b-437e-4c5b-88cf-d4e2beb394d5
+IntrinsicTimescales,10d2f5c9-08bb-4a99-a156-10b2ac3b4091
 IntrusiveCollections,fe54b08b-4815-4b70-8b1a-a3021f4307e7
 InvariantCausal,de0b34ba-74bd-4023-98f7-dda430e1ad06
 InvariantCausalPrediction,5fe40f08-422b-4ec7-90aa-ba60e31ac74e
@@ -7557,6 +7561,7 @@ PicoSAT,ff2beb65-d7cd-5ff1-a187-74671133a339
 PicoSAT_jll,e78fa76d-a187-569f-aede-ad11521a2edf
 Picotool,5ec5d1c9-c394-4ef5-850c-f245e78f4765
 Pidfile,fa939f87-e72e-5be4-a000-7fc836dbe307
+Piecewise,f03ddd90-437e-4cf2-8f6c-e62f92609b90
 PiecewiseAffineApprox,029c5f1c-0dc4-4551-8b87-a10b73fe3713
 PiecewiseDeterministicMarkovProcesses,86206cdf-4603-54e0-bd58-22a2dcbf57aa
 PiecewiseIncreasingRanges,efdf428f-f294-58b6-a961-90c8051bff4c
