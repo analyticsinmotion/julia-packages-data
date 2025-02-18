@@ -5283,6 +5283,7 @@ LeafletPluto,4fb38181-9637-4f8d-aea6-6fc02b78bbe7
 LeapSeconds,2f5f767c-a11e-5269-a972-637d4b97c32d
 LearnAPI,92ad9a40-7767-427a-9ee6-6e577f1266cb
 LearnBase,7f8f8fb0-2700-5f03-b4bd-41f8cfc144b6
+LearnDataFrontEnds,5cca22a3-9356-470e-ba1b-8268d0135a4b
 LearnTestAPI,3111ed91-c4f2-40e7-bb19-7f6c618409b8
 LearnVanishingIdeal,d5b806d3-2ca9-4def-9329-52b8f0583639
 LearningAlgebraicVarieties,99c59dee-8a25-45ad-b85d-0d599d702169
@@ -6303,6 +6304,7 @@ ModuleInfo,3c3ff5e7-c68c-4a09-80d1-9526a1e9878a
 ModuleInterfaceTools,5cb8414e-7aab-5a03-a681-351269c074bf
 ModuleLogging,247fc82d-8a48-4c99-91f9-777a8789624c
 ModuleMixins,2b5f0a26-aae2-5c4c-af55-bc6d20297121
+ModulePresentationsForCAP,80a941df-def7-4d99-bd07-d3a3a468fbfc
 Modulo2,7e4462cd-8001-4c22-b109-db8e4e581e9c
 MofonBase,f86311af-d4d5-4877-8d32-564a46a659f1
 MoireSuperlattices,e394c99e-e854-4268-9140-34fa518dd490
@@ -11756,6 +11758,7 @@ peco_jll,b89f85f3-45f8-5ea8-8223-9dfa39faf294
 picotool_jll,266ab589-d57d-568d-907f-a1cb33b240d5
 pigpiod_if2_jll,50515f5d-e8ff-5b26-ab2b-0473a017b18c
 pigz_jll,1bc43ea1-30af-5bc8-a9d4-c018457e6e3e
+pixi_jll,4d7b5844-a134-5dcd-ac86-c8f19cd51bed
 pocl_jll,627d6b7a-bbe6-5189-83e7-98cc0a5aeadd
 poly2tri_jll,0bbe0808-d418-57ff-bb48-dc0bf000ef4b
 polyfill_glibc_jll,ae913f53-5f59-5f3b-81b1-950d2d33782a
