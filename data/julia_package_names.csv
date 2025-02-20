@@ -1406,6 +1406,7 @@ ChainRulesOverloadGeneration,f51149dc-2911-5acf-81fc-2076a2a81d4f
 ChainRulesTestUtils,cdddcdb0-9152-4a09-a978-84456f9df70a
 ChainedFixes,9706b775-b1f4-4c74-b677-0491368ea71c
 Chairmarks,0ca39b1e-fe0b-4e98-acfc-b1656634c4de
+ChairmarksExtras,1f012879-3887-41d0-bd88-38cb7d73fb12
 Chamber,4ddda095-17ec-41dd-95c9-ce16dd2a2f48
 ChangePointDetection,68f453bf-a161-50e8-aafe-8ad75c8d6944
 ChangePrecision,3cb15238-376d-56a3-8042-d33272777c9a
@@ -10528,6 +10529,7 @@ TraitWrappers,ef569cd2-5787-430a-a8c5-986931a3f6a1
 TrajGWAS,9514c204-b736-47c9-8157-11c3e9e5ab30
 TrajOptPlots,7770976a-8dee-4930-bf39-a1782fd21ce6
 Trajectories,2c80a279-213e-54d7-a557-e9a14725db56
+TrajectoryBundles,6356fb03-8c35-4dfb-8dca-145006c345e7
 TrajectoryGamesBase,ac1ac542-73eb-4349-ae1b-660ab3609574
 TrajectoryGamesExamples,ff3fa34c-8d8f-519c-b5bc-31760c52507a
 TrajectoryIndexingUtils,6dad8b7f-dd9a-4c28-9b70-85b9a079bfc8
@@ -11469,6 +11471,7 @@ elfshaker_jll,3654c272-9f13-50b0-a4d5-1f2e7e802f45
 elmerfem_jll,e3611c10-6a58-5a41-9d67-bb33baa44221
 ensmallen_jll,d1a6e830-de90-5fe4-8599-c1a9c9fe1834
 ephemeralpg_jll,1b42a6b1-a0b2-50eb-a0be-acc79e4b08a0
+esbuild_jll,26e969d2-927c-5f74-8db2-a5499fed2ef8
 eudev_jll,35ca27e7-8b34-5b7f-bca9-bdc33f59eb06
 extxyz_jll,6ecdc6fc-93a8-5528-aee3-ac7ae1c60be7
 fakechroot_jll,0d1115f3-e42e-5952-a93b-f179746a6ed7
