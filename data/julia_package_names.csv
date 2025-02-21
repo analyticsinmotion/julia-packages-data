@@ -5122,6 +5122,7 @@ LCIO_Julia_Wrapper_jll,1fe59b3e-ae39-56b2-a121-c4c5e6ddab56
 LCIO_jll,35fd387a-780d-5580-bc3c-2dd06d6487c2
 LCMCore,0ea44823-1ff1-5b9a-8293-5fd55a38e746
 LCMGL,b1a4b0ec-3354-598b-9ba1-60d5189d7354
+LCOrbits,d9401462-0832-4dc7-b246-e799faa72617
 LCPsolve,2a7bdd54-bc59-11e8-11d9-476dcad269f6
 LDAPClient,a3dbcd64-d9cb-45e9-b48d-422bbbdd8627
 LDLFactorizations,40e66cde-538c-5869-a4ad-c39174c6795b
@@ -6134,6 +6135,7 @@ MetidaNCA,097c2839-c7bc-4c4b-a5f2-b4167c1b4e7c
 MetidaNLopt,4e1362ca-e5a0-4237-9ffd-bca39e5440e3
 MetidaStats,75cdad26-409a-4e43-8ad7-d54b4fa665a0
 Metis,2679e427-3c69-5b7f-982b-ece356f1e94b
+MetopDatasets,0c26954c-4046-4b98-a13c-f9377ca4b9b7
 Metrics,cb9f3049-315b-4f05-b90c-a8adaec4da78
 Mex,5e29dd5e-a72c-11e9-2bb7-cd1b1701caa7
 MibS_jll,118347d2-e127-56b9-9933-6abf9cc1adc1
@@ -6708,6 +6710,7 @@ NeuroAnalyzer,b40dcafa-b65c-47ad-a230-3174ba5cadd1
 NeuroCore,d459d6fe-e785-4cae-bf87-14a4152982ff
 NeuroFlow,accb2a19-7d14-4fef-adf6-2d18346bd8ac
 NeuroFormats,3448aec0-5570-4d68-9f4a-848140e12c29
+NeuroStats,d956cd15-f295-4116-b825-311938cf4aeb
 NeuroTreeModels,1db4e0a5-a364-4b0c-897c-2bd5a4a3a1f2
 Neuroimaging,70dcca16-fae7-5c11-a923-39bcb60edd10
 NeuronBuilder,bdec0aff-bc35-4528-862d-7dacab2b11a0
@@ -7568,10 +7571,12 @@ Pidfile,fa939f87-e72e-5be4-a000-7fc836dbe307
 Piecewise,f03ddd90-437e-4cf2-8f6c-e62f92609b90
 PiecewiseAffineApprox,029c5f1c-0dc4-4551-8b87-a10b73fe3713
 PiecewiseDeterministicMarkovProcesses,86206cdf-4603-54e0-bd58-22a2dcbf57aa
+PiecewiseHilbert,fb75a84c-a7ae-4011-94d8-abc4bb6dbff9
 PiecewiseIncreasingRanges,efdf428f-f294-58b6-a961-90c8051bff4c
 PiecewiseLinearApprox,fcfa6960-8e2e-11e9-2cde-29dd09221fb3
 PiecewiseLinearFunctions,08f3856d-0b18-48ce-8d4b-10c3630068d6
 PiecewiseLinearOpt,0f51c51e-adfa-5141-8a04-d40246b8977c
+PiecewiseLorentz,5265c256-a0b7-4541-80b8-9bb011dcc609
 PiecewiseOrthogonalPolynomials,4461d12d-4663-4550-8580-cb764c85e20f
 PiecewisePolynomials,be45d740-dee7-11e9-3cd8-1d315c23bbf9
 PiecewiseQuadratics,63c5698c-79a9-4248-aa10-bd2a91651b58
