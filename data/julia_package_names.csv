@@ -3420,6 +3420,7 @@ FortranFiles,c58ffaec-ab22-586d-bfc5-781a99fd0b10
 FortranNamelistParser,8fb689aa-71ff-4044-8071-0cffc910b57d
 FortranStrings,fc18e7c4-0b83-4f3c-b75e-a9a8c77010a4
 Fortuna,c1a2adf5-a52e-430c-84bf-168fab86e0c1
+ForwardBackward,e879419d-bb0f-4252-adee-d266c51ac92d
 ForwardDiff,f6369f11-7733-5829-9624-2563aa707210
 ForwardDiff2,994df76e-a4c1-5e1f-bd5c-23b9b5303d4f
 ForwardDiffChainRules,c9556dd2-1aed-4cfe-8560-1557cf593001
@@ -11881,6 +11882,7 @@ util_linux_jll,a762b42e-dc87-5958-a639-9c9eec9c0153
 vOptGeneric,d80f1e47-7c1f-50ef-848d-735630893f00
 vOptSpecific,98dea707-09b6-5a61-a46f-43b0fb0fb92b
 vSmartMOM,7ba11eeb-0a61-4a04-a413-bf612cc2007e
+very_nauty_jll,be6384bf-868f-57ad-9feb-9e32886bc996
 viterbi_jll,dd422b0c-1f95-5ffb-9e80-de3947502723
 vmtouch_jll,28f2fcfb-5f6a-5f77-b781-4b42819ab36c
 wannier90_jll,c5400fa0-8d08-52c2-913f-1e3f656c1ce9
