@@ -2392,6 +2392,7 @@ DiffusionDefinition,c126fcb9-5a08-4fee-b75a-97eb446288b0
 DiffusionFlux,0088ed5a-e206-4379-b0fa-25d85632c804
 DiffusionGarnet,d440471f-548d-4017-b306-a3be590dd0f0
 DiffusionMap,809424d5-4f20-4f0f-8853-2ca5e8a82a88
+DiffusionX,430d172f-66e9-4875-89c7-99d3949cb067
 DiffusiveShockAccelerationModels,66fc4661-a670-4cc2-b407-bfd81989e880
 Difmap,697f6f98-b792-4bca-85fe-71b3d053de65
 DigilentWaveForms,90c6a8ac-129f-4ce1-be23-9dee1ca31d3e
@@ -7015,6 +7016,7 @@ OpenMDAO,2d3f9b48-ba2d-11e9-1a3f-97e029ee3d3c
 OpenMDAOCore,24d19c10-6eee-420f-95df-4537264b2753
 OpenML,8b6db2d4-7670-4922-a472-f9537c81ab66
 OpenMPI_jll,fe0851c0-eecd-5654-98d4-656369965a5c
+OpenModelica_jll,9f7df15b-5a47-555b-9aa9-3ac811eb3b4c
 OpenPixelControl,281f80d8-6e88-11e9-078b-b90be1742701
 OpenPolicyAgent,8f257efb-743c-4ebc-8197-d291a1f743b4
 OpenPolicyAgent_jll,6ea5c882-2ec3-5826-84d1-aff636352c13
@@ -10748,6 +10750,7 @@ Uncertain,b33f403f-199b-472b-b9d0-1cd2092892d0
 UncertainData,dcd9ba68-c27b-5cea-ae21-829cd07325bf
 UncertainEvidence,1a86d166-648f-46fd-af52-fbd54890c8f1
 UncertainHistogramming,f2e1246a-0df0-4dad-8180-3a93ed78f8cd
+UncertainSkyCoords,0b2bc22c-b7e0-473f-8186-c840e49dfa80
 UncertaintyQuantification,7183a548-a887-11e9-15ce-a56ab60bad7a
 Undefs,3f56377e-4191-4d51-b9b6-988a50b9b843
 Underscores,d9a01c3f-67ce-4d8c-9b55-35f6e4050bb1
