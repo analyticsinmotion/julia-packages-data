@@ -9857,6 +9857,7 @@ StochasticAD,e4facb34-4f7e-4bec-b153-e122c37934ac
 StochasticBlockModel,e022115e-0a72-11ea-0a57-4fc90b22dc23
 StochasticDelayDiffEq,29a0d76e-afc8-11e9-03a4-eda52ae4b960
 StochasticDiffEq,789caeaf-c7a9-5a7d-9973-96adeb23e2a0
+StochasticDominance,8041b248-d9a2-49d2-9c7f-91ddf745d052
 StochasticGene,a2598c62-e771-4eb8-9887-959a94ab00ef
 StochasticGroundMotionSimulation,b8c06d6b-f458-43ac-b37a-3e779b88779f
 StochasticIntegrals,b15139f2-feda-5ba7-9a2a-3fc816fb5551
