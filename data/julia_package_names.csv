@@ -5525,6 +5525,7 @@ LittleEndianBase128,1724a1d5-ab78-548d-94b3-135c294f96cf
 LittleEphemeris,216eeeb1-80f3-427b-9618-77bd73e1755d
 LittleManComputer,c742fd3c-88f6-4004-ba45-01ef0bf0104f
 LiveServer,16fef848-5104-11e9-1b77-fb7a48bbb589
+LlamaCpp,4028143c-eef9-4a3a-9d23-34f3d8ed2047
 LoRaPHY,646e3a94-a092-4ccf-81d9-1ab43b008f5e
 LoadAllPackages,b37bcd2d-1570-475d-a8c6-9b4fae6d0ba9
 LoadFlint,472f376f-f1cf-461b-9ac1-d103423be9b7
@@ -6301,6 +6302,7 @@ ModiaPlot_WGLMakie,16b38df6-6461-4cca-a131-658d59dc04ab
 ModiaResult,16a87621-1533-42f6-8e19-4a825980cec2
 ModifiedHankelFunctionsOfOrderOneThird,b1c65800-dbf0-11e8-0001-4d87e1e07e69
 ModifiedLatinHypercubeSampling,7da3f81e-1687-48ef-899a-d2f3e9601796
+Modland,2a2d4310-a4da-4416-b9e4-81e65019a994
 Mods,7475f97c-0381-53b1-977b-4c60186c8d62
 ModularForms,e4207f9d-5a5d-5278-bd5d-cae8f79430d9
 ModularFormsModuloTwo,1d2b6a6e-f79c-4b33-849e-5348bdb84a0f
@@ -8571,6 +8573,7 @@ RegionGrids,ecebd26c-3930-4a82-94f6-9df2a191b288
 RegionTrees,dee08c22-ab7f-5625-9660-a9af2021b33f
 Regions,4e3eb3bd-530d-473f-987b-017f501eadde
 Registrator,4418983a-e44d-11e8-3aec-9789530b3b3e
+RegistryBrowser,64299e68-9b01-4b5a-be04-faf1e4464d2a
 RegistryCI,0c95cc5f-2f7e-43fe-82dd-79dbcba86b32
 RegistryCLI,41fcc7e7-1908-4925-8240-7eafabf08a75
 RegistryInstances,2792f1a3-b283-48e8-9a74-f99dce5104f3
