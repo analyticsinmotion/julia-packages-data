@@ -10880,6 +10880,7 @@ VMEC,2b46c670-0004-47b5-bf0a-1741584931e9
 VMEC_jll,71cc7b0d-25ae-54b3-b08b-36363cca7c2f
 VMLinuxBindings,3d5d7239-16b4-4651-96ed-9e800c796499
 VMRobotControl,7d923390-5bb2-4b12-9c06-5b46ef7ec375
+VNGraphs,82074f20-eae8-4dc7-b23b-c0e0f9981814
 VOLK_jll,13737630-5ab7-50a7-b423-42a4a7ec78b3
 VOTables,3abbdab7-df67-4801-8590-8effec53f469
 VP4Optim,8687cf0f-8f6d-4dd6-8e27-64e326ab5325
@@ -11555,6 +11556,7 @@ ittapi_jll,f03c7084-70eb-500e-bb85-e99cbc517f87
 jInv,3dacf901-f8cd-5544-86ed-7a705f85c244
 jd_jll,f37634dd-fc60-56ab-95b9-a67e66fd33fe
 jemalloc_jll,454a8cc1-5e0e-5123-92d5-09b094f0e876
+jinja2cppwrapper_jll,1834a480-2153-5a5f-b716-e106e053fa41
 jlpkg,c4c688b2-6cc8-11e9-1c12-6d20b663313d
 jlqml_jll,6b5019fb-a83d-5b4e-a9f7-678a36c28df7
 jq_jll,f8f80db2-c0ba-59e9-a5c3-38d72e3c5ac2
