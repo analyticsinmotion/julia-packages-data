@@ -44,6 +44,7 @@ AMGCL_C_jll,e3ba5bb7-5aef-5326-9a13-9617383dcacb
 AMGX,c963dde9-0319-47f5-bf0c-b07d3c80ffa6
 AMGX_jll,656d14af-56e4-5275-8e68-4e861d7b5043
 AMLPipelineBase,e3c3008a-8869-4d53-9f34-c96f99c8a2b6
+AMORS,77d29c75-3847-48dd-b74a-66585bbee1d5
 AMQPClient,79c8b4cd-a41a-55fa-907c-fab5288e1383
 AMRVW,233ec0c9-6b8d-4766-b9a2-a16e389fc38a
 AMReX_jll,9b6a1cb2-ee7e-5f22-a98b-ab382f85f133
@@ -468,6 +469,7 @@ AstroTime,c61b5328-d09d-5e37-a9a8-0eb41c39009c
 AstrodynamicalCalculations,c0cf9fb7-f496-4999-a425-c50785d1b88b
 AstrodynamicalModels,4282b555-f590-4262-b575-3e516e1493a7
 AstrodynamicalSolvers,636ee813-9c9e-4a0a-af07-88b3043dcb77
+Astrometry,f1a567a2-b8c3-46a6-a8e4-0d50b742dea6
 AsyPlots,77e5a97a-5ef9-58df-9d21-21957d92d960
 AsymptoticNumericalMethod,49cd1f3c-f820-4280-87fa-ee13bfe9a539
 AsynchronousIterativeAlgorithms,329f2bf2-1773-4f40-9abf-1830ae341a86
@@ -2673,6 +2675,7 @@ ERFA,17511681-8477-586a-8d98-4cfd5a1f2ec3
 ERFA_jll,a00367d1-88f1-52c5-9c6b-193aa5f849e1
 ESAInterpolationFiles,dfb2dbec-0384-47ba-b614-66be42e3cf9e
 ESeriesRounding,7b398af1-3c03-4c36-a68d-b29057ec0a45
+ETOPO,eb8fb1ab-fde0-4497-ad36-194d38f2cde7
 EarCut,5160dea5-cc57-53b0-be5f-ac191989508a
 EarCut_jll,5ae413db-bbd1-5e63-b57d-d24a61df00f5
 EarlyStopping,792122b4-ca99-40de-a6bc-6742525f08b6
@@ -7176,6 +7179,7 @@ OsiBuilder_jll,bbbc0f9a-0fea-5019-b319-2e05a2e52c5a
 Osi_jll,7da25872-d9ce-5375-a4d3-7a845f58efdd
 Osnaps,fb59780d-f43e-4e99-95bf-76de9f0a287a
 OteraEngine,b2d7f28f-acd6-4007-8b26-bc27716e5513
+Oura,8e12dfa0-5d10-4b69-81ee-8efd2627538b
 OutMacro,0ae4d431-9932-4135-a8f1-51ee5e017775
 OutlierDetection,262411bb-c475-4342-ba9e-03b8c0183ca6
 OutlierDetectionData,128abb87-8f03-48fe-b7ad-0e2a52164fda
@@ -9095,6 +9099,7 @@ ScoredTests,f38cd097-35c0-4a4d-abf7-36f5cb14a6cb
 Scotch,c8656ae5-b689-4c12-92d5-de0ad806c81d
 ScrapeSEC,856806e7-be2f-4540-8165-3a51303b7af0
 Scratch,6c6a2e73-6563-6170-7368-637461726353
+ScriptReports,c82720c6-1a4a-47b5-9380-ac867c306647
 Scruff,6c98c146-7a27-4df0-99b1-e6e7c9a81876
 Scryfall,26fa0e40-23c6-5e70-8e5d-49a8a0c72583
 Scrypt,2fdf5542-5ed4-5642-8140-83dcf60a5f79
@@ -11865,6 +11870,7 @@ tblis_jll,9c7f617c-f299-5d18-afb6-044c7798b3d0
 tectonic_jll,d7dd28d6-a5e6-559c-9131-7eb760cdacc5
 teensy_loader_cli_jll,c621c394-5201-5723-b2c6-406d197850d1
 telnet_jll,1dbb190e-59ad-542b-b90b-8ef67c206511
+tg_jll,d3b19594-2c4a-559a-8374-9f5b4f4149ad
 tippecanoe_jll,6e4bcf07-11bd-542f-a056-5857bcc30079
 tmux_jll,558ad2b7-f92e-50c4-8d35-b0432ac1efd4
 tree_sitter_bash_jll,7332bcdc-bd2a-5999-b4fe-680b85f40771
