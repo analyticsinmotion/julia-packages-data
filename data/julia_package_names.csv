@@ -1457,6 +1457,7 @@ ChemistryQuantitativeAnalysis,3ed48883-6809-43ec-b77a-d23b0650d8c4
 ChemometricsData,fc65c5b3-1e2f-40fc-8189-28dcf66ce270
 ChemometricsTools,a9718f02-dbee-5ae5-ad0e-dfbd07fa387b
 CherenkovDeconvolution,7995dc16-b5cc-11e8-32a0-21341f07e0b5
+CherenkovMediumBase,62ded331-ac74-4432-90fd-7fafc84e95f4
 Chess,717200cc-f167-4fd3-b4bf-b5e480529844
 Chevie,367f69f0-ca63-11e8-2372-438b29340c1b
 Chevrons,d9083b8b-98e7-4ee6-a2c7-6db47b61bf48
@@ -1787,6 +1788,7 @@ CondaPkg,992eb4ea-22a4-4c89-a5bb-47a3300528ab
 ConditionalDists,c648c4dd-c1e0-49a6-84b9-144ae7fd2468
 ConditionalJuMP,ae04f764-fc8b-5ee0-af1c-aa760b5c9409
 Conductor,d194a933-43b5-4953-818b-974a45c81e67
+Conduit,c0690026-d88f-4c6f-a1f7-f222b03761d7
 Conduit_jll,36ec8eac-713e-50f0-b9f1-e7516df2c55e
 ConeProj,57e5918e-c4e5-47a8-bf19-0d608e0bd369
 ConfParser,88353bc9-fd38-507d-a820-d3b43837d6b9
@@ -2664,6 +2666,7 @@ EHTModels,aba06f68-8285-4329-b7bf-b3157c6bc00b
 EHTNCDBase,0d1a6071-c6ae-40ce-b68e-43bf1c0beb66
 EHTUVData,56783127-7e15-4e7d-9691-d34b50bc826a
 EHTUtils,9d0fa6a6-ae25-4c2e-8152-6c4b7f2016aa
+EISAnalysis,ab7e12ee-d331-41bc-abbc-f7535c4414c7
 ELFIO_jll,2133ec9d-2300-5c3e-b0d9-ae6a10eb43df
 EMIRT,8acf8dda-514d-5c36-9488-7e3496cf596e
 EMpht,0ca9fa26-8833-11e9-3415-832a08817e5a
@@ -4370,6 +4373,7 @@ HybridArrays,1baab800-613f-4b0a-84e4-9cd3431bfbb9
 HybridStructs,49057fa9-d513-5ef6-ae80-2dc68a70a2bd
 HybridSystems,2207ec0c-686c-5054-b4d2-543502888820
 HybridSystemsSimulations,bed98974-b02a-5e2f-9ee0-a103f5c450dd
+HybridTreeBoosting,a7b84c78-fd94-4b48-aa74-d26ca7b1659c
 Hydro,fc36d966-fe4b-4286-9a77-63003c00d81d
 HydroModelTools,31f4d4b3-d71d-422d-8932-b4ab24c6e7e3
 HydroModels,7e3cde01-c141-467b-bff6-5350a0af19fc
@@ -7841,6 +7845,7 @@ PositiveIntegrators,d1b20bf0-b083-4985-a874-dc5121669aa5
 Posits,206caa4e-a773-11ef-0a96-55713be7837f
 PosixChannels,0f0bcd13-3e12-4a59-be10-81f16103b667
 PossibilisticArithmetic,31822d60-0862-422f-9a3d-0eb9781332f3
+PostForecasts,b2f9963d-2794-4afd-bb03-e604c489c349
 PostNewtonian,377afc40-5642-4616-8613-b7ebca523866
 PosteriorDB,1c4bc282-d2f5-44f9-b6d1-8c4424a23ad4
 PosteriorPlots,196f2941-2d58-45ba-9f13-43a2532b2fa8
@@ -8282,6 +8287,7 @@ QuantumWalk,715ab00d-497d-5f5e-92b0-16e551a8d81b
 QuartetNetworkGoodnessFit,1382f7fc-2744-4d9d-8ec6-1e3efdec0746
 Quarto,d7167be5-f61b-4dc9-b75c-ab62374668c5
 QuartoNotebookRunner,4c0109c6-14e9-4c88-93f0-2b974d3468f4
+QuartoTools,5fded309-f5a0-485a-9129-b3749510da85
 QuartzImageIO,dca85d43-d64c-5e67-8c65-017450d5d020
 Quasar,86e06105-936e-439e-acf0-7687560b0bd9
 QuasiArrays,c4ea9172-b204-11e9-377d-29865faadc5c
@@ -10776,6 +10782,7 @@ UnfoldCDL,dbccb84b-e307-4652-ba5b-383ef6e27386
 UnfoldMakie,69a5ce3b-64fb-4f22-ae69-36dd4416af2a
 UnfoldMixedModels,019ae9e0-8363-565c-86e5-97a5a2fe84f4
 UnfoldSim,ed8ae6d2-84d3-44c6-ab46-0baf21700804
+UnfoldStats,96fd419a-8306-4ce8-ba5b-cd907cb7647c
 Unfolding,c5d2ca1b-4127-462e-b5fa-7f6e5ca16f83
 Unicode2LaTeX,a6a4b4a1-58ae-5f2f-bbf9-c7004aa6538b
 UnicodeFun,1cfade01-22cf-5700-b092-accc4b62d6e1
@@ -10897,6 +10904,7 @@ VT100,7774df62-37c0-5c21-b34d-f6d7f98f54bc
 VTKBase,4004b06d-e244-455f-a6ce-a5f9919cc534
 VTKDataIO,c6703add-1d23-52c6-9943-3ad88652b9b2
 VTKDataTypes,10d27dd1-1d0f-5a4c-b178-bd2d0045a217
+VTKLegacy,0a04e04c-3d81-46c0-89a4-d6cdbba47ab1
 VTKView,955f2c64-5fd0-11e9-0ad0-3332e913311a
 VTTrac,a95e085e-b118-4c2b-a00a-78cb3dcd4dd8
 VTUFileHandler,6e9f8158-41af-4c42-b493-3202dfdd0db4
@@ -10999,6 +11007,7 @@ VoronoiGraph,e5f3e3e8-00d7-4f74-8011-648b521326aa
 VortexDistributions,b688e990-d167-11e8-1f13-43a2532b2fa8
 VortexFilaments,d3bb65d8-f921-4227-aa76-0b59d05b829a
 VortexLattice,7a09bdf8-3785-11e9-0bdd-57d0ec69af3f
+VortexStepMethod,ed3cd733-9f0f-46a9-93e0-89b8d4998dd9
 Vortice,286ff66b-9b1b-5805-8ad0-4d725a2cae59
 VoxelModel,4956fa17-11d8-4a0b-a900-0a865cb13992
 VoxelRayTracers,d9e3e1c4-15df-46c7-bfdb-139154feb7ae
