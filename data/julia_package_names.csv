@@ -1117,6 +1117,7 @@ CBinding,d43a6710-96b8-4a2d-833c-c424785e5374
 CBindingGen,308a6e0c-0495-45e1-b1ab-67fb455a0d77
 CCBlade,e1828068-15df-11e9-03e4-ef195ea46fa4
 CCDReduction,b790e538-3052-4cb9-9f1f-e05859a455f5
+CCTools_jll,1e42d1a4-ec21-5f39-ae07-c1fb720fbc4b
 CClosure,6238cdf7-1651-426a-bbec-388a63a3d275
 CDCLsat,b71133ba-6b01-47a0-b4fe-e7a9e8ed2c06
 CDCS,4fe2ecd4-b952-581a-b4b6-a532675a646e
@@ -1479,6 +1480,9 @@ Chron,68885b1f-77b5-52a7-b2e7-6a8014c56b98
 Chuffed,a105ee56-0da9-4c5a-a151-cc7e299d31db
 Chuffed_jll,77125aae-c893-5498-99e3-e30470bfa328
 ChunkCodecCore,0b6fb165-00bc-4d37-ab8b-79f91016dbe1
+ChunkCodecLibBlosc,c6a955be-ab7f-4fbb-b38f-caf93db6b928
+ChunkCodecLibBzip2,2b723af9-f480-4e8d-a1e4-4a9f5a906122
+ChunkCodecLibZlib,4c0bbee4-addc-4d73-81a0-b6caacae83c8
 ChunkSplitters,ae650224-84b6-46f8-82ea-d812ca08434e
 ChunkedArrays,8bab3169-4815-5aad-9f88-5df82062e999
 ChunkedBase,a380dd43-0ebf-4429-88d6-6f06ea920732
@@ -11691,6 +11695,7 @@ libspatialite_jll,a4c9d1fc-8f32-52c2-b7e7-251980156b63
 libssh_jll,a8d4f100-aa25-5708-be18-96e0805c2c9d
 libsvm_jll,08558c22-525a-5d2a-acf6-0ac6658ffce4
 libtakum_jll,2acead13-4190-5b23-9738-715dd9fd1a00
+libtapi_jll,defda0c2-6d1f-5f19-8ead-78afca958a10
 libtasn1_jll,3f48aabc-caa9-5088-9d68-3c6fc69eadfd
 libtirpc_jll,86ddda40-0562-5640-9cf4-1268408005c8
 libtree_jll,210123e1-2ab9-5e3e-92f0-8698273d9eb6
