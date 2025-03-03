@@ -560,6 +560,7 @@ AutoregressiveModels,c8ab78b9-851b-475e-9620-ae22bd4bbd17
 AvailablePotentialEnergyFramework,ce1b76f3-601c-5192-adf8-a07e935792b9
 Avalon,d462d321-1585-4840-9f3e-06f5c1b6ea25
 AverageShiftedHistograms,77b51b56-6f8f-5c3a-9cb4-d71f9594ea6e
+AvifSupport,bff38aaf-160c-48a5-9daf-c138fff82437
 Avro,65fc3dcb-49af-4f0c-a340-607eef534a14
 Avro_jll,497e9ebb-6d82-5bd4-be3d-5b7dba4508ca
 AvrutinSearch,ed76c251-e25f-44f6-91ec-f57abd734d0d
@@ -964,6 +965,7 @@ BlockSystems,4663d367-db1f-4bef-81e7-dc1bd7f7b428
 BlockTensorKit,5f87ffc2-9cf1-4a46-8172-465d160bd8cd
 BlockTriangularForm,adeb47b7-70bf-415a-bb24-c358563e873a
 BlockingMethod,d9bca9eb-1e72-4788-bb56-3426fa9acbbd
+BlockmodelUtils,d9f899e1-303a-530d-8675-c26bf1ea3f35
 BloodFlowTrixi,7b46d5ad-635f-4b66-9393-904f183e39b5
 BloomFilters,d3d7f49f-8593-5289-ba71-9c4f4848f489
 Bloqade,bd27d05e-4ce1-5e79-84dd-c5d7d508bbe1
@@ -2314,6 +2316,7 @@ DevEnvConfig,2baef489-5d3b-4196-bdcc-c190e0714a0d
 DevIL,01638602-6071-5c9b-be9d-28079212bf65
 DevOnly,35452654-8f94-4308-82a5-51b2c5d0ad66
 DeviceDefinitions,beead57b-6593-4141-bbb8-edf896229b7f
+DeviceLayout,ebf59a4a-04ec-49d7-8cd4-c9382ceb8e85
 Devito,06ed14b1-0e40-4084-abdf-764a285f8c42
 Dex_jll,f1ef5e10-671a-599f-ac25-3c68827556ba
 DftFunctionals,6bd331d2-b28d-4fd3-880e-1a1c7f37947f
@@ -6701,6 +6704,7 @@ Netpbm_jll,98999733-62a0-5dba-8ad6-4caa993b519a
 Nettle,49dea1ee-f6fa-5aa6-9a11-8816cee7d4b9
 Nettle_jll,4c82536e-c426-54e4-b420-14f461c4ed8b
 NetworkDynamics,22e9dc34-2a0d-11e9-0de0-8588d035468b
+NetworkDynamicsInspector,0a4713f2-d58f-43f2-b63b-1b5d5ee4e65a
 NetworkHawkesProcesses,ebce4138-bfdf-4619-8560-1f9aac1a682b
 NetworkHistogram,7806f430-7229-459c-b2e6-df35e8e4eb5d
 NetworkInference,6b44d3db-2bc5-5ac3-b70f-26aa69b1b11b
@@ -10156,6 +10160,7 @@ TDAmeritrade,85f6aff6-1a1d-4afc-a0ba-df5513750661
 TDLib_jll,6cfef11d-eb86-5696-bb50-1df673c3ffa1
 TERMIOS,10233e3b-0d6c-416a-8c1a-d3d286bd6cd2
 TFRecord,841416d8-1a6a-485a-b0fc-1328d0f53d5e
+TGGeometry,d7e755d2-3c95-4bcf-9b3c-79ab1a78647b
 TIFFDatasets,8d837e6f-fc51-4c76-affd-c130faf94be7
 TKTDsimulations,e31a5254-3556-45b0-bb0a-af5ec6251750
 TLDR,ea576619-15d3-4675-b24c-7b7a8f11ced0
@@ -11565,6 +11570,7 @@ hub_jll,1414f103-7607-5802-8977-fcefe8d49cb7
 hyper_jll,a61b6c3d-25e5-5e83-9f29-3d6b98db101c
 hyperfine_jll,1b7234aa-9e17-5ce8-8dba-9d19aeb449eb
 iODBC_jll,80337aba-e645-5151-a517-44b13a626b79
+igraph_jll,4d841945-e0c2-5143-9479-18e4f0102556
 iperf_jll,c3111fcb-6a66-54cb-a6df-fd652d9c82a2
 ipx_jll,b964385b-8358-5f44-856b-d218fe69d290
 isa_l_jll,67581813-1eb2-5518-8b74-202629104514
