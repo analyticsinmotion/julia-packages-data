@@ -390,6 +390,7 @@ ArguMend,c85fd23e-5eaf-479f-abdc-5c469c653c21
 ArgumentModes,2dc46c84-39f7-4c37-9a42-c3faed15caad
 ArgumentProcessor,da5e4181-4678-44ac-9e93-56ca85e03b1f
 Aria2_jll,9ab3bdc3-1250-5043-8fac-ac7e82d2cbc9
+Arianna,07692032-97b4-4f8d-80d7-e18df88d31a9
 ArnoldiMethod,ec485272-7323-5ecc-a04f-4719b315124d
 ArnoldiMethodTransformations,fede57cc-428a-11e9-3e5c-c149a0a4072d
 Arpack,7d9fca2a-8960-54d3-9f78-7d1dccf2cb97
@@ -10788,6 +10789,7 @@ UnetUtils,4d0033b7-5721-4f65-a8b8-e6b2952e74b5
 Unfold,181c99d8-e21b-4ff3-b70b-c233eddec679
 UnfoldBIDS,b54e767b-1ebd-4480-ac2a-f5f4d8853074
 UnfoldCDL,dbccb84b-e307-4652-ba5b-383ef6e27386
+UnfoldDecode,ec0f67a1-ae9f-4687-b20b-bd39d33e72da
 UnfoldMakie,69a5ce3b-64fb-4f22-ae69-36dd4416af2a
 UnfoldMixedModels,019ae9e0-8363-565c-86e5-97a5a2fe84f4
 UnfoldSim,ed8ae6d2-84d3-44c6-ab46-0baf21700804
