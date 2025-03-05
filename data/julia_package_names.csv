@@ -2585,6 +2585,7 @@ Druid,2c0563d7-0cee-41bd-8996-23dbc945b6d9
 DualDecomposition,d0e446f1-e135-48f1-a6ea-e9a6190f2a7a
 DualMatrixTools,31f4e45d-be81-5be7-b2dd-bc577b4f7be8
 DualNumbers,fa6b7ba4-c1ee-5f82-b5fc-ecf0adba8f74
+DualQuatUtils,70e05d72-3ef7-47bc-a03c-6d6a9332a2ea
 Dualization,191a621a-6537-11e9-281d-650236a99e60
 Dubins,c4b27c1d-289f-5655-aa69-f096df7d9e2b
 Dubins3D,b218df9c-8706-40c8-80f9-13e28a209add
@@ -11367,6 +11368,7 @@ ZOOclient,6c2355df-edca-54ec-9fef-f41e3964091e
 ZPares_jll,14754bdb-07d8-520b-81a9-9893a7942c3c
 ZXCalculus,3525faa3-032d-4235-a8d4-8c2939a218dd
 ZXCalculusForCAP,7f222522-6553-468a-9ae8-e55a72f59a4e
+ZXingCPP,ffcb3a2f-c869-4483-b5bf-82d7b239c77e
 ZXing_CPP_jll,66b684e8-4fb7-5952-97a4-a506b1089b62
 Zabbix,bfb209d9-8743-5e3a-8711-bc78bba37304
 Zalgo,5b351978-c8a9-11e9-2467-a1bfb30aea0b
