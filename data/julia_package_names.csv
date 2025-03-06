@@ -422,6 +422,7 @@ ArrowTypes,31f734f8-188a-4ce0-8406-c8a06bd891cd
 Arrow_jll,8ce61222-c28f-5041-a97a-c2198fb817bf
 Arrowhead,1a029416-38b0-5245-b7ed-67249edcb994
 ArtGallery,88c30151-f523-4140-98ec-337064e805aa
+ArtSet,657d34fe-3196-4c2a-8906-b42f7ce4733b
 ArtifactOverrides,26736a7f-02bb-45c4-b375-980ff81a7c31
 ArtifactUtils,8b73e784-e7d8-4ea5-973d-377fed4e3bce
 ArtifactWrappers,a14bc488-3040-4b00-9dc1-f6467924858a
@@ -9647,6 +9648,7 @@ SpectralInference,a959a40c-7f6b-448f-a4b7-059cce266d3c
 SpectralKit,5c252ae7-b5b6-46ab-a016-b0e3d78320b7
 SpectralResampling,01da207a-183e-480e-93ab-a94ea6491b8c
 SpectralStatistics,26aafa55-59f7-45ac-9841-9c476cd28090
+SpectralWaves,1c8cf7b8-223b-484e-98e7-6240f1484c2c
 Speculator,ac92255e-d98e-45c4-b636-98964c1c8a8b
 SpeechAugment,85f1d090-a841-11eb-2200-31772235f1bd
 SpeechFeatures,6f3487c4-5ca2-4050-bfeb-2cf56df92307
