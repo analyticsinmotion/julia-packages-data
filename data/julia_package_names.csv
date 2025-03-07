@@ -620,6 +620,7 @@ BOPTestAPI,4c862b9d-90c3-47b4-a9d1-cc1c4398311d
 BOSS,15052f3f-a82a-4ca3-bbc4-f478a3bd1ae2
 BPFnative,b6338580-32ea-11e9-1791-33a79977d8c4
 BPGates,2c1a90cd-bec4-4415-ae35-245016909a8f
+BPNET_jll,6d003e1e-9eb9-5314-b82e-2a0f9b6bc0eb
 BQCESubroutine,29e2bfda-5ba7-471c-9125-afac425f1f80
 BSDESPOT,e87855f3-d877-40b7-8600-5f1cc2d263ad
 BSDiff,7b188ff4-8bb6-4dee-bbe1-9b6fdde2c7c5
@@ -1487,6 +1488,7 @@ ChunkCodecCore,0b6fb165-00bc-4d37-ab8b-79f91016dbe1
 ChunkCodecLibBlosc,c6a955be-ab7f-4fbb-b38f-caf93db6b928
 ChunkCodecLibBzip2,2b723af9-f480-4e8d-a1e4-4a9f5a906122
 ChunkCodecLibZlib,4c0bbee4-addc-4d73-81a0-b6caacae83c8
+ChunkCodecLibZstd,55437552-ac27-4d47-9aa3-63184e8fd398
 ChunkSplitters,ae650224-84b6-46f8-82ea-d812ca08434e
 ChunkedArrays,8bab3169-4815-5aad-9f88-5df82062e999
 ChunkedBase,a380dd43-0ebf-4429-88d6-6f06ea920732
@@ -1560,6 +1562,7 @@ ClimaCoreTempestRemap,d934ef94-cdd4-4710-83d6-720549644b70
 ClimaCoreVTK,c8b6d40d-e815-466f-95ae-c48aefa668fa
 ClimaCoupler,4ade58fe-a8da-486c-bd89-46df092ec0c7
 ClimaDiagnostics,1ecacbb8-0713-4841-9a07-eb5aa8a2d53f
+ClimaInterpolations,dd0f122e-fa3b-47f3-bcf0-93bbc60d885e
 ClimaLSM,7884a58f-fab6-4fd0-82bb-ecfedb2d8430
 ClimaLand,08f4d4ce-cf43-44bb-ad95-9d2d5f413532
 ClimaOcean,0376089a-ecfe-4b0e-a64f-9c555d74d754
@@ -4270,6 +4273,7 @@ HelloWorldFortran_jll,b7e79332-94ae-5b45-a0a6-65d827bd22db
 HelloWorldGo_jll,8c9296c2-eef7-5c5a-b7f9-196cb7be2712
 Help2man_jll,b065d96c-5f5a-5e02-95cc-818e6b3b761f
 HelpGPT,cd7fe561-ad00-49f8-bbfe-26490459673c
+HelpPlots,5880b2e8-ad0a-48c9-bacd-30dc9c1357e0
 HepMC3_jll,b85c3e40-22db-5268-bacb-02bd65cb4e01
 Hephaestus,88b3b2ed-56ea-4eac-b1de-e42ac45953c8
 Heptagon_jll,f39a6480-0c22-5bc5-b3a7-58be08593527
@@ -8391,6 +8395,7 @@ ROCmLLVM_jll,866f66b9-32a5-5756-8490-10a13b5dc930
 ROCmOpenCLRuntime_jll,10ae2a08-2eea-53f8-8c20-eec175020e9f
 ROMEO,1ea8258b-a15d-4adb-ad20-01632f467a84
 ROOT,1706fdcc-8426-44f1-a283-5be479e9517c
+ROOT_jll,45b42145-bbac-5752-8807-01f8b2702242
 ROS,a492bfac-16cc-4d50-a8b6-f03352b6b563
 ROS2,493365b4-7e18-460b-8b90-ec3e7f80d3eb
 RPCholesky,72641a9e-0ae7-4379-851f-e6d22edf0786
