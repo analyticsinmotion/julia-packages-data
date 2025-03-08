@@ -1460,6 +1460,7 @@ ChemicalFormula,069161ab-964a-4228-89a0-7a676f2e1f46
 ChemicalIdentifiers,fa4ea961-1416-484e-bda2-883ee1634ba5
 ChemistryFeaturization,6c925690-434a-421d-aea7-51398c5b007a
 ChemistryQuantitativeAnalysis,3ed48883-6809-43ec-b77a-d23b0650d8c4
+ChemistryQuantitativeAnalysisUI,972148b6-472c-424e-8065-54bf210c1201
 ChemometricsData,fc65c5b3-1e2f-40fc-8189-28dcf66ce270
 ChemometricsTools,a9718f02-dbee-5ae5-ad0e-dfbd07fa387b
 CherenkovDeconvolution,7995dc16-b5cc-11e8-32a0-21341f07e0b5
@@ -1825,6 +1826,7 @@ Conjugates,cd731e1f-768d-4c10-b144-5251ec0945a2
 ConleyDynamics,94d474ba-9a8a-4612-aaf4-76c1836fe059
 ConnectFourSolver,c01be385-ab27-4b9c-92b7-2e6a77fbe7c3
 ConnectFourSolver_jll,5ab91c8a-5c16-538d-97cb-84915cefd4b0
+ConnectionPools,028224b0-1fcc-4ce4-9494-c68607c3a20e
 Consensus,39099a2c-f609-41b4-99c2-62ec6735b6c9
 ConsensusBasedX,8f5ebde3-ef8e-4825-b277-c25898c0de77
 ConsensusBasedXPlots,69c88b9d-9dd6-4dd3-8f65-085fa43a946d
@@ -2762,6 +2764,7 @@ Einsum,b7d42ee7-0b51-5a75-98ca-779d3107e4c0
 Eirene,9c0f25c4-2ca1-5870-89f6-52640788da1d
 Ekztazy,c8b112a7-7677-4d35-8651-7c5b5cba290e
 ElasticArrays,fdbdab4c-e67f-52f5-8c3f-e7b388dad3d4
+ElasticClusterManager,547eee1f-27c8-4193-bfd6-9e092c8e3331
 ElasticFDA,f9e31aca-17d0-553a-a5f4-335c39cba33a
 ElasticFDSG,5b8de370-2f65-449b-a80a-5b10b09533c5
 ElasticPDMats,2904ab23-551e-5aed-883f-487f97af5226
@@ -5174,6 +5177,7 @@ LLD_jll,d55e3150-da41-5e91-b323-ecfd1eec6109
 LLD_unified_jll,fbc507ec-cd81-588a-baa9-9847e80d13e9
 LLLplus,142c1900-a1c3-58ae-a66d-b187f9ca6423
 LLMCheatsheets,bfa53fcd-5caf-4eca-9d0c-bcc16d41cad3
+LLMRateLimiters,ed1ca689-44f5-49fd-ae5c-d523230a773a
 LLMTextAnalysis,a88142f3-a164-49e9-925a-9408902b6922
 LLSModels,39f5bc3e-5160-4bf8-ac48-504fd2534d24
 LLVM,929cbde3-209d-540e-8aea-75f648917ca0
