@@ -4543,6 +4543,7 @@ ImageMagick_jll,c73af94c-d91f-53ed-93a7-00f77d67a9d7
 ImageMetadata,bc367c6b-8a6b-528e-b4bd-a4b897500b49
 ImageMethodReverb,867a2677-d0be-406c-9fc2-92fafbd54ad6
 ImageMorphology,787d08f9-d448-5407-9aad-5290dd7ab264
+ImageNetDataset,d141d81c-f7c4-4296-8313-8866e6f9f78a
 ImageNoise,2e361c58-64d7-11e9-3ab3-89c4c0b8f7db
 ImagePhantoms,71a99df6-f52c-4da1-bd2a-69d6f37f3252
 ImagePhaseCongruency,10e51d30-6ba1-539a-b97e-c69c597142c4
@@ -6980,6 +6981,7 @@ OhMyThreads,67456a42-1dca-4109-a031-0a68de7e3ad5
 OkFiles,b25a35d4-863d-483c-9fa1-95480bd075d2
 OktaJWTVerifier,4bff0fe4-4ead-499c-9e50-e12c47db005b
 Olive,724ecaf6-c7a0-4c22-b37e-0bb7b4193da8
+OliveHighlighters,f769160f-f39a-4920-b1de-ba699e2d8893
 OliveImages,d5c9dd0d-5678-4538-8542-c68b20ea893d
 OlivePython,723e633f-9a76-4329-b2d1-0431e20a66c6
 Omega,1af16e33-887a-59b3-8344-18f1671b3ade
@@ -7690,6 +7692,7 @@ PlasmoBenders,491f1417-53b2-48aa-b9da-44cdd6c031b7
 PlasmoData,18473d7d-a938-4be0-a189-2b040dfe6be7
 PlasmoDataPlots,edc0d1de-cbb6-43e5-80c3-282b59182d08
 PlasmoPlots,a21664a3-f668-4e98-8a13-7892286ec16a
+PlasmoSchwarz,9ffe814c-0ff0-4040-8c14-ee4989563ee5
 PlateKinematics,f961096e-11ae-497c-ad8a-ff09638a4fbf
 PlateMotionRequests,d13234e1-ff52-466f-9770-1615bbbda812
 PlatformAware,e7c50b67-2c03-471e-9cf2-69e515d86ecf
@@ -11443,6 +11446,7 @@ aws_c_common_jll,73048d1d-b8c4-5092-a58d-866c5e8d1e50
 aws_c_compression_jll,73a04cd5-f3d7-5bac-9290-e8adb709f224
 aws_c_event_stream_jll,1383d23e-2ec2-5912-9712-7b5da7cfadcb
 aws_c_http_jll,3254fc65-9028-534d-aa9d-d76d128babc6
+aws_c_http_jq_jll,8f53af78-0b28-57f6-844a-4720ec1bfefc
 aws_c_io_jll,13c41daa-f319-5298-b5eb-5754e0170d52
 aws_c_iot_jll,ac3cf774-1c31-5ab1-b91e-e77d3fbc835d
 aws_c_mqtt_jll,35636aaa-5d3a-56eb-bfb5-a154ce8a9530
