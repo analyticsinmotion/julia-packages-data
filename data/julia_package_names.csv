@@ -263,6 +263,7 @@ AlgorithmicRecourseDynamics,3d1ede72-abb8-4340-bf8e-2ae06849b5ec
 AlgorithmsCollection,9ff941b3-d743-4c60-9dd5-2748db76006b
 AliasTables,66dad0bd-aa9a-41b7-9441-69ab47430ed8
 Alicorn,80a53053-bcf5-42c0-89b5-2140b4d6711b
+AlignedAllocs,6ac60441-711f-43f0-8178-7f71f0888134
 AlignedArrays,1603b9d5-f456-4bc7-93d8-0a6ecb110267
 AlignedBinaryFormat,94fc9360-1a5e-4d84-93be-ddbadb32b3a7
 AlignedSpans,72438786-fd5d-49ef-8843-650acbdfe662
@@ -1398,6 +1399,7 @@ CellBasedModels,388cb286-f2b1-4654-a3bb-2e137a39c658
 CellListMap,69e1c6dd-3888-40e6-b3c8-31ac5f578864
 CellLists,b6871879-622e-446c-84f2-629b119ba541
 CellMLToolkit,03cb29e0-1ef4-4721-aa24-cf58a006576f
+CellMetabolismBase,29f58b35-15e1-4d3c-99d7-eccaac145095
 CellSegmentation,bc04555c-6b3a-48e0-9330-69d76e9b444f
 CellularAutomata,878138dc-5b27-11ea-1a71-cb95d38d6b29
 CellularPotts,11b7dee7-cd95-48a5-a457-717aae94d0bd
@@ -2181,6 +2183,7 @@ DataDogClient,be9d7f57-3392-4762-97ee-7c9806ef4e00
 DataDrivenAcoustics,b376a22e-6432-4b80-a794-261b95783a4a
 DataDrivenDMD,3c9adf31-5280-42ff-b439-b71cc6b07807
 DataDrivenDiffEq,2445eb08-9709-466a-b3fc-47e12bd697a2
+DataDrivenEnzymeRateEqs,bf31c7e1-2152-4d3a-bc7a-576095d562b2
 DataDrivenLux,47881146-99d0-492a-8425-8f2f33327637
 DataDrivenSR,7fed8a53-d475-4873-af3a-ba53cceea094
 DataDrivenSparse,5b588203-7d8b-4fab-a537-c31a7f73f46b
@@ -10520,6 +10523,7 @@ ToggleMenus,6dfc96c8-e1b7-449c-9871-5de18f44e5a6
 ToggleableAsserts,07ecc579-1b30-493c-b961-3180daf6e3ae
 Tokei_jll,3ac119c9-1236-5556-b556-adc8150b0244
 TokenCompression,c6f261d0-14a8-4f75-8fa4-1d88e9d6eb58
+TokenIterators,c6f4ec34-39d0-4d8f-98bd-3b6eb0e88111
 Tokenize,0796e94c-ce3b-5d07-9a54-7f471281c624
 Tomography,7b913008-954d-4a4c-99e7-286cce9c5096
 Tonari,91081016-e225-4157-90a8-4c5abf36a564
