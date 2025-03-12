@@ -8078,6 +8078,7 @@ PublishOrPerish,e234a932-2705-4c8f-8500-f312fba88976
 PuiseuxPolynomials,f53aee1f-40be-4d16-bc74-7d339eee78ec
 Pukeko,8cf91db1-0219-5b69-b551-5a0ff3c32cce
 PulsarSearch,b7fe27a0-ab0c-4e8e-b203-2a459fc90788
+PulseArchitect,dbc0c267-d109-4c6c-b2bb-d87c36f7afac
 PulseAudio_jll,02771fc1-bdb7-5db5-8d11-300768e00fbd
 PulseInputDDM,c2542da2-1f7d-11e9-2506-87691095ebb2
 Purses,b933ae29-2b40-4477-9757-bdbbb03ce3a4
@@ -11660,6 +11661,7 @@ libdrm_jll,8e53e030-5e6c-5a89-a30b-be5b7263a166
 libevdev_jll,2db6ffa8-e38f-5e21-84af-90c45d0032cc
 libevent_jll,1080aeaf-3a6a-583e-a51c-c537b09f60ec
 libexif_jll,cdeeb48b-bcdf-5b3f-98c4-7a29487f695f
+libfabric_jll,34a9636d-b35e-590e-8a00-9f1060fb31d9
 libfacedetection_jll,d63ee80a-a26b-5956-a0ed-fe8a48e7c1c8
 libfdk_aac_jll,f638f0a6-7fb0-5443-88ba-1cc74229b280
 libfreenect_jll,05d52523-c636-5a6c-8a6a-526edab90d71
