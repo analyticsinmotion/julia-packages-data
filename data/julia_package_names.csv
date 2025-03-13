@@ -3757,6 +3757,7 @@ GaussianDistributions,43dcc890-d446-5863-8d1a-14597580bb8d
 GaussianFilters,08d575fb-911d-541e-8431-6cfa767e7851
 GaussianIntegers,814f2dd7-e056-4194-98c2-60692011a20c
 GaussianKDEs,1419eebc-666c-4ddd-ac4c-9d7104ca2976
+GaussianMarkovRandomFields,d5f06795-35bb-4323-9f0b-405ef76cfc5b
 GaussianMixtureAlignment,f2431ed1-b9c2-4fdb-af1b-a74d6c93b3b3
 GaussianMixtureRegressions,b0deb0af-2db1-47da-a519-30ec34a965f8
 GaussianMixtureTest,435c3d8c-e5f4-5f7f-83ee-d96dcc9b5a11
@@ -5503,6 +5504,7 @@ LinearAlgebraForCAP,3dc4824f-14ac-4ab7-8a60-75dbcd4a9d60
 LinearAlgebraX,9b3f67b0-2d00-526e-9884-9e4938f8fb88
 LinearAlgebraicRepresentation,95167b0c-186a-594b-a231-52369c6de044
 LinearAssignment,e04a135d-938e-4d6d-a2bd-80fee3964557
+LinearBand,e5cab26e-c5ce-48e0-bb1c-98fd263da73b
 LinearCombinations,67be3549-475c-46bf-8928-de3404d670d9
 LinearCovarianceModels,4af8ee2a-afa9-11e9-10dc-fb1b37f8f4b5
 LinearDecisionRules,ee4db4e3-7eec-47e5-9935-9699b02754f6
