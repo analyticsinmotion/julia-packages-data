@@ -340,6 +340,7 @@ AppliGeneralLedger,69311175-8ceb-4e66-8d4a-fec439d19437
 AppliSales,c1345d04-1a7a-4e7a-b935-9916dcf58fca
 ApplicationBuilder,f9309374-59cc-5ff5-a120-e3e470a57b4a
 ApplicationBuilderAppUtils,96374992-6a10-11e9-2fa0-73472aac04df
+ApplicationDrivenLearning,0856f1c8-ef17-4e14-9230-2773e47a789e
 Apportionment,f8a4a616-cf80-42aa-b426-b81cf4398b07
 ApproxBayes,f5f396d3-230c-5e07-80e6-9fadf06146cc
 ApproxFun,28f2ccd6-bb30-5033-b560-165f7b14dc2f
@@ -11025,6 +11026,7 @@ VisualRegressionTests,34922c18-7c2a-561c-bac1-01e79b2c4c92
 VisualSearchACTR,ad0872d7-b137-4624-87af-d763ac8dea1a
 VisualStringDistances,089bb0c6-1854-47b9-96f7-327dbbe09dca
 VisualizeMotifs,dc339a6f-2fa1-401a-9066-9c0d413e71da
+VisualizingLQCD,e32cf159-d8fc-4e5a-8baa-2faa67007f87
 ViterbiDecoder,5f0870c7-49c9-4542-b5f1-5d9ed4caea51
 Vizagrams,8c229dad-8b3a-4031-83d6-73545c88426d
 Viznet,52a3aca4-6234-47fd-b74a-806bdf78ede9
@@ -11476,6 +11478,7 @@ blaspp_jll,ac2d9471-9114-5691-9e37-f48642a6f9ea
 blis32_jll,e47b3055-b30e-52b1-9cd4-aea7f6c39f40
 blis_jll,6136c539-28a5-5bf0-87cc-b183200dce32
 bliss_jll,508c9074-7a14-5c94-9582-3d4bc1871065
+blockSQP_jll,fec014c7-73d5-5f83-866b-eea102cb7f01
 bmon_jll,d7e7cbe0-5b96-5c0f-b173-1d76374e957e
 boost_jll,28df3c45-c428-5900-9ff8-a3135698ca75
 booster_jll,511df3fd-a8e5-5b39-b2c4-0599bfe02772
