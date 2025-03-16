@@ -995,6 +995,7 @@ Blowfish,4a48ec48-d94f-48cc-b069-74d6d3e6e633
 BlsData,bdc3b988-716f-514a-9703-6a7af59ca400
 BlueNoise,9ae74011-d0f3-412c-a047-ea779e11a931
 BlueZ_jll,471b5b61-da80-5748-8755-67d5084d21f2
+Blueprints,0e25da23-48ae-47a7-b185-c5bd5c070cab
 BoardGameGeek,57fe6dd9-21bb-41a8-84a4-b199e28a0641
 Bobby,bd34264e-e812-11e8-1ee8-bfb20fea2fb4
 Boids,d31cee86-d6f0-47a3-813b-bb8537950420
@@ -2443,6 +2444,7 @@ DirectQhull,c3f9d41a-afcb-471e-bc58-0b8d83bd86f4
 DirectQhullHelper_jll,af82f447-cd1e-5518-b874-3ab508da728e
 DirectSearch,9d7617aa-e122-4445-bdd0-98866dcb605d
 DirectSum,22fd7b30-a8c0-5bf2-aabe-97783860d07c
+DirectTrajOpt,c823fa1f-8872-4af5-b810-2b9b72bbbf56
 DirectTrajectoryOptimization,a9f42406-efe7-414c-8b71-df971cc98041
 DirectedAcyclicGraphs,1e6dae5e-d6e2-422d-9af3-452e7a3785ee
 DirectionalStatistics,e814f24e-44b0-11e9-2fd5-aba2b6113d95
@@ -8523,6 +8525,7 @@ Reactant,3c362404-f566-11ee-1572-e11a4b42c853
 ReactantCore,a3311ec8-5e00-46d5-b541-4f83e724a433
 Reactant_jll,0192cb87-2b54-54ad-80e0-3be72ad8a3c0
 ReactionCommons,3fc4dfc6-bd63-4703-97f2-4579ab7691c1
+ReactionDiffusion,dcda7c7e-49c0-481c-982d-c35bedad83cd
 ReactionMechanismSimulator,c2d78dd2-25c4-5b79-bebc-be6c69dd440f
 ReactionNetworkEvolution,61220d1e-4cdb-4fc3-9e6c-02bd7f830b85
 ReactionNetworkImporters,b4db0fb7-de2a-5028-82bf-5021f5cfa881
