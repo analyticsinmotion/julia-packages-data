@@ -1995,6 +1995,7 @@ CryptoPRG,d846c407-34c1-46cb-aa27-d51818cc05e2
 CryptoSignatures,35cc5888-0c46-470e-89c7-eafcaf79a1aa
 CryptoUtils,04afed74-ac16-11e9-37b6-1352e3e05830
 CryptographicHashFunctions,59f36028-7e5a-47c1-b5da-23e00bab95ae
+CrystalInfoContainers,0536147b-35f3-46ba-bdca-9c2438f9daa4
 CrystalInfoFramework,6007d9b0-c6b2-11e8-0510-1d10e825f3f1
 CrystalNets,7952bbbe-a946-4118-bea0-081a0932faa9
 CrystalOrientations,2202eacc-16b8-4a64-a8ba-6f26fc30ce15
@@ -2987,6 +2988,7 @@ ExponentialAction,e24c0720-ea99-47e8-929e-571b494574d3
 ExponentialFamily,62312e5e-252a-4322-ace9-a5f4bf9b357b
 ExponentialFamilyManifolds,5c9727c4-3b82-4ab3-b165-76e2eb971b08
 ExponentialFamilyProjection,17f509fa-9a96-44ba-99b2-1c5f01f0931b
+ExponentialQueues,8f3a112f-b142-4e59-ac86-373e9eb88260
 ExponentialUtilities,d4d017d3-3776-5f7e-afef-a10c40355c18
 ExportAll,ad2082ca-a69e-11e9-38fa-e96309a31fe4
 ExportPublic,ce21103b-dbf2-498b-b3c4-edbf725743bc
@@ -4172,6 +4174,7 @@ H5Zbzip2,094576f2-1e46-4c84-8e32-c46c042eaaa2
 H5Zlz4,eb20ec05-5464-47b5-ba41-098e3c1068a3
 H5Zzstd,f6f2d980-1ec6-471c-a70d-0270e22f1103
 HAML,0bc81568-2411-4001-9bf1-c899fa54f385
+HAdaptiveIntegration,eaa5ad34-b243-48e9-b09c-54bc0655cecf
 HCGeoTherm,28071b0f-1505-495f-9565-3513cfd1c620
 HCIDatasets,1893dc6a-5236-4cb8-aa54-62ea411c10cd
 HCIToolbox,b6cd55e5-4d02-4e12-b82c-005f67e784bf
@@ -8458,6 +8461,7 @@ RandomLinearAlgebraSolvers,5efb4b28-465d-11ec-08dc-2f64b808d2ca
 RandomMatrices,2576dda1-a324-5b11-aa66-c48ed7e3c618
 RandomMatrix,0af1cf96-9b30-454e-9d9e-87908f700846
 RandomMatrixDistributions,af03f0a2-7cbb-11e9-3152-f985fa477d26
+RandomMeas,a9f96d1f-ed6a-4404-822f-5927c777f274
 RandomNoise,cdc879b2-80b7-4333-9dca-dc35859d33da
 RandomNumbers,e6cf234a-135c-5ec9-84dd-332b85af5143
 RandomPhaseApproximation,b76368a9-c21b-4c44-a110-0e9f579e383e
