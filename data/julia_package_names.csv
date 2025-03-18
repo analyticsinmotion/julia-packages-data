@@ -6529,6 +6529,7 @@ Mustache,ffc61752-8dc7-55ee-8c37-f3e9cdd09e70
 MutableArithmetics,d8a4904e-b15c-11e9-3269-09a3773c0cb0
 MutableConvexHulls,948c7aac-0e5e-4631-af23-7a6bb7a17825
 MutableNamedTuples,af6c499f-54b4-48cc-bbd2-094bba7533c7
+MutableShiftedArrays,d3d30c82-a38e-471c-a45a-3d24d2f4d22d
 MutableTypes,0509ba21-2830-4def-8137-4dac647fee02
 MutatePlainDataArray,3b0f367b-da20-4531-811a-c13cc92422b5
 MutationChecks,28e448c6-aefe-4fa0-855b-08706fcc0c50
@@ -7492,6 +7493,7 @@ Pathnames,09eb9df4-c16c-45e4-b3a9-061214bcee23
 Pathogen,c8189ad9-0349-5cbb-98f2-579781f27e5c
 PatternFolds,c18a7f1d-76ad-4ce4-950d-5419b888513b
 PauliPopRec,8be9b746-4e04-44ea-bfaf-e6e65ad4ae85
+PauliPropagation,293282d5-3c99-4fb6-92d0-fd3280a19750
 PauliStrings,f07625cc-80e4-4099-a362-36a3484d9bcc
 Pavito,cd433a01-47d1-575d-afb7-6db927ee8d8f
 PawsomeTracker,d3f98fa6-545d-4d4c-aa39-0a9eb18c40ca
@@ -7697,6 +7699,7 @@ PlantHydraulics,d6acb6ec-f7e4-548d-b108-f8a3d9a6ce13
 PlantMeteo,4630fe09-e0fb-4da5-a846-781cb73437b6
 PlantRayTracer,78485975-e4aa-407d-b3bb-ded5a4265d05
 PlantSimEngine,9a576370-710b-4269-adf9-4f603a9c6423
+PlantUML,69ad847d-c018-4c53-a279-bc41134dba09
 PlantViz,358bd95d-d12c-439f-94b7-04b17e500c7f
 Plasma,d4286570-51d5-4bbe-9c0b-035637fe1a6e
 PlasmaEquilibriumToolkit,57ef8d28-8191-49ce-8cf8-17f9379aac88
@@ -10141,6 +10144,7 @@ SymbolicLimits,19f23fe9-fdab-4a78-91af-e7b7767979c3
 SymbolicNeuralNetworks,aed23131-dcd0-47ca-8090-d21e605652e3
 SymbolicNumericIntegration,78aadeae-fbc0-11eb-17b6-c7ec0477ba9e
 SymbolicPlanners,b6fe5377-9711-4fad-95b0-be4eed71ecbb
+SymbolicQuartetNetworkCoal,4201568c-2e61-4571-8a9c-4da1ec7770d0
 SymbolicRegression,8254be44-1295-4e6a-a16d-46603ac705cb
 SymbolicSigns,27726e8a-9648-448d-a8f7-a27e0ac037d6
 SymbolicTracingUtils,77ddf47f-b2ab-4ded-95ee-54f4fa148129
