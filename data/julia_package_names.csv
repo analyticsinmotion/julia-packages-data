@@ -4243,6 +4243,7 @@ Hankel,74863788-d124-456e-a676-9b76578dd39e
 Hanzi,485a87e4-fb71-42ca-b614-bc87b1bb3702
 HapLink,8ca39d33-de0d-4205-9b21-13a80f2b7eed
 Harbest,88b9f9d1-ecd7-45aa-9934-346af437630c
+Harbor,af79dbb9-1a80-47ad-8928-192a4af69376
 HardSphereDynamics,2cbf6e9d-eec9-4262-aa18-cb9280186e6b
 HardTestProblems,017f2a17-63a9-4ea1-9ce1-f7de69e6e227
 HardwareAbstractions,9ac91abb-62f4-42c0-88e8-83732e93d543
@@ -8065,6 +8066,7 @@ ProximalCore,dc4f5ac2-75d1-4f31-931e-60435d74994b
 ProximalMethods,4206358c-74de-4262-b9b2-8440947a766f
 ProximalOperators,a725b495-10eb-56fe-b38b-717eba820537
 ProxyInterfaces,9b3bf0c4-f070-48bc-ae01-f2584e9c23bc
+PseudoAbsences,68905d83-288d-4570-b05e-f7eb6299ad2c
 PseudoBooleanOptimization,c8fa9a04-bc42-452d-8558-dc51757be744
 PseudoGamma,3cb8af22-bcb6-49d5-810a-fde949a5ef89
 PseudoPotentialData,5751a51d-ac76-4487-a056-413ecf6fbe19
@@ -10926,6 +10928,7 @@ VIDA,4096cdfb-f084-40a3-b02d-1a2a54920cb8
 VIGRA_jll,75c9d399-9f49-5d0c-80c8-ccece7b7b166
 VKcurve,3aa97455-9fe4-4946-8fa7-967d4b754676
 VLBIData,679fc9cc-3e84-11e9-251b-cbd013bd8115
+VLBIFiles,c1ebf4c8-f9d4-409a-8daf-7009448f4e6e
 VLBIImagePriors,b1ba175b-8447-452c-b961-7db2d6f7a029
 VLBILikelihoods,90db92cd-0007-4c0a-8e51-dbf0782ce592
 VLBIPlots,0260e397-8112-41bf-b55a-6b4577718f00
