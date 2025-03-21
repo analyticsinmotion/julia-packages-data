@@ -2549,6 +2549,7 @@ DocumenterLaTeX,cd674d7a-5f81-5cf3-af33-235ef1834b99
 DocumenterMarkdown,997ab1e6-3595-5248-9280-8efb232c3433
 DocumenterMermaid,a078cd44-4d9c-4618-b545-3ab9d77f9177
 DocumenterPages,3b6f6c89-491e-49ab-a70c-af796c43d097
+DocumenterPlantUML,ee5590a8-faa9-47ff-a03b-b69c10a769fd
 DocumenterQuarto,73f83fcb-c367-40db-89b6-8fd94701aaf2
 DocumenterTools,35a29f4d-8980-5a13-9543-d66fff28ecb8
 DocumenterVitepress,4710194d-e776-4893-9690-8d956a29c365
@@ -4781,6 +4782,7 @@ Ipopt_jll,9cc047cb-c261-5740-88fc-0cf96f7bdcc7
 Iris,573aa7f4-91c9-40a8-9c96-241bf90c799c
 IrrationalConstants,92d709cd-6900-40b7-9082-c6be49f344b6
 IrrationalExpressions,b887be70-99fa-47d4-b56c-69f3bb550b8c
+IrregularSpectra,44cbfef1-da7d-499c-871f-40d6f2b94496
 IsApprox,28f27b66-4bd8-47e7-9110-e2746eb8bed7
 IsDef,2704c575-34db-4e2b-9135-fc0075949e5a
 IsPurelyImmutable,2ffa6c9d-15c0-4667-be8d-57f90eb6ec69
@@ -10319,6 +10321,7 @@ Tempo,c33777b2-e695-4fae-9135-aeae8855dd81
 Temporal,a110ec8f-48c8-5d59-8f7e-f91bc4cc0c3d
 TemporalGPs,e155a3c4-0841-43e1-8b83-a0e4f03cc18f
 TemporalNetworks,8c7a6a83-a663-42fb-a24a-c426533903ed
+Tempus,e6262be2-5787-4bdc-bc3f-4b5a3442fa30
 TenNetLib,1ce00845-9e1b-4798-bd63-033d15ad4ca9
 TenPuzzle,2b1cd6f4-158b-5933-849b-48df756daf9e
 TeneT,260a78e0-cbf2-49ba-8157-48058c700f32
