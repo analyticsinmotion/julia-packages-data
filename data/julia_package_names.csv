@@ -1732,6 +1732,7 @@ CompScienceMeshes,3e66a162-7b8c-5da0-b8f8-124ecd2c3ae1
 CompTime,0fb5dd42-039a-4ca4-a1d7-89a96eae6d39
 CompactBases,2c0377a8-7469-4ebd-be0f-82e501f20078
 CompactBasisFunctions,a09551c4-f815-4143-809e-dd1986753ba7
+ComparatorNetworks,cbee9254-2197-4c11-8b22-effda389bb24
 Compat,34da2185-b29b-5c13-b0c7-acf172513d20
 CompatDevTools,732b9ffd-ba4a-45cb-82b2-a390f71ea5ac
 CompatEntryUtilities,8be7a408-1a4a-465c-8be3-3898d13eb8a5
@@ -11696,6 +11697,7 @@ libftd2xx_jll,66e46913-a265-5186-af4c-28555ad2a364
 libfyaml_jll,c8bb72a1-3259-5c06-b5d5-7152be8a520b
 libgeotiff_jll,06c338fa-64ff-565b-ac2f-249532af990e
 libgifextra_jll,d7c3d077-fdb7-5318-9663-3e6817e0e281
+libgpiod_jll,73a0302d-03ce-5e89-a83a-5ac78e102a29
 libgraphicsmagic_jll,3e975b7b-ab84-5bf4-b4b6-586754a53ef6
 libgsd_jll,e4d6e05a-3816-5255-9332-8392038f2e0f
 libharu_jll,d4e8948d-4b7e-5538-9d15-404f6f0a9070
