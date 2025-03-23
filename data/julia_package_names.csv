@@ -414,6 +414,7 @@ ArrayInterfaceStaticArraysCore,dd5226c6-a4d4-4bc7-8575-46859f9c95b9
 ArrayInterfaceTracker,a2b0951a-f94f-4742-8780-617792921f9b
 ArrayLayouts,4c555306-a7a7-4459-81d9-ec55ddd5c99a
 ArrayPadding,fe5ef43c-4912-423d-9170-4bd5cb6a013a
+ArrayRadiation,bd679b92-6dae-455f-83b3-ba41583ebc1e
 ArrayRotations,331aaca9-2bb4-4a57-a3b2-da52f3b8a927
 ArrayTools,1dc0ca97-c5ce-4e77-ac6d-c576ac9d7f27
 ArraysOfArrays,65a8f2f4-9b39-5baf-92e2-a9cc46fdf018
@@ -1492,6 +1493,7 @@ Chuffed_jll,77125aae-c893-5498-99e3-e30470bfa328
 ChunkCodecCore,0b6fb165-00bc-4d37-ab8b-79f91016dbe1
 ChunkCodecLibBlosc,c6a955be-ab7f-4fbb-b38f-caf93db6b928
 ChunkCodecLibBzip2,2b723af9-f480-4e8d-a1e4-4a9f5a906122
+ChunkCodecLibLz4,7e9cc85e-5614-42a3-ad86-b78f920b38a5
 ChunkCodecLibZlib,4c0bbee4-addc-4d73-81a0-b6caacae83c8
 ChunkCodecLibZstd,55437552-ac27-4d47-9aa3-63184e8fd398
 ChunkSplitters,ae650224-84b6-46f8-82ea-d812ca08434e
@@ -5382,6 +5384,7 @@ LibAwsCommon,c6e421ba-b5f8-4792-a1c4-42948de3ed9d
 LibAwsCompression,51c8708f-2dd9-446d-a0d4-ba9f49ba4b23
 LibAwsEventStream,7707c54a-f152-44d3-a3d6-cc4209ac0b85
 LibAwsHTTP,ce851869-0d7a-41e7-95ef-2d4cb63876dd
+LibAwsHTTPFork,d3f1d20b-921e-4930-8491-471e0be3121a
 LibAwsIO,a5388770-19df-4151-b103-3d71de896ddf
 LibAwsIot,d022c788-31c6-4e56-9a35-f63e7e4f3ca1
 LibAwsMqtt,dbf63f58-971e-4a9b-b153-820e5f7f543b
@@ -6779,6 +6782,7 @@ NewsAPI,d145281a-7b66-43b1-b4e0-c06cc84e19a4
 NewsLookout,48ea66d6-70bf-4733-809e-20017acf6e3b
 NewsvendorModel,63d3702b-073a-45e6-b43c-f47e8b08b809
 NextGP,1a32220a-4ac3-442e-849d-1943511e16f7
+NextLA,d37ed344-79c4-486d-9307-6d11355a15a3
 NgSpice,1a64e563-3ad9-44a2-8713-a1728bea8a90
 NiLang,ab4ef3a6-0b42-11ea-31f6-e34652774712
 NiLangCore,575d3204-02a4-11ea-3f62-238caa8bf11e
@@ -11096,6 +11100,7 @@ WIGXJPFjl,c012394e-041f-4dac-954c-af2908646be0
 WORLD,0818e8b4-bd9c-59ff-a62a-597382e55725
 WORLD_jll,df1608cb-88be-5058-95d4-2cc1fff969de
 WRDSMerger,59d27aa3-834e-4232-9046-52ef43e86786
+Wahoo,34ee53bd-d3f2-451a-8e30-9c0767249144
 Wakame,4447db07-3941-47e2-90a2-965b7cb1b6ce
 Walker2014Sampling,a2f0375b-2a06-4a22-9386-496d263139c3
 Walker2020Sampling,f34fe3fd-af96-4859-b26f-d1ad3ec20571
@@ -11588,6 +11593,7 @@ gat_jll,b88765aa-e0a2-5b02-b897-840ea4e6307e
 gawk_jll,054acbdd-7fbc-53f6-b51a-0fe4f8189fb8
 gb_jll,006bdf2e-00d8-555c-bee2-993406487cbf
 gdk_pixbuf_jll,da03df04-f53b-5353-a52f-6a8b0620ced0
+gecko_jll,32aead09-57ab-5c70-a47a-e7c5b594f489
 gflags_jll,705dcc9d-86a1-50d2-892e-91b5af3191b8
 gfm_jll,1709ae2f-740e-5434-a713-d92bde733aaf
 ggml_jll,010131b8-9656-5f5d-909c-3207272d5029
