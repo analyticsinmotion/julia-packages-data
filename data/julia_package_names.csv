@@ -214,6 +214,7 @@ AffineMaps,2c83c9a8-abf5-4329-a0d7-deffaf474661
 AffineMotions,4fe253f5-c7a7-4e36-a4a1-b5bab8c98bb8
 AffineScaler,75005516-5893-409d-9e89-87dc6c6330eb
 AffyCelFiles,efc83544-1c47-49f8-8867-17a7f6cc0942
+Agate,41889b7c-c35c-4f16-abd7-94b299d9fd29
 Agents,46ada45e-f475-11e8-01d0-f70cc89e6671
 AgentsExampleZoo,88acaeb2-2f63-4ada-bca2-2825d9da22ed
 AgentsPlots,7820620d-95fb-4739-93b3-b0a14dd83f9a
@@ -6479,6 +6480,7 @@ MultiModalMuSig,a66acb62-5df1-561a-8400-71bc98699397
 MultiObjectiveAlgorithms,0327d340-17cd-11ea-3e99-2fd5d98cecda
 MultiPrecisionArrays,e0585029-f0fd-471c-997a-b805c9f71f28
 MultiQuad,8fca5bbe-a785-4bb7-9793-c0c8ddca5d4b
+MultiQuantityGPs,f6349cb8-2139-4a62-bb23-95f1cd2c4c3a
 MultiResolutionIterators,396aa475-d5af-5b65-8c11-5c82e21b2380
 MultiScaleArrays,f9640e96-87f6-5992-9c3b-0743c6a49ffa
 MultiScaleTreeGraph,dd4a991b-8a45-4075-bede-262ee62d5583
@@ -7726,6 +7728,7 @@ PlayingCards,ecfe714a-bcc2-4d11-ad00-25525ff8f984
 PlayingCards52,c2ceccfa-fa3a-4f0d-8d5f-27465c1854bf
 PlmDCA,06784e46-84fc-5582-b8de-0e984192b79e
 PlotAxes,8b6f5f00-d239-11e8-3a24-33314b00f6b0
+PlotDigitizer,004b133b-e7d6-4a4f-a599-dbe11d1eddb1
 PlotGraphviz,78a92bc3-407c-4e2f-aae5-75bb47a6fe36
 PlotIter,570a651b-f435-48ab-b76d-fb07b459bafb
 PlotMesh,bc4dbde8-7fd0-4c88-9497-16e7bc903013
@@ -11494,6 +11497,7 @@ aws_checksums_jll,b2a88e68-78e7-5e94-8c20-c02986ec140e
 aws_lc_jll,97bc56f7-b146-5eb0-9ba6-f74d48471a93
 azurite_jll,d59cea07-7a7b-5018-a298-a103d13afaf6
 basiclu_jll,5629d00f-ba42-508e-84a8-8193befe9d4f
+bat_jll,e1736374-6498-5d90-ab12-e7e58ba27d07
 battery_cli_jll,dd074c01-bd9e-510d-b91d-361c690844c9
 bcftools_jll,b51ba988-139c-5e66-8d45-d5b53cbf8c72
 beefalo_jll,a30d6a8e-903d-54eb-aa61-387f835467ce
