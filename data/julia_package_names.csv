@@ -27,6 +27,7 @@ ADTypes,47edcb42-4c32-4615-8424-f2b9edc5f35b
 AEMS,3b430cce-3194-5812-b203-bf9e73c3e836
 AES,5a3fb44e-d90d-11e9-053b-99581e1bac63
 AFLplusplus_jll,2a46d845-6c66-546d-9393-effbe7e72607
+AGFFileReader,36dd7d7d-c279-4b5c-a024-2ba417cea492
 AIBECS,ace601d6-714c-11e9-04e5-89b7fad23838
 AIControl,3868d828-178d-56af-83e1-d523478a73cd
 AIHelpMe,01402e1f-dc83-4213-a98b-42887d758baa
@@ -2915,6 +2916,7 @@ EstimatingEquationsRegression,29055884-00e7-4984-94b8-2baec6a723d6
 Estrin,4642663a-9907-4130-9c18-0ebd857e5e35
 Eternity2Puzzles,7b8a590e-5f29-49cd-9d3d-d6aab43f7c56
 EtherSPH,2e8a6dce-851f-4ff4-8c9d-f01c3f7a94ce
+Euclid,dad380ae-770c-4f78-bf4f-27055e0f4f18
 EuclidGraphs,6d00f6e2-8806-480a-ab08-d5e107e6bfed
 EulerAngles,754c60e7-4104-4b2f-84f1-902fd791391f
 EulerCharacteristic,2c1df2f5-4ab6-47a9-8339-2c9d55c0a52c
@@ -7792,6 +7794,7 @@ PlutoVista,646e1f28-b900-46d7-9d87-d554eb38a413
 PlutoWorkspaceExplorer,88acd20c-1248-4a97-8a3e-4ab1c55a24a0
 PlyIO,42171d58-473b-503a-8d5f-782019eb09ec
 PoGO,043b967d-4e64-47a6-97d4-0007e6b4905c
+PoGOGamemaster,62c09a92-b096-4650-ba41-ec5e38cc10f2
 PoincareInvariants,26663084-47d3-540f-bd97-40ca743aafa4
 PointBasedValueIteration,835c131e-675f-4498-8e2c-c054c75556e1
 PointCloudRasterizers,971589f2-82d2-11e9-1393-93ab095f3ec7
