@@ -1646,6 +1646,7 @@ CoNCMOR,3a989f29-cff0-4f1c-87be-5dcdd41bd240
 Coalescent,7af52d38-510f-42b9-ba0a-b0cde7e92322
 Cobweb,ec354790-cf28-43e8-bb59-b484409b7bad
 CocktailDB,5dab4e14-3d8d-47b0-9250-6e6291c569a8
+Coconots,2061d889-07fc-48e0-ab41-7cc4d945d6d4
 CodeCosts,01031290-36d5-4888-8ad8-581b08f8a907
 CodeEvaluation,5a076611-96cb-4f02-9d3a-9e309f06f8ff
 CodeInfoTools,bc773b8a-8374-437a-b9f2-0e9785855863
@@ -2289,6 +2290,7 @@ DeferredAcceptance,7ba42312-65e6-11eb-2a40-f37f14131e13
 DeferredFutures,d2772ebe-fee8-5277-ba6e-705bb5633645
 DefineSingletons,244e2a9f-e319-4986-a169-4d1fe445cd52
 DeformableBodies,e53d2b94-6236-11e9-2d7b-535d79ecd3d3
+DeformationPaths,50c58891-b0b3-4ec2-813a-7650aafc80af
 DegreesOfFreedom,6bcd71f4-f95e-48eb-8a7d-f882b90fc629
 DejaVu,13e42f18-9cd8-4aec-8cff-075110cadf7e
 Delaunator,466f8f70-d5e3-4806-ac0b-a54b75a91218
@@ -2606,6 +2608,7 @@ Druid,2c0563d7-0cee-41bd-8996-23dbc945b6d9
 DualDecomposition,d0e446f1-e135-48f1-a6ea-e9a6190f2a7a
 DualMatrixTools,31f4e45d-be81-5be7-b2dd-bc577b4f7be8
 DualNumbers,fa6b7ba4-c1ee-5f82-b5fc-ecf0adba8f74
+DualPerspective,a1edf54d-33cf-4bd3-8f57-70bdaf668f08
 DualQuatUtils,70e05d72-3ef7-47bc-a03c-6d6a9332a2ea
 Dualization,191a621a-6537-11e9-281d-650236a99e60
 Dubins,c4b27c1d-289f-5655-aa69-f096df7d9e2b
@@ -3384,6 +3387,7 @@ FletcherPenaltySolver,e59f0261-166d-4fee-8bf3-5e50457de5db
 FlexExtract_jll,928114cd-b949-50c5-8a7b-63c9d706fec3
 FlexLinearAlgebra,b67e1e5a-d13e-5892-ad81-fb75f5903773
 FlexPlan,4dc3fedf-fcb4-4327-bce2-523fd266e8c9
+FlexUnits,76e01b6b-c995-4ce6-8559-91e72a3d4e95
 FlexiGroups,1e56b746-2900-429a-8028-5ec1f00612ec
 FlexiJoins,e37f2e79-19fa-4eb7-8510-b63b51fe0a37
 FlexiMaps,6394faf6-06db-4fa8-b750-35ccc60383f7
@@ -9506,6 +9510,7 @@ Sleipnir,f5e6c550-199f-11ee-3608-394420200519
 SlepcWrap,c3679e3b-785e-4ccc-b734-b7685cbb935e
 SliceMap,82cb661a-3f19-5665-9e27-df437c7e54c8
 SliceSampling,43f4d3e8-9711-4a8c-bd1b-03ac73a255cf
+SlicedDistributions,78bc189a-7b6d-4df1-8a23-377b7c6fd0cb
 SlidingDistancesBase,25b0cc0c-38e4-462f-a11d-8564868c562d
 SlimOptim,e4c7bc62-5b23-4522-a1b9-71c2be45f1df
 SlimPlotting,f6d04670-764e-495b-a720-91c3c9a588ff
