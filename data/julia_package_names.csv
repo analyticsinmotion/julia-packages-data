@@ -5655,6 +5655,7 @@ LovaszTheta,d5f8441d-4651-43af-92fa-6ed80f165e74
 LowLevelFEM,6171b9fb-adbf-4751-adb9-5faded75de07
 LowLevelFloatFunctions,15a4fa57-098d-5a77-b233-4f9ba1cdf842
 LowLevelParticleFilters,d9d29d28-c116-5dba-9239-57a5fe23875b
+LowLevelParticleFiltersMTK,6906b499-63f5-4dd8-acfd-28b0f8b24f7d
 LowRankApprox,898213cb-b102-5a47-900c-97e73b919f73
 LowRankArithmetic,8016d1d1-7a3b-4ad2-b79e-5984174ed314
 LowRankIntegrators,a4d2327a-b40c-407e-b18c-dbb78b346b8e
@@ -9573,6 +9574,7 @@ SoapyLoopback_jll,8d250ce8-a086-56bd-8a36-e4e8f4202680
 SoapyMultiSDR_jll,e03d614a-b766-59b2-b90b-cbee90a02c36
 SoapyPlutoSDR_jll,96b01697-91ed-557a-a63b-0996cb7d9743
 SoapyRTLSDR_jll,7bed6c1d-f2db-586c-9908-488058499e34
+SoapyRemote_jll,b8b7d99a-ad42-5b72-8eb4-319614e84067
 SoapySDR,4fa426e6-03fd-45b2-b2dd-25f726820c03
 SoapySDRRecorder,963dc442-cee5-48d9-b294-055e8ed6afd4
 SoapyUHD_jll,5710b6fb-c5a3-5f8f-93a5-d73c28ee0e84
@@ -10598,6 +10600,7 @@ Torch,6a2ea274-3061-11ea-0d63-ff850051a295
 TorchCAPI_jll,dc5d5603-8d5e-5430-85a9-2783500f9f77
 Torch_jll,c12fb04c-f5e9-5c82-b5d6-b53f8f8d9a32
 ToricAtiyahBott,72dfc14a-8332-4639-b9f3-8b017b604ecf
+Tortuosity,80bb5c7f-3561-4bbc-a7c3-5e29a4cab6cc
 TotalLeastSquares,028f657a-7ace-5159-a694-8cfd97933b0c
 TotalVariation,00d00faa-c8f6-542a-bba9-9987f051d897
 Tower,965ce0a6-fda6-11e9-2ec6-215e9e726cc7
@@ -11900,6 +11903,7 @@ pybind11_jll,8a9a6109-fcbb-5819-8534-fa3eb9037080
 qpOASES_jll,f16e1b62-db32-537f-94d1-ea38eaaf9298
 qr_mumps_jll,e37b5aa0-c611-5f0f-83fb-aee446c0b77e
 quarto_jll,b7163347-bfae-5fd9-aba4-19f139889d78
+quickfix_jll,c3ed25c8-d0c4-52f4-bb85-3c100dfcbec7
 qwt_jll,ed0789fa-10db-50b3-94da-03266d70be0f
 qwtw_jll,d5de49f9-40c9-5bd5-980e-f7e357ea5903
 racket_jll,d1d5beed-0862-5c4e-adcd-9d7a31bb6a79
