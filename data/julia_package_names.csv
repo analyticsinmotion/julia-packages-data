@@ -573,6 +573,7 @@ Avro_jll,497e9ebb-6d82-5bd4-be3d-5b7dba4508ca
 AvrutinSearch,ed76c251-e25f-44f6-91ec-f57abd734d0d
 Awabi,b89ecf66-93e0-42cf-a85d-3fd691c1774b
 AwkwardArray,7d259134-7f60-4bf1-aa00-7452e11bde56
+AwsIO,4047365c-aa37-44ec-b1fa-4c0d5495ccf1
 AxisAlgorithms,13072b0f-2c55-5437-9ae7-d433b7a33950
 AxisArrayConversion,972ef8a8-2335-4604-a4a0-94f299de4a83
 AxisArrayTables,af8da316-43a4-49f0-bd76-7de0cd630fd6
@@ -8889,6 +8890,7 @@ SAMaDB,aa959544-2f3b-44d5-8079-5ba914f22dbb
 SAOImageDS9,dbce9b26-8eb4-4825-964b-d4940cf8daff
 SARSOP,cef570c6-3a94-5604-96b7-1a5e143043f2
 SARSOP_jll,e478675d-f996-546e-baa1-da59d9de2062
+SASLAuth,cca00f77-35de-46b7-a2e1-4a86bed9cc56
 SASLMR,c5384bee-8a12-426e-bc63-175ec2f1897e
 SASLib,df8f2f22-cfef-5733-af3f-96770d497d85
 SBC_jll,da37f231-8920-5702-a09a-bdd970cb6ddc
@@ -11573,6 +11575,7 @@ datamash_jll,5e3497f2-6421-5a2b-b76c-5131171094e1
 dav1d_jll,349a489e-63ad-5fc4-b473-f70c9c959831
 deSolveDiffEq,0518478a-701b-4815-806c-24ad5cb92f09
 demumble_jll,1e29f10c-031c-5a83-9565-69cddfc27673
+desync_jll,fa92151d-46bc-54ec-9702-06e181683c4a
 devspace_jll,f3d103f0-1a5c-5786-832a-e5a97cefde2e
 diffutils_jll,11f5bf75-d780-529b-b59b-a3a04c974070
 difmap_jll,43cd2700-e54a-5645-adf8-b9b288a87fe6
