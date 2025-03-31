@@ -1443,6 +1443,7 @@ CharacteristicInvFourier,a9d857e3-08c1-4480-86de-23e87aa49497
 ChargeTransport,25c3eafe-d88c-11e9-3031-f396758f002a
 ChargedParticleDynamics,209b3593-7183-5600-9f8f-df5ce7fddd64
 ChargedParticles,e91dad46-2c06-47f2-8668-7ffa57fde2d9
+Charon,7cff5b3a-8f09-4ceb-8bc2-fd31e9948585
 ChartParsers,de988000-0167-11e9-3115-2b7bbce15f76
 Chartmetric,5e0982d9-853c-416b-a9e6-ad7fe38a6229
 ChatAPICall,dab9e3cf-270b-48a8-a707-d6834c795ca3
@@ -2848,11 +2849,13 @@ EnergyCommunity,2f2d8a28-e724-42c4-aa4e-51fe4e6b7a61
 EnergyExpressions,f4b57a2e-27c7-11e9-0cb0-edd185b706f6
 EnergyModelsBase,5d7e687e-f956-46f3-9045-6f5a5fd49f50
 EnergyModelsCO2,84b3f4d7-d799-4a5d-b06c-25c90dcfcad7
+EnergyModelsCompliance,a12c78df-351d-47be-9a81-17a33aab13b1
 EnergyModelsGUI,737a7361-d3b7-40e9-b1ac-59bee4c5ea2d
 EnergyModelsGeography,3f775d88-a4da-46c4-a2cc-aa9f16db6708
 EnergyModelsHeat,ad1b8b27-e232-4da9-b498-bea9c19a30d7
 EnergyModelsHydrogen,44855f8b-b147-4985-ac18-48817d03c548
 EnergyModelsInvestments,fca3f8eb-b383-437d-8e7b-aac76bb2004f
+EnergyModelsRecedingHorizon,37ec17de-8561-4b6b-83ee-0529988fea82
 EnergyModelsRenewableProducers,b007c34f-ba52-4995-ba37-fffe79fbde35
 EnergySamplers,f446124b-5d5e-4171-a6dd-a1d99768d3ce
 EnergyStatistics,631263cc-0f82-11ea-1caf-35c9eae72d11
@@ -3953,6 +3956,7 @@ GetGene,fa12694a-6dff-11e9-3f23-c5fa6b69506f
 Getopt,31df374a-5bce-54dc-914a-f687be069de8
 Gettext,a6aca261-61b0-5b33-a99a-e9c977ffa089
 Gettext_jll,78b55507-aeef-58d4-861c-77aaff3498b1
+Ggplot2,5eb46db9-241e-4516-b2d9-6a99246a435a
 GhibliPalettes,90723813-cdbc-4127-ac5b-633cd2ebf9f7
 Ghost,4f8f7498-1303-42e1-920c-5033445536df
 Ghostscript_jll,61579ee1-b43e-5ca0-a5da-69d92c66a64b
@@ -4187,6 +4191,7 @@ H5Zbzip2,094576f2-1e46-4c84-8e32-c46c042eaaa2
 H5Zlz4,eb20ec05-5464-47b5-ba41-098e3c1068a3
 H5Zzstd,f6f2d980-1ec6-471c-a70d-0270e22f1103
 HAML,0bc81568-2411-4001-9bf1-c899fa54f385
+HAPIClient,0ce0b37c-8851-4c5b-98a3-e691a5f19c53
 HAdaptiveIntegration,eaa5ad34-b243-48e9-b09c-54bc0655cecf
 HCGeoTherm,28071b0f-1505-495f-9565-3513cfd1c620
 HCIDatasets,1893dc6a-5236-4cb8-aa54-62ea411c10cd
@@ -6129,6 +6134,7 @@ Mendeleev,c116f080-063d-490a-9873-2b5b2cce4c34
 MenuAdventures,1bdb1fc2-3878-4cd7-bc8e-3a46b04d7bcc
 Mera,02f895e8-fdb1-4346-8fe6-c721699f5126
 MergeSorted,5f6ebb72-d4a9-4954-9a69-49758639d560
+MergedArrays,4201acb4-6ad2-4fbc-ab19-c24116385dd7
 MergedIterators,0366c28c-dc25-47c7-912f-d29916230b20
 MerkleTrees,06dfef30-8e85-11e9-0a8e-cb6ed32fdbef
 Merly,5b70daea-9db9-5a46-aedf-2142e553ecc5
@@ -7800,6 +7806,7 @@ PlutoVista,646e1f28-b900-46d7-9d87-d554eb38a413
 PlutoWorkspaceExplorer,88acd20c-1248-4a97-8a3e-4ab1c55a24a0
 PlyIO,42171d58-473b-503a-8d5f-782019eb09ec
 PoGO,043b967d-4e64-47a6-97d4-0007e6b4905c
+PoGOBase,9aeef027-32d9-426e-907e-1f5ddbd18eab
 PoGOGamemaster,62c09a92-b096-4650-ba41-ec5e38cc10f2
 PoincareInvariants,26663084-47d3-540f-bd97-40ca743aafa4
 PointBasedValueIteration,835c131e-675f-4498-8e2c-c054c75556e1
