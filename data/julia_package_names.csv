@@ -1053,6 +1053,7 @@ BplusApp,6498524c-785b-4e26-b825-b7be109d6de7
 BplusCore,1fb136ff-715c-473e-9ae1-0caef0ff09b1
 BplusTools,9c855568-ef52-4907-8d6a-2b3bbb89a4a6
 BracedErrors,22c333fb-6c73-5509-a736-78cf55b615ef
+BracketAlgebras,304cb2e1-bfe1-4bb6-af58-8b73a9a6b3c1
 BracketingNonlinearSolve,70df07ce-3d50-431d-a3e7-ca6ddb60ac1e
 BraidChains,2f0bda38-0aac-4c24-8082-32a9a5324934
 BraidGroup,88710b8a-735b-4c46-a451-f37baff89cb3
@@ -2081,6 +2082,7 @@ DAEProblemLibrary,dfb8ca35-80a1-48ba-a605-84916a45b4f8
 DAMMmodel,7af7f183-cd03-4039-bf6b-67ea3eb1648d
 DANDIArchive,47d7f1a7-5a03-43cb-9594-a2dfa8fa9501
 DAQP,c47d62df-3981-49c8-9651-128b1cd08617
+DAQPBase,833476c3-a8c0-4073-9b64-6473509843fe
 DAQP_jll,5c51c916-43bf-57fe-9d62-13064ebbf40d
 DASKR,165a45c3-f624-5814-8e85-3bdf39a7becd
 DASKR_jll,655fdf9c-4522-5e7e-b537-e46a52300ea6
@@ -2553,6 +2555,7 @@ DocumentationGenerator,8f0d3306-d70b-5309-b898-24bb6ab47850
 DocumentationOverview,fd22d563-a49f-4a45-896b-231dbcd7c5a0
 Documenter,e30172f5-a6a5-5a46-863b-614d45cd2de4
 DocumenterCitations,daee34ce-89f3-4625-b898-19384cb65244
+DocumenterDescriptions,e9159221-f9c0-48a0-ba53-9ba151c71a1d
 DocumenterDiagrams,a106ebf2-4182-4cba-90d4-44cd3cc36e85
 DocumenterDocset,6c6aa8a8-7996-49c7-bb42-8bcee6cacab7
 DocumenterEpub,be4a6882-a45f-4bf3-9876-0e7ffb31ffcc
@@ -3577,6 +3580,7 @@ FuzzifiED_jll,0fc6ce7e-a225-5ad5-93a0-97260cfa1513
 Fuzzy,a9166f1b-85e5-4df0-9c26-e06b441f12e8
 FuzzyCRegression,f92c8a04-155b-4747-b198-4c6b1c04e8f7
 FuzzyClusteringSimilarity,edb9ae08-98fc-4535-bc7b-43b5fa0191ff
+FuzzyCognitiveMaps,e003fe91-ef5c-401b-a5d0-df7fea4e158d
 FuzzyCompletions,fb4132e2-a121-4a70-b8a1-d5b831dcdcc2
 FuzzyEmbeddingMatch,3f13813c-b3c5-46a6-9f94-8bb23878de35
 FuzzyLogic,271df9f8-4390-4196-9d4f-bdd0b67035b3
@@ -5148,6 +5152,7 @@ KongYiji,3943505e-88e3-5b18-a3d9-e2be89fdab48
 KoreanJosa,a89d73a9-ae92-4287-941f-57cd51dbf5ba
 Korg,acafc109-a718-429c-b0e5-afd7f8c7ae46
 Kpax3,ad72c4b6-2990-538c-bd38-e122d63d24d9
+Kraken,269dd85f-649c-4475-a373-cd87bf6afec3
 KrakenEx,905906f8-4650-4186-8b30-13842c9f1f1c
 Krang,54806c32-d51a-438d-8447-e0041be2fbfb
 Kriging,6133562b-a8e8-5ea3-954b-37642b766dad
@@ -7443,6 +7448,7 @@ ParallelMapReduce,35c9ef8c-44cb-42a7-bccd-f3b9e73321fd
 ParallelMergeCSR,c4b929cc-6141-4ba4-8849-280a863346e1
 ParallelNeighbors,195f4218-6b04-4c05-a00e-4e57ae4ff715
 ParallelOperations,09c1cff2-b94d-4c31-85a1-721512e21c63
+ParallelParticleSwarms,ab63da0c-63b4-40fa-a3b7-d2cba5be6419
 ParallelProcessingTools,8e8a01fc-6193-5ca1-a2f1-20776dae4199
 ParallelStencil,94395366-693c-11ea-3b26-d9b7aac5d958
 ParallelUtilities,fad6cfc8-4f83-11e9-06cc-151124046ad0
@@ -9302,6 +9308,7 @@ ShaderAbstractions,65257c39-d410-5151-9873-9b3e5be5013e
 Shaderc_jll,6bef4a77-805f-5404-b838-981e48d6e429
 ShallowWaters,56019723-2d87-4a65-81ff-59d5d8913e3c
 Shamir,e4fe616d-9329-4237-b43f-e8b93a85fd75
+ShamirSSS,8837512e-1bcb-4217-bddb-6be6cbcc2de3
 ShaneGPUCountMinSketch,910541cc-34bb-47a1-b3fd-5231dc2195e0
 ShapML,8523bd24-6f66-414b-9e1e-b02db3916d64
 ShapeConstrainedStats,f73efea4-6d21-11e9-25ff-9b1447cfbccb
@@ -9997,6 +10004,7 @@ StratIntervals,25535e0e-5971-408f-b193-ac148e584f39
 Strategems,054b7d4e-9922-5ad3-8b46-7dbe695a681f
 StrategicGames,21c4ae29-9918-4bcb-9542-b100d366d64c
 StratiGraphics,135379e1-83be-5ae7-9e8e-29dade3dc6c7
+StravaAPI,71058383-8132-461f-b29a-bb8012bb1004
 StrayCopses,f554f415-119e-4ea0-8d58-ae5601ed402a
 StreamCallbacks,c1b9e933-98a0-46fc-8ea7-3b58b195fb0a
 StreamCallbacksExt,318dcf79-f1de-4874-b31b-6e12fc76f75a
