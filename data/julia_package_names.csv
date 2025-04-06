@@ -5459,6 +5459,7 @@ LibUCL_jll,4559eb44-f4ba-5e76-9185-3ac873597822
 LibUV_jll,183b4373-6708-53ba-ad28-60e28bb38547
 LibUnwind_jll,745a5e78-f969-53e9-954f-d19f2f74f4e3
 LibVPX_jll,dd192d2f-8180-539f-9fb4-cc70b1dcf69a
+LibXLSXWriter,d9c5391f-cdb8-42e0-9032-91a2542ec5a4
 LibYAML,893b89ae-d513-59bf-bb22-7f8468641907
 LibYAML_jll,f531010a-71ee-5b11-8e71-2f13f29d8a82
 LibZip,89089acc-ee81-44d2-83aa-3aa2951b1031
@@ -6203,6 +6204,7 @@ Metalhead,dbeba491-748d-5e0e-a39e-b530a07fa0cc
 MetapopulationDynamics,67afee28-ec33-4cc2-88ea-a48c87ed52f9
 Metatheory,e9d8d322-4543-424a-9be4-0cc815abe26c
 MethodAnalysis,85b6ec6f-f7df-4429-9514-a64bcd9ee824
+MethodForwarding,45e47a89-b455-4dd5-a62c-c007f63154db
 MethodInSrc,c116309b-47aa-4bde-803c-ba7517b69216
 MethodInspector,b1dd13ee-3653-43d9-9a5b-1245bfcfc883
 MethodOfLines,94925ecb-adb7-4558-8ed8-f975c56a0bf4
@@ -9746,6 +9748,7 @@ SphericalClusterMass,4e4236b1-b06d-4ded-9e3d-2d170138da79
 SphericalFourierBesselDecompositions,7c5eff59-6392-4db1-b2e3-7d0560cca202
 SphericalFunctions,af6d55de-b1f7-4743-b797-0829a72cf84e
 SphericalGeometry,b58e7a8d-b3e8-4a5d-bea9-e6440cab77fd
+SphericalHaarTransform,f82b2a20-12c9-425c-bdb8-e1eabd25f0c2
 SphericalHarmonicArrays,9dd28c12-4719-4e7d-b634-e7b733a6d046
 SphericalHarmonicExpansions,504afa71-bae7-47b4-8ec9-3851161806ac
 SphericalHarmonicModes,0e9554e2-b38b-11e9-16d7-9d9abfec665a
@@ -11073,6 +11076,7 @@ ViennaRNA,05a721ad-238d-4945-8c85-8b5c1fff3465
 ViennaRNA_jll,b7a990de-7fa3-5a2e-8a39-d875e4dafecd
 View5D,90d841e0-6953-4e90-9f3a-43681da8e949
 VimBindings,51b3953f-5e5d-4a6b-bd62-c64b6fa1518a
+Vim_jll,1e82aed4-b73c-514c-b6b0-721e3fbe9c02
 Vimes,85f4b15a-ac2e-11e8-1659-abc63ef75ab0
 Vinyl,83e47e11-4a7a-5bf8-892c-11f81bf9b223
 VirtualAcousticOcean,629e117c-1786-4222-ab4a-1acab234d923
