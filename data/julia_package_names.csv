@@ -759,6 +759,7 @@ BcubeCGNS,a9bead8e-c4b5-4f51-8a4e-84805ae90250
 BcubeGmsh,8c8b3700-392b-4630-b974-b8b78831232a
 BcubeVTK,f7a61acb-f482-4505-b2eb-e9cadd76b6b4
 BeaData,acefaad2-17a4-5d8b-aa08-e18ef75dd0cf
+Beamlines,5bb90b03-0719-46b8-8ce4-1ef3afd3cd4b
 BeastUtils,af749cb1-4ea1-40dc-96cd-a9902a2c5721
 Beauty,e5fb2512-507e-11e9-3018-95af41067f06
 Bedgraph,0bcc2ff6-69eb-520d-bede-0374fc5bd2fd
@@ -6879,6 +6880,7 @@ NonlinearSystems,deb0877a-d74a-4aeb-b6ac-c17f6fb4122e
 NonlinearTestProblems,84d880b8-0062-4738-ba75-b6cb1662e554
 NonogramSolver,108db2ec-6058-46d0-81ab-928f1904c069
 NonparametricRegression,db432338-e110-4b7a-9c53-0ace38eb8f7f
+NonparametricVI,2fb14f58-0ee9-4f79-83b0-fac5a8c3c025
 NonsmoothOptim,0dfc7a1c-e419-4470-a3bc-787e626244db
 NonstationaryProcesses,7656fb31-40ed-4019-8ece-32bdcc5fce69
 NonstationaryProcessesBase,af5f7d59-81cb-4819-a164-3c52f7fc19dd
@@ -9478,6 +9480,7 @@ SimplexCellLists,fbe69cd6-f244-4ce4-a90b-8979d86c9ea4
 SimplexGridFactory,57bfcd06-606e-45d6-baf4-4ba06da0efd5
 SimplexPoly,777a8b24-f29b-463a-92de-bae7e9c19588
 SimplexQuad,f5de1e94-2f77-472d-8c3b-9d09f580ee5e
+SimplexTableaux,b49aa546-d643-4829-bb91-bc1e5e539d80
 Simplices,d5428e67-3037-59ba-9ab1-57a04f0a3b6a
 Simplicial,bb1577d6-fed0-5ffd-8131-5296c7c3c7ad
 SimplicialCubature,552d7cc9-94b7-4d62-a95c-872e87830e46
