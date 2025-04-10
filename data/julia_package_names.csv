@@ -9037,6 +9037,7 @@ SP2000ChinaData,e24bbd13-ca2d-4e80-8582-2dcbdb03756c
 SPCSpectra,ddf1bf59-526a-4a23-8a87-8f8ce489e0c9
 SPDX,47358f48-d834-4249-91f5-f6185eb3d540
 SPECTrecon,ab1be465-a7f0-4423-9048-0ee774b70ed9
+SPEDAS,3930f61c-4d81-4846-ab8f-357babe068a6
 SPEFiles,ed854f67-b1dc-40c1-a595-92080aa32ec0
 SPEX_jll,898ba197-c998-587e-a2ef-a70a4ce1f459
 SPGBox,bf97046b-3e66-4aa0-9aed-26efb7fac769
@@ -9456,6 +9457,7 @@ SimpleRationalFunctions,1a520dc8-4f4e-523b-a9bd-3b3d46c5454b
 SimpleRoots,6accb78c-d340-5052-9dc3-a835939e19d0
 SimpleSDMDatasets,2c7d61d0-5c73-410d-85b2-d2e7fbbdcefa
 SimpleSDMLayers,2c645270-77db-11e9-22c3-0f302a89c64c
+SimpleSDMPolygons,dd4c243c-bc7b-45f6-b2b3-6bd128d3a12b
 SimpleSim,b9efc609-bc7d-446c-95a0-c858d8725e88
 SimpleSolvers,36b790f5-6434-4fbe-b711-1f64a1e2f6a2
 SimpleStatics,755f8035-bddb-4884-b09e-b908b7adad44
