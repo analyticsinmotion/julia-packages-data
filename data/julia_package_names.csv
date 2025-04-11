@@ -1920,6 +1920,7 @@ ConvexBodyProximityQueries,e9983d58-8b29-5530-8046-db49618142f9
 ConvexFit,87351080-99b7-4180-88c0-67eb87125a50
 ConvexFlows,e6d6bbd2-f446-4b3b-b420-735d85b530c7
 ConvexHulls2d,438b5665-92b0-42e6-bc36-e4ac8449fa2d
+ConvolutionInterpolations,75b5ba44-29d7-490a-960d-52c835d47405
 ConvolutionOperators,15927181-a1bb-497c-b745-8dbf505c019d
 ConvolutionalOperatorLearning,3c17ac3d-2343-4d75-b01f-81723beeda4b
 Cookbook,5c1ef01f-39c8-5834-b1a0-1a342f75f4df
@@ -4633,6 +4634,7 @@ InPartS,f768f48f-0d8a-415b-80aa-7de5ff9b8474
 InPartSBiome,87678d4f-af7b-42c4-8acc-799be3e9c2d2
 InPartSMakie,6a17de3e-552d-46b5-89f5-35afbcb8c2d5
 InPartSObstacles,4110d2ad-ee24-4968-96bf-19205974a08d
+InPhyNet,7d272db0-e1ce-47ab-9b64-d0002ca9962f
 InPlace,12a7aed9-f4ee-5e21-a57e-4f63a8148421
 InboundsArrays,fb0a3009-a0ba-48c7-b828-2efdeaae8962
 IncGammaBeta,5087d2c0-5ad2-51de-b1ef-eaf82f0743fd
@@ -8251,6 +8253,7 @@ Qemu_static_jll,969c3ef0-f950-5ada-826d-ee9b7b636380
 QhullMiniWrapper_jll,460c41e3-6112-5d7f-b78c-b6823adb3f2d
 Qhull_jll,784f63db-0788-585a-bace-daefebcd302b
 QiskitOpt,81b20daf-e62b-4502-a0d1-aa084de80e33
+QpidProton_jll,0d8a7629-d82b-587d-918a-5ef219d77cd9
 Qsosed,88aa254b-a4fc-49c2-a63e-728a46cd2298
 QstarzGPS,ada5f36f-82d2-4979-8729-2b99ff45c2e1
 Qt5Base_jll,ea2cea3b-5b76-57ae-a6ef-0a8af62496e1
@@ -8399,6 +8402,7 @@ QuerySQLite,57f923c0-76be-11e9-095d-c942eaffc94b
 QueryTables,30ad73d7-305e-5999-88c2-a7d9e8945169
 QueryableBackend,0898d9ac-042b-5d31-8dcc-959fb3365f19
 Queryverse,612083be-0b0f-5412-89c1-4e7c75506a58
+QuestBase,7e80f742-43d6-403d-a9ea-981410111d43
 QuestDBClient,db551b72-c8d0-4930-8019-443d434af198
 QuestradeAPI,a23c94f3-7123-4b19-879a-52247cde9a4c
 QuickHeaps,30b38841-0f52-47f8-a5f8-18d5d4064379
@@ -9415,6 +9419,7 @@ SimpleDataLoader,c1a33df0-d483-433f-a276-d4ca0de2df57
 SimpleDiffEq,05bca326-078c-5bf0-a5bf-ce7c7982d7fd
 SimpleDifferentialOperators,7ccca996-40d6-5c2f-be7f-4eb2934af9c4
 SimpleDirectMediaLayer,98e33af6-2ee5-5afd-9e75-cbc738b767c4
+SimpleDirectedHypergraphs,a42c6b43-640c-4761-b4a8-4f98c31d02e9
 SimpleDistributionPowerFlow,f823eff6-be4d-43a7-b42c-2ec4700fde1f
 SimpleDraw,d1acf6f4-8553-480e-80ae-3c883f0a995a
 SimpleDrawing,d78a06e8-ae74-583c-9a07-0d6572347000
