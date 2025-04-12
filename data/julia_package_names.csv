@@ -10067,6 +10067,7 @@ StructuralEquationModels,383ca8c5-e4ff-4104-b0a9-f7b279deed53
 StructuralIdentifiability,220ca800-aa68-49bb-acd8-6037fa93a544
 StructuralInheritance,eb3e9d2b-04dc-54b3-9584-49775b812a39
 StructuralUnits,ec81c399-378c-4a82-baa1-80fb2fc85b6c
+StructuralVibration,85cedecc-ec67-4717-8ef3-ce3f1b8dc459
 StructureFunctions,e93fee26-4d5e-49c1-899d-490508cfd19b
 StructuredArrays,2e8cd123-6858-488d-b42d-068777248635
 StructuredGrids,3d2d666f-9104-4379-abe9-d44f4b99a429
@@ -11885,6 +11886,7 @@ nauty_jll,55c6dc9b-343a-50ca-8ff2-b71adb3733d5
 neofetch_jll,9e63c3cd-fb65-5a20-944b-2e08a37f68f9
 neper_jll,258f42f6-ca5a-5cac-81eb-6d63eea71a0c
 nghttp2_jll,8e850ede-7688-5339-a07c-302acd2aaf8d
+nghttp3_jll,ddcadc53-6d93-5ff2-a689-b0a21eea8355
 ngspice_jll,57e080ce-e004-5ece-a144-c95753423b2a
 nlcglib_jll,782cc49c-e073-530d-b5fe-579a70b042cc
 nlminb_jll,c04a2911-6870-53d6-aa47-4d7d5aff1028
