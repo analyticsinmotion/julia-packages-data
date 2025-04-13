@@ -4827,6 +4827,7 @@ Isoband,f1662d9f-8043-43de-a69a-05efc1cc6ff4
 Isoplot,5adc30d5-9ddf-423c-bb15-ece697bec3ab
 IsopycnalSurfaces,29a8b8bc-eb2a-4ada-9a47-be49547c4d59
 Isosuite,4e0cf86c-8ca5-4e68-a38e-9d6c92424124
+IsotopeCorrection,ada07ce9-609d-4543-9e41-2cdc42bc1f8f
 IsotopeTable,301f09c9-9f3f-4b04-816f-ee47ab44b8cb
 IsotopeTableDF,c71ae3cc-a68c-42a6-9c9a-bb45e30452df
 IsotopicCalc,5554e927-0bdd-4e37-b621-d0b49d571e7b
@@ -5260,6 +5261,7 @@ LSPNeovim,42462c39-edde-4cdc-9c73-a9d3181f44a6
 LTWA,a3b798af-b683-4007-b74f-b9136125839e
 LVServer,b45899a3-f603-4de6-8657-71d649cef297
 LWFBrook90,100deb6c-4418-4b77-ad5c-a1fadb580743
+LZFSE_jll,58530d00-bdec-5bcb-8e8b-bc8c1f9d555e
 LZO_jll,dd4b983a-f0e5-5f8d-a1b7-129d4a5fb1ac
 L_BFGS_B_jll,81d17ec3-03a1-5e46-b53e-bddc35a13473
 LaMEM,2e889f3d-35ce-4a77-8ea2-858aecb630f7
