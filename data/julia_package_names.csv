@@ -1356,6 +1356,7 @@ CartesianDomains,31d3d393-e656-4614-8ab7-f376885a6db2
 CartesianGeneticProgramming,a58c8383-ac42-4eac-b920-efb5a098c09c
 CartesianGrids,3e975e5d-2cf8-4263-9573-8460aaf534d9
 CartesianJoin,53bdf068-0a7a-4e29-924d-659363f059ee
+CasADi,c49709b8-5c63-11e9-2fb2-69db5844192f
 CasADi_jll,4e54d0b0-c9f2-5505-b569-bd333cacc8c1
 CasCommonChemistry,df8efd69-f2b9-468d-a38a-0046f1138390
 Casacore,72bb1062-94f5-49fa-bb69-94b615203ad9
@@ -4433,6 +4434,7 @@ HybridSystems,2207ec0c-686c-5054-b4d2-543502888820
 HybridSystemsSimulations,bed98974-b02a-5e2f-9ee0-a103f5c450dd
 HybridTreeBoosting,a7b84c78-fd94-4b48-aa74-d26ca7b1659c
 Hydro,fc36d966-fe4b-4286-9a77-63003c00d81d
+HydroModelCore,57609f06-44cb-4626-8f6d-47ea844d0af1
 HydroModelTools,31f4d4b3-d71d-422d-8932-b4ab24c6e7e3
 HydroModels,7e3cde01-c141-467b-bff6-5350a0af19fc
 HydroPowerSimulations,fc1677e0-6ad7-4515-bf3a-bd6bf20a0b1b
@@ -9672,6 +9674,7 @@ SourceWalk,2987fe4f-acca-4bd1-87ee-98b3d562f1a1
 SpFFT_jll,8be71ea8-ca6b-526f-84e8-fb2862ef466b
 SpQEphysTools,3cf761ad-e7e3-472c-b6ca-3dfc9dcba960
 SpaSM,017bf598-072c-475c-a75e-c3e68736ce70
+SpaceDataModel,0b37b92c-f0c5-4a52-bd5c-390dec20857c
 SpaceIndices,5a540a4e-639f-452a-b107-23ea09ed4d36
 SpaceInvaders,27459e48-f83e-40a1-9b04-5e43823e0701
 SpaceLiDAR,29bf0bfc-420f-4fa5-b441-811fd9e6e11d
@@ -10745,6 +10748,7 @@ Trixi2Vtk,bc1476a1-1ca6-4cc3-950b-c312b255ff95
 TrixiBase,9a0f1c46-06d5-4909-a5a3-ce25d3fa3284
 TrixiBottomTopography,86af9953-43df-404b-8eaa-d20d82623a82
 TrixiParticles,66699cd8-9c01-4e9d-a059-b96c86d16b3a
+TrixiShallowWater,804cb1fc-5b08-4398-a671-a789bfe091b3
 TropicalCyclonePotentialIntensity,3d638a7a-a2e4-42bc-a032-160bbf3719f9
 TropicalGEMM,a4ad3063-64a7-4bad-8738-34ed09bc0236
 TropicalGemmC_jll,4f4992fb-2984-5eba-87b8-475305d0f5fc
@@ -11324,6 +11328,7 @@ XGBoost,009559a3-9522-5dbb-924b-0b6ed2b22bb9
 XGBoost_jll,a5c6f535-4255-5ca2-a466-0e519f119c46
 XGPaint,af630e4a-6754-4ec2-ab8a-f9f8b9ebafbf
 XGrad,c48004fe-d13f-5df9-98d5-0c1ab8e45fa0
+XInput,a139f0b0-aff0-474c-bd1d-9cc0765dd9cf
 XKCD,4bc7fa8b-4ef2-4643-8c8b-cef036f85839
 XKeyboard,0c8a7d74-93ea-4f23-9ed1-b26578bfdfe6
 XLA_Tools_jll,5debfaa8-cf0e-5577-9f8f-ffadd6421daa
