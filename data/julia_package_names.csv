@@ -3271,6 +3271,7 @@ FeynmanDiagram,e424a512-dbd9-41ff-9883-094748823e72
 FeynmanKacParticleFilters,b43f8e06-e683-11e8-294f-8d3ef32cb08c
 FiberNlse,21c1a3e3-8543-4069-a1c4-5ed3e2bf6e2f
 Fibers,79c5424f-e3fe-4f6a-a484-e0e793a8858c
+Fides,18b51ec4-043b-11f0-1953-6f1d11d509fa
 FieldAlgebra,0b62d163-fd1d-4060-a953-4385d03545e2
 FieldConstants,73d362c4-b7ec-495f-a538-f22f12d4d8ae
 FieldDefaults,49426c49-986f-5969-8844-d5cc96441cfc
@@ -6307,6 +6308,7 @@ MiraiBots,e34416ce-79ee-4ebd-8d29-74bfd0620ce8
 MirrorUpdater,7f0fc4bf-4ffe-4e21-ab91-7bf1358d5ab3
 MirroredArrayViews,b32b01fb-8833-5495-9754-2f5f3e3ebfd4
 MiseEnPage,92bda1c4-f68c-458d-a0a7-9475acb83902
+MissingPatterns,41be38da-c9ad-4b24-9b1b-21c83f144a15
 MissingStrategies,e455a6d6-8373-11eb-38a5-df3e63e3f6fc
 Missings,e1d29d7a-bbdc-5cf2-9ac0-f12de2c33e28
 MissingsAsFalse,bd3c0b08-7cce-4d14-b276-b0e6d20a7f61
@@ -7676,6 +7678,7 @@ PiecewiseAffineApprox,029c5f1c-0dc4-4551-8b87-a10b73fe3713
 PiecewiseDeterministicMarkovProcesses,86206cdf-4603-54e0-bd58-22a2dcbf57aa
 PiecewiseHilbert,fb75a84c-a7ae-4011-94d8-abc4bb6dbff9
 PiecewiseIncreasingRanges,efdf428f-f294-58b6-a961-90c8051bff4c
+PiecewiseLinApprox,f599c993-2677-4f60-8998-71feb0f665db
 PiecewiseLinearApprox,fcfa6960-8e2e-11e9-2cde-29dd09221fb3
 PiecewiseLinearFunctions,08f3856d-0b18-48ce-8d4b-10c3630068d6
 PiecewiseLinearOpt,0f51c51e-adfa-5141-8a04-d40246b8977c
@@ -7961,6 +7964,7 @@ PowerFlows,94fada2c-fd9a-4e89-8d82-81405f5cb4f6
 PowerGraphics,5f7eddb3-86b1-49e8-a95a-ddc0f45eea41
 PowerLawNoise,9abb9eec-80c7-4a18-accd-d591357fead6
 PowerLawSamplers,ea71c90e-cdc5-43db-a32d-9c22f1535540
+PowerLaws,dddc953c-20d8-47dd-8cc1-765c34677cac
 PowerModels,c36e90e8-916a-50a6-bd94-075b64ef4655
 PowerModelsACDC,ff45984e-d068-5f4c-9e32-c4133509d236
 PowerModelsADA,bf5a6c5f-0285-47d6-bb57-79927775d05d
@@ -10405,6 +10409,7 @@ TensorInference,c2297e78-99bd-40ad-871d-f50e56b81012
 TensorKit,07d1fe3e-3e46-537d-9eac-e9e13d0d4cec
 TensorKitManifolds,11fa318c-39cb-4a83-b1ed-cdc7ba1e3684
 TensorKitSectors,13a9c161-d5da-41f0-bcbd-e1a08ae0647f
+TensorKitTensors,41b62e7d-e9d1-4e23-942c-79a97adf954b
 TensorMarket,8b7d4fe7-0b45-4d0d-9dd8-5cc9b23b4b77
 TensorNetworkAD,6b36f460-1d4e-5459-a8c4-3ab8f40f7d47
 TensorNetworkCodes,b317c587-d840-4e81-9857-9d906192e215
