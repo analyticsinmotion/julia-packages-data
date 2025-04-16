@@ -2586,6 +2586,7 @@ DomainColoring,c24f3079-adb7-4533-8329-9f66732e5e85
 DomainColoringToy,7cf40ad8-af6a-4ede-b3c6-2a9df3bce851
 DomainIntegrals,cc6bae93-f070-4015-88fd-838f9505a86c
 DomainSets,5b8099bc-c8ec-5219-889f-1d9e522a28bf
+DominanceAnalysis,61e87ef1-9b8b-4988-a4a2-86a1869cf33a
 DontMaterialize,5f58fed1-7d9e-412e-9290-962e4cbf8d80
 DopplerSpectroscopyCore,5ae39bbf-cd25-4248-8c0a-5a8eea00c34e
 DormandPrince,5e45e72d-22b8-4dd0-9c8b-f96714864bcd
@@ -4059,6 +4060,7 @@ GoogleTrans,659f704f-cf79-45a2-9e03-898b721e1055
 Gotree_jll,39fdd4d3-b125-5cbe-a3fb-d0967b9158ef
 GpABC,e850a1a4-d859-11e8-3d54-a195e6d045d3
 GracePlot,7eab9655-7a32-54b9-bc77-719f19b65607
+GracefulPkg,828d9ff0-206c-6161-646e-6576656f7244
 GradDescent,e1397348-e965-55d8-8fb3-3dd9faf6e4f1
 GradValley,09181f56-3701-4cc7-90cd-48d6c64fd517
 Grader,d440d0cf-a03a-4c3f-a45e-240b6b8fa1ca
@@ -9136,6 +9138,7 @@ SankeyPlots,8fd88ec8-d95c-41fc-b299-05f2225f2cc5
 SantasLittleHelpers,c6e7a17c-0287-4a42-9433-7fe3bf8697c3
 Santiago,4c14ae50-faa6-54c0-b22f-5cc2de459edf
 Sargassum,022a0cfc-64d6-4a4c-8da6-19b349a396b3
+Sarimax,32cb7113-d955-45ac-bb89-2e20d5d4d2f9
 Sass,322a6be2-4ae8-5d68-aaf1-3e960788d1d9
 SassC_jll,e813748c-f071-5ac4-9ddd-9e9e72545407
 SatSolver,19162200-215e-47cb-8549-eaa9b939e44b
@@ -11500,6 +11503,7 @@ Zauner,ce1149fb-49fa-4541-ae6c-62019ae07d40
 Zellij_jll,f51964ae-9c2b-58f9-be08-f952495c30f4
 Zenith_jll,ab215d34-98c8-565c-96d8-6589c1ef91a8
 ZernikePolynomials,e462d300-c971-11e9-30f1-fb93b1f8f73a
+ZeroDimensionalArrays,446293e6-c8ea-451e-b470-6510dab5ca7b
 ZeroInflatedDistributions,f0eaf0ea-6b2c-45fd-8e3c-3fe72bdc2ec5
 ZeroInflatedLikelihoods,799edfa2-b1a3-4e1c-96c0-d1ebdffd3208
 ZeroMQ_jll,8f1865be-045e-5c20-9c9f-bfbfb0764568
@@ -11763,6 +11767,7 @@ libdatachannel_jll,a9336cb3-2ff0-5b58-948f-a453a6f195b0
 libdecor_jll,1183f4f0-6f2a-5f1a-908b-139f9cdfea6f
 libdeflate_jll,46979653-d7f6-5232-b59e-dd310c4598de
 libdivsufsort_jll,3acd9466-597a-52f5-9fc8-ad906e2116c6
+libdmg_hfsplus_jll,a9dd9d48-4682-593d-95c5-5ff28a9e156e
 libdrm_jll,8e53e030-5e6c-5a89-a30b-be5b7263a166
 libevdev_jll,2db6ffa8-e38f-5e21-84af-90c45d0032cc
 libevent_jll,1080aeaf-3a6a-583e-a51c-c537b09f60ec
@@ -11928,6 +11933,7 @@ openfhe_julia_int128_jll,328aa5c7-aa14-5b23-aa57-05fb7d04b830
 openfhe_julia_jll,e5e97983-1b8c-50fe-92b7-0e05c8c202e2
 opusfile_jll,4fb77979-f048-53ce-ae57-a45249826a33
 osmium_jll,4698e515-9779-5814-ac19-c1da39f829b4
+osslsigncode_jll,5a7615ae-274c-51d1-b5a8-ff30401c2c7e
 oxigraph_server_jll,ca7c0f55-ad95-5972-a3e2-8e5b4e3bed80
 p3a_jll,31b8d6fc-6c78-56bd-b44f-ae5989ed963d
 p7zip_jll,3f19e933-33d8-53b3-aaab-bd5110c3b7a0
