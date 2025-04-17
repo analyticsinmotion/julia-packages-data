@@ -5654,6 +5654,7 @@ LoggingPolyglot,211639cc-9b11-4cfd-abc6-8f7477829344
 LogicCircuits,a7847b3b-b7f1-4dd5-83c3-60e0aa0f8599
 LogicToolkit,d3a281b0-2e49-4a34-8c25-fb04c757da16
 LogisticOptTools,1300ed3d-6860-462d-a0dd-96dd8e4084ab
+LogisticROC,6bf4ee07-1766-4a3a-9e7e-3ffe73513617
 Logistics,e933307e-f964-4372-9340-e36d39c2f667
 LogitSamplers,1b30fcfc-0ee9-4be2-9cfe-b2289b43e041
 Logomaker,3e22dfff-eee4-477b-ac6a-6f7f49e5ccf0
@@ -11614,6 +11615,7 @@ cmark_jll,7ecd0961-8137-5994-b1c6-01b84f60da24
 cminpack_jll,b792d7bf-f512-5dba-8a02-6d8084434f1d
 cmocka_jll,f83fd561-6387-5ecc-9835-b38c8eaffb11
 cmt_jll,65323cdd-17ec-5719-9643-72016a7f97e3
+code_server_jll,9d82fc85-3a26-5878-8296-eaade0189704
 cohomCalg_jll,5558cf25-a90e-53b0-b813-cadaa3ae7ade
 coordgenlibs_jll,f6050b86-aaaf-512f-8549-0afff1b4d57f
 coreutils_jll,5818bda4-868b-5068-b238-e370ed6eefef
