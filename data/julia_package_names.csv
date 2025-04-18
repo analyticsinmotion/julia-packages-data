@@ -1674,6 +1674,7 @@ CodecZlibNG,642d12eb-acb5-4437-bcfc-a25e07ad685c
 CodecZstd,6b39b394-51ab-5f42-8807-6242bab2b4c2
 Codecs,19ecbf4d-ef7c-5e4b-b54a-0a0ff23c5aed
 CodingTheory,89c41d41-0018-4667-9435-0b7cbc9fb764
+CodingTheoryUtils,3d410ee0-b2cd-4e54-aa06-374a4e0e0b7f
 Coefplots,a923fed4-9a3e-4356-92ad-9324328df929
 CoherentNoise,3547b4d8-3bdb-4c10-a099-d01a31e852e0
 CoherentTransformations,77ba1a33-2bad-462b-8444-1926d7830738
@@ -3655,6 +3656,7 @@ GEOS_jll,d604d12d-fa86-5845-992e-78dc15976526
 GEOTRACES,0fd43d8d-f157-424e-aaf7-32776c24e0de
 GFF3,af1dc308-cb6b-11e8-32f0-31192efa90f6
 GFlops,2ea8233c-34d4-5acc-88b4-02f326385bcc
+GGUFFiles,64b78412-f075-48b3-a385-7ef9f8f02b20
 GHCNData,7e11e036-0ca3-4a2d-a287-b6bec19ddff0
 GIFImages,7064036c-d33e-4a25-b247-cf6150d8ad81
 GIRFReco,cf1bd817-9e2d-403d-b1e7-15ef5a867bae
@@ -4288,6 +4290,7 @@ HarmonicOrthogonalPolynomials,e416a80e-9640-42f3-8df8-80a93ca01ea5
 HarmonicPolya,ace2b9e4-5609-4448-9398-3ff0de655bd8
 HarmonicPowerFlow,86181a9d-c058-48c5-9890-3e968e8a8777
 HarmonicPowerModels,56365af1-a032-4c1d-861b-3c9f15bdb54e
+HarmonicSteadyState,1158f75c-a779-4b85-8bfb-8fcf6bf02ced
 HarwellRutherfordBoeing,ce388394-9b3f-5993-a911-eb95552e4f2e
 HashArrayMappedTries,076d061b-32b6-4027-95e0-9a2c6f6d7e74
 HashCode2014,7bbed249-721d-42ac-b1f6-7cf884be0fbe
@@ -7125,6 +7128,7 @@ OpenQASM,a8821629-a4c0-4df7-9e00-12969ff383a7
 OpenQuantumBase,5dd19120-8766-11e9-1ef9-27094038a7db
 OpenQuantumSystems,90e503ea-487f-4e8e-81fe-8dcc9db25ac5
 OpenQuantumTools,e429f160-8886-11e9-20cb-0dbe84e78965
+OpenRouterAPI,5fa99b77-8481-443e-99e2-0055499c94eb
 OpenSMILES,29c4880b-f2d1-40f2-9463-012547100b04
 OpenSSH_jll,9bd350c2-7e96-507f-8002-3f2e150b4e1b
 OpenSSL,4d8831e6-92b7-49fb-bdf8-b643e874388c
