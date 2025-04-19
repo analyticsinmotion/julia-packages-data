@@ -335,6 +335,7 @@ AnytimeWeightedAStar,ec8c4e8f-3dff-4cc6-be8a-faba0f6c4cb5
 AoGExtensions,7df18d33-496e-4cfd-8564-72cba2c0b329
 Apophis,cf72b054-1e85-4718-a3f4-02cfdc10a054
 AppBundler,40eb83ae-c93a-480c-8f39-f018b568f472
+AppBundlerUtils_jll,20612f45-4fe6-500a-af5c-19078bfe0d65
 AppDirs,5a4fb9a2-b02d-4ffe-b178-6027dc2bc1ce
 AppleAccelerate,13e28ba4-7ad8-5781-acae-3021b1ed3924
 AppleHealthParser,d1ed7681-0bdc-4b3e-a64e-a9a059b3ebfe
@@ -716,6 +717,7 @@ BatchIterators,4161f7c7-f4e7-47ff-bbcb-bc0b24702626
 BatchReactor,ae347489-fc42-416e-8e9d-f76cf1731aac
 Batched,1629540a-9a93-50e9-aec3-2a5ae159dca9
 BatchedBLAS,dfa6e8bd-ffa5-4347-817a-aa08eb84b250
+BatchedMerkleTree,225b011c-e439-4471-b39b-04a9a0fe32f0
 BatchedRoutines,a9ab73d0-e05c-5df1-8fde-d6a4645b8d8e
 BatchedTransformations,8ba27c4b-52b5-4b10-bc66-a4fda05aa11b
 Batsrus,e74ebddf-6ac1-4047-a0e5-c32c99e57753
@@ -852,6 +854,7 @@ BinaryBuilderProducts,21737265-7a69-6e4f-4974-6375646f7270
 BinaryBuilderSources,316c416d-4527-6863-7465-466137743047
 BinaryBuilderToolchains,33566f4c-336c-3150-6d30-4374274e6143
 BinaryDecisionDiagrams,cd45f48d-2bff-4983-a793-756749635bd1
+BinaryFields,0fee9d7f-8397-4f0d-9ec6-117db1666467
 BinaryProvider,b99e7846-7c00-51b0-8f62-c81ae34c0232
 BinaryRecordReader,27e49e6c-9eba-4945-878d-08e5ccc7cbcd
 BinaryTemplates,63ebbf9a-108b-456f-88e1-4a75abca4b5c
@@ -2277,6 +2280,7 @@ DecisionMakingUtils,e21ee072-cbb1-4ecc-b257-6a793c43976a
 DecisionProgramming,0e836bf4-a496-11ea-2c13-edcbe498ce6b
 DecisionTree,7806a523-6efd-50cb-b5f6-3fa6f1930dbb
 DecompUtil_jll,2ebad9b3-2ef2-5978-ad98-6cd1c30fc6b8
+DecomposingGroupRepresentations,3934549d-b4b9-4a85-8fa6-9c281fbf1a3e
 DecomposingPolynomialSystems,f22b1612-9f73-4f98-889e-ed5396e1a4da
 DeconvOptim,03e7cd2f-1a03-4ea9-b59b-760a446df67f
 Deconvolution,41ba435c-a500-5816-a783-a9707c6f5f3a
@@ -11046,6 +11050,7 @@ VTKLegacy,0a04e04c-3d81-46c0-89a4-d6cdbba47ab1
 VTKView,955f2c64-5fd0-11e9-0ad0-3332e913311a
 VTTrac,a95e085e-b118-4c2b-a00a-78cb3dcd4dd8
 VTUFileHandler,6e9f8158-41af-4c42-b493-3202dfdd0db4
+VUMPSAutoDiff,87d80e04-03a5-42db-b395-4c81662c4174
 VaderSentiment,d53efdab-7ba5-41df-97a4-bb2a6cf1b478
 Vahana,e9033725-1633-496a-b29a-3bc5a5543602
 ValSplit,0625e100-946b-11ec-09cd-6328dd093154
@@ -11435,6 +11440,7 @@ Xorg_xkeyboard_config_jll,33bec58e-1273-512f-9401-5d533626f822
 Xorg_xorgproto_jll,c4d99508-4286-5418-9131-c86396af500b
 Xorg_xproto_jll,46797783-dccc-5433-be59-056c4bde8513
 Xorg_xtrans_jll,c5fb5394-a638-5e4d-96e5-b29de1b5cf10
+Xorriso_jll,0906d627-f1e8-5757-b67e-5a72ed64a995
 Xpress,9e70acf3-d6c9-5be6-b5bd-4e2c73e3e054
 XpressAPI,750d0954-2060-462e-b2dd-f6609bca40df
 Xpress_jll,308bddfa-7f95-4fa6-a557-f2c7addc1869
@@ -12077,6 +12083,7 @@ wget2_jll,8726a5da-ff56-5c52-916d-726e18caca27
 wget_jll,25883557-5102-5516-a11b-f84f27e871d7
 whisper_cpp_jll,ba274cc4-b956-5b22-9ddf-0d83a922508d
 wolfSSL_jll,98c43586-9870-5ae5-ab22-acc77b9bbdb5
+wuffs_jll,4c9c4a99-5ee8-50d8-8912-b70f484ebd64
 wxWidgets_jll,3a62192b-5e76-5fff-8887-7dbaab5f1e7e
 x264_jll,1270edf5-f2f9-52d2-97e9-ab00b5d0237a
 x265_jll,dfaa095f-4041-5dcd-9319-2fabd8486b76
