@@ -111,6 +111,7 @@ AbstractIterativeSolvers,625e1fda-64c5-4861-b688-905651d1f470
 AbstractLattices,398f06c4-4d28-53ec-89ca-5b2656b7603d
 AbstractLogic,bd85187e-0531-4a3e-9fea-713204a818a2
 AbstractMCMC,80f14c24-f653-4e6a-9b94-39d6b0f70001
+AbstractMetaArrays,f931004c-b40c-4d45-87f0-83a9870f361d
 AbstractNFFTs,7f219486-4aa7-41d6-80a7-e08ef20ceed7
 AbstractNeuralNetworks,60874f82-5ada-4c70-bd1c-fa6be7711c8a
 AbstractNumbers,85c772de-338a-5e7f-b815-41e76c26ac1f
@@ -4082,6 +4083,7 @@ GraphBasedSystems,c7b9bcad-ccd7-4721-b0c6-1499c55cf356
 GraphDataFrameBridge,3c71623a-a715-5176-9801-629b201a4880
 GraphDatasets,bf13de61-383b-4610-8d2c-e75fac0df62b
 GraphDynamics,bcd5d0fe-e6b7-4ef1-9848-780c183c7f4c
+GraphEpidemics,6aca1ccc-3d4c-4aa2-bef3-7b7b4d8fa495
 GraphIO,aa1b3936-2fda-51b9-ab35-c553d3a640a2
 GraphKernels,fe1457df-6c84-4629-916f-b550d5f6a5bb
 GraphLaplacians,a1251efa-393a-423f-9d7b-faaecba535dc
@@ -8474,6 +8476,7 @@ RHEOS,728860ae-c896-11e8-0b91-0f38ecad5046
 RICoverAlg,d692c182-a058-4be8-a8d1-a27943fde503
 RIrtWrappers,3c499bf4-8795-40ff-83c0-5639be88f347
 RK4Light,b4bd6d93-059e-4964-b0e5-1e0f552f15ad
+RKOpt,ead69dcd-9d07-43d4-88a0-2b30abaca44a
 RLEVectors,17b45ede-fd0d-54ef-b825-8cf9fc64da95
 RLIBM_32_jll,89926bb2-2aab-59d9-87f9-76bad54e3fa2
 RMLImaging,4d23c25a-f84e-4dc0-9513-4942a305df7e
