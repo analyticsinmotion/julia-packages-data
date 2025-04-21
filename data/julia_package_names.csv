@@ -1574,6 +1574,7 @@ ClimaAnalysis,29b5916a-a76c-4e73-9657-3c8fd22e65e6
 ClimaAtmos,b2c96348-7fb7-4fe0-8da9-78d88439e717
 ClimaCache,781d2db2-48ae-11ec-81d3-0242ac130003
 ClimaCalibrate,4347a170-ebd6-470c-89d3-5c705c0cacc2
+ClimaCartesianIndices,afc79dc6-9922-4b50-ae92-da7b5116c2c8
 ClimaComms,3a4d1b5c-c61d-41fd-a00a-5873ba7a1b0d
 ClimaCommsMPI,5f86816e-8b66-43b2-912e-75384f99de49
 ClimaCore,d414da3d-4745-48bb-8d80-42e94e092884
@@ -4491,6 +4492,7 @@ IERSConventions,4e86e20e-879b-40dc-9e12-cee74f4cd199
 IESopt,ed3f0a38-8ad9-4cf8-877e-929e8d190fe9
 IESoptLib,b98f706d-40ec-4ce6-a66c-1c6e71d3cef6
 IGLWrap_jll,283677c1-8365-580c-84e5-ef4b5d190868
+IGraphs,647e90d3-2106-487c-adb4-c91fc07b96ea
 IJulia,7073ff75-c697-5162-941a-fcdaad2a7d2a
 IJuliaBell,3da9888e-9443-4cad-add1-2f3772a855ed
 IJuliaTimeMachine,c6113210-d3d9-4301-930e-a2f8bca719bb
@@ -8217,6 +8219,7 @@ QDLDL,bfc457fd-c171-5ab7-bd9e-d5dbfc242d63
 QDLDL_jll,9ae34a36-e1b6-54e9-a33d-8bba9913f854
 QD_jll,d4699623-ce05-5c67-980b-2a42053ff8b1
 QDates,25f12f5a-a783-5f9a-af99-e55629686113
+QEDFeynmanDiagrams,3232ad24-8ec1-4588-843e-e2ed2eae1ff3
 QEDbase,10e22c08-3ccb-4172-bfcf-7d7aa3d04d93
 QEDcore,35dc0263-cb5f-4c33-a114-1d7f54ab753e
 QEDevents,fc3ce04a-5be5-4f3a-acff-eceaab723759
