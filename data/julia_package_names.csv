@@ -1796,6 +1796,7 @@ CompressiveLearning,5d372d12-fa29-11e8-3ae3-03dd413d87db
 ComputabilityTheory,1aac4ff9-3d20-4305-ad99-6d6ea6b313c2
 ComputableDAGs,62933717-1c9d-4a3f-b06f-7ab7f17ca32d
 ComputableGeneralEquilibriumHelpers,b2f8801f-5e08-46db-8da3-bbbe1795f4c5
+ComputationalHeatTransfer,5fc296c8-2eb5-40dc-a46d-98a68011a900
 ComputationalResources,ed09eef8-17a6-5b46-8889-db040fac31e3
 ComputedFieldTypes,459fdd68-db75-56b8-8c15-d717a790f88e
 ComputedFields,ca9a45ee-5845-4167-bbbe-6c434770cc9d
@@ -4558,6 +4559,7 @@ Icestorm_jll,d066d2d9-0d34-5c4c-ae28-f0a7a1fd9f53
 Iconv,f60d2a9e-e6c3-11e9-1104-51987764600f
 IdealGas,7aa10a8e-8b87-4952-8d6b-aae44b8b139e
 IdealGasLib,8ea2701e-a7f2-4ad3-bde6-f1a1a263bda4
+IdealGasThermo,d4fb33c0-2494-4384-b7a5-e5d0487b6649
 IdealistaAPIClient,5722b1ce-14da-11ed-06c6-d930f2b72c9a
 IdentityRanges,bbac6d45-d8f3-5730-bfe4-7a449cd117ca
 IfElse,615f187c-cbe4-4ef1-ba3b-2fcf58d6d173
@@ -7081,6 +7083,7 @@ OnlineLogBinning,6694b27a-7f2b-41da-9dea-d3f4793b6534
 OnlinePackage,dec300e5-7e5b-577b-bc13-c7c11ad250bc
 OnlinePortfolioAnalytics,d39dbdee-9d7b-4a6f-a064-c0eaa0a6e939
 OnlinePortfolioSelection,038f9fe3-14bd-47ca-b081-2e00e8c46dfa
+OnlineSampleStatistics,455218f6-ed6f-43e9-ad07-c481a1567983
 OnlineStats,a15396b6-48d5-5d58-9928-6d29437db91e
 OnlineStatsBase,925886fa-5bf2-5e8e-b522-a9147a512338
 OnlineTechnicalIndicators,dc2d07fb-478f-4566-8417-81bb3e5a7af1
@@ -10528,6 +10531,7 @@ Thermodynamics,b60c26fb-14c3-4610-9d3e-2d17fe7ff00c
 ThermofluidQuantities,8e558ecf-e13e-4796-9812-ac12e4724222
 ThesisArt,6184abd9-1539-47ca-b742-6ec6f8d46641
 Theta,42bdb5c4-78fb-11e9-2233-215979c148c4
+ThickNumbers,b57aa878-5b76-4266-befc-f8e007760995
 ThinFilmsTools,e990187e-78db-4ef6-b01c-c671a8d7225b
 ThinPlateSplines,1d861738-f48e-4029-b1d3-81ce6bc7f5ab
 Thinkers,6d80a3f9-a943-41fa-97b3-3004c0daf7a3
