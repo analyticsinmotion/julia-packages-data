@@ -858,6 +858,7 @@ BinaryDecisionDiagrams,cd45f48d-2bff-4983-a793-756749635bd1
 BinaryFields,0fee9d7f-8397-4f0d-9ec6-117db1666467
 BinaryProvider,b99e7846-7c00-51b0-8f62-c81ae34c0232
 BinaryRecordReader,27e49e6c-9eba-4945-878d-08e5ccc7cbcd
+BinaryReedSolomon,8a283c49-c6d0-46c5-bbc1-5b2a51f34960
 BinaryTemplates,63ebbf9a-108b-456f-88e1-4a75abca4b5c
 BinaryTraits,190e46ec-f771-4705-b939-984896f7be0e
 BinaryTrees,289e92be-c05a-437b-9e67-5b0c799891f8
@@ -9274,6 +9275,7 @@ SeisProcessing,3ac90d68-5a11-50c7-932e-af3f40d97fdc
 SeisReconstruction,fc1ed427-419d-5ab1-b4dc-28f2ea403eed
 SeisSolXDMF,fc3049fc-4624-4ea9-a8a9-22daae44174f
 Selafin,6cae1b32-c579-48cf-a312-754d5539f064
+SelectedInversion,043bf095-3f01-458a-9f1c-8cf4448fe908
 Seleroute,d2f42c57-c897-4e08-8218-a119b5759c84
 SelfConcordantSmoothOptimization,d352d416-c122-4e2b-b229-b93695c65420
 SelfOrganizingMaps,ba4b7379-301a-4be0-bee6-171e4e152787
@@ -10283,6 +10285,7 @@ SystemBenchmark,30cdaa97-48ad-4abc-9688-3a7175b8083d
 SystemImageLoader,dc30da40-fce8-4b3c-960e-234cbed6f4a5
 SystemStats,f381a237-32a7-4d50-aa1c-abe0b395ff12
 T8code,d0cc0030-9a40-4274-8435-baadcfd54fa1
+TASOPT,22dd2482-b234-48ce-b849-20a4e029c823
 TBLIS,48530278-0828-4a49-9772-0f3830dfa1e9
 TCIITensorConversion,9f0aa9f4-9415-4e6a-8795-331ebf40aa04
 TCX,3b8c1752-506b-11e9-3f9b-8db86abc7c68
@@ -11523,6 +11526,7 @@ ZarrDatasets,519a4cdf-1362-424a-9ea1-b1d782dbb24b
 Zauner,ce1149fb-49fa-4541-ae6c-62019ae07d40
 Zellij_jll,f51964ae-9c2b-58f9-be08-f952495c30f4
 Zenith_jll,ab215d34-98c8-565c-96d8-6589c1ef91a8
+ZenohC_jll,a3bec183-2cd9-52aa-977e-56c7968661ce
 ZernikePolynomials,e462d300-c971-11e9-30f1-fb93b1f8f73a
 ZeroDimensionalArrays,446293e6-c8ea-451e-b470-6510dab5ca7b
 ZeroInflatedDistributions,f0eaf0ea-6b2c-45fd-8e3c-3fe72bdc2ec5
