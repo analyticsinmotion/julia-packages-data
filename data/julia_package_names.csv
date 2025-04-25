@@ -5586,6 +5586,7 @@ LinearFractional,31851ddc-f9b7-5097-a470-69ef907d7682
 LinearFractionalTransformations,8bac944d-a3a1-5789-a62e-204935847c3c
 LinearInterpolations,b20c7882-2490-4592-a606-fbbfe9e745e8
 LinearInterpolators,2fc109c4-9d77-11e9-32ff-e5c650334c16
+LinearMPC,82e1c212-e1a2-49d2-b26a-a31d6968e3bd
 LinearMaps,7a12625a-238d-50fd-b39a-03d52299707e
 LinearMapsAA,599c1a8e-b958-11e9-0d14-b1e6b2ecea07
 LinearMixingModels,b8ce4b42-e81b-4a39-a84a-67f74a9a16dd
@@ -9755,6 +9756,7 @@ SpatiallySymmetricTensors,267f34df-16a8-4a72-a26d-fb880b511394
 SpatioTemporalTraits,6a04ffb7-1155-443c-92eb-f1f26f00354c
 Speasy,09b745ad-c67d-442f-94a6-c7f4d1e4d861
 Spec,b8ccf107-3a88-5e0f-823b-b838c6a0f327
+SpecAugment,03bfb08c-7145-41e0-9a8a-bfc2110fc62b
 SpecTools,6c322a0d-46e9-4575-a44b-1e5c7962c4aa
 SpecialExponentialFamilies,49aacbaa-bd10-4545-ba27-0a7ca180d7f7
 SpecialFunctions,276daf66-3868-5448-9aa4-cd146d93841b
