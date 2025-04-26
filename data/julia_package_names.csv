@@ -9116,6 +9116,7 @@ SSMPlots,b9734e3f-1fb5-4b0f-895a-a4ed7ba034cc
 SSMProblems,26aad666-b158-4e64-9d35-0e672562fa48
 SSW_jll,a6d8d4cd-8200-5f89-a2d4-82fe55f80886
 STAC,08e62803-e111-4f53-be9b-274ff296e9da
+STARSDataFusion,70ccc657-289f-4534-a407-e03a16fd1153
 STFT,58bb99bf-048b-48b7-93e7-1cbf3ee61509
 STLCutters,284f087d-c8bb-44c4-af3c-39d0e1f330a5
 STL_jll,69cf8a62-f9ae-5d65-8d00-30585a4771ef
@@ -9470,6 +9471,7 @@ SimpleHMM,b54418be-38bf-423c-8dbb-66731efe0690
 SimpleHypergraphs,aa4a32ff-dd5d-5357-90e3-e7a9512f0501
 SimpleI18n,e6e9dfa0-c7c8-478f-b0d1-9bf91bc25951
 SimpleIMGUI,37c0dfa8-367e-4f81-95ac-b6bdb4b61673
+SimpleImplicitDiscreteSolve,8b67ef88-54bd-43ff-aca0-8be02588656a
 SimpleIntegrals,c106d4f1-74b1-53cf-8919-47dd3f5c79fb
 SimpleIterator,7cb8a005-ebb1-44a9-b470-e3223924bb96
 SimpleLexica,8970d5fd-81b2-46cd-bbc5-7585a55eff67
@@ -9536,6 +9538,7 @@ Simulate,7fe0908f-881e-4672-99a3-35ccdc95dcfc
 SimulatedAnnealing,119b26b8-39d9-4e2d-8f08-406d7b73be9f
 SimulatedAnnealingABC,2e0e63f1-f03b-4682-b156-8f8e3c0454d9
 SimulatedNeuralMoments,43b7c8c0-5622-45b8-90a3-338fc50d2232
+SimulationBasedCalibration,84405b40-1b58-4881-906f-8add004fb729
 SimulationBasedInference,78927d98-f421-490e-8789-96b006983a5c
 SimulationLogger,0f3b6f24-f534-4b11-a614-00dcf4ece10c
 SimulationLogs,e3c6736c-93d9-479d-93f3-96ff5e8836d5
