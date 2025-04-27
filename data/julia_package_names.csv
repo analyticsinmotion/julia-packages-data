@@ -6891,6 +6891,7 @@ NonconvexSemidefinite,9e21ff56-eb25-42d3-b86f-5b0612f555e7
 NonconvexTOBS,6c0b5230-d4c9-466e-bfd4-b31e6272ab65
 NonconvexUtils,c48e48a2-1f5e-44ff-8799-c8e168d11d1b
 NonhomotheticCES,19fc8792-2b89-4883-9e85-8362bf055f3f
+NonlinearCrystals,a311efd2-96b4-40e8-a1fa-502ca2bf329b
 NonlinearEigenproblems,067cfa3b-fa88-53b2-a873-5b23b3a16e31
 NonlinearEquations,dcda4a48-b9f7-11e9-2d4a-7da573938c24
 NonlinearNormalForm,05e19671-dec8-4f15-984f-54eaa6ca64be
@@ -9220,6 +9221,7 @@ SciMLExpectations,afe9f18d-7609-4d0e-b7b7-af0cb72b8ea8
 SciMLJacobianOperators,19f34311-ddf3-4b8b-af20-060888a46c0e
 SciMLNLSolve,e9a6253c-8580-4d32-9898-8661bb511710
 SciMLOperators,c0aeaf25-5076-4817-a8d5-81caf7dfa961
+SciMLPublic,431bcebd-1456-4ced-9d72-93c2757fff0b
 SciMLSensitivity,1ed8b502-d754-442c-8d5d-10ac956f44a1
 SciMLStructures,53ae85a6-f571-4167-b2af-e1d143709226
 SciMLTutorials,30cb0354-2223-46a9-baa0-41bdcfbe0178
