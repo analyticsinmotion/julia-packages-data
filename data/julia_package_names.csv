@@ -7368,6 +7368,7 @@ PETSc,ace2c81b-2b5f-4b1e-a30d-d662738edfe0
 PETScBinaryIO,7d8a6817-b67b-57e2-acac-4a73d125cd6b
 PETSc_jll,8fa3689e-f0b9-5420-9873-adf6ccf46f2d
 PEtab,48d54b35-e43e-4a66-a5a1-dde6b987cf69
+PEtabSelect,6de2f99a-1d3e-11f0-2fac-936eab9aa55b
 PFFRGSolver,11f6c8cf-44ee-44b9-b993-a23edf0823ea
 PGENFiles,bbb59ef6-f40c-4dde-a38e-7e7eb74f31f9
 PGFPlots,3b7a836e-365b-5785-a47d-02c71176b4aa
@@ -8540,6 +8541,7 @@ RadiationSpectra,4f207c7e-01da-51d7-a1a0-c8c06dd1d883
 RadiativeTransfer,ace8185b-fa20-42f5-912d-1e850dbe6a09
 RadiiPolynomial,f2081a94-c849-46b6-8dc9-07bb90ed72a9
 RadioPropagation,b7825cb4-7108-404a-9145-f310ea34db32
+Radiomics,a80a7044-09a6-4a0a-a486-eb806178b9ba
 RadonKA,86de8297-835b-47df-b249-c04e8db91db5
 RainFARM,e9a4e08f-a0a3-5224-a821-6d0231c12d6b
 RainMaker,ce1e5628-4095-449b-8858-623a1e420393
@@ -10136,6 +10138,7 @@ SubmitPaper,efb0be97-3ee7-40d0-9fa9-b89a797c88dc
 SubpixelRegistration,97a7e826-69e2-510e-8af8-254736c4b599
 Subscripts,2b7f82d5-8785-4f63-971e-f18ddbeb808e
 SubsidenceChron,f7321fe0-76de-4184-b262-f3439fe138fd
+SubspaceClustering,bea3bcab-479e-4b6c-b047-c6cd33cd022c
 SubspaceInference,706446a6-0e85-4c47-b731-c658bbb72625
 SubspacePreservingSparsification,4d1ea0e1-70d2-4753-baf0-722475fae2d0
 Subspaces,922a6ab9-c04b-46bc-b8bf-400344129a3c
