@@ -1111,6 +1111,7 @@ Bullet_Physics_SDK_jll,f9221216-80da-5205-bffb-473ccd158385
 BumpFuncs,9920abf5-d2d3-40c3-98dc-d6c533a1aad6
 BumpStdlibs,10e0400f-8273-43d0-bd6e-07483373ba4f
 Bumper,8ce10254-0962-460f-a3d8-1f77fea1446e
+Bun_jll,2cacd568-d418-568b-8764-7ebab4cf2504
 BundleAdjustmentModels,0bf3e898-7c79-4b38-9ca6-2d9cc6573905
 BundleMethod,e8a6717a-069f-43d5-9ac2-a49b1ec5be7b
 BundledWebResources,56c11eb9-1257-4f49-abe4-0ac93e2bfd0a
@@ -2934,6 +2935,7 @@ EquilibratedFlux,ed78a1e2-7d3c-417b-a9de-456fe7bc806a
 EquilibriumMeasures,f387465c-e20c-5ab1-9210-5d86af51062a
 EquivalentCircuits,da5bd070-f609-4e16-a30d-de86b3faa756
 EquivariantOperators,e0aa4542-b1ed-4e6a-a09e-9c4627a9da65
+EquivariantTensors,5e107534-7145-4f8f-b06f-47a52840c895
 Erdos,90d7349d-81aa-5495-813a-883243abfe31
 ErdosExtras,36e9a02b-89ba-5c81-9f23-352891f35b31
 Ergast,7ed03099-e63f-46d1-9c19-cf5fecdb8792
@@ -3153,6 +3155,7 @@ FNCFunctions,ab0dfefa-d313-416d-841c-e73335ae36c8
 FNVHash,5207ad80-27db-4d23-8732-fa0bd339ea89
 FORM_jll,f4eadb04-70c1-5b36-8221-785c072cda07
 FP16_jll,80cad256-a423-5ef2-ab87-13d34524053a
+FRACDemand,876e2209-f438-4469-a9ec-3c471b9a3293
 FSInteraction,39fdbc7a-862a-11e9-015b-61723af7393f
 FSimBase,731e945d-f3ed-49a1-bee2-3998705ef155
 FSimPlots,de610439-98db-48ec-87cd-a9843b890493
@@ -7002,6 +7005,7 @@ ONNXRunTime,e034b28e-924e-41b2-b98f-d2bbeb830c6a
 ONNXRuntime_CUDA_jll,a13615ec-4c6a-5020-9bdf-9d9993bbd1cf
 ONNXRuntime_jll,09e6dd1b-8208-5c7e-a336-6e9061773d0b
 ONNX_jll,4df3ec0b-c10b-5542-9400-16acb2a6b670
+ONOperas,2f311c38-3ada-427e-8056-89f8b5c11f31
 ONSAS,7d8da659-23aa-453a-9a19-a3d1f6c795f5
 OOESAlgorithm,b729bf19-12cd-5270-a5a7-361c22ea64b8
 OOPMacro,90c472d1-064c-5c63-af2e-229f1fdb5f26
