@@ -1018,6 +1018,7 @@ BoilerplateCvikli,9c9f911a-9395-49bd-b3fc-139ceb24aa85
 Bokeh,c4b4474d-016b-471b-b14f-576041b951ff
 BokehBlink,c7d4f63d-6dfa-4fdc-9408-5961e0889e3a
 BokehServer,b7fe046f-2d24-4718-8c03-fdde6cae2a8c
+BolometricCorrections,37ee4594-8306-40da-a4c2-d7ed95560e0b
 Boltz,4544d5e4-abc5-4dea-817f-29e4c205d9c8
 Boltzmann,00bb91fb-75dd-5f5f-97ed-3cee78a05366
 BoltzmannCollisionIntegral,20179301-8dfd-43f5-a10b-08fddd2c788a
@@ -4339,6 +4340,7 @@ HeartRateVariability,0047d930-76bf-11ea-1377-bb3cda807e9f
 HeatTransfer,4030f512-cedb-5907-ac7f-4ab05ad75ee7
 HeatTransferFluids,44505bb3-94ea-493c-a20c-f0ca548ab76b
 Hecke,3e1990a7-5d81-5526-99ce-9ba3ff248f21
+Hedgehog,7f16798b-0e18-40de-98af-932948254698
 HelFEM_jll,584ea77b-75d0-51ad-9ad6-7fb559b95557
 Helium,3f79f04f-7cac-48b4-bde1-3ad54d8f74fa
 HelloWorldC_jll,dca1746e-5efc-54fc-8249-22745bc95a49
@@ -6521,6 +6523,7 @@ MsgPack,99f44e22-a591-53d1-9472-aa23ef4bd671
 MshReader,64cd2da2-d71d-431a-81e3-4cf84ef169dd
 MuJoCo,1c101251-5e0f-4746-b44c-0728d433b68a
 MuJoCo_jll,32af7c3b-80ec-5621-8194-2f6cb2280831
+MuSink,9311f4a3-d431-4665-b35d-8d2edcf6b88a
 MuTuner,206a444d-62d4-4bef-89ca-f2a4a27f2209
 Mueller,dfba0342-83e6-42c7-a796-fcf383ab214c
 MuladdMacro,46d2c3a1-f734-5fdb-9937-b9b9aeba4221
@@ -7626,6 +7629,7 @@ PeriodicHiddenMarkovModels,4873b48c-7fd1-4fb6-93c5-649b25bdde2e
 PeriodicKdV,0271e0de-59e8-44d5-83ce-0a41c44a9705
 PeriodicMatrices,dd9cd634-6083-4ae5-8f2e-b983833de2bb
 PeriodicMatrixEquations,52570b1b-55d0-4b45-8be2-52db9c79d90e
+PeriodicOrbits,41be5fce-5647-450b-ae37-a6739b881a1c
 PeriodicSchurDecompositions,e5aedecb-f6c0-4c91-b6ff-fbae4296f459
 PeriodicSystems,5decd0d0-8a5f-11ec-2edd-87b25cbcd17e
 PeriodicTable,7b2266bf-644c-5ea3-82d8-af4bbd25a884
