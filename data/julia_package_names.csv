@@ -6250,6 +6250,7 @@ Metal_Shader_Converter_jll,9cc310e4-281b-5b8b-8908-46b9a86e6271
 Metalhead,dbeba491-748d-5e0e-a39e-b530a07fa0cc
 MetapopulationDynamics,67afee28-ec33-4cc2-88ea-a48c87ed52f9
 Metatheory,e9d8d322-4543-424a-9be4-0cc815abe26c
+Meteostat,b5f40946-ae6d-44b1-bfb0-547ef2ed8e7e
 MethodAnalysis,85b6ec6f-f7df-4429-9514-a64bcd9ee824
 MethodForwarding,45e47a89-b455-4dd5-a62c-c007f63154db
 MethodInSrc,c116309b-47aa-4bde-803c-ba7517b69216
@@ -9089,6 +9090,7 @@ SMTPClient,c35d69d1-b747-5018-a192-25bc5e63c83d
 SNAPDatasets,fc66bc1b-447b-53fc-8f09-bc9cfb0b0c10
 SNMRForward,7a571783-2426-4210-b64c-8cc94fde9200
 SNOW,105f6ee8-0889-46b1-9d4b-65e03cbc8f13
+SNaQ,c2bf7a07-44d2-4d11-b5e2-76dc5aa199d6
 SOCRATESSingleColumnForcings,efca6b66-9b98-11ed-1a32-7b7cdccd517a
 SOFA,ad3d3fd0-b5f2-51ee-b274-8cdbe62317e2
 SOLAR_jll,9ace170a-bc31-55e8-8cff-70366ba5762e
@@ -10396,6 +10398,7 @@ Tally,4a7475b6-8451-4f36-8c0c-176e4d128198
 TapeMeasure,80345c00-9166-4d3e-8c72-003f651600ad
 Tapestree,cd6db766-07eb-5897-84c0-92a6c9b887bd
 Tapir,07d77754-e150-4737-8c94-cd238a1fb45b
+Taproots,6cca9763-2e92-47b9-bf40-ccfe60418944
 Tar,a4e569a6-e804-4fa4-b0f3-eef7a1d5b13e
 TarIterators,06456b94-f2fb-4c2e-911f-0795f0d2fb0a
 Tar_jll,9b64493d-8859-5bf3-93d7-7c32dd38186f
@@ -10612,6 +10615,7 @@ TidierIteration,88ce3ed7-42dc-47a9-ab9f-164be2e94407
 TidierPlots,337ecbd1-5042-4e2a-ae6f-ca776f97570a
 TidierStrings,248e6834-d0f8-40ef-8fbb-8e711d883e9c
 TidierText,8f0b679f-44a1-4a38-8011-253e3a78fd39
+TidierTuesday,e5e0dc1b-0480-4754-b82b-fe0573bb955c
 TidierVest,969b988e-7aed-4820-b60d-bdec252047c4
 TidyStanza,b2c96470-cb50-47b8-9d8d-45534fe4e5bb
 TidyTest,ef104744-fcb3-4e7e-8bb2-6e95860d81ed
@@ -10767,6 +10771,7 @@ TransitionalMCMC,5bc637a6-1a46-43ed-8ea7-ee39cc1921ce
 TransitionsInTimeseries,5f5b98ec-1183-43e0-887a-12fdc55c52f7
 Transits,2e59a628-7bac-4d38-8059-3a73ba0928ab
 Transliterate,6413a62a-abe4-4af6-86c3-5403bf7fb405
+TransmissionChannelAnalysis,d500094b-e8d7-4ee4-9514-4e3996dd73c3
 TransmuteDims,24ddb15e-299a-5cc3-8414-dbddc482d9ca
 Transparency,be247f3c-b89e-4149-9092-0bc3d48f38b6
 TransportBasedInference,bdf749b0-1400-4207-80d3-e689c0e3f03d
