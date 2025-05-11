@@ -2810,6 +2810,7 @@ Eigen_jll,bc6bbf8a-a594-5541-9c57-10b0d0312c70
 Eikonal,a6aab1ba-8f88-4217-b671-4d0788596809
 EinExprs,b1794770-133b-4de1-afb4-526377e9f4c5
 EindhovenLogo,18231132-4f0d-4a5b-8f66-ccd1a8e66870
+Einops,e3ce28c8-8bfb-4704-8add-e3e7f14b55c9
 Einstein,090ec698-01a0-4de4-b9a9-b0520fa6fd58
 EinsteinToolkit_jll,4bc72436-6d1e-53e9-a681-d5a2ff310728
 Einsum,b7d42ee7-0b51-5a75-98ca-779d3107e4c0
@@ -2902,6 +2903,7 @@ Enlsip,d5306a6b-d590-428d-a53a-eb3bb2d36f2d
 EnsembleInversion,e03f8fd3-a2ff-47f5-ac97-ba7f0577c430
 EnsembleKalmanProcesses,aa8a2aa5-91d8-4396-bcef-d4f2ec43552d
 EntityComponentSystem,a8343a65-b356-5275-be17-d741438d126c
+EntroPlots,742586e2-2ccd-48a5-bc1c-31de6daa8fd7
 EntropicCone,46c19be6-bce2-539c-96b6-a48c64de3b10
 Entropies,ed8fcbec-b94c-44b6-89df-898894ad9591
 EntropyHub,3938faea-3bfa-4bc3-8092-0c6746ff9af1
@@ -5730,6 +5732,7 @@ LowRankLayers,b66182ab-a85c-43b0-99bd-d85cc47c5e50
 LowRankMatrices,e65ccdef-c354-471a-8090-89bec1c20ec3
 LowRankModels,15d4e49f-4837-5ea3-a885-5b28bfa376dc
 LowRankOps,0ea32739-31af-43e6-82ee-ebe6dcf00a6f
+LowRankOpt,607ca3ad-272e-43c8-bcbe-fc71b56c935c
 LoweredCodeUtils,6f1432cf-f94c-5a45-995e-cdbf5db27b0b
 Lowess,a2847a04-7795-4581-bff1-964344ea125d
 LsqFit,2fda8390-95c7-5789-9bda-21331edee243
@@ -8094,6 +8097,7 @@ PrimitiveOneHot,13d12f88-f12b-451e-9b9f-13b97e01cc85
 PrincipalMomentAnalysis,6a3ba550-3b7f-11e9-2734-d9178ad1e8db
 PrincipalMomentAnalysisApp,e56c3062-542c-497d-ab50-e8a2f2a25ce2
 PrintFileTree,083f6447-9a71-585a-bc2e-c0ad124fd6e4
+PrintTypeTree,03751d76-14c6-4844-8d34-798a6a45b277
 PrintTypesTersely,41b232b1-0de0-4a65-aab4-126884588aaf
 PriorityChannels,a2669504-c0c1-59c8-a2df-73186d0f9ddc
 PrismAId,118a867e-9825-46ae-bed0-f8987ebdd75d
