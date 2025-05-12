@@ -181,6 +181,7 @@ AdaptiveRejectionSampling,c75e803d-635f-53bd-ab7d-544e482d8c75
 AdaptiveResonance,3d72adc0-63d3-4141-bf9b-84450dd0395b
 AdaptiveSampling,8eadcf17-c760-4497-b196-5192eed4b985
 AdaptiveSparseGrids,676d8d29-539e-4f06-b848-7dd647dd5291
+AdaptiveStepSize,7d84fdfd-9968-451e-b556-cbaf6a09f307
 AdaptiveTestPlots,d194c7c1-4081-4169-ba52-101f65b44e42
 AdaptiveWindows,310fb2ca-6a3f-11ec-0326-3f7b497a96a3
 AddInit,fb98f0d0-f82c-4729-879a-95be0d8634ee
@@ -7813,6 +7814,7 @@ PlantUML,69ad847d-c018-4c53-a279-bc41134dba09
 PlantViz,358bd95d-d12c-439f-94b7-04b17e500c7f
 Plasma,d4286570-51d5-4bbe-9c0b-035637fe1a6e
 PlasmaEquilibriumToolkit,57ef8d28-8191-49ce-8cf8-17f9379aac88
+PlasmaFormulary,d26ff896-aba2-4e70-a0a6-448627456efe
 Plasmo,d3f7391f-f14a-50cc-bbe4-76a32d1bad3c
 PlasmoBenders,491f1417-53b2-48aa-b9da-44cdd6c031b7
 PlasmoData,18473d7d-a938-4be0-a189-2b040dfe6be7
@@ -11578,6 +11580,7 @@ ZarrDatasets,519a4cdf-1362-424a-9ea1-b1d782dbb24b
 Zauner,ce1149fb-49fa-4541-ae6c-62019ae07d40
 Zellij_jll,f51964ae-9c2b-58f9-be08-f952495c30f4
 Zenith_jll,ab215d34-98c8-565c-96d8-6589c1ef91a8
+Zenoh,b742139f-8771-480b-a9b2-33222b45d29b
 ZenohC_jll,a3bec183-2cd9-52aa-977e-56c7968661ce
 ZernikePolynomials,e462d300-c971-11e9-30f1-fb93b1f8f73a
 ZeroDimensionalArrays,446293e6-c8ea-451e-b470-6510dab5ca7b
