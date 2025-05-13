@@ -1154,6 +1154,7 @@ CDE_jll,519a0aee-8577-56a6-9f9d-1e74151fa0e1
 CDGRNs,b97acbd9-7fbb-4cbc-bc29-58677f11bc5c
 CDLmotif,31692b3b-61a6-410b-a229-5e9354f2e019
 CDMrdata,60f1a76e-720d-4784-bbc6-074b7a9a39a5
+CDRSerialization,cbcadc0d-0faf-4c71-82b5-fceb8cc36223
 CDSAPI,8a7b9de3-9c00-473e-88b4-7eccd7ef2fea
 CEDICT,76a33514-0aea-4d2f-abaf-6a43b94fc20c
 CEEDesigns,e939450b-799e-4198-a5f5-3f2f7fb1c671
@@ -7716,6 +7717,7 @@ PhysicalOceanography,e1a20e90-c40e-46c0-93e3-c2da05da97e3
 PhysicalParticles,78724250-4eb2-11e9-0f34-13a7aab864c5
 PhysicalTrees,dc5d4990-50a5-4af2-bdaa-6f78dc9b9fb2
 PhysicsInformedML,ddcc5653-dcaa-48f1-be98-eb2dafe13740
+PhysicsInformedRegression,b39d95ae-da9c-4cd6-b0a9-f74eb13434aa
 PhysiologyAnalysis,69cbc4a0-077e-48a7-9b45-fa8b7014b5ca
 PhysiologyModeling,6edd8d80-c083-4fb2-88a3-9ae8efe7fb75
 PhysiologyPlotting,d5a2a81f-3167-4eb5-8f67-b1ebe6a4430d
@@ -11359,6 +11361,8 @@ WindowAbstractions,e18202ca-4a7d-4de8-b056-fa6bbd7de157
 WindowFunctions,f8d1b8c8-e2db-43c1-b085-b5de5ced18ed
 Wine_jll,9fae3aff-8997-5dd1-9b84-5d0cc5e0bffa
 Winston,bd07be1c-e76f-5ff0-9c0b-f51ef45303c6
+WiringPi,56b06491-0088-44d9-858f-9bc194f2c904
+WiringPi_jll,39e6258f-44e5-5edf-b49b-51a5e5bce6ab
 WithAlloc,fb1aa66a-603c-4c1d-9bc4-66947c7b08dd
 Woff2_jll,27887bc2-7e01-59df-98ae-1bb60dc90ce9
 WolfRiverPlots,ad36b3a9-85b5-4b8d-a935-e72ac6d2d37a
