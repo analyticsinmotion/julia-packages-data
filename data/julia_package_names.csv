@@ -1516,6 +1516,7 @@ Chuffed,a105ee56-0da9-4c5a-a151-cc7e299d31db
 Chuffed_jll,77125aae-c893-5498-99e3-e30470bfa328
 ChunkCodecCore,0b6fb165-00bc-4d37-ab8b-79f91016dbe1
 ChunkCodecLibBlosc,c6a955be-ab7f-4fbb-b38f-caf93db6b928
+ChunkCodecLibBrotli,653b0ff7-85b5-4442-93c1-dcc330d3ec7d
 ChunkCodecLibBzip2,2b723af9-f480-4e8d-a1e4-4a9f5a906122
 ChunkCodecLibLz4,7e9cc85e-5614-42a3-ad86-b78f920b38a5
 ChunkCodecLibSnappy,eac87354-86d5-4a5b-ab5f-a6ee56b239b3
@@ -1691,6 +1692,7 @@ CodecZstd,6b39b394-51ab-5f42-8807-6242bab2b4c2
 Codecs,19ecbf4d-ef7c-5e4b-b54a-0a0ff23c5aed
 CodingTheory,89c41d41-0018-4667-9435-0b7cbc9fb764
 CodingTheoryUtils,3d410ee0-b2cd-4e54-aa06-374a4e0e0b7f
+CodonMolecularEvolution,6511b2a3-0bb8-4def-a118-560a7e125e34
 Coefplots,a923fed4-9a3e-4356-92ad-9324328df929
 CoherentNoise,3547b4d8-3bdb-4c10-a099-d01a31e852e0
 CoherentTransformations,77ba1a33-2bad-462b-8444-1926d7830738
@@ -6892,6 +6894,7 @@ NodeJS,2bd173c7-0d6d-553b-b6af-13a54713934c
 NodeJS_16_jll,a4b94fbf-73f5-58ff-888d-48a8396e17f6
 NodeJS_18_jll,c1e1d063-8311-5f52-a749-c7b05e91ae37
 NodeJS_20_jll,c7aee132-11e1-519c-8219-0a43005e73c2
+NodeJS_22_jll,8fca9ca2-e7a1-5ccf-8c05-43be5a78664f
 NodesAndModes,7aca2e03-f7e2-4192-9ec8-f4ca66d597fb
 Noise,81d43f40-5267-43b7-ae1c-8b967f377efa
 NoiseModels,15788e68-7bd7-41f2-9680-b6e1d80350af
@@ -10790,6 +10793,7 @@ Transparency,be247f3c-b89e-4149-9092-0bc3d48f38b6
 TransportBasedInference,bdf749b0-1400-4207-80d3-e689c0e3f03d
 TransportProperties,5257e33d-5a01-4fd1-9680-e504fee35d5b
 Trapz,592b5752-818d-11e9-1e9a-2b8ca4a44cd1
+Trash,2177afbf-83db-417c-8225-ea8191cd3f0f
 TravelingSalesmanExact,737fac7d-4440-55ef-927e-002196e95561
 TravelingSalesmanHeuristics,8c8f4381-2cdd-507c-846c-be2bcff6f45f
 TreatmentPanels,7885c543-3ac4-48a3-abed-7a36d7ddb69f
@@ -11953,6 +11957,7 @@ lovoalign_jll,dfe2c37b-9b3c-58e6-b43e-8bff6111200d
 lrslib_jll,3873f7d0-7b7c-52c3-bdf4-8ab39b8f337a
 lttng_tools_jll,37591b3e-a3c2-50e0-b676-8bc36018f336
 lttng_ust_jll,a2826780-45ff-53db-9dda-fd961bc58de1
+lwgrp_jll,15646b25-2db2-5811-aabe-7bb0d81fd3fd
 mPulseAPI,314d2b54-f2c3-11ea-15f2-0bcf2fc50b35
 macOSSDK_jll,52f8e75f-aed1-5264-b4c9-b8da5a6d5365
 manifold_jll,466ed8ff-2df3-54fa-a5b0-f65ecab082ee
