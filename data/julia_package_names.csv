@@ -2465,6 +2465,7 @@ DiffusionMap,809424d5-4f20-4f0f-8853-2ca5e8a82a88
 DiffusionX,430d172f-66e9-4875-89c7-99d3949cb067
 DiffusiveShockAccelerationModels,66fc4661-a670-4cc2-b407-bfd81989e880
 Difmap,697f6f98-b792-4bca-85fe-71b3d053de65
+DigiPopData,0d51003c-419e-4b70-b590-68fae1e54ab3
 DigilentWaveForms,90c6a8ac-129f-4ce1-be23-9dee1ca31d3e
 DigitalAssetExchangeFormatIO,43182933-f65b-495a-9e05-4d939cea427d
 DigitalComm,a7b11256-881b-11e9-3aff-ff4a76f1bfae
@@ -3455,6 +3456,7 @@ FlowCutterPACE17_jll,008204e2-cd5c-5c6d-9360-d31f32b5f6c2
 FlowGeometry,af326652-bfa1-11e9-1b34-cf9047ce1632
 FlowLock,366c8e96-ded8-4a51-a8f8-3c856b908600
 FlowWorkspace,93705cf0-0d0c-4207-9085-aa3a02725bf0
+Flowfusion,5b4e93c8-7b6e-4682-b400-fc3b238f52b1
 Flowstar,a8054ddd-9dca-4d20-8ffe-ae96ec1541f1
 Flowstar_jll,857d554b-2109-5851-8b71-fc429cd15c15
 FluorescentSeries,68ab7a74-b89c-58c4-90e0-a4e17bbb69bc
@@ -10490,6 +10492,7 @@ TensorKitManifolds,11fa318c-39cb-4a83-b1ed-cdc7ba1e3684
 TensorKitSectors,13a9c161-d5da-41f0-bcbd-e1a08ae0647f
 TensorKitTensors,41b62e7d-e9d1-4e23-942c-79a97adf954b
 TensorMarket,8b7d4fe7-0b45-4d0d-9dd8-5cc9b23b4b77
+TensorMixedStates,4ce20acf-6baa-4876-9668-f7596d62e73f
 TensorNetworkAD,6b36f460-1d4e-5459-a8c4-3ab8f40f7d47
 TensorNetworkCodes,b317c587-d840-4e81-9857-9d906192e215
 TensorOperations,6aa20fa7-93e2-5fca-9bc0-fbd0db3c71a2
@@ -11727,6 +11730,7 @@ diffutils_jll,11f5bf75-d780-529b-b59b-a3a04c974070
 difmap_jll,43cd2700-e54a-5645-adf8-b9b288a87fe6
 dlfcn_win32_jll,c4b69c83-5512-53e3-94e6-de98773c479f
 dmg2img_jll,6c05e037-4b93-5f38-8060-b5618e031980
+dtcmp_jll,cc915c6d-cdf1-52da-bc01-06fec1bee457
 ducc0_jll,744a402c-e62c-509f-85e0-10e6c18f2016
 duf_jll,77fda4b3-100c-5a35-9709-1e47c79e10df
 eQuilibrator,9d196975-2c9b-462f-a3cc-8957d44b8c95
