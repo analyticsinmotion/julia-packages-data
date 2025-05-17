@@ -2126,6 +2126,7 @@ DDEBifurcationKit,954e4062-bdb8-4e3f-9eee-d47105dd3e65
 DDEProblemLibrary,f42792ee-6ffc-4e2a-ae83-8ee2f22de800
 DDR2import,60aac331-f4ad-4f7f-9ae1-33a16d2a93d1
 DDSCAT_jll,312f84d5-d503-53e6-9a69-f195a5e458d6
+DE9IM,5483dedb-0874-478e-8d7a-8c665bf87f01
 DECAES,d84fb938-a666-558e-89d9-d531edc6724f
 DEDataArrays,754358af-613d-5f8d-9788-280bf1605d4c
 DFControl,1e31e15d-4957-550d-a244-318eced754ae
@@ -4547,6 +4548,7 @@ IPNets,66763231-799b-5fff-8662-389acfc33a85
 IPUToolkit,92e0b95a-4011-435a-96f4-10064551ddbe
 IPyCells,f2c63c6a-782d-45ad-850e-588fc6f0abf6
 IPython,18364772-b071-5c00-bfd7-ceeaffab630a
+IRBEM,d0b46c7b-8a8f-4d20-a1b4-6e9a4a1e4e5f
 IRBEM_jll,65aecb69-0b26-50c5-b061-de07bd15962b
 IRKGaussLegendre,58bc7355-f626-4c51-96f2-1f8a038f95a2
 IRTools,7869d1d1-7146-5819-86e3-90919afe41df
@@ -7024,6 +7026,7 @@ OMOPCDMDatabaseConnector,123dea01-d0aa-44c8-898b-977e0601f7b1
 OMOPCommonDataModel,ba65db9e-6590-4054-ab8a-101ed9124986
 OMOPVocabMapper,fc9e345c-e35d-43ed-87a7-513e2d0ff273
 OMRemote,25b2b4a2-b5c6-11e9-0768-bd8610217833
+OMSparseEinsum,3e48f91b-32ac-4cc7-9c0f-e9f53eeef932
 ONNX,d0dd6a25-fac6-55c0-abf7-829e0c774d20
 ONNXLowLevel,26bbae53-793e-4dc4-8f6d-18bb7d98adf6
 ONNXNaiveNASflux,2e935253-ba83-4645-9154-13ffeb13a688
@@ -7305,6 +7308,7 @@ OrdinaryDiffEqLowOrderRK,1344f307-1e59-4825-a18e-ace9aa3fa4c6
 OrdinaryDiffEqLowStorageRK,b0944070-b475-4768-8dec-fb6eb410534d
 OrdinaryDiffEqNonlinearSolve,127b3ac7-2247-4354-8eb6-78cf4e7c58e8
 OrdinaryDiffEqNordsieck,c9986a66-5c92-4813-8696-a7ec84c806c8
+OrdinaryDiffEqOperatorSplitting,760fc936-9fa0-4281-9c1a-468957eedc89
 OrdinaryDiffEqPDIRK,5dd0a6cf-3d4b-4314-aa06-06d4e299bc89
 OrdinaryDiffEqPRK,5b33eab2-c0f1-4480-b2c3-94bc1e80bda1
 OrdinaryDiffEqQPRK,04162be5-8125-4266-98ed-640baecc6514
@@ -8223,6 +8227,7 @@ Purses,b933ae29-2b40-4477-9757-bdbbb03ce3a4
 PushVectors,36b54c61-190e-5a5f-82d5-6f0a962d7362
 Pushover,1d40253f-d7d5-5bc2-be73-07f0f24a3532
 PyArrow,efc81ffe-9e87-4f02-af89-7663f751d186
+PyBoltz,0bca4874-a2b8-4dca-bc03-d2d86e344f1f
 PyBraket,e85266a6-1825-490b-a80e-9b9469c53660
 PyBullet,9e6df25e-3b2c-44c5-be37-b553c26be21f
 PyCaesar,5de271da-f4c9-48db-ba43-272b66d09ab8
@@ -9363,6 +9368,7 @@ SentinelArrays,91c51154-3ec4-41a3-a24f-3f23e20d615c
 SentinelExplorer,e5d154b4-4325-4737-9c37-b2b3515e42eb
 SentinelMissings,b1dc47e8-ebfd-568c-9de9-431a7ef94af6
 SentinelViews,1c95a9c1-8e3f-460f-8963-106dcc440218
+Sentry,22473447-a6cd-4572-bdc6-902d1f188b6a
 SeparableFunctions,c8c7ead4-852c-491e-a42d-3d43bc74259e
 SeparableOptimization,b66076ac-575f-47ff-93e2-9c43ffc8d39e
 SeparatingAxisTheorem2D,33f35c42-577e-5c66-8569-bbf1771cbf32
@@ -10358,6 +10364,7 @@ TLDR,ea576619-15d3-4675-b24c-7b7a8f11ced0
 TMLE,8afdd2fb-6e73-43df-8b62-b1650cd9c8cf
 TMLECLI,2573d147-4098-46ba-9db2-8608d210ccac
 TMatrix_jll,f6676dc9-6ae6-5380-b4ed-33bd8634dc70
+TMscore,6e960f36-814a-4ceb-8c87-6ab5da0e9bff
 TMscore_jll,1d8dad79-2f3d-554c-bf22-543753cb6ff4
 TOML,fa267f1f-6049-4f14-aa54-33bafae1ed76
 TOPCOM_jll,36f60fef-b880-50dc-9289-4aaecee93cc3
