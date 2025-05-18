@@ -370,6 +370,7 @@ ApproximationAnalysis,82321e43-16b0-4e95-943b-273a726d7f5d
 AprilTags,f0fec3d5-a81e-5a6a-8c28-d2b34f3659de
 AprilTags_jll,49f4e9a8-0306-5d58-91df-e9c3c0e42747
 Aqua,4c88cf16-eb10-579e-8560-4a9242c79595
+AquaCrop,8f16cebd-c0b4-44a3-857f-c101f083256c
 AquaCrop_jll,e6b5fed9-f397-545f-9fcc-b4f92622d2d5
 ArDCA,fc7e833f-a3b9-439d-ae82-c6ad11a3e54b
 ArarForecast,4f58c5ef-8bf7-4cec-85cb-5f877db67c0d
@@ -1202,6 +1203,7 @@ CMSCertificationNumbers,dd30a495-ddaa-4e90-b4c8-e67bdf9f6075
 CMake,631607c0-34d2-5d66-819e-eb0f9aa2061a
 CMakeWrapper,d5fb7624-851a-54ee-a528-d3f3bac0b4a0
 CMake_jll,3f4e10e2-61f2-5801-8945-23b9d642d0e6
+CNNSeq2exp,ca0eaa81-961d-4b24-843c-8575ada746de
 COBRA,58298e0b-d05c-52ec-a210-0694647ebfc7
 COBREXA,babc4406-5200-4a30-9033-bf5ae714c842
 COBS,51d40088-776c-571e-837e-515b83a6b6e6
@@ -5810,6 +5812,7 @@ MDEStudy,45ce4efb-129e-4f36-8fe9-5e4f23129ff4
 MDInclude,90d73f82-b7c3-43a4-ac2d-0ceedb790db1
 MDLovoFit,55da9f78-c647-4a46-be5d-0de490449a34
 MDLovoFit_jll,d8780812-71d7-51d3-b38b-dae269fdfcb3
+MDSh5,d26121ab-931e-479e-b928-38e5e8d76109
 MDTable,8d33431a-4cd1-474f-bd1e-ccfbc4b78fb4
 MDToolbox,7965e2f0-a35b-11e8-0207-19c030dd2def
 MDTrajectoryFiles,e55597f1-1f81-4e61-9c07-9db33debcbd4
@@ -11857,6 +11860,7 @@ libcgal_julia_jll,e9ad47b2-a301-5fb7-a0bd-6eece649b37c
 libcgroup_jll,073f27de-2a51-5a0c-9fc3-04c66de53728
 libcifpp_jll,1901280f-61ce-5048-a6a8-fd033512e07b
 libcint_jll,574b78ca-bebd-517c-801d-4735c93a9686
+libcircle_jll,db6bf46e-010a-586f-bcfc-62bf40116dcb
 libclangex_jll,82994860-12e5-56b1-9971-c34819be692e
 libcleri_jll,cdc7adba-bef8-5cba-a7ee-c792dee3081e
 libconfuse_jll,9f03c2a6-2865-5578-ae11-af8a29163b66
