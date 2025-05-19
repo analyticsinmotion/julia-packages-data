@@ -300,6 +300,7 @@ AmplNLReader,77dd3d4c-cb1d-5e09-9340-85030ff7ba66
 AmplNLWriter,7c4d4715-977e-5154-bfe0-e096adeac482
 AnalyticComb,8a73a7cf-268c-4a55-9a00-18d79986516d
 AnalyticalMethodValidation,b401a7b7-5953-49f1-86ca-9d186498acee
+AnalyticalStructureFactors,91294a36-8144-4a6b-bcde-0166c034afe3
 Ananke,1a22c728-0c56-469f-9cf3-be645c8711d1
 Anasol,fd9e7046-df80-5870-8bf6-b6b2342464ec
 Anatta,6ea38b10-3220-4105-9032-02c82e619cdd
@@ -548,6 +549,7 @@ AutoGP,6eb593e7-dfb4-4e48-b98e-d7222cdf0053
 AutoGainCtrl,0e8e90c2-a086-42a1-8334-f09dd3896087
 AutoGrad,6710c13c-97f1-543f-91c5-74e8f7d95b35
 AutoHashEquals,15f4f7f2-30c1-5605-9d31-71845cf9641f
+AutoHist,0bf0ee65-3559-4d1e-a282-1b0e88839781
 AutoLandmarking,513749c4-1492-45a3-bfbf-e630717bb7f0
 AutoMLPipeline,08437348-eef5-4817-bc1b-d4e9459680d6
 AutoPreallocation,e7028de2-df94-4053-9fdc-99272086b8d4
@@ -2425,6 +2427,7 @@ DiffEqTutorials,6d1b261a-3be8-11e9-3f2f-0b112a9a8436
 DiffEqUncertainty,ef61062a-5684-51dc-bb67-a0fcdec5c97d
 DiffFusion,be7e520c-a8fa-4f26-8f65-6d6d1049182e
 DiffImageRotation,cb1f95eb-7c3a-45bc-9e18-5c07f1beaacd
+DiffMatic,ec55c3ff-feb8-4051-a6a4-2e9f18c613fc
 DiffOpt,930fe3bc-9c6b-11ea-2d94-6184641e85e7
 DiffPointRasterisation,f984992d-3c45-4382-99a1-cf20f5c47c61
 DiffPrivacy,53714aee-e5d1-4d1b-abff-f814f0c675a5
@@ -6093,6 +6096,7 @@ MathLinkExtras,319bc7fa-14a0-11ec-21e1-6160fff0bbd8
 MathML,abcecc63-2b08-419c-80c4-c63dca6fa478
 MathMLRepr,42d37811-1353-41fc-905d-730061a3b7c3
 MathOptAI,e52c2cb8-508e-4e12-9dd2-9c4755b60e73
+MathOptChordalDecomposition,691ff971-50ce-4a2e-a182-eb537bf792c3
 MathOptFormat,f4570300-c277-12e8-125c-4912f86ce65d
 MathOptInterface,b8f27783-ece8-5eb3-8dc8-9495eed66fee
 MathOptInterfaceMosek,0087ddc6-3964-5e57-817f-9937aefb0357
