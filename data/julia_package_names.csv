@@ -298,6 +298,7 @@ AmazonCACerts_jll,7cab812c-4aca-53c6-a1cf-d62f3ca054b4
 Amb,c42f9944-9a8f-11e9-2851-1930a3e1c813
 AmplNLReader,77dd3d4c-cb1d-5e09-9340-85030ff7ba66
 AmplNLWriter,7c4d4715-977e-5154-bfe0-e096adeac482
+AnalysisOfVariance,01c9c671-d471-43d2-8b89-3af15e6b824d
 AnalyticComb,8a73a7cf-268c-4a55-9a00-18d79986516d
 AnalyticalMethodValidation,b401a7b7-5953-49f1-86ca-9d186498acee
 AnalyticalStructureFactors,91294a36-8144-4a6b-bcde-0166c034afe3
@@ -7577,6 +7578,7 @@ ParquetFiles,46a55296-af5a-53b0-aaa0-97023b66127f
 ParquetS3,bfcb1084-f727-4b17-bfff-b14f4012e832
 ParseGen_jll,3685ca4f-ed3b-50e9-b1b5-004114d6e21a
 ParseNotEval,8aa82b3d-5f10-4499-b4c6-079a0c256bc8
+ParseUnparse,caaa8bb7-a042-43a4-a1c9-7594415e1478
 ParserCombinator,fae87a5f-d1ad-5cf0-8f61-c941e1580b46
 Parsers,69de0a69-1ddd-5017-9359-2bf0b02dc9f0
 PartedArrays,c45eb73e-4025-11e9-27c7-23913323ccd5
@@ -9667,6 +9669,7 @@ SmartParser,286a8d42-4b94-434a-8a6f-23eaeb4e0727
 Smartphores,d1712120-4320-4bd5-bb6f-c06e5f298789
 Smesh,e2b06280-edec-413c-a3a2-1b4e389db7bf
 Smg2s,36e52ba8-0d61-4da2-bc57-6d85c7a279e7
+SmithChart,0c39085a-4a17-4c0c-9861-c4c53bcea38a
 SmoQyDEAC,9c442b74-637f-4296-b43a-959aa316565a
 SmoQyDQMC,00e12d65-277b-447e-9c1d-a17422dd36f5
 SmoQyHankelCorrCleaner,0ea08462-a9b7-4dbd-b738-4196db0ff3ad
@@ -10752,6 +10755,7 @@ Tortuosity,80bb5c7f-3561-4bbc-a7c3-5e29a4cab6cc
 TotalLeastSquares,028f657a-7ace-5159-a694-8cfd97933b0c
 TotalVariation,00d00faa-c8f6-542a-bba9-9987f051d897
 Tower,965ce0a6-fda6-11e9-2ec6-215e9e726cc7
+TowerOfEnzyme,42b7b2d3-c73e-45b7-822c-d9186d944e94
 ToyPublicKeys,79566f03-f7ae-471c-a05f-4700599937bd
 TraceEstimators,e4811b68-74da-5b95-800f-4c79be0f9694
 TraceFuns,626f57eb-f6ca-464c-8f04-384fee2a352e
@@ -11608,6 +11612,7 @@ Zellij_jll,f51964ae-9c2b-58f9-be08-f952495c30f4
 Zenith_jll,ab215d34-98c8-565c-96d8-6589c1ef91a8
 Zenoh,b742139f-8771-480b-a9b2-33222b45d29b
 ZenohC_jll,a3bec183-2cd9-52aa-977e-56c7968661ce
+Zenohd_jll,60fe4315-4d9d-51d2-90b3-f4c2062225d6
 ZernikePolynomials,e462d300-c971-11e9-30f1-fb93b1f8f73a
 ZeroDimensionalArrays,446293e6-c8ea-451e-b470-6510dab5ca7b
 ZeroInflatedDistributions,f0eaf0ea-6b2c-45fd-8e3c-3fe72bdc2ec5
