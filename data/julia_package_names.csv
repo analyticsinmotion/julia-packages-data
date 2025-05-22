@@ -2583,6 +2583,7 @@ DocThemeIndigo,8bac0ac5-51bf-41f9-885e-2bf1ac2bec5f
 DockerSandbox,15bad361-1dfa-5a14-8210-7c6791966b1c
 DocsScraper,bd71d052-5e08-40cc-a492-eb4e8da4b649
 DocstringAsImage,cb150ec3-d779-4cdb-98dd-b48d53cba988
+DocstringTranslation,d404e13b-1f8e-41a5-a26a-0b758a0c6c97
 DoctreePages,22309a8f-d5e2-54ec-9ec8-201313e31489
 DocumentFormat,ffa9a821-9c82-50df-894e-fbcef3ed31cd
 DocumentFunction,e1f3b4f0-2dc4-57d3-83f7-d4b7faf3b05b
@@ -3017,6 +3018,7 @@ ExcelUtilities,55336d7b-7a60-40a5-8869-d5806121a906
 ExceptionUnwrapping,460bff9d-24e4-43bc-9d9f-a8973cb893f4
 Exceptions,25a0344a-2aab-46d0-b534-6f1410d4c65f
 ExchangeOperations,48bbcad9-ae6a-4618-9eec-9c3ca8e1b15b
+ExchangeRates,41b83a75-29e0-460a-8ec7-27bd549dfa6e
 Exercism,b06d6668-ed87-5b0c-b882-855c8dde7d29
 Exfiltrator,8fb92a4a-34c4-45cc-956f-769d12f66c92
 ExifViewer,81511e1f-44aa-483a-b228-c9d3a109f0d4
@@ -8864,6 +8866,7 @@ ResourceContexts,8d208092-d35c-4dd3-a0d7-8325f9cce6b4
 ResourceManagers,0ddfaa41-c5cc-4b1d-8f46-5fada6d10e03
 ResourcePools,16787047-0d73-522e-b8c7-4a818d739b35
 RestApis,766d9fe0-8bda-4b1c-9671-3009ced25364
+RestClient,e1389577-bcae-4d0f-b368-61b404b8c94c
 RestInterfaces,9d33f173-f162-446b-a684-c368130999bf
 RestrictProlong,b2097dc8-3ef6-5718-ab14-7bca60434373
 RestrictedBoltzmannMachines,12e6b396-7db5-4506-8cb6-664a4fe1e50e
@@ -9219,6 +9222,7 @@ SampledVectors,35248bf2-58a5-46a0-9b1d-c0a73a50a103
 SamplingInterdiction,9aaecd24-a0d8-466b-8bd9-adc0977479ee
 SamplingRB,c377c86e-bf6b-4a25-91bb-5ed2a0abdac5
 Sandbox,9307e30f-c43e-9ca7-d17c-c2dc59df670d
+SankeyMakie,1323c716-dab9-4207-0457-9cc5295a221b
 SankeyPlots,8fd88ec8-d95c-41fc-b299-05f2225f2cc5
 SantasLittleHelpers,c6e7a17c-0287-4a42-9433-7fe3bf8697c3
 Santiago,4c14ae50-faa6-54c0-b22f-5cc2de459edf
