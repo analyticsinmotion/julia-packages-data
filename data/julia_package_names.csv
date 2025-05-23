@@ -4388,6 +4388,7 @@ HermiteInterpolation,e59a9049-0778-4b41-b4a6-c75571210bee
 HeroIcons,0e288569-e4b5-43fd-9baa-cb516e1232f8
 Hestia,75036a29-a2ca-4eb4-a964-4c35e636f9a9
 HetaSimulator,630b40c4-2f38-41ff-bcb3-b2c7232fed0d
+HeteroPCA,77aa4d34-f7f4-424a-adb3-974963498de9
 HeterogeneousComputing,2182be2a-124f-4a91-8389-f06db5907a21
 HeuristicOptimizers,de832154-0e71-40a9-a3ad-2166d2d73fc5
 Heuristics,6acb60cf-2fd4-4316-b77c-a68f9bfdd616
@@ -4971,6 +4972,7 @@ JackPolynomials,ddfd1fc9-90b3-4604-ab0e-bc3dcbfcf898
 Jackknife,133c4774-c510-5f25-b650-129312f89f69
 Jacobi,83f21c0b-4282-5fbc-9e3f-f6da3d2e584c
 JacobiDavidson,11c68b98-9c9b-11e8-267b-bbb95576cead
+JacobiEigen,f8d6750e-133d-4ddb-bd4e-1effe2381a20
 JacobiElliptic,2a8b799e-c098-4961-872a-356c768d184c
 Jadex,302b6ea9-03d1-47d0-b3e6-7bc5ec1c11d5
 Jags,7de783dc-89a7-511c-b223-597fcba0cc71
@@ -9208,6 +9210,7 @@ SafeTensors,eeda0dda-7046-4914-a807-2495fc7abb89
 SafeTestsets,1bc83da4-3b8d-516f-aca4-4fe02f6d838f
 SaferIntegers,88634af6-177f-5301-88b8-7819386cfa38
 SafetySignalDetection,ad9a3248-762c-4ade-a843-8f185e2c18ff
+SagbiHomotopy,79f7b27e-1e7f-49b0-a183-48c80ed555cb
 SaguaroTrader,26277856-a3f7-4646-aaac-f090473ab108
 SaguaroTraderResults,1186189a-80ad-45af-add8-08b461ccbf8f
 Sainsc,4c4340ea-7f9e-46b4-8512-61f1f6c41a11
@@ -11893,6 +11896,7 @@ libexif_jll,cdeeb48b-bcdf-5b3f-98c4-7a29487f695f
 libfabric_jll,34a9636d-b35e-590e-8a00-9f1060fb31d9
 libfacedetection_jll,d63ee80a-a26b-5956-a0ed-fe8a48e7c1c8
 libfdk_aac_jll,f638f0a6-7fb0-5443-88ba-1cc74229b280
+libflame_jll,8e9d65e3-b2b8-5a9c-baa2-617b4576f0b9
 libfreenect_jll,05d52523-c636-5a6c-8a6a-526edab90d71
 libftd2xx_jll,66e46913-a265-5186-af4c-28555ad2a364
 libfyaml_jll,c8bb72a1-3259-5c06-b5d5-7152be8a520b
