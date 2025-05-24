@@ -9853,6 +9853,7 @@ SpectralInference,a959a40c-7f6b-448f-a4b7-059cce266d3c
 SpectralKit,5c252ae7-b5b6-46ab-a016-b0e3d78320b7
 SpectralResampling,01da207a-183e-480e-93ab-a94ea6491b8c
 SpectralStatistics,26aafa55-59f7-45ac-9841-9c476cd28090
+SpectralUnmixing,18035c97-8b76-4bd8-9b58-2d1c7240eddc
 SpectralWaves,1c8cf7b8-223b-484e-98e7-6240f1484c2c
 Speculator,ac92255e-d98e-45c4-b636-98964c1c8a8b
 SpeechAugment,85f1d090-a841-11eb-2200-31772235f1bd
@@ -11389,6 +11390,7 @@ WinKnownPaths,7ef17fd6-a797-4899-824e-453c4c44979c
 WinRPM,c17dfb99-b4f7-5aad-8812-456da1ad7187
 WinReg,1b915085-20d7-51cf-bf83-8f477d6f5128
 WinTypes,7ce832dc-6953-4c0f-9163-51fbd0dcbc24
+WinchControllers,9e74470a-8ab1-4f32-b878-f32ebd236ea2
 WinchModels,7dcfa46b-7979-4771-bbf4-0aee0da42e1f
 WindowAbstractions,e18202ca-4a7d-4de8-b056-fa6bbd7de157
 WindowFunctions,f8d1b8c8-e2db-43c1-b085-b5de5ced18ed
