@@ -1963,6 +1963,7 @@ CoordinateTransformations,150eb455-5306-5404-9cee-2592286d6298
 CoordinatedSupplyChains,3aaabd38-80f0-440d-8028-ff5345734cd4
 Coordinates,15ac8fbd-cb39-4be8-bb90-8f74d06af8f8
 CopEnt,3d58aee0-59b1-4d68-b4d3-acbeec332be7
+CopernicusData,40f541ec-ef23-43f7-b2aa-6425eeeec50a
 CopositiveAnalyticCenter,05dc622f-161e-4567-aeb3-31c6e962d327
 Copulas,ae264745-0b69-425e-9d9d-cf662c5eec93
 CoralBlox,f00a6e10-004a-11ef-3676-67ec635bc1a2
@@ -5917,6 +5918,7 @@ MMG_jll,86086c02-e288-5929-a127-40944b0018b7
 MMTF,259c3a9c-12c3-507f-b21f-68ecc40fcda4
 MMseqs2_jll,2f0138a6-2765-53ae-bca2-2fe9d5077335
 MNPDynamics,f81e04c9-20b8-526d-9626-780ee78293fb
+MOMDPs,77fc6e33-3f81-4304-8123-5a68e6b3eeb4
 MONA_jll,469f9ae1-7f35-5207-98f8-918a8c6f7b76
 MORWiki,4add22a6-c4b7-49d8-833a-0e1707ec89d0
 MOSLab,646a8480-3455-4dcb-93e7-a10dc646a0af
@@ -6009,6 +6011,7 @@ MahjongTiles,4428f09d-fda0-4bc5-909e-74e028533219
 MajoranaReps,4d2ab388-4915-11ec-2296-b707a6cee44b
 MajoranaReps_MathLink,b31d3d4c-bef0-4e65-bcd1-e17c4090d72f
 Makeitso,5616b7aa-48d8-5ba3-83fe-06b58d5edc20
+Makemsix_jll,92e7c7cf-2c17-5ab8-9563-5ab5b2fcee8a
 Makie,ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a
 MakieCore,20f20a25-4f0e-4fdf-b5d1-57303727442b
 MakieDraw,8315f7d3-d5d2-4d16-bebe-3aa4ef51e4f8
@@ -6557,6 +6560,7 @@ MuJoCo_jll,32af7c3b-80ec-5621-8194-2f6cb2280831
 MuSink,9311f4a3-d431-4665-b35d-8d2edcf6b88a
 MuTuner,206a444d-62d4-4bef-89ca-f2a4a27f2209
 Mueller,dfba0342-83e6-42c7-a796-fcf383ab214c
+MuesliMaterials_jll,ef259003-9f3a-5fc7-ae68-dce6b88dc7d6
 MuladdMacro,46d2c3a1-f734-5fdb-9937-b9b9aeba4221
 MullerPlot,77e78b5d-bb19-49bf-9459-ae694a76fbc0
 MultiAffine,251e6cbc-5fb1-4602-bd1f-2bec286d6307
@@ -12012,6 +12016,7 @@ mold_jll,0903f2b2-81ff-5be9-abf7-91be1d67eee8
 mosquitto_client_jll,fe4c1bd5-8d44-5fb7-91e7-4554e87d4671
 mousetrap_jll,0e90efc8-2bbd-550f-bf3c-306a2edaaeef
 mpg123_jll,3205ef68-7822-558b-ad0d-1b4740f12437
+mpifileutils_jll,2909f913-03bf-57eb-ad45-3e7a43191703
 mpv_jll,3b7eb3ab-5558-5250-ad56-7cbe1b8a43e3
 mrfDepth_jll,53656f53-9700-50e7-bf9c-d3aea1338d1b
 msgpack_cxx_jll,b129c591-c9d9-59ef-8959-ff59aa278493
