@@ -3855,6 +3855,7 @@ GeNIOS,633953ab-b710-48ef-9c4e-3b2d1d3d8185
 Geant4,559df036-b7a0-42fd-85df-7d5dd9d70f44
 Geant4_jll,872b6946-528a-5ac7-9145-d37eec569368
 Geant4_julia_jll,e202cb52-5471-567a-9cb0-0ca301e27810
+Gecko,1207f3c9-c989-46bd-b274-f7b835830eca
 GellMannMatrices,ab9ec009-2876-46ab-95e9-a984e5637243
 Gemini,0e52221f-e550-4e6d-bdf1-4c59b98d8cd5
 GemmKernels,312cec97-f96c-4f55-a63d-8e567f91b59b
@@ -6869,6 +6870,8 @@ NeuralEstimators,38f6df31-6b4a-4144-b2af-7ace2da57606
 NeuralFieldEq,d4f2cf9b-1959-46fe-97e6-985c98850872
 NeuralGraphPDE,dc0c328b-2f26-4c4e-a741-3d78bb01adf9
 NeuralGraphicsGL,263f7e6d-e369-49af-a86e-c85638573b76
+NeuralLyapunov,61252e1c-87f0-426a-93a7-3cdb1ed5a867
+NeuralLyapunovProblemLibrary,83723521-ca9c-4edc-8e64-505178d150fe
 NeuralNetDiffEq,8faf48c0-8b73-11e9-0e63-2155955bfa4d
 NeuralNetworkReachability,5de1e908-2f08-45bf-a571-ac88a54f7e7f
 NeuralOperators,ea5c82af-86e5-48da-8ee1-382d6ad7af4b
@@ -12129,6 +12132,7 @@ s3gof3r_jll,9164d88c-a457-5bb2-a3b9-d66c3bc9d5df
 s5cmd_jll,9c7924da-da29-52d4-adf6-81e6cfbf5c74
 sais_jll,87580118-d570-561d-bbff-a6d0453db9f3
 samtools_jll,cafa7ba0-c216-50a9-a84c-e0b2e0e60c48
+satsuma_jll,21c6bb45-b5e4-54df-a79f-e074cc52b729
 sccache_jll,a0ca49aa-d5b3-56d4-a580-62818514636d
 scopehal_jll,c69b092c-cabd-51ee-983a-b3d58f6c0ce7
 sdsl_lite_jll,74ccf9ed-edcf-595f-acda-b35b5ec4b965
