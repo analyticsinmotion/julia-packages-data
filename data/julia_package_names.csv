@@ -760,6 +760,7 @@ BaytesOptim,c78c806d-0713-4f4e-8b87-f7023233ea83
 BaytesPMCMC,c4a8eb41-45be-4f57-9046-b06303d6bef8
 BaytesSMC,2428e3a5-deaa-4b4d-8ec5-54cd60d7566c
 Bazel_jll,102a56d7-9562-5839-a7f3-b61deef4aa17
+BazerData,d6d9bf1d-14ee-42c9-93f7-cccc2a9ff2c2
 BcdiCore,72eb6a3e-ca63-4742-b260-85b05ca6d9e4
 BcdiMeso,1ffc817a-885e-4a73-a887-574cb954c7d7
 BcdiSimulate,b133d2d9-b23b-44ee-be6b-5f897f6a3084
@@ -3146,6 +3147,7 @@ FIRLSFilterDesign,1d969ca1-ee82-491a-b198-7f2f63a25c18
 FITSHeaders,8163a04c-c153-4fb1-a498-3402381ec208
 FITSIO,525bcba6-941b-5504-bd06-fd0dc1a4d2eb
 FITSTables,7c1f5dd0-abd1-46fd-a3fe-70b5915849d6
+FKRBDemand,ac267177-d275-4753-b7f9-46a5f58d4fd0
 FLAC,abae9e3b-a9a0-4778-b5c6-ca109b507d99
 FLAC_jll,1d38b3a6-207b-531b-80e8-c83f48dafa73
 FLANN,4ef67f76-e0de-5105-ac01-03b6482fb4f8
@@ -7261,6 +7263,7 @@ OptimalBranchingMIS,1d45bab8-fbcd-445a-8de2-8d643ff389c2
 OptimalControl,5f98b655-cc9a-415a-b60e-744165666948
 OptimalControlProblems,59046045-fb9c-4c23-964f-ff0a25704f96
 OptimalEstimation,b4b06e15-aec3-475a-bd5d-4eaf7ad224b9
+OptimalGIV,bf339e5b-51e6-4b7b-82b3-758165633231
 OptimalMatrixCompletion,26d6b5db-a198-4a75-82bf-4a48696500ea
 OptimalPortfolios,f8c24b8e-07c0-4fa7-b4d4-fbfdbae127a5
 OptimalSortingNetworks,cae6f51d-d477-4615-8395-e10abcea54c6
@@ -7694,6 +7697,7 @@ Persa,86800b63-3017-5277-aca5-15d7d6a5f2b2
 PersistenceDiagrams,90b4794c-894b-4756-a0f8-5efeb5ddf7ae
 PersistenceDiagramsBase,b1ad91c1-539c-4ace-90bd-ea06abc420fa
 PersistenceLandscapes,57fa2ca4-3800-4457-8ea1-3c54cd81cce3
+PersistentCache,272a2dff-45f1-435c-8a77-925e0295a038
 PersistentCollections,84dc0e8b-87a2-413f-9462-a65634c44495
 PersistentHomologyTransfer,8e4506b2-5217-11ea-25a3-13470ffdf3d0
 PersonParameters,ede86a6c-608d-4331-8790-0f4b0558141a
@@ -11778,6 +11782,7 @@ ensmallen_jll,d1a6e830-de90-5fe4-8599-c1a9c9fe1834
 ephemeralpg_jll,1b42a6b1-a0b2-50eb-a0be-acc79e4b08a0
 esbuild_jll,26e969d2-927c-5f74-8db2-a5499fed2ef8
 eudev_jll,35ca27e7-8b34-5b7f-bca9-bdc33f59eb06
+exprtk_jll,dc4c4521-5b7f-5177-bcb8-53f895501e5d
 extxyz_jll,6ecdc6fc-93a8-5528-aee3-ac7ae1c60be7
 fakechroot_jll,0d1115f3-e42e-5952-a93b-f179746a6ed7
 fastp_jll,cdb18c6f-09f1-5f87-ba27-801070dd1989
