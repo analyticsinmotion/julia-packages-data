@@ -1664,6 +1664,7 @@ ClusterEnsembles,e493a4bf-88d6-40ad-84dc-847a9b000e38
 ClusterManagers,34f1f09b-3a8b-5176-ab39-66d58a4d544e
 ClusterRunner,3325b298-19c5-4432-bbc2-e7898443f212
 ClusterTrees,5100927d-02aa-593a-b4f9-7235df19f0db
+ClusterUtils,651d1c28-5f8d-4b26-91d9-468bf8b4a262
 ClusterValidityIndices,2fefd308-f647-4698-a2f0-e90cfcbca9ad
 ClusteredLowRankSolver,cadeb640-247c-4e6d-a8b8-270aef5e1f95
 Clustering,aaaa29a8-35af-508c-8bc3-b662a17a0fe5
