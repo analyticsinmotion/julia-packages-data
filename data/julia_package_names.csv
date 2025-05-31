@@ -2345,6 +2345,7 @@ DelaySSAToolkit,d39380a9-d0d7-4ae6-ae63-0e8d8b7efa9e
 DelayedEvaluation,2c753b72-1c91-42c0-bffb-8fcc0131c994
 Deldir,64db5801-a3ae-51a7-b7d2-a0a5f0813e47
 Deldir_jll,0cb025a2-29c7-561e-a277-a82c5b779c13
+DelegatorTraits,d83dbd90-3e00-4b33-84f1-398adcf3b35e
 DelimitedFiles,8bb1440f-4735-579b-a4ab-409b98df4dab
 DeltaArrays,10b0fc19-5ccc-4427-889b-d75dd6306188
 DemeNet,311d44f8-95d5-40c8-b71c-a916d7747227
@@ -7131,6 +7132,7 @@ OhMyThreads,67456a42-1dca-4109-a031-0a68de7e3ad5
 OkFiles,b25a35d4-863d-483c-9fa1-95480bd075d2
 OktaJWTVerifier,4bff0fe4-4ead-499c-9e50-e12c47db005b
 Olive,724ecaf6-c7a0-4c22-b37e-0bb7b4193da8
+OliveDocBrowser,730a473e-e451-46cc-9004-d443de66d173
 OliveHighlighters,f769160f-f39a-4920-b1de-ba699e2d8893
 OliveImages,d5c9dd0d-5678-4538-8542-c68b20ea893d
 OlivePython,723e633f-9a76-4329-b2d1-0431e20a66c6
@@ -7583,6 +7585,7 @@ ParametricMCPs,9b992ff8-05bb-4ea1-b9d2-5ef72d82f7ad
 ParametricOperators,db9e0614-c73c-4112-a40c-114e5b366d0d
 ParametricOptInterface,0ce4ce61-57bf-432b-a095-efac525d185e
 ParametricProcesses,9ce9415f-ecd2-4b63-a3f6-984ce63e76ce
+ParametricScheduler,f31cb20c-9fb3-42aa-992b-75cb21ef0e24
 ParametrisedConvexApproximators,668502ff-1e8f-42bf-95c7-24f1e819f537
 Parametron,41fac6d6-0ffa-5bcc-b863-17dd4947be41
 Paraml,0a452357-00e2-49ec-9da5-12084d27edbc
