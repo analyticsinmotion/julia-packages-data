@@ -3147,6 +3147,7 @@ FIFOStreams,52a73f2b-c786-4122-ad8a-b7fbd35c9081
 FIGlet,3064a664-84fe-4d92-92c7-ed492f3d8fae
 FINUFFT,d8beea63-0952-562e-9c6a-8e8ef7364055
 FIRLSFilterDesign,1d969ca1-ee82-491a-b198-7f2f63a25c18
+FITSFiles,358a0a88-3548-4ad6-b652-8bdbf64af8e5
 FITSHeaders,8163a04c-c153-4fb1-a498-3402381ec208
 FITSIO,525bcba6-941b-5504-bd06-fd0dc1a4d2eb
 FITSTables,7c1f5dd0-abd1-46fd-a3fe-70b5915849d6
@@ -7837,6 +7838,7 @@ PkgVersion,eebad327-c553-4316-9ea0-9fa01ccd7688
 PkgVersionHelper,a83a3aaf-d014-45d2-af27-d8a782db1bf5
 PlanarConvexHulls,145d500b-351c-58b3-a0aa-f5d7e249d989
 PlanarMaps,291fd964-e446-5d75-9412-e8e0eb420fa7
+PlanckFunctions,56edaee7-e77f-43d7-994d-8307b8de0a62
 PlanetOrbits,fd6f9641-d78f-43ce-a379-ceb0bddb468a
 PlanetSim,2ce8fb18-82de-4cc8-b75d-a45bdc5f56b9
 PlanetaryEphemeris,d83715d0-7e5f-11e9-1a59-4137b20d8363
@@ -11502,6 +11504,7 @@ XXHashNative,e5d8e439-e7fa-4681-9c12-1c64bda517be
 XXhash,137af188-b1ec-11e9-0b40-31ed9142ae64
 XYZFiles,a225628a-78ad-46da-a6ce-ba24cead9d4b
 XZ_jll,ffd25f8a-64ca-5728-b0f7-c24cf3aae800
+Xayaam,ba1c0fb4-2954-4367-b0f7-9594136526c1
 XboxController,84b136a2-8bec-4844-b63d-93659377b41a
 XbrlXML,bd8e2f07-ddbe-4e10-a07d-d9c59cd9946f
 Xerces_jll,637d83c4-b86a-5d90-b82d-5cf0573a8cfc
@@ -12121,6 +12124,7 @@ raptor_jll,a0baa3b2-8ece-51b8-9952-c0b61b0787fb
 rcodesign_jll,81561df1-22b2-57e5-9f67-03318e1fa9d9
 rdma_core_jll,69dc3629-5c98-505f-8bcd-225213cebe70
 re2c_jll,7d2ed363-0947-51cb-8ada-ce58eccc042f
+resvg_jll,acccf2be-895d-5fd8-88d3-4be6fc0b64a1
 ripgrep_jll,e10fc14b-37cd-5cbc-b289-ad01b12ebaad
 rmapi_jll,3ae0f9c0-76b4-5b6c-94ea-a996d928aed7
 robin_hood_hashing_jll,db1222e2-bf1a-580a-8e2a-80000e4658c5
