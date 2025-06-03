@@ -1713,6 +1713,7 @@ ColPack_jll,f218ff0c-cb54-5151-80c4-c0f62c730ce6
 Colab,5cf9835b-3326-467f-b945-82b471bf70fe
 Collatz,93a6299e-2ed6-4a7f-9f14-000d52f8d402
 CollectiveSpins,abf2e61e-3022-5fcf-a868-69d409dee72b
+Collects,08986516-18db-4a8b-8eaa-f5ef1828d8f1
 Collide,085180c5-06a8-45e0-97f1-b06875346562
 CollisionDetection,2b5bf9a6-f3f8-5352-af9c-82bb4af718d8
 Colocalization,5deedb61-f8ac-43ca-82f0-d70c51e04289
@@ -3544,6 +3545,7 @@ FourLeafMLE,5790dc55-b552-4dea-a575-4088ca23464b
 Fourdfp,23cab71e-c09d-4758-9ab0-2c183091423d
 Fourier,424e878d-f74a-44ed-9ae4-e4144b72a8ff
 FourierAnalysis,e7e9c730-dc46-11e9-3633-f1ab55cc17e1
+FourierContinuation,7a7d29dc-0a27-42a9-9145-d1eba3778da3
 FourierFlows,2aec4490-903f-5c70-9b11-9bed06a700e1
 FourierGPE,f013a474-557c-11e9-3596-438edcad9d97
 FourierSeries,91b0b092-f7f9-44d0-82ad-103031573311
@@ -3944,6 +3946,7 @@ GeoArrays,2fb1d81b-e6a0-5fc5-82e6-8e06903437ab
 GeoArrow,5bc3a8d9-1bfb-4624-ba94-a391279174d6
 GeoArtifacts,2a3f1dca-97a5-4513-bfd8-b69f0106a87e
 GeoClustering,7472b188-6dde-460e-bd07-96c4bc049f7e
+GeoCotrans,4624b3bc-fe35-44f8-bfa8-722ff9c0e307
 GeoData,9b6fcbb8-86d6-11e9-1ce7-23a6bb139a78
 GeoDataFrames,62cb38b5-d8d2-4862-a48e-6a340996859f
 GeoDataPicker,ad26291b-5ad9-4b61-8cdb-f4ecfd1c1fc8
@@ -4997,6 +5000,7 @@ Jedis,b89ccfe0-2c5f-46f6-b89b-da3e1c2e286f
 JefimenkoModels,d277eb4b-a029-4f3f-8547-f56fb2721095
 Jello,6872b481-e419-48a0-81d2-be4ee5684529
 JellyMe4,19ac8677-9a15-4623-9afd-84acc6165ce7
+JenaAtomicCalculator,830ae420-d14d-11e8-2f94-6b071437414d
 JeszenszkiBasis,4eec09b6-37c8-513a-a01b-84ce271f0312
 JetPack,24ef3835-3876-54c3-8a7a-956cf69ca0b2
 JetPackDSP,b1babd66-454c-5c15-86a3-b3c308963df9
@@ -5359,6 +5363,7 @@ Lale,25676c37-aa2f-4f14-ad5b-b63670ababff
 LambdaFn,fcefd6c4-8de0-11e9-0d15-03bc7c8ec982
 LambdaMaker,8b137802-21d4-43b8-8610-b92ef2bbc330
 LambertW,984bce1d-4616-540c-a9ee-88d1112d94c9
+LambertsProblem,bfcf449f-4a4c-42e3-91d7-977e7d435437
 LandDataTools,d1413c6f-1a60-4f18-acd6-8d361c31e2f3
 LandSea,cbf7bb22-a1a6-46cb-8b24-174e3bc5fc04
 LandauDistribution,6012e1b8-0df6-47e7-96ae-5acef29e6d22
@@ -6761,6 +6766,7 @@ NUMA,292f1341-b53f-425a-80e5-3597ad0961bf
 NUMA_jll,7f51dc2b-bb24-59f8-b771-bb1490e4195d
 NURBS,dde13934-061e-461b-aa91-2c0fad390a0d
 NVMagnetometer,28fc4bcf-da03-4841-bbdb-88baaf311b30
+NVPL_jll,aa5f73a5-3a95-59b9-aadf-aa3f57305df1
 NVTX,5da4648a-3479-48b8-97b9-01cb529c0a1f
 NVTX_jll,e98f9f5b-d649-5603-91fd-7774390e6439
 NWBStream,5982c9a4-5774-4415-9796-801a4f82b4d6
