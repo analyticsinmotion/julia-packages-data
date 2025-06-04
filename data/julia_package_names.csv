@@ -3940,6 +3940,7 @@ GenomicFeatures,899a7d2d-5c61-547b-bef9-6698a8d05446
 GenomicMaps,db448a0f-c3d9-5f82-93ff-ed9bd37d70e8
 GenomicOffsets,496adb70-ccd1-4bf3-8d93-537a078619e1
 GenomicVectors,96124ad7-5c0a-5c8f-8316-419835a3cefd
+GeoAACGM,7d0bd8ea-8a67-4204-9dfc-7af11c683dec
 GeoAcceleratedArrays,a1bd0a3b-d31e-42b9-ba04-538dc10eeccf
 GeoArrayOps,e6005643-8f00-58df-85c5-7d93a3520d70
 GeoArrays,2fb1d81b-e6a0-5fc5-82e6-8e06903437ab
@@ -8567,6 +8568,7 @@ REPLSmuggler,ad7bff83-59f0-4382-9fe5-c2ac8aa77434
 REPLTetris,6af34c43-eb40-584a-ba44-023879b5265e
 REPLTreeViews,00000000-1111-2222-3333-444444444444
 REPLference,89b048f0-36f8-47dc-b812-110e59d1ec6a
+REPLicant,8acbef56-6722-412a-9f59-5674813d37bb
 REopt,d36ad4e8-d74a-4f7a-ace1-eaea049febf6
 REoptLite,0144022d-7626-48b7-867b-06d945449d75
 REoptPlots,81d7bfe7-808b-4a8e-bf67-c3577adb378e
