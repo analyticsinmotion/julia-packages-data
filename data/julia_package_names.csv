@@ -4159,6 +4159,7 @@ Graphene,f5002e42-d20c-4f71-b383-ecdb27adfd24
 GrapheneQFT,b903362a-f3fb-4fd6-ad42-15d1112bb05b
 Graphene_jll,75302f13-0b7e-5bab-a6d1-23fa92e4c2ea
 GraphicalLasso,ec280fb4-098f-495a-9118-f266479a1c55
+GraphicalLassoQUIC,db53d3f2-1e72-4de5-901c-ab93047c33dc
 GraphicalModelLearning,73787735-dbe8-5e05-9488-dc58b1b075d0
 Graphics,a2bd30eb-e257-5431-a919-1863eab51364
 GraphicsMagick_jll,aa65733b-c888-5e24-8545-c87abc10c960
@@ -12226,6 +12227,7 @@ vSmartMOM,7ba11eeb-0a61-4a04-a413-bf612cc2007e
 very_nauty_jll,be6384bf-868f-57ad-9feb-9e32886bc996
 viterbi_jll,dd422b0c-1f95-5ffb-9e80-de3947502723
 vmtouch_jll,28f2fcfb-5f6a-5f77-b781-4b42819ab36c
+vole_jll,5833a85b-77c9-5066-a5cb-0fcd921296cc
 wannier90_jll,c5400fa0-8d08-52c2-913f-1e3f656c1ce9
 web3go_jll,eead4c12-a8c2-5c95-a405-009094e72470
 wget2_jll,8726a5da-ff56-5c52-916d-726e18caca27
