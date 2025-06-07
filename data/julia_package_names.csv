@@ -637,6 +637,7 @@ BPFnative,b6338580-32ea-11e9-1791-33a79977d8c4
 BPGates,2c1a90cd-bec4-4415-ae35-245016909a8f
 BPNET_jll,6d003e1e-9eb9-5314-b82e-2a0f9b6bc0eb
 BQCESubroutine,29e2bfda-5ba7-471c-9125-afac425f1f80
+BQPD_jll,1325ac01-0a49-589f-8355-43321054aaab
 BSDESPOT,e87855f3-d877-40b7-8600-5f1cc2d263ad
 BSDiff,7b188ff4-8bb6-4dee-bbe1-9b6fdde2c7c5
 BSON,fbb218c0-5317-5bc6-957e-2ee96dd4b1f0
@@ -5687,6 +5688,7 @@ LoRaPHY,646e3a94-a092-4ccf-81d9-1ab43b008f5e
 LoadAllPackages,b37bcd2d-1570-475d-a8c6-9b4fae6d0ba9
 LoadFlint,472f376f-f1cf-461b-9ac1-d103423be9b7
 LoadTensorDecompositions,bae27b42-c72a-5733-8f2d-201965195bfc
+LocalAncestry,9c717bbe-74a8-4a1b-8702-c9261a6bba1a
 LocalAnisotropies,cb698b3a-2f1d-48b4-a1e9-ddc0b8f648e2
 LocalApproximationValueIteration,a40420fb-f401-52da-a663-f502e5b95060
 LocalCoverage,5f6e1e16-694c-5876-87ef-16b5274f298e
@@ -6912,6 +6914,7 @@ NewlineLexers,f391c746-b838-4748-bbb5-9885c75b726e
 NewsAPI,d145281a-7b66-43b1-b4e0-c06cc84e19a4
 NewsLookout,48ea66d6-70bf-4733-809e-20017acf6e3b
 NewsvendorModel,63d3702b-073a-45e6-b43c-f47e8b08b809
+Newtrinos,5b289081-bab5-45e8-97fc-86872f1653a0
 NextGP,1a32220a-4ac3-442e-849d-1943511e16f7
 NextLA,d37ed344-79c4-486d-9307-6d11355a15a3
 NgSpice,1a64e563-3ad9-44a2-8713-a1728bea8a90
