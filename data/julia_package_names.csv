@@ -3428,6 +3428,7 @@ FixedPointNumerics,667e4c0e-a733-4321-83c7-c10aa58aff6a
 FixedPointSinCosApproximations,aedcc28f-63b5-4046-b467-b09cfa7c8db7
 FixedPointToolkit,081f7a28-ac82-48c1-a10e-fa8b3349a52a
 FixedPolynomials,3dd14ad9-0029-526e-86e9-8aa0bdd2ab0d
+FixedSizeArrays,3821ddf9-e5b5-40d5-8e25-6813ab96b5e2
 FixedSizeBitVector,a6325e15-1dfe-4e9f-88de-e354d00cf0f1
 FixedSizeStrings,3ca710bb-85d4-534c-9bae-b7b5d9e27e20
 FixedWidthTables,ef6c9296-b25d-482c-a0a7-898918678e13
@@ -6646,6 +6647,7 @@ MultivariateMoments,f4abf1af-0426-5881-a0da-e2f168889b5e
 MultivariateOrthogonalPolynomials,4f6956fd-4f93-5457-9149-7bfc4b2ce06d
 MultivariatePolynomials,102ac46a-7ee4-5c85-9060-abc95bfdeaa3
 MultivariateSeries,08acae6c-c1bf-11e9-0c27-6b1945f8789b
+MultivariateSingularIntegrals,afb3ad05-8577-40d5-8767-20c5aa8ee3cd
 MultivariateStats,6f286f6a-111f-5878-ab1e-185364afe411
 Multivectors,7984e3fa-4652-481f-a8e5-141db0974c74
 Multiverses,8c3f51a0-5c4f-440f-9c08-8c30078f3199
@@ -8421,6 +8423,7 @@ QuadraticModelsCPLEX,a53098ac-c15a-4696-bee0-14caaca04665
 QuadraticModelsGurobi,b0275aa7-013b-42ad-9e10-dc5d6db0accb
 QuadraticModelsXpress,2cf8c267-6e70-4ce4-bd8d-41913dbccd90
 QuadraticOptimizer,e7241e48-3d3b-4ed3-9130-818aaeb8a636
+QuadraticOutputSystems,7e166fd4-1274-4fbf-8c8d-3f6046b124b3
 QuadraticProgramNetworks,576966be-9dca-4525-ada1-64298180af2c
 QuadraticToBinary,014a38d5-7acb-4e20-b6c0-4fe5c2344fd1
 Quadrature,67601950-bd08-11e9-3c89-fd23fb4432d2
@@ -9362,6 +9365,7 @@ SearchSpaces,eb7571c6-2196-4f03-99b8-52a5a35b3163
 SeasonalStreamflowForecasts,bb13d32d-afbb-4581-b3da-b1545cc63733
 SeasonalTrendLoess,42fb36cb-998a-4034-bf40-4eee476c43a1
 SeawaterPolynomials,d496a93d-167e-4197-9f49-d3af4ff8fe40
+SecondQuantizedAlgebra,f7aa4685-e143-4cb6-a7f3-073579757907
 Secp256k1,bfa37bea-997f-11e9-0e02-2d50932a0e04
 SecretSanta,bb3d3a65-b032-5cdd-a073-dfed7b606c01
 SecureArithmetic,38cee09b-6d7e-4d21-866e-807a7f642fe9
@@ -10408,6 +10412,7 @@ TCX,3b8c1752-506b-11e9-3f9b-8db86abc7c68
 TCX2Graph,7c1b654f-8326-48fd-8083-965747c58dac
 TCXReader,1acf2333-b1bd-424d-862d-25e89a4f23c1
 TDAmeritrade,85f6aff6-1a1d-4afc-a0ba-df5513750661
+TDEP_jll,1616d667-7f4b-50a1-9dcc-173d58025fb3
 TDLib_jll,6cfef11d-eb86-5696-bb50-1df673c3ffa1
 TERMIOS,10233e3b-0d6c-416a-8c1a-d3d286bd6cd2
 TFRecord,841416d8-1a6a-485a-b0fc-1328d0f53d5e
@@ -10566,6 +10571,7 @@ TensorRT_jll,2eaff018-c6f9-5ddb-97b6-8b0d18888fbb
 TensorRefinement,a3b9d4e2-d0bd-4e25-82d9-b4a73f42a39d
 TensorRules,f4bef1b4-b92c-4d5f-a4ba-6d6989c7744d
 TensorToolbox,9c690861-8ade-587a-897e-15364bc6f718
+TensorTrainNumerics,304e70ee-b558-420e-aed5-de4d05b6ca2b
 TensorTrains,89893e69-996d-40b1-ba32-8ff5f34c0dd5
 TensorValues,31c64edf-cdeb-50e4-845d-ed2334360c20
 Tensorial,98f94333-fa9f-48a9-ad80-1c66397b2b38
@@ -11201,6 +11207,7 @@ ValueConstraints,92afce1a-211d-486e-a2ad-128a80a11060
 ValueHistories,98cad3c8-aec3-5f06-8e41-884608649ab7
 ValueOrientedRiskManagementInsurance,4aceb6fc-b794-5e89-b0ac-b6eba507a4bd
 ValueShapes,136a8f8c-c49b-4edb-8b98-f3d64d48be8f
+VanVleckRecursion,b035d78d-16e8-4eee-b57b-0bcdd92a70b5
 VarStructs,f7972512-fcde-4f7f-ad6d-ee9cbeb5126f
 VarianceComponentModels,813005db-34b4-5f71-be9e-1bbf0a1d8f1c
 VariantCallFormat,28eba6e3-a997-4ad9-87c6-d933b8bca6c1
