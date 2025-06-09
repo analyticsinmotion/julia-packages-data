@@ -2476,6 +2476,7 @@ DiffusionDefinition,c126fcb9-5a08-4fee-b75a-97eb446288b0
 DiffusionFlux,0088ed5a-e206-4379-b0fa-25d85632c804
 DiffusionGarnet,d440471f-548d-4017-b306-a3be590dd0f0
 DiffusionMap,809424d5-4f20-4f0f-8853-2ca5e8a82a88
+DiffusionPiecewiseExponential,9870d97a-5574-448d-8f58-c3ebfaa32f84
 DiffusionX,430d172f-66e9-4875-89c7-99d3949cb067
 DiffusiveShockAccelerationModels,66fc4661-a670-4cc2-b407-bfd81989e880
 Difmap,697f6f98-b792-4bca-85fe-71b3d053de65
@@ -4191,6 +4192,7 @@ Grep,775960c6-9b90-5df0-b405-1e337feb71e5
 GridArrays,356ae075-8bc9-5ef9-a342-46c9ba26438c
 GridCreation,71e55505-9134-4914-97da-b2ab28305a13
 GridDensities,30cfb417-a18a-4984-907c-c461bfb07c95
+GridGeometryUtils,6f784e4f-3d6e-439e-b87e-1b67132dd330
 GridGraphs,dd2b58c7-5af7-4f17-9e46-57c68ac813fb
 GridInterpolations,bb4c363b-b914-514b-8517-4eb369bc008a
 GridLayoutBase,3955a311-db13-416c-9275-1d80ed98e5e9
