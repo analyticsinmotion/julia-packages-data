@@ -1041,6 +1041,7 @@ Books,939d5c6b-51ae-42e7-97ca-7564d0d4ad91
 BoolExprs,00a27e70-1d62-540f-bcdc-a22b13a847b1
 BootlegCassette,7e930afe-c91a-4d40-8977-8548870aff83
 Bootstrap,e28b5b4c-05e8-5b66-bc03-6f0c0a0a06e0
+BootstrapVirasoro,ca6c609c-7c6b-4ea6-be06-ee6e3ced7d6c
 BorrowChecker,7bdcaa52-c310-4bb0-bf54-d941056ed284
 Borsh,e0ca245e-e2d4-4924-a0cc-c0f16c675cd2
 Boscia,36b166db-dac5-4d05-b36a-e6c4cef071c9
@@ -1955,6 +1956,7 @@ ConvexHulls2d,438b5665-92b0-42e6-bc36-e4ac8449fa2d
 ConvolutionInterpolations,75b5ba44-29d7-490a-960d-52c835d47405
 ConvolutionOperators,15927181-a1bb-497c-b745-8dbf505c019d
 ConvolutionalOperatorLearning,3c17ac3d-2343-4d75-b01f-81723beeda4b
+CooccurrenceRegression,b11753cd-0d5a-47ad-8b8f-99db3fa4a09b
 Cookbook,5c1ef01f-39c8-5834-b1a0-1a342f75f4df
 CoolProp,e084ae63-2819-5025-826e-f8e611a84251
 CoolProp_jll,3351c21f-4feb-5f29-afb9-f4fcb0e27549
@@ -2258,6 +2260,7 @@ DataIO,ef35fa6a-3910-11e9-1848-752a35b00f56
 DataInterpolations,82cc6244-b520-54b8-b5a6-8a565e85f1d0
 DataKnots,f3f2b2ad-91c8-5588-b964-d77e2d3bb090
 DataLoaders,2e981812-ef13-4a9c-bfa0-ab13047b12a9
+DataManifest,b8ee69ef-a20a-4d38-bceb-a68d72817f72
 DataManipulation,38052440-ad76-4236-8414-61389b2c5143
 DataMigrations,0c4ad18d-0c49-4bc2-90d5-5bca8f00d6ae
 DataPipeline,9ced6f0a-eb77-43a8-bbd1-bbf3031b0d12
@@ -3317,6 +3320,7 @@ FerriteMeshParser,0f8c756f-80dd-4a75-85c6-b0a5ab9d4620
 FerriteViz,59d0093e-b1f1-4fb7-ac85-ab57e45f39d9
 Fetch,bb354801-46f6-40b6-9c3d-d42d7a74c775
 FewBodyPhysics,dd57e2ab-7dae-448b-a136-57ab9eca4234
+FewBodyToolkit,28c40a4d-cd08-48a0-9e99-cc2df8099be4
 FewSpecialFunctions,6fcbd3ca-4273-49c4-98b3-81b765566de6
 FeynmanDiagram,e424a512-dbd9-41ff-9883-094748823e72
 FeynmanKacParticleFilters,b43f8e06-e683-11e8-294f-8d3ef32cb08c
@@ -12188,6 +12192,7 @@ sparseQFCA,077cf62c-ad2d-5edd-99ec-638372f8b004
 spdlog_jll,3d47416f-b330-5763-8b13-e9bf7bc8d726
 spectra_jll,ef34ea38-0a9e-523f-b228-55b6d5c13eb1
 spglib_jll,ac4a9f1e-bdb2-5204-990c-47c8b2f70d4e
+spirv2clc_jll,f0274c0c-8c8a-59f1-85b7-f7d60330c5fb
 spla_jll,c0b6e1fa-1634-5519-836b-ea1958e971dd
 squashfs_tools_jll,eed32e3e-a7c5-5bf9-9121-5cf3ab653887
 sshpass_jll,10845e11-4a35-56cf-b896-e8069d57c2bc
