@@ -6894,6 +6894,7 @@ NeuralAttentionlib,12afc1b8-fad6-47e1-9132-84abc478905f
 NeuralDynamics,4a0b20f9-fc5a-4814-8f96-b33a141a51c8
 NeuralEstimators,38f6df31-6b4a-4144-b2af-7ace2da57606
 NeuralFieldEq,d4f2cf9b-1959-46fe-97e6-985c98850872
+NeuralFoil,a796ede8-0982-4285-a2cf-116db6b737e1
 NeuralGraphPDE,dc0c328b-2f26-4c4e-a741-3d78bb01adf9
 NeuralGraphicsGL,263f7e6d-e369-49af-a86e-c85638573b76
 NeuralLyapunov,61252e1c-87f0-426a-93a7-3cdb1ed5a867
@@ -8403,6 +8404,8 @@ Qt6Base_jll,c0090381-4147-56d7-9ebc-da0b1113ec56
 Qt6Charts_jll,ce7a410b-7929-57f8-ae2b-7b8a3209b4c9
 Qt6Declarative_jll,629bc702-f1f5-5709-abd5-49b8460ea067
 Qt6Positioning_jll,3ab57c46-54b1-52cd-a3f5-dc477084d9ef
+Qt6Quick3D_jll,6dc365b9-5e99-58d6-8812-efce7277b6ef
+Qt6QuickTimeline_jll,aaa24d55-1a42-52ef-a112-65a2da50b610
 Qt6ShaderTools_jll,ce943373-25bb-56aa-8eca-768745ed7b5a
 Qt6Svg_jll,6de9746b-f93d-5813-b365-ba18ad4a9cf3
 Qt6Wayland_jll,e99dba38-086e-5de3-a5b1-6e4c66e897c3
@@ -10809,6 +10812,7 @@ ToricAtiyahBott,72dfc14a-8332-4639-b9f3-8b017b604ecf
 Tortuosity,80bb5c7f-3561-4bbc-a7c3-5e29a4cab6cc
 TotalLeastSquares,028f657a-7ace-5159-a694-8cfd97933b0c
 TotalVariation,00d00faa-c8f6-542a-bba9-9987f051d897
+Touchstone,af4736ee-1570-4274-b14c-898d17d80b75
 Tower,965ce0a6-fda6-11e9-2ec6-215e9e726cc7
 TowerOfEnzyme,42b7b2d3-c73e-45b7-822c-d9186d944e94
 ToyPublicKeys,79566f03-f7ae-471c-a05f-4700599937bd
