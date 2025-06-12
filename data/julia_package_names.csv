@@ -5130,6 +5130,7 @@ KWLinalg,3123b30d-1c8b-4465-a616-3de951cb5b45
 KaHyPar,2a6221f6-aa48-11e9-3542-2d9e0ef01880
 KaHyPar_jll,87a0c12d-51e1-52a8-b1ed-2b00825fe6a4
 KaTeX,07258bb1-70fb-50ed-9200-988f9681c4d2
+Kabsch,f04b186e-52d5-4f75-9fe8-bf69181293d4
 KadanoffBaym,82532805-809c-4ef0-842b-4b00c5e9be5f
 KahanSummation,8e2b3108-d4c1-50be-a7a2-16352aec75c3
 Kahuna,a159c9be-0176-11ea-0d64-b53c1d07f8ae
@@ -7736,6 +7737,7 @@ PetscCall,1194c000-87c4-4102-b4a0-a6217ec4849e
 PetscWrap,5be22e1c-01b5-4697-96eb-ef9ccdc854b8
 Pfam,275cd14a-065f-44bb-ab7a-e1328a0f1819
 Pfapack_jll,36de11a4-635f-5b15-8378-93f477661e31
+Pgvector,ab7f0314-681e-439b-b2a8-1689834ece97
 PharmaceuticalClassification,c42eed22-7bfe-405f-8797-8b984d5f7563
 PhaseRec,694d4756-7efa-46c2-8f81-162496cbdea7
 PhaseSpaceIO,de004529-e20a-5d30-89d8-7739140c50e5
