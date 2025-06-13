@@ -3268,6 +3268,7 @@ FastNoise2,2be676d8-266a-4754-93de-a79a9402b830
 FastNoise2_jll,91d5e9c4-6b54-5540-8e0f-f201c75be604
 FastOPInterpolation,7decf2fc-1b41-4df3-8d24-d8c3407cdb84
 FastParzenWindows,d2256c36-f6cb-4f2b-bb45-9577641c7b75
+FastPointQuery,b325ad68-3eea-4afa-b43e-4b8e378fd76d
 FastPolynomialRoots,1563e8c5-a255-588c-b09d-21601517bb22
 FastPow,c0e83750-1142-43a8-81cf-6c956b72b4d1
 FastPower,a4df4552-cc26-4903-aec0-212e50a0e84b
@@ -4574,6 +4575,7 @@ IOLogging,9ee9e592-2d2d-57f4-9c4b-95048a1bc2c4
 IOStructs,4d2d9364-ca76-473b-964a-083ad86fcbf9
 IOUtils,6aa5b9b4-0a87-4d01-8444-b9736d377f28
 IPGBs,cd26b91b-75b4-4f6e-a355-d2a0d136006d
+IPICalculator,78514ca9-c0f0-4226-8c48-df09c4255a51
 IPMeasures,d7dc6e0c-a753-11e8-227e-b362679e0b17
 IPNets,66763231-799b-5fff-8662-389acfc33a85
 IPUToolkit,92e0b95a-4011-435a-96f4-10064551ddbe
@@ -6529,6 +6531,7 @@ MonetDB,1882e10c-1919-490c-b622-a87720d6c7a2
 MongoC_jll,90100e71-7732-535a-9be7-2e9affd1cfc1
 Mongoc,4fe8b98c-fc19-5c23-8ec2-168ff83495f2
 MongocUtils,e584fc4d-3f36-46f9-b493-fafa6061fac8
+Mongoose_jll,0a8a3f5b-4c0e-5906-8e29-5b3fee15539c
 MonkeyLang,2e3b8ffb-b112-4a86-975c-b56a8cdf8971
 MonoidalCategories,bfd98c86-782f-4b94-909f-74167f1eb613
 MonolithicFEMVLFS,02a35734-3e3a-4c9f-8994-84c0fbc3ad2f
@@ -7036,6 +7039,7 @@ NumberUnions,fe510250-cf29-5fab-a5fd-ac0daf8093a4
 NumericIO,6c575b1c-77cb-5640-a5dc-a54116c90507
 NumericalAlgorithms,3b47cccd-2e0f-43d2-aaa1-0b61cbee3591
 NumericalAnalysis,fb18ad0a-c577-441c-b4b0-b42a431f6d4f
+NumericalDistributions,13416b18-ec19-40e4-a123-e345ab61da74
 NumericalEFT,69ae41d2-7e17-11ec-28d9-b73852c51be0
 NumericalIntegration,e7bfaba1-d571-5449-8927-abc22e82249b
 NumericalMethodsforEngineers,00e1d38a-71a9-5665-8612-32ae585a75a3
@@ -8405,6 +8409,7 @@ Qt65Compat_jll,f5784262-74e5-52be-b835-f3e8a3cf8710
 Qt6Base_jll,c0090381-4147-56d7-9ebc-da0b1113ec56
 Qt6Charts_jll,ce7a410b-7929-57f8-ae2b-7b8a3209b4c9
 Qt6Declarative_jll,629bc702-f1f5-5709-abd5-49b8460ea067
+Qt6Graphs_jll,7aac1016-a7e0-562a-8747-d0456fd6285f
 Qt6Positioning_jll,3ab57c46-54b1-52cd-a3f5-dc477084d9ef
 Qt6Quick3D_jll,6dc365b9-5e99-58d6-8812-efce7277b6ef
 Qt6QuickTimeline_jll,aaa24d55-1a42-52ef-a112-65a2da50b610
