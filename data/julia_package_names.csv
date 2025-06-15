@@ -465,6 +465,7 @@ Associations,614afb3a-e278-4863-8805-9959372b9ec2
 AssociativeArrays,9477f2fd-3d51-5b6a-a127-ca3a070ddf94
 AssociativeWindowAggregation,444271a7-5434-4a02-b82b-0e30a9223c60
 AsterReader,cb1a753d-6b7b-52e3-9bfe-57d99d445c39
+AsteroidShapeModels,a7943d8e-5d65-4248-ae23-0082f5115a05
 AstroAngles,5c4adb95-c1fc-4c53-b4ea-2a94080c53d2
 AstroChemistry,7f947402-6d9b-49de-a6e7-82c660dce669
 AstroConstants,59872b50-2c0f-4331-84f7-44577a892ba3
@@ -1714,6 +1715,7 @@ ColPack,ffa27691-3a59-46ab-a8d4-551f45b8d401
 ColPack_jll,f218ff0c-cb54-5151-80c4-c0f62c730ce6
 Colab,5cf9835b-3326-467f-b945-82b471bf70fe
 Collatz,93a6299e-2ed6-4a7f-9f14-000d52f8d402
+CollatzConjecture,7653e0a5-60b0-4f1f-8cf0-e76f3cfe9cb0
 CollectiveSpins,abf2e61e-3022-5fcf-a868-69d409dee72b
 Collects,08986516-18db-4a8b-8eaa-f5ef1828d8f1
 Collide,085180c5-06a8-45e0-97f1-b06875346562
@@ -8337,6 +8339,7 @@ QDLDL,bfc457fd-c171-5ab7-bd9e-d5dbfc242d63
 QDLDL_jll,9ae34a36-e1b6-54e9-a33d-8bba9913f854
 QD_jll,d4699623-ce05-5c67-980b-2a42053ff8b1
 QDates,25f12f5a-a783-5f9a-af99-e55629686113
+QECCore,b50d4dc9-2544-401f-bae9-a24ba40d0c7a
 QEDFeynmanDiagrams,3232ad24-8ec1-4588-843e-e2ed2eae1ff3
 QEDbase,10e22c08-3ccb-4172-bfcf-7d7aa3d04d93
 QEDcore,35dc0263-cb5f-4c33-a114-1d7f54ab753e
@@ -11903,6 +11906,7 @@ jlpkg,c4c688b2-6cc8-11e9-1c12-6d20b663313d
 jlqml_jll,6b5019fb-a83d-5b4e-a9f7-678a36c28df7
 jq_jll,f8f80db2-c0ba-59e9-a5c3-38d72e3c5ac2
 julia,1222c4b2-2114-5bfd-aeef-88e4692bbb3e
+juliaup_jll,038fdbe3-3777-5af9-9568-3738956aeb97
 kalign_jll,86ae5844-b998-5f56-950b-e2311b0a7e21
 kdb_c_api_jll,371cf0fa-3142-5eb4-b340-7aa651d2670e
 kubectl_jll,ed23c2a5-89c4-5d52-b0ca-9d53aadf8c45
