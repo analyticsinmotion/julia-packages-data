@@ -242,6 +242,7 @@ Alexya,a0ba0308-c025-49c4-97d8-6cbc8d45a63d
 AlgRemez_jll,acb6dc63-88f0-54c7-a126-ccdc963b8b3f
 Algames,4a64a370-b39e-4988-9b44-fc3fb6d78c25
 AlgamesDriving,05a75892-fe32-4716-96a1-7eeaafed9006
+AlgebraFrames,91245b94-7320-4a9d-ac3a-8d3b3e6674af
 AlgebraOfGraphics,cbdf2221-f076-402e-a563-3d30da359d67
 AlgebraOfNNs,534c8b83-7bda-4b0b-8aeb-3cd4e0939877
 AlgebraPDF,e09e93a3-870c-4c75-9b71-3eefe58c6e5b
@@ -5334,6 +5335,7 @@ LLVM_full_jll,a3ccf953-465e-511d-b87f-60a6490c289d
 LLVM_jll,86de99a1-58d6-5da7-8064-bd56ce2e322c
 LMDB,11f193de-5e89-5f17-923a-7d207d56daf9
 LMDB_jll,6206cf0b-f360-5984-af49-5437264c140e
+LMDiskANN,a2e5363b-c4e1-4593-9e2f-a2937b345987
 LMfit,4eb4f38b-2839-4c1d-8f96-c88b685035f5
 LNR,7c4cb9fa-83a0-5386-9231-d6167c818060
 LOLTools,e2c437b3-d38f-4222-8753-dddcd5679a95
@@ -11669,6 +11671,7 @@ ZBar,ae056753-435e-4d6b-8005-e923ff6e8938
 ZChop,8603256b-76ad-53fe-b511-38a38e6437cd
 ZITSOL_1_jll,dd94201c-7435-5bf3-a1a1-33dc1dbf1631
 ZMQ,c2297ded-f4af-51ae-bb23-16f91089e4e1
+ZMQLoggers,e9bc4a15-d3b7-45db-a26a-813125f6ff30
 ZOOclient,6c2355df-edca-54ec-9fef-f41e3964091e
 ZPares_jll,14754bdb-07d8-520b-81a9-9893a7942c3c
 ZXCalculus,3525faa3-032d-4235-a8d4-8c2939a218dd
