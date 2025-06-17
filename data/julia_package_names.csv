@@ -1825,6 +1825,7 @@ ComputableDAGs,62933717-1c9d-4a3f-b06f-7ab7f17ca32d
 ComputableGeneralEquilibriumHelpers,b2f8801f-5e08-46db-8da3-bbbe1795f4c5
 ComputationalHeatTransfer,5fc296c8-2eb5-40dc-a46d-98a68011a900
 ComputationalResources,ed09eef8-17a6-5b46-8889-db040fac31e3
+ComputePipeline,95dc2771-c249-4cd0-9c9f-1f3b4330693c
 ComputedFieldTypes,459fdd68-db75-56b8-8c15-d717a790f88e
 ComputedFields,ca9a45ee-5845-4167-bbbe-6c434770cc9d
 ComputerAdaptiveTesting,5a0d4f34-1f62-4a66-80fe-87aba0485488
@@ -3484,6 +3485,7 @@ FlowAtlas,ef7debb3-0d09-4604-8960-6109d4c5b3e0
 FlowCutterPACE17_jll,008204e2-cd5c-5c6d-9360-d31f32b5f6c2
 FlowGeometry,af326652-bfa1-11e9-1b34-cf9047ce1632
 FlowLock,366c8e96-ded8-4a51-a8f8-3c856b908600
+FlowRef,e2f09e9e-4b11-4a24-9e3f-a1cd38a03ba0
 FlowWorkspace,93705cf0-0d0c-4207-9085-aa3a02725bf0
 Flowfusion,5b4e93c8-7b6e-4682-b400-fc3b238f52b1
 Flowstar,a8054ddd-9dca-4d20-8ffe-ae96ec1541f1
@@ -9143,6 +9145,7 @@ SHTns_jll,daf09cc5-9ab3-509e-9618-0b89086eb825
 SIAMFANLEquations,084e46ad-d928-497d-ad5e-07fa361a48c4
 SIAN,cf7bdac0-b945-4905-b5ad-bc3f1a757483
 SIFDecode_jll,54dcf436-342f-53ea-8005-3708a1ae6c8c
+SIFKit,2d5d6fbe-53ff-4287-a095-853dcbfcd4a5
 SIGPROCFiles,5f30fb9f-668d-42ca-b792-67747b8fdcd1
 SIIP2Marmot,9dbaeea7-558f-4e29-ba60-30a5dee37710
 SIIPExamples,2c79006f-6450-48c4-b124-fbadab4f299d
