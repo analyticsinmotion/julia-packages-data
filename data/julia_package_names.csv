@@ -1123,6 +1123,7 @@ Bullet_Physics_SDK_jll,f9221216-80da-5205-bffb-473ccd158385
 BumpFuncs,9920abf5-d2d3-40c3-98dc-d6c533a1aad6
 BumpStdlibs,10e0400f-8273-43d0-bd6e-07483373ba4f
 Bumper,8ce10254-0962-460f-a3d8-1f77fea1446e
+BumplessPipeDreams,23042ae9-e41c-4e47-ad99-03128c974ced
 Bun_jll,2cacd568-d418-568b-8764-7ebab4cf2504
 BundleAdjustmentModels,0bf3e898-7c79-4b38-9ca6-2d9cc6573905
 BundleMethod,e8a6717a-069f-43d5-9ac2-a49b1ec5be7b
@@ -2096,6 +2097,7 @@ CurveFitParameters,75b670ed-29d0-4b9b-bcd2-edac41b9c208
 CurveProximityQueries,e79eea86-5fe6-5310-9049-79d90d78ad74
 Curves,9bed79ab-e35b-4b7a-8527-918872a9571e
 CurvilinearGrids,58b19789-dd19-4aa2-839c-c763a7b10301
+CustomGaussQuadrature,443f1e71-1479-4740-9a7f-7f689cbb916a
 CustomUnitRanges,dc8bdbbb-1ca9-579f-8c36-e416f6a65cce
 CutBranching_jll,a275e4ba-a8a9-5328-a18a-85c73bd42860
 CutPruners,65d46eb8-70e9-5a30-bf48-2afa3a021b8f
@@ -5790,6 +5792,7 @@ LoweredCodeUtils,6f1432cf-f94c-5a45-995e-cdbf5db27b0b
 Lowess,a2847a04-7795-4581-bff1-964344ea125d
 LsqFit,2fda8390-95c7-5789-9bda-21331edee243
 LuaCall,b19d909c-f536-5a7e-8424-a4fb7ce1e4d7
+LuaNova,faa88067-b4cd-4998-97ac-8175b58d6ef9
 Lua_jll,a4086b1d-a96a-5d6b-8e4f-2030e6f25ba6
 Lucky,091b6c57-2055-4743-a613-81d9bc5174d5
 Lucon,ee70d37e-021e-48ac-98f1-58dad3ba901e
@@ -11923,6 +11926,7 @@ lapackpp_jll,5dde4c60-e15a-59a1-8194-93aa09eef4ab
 lazygit_jll,01a6f0b2-7079-58b6-a815-2223d49c44bc
 ldid_jll,df1af0dd-2f85-5d2f-b099-55d224f7db60
 legate_jll,e95fb1d3-fb9e-51b5-bdb8-1a812408cac9
+less_jll,80e8a3d7-96cb-5b92-b346-c3bbc7c9cf8e
 lexbor_jll,be8d7a73-1782-5ce7-96ff-8fff21e5e970
 lfr_benchmark_jll,cb590574-ea86-51dd-800e-297a027516d0
 lib4ti2_jll,1493ae25-0f90-5c0e-a06c-8c5077d6d66f
@@ -12157,6 +12161,7 @@ polymake_jll,7c209550-9012-526c-9264-55ba7a78ba2c
 polymake_oscarnumber_jll,10f31823-b687-53e6-9f29-edb9d4da9f9f
 pprof_jll,cf2c5f97-e748-59fa-a03f-dda3c62118cb
 primecount_jll,ba3b429d-c409-5a27-9e45-21aab9233266
+procps_jll,067cb88e-f685-5f7b-ae80-0aaea8472f72
 protobuf_c_jll,d730a6b3-54e8-5a61-8821-996059275344
 protoc_jll,c7845625-083e-5bbe-8504-b32d602b7110
 protozero_jll,e2028600-4f28-5e5c-ab86-957950af6e0a
