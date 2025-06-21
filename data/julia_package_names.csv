@@ -2335,6 +2335,7 @@ DeepEquilibriumNetworks,6748aba7-0e9b-415e-a410-ae3cc0ecb334
 DeepForest,caac18e2-70b9-41b7-b707-5295ac4b8fcd
 DeepFry,760752a8-943b-47af-ae9a-04fdfee5f700
 DeepQLearning,de0a67f4-c691-11e8-0034-5fc6e16e22d3
+DeepSeek,043911e8-1ed4-411e-9b5a-2156b49e87ad
 DeepUnfoldedCDLMotif,29c5a556-b6e4-4b12-acd4-bb8b306706d2
 DefaultApplication,3f0dd361-4fe0-5fc6-8523-80b14ec94d85
 DefaultArrays,bb1859e0-6c46-48fc-af17-5b269a75ae2f
@@ -8796,6 +8797,7 @@ RectangularFullPacked,27983f2f-6524-42ba-a408-2b5a31c238e4
 RectiGrids,8ac6971d-971d-971d-971d-971d5ab1a71a
 RecurrenceAnalysis,639c3291-70d9-5ea2-8c5b-839eba1ee399
 RecurrenceCoefficients,de372851-07f4-4192-bc5b-b0c28d817e5e
+RecurrenceMicrostatesAnalysis,cb83a08b-85c6-4e94-91aa-4e946c7d4f0c
 RecurrenceRelationshipArrays,b889d2dc-af3c-4820-88a8-238fa91d3518
 RecurrenceRelationships,807425ed-42ea-44d6-a357-6771516d7b2c
 RecurrentLayers,78449bcf-6750-4b78-9e82-63d4a1ccdf8c
@@ -9853,6 +9855,7 @@ SpaceInvaders,27459e48-f83e-40a1-9b04-5e43823e0701
 SpaceLiDAR,29bf0bfc-420f-4fa5-b441-811fd9e6e11d
 SpaceTimeFields,0af78db0-3b7c-4df8-88bd-686b7cc5245d
 Spacey,6fa23216-6d9f-473e-ad34-00be7be2628b
+SpanningSupernets,c92b83c4-19af-4bf9-9c50-c65f2b7803f9
 Spark,e3819d11-95af-5eea-9727-70c091663a01
 SparkSQL,4860efcf-db82-4443-af70-6b708dedc2d2
 Sparlectra,31ce9bba-fd9d-44a1-b005-f5f509afda38
@@ -11960,6 +11963,7 @@ libcifpp_jll,1901280f-61ce-5048-a6a8-fd033512e07b
 libcint_jll,574b78ca-bebd-517c-801d-4735c93a9686
 libcircle_jll,db6bf46e-010a-586f-bcfc-62bf40116dcb
 libclangex_jll,82994860-12e5-56b1-9971-c34819be692e
+libclc_jll,51dff5e5-a8c6-52cb-a59b-f025f1971e2b
 libcleri_jll,cdc7adba-bef8-5cba-a7ee-c792dee3081e
 libconfuse_jll,9f03c2a6-2865-5578-ae11-af8a29163b66
 libcrossterm_jll,7fdd842c-1c35-5047-b6c4-5b8c94d478bc
