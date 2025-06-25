@@ -3853,6 +3853,7 @@ GasTranSim,69f9d653-1b8b-4f14-83cd-52913e0d1f1c
 Gasdynamics1D,147bd2d4-5614-4af7-9716-06bc640f25f6
 GasphaseReactions,ceedd18c-cbe2-4568-b16d-0e09f1cb20d1
 Gaston,4b11ee91-296f-5714-9832-002c20994614
+GastonRecipes,39356fd2-1f9e-4efe-8abf-5745c7d9f608
 Gateway,f2e1f862-4456-4210-88f5-8c0e866c18bb
 Gattino,f0fb3ee5-f608-41f3-a42d-dac276373afc
 GattinoPleths,9f033946-9ab4-431a-b842-48f7db4940ab
@@ -7123,6 +7124,7 @@ OSQP_jll,9c4f68bf-6205-5545-a508-2878b064d984
 OTF2_jll,312b3e1d-731b-5709-b7dd-8df63785c7d0
 OVERT,07e67fc4-eb77-11eb-38c2-1307cbb1fbf4
 OWENSPreComp,7fd84261-8b17-47b6-a87d-1cc34e69440e
+OasisTools,06265d1e-e248-4aa0-9c0a-73a2b8992637
 ObjConsNLPModels,a7a71e66-9295-4c47-9853-dcf21ad69f4a
 Objconv_jll,dfe201cf-525d-5101-8f66-6dc5e2f3b224
 ObjectDetectionStats,06718956-e3b8-45c5-a167-688b8218b63e
@@ -8765,6 +8767,7 @@ ReactionNetworkImporters,b4db0fb7-de2a-5028-82bf-5021f5cfa881
 ReactionSensitivity,ed25ef7a-b813-415f-98cd-eb06d9efe1db
 Reactive,a223df75-4e93-5b7c-acf9-bdd599c0f4de
 ReactiveDynamics,c7456e7d-545a-4b79-91ea-6e93d96dd4d4
+ReactiveECS,98e33af6-2ee5-5afd-9e75-cbc738b765c9
 ReactiveGraphs,e49d8811-4385-4fad-be34-8522254608f3
 ReactiveMP,a194aa59-28ba-4574-a09c-4a745416d6e3
 ReactiveToolkit,5352d3c8-010c-4f6e-a427-fe5152755be6
@@ -11217,6 +11220,7 @@ VLBILikelihoods,90db92cd-0007-4c0a-8e51-dbf0782ce592
 VLBIPlots,0260e397-8112-41bf-b55a-6b4577718f00
 VLBISkyModels,d6343c73-7174-4e0f-bb64-562643efbeca
 VLConstraintBasedModelGenerationUtilities,d81e55dd-dcbd-44fb-a01f-ee5b8692a939
+VLConvert_jll,f937dff4-8506-5d6a-ae08-1f9bcdfef0bf
 VLFeat,8e8fbaf7-7f59-4fc2-a79e-38659cf7ebfe
 VLFeat_jll,5dd52a3f-0bef-5ba1-8e18-ffde86b716e1
 VLModelParametersDB,bcdee0c5-44bd-43b1-97c6-4f28e9bd14b3
