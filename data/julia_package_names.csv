@@ -1101,6 +1101,7 @@ Brillouin,23470ee3-d0df-4052-8b1a-8cbd6363e7f0
 BrillouinZoneMeshes,9f696214-9961-49f3-89a2-cb1ea204eb6e
 BritishNationalGrid,07503c7f-9676-5157-a8e2-6c0d0a9caee7
 BrkgaMpIpr,028a27d2-de01-11e8-146d-d556803d83ae
+BroadLineRegions,0ba2ffe9-29ae-4dc1-9466-6a4b513121e6
 BrokenRecord,bdd55f5b-6e67-4da1-a080-6086e55655a0
 BrownDriverBriggs,ed877a0f-8e86-4599-984a-df81107104eb
 BrowseTables,5f4fecfd-7eb0-5078-b7f6-ad1f2563c22a
@@ -1185,6 +1186,7 @@ CHomP,388fe821-2770-44f1-8af1-e3d616332038
 CIAOAlgorithms,44c1da8e-ad92-11ea-0c62-8351ccf0aad4
 CICOBase,33444335-3134-4342-4659-594331344435
 CIFTI,8026ff91-9e86-4f19-bd27-c139e9e8bf7a
+CIGARStrings,e5b51f81-6ffd-4e20-bbec-f118e37ea906
 CIMOptimizer,f763a312-2f8b-4ea4-ad8b-371148ce3a7b
 CITIfile,8180ae47-4b51-4962-8ae8-0afeafccbbdb
 CImGui,5d785b6c-b76f-510e-a07c-3070796c7e87
@@ -1264,6 +1266,7 @@ CUDA,052768ef-5323-5732-b1bb-66c8b64840ba
 CUDAKernels,72cfdca4-0801-4ab0-bf6a-d52aa10adc57
 CUDAPreconditioners,57b3401a-ff44-4c54-9e38-1c8db7da4902
 CUDASIMDTypes,ba1ee33b-8807-41fd-9812-6d5f2ce04139
+CUDA_Compiler_jll,d1e2174e-dfdc-576e-b43e-73b79eb1aca8
 CUDA_Driver,a6be3551-5000-4724-bfab-551d491a12f7
 CUDA_Driver_jll,4ee394cb-3365-5eb0-8335-949819d2adfc
 CUDA_JIT_jll,065fcff2-4c6f-5d7b-b503-46c258ff608a
@@ -8647,6 +8650,8 @@ ROCmOpenCLRuntime_jll,10ae2a08-2eea-53f8-8c20-eec175020e9f
 ROMEO,1ea8258b-a15d-4adb-ad20-01632f467a84
 ROOT,1706fdcc-8426-44f1-a283-5be479e9517c
 ROOT_jll,45b42145-bbac-5752-8807-01f8b2702242
+ROOT_julia_jll,4f7db680-92c2-5241-a1f0-57b96f62fa1d
+ROOTprefs,492d890c-d9c4-11ef-b95f-3722e36032c2
 ROS,a492bfac-16cc-4d50-a8b6-f03352b6b563
 ROS2,493365b4-7e18-460b-8b90-ec3e7f80d3eb
 RPCholesky,72641a9e-0ae7-4379-851f-e6d22edf0786
@@ -10472,6 +10477,7 @@ TMLECLI,2573d147-4098-46ba-9db2-8608d210ccac
 TMatrix_jll,f6676dc9-6ae6-5380-b4ed-33bd8634dc70
 TMscore,6e960f36-814a-4ceb-8c87-6ab5da0e9bff
 TMscore_jll,1d8dad79-2f3d-554c-bf22-543753cb6ff4
+TNRKit,7dfc3ef0-df9b-475f-b8e2-b91f34f5d84d
 TOML,fa267f1f-6049-4f14-aa54-33bafae1ed76
 TOPCOM_jll,36f60fef-b880-50dc-9289-4aaecee93cc3
 TORA,a6da6c0f-f153-4ec6-bf42-6dc0ab733f84
