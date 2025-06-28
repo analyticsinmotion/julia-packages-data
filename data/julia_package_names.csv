@@ -664,6 +664,7 @@ Backboner,9ac9c2a2-1cfe-46d3-b3fd-6fa470ea56a7
 BackedUpImmutable,ce7fb557-0848-50b6-86d3-b63d1ee2efee
 BackgroundSubtraction,9977cdcb-3521-4027-9f3f-3caff6505f42
 Backtester,e95d6c4f-f375-4488-afb7-83da67c67a69
+BackwardDifferenceFormula,bb1c57f4-4a50-4dfd-96bc-51bda4983b9c
 BackwardsLinalg,442b4e1a-8b9d-11e9-03b0-f14b31742153
 Bactos,d33a0dba-7a8b-4e4b-94ae-537a05778f3e
 Badges,f8f3bd14-6f44-485b-add6-c2abd0d3421f
@@ -4645,6 +4646,7 @@ IdealGas,7aa10a8e-8b87-4952-8d6b-aae44b8b139e
 IdealGasLib,8ea2701e-a7f2-4ad3-bde6-f1a1a263bda4
 IdealGasThermo,d4fb33c0-2494-4384-b7a5-e5d0487b6649
 IdealistaAPIClient,5722b1ce-14da-11ed-06c6-d930f2b72c9a
+IdentityByDescentDispersal,270ed24e-ac4d-5dce-b70a-bd124b3b694a
 IdentityRanges,bbac6d45-d8f3-5730-bfe4-7a449cd117ca
 IfElse,615f187c-cbe4-4ef1-ba3b-2fcf58d6d173
 IfTraits,7a6924a7-8ee3-403d-a531-72325acf0e39
@@ -7018,6 +7020,7 @@ NonlinearSolveFirstOrder,5959db7a-ea39-4486-b5fe-2dd0bf03d60d
 NonlinearSolveHomotopyContinuation,2ac3b008-d579-4536-8c91-a1a5998c2f8b
 NonlinearSolveMINPACK,c100e077-885d-495a-a2ea-599e143bf69d
 NonlinearSolveQuasiNewton,9a2c21bd-3a47-402d-9113-8faf9a0ee114
+NonlinearSolveSciPy,4827a3aa-8a82-4c61-8bd0-3c7d3e464ee5
 NonlinearSolveSpectralMethods,26075421-4e9a-44e1-8bd1-420ed7ad02b2
 NonlinearSolvers,f4b8ab15-8e73-4e04-9661-b5912071d22b
 NonlinearSystems,deb0877a-d74a-4aeb-b6ac-c17f6fb4122e
@@ -7349,6 +7352,8 @@ OptimizationOptimisers,42dfb2eb-d2b4-4451-abcd-913932933ac1
 OptimizationPRIMA,72f8369c-a2ea-4298-9126-56167ce9cbc2
 OptimizationPolyalgorithms,500b13db-7e66-49ce-bda4-eed966be6282
 OptimizationProblems,5049e819-d29b-5fba-b941-0eee7e64c1c6
+OptimizationPyCMA,fb0822aa-1fe5-41d8-99a6-e7bf6c238d3b
+OptimizationSciPy,cce07bd8-c79b-4b00-aee8-8db9cce22837
 OptimizationSpeedMapping,3d669222-0d7d-4eb9-8a9f-d8528b0d9b91
 OptimizationTestFunctions,cd4f65ad-fe33-43f7-aff7-f8769dbe6900
 OptimizedEinsum,c9cfed12-e746-47c4-860d-affc68c43467
@@ -10327,6 +10332,7 @@ SunCalc,46d852a4-2fba-44bf-a445-ee38df28a2fc
 Sundials,c3572dad-4567-51f8-b174-8c6c989267f4
 Sundials32_jll,3d421925-9ddb-5fba-844f-eab55ed40f51
 Sundials_jll,fb77eaff-e24c-56d4-86b1-d163f2edb164
+SunlightHNC,1d8199c2-2c11-4f8e-a265-f9a0ffcc17be
 Sunny,2b4a2ac8-8f8b-43e8-abf4-3cb0c45e8736
 SuperEnum,5c958174-e7d9-5990-9618-4567de4ba542
 SuperLU,149cae9a-b337-42bd-ac98-00096b14e8a3
@@ -12204,6 +12210,7 @@ qpOASES_jll,f16e1b62-db32-537f-94d1-ea38eaaf9298
 qr_mumps_jll,e37b5aa0-c611-5f0f-83fb-aee446c0b77e
 quarto_jll,b7163347-bfae-5fd9-aba4-19f139889d78
 quickfix_jll,c3ed25c8-d0c4-52f4-bb85-3c100dfcbec7
+quickfixc_jll,5d6ea378-73b9-5197-9d8d-619035741a26
 qwt_jll,ed0789fa-10db-50b3-94da-03266d70be0f
 qwtw_jll,d5de49f9-40c9-5bd5-980e-f7e357ea5903
 racket_jll,d1d5beed-0862-5c4e-adcd-9d7a31bb6a79
