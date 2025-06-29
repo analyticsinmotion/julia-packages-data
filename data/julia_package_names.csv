@@ -493,6 +493,7 @@ AtBackslash,04ea9a2a-9613-4550-8ec7-b0cad5b6b706
 AtariAlgos,faabce77-3242-5060-abab-4a4767a0df42
 AtiyahBott,4bc0d046-1179-4daa-900a-9bc021c7f891
 Atlans,1fcd1f08-fdb6-477a-a0aa-3f8f0df25597
+AtlasIO,d44f5655-1c95-40b4-8e53-9bdb5084f5d6
 AtlasRobot,436ed74b-f7b6-57fe-bd82-efdbd6c0ab0c
 Atmosphere,2c84d669-3b95-46c3-a358-9a76f739ac9c
 AtmosphericDeposition,1a52f20c-0d16-41d8-a00a-b2996d86a462
@@ -2154,6 +2155,7 @@ DDSCAT_jll,312f84d5-d503-53e6-9a69-f195a5e458d6
 DE9IM,5483dedb-0874-478e-8d7a-8c665bf87f01
 DECAES,d84fb938-a666-558e-89d9-d531edc6724f
 DEDataArrays,754358af-613d-5f8d-9788-280bf1605d4c
+DEMetropolis,b4be8cd2-ef9b-406c-8da0-f1f18fb2b05e
 DFControl,1e31e15d-4957-550d-a244-318eced754ae
 DFOLS,0dc4ae03-94be-5b30-bb99-4e20affbc5f0
 DFTK,acf6eb54-70d9-11e9-0013-234b7a5f5337
@@ -9783,6 +9785,7 @@ SmoothInterpolation,4412c578-8aba-4b04-8c8c-6ae573ccb792
 SmoothLivePlot,31434429-0e9f-4d24-947a-14cd43782323
 SmoothLocalProjections,991a0c71-be35-46d8-9952-fa18ace04789
 SmoothNumbers,48ae9875-8a8b-401f-9c90-1ad5d6adef54
+SmoothPeriodicStatsModels,3d8e1505-165e-443f-a184-83a230b5a9e5
 SmoothedParticles,b7455f7a-83c6-4046-bd2b-dfe6091272a6
 SmoothedSpectralAbscissa,879160bb-2efd-4837-9d80-7b6fff7bf698
 Smoothers,012d725f-b4dd-4916-8440-03955fc52575
@@ -10805,6 +10808,7 @@ TimeseriesFeatures,f3112013-b923-4dfa-b867-8806c885f823
 TimeseriesPrediction,f218859d-9706-56aa-9ebf-1fa4ed7b8020
 TimeseriesSurrogates,c804724b-8c18-5caa-8579-6025a0767c70
 TimeseriesTools,380cddd1-6ef2-46ca-b087-e7151fb095ff
+TimeseriesUtilities,31d49243-0742-49c1-b8d2-db113b74581e
 TimespanLogging,a526e669-04d3-4846-9525-c66122c55f63
 Timestamps,0123453a-27b6-4e80-93fe-c2c00e33fefb
 Timestream,ce82053c-fa70-4f37-af49-87ab44846bd9
