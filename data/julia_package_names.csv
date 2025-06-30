@@ -8549,6 +8549,7 @@ QuantumNPA,5cd12e4b-1487-4eb2-a245-40f3146b84a8
 QuantumOptics,6e0679c1-51ea-5a7c-ac74-d61b76210b0c
 QuantumOpticsBase,4f57444f-1401-5e15-980d-4471b28d5678
 QuantumPropagators,7bf12567-5742-4b91-a078-644e72a65fc1
+QuantumReservoirComputing,9262459b-dd6d-4254-9079-ce2b0ece8537
 QuantumSavory,2de2e421-972c-4cb5-a0c3-999c85908079
 QuantumStateBase,73ce9c4f-35d1-4161-b9e6-26915895bfed
 QuantumStateDB,60e91ee2-604c-4965-af86-8cb346de0b34
@@ -11074,6 +11075,7 @@ TypedNamedTuples,ccff231a-7084-4552-ab5c-55556ada9b2a
 TypedPolynomials,afbbf031-7a57-5f58-a1b9-b774a0fad08d
 TypedSyntax,d265eb64-f81a-44ad-a842-4247ee1503de
 TypedTables,9d95f2ec-7b3d-5a63-8d20-e2491e220bb9
+TypographicUnits,3ba834b2-aae6-11e8-1661-67e72b16bbb0
 TypstGenerator,b4d5b4e8-9a4e-401d-a981-0a2e8ff042be
 TypstJlyfish,95e5b356-b122-4883-a78a-3c8c946b7332
 Typst_jll,eb4b1da6-20f6-5c66-9826-fdb8ad410d0e
