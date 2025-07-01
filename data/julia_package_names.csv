@@ -1199,6 +1199,7 @@ CIndices,5a98b6c4-18fa-405d-92b3-8277d93fed36
 CJKFrequencies,3a858bc7-ae0d-44ab-8a92-ee3192d2dedf
 CJieba,ed619804-44bc-4c56-bdd2-11e3a27b3f1e
 CJieba_jll,a2ce7b33-90ba-591a-b03f-46764c5db586
+CLASS,a61081fd-7c4d-44c2-8709-3eabc28bd84c
 CLBlast,a761db2c-effc-550d-a410-5f59553ed40d
 CLEARSWI,06ae4d9b-ce5e-4813-a1b3-426e46312ec2
 CLFFT,fe1fc2a7-b730-4eae-aba2-587af0173dc9
@@ -1397,6 +1398,7 @@ CassetteBase,6dd3e646-b1c5-42c7-94be-00277fa12e22
 CassetteOverlay,d78b62d4-37fa-4a6f-acd8-2f19986eb9ee
 CastepReader,fad133d4-4adf-409a-947f-9114b6962100
 CatBoost,e2e10f9a-a85d-4fa9-b6b2-639a32100a12
+CatColabInterop,9ecda8fb-39ab-46a2-a496-7285fa6368c1
 CatIndices,aafaddc9-749c-510e-ac4f-586e18779b91
 CatViews,81a5f4ea-a946-549a-aa7e-2a7f63a27d31
 Catalyst,479239e8-5488-4da2-87a7-35f2df7eef83
@@ -1738,6 +1740,7 @@ ColorSchemeTools,d3e213a1-5e82-5c18-bb32-2a58a99f8c46
 ColorSchemes,35d6a980-a343-548e-a6ea-1d62b119f2f4
 ColorTypes,3da002f7-5984-5a60-b8a6-cbb66c0b333f
 ColorVectorSpace,c3611d14-8923-5661-9e6a-0046d554d3a4
+ColorVintner,b10900d7-caed-426b-ac73-6c8d6f549e92
 ColoredLLCodes,15eaffa3-7f74-46bc-af11-fdd2893a4aba
 Colorfy,03fe91ce-8ec6-4610-8e8d-e7491ccca690
 Colors,5ae59095-9a9b-59fe-a467-6f913c188581
@@ -3859,6 +3862,7 @@ GasTranSim,69f9d653-1b8b-4f14-83cd-52913e0d1f1c
 Gasdynamics1D,147bd2d4-5614-4af7-9716-06bc640f25f6
 GasphaseReactions,ceedd18c-cbe2-4568-b16d-0e09f1cb20d1
 Gaston,4b11ee91-296f-5714-9832-002c20994614
+GastonDSP,fc773c40-3585-4d5f-b720-30d077ff5466
 GastonRecipes,39356fd2-1f9e-4efe-8abf-5745c7d9f608
 Gateway,f2e1f862-4456-4210-88f5-8c0e866c18bb
 Gattino,f0fb3ee5-f608-41f3-a42d-dac276373afc
@@ -5319,6 +5323,7 @@ LDPCDecoders,3c486d74-64b9-4c60-8b1a-13a564e77efb
 LDPCStorage,d46d874d-5773-4ce9-8adb-568101dc8882
 LDrawParser,c9062c12-fdd7-47de-ae43-3b8a76d3a662
 LEAN_Community_jll,def0f3ea-0521-5e8c-a7b7-92f0f4873a26
+LEMON_jll,9f9b04fa-cfb6-5331-975f-45512019a816
 LERC_jll,88015f11-f218-50d7-93a8-a6af411a945d
 LFAToolkit,3f92b583-c0aa-4596-8bdf-f02f6c0a52df
 LFRBenchmarkGraphs,e2d0dd93-c6be-4a4f-9a61-2b35d7242bb2
@@ -8125,6 +8130,7 @@ PowerDynamics,cc46b21f-1b17-51c2-b642-af74c3d3a8be
 PowerFlowData,dd99e9e3-7471-40fc-b48d-a10501125371
 PowerFlows,94fada2c-fd9a-4e89-8d82-81405f5cb4f6
 PowerGraphics,5f7eddb3-86b1-49e8-a95a-ddc0f45eea41
+PowerImpedanceACDC,8bb8d9d3-c57e-5130-a7c9-cb214ef560ae
 PowerLawNoise,9abb9eec-80c7-4a18-accd-d591357fead6
 PowerLawSamplers,ea71c90e-cdc5-43db-a32d-9c22f1535540
 PowerLaws,dddc953c-20d8-47dd-8cc1-765c34677cac
@@ -10438,6 +10444,7 @@ SymmetricFormats,a91e544d-b3d6-4431-ae28-0549b1291c16
 SymmetricPolynomials,558b8e20-7ada-43ad-ad6f-3f1590d8955d
 SymmetricProducts,075c16e0-7ab9-11e8-024b-f7dece19ca2d
 SymmetricTensors,1ab33d94-6c6c-50cc-93f0-e3f623a46aa0
+SymmetricTightBinding,793e0360-0e47-4c52-9513-43d75d53c7d0
 SymmetryReduceBZ,49a35663-c880-4242-bebb-1ec8c0fa8046
 Symplectic,32b24f23-0065-419a-aebb-272ab3b73786
 SymplecticFactorizations,7425e8e4-4cde-4e45-9b2f-a15679260f9b
@@ -11748,6 +11755,7 @@ Zeros,bd1ec220-6eb4-527a-9b49-e79c3db6233b
 ZfpCompression,43441a71-1662-41c6-b8ea-40ed1525242b
 ZhuyinPinyin,38ead3be-40a5-4d68-aee6-2f69844d9ad8
 ZigZagBoomerang,36347407-b186-4a6a-8c98-4f4567861712
+Ziggurats,974aae91-9ec7-499e-b331-29e7a3e13038
 ZilanyBruceCarney2014,83795400-82fe-439b-8fdc-4e65948642a8
 ZipArchives,49080126-0e18-4c2a-b176-c102e4b3760c
 ZipFile,a5390f91-8eb1-5f08-bee0-b1d1ffed6cea
