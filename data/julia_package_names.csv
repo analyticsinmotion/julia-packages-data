@@ -4370,6 +4370,7 @@ Handles,94972ede-0d5b-11e9-1425-55c861492980
 Hankel,74863788-d124-456e-a676-9b76578dd39e
 Hanzi,485a87e4-fb71-42ca-b614-bc87b1bb3702
 HapLink,8ca39d33-de0d-4205-9b21-13a80f2b7eed
+HapSim,5a22e6b1-9da4-4d8a-9828-7fbb35a05de2
 Harbest,88b9f9d1-ecd7-45aa-9934-346af437630c
 Harbor,af79dbb9-1a80-47ad-8928-192a4af69376
 HardSphereDynamics,2cbf6e9d-eec9-4262-aa18-cb9280186e6b
@@ -4461,6 +4462,7 @@ HierarchicalTemporalMemory,db654dba-670c-566a-9226-64313b881ded
 HierarchicalUtils,f9ccea15-0695-44b9-8113-df7c26ae4fa9
 HighDimMixedModels,5d0d0550-ba84-42d6-a33e-4f9cf65119aa
 HighDimPDE,57c578d5-59d4-4db8-a490-a9fc372d19d2
+HighFidelityEphemerisModel,2c790280-9c90-4c3f-8fb8-a66dc063821a
 HighFive_jll,714382d7-300d-5cff-9119-eab393adbf23
 HighFrequencyCovariance,c79ce38c-73ba-4c3d-834c-fb94999fb590
 HighLevelTypes,66835562-f1c4-5586-a145-e564a3963a4b
@@ -10171,6 +10173,7 @@ SteamTables,43dc94dd-f011-5c5d-8ab2-5073432dc0ba
 SteamWebAPIs,e6ff7510-e9ee-4fc9-8d54-48d13dde7e75
 Steganography,b36d76f3-e888-5fd0-8dd3-e39a55b413c6
 StellarSpectraObservationFitting,6b1189bd-9150-44f8-8055-f6ca7d16451e
+StellarTracks,2b4a1a39-e20a-4324-9c0b-7d841c062f62
 StellaratorOptimization,f2f44f23-99b2-4d7c-931e-31858dc08d61
 StellaratorOptimizationMetrics,23f0dade-7c6e-4767-a325-b0ffeeccf8c7
 StemCellModels,bd92d27a-bb62-11e8-1f1b-ed4b990cdfb0
