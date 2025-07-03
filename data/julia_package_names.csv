@@ -11977,6 +11977,7 @@ kubectl_jll,ed23c2a5-89c4-5d52-b0ca-9d53aadf8c45
 lapackpp_jll,5dde4c60-e15a-59a1-8194-93aa09eef4ab
 lazygit_jll,01a6f0b2-7079-58b6-a815-2223d49c44bc
 ldid_jll,df1af0dd-2f85-5d2f-b099-55d224f7db60
+legate_jl_wrapper_jll,6e093c14-372f-5516-b4d7-a6ce14f1038b
 legate_jll,e95fb1d3-fb9e-51b5-bdb8-1a812408cac9
 less_jll,80e8a3d7-96cb-5b92-b346-c3bbc7c9cf8e
 lexbor_jll,be8d7a73-1782-5ce7-96ff-8fff21e5e970
