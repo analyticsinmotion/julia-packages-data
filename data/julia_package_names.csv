@@ -993,6 +993,7 @@ BlockEnums,7c338ca5-b20e-417b-9799-aae6c720705e
 BlockFactorizations,5c499583-5bfe-4591-9b59-c1e192d48697
 BlockHaloArrays,8029ca6b-11ad-4a59-88a2-2e6eee4ef8a2
 BlockMatching,100fd195-2f51-49a3-864c-eaaf5f23bc5e
+BlockSparseMatrices,1ef78180-cc57-4e70-b6ec-c3e471307147
 BlockSystems,4663d367-db1f-4bef-81e7-dc1bd7f7b428
 BlockTensorKit,5f87ffc2-9cf1-4a46-8172-465d160bd8cd
 BlockTriangularForm,adeb47b7-70bf-415a-bb24-c358563e873a
@@ -4291,6 +4292,7 @@ Gurobi_jll,c018c7e6-a5b0-4aea-8f80-9c1ef9991411
 Gym,b0807396-df37-52ae-a4b9-7a7124410845
 GymSpaces,4896a6fa-884d-11e9-35a0-9763e69c01ff
 Gzip_jll,be1be57a-8558-53c3-a7e5-50095f79957e
+H2Trees,9db26ae3-82ff-4374-85e9-9ed87405fd16
 H3,f62fece2-b996-571a-b4c9-e662aba1c617
 H3_jll,60c8821e-da38-5dbd-93c7-983f1e6d69be
 H5SectionsArrays,affaf649-2f8e-5dd6-a1c5-c612f82136ef
@@ -5157,6 +5159,7 @@ KRPC,7a052949-c101-4ca3-9a7e-43a2532b2fa8
 KSVD,778123d0-3295-4563-8004-fb5c576fbcd9
 KVectors,41ef3c92-da78-11e9-207c-f32a9899af8c
 KWLinalg,3123b30d-1c8b-4465-a616-3de951cb5b45
+KWayMerges,f29e91c7-719d-4dbc-8870-0ce36bf055b7
 KaHyPar,2a6221f6-aa48-11e9-3542-2d9e0ef01880
 KaHyPar_jll,87a0c12d-51e1-52a8-b1ed-2b00825fe6a4
 KaTeX,07258bb1-70fb-50ed-9200-988f9681c4d2
@@ -10422,6 +10425,7 @@ SymSemiseparableMatrices,c927be06-f564-11e9-2e25-11633cdb9fcb
 SymSpellChecker,bb1b64e9-0ccc-445c-80cb-5313b9f7dfe1
 Symata,a906b1d5-d016-55c4-aab3-8a20cba0db2a
 SymbolServer,cf896787-08d5-524d-9de7-132aaa0cb996
+SymbolicAWEModels,9c9a347c-5289-41db-a9b9-25ccc76c3360
 SymbolicAnalysis,4297ee4d-0239-47d8-ba5d-195ecdf594fe
 SymbolicCircuit,90f18bad-8de6-4f24-a7ee-bfe158ef45c0
 SymbolicCodegen,fc9b0551-4f1b-42e1-8440-e8a535f5a551
