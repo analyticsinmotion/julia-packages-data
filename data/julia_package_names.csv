@@ -1447,6 +1447,7 @@ CellMetabolismBase,29f58b35-15e1-4d3c-99d7-eccaac145095
 CellSegmentation,bc04555c-6b3a-48e0-9330-69d76e9b444f
 CellularAutomata,878138dc-5b27-11ea-1a71-cb95d38d6b29
 CellularPotts,11b7dee7-cd95-48a5-a457-717aae94d0bd
+CensusACS,5cdc1628-db7d-4f1a-9a42-d0831b0d3a5e
 CenteredRBMs,def70c09-f69f-4396-afd1-e8507a6dddbf
 CentralizedCaches,d1073d05-2d26-4019-b855-dfa0385fef5e
 CeresSolver_jll,274fe647-06be-54d6-af78-99f37f3755f2
@@ -5328,6 +5329,7 @@ LDPCDecoders,3c486d74-64b9-4c60-8b1a-13a564e77efb
 LDPCStorage,d46d874d-5773-4ce9-8adb-568101dc8882
 LDrawParser,c9062c12-fdd7-47de-ae43-3b8a76d3a662
 LEAN_Community_jll,def0f3ea-0521-5e8c-a7b7-92f0f4873a26
+LEMONGraphs,14b1564f-c77f-4800-9e89-efd961faef7c
 LEMON_jll,9f9b04fa-cfb6-5331-975f-45512019a816
 LERC_jll,88015f11-f218-50d7-93a8-a6af411a945d
 LFAToolkit,3f92b583-c0aa-4596-8bdf-f02f6c0a52df
@@ -9126,6 +9128,7 @@ SARSOP_jll,e478675d-f996-546e-baa1-da59d9de2062
 SASLAuth,cca00f77-35de-46b7-a2e1-4a86bed9cc56
 SASLMR,c5384bee-8a12-426e-bc63-175ec2f1897e
 SASLib,df8f2f22-cfef-5733-af3f-96770d497d85
+SAShE,83401093-d8e7-49c8-a98d-2b177fad4d3a
 SBC_jll,da37f231-8920-5702-a09a-bdd970cb6ddc
 SBML,e5567a89-2604-4b09-9718-f5f78e97c3bb
 SBMLFBCModels,3e8f9d1a-ffc1-486d-82d6-6c7276635980
@@ -9777,6 +9780,7 @@ SlurmClusterManager,c82cd089-7bf7-41d7-976b-6b5d413cbe0a
 SlurmWorkloadFileGenerator,da235a08-baf4-11e9-2387-6f19a530ddff
 SmallBodyGravity,66e334b4-30c1-4be0-8331-1eb48c315f23
 SmallCollections,2b935e18-93d6-40ac-ae34-fe54c09f00e1
+SmallCombinatorics,4c2fb5cd-5fa8-4952-858b-935ef2e5e854
 SmallCouplingDynamicCavity,1607259e-80f4-4675-b495-cb9c54bacb3f
 SmallDatasetMaker,7016d903-ac20-4882-9d97-75c232100024
 SmallZarrGroups,d423b6e5-1c84-4ae2-8d2d-b903aee15ac7
@@ -10362,6 +10366,7 @@ SuperfluidRotSpec,dc1ff568-94fa-4ad3-b92b-d84550c04ff1
 Superfluids,01347403-e5cf-4a60-9350-9edf4e6960f2
 Supernovae,f00d7deb-a70b-45c2-b896-7f55cd638e72
 SupplyChainModeling,8a0b78ce-42db-494b-a45c-80b287de1a3d
+SupplyChainModels,562ae68e-5bc4-4bde-9b2c-0154754d073e
 SupplyChainOptimization,785807e5-a5cf-4c87-8002-234621def379
 SupplyChainSimulation,1febdd50-69ad-4f0a-8312-f316c31db602
 SupportPoints,23b1b04d-225f-44b8-8726-13685da4c661
