@@ -6051,6 +6051,7 @@ MXNet,a7949054-b901-59c6-b8e3-7238c29bf7f0
 MacOSIOReport,27799fc1-e272-4181-9793-a9e1fcba685b
 MackeyGlass,5eb54613-e1e4-5bb3-a6bc-ad608a6b2204
 MacroEnergyScaling,824dc6dc-8db5-4e55-923f-6cabbd6cfcd5
+MacroEnergySolvers,466a4f75-6c9c-4ef2-97df-f5f43ac00c23
 MacroEnergySystemsScaling,e07ba8b4-499e-4f54-a885-af58260c741f
 MacroModelling,687ffad2-3618-405e-ac50-e0f7b9c75e44
 MacroTools,1914dd2f-81c6-5fcd-8719-6d5c9610ff09
@@ -12029,6 +12030,7 @@ libcrossterm_jll,7fdd842c-1c35-5047-b6c4-5b8c94d478bc
 libcsv_jll,76ce3406-eb3b-58b5-9095-caeac20e920c
 libcxxwrap_julia_jll,3eaa8342-bff7-56a5-9981-c04077f7cee7
 libdatachannel_jll,a9336cb3-2ff0-5b58-948f-a453a6f195b0
+libde265_jll,0a7f2b4d-d03c-5694-960e-196e69ee64e2
 libdecor_jll,1183f4f0-6f2a-5f1a-908b-139f9cdfea6f
 libdeflate_jll,46979653-d7f6-5232-b59e-dd310c4598de
 libdivsufsort_jll,3acd9466-597a-52f5-9fc8-ad906e2116c6
@@ -12050,6 +12052,7 @@ libgpiod_jll,73a0302d-03ce-5e89-a83a-5ac78e102a29
 libgraphicsmagic_jll,3e975b7b-ab84-5bf4-b4b6-586754a53ef6
 libgsd_jll,e4d6e05a-3816-5255-9332-8392038f2e0f
 libharu_jll,d4e8948d-4b7e-5538-9d15-404f6f0a9070
+libheif_jll,a13778fd-9a17-58b4-b5a0-4b4a242815a9
 libidn2_jll,e3d30ef0-22f3-5ccc-b703-2e063d8d1f30
 libidn_jll,f0f5855d-14eb-5155-b6cb-9f6c251f73bb
 libigc_jll,94295238-5935-5bd7-bb0f-b00942e9bdd5
