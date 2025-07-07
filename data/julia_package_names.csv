@@ -2346,6 +2346,7 @@ DeepDish,03d21f85-4b71-5aa4-88fd-39a722493ec0
 DeepEquilibriumNetworks,6748aba7-0e9b-415e-a410-ae3cc0ecb334
 DeepForest,caac18e2-70b9-41b7-b707-5295ac4b8fcd
 DeepFry,760752a8-943b-47af-ae9a-04fdfee5f700
+DeepL,ee04fb13-afea-4bee-b967-185145acd83e
 DeepQLearning,de0a67f4-c691-11e8-0034-5fc6e16e22d3
 DeepSeek,043911e8-1ed4-411e-9b5a-2156b49e87ad
 DeepUnfoldedCDLMotif,29c5a556-b6e4-4b12-acd4-bb8b306706d2
@@ -6571,6 +6572,7 @@ MonetDB,1882e10c-1919-490c-b622-a87720d6c7a2
 MongoC_jll,90100e71-7732-535a-9be7-2e9affd1cfc1
 Mongoc,4fe8b98c-fc19-5c23-8ec2-168ff83495f2
 MongocUtils,e584fc4d-3f36-46f9-b493-fafa6061fac8
+Mongoose,494b707d-6180-4d60-8018-fdbee1ff8085
 Mongoose_jll,0a8a3f5b-4c0e-5906-8e29-5b3fee15539c
 MonkeyLang,2e3b8ffb-b112-4a86-975c-b56a8cdf8971
 MonoidalCategories,bfd98c86-782f-4b94-909f-74167f1eb613
@@ -6749,6 +6751,7 @@ NCDataFrame,419ca8c6-2b20-4634-9f6c-b2c5f1429aea
 NCDatasets,85f8d34a-cbdd-5861-8df4-14fed0d494ab
 NCEI,1f554e9c-ddc6-5d78-a4ef-ff7defcf835d
 NCRegressionTests,1789bc09-29e6-4c93-9c75-fe2179693664
+NCTSSoS,bfd54a76-f566-4979-8478-f7e03b9d19fb
 NCTiles,4c1fdd90-559f-11e9-1abf-07ceafc4ffc0
 NDPriorityQueues,62ce6dcf-afc2-4b9e-bf6a-7a1353c578d1
 NDTensors,23ae76d9-e61a-49c4-8f12-3f1a16adf9cf
@@ -10718,6 +10721,7 @@ TextBox,699dc53c-77f3-421a-b787-0eea097c79c4
 TextClassification,8e067cb0-742a-4f90-93f9-f1fa01b385ec
 TextEncodeBase,f92c20c0-9f2a-4705-8116-881385faba05
 TextGraphs,1da7d4ca-ffb9-4e95-b99a-7e8e4561fc9a
+TextGrids,92f09047-6d16-4473-addc-838620b4de14
 TextHeatmaps,2dd6718a-6083-4824-b9f7-90e4a57f72d2
 TextModels,77b9cbda-2a23-51df-82a3-24144d1cd378
 TextParse,e0df1984-e451-5cb5-8b61-797a481e67e3
