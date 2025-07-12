@@ -1091,6 +1091,7 @@ BranchAndBound,df125234-20bf-4c0f-9bfa-104d3353f312
 BranchAndPrune,d3bc4f2e-91e6-11e9-365e-cd067da536ce
 BranchFlowModel,73c867df-75f8-459f-abd8-059b58de1e18
 BranchTests,734052d1-fea3-4ffe-af92-b9cc64c3051c
+BranchingProcesses,04adb457-7d2c-431a-93f1-03b44ce12db8
 Bravais,ada6cbde-b013-4edf-aa94-f6abe8bd6e6b
 BraveNewAlgorithm,62e8e4ba-3e3d-40af-bbe6-192e07c2d347
 BrazilCentralBank,1db8e8ca-f8ef-4fae-b3f5-ea2940ece087
@@ -4090,6 +4091,7 @@ GitHub,bc5e4493-9b4d-5f90-b8aa-2b2bcaad7a26
 GitHubActions,6b79fd1a-b13a-48ab-b6b0-aaee1fee41df
 GitOut,04fb8cda-6e7d-43bb-aab7-5643caf4af12
 GitREPL,86bc0129-654e-4751-9b96-b173469afcbd
+Git_LFS_jll,020c3dae-16b3-5ae5-87b3-4cb189e250b2
 Git_jll,f8c6e375-362e-5223-8a59-34ff63f689eb
 GithubMarkdown,ecb7cac2-dae3-4a6f-a5f6-8274be99c6cb
 GittinsIndices,528e2044-b1ef-47f1-a8f4-693ac85d91f9
@@ -7229,6 +7231,7 @@ OneHotArrays,0b1bfda6-eb8a-41d2-88d8-f5af5cad476f
 OneRule,90484964-6d6a-4979-af09-8657dbed84ff
 OneTwoMany,762dc654-8631-413a-a342-372a7419ad9d
 OnlineLogBinning,6694b27a-7f2b-41da-9dea-d3f4793b6534
+OnlineNMF,e0c94d91-d830-4516-8b46-9a113d37a394
 OnlinePCA,975b03d1-ab45-5730-8389-540698ac00dc
 OnlinePackage,dec300e5-7e5b-577b-bc13-c7c11ad250bc
 OnlinePortfolioAnalytics,d39dbdee-9d7b-4a6f-a064-c0eaa0a6e939
