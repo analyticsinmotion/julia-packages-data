@@ -4976,6 +4976,7 @@ ItsLive,774cd0c4-ba78-41e4-92fb-f5f90e3791d1
 ItuRPropagation,a73e506c-35e8-47b2-857c-dfce7ead1349
 ItuRPropagations,27e0793c-dcf3-4b51-9682-e1c9838db8f8
 JACC,0979c8fe-16a4-4796-9b82-89a9f10403ea
+JCAMPDXir,931eddca-b696-4dc5-beb7-a03832886454
 JCheck,852ab1b9-8b1f-4e09-8e6c-09fa7814d69a
 JDBC,6042db11-3c3d-5e84-8dba-9cbf74c9ba48
 JDF,babc3d20-cd49-4f60-a736-a8f9c08892d3
@@ -5736,6 +5737,7 @@ LittleEphemeris,216eeeb1-80f3-427b-9618-77bd73e1755d
 LittleManComputer,c742fd3c-88f6-4004-ba45-01ef0bf0104f
 LiveServer,16fef848-5104-11e9-1b77-fb7a48bbb589
 LlamaCpp,4028143c-eef9-4a3a-9d23-34f3d8ed2047
+LlamaCppOutlines,cf61004f-919f-4111-a040-3ccdc0268dd3
 LoRaPHY,646e3a94-a092-4ccf-81d9-1ab43b008f5e
 LoadAllPackages,b37bcd2d-1570-475d-a8c6-9b4fae6d0ba9
 LoadFlint,472f376f-f1cf-461b-9ac1-d103423be9b7
@@ -9419,6 +9421,7 @@ SciMLPublic,431bcebd-1456-4ced-9d72-93c2757fff0b
 SciMLSensitivity,1ed8b502-d754-442c-8d5d-10ac956f44a1
 SciMLStructures,53ae85a6-f571-4167-b2af-e1d143709226
 SciMLTutorials,30cb0354-2223-46a9-baa0-41bdcfbe0178
+SciMLVerbosity,a05b3ec9-34a1-438a-b0a1-c0adb433119f
 SciMLWorkshop,6821e370-b0bb-497c-beb7-809790cbeb12
 SciPy,ebc72ef8-9537-4fb0-b64e-ac76025fed2d
 SciPyDiffEq,505e40e9-d84e-434c-8501-7161967c02cb
@@ -9763,6 +9766,7 @@ SixelTerm,65edfddc-f399-4499-8369-a1bd38eee2ea
 Skans,a745460b-2075-4384-80fc-e13528d5f107
 SkeelBerzins,15eb0f9a-d441-4223-9ae5-4829ae804a45
 SkewLinearAlgebra,5c889d49-8c60-4500-9d10-5d3a22e2f4b9
+Skia,d59498f3-381e-4841-a765-4609d464ae1b
 Skia_jll,775d8421-ae54-5f59-bb96-f071f11d00ce
 SkillRating,a4748943-f30d-4e73-8df6-5e79d9c4d1d0
 SkipLists,1bc1db3f-e088-4b4f-941a-131a3eb578db
