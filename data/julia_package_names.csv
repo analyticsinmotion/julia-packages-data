@@ -1071,6 +1071,7 @@ BoundedStreams,819c7365-da23-433e-86d1-f9a07e67aad6
 BoundingSphere,747eb165-47b8-53f2-ad32-9704a7dfc50a
 BoxCox,1248164d-f7a6-4bdb-8e8d-8c4a187b3ce6
 BoxCoxTrans,4c24c29e-1bf7-59e2-a6c7-e500a6482ce4
+BoxDomains,c7d1f724-ac96-48e5-b8ce-62df78ae7f65
 BoxLeastSquares,6c353534-c22b-44cc-9076-7b904de9fadc
 BoxSymmetries,c15e2422-6468-4519-b170-1e308ff69150
 BoxesWorld,3a8eabaa-ff0c-46c8-af7c-f38dcbb67fff
@@ -1405,6 +1406,7 @@ CatIndices,aafaddc9-749c-510e-ac4f-586e18779b91
 CatViews,81a5f4ea-a946-549a-aa7e-2a7f63a27d31
 Catalyst,479239e8-5488-4da2-87a7-35f2df7eef83
 Catalyst_jll,513fda4f-8b2e-59b2-a185-097ac7c26d11
+Catan,f5a9156a-9005-488a-a606-ecf760a1f632
 Catch22,acdeb78f-3d39-4310-8fdf-6d75c17c6d5a
 CatchaMouse16,d380ff4f-f00a-4d7d-8e8f-cf8a6193eec9
 CategoricalArrays,324d7699-5711-5eae-9e2f-1d82baa6b597
@@ -10835,6 +10837,7 @@ TimeSeriesClassification,4869f98a-92d2-4a27-bbf6-5599fe134177
 TimeSeriesClustering,61e8395a-c5b7-11e9-0bf6-872d3bc7175c
 TimeSeriesEcon,8b6756d2-c55c-11ea-2998-5f67ea17da60
 TimeSeriesInterface,b6905eaa-d2af-11ea-0aca-2dc76a442461
+TimeSeriesPowerFlow,808fc52c-b686-440b-ab45-a6088d0d285e
 TimeSeriesResampler,209c9289-0e93-5bc3-a9c6-3b517a31ee3c
 TimeSpans,bb34ddd2-327f-4c4a-bfb0-c98fc494ece1
 TimeStruct,f9ed5ce0-9f41-4eaa-96da-f38ab8df101c
