@@ -467,6 +467,7 @@ AssociativeArrays,9477f2fd-3d51-5b6a-a127-ca3a070ddf94
 AssociativeWindowAggregation,444271a7-5434-4a02-b82b-0e30a9223c60
 AsterReader,cb1a753d-6b7b-52e3-9bfe-57d99d445c39
 AsteroidShapeModels,a7943d8e-5d65-4248-ae23-0082f5115a05
+AsteroidThermoPhysicalModels,ab46f4a3-3c83-4d86-98d6-41a8b1a2e76e
 AstroAngles,5c4adb95-c1fc-4c53-b4ea-2a94080c53d2
 AstroChemistry,7f947402-6d9b-49de-a6e7-82c660dce669
 AstroConstants,59872b50-2c0f-4331-84f7-44577a892ba3
@@ -2602,6 +2603,7 @@ DistributionMeasures,35643b39-bfd4-4670-843f-16596ca89bf3
 DistributionVectors,876525fa-7cae-420f-8fd8-59a6b63fe7c3
 Distributions,31c24e10-a181-5473-b8eb-7969acd0382f
 DistributionsAD,ced4e74d-a319-5a8a-b0ac-84af2272839c
+DistributionsHEP,0d0d6f60-fb7b-48ca-90bb-e14e8b1655a7
 DitherPunk,b8f752a5-abd5-43b6-a55b-e75efda20de0
 Ditherings,18716f60-6c0e-11e9-0a37-e9870d4a7c8f
 Divergences,7f07e4c8-6df2-5971-ad44-bf349b9adcfd
@@ -6181,6 +6183,7 @@ MathLinkExtras,319bc7fa-14a0-11ec-21e1-6160fff0bbd8
 MathML,abcecc63-2b08-419c-80c4-c63dca6fa478
 MathMLRepr,42d37811-1353-41fc-905d-730061a3b7c3
 MathOptAI,e52c2cb8-508e-4e12-9dd2-9c4755b60e73
+MathOptAnalyzer,d1179b25-476b-425c-b826-c7787f0fff83
 MathOptChordalDecomposition,691ff971-50ce-4a2e-a182-eb537bf792c3
 MathOptFormat,f4570300-c277-12e8-125c-4912f86ce65d
 MathOptInterface,b8f27783-ece8-5eb3-8dc8-9495eed66fee
@@ -6748,6 +6751,7 @@ MzPlots,5043a3e8-8306-400d-ba57-2ed3b7fadd60
 MzXML,cb69de98-8f9f-5947-b504-cdcc19a34020
 N2QN1_jll,002bfba3-21ac-52e9-b66b-06fbad9fcd75
 NASAEarthObservations,9526e54e-4491-4e9f-a840-d78b79cb5e3b
+NASAMergedTb,0a1892c8-8a22-4bcd-b9e2-a5b491b58d94
 NASAPrecipitation,a018b980-0677-41c0-b9a4-7f34595c2b14
 NASM_jll,08ca2550-6d73-57c0-8625-9b24120f3eae
 NATS,55e73f9c-eeeb-467f-b4cc-a633fde63d2a
@@ -9124,6 +9128,7 @@ RuntimeEnums,5aed96f1-df88-482a-81d7-fb30b91491f6
 RuntimeGeneratedFunctions,7e49a35a-f44a-4d26-94aa-eba1b4ca6b47
 RustFFT,b7f167ac-9de6-40dd-9818-ec636999de39
 RustRegex,cdf36688-0c6d-42c6-a883-5d2df16e9e88
+Rusticl_jll,0e9524f4-d8d1-5353-8bd4-6e7599f5f54e
 RustyObjectStore,1b5eed3d-1f46-4baa-87f3-a4a892b23610
 RvLineList,64580eba-dac5-4344-8efb-4882f76a30da
 RvSpectML,1f61ac2c-3a1c-440a-925a-2707197041c8
