@@ -2873,6 +2873,7 @@ ElasticArrays,fdbdab4c-e67f-52f5-8c3f-e7b388dad3d4
 ElasticClusterManager,547eee1f-27c8-4193-bfd6-9e092c8e3331
 ElasticFDA,f9e31aca-17d0-553a-a5f4-335c39cba33a
 ElasticFDSG,5b8de370-2f65-449b-a80a-5b10b09533c5
+ElasticNetworks,c47353fb-9f42-438e-a7e8-a70e46fe0259
 ElasticPDMats,2904ab23-551e-5aed-883f-487f97af5226
 ElasticSearch,0d0b3e3c-8241-4271-8221-92a6a704d6fd
 ElasticSurfaceEmbedding,bcf6de08-7633-46ab-86e2-ee57f9a67390
@@ -9528,6 +9529,7 @@ Sentinel,b367cf14-19c4-4862-849d-7c6f64208072
 SentinelArrays,91c51154-3ec4-41a3-a24f-3f23e20d615c
 SentinelExplorer,e5d154b4-4325-4737-9c37-b2b3515e42eb
 SentinelMissings,b1dc47e8-ebfd-568c-9de9-431a7ef94af6
+SentinelTiles,4a44c98a-197e-4960-8cf6-d8efe06eb844
 SentinelViews,1c95a9c1-8e3f-460f-8963-106dcc440218
 Sentry,22473447-a6cd-4572-bdc6-902d1f188b6a
 SeparableFunctions,c8c7ead4-852c-491e-a42d-3d43bc74259e
@@ -11947,6 +11949,7 @@ esbuild_jll,26e969d2-927c-5f74-8db2-a5499fed2ef8
 eudev_jll,35ca27e7-8b34-5b7f-bca9-bdc33f59eb06
 exprtk_jll,dc4c4521-5b7f-5177-bcb8-53f895501e5d
 extxyz_jll,6ecdc6fc-93a8-5528-aee3-ac7ae1c60be7
+f4ncgb_jll,160f184c-7e1a-5d95-af1f-70d62a450302
 fakechroot_jll,0d1115f3-e42e-5952-a93b-f179746a6ed7
 fastp_jll,cdb18c6f-09f1-5f87-ba27-801070dd1989
 faust_jll,ee02ff01-307c-5f43-b4c2-04ffc4645b0f
