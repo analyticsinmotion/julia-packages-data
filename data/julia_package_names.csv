@@ -1362,6 +1362,7 @@ CamiFITS,e3d38e7e-66c0-4598-81c1-d1e9bcf43bf0
 CamiMath,d302b3f7-c8ae-418d-9fc2-2c0a42bddda0
 CamiXon,e90a53f3-3599-4ebe-999f-6f75af03d43f
 CanDecomp,6c57e878-bc0a-5706-8331-d2cb71f7d6e8
+CanadianClimateData,4ac68c5e-d36a-4901-8cb5-da7e3d304538
 CancellationTokens,2e8d271d-f2e2-407b-a864-17eb2156783e
 CancerImagingArchive,1c555f4c-8d6b-45c3-bbc1-c64989f538fe
 CancerSeqSim,c7b3ebfe-d098-56ea-b529-6cf0bac1b5f3
@@ -1922,6 +1923,7 @@ ConstrainedDynamics,65b0d8a9-e9fd-4f02-8653-a7163c490b26
 ConstrainedDynamicsVis,07ee0992-da0a-4409-aa8f-e0a0c9c09c30
 ConstrainedRootSolvers,7e2492bd-0955-4089-8696-9df2af57a479
 ConstrainedShortestPaths,b3798467-87dc-4d99-943d-35a1bd39e395
+ConstrainedSimplexSearch,18a5e75d-c893-44ea-8c57-0eddfae82f21
 ConstrainedSystems,c257ce95-4918-4279-a47c-50fdbcb74a04
 ConstraintCommons,e37357d9-0691-492f-a822-e5ea6a920954
 ConstraintDomains,5800fd60-8556-4464-8d61-84ebf7a0bedb
@@ -3923,6 +3925,7 @@ GenServers,7ba82512-5dde-4a56-aa4f-e00f617b4033
 GenTeX,986b9465-75d6-44a0-94a2-e5aa8586ae9d
 GenX,5d317b1e-30ec-4ed6-a8ce-8d2d88d7cfac
 GeneDrive,d9acca20-95e5-11e9-3d4c-3b57da6f4e87
+GeneExpressionProgramming,2f0a5bb0-5f4f-4f7f-b515-93a1e67611af
 GeneFinder,2bc6ee46-2158-4f5a-a720-91cb2d7cee64
 GeneMatrix,b017c6bb-e7c7-4437-8ee6-a27b72ea26ab
 GeneNetworkAPI,5ef98721-7938-4c15-bad2-60f0fa16d62a
@@ -5205,6 +5208,7 @@ KeplerTools,200436fd-7f69-44ff-b485-688a1ddb115b
 Kerberos_krb5_jll,b39eb1a6-c29a-53d7-8c32-632cd16f18da
 Kerchunk,12c09fd5-fe6a-4e79-8f42-b31f49215243
 KernelAbstractions,63c18a36-062a-441e-b654-da1e3ab1ce7c
+KernelApproximations,abd0307c-dd46-4d2f-bc60-cb3eb50b4ec8
 KernelDensity,5ab0869b-81aa-558d-bb23-cbf5423bbe9b
 KernelDensityEstimate,2472808a-b354-52ea-a80e-1658a3c6056d
 KernelDensityEstimatePlotting,c43967c8-f634-5d24-8eab-2867546b366b
@@ -6029,6 +6033,7 @@ MPSDynamics,8fc8f346-e1eb-498f-94db-02ffe92d8134
 MPSGE,d5dc2f44-7ae2-49e9-bc77-b47b6bca565d
 MPSKit,bb1c41ca-d63c-52ed-829e-0820dda26502
 MPSKitModels,ca635005-6f8c-4cd1-b51d-8491250ef2ab
+MPSTime,add04bee-8693-446b-8579-2d5929eca8f6
 MPSToolkit,b07acf17-ba04-41c2-93f4-9e8c134c6ecc
 MPSolve,9b0ab244-28a7-517c-931e-75c4e3199a6c
 MPSolve_jll,184ad7ad-f978-5c9a-833c-fb4ab31fd3fb
@@ -6137,6 +6142,7 @@ ManyBody,859def05-0fb7-4ff0-8e39-3bde5e09c2f7
 MapMakie,fe52baaf-6d3a-4a5f-a57b-73f45372fb58
 MapMaths,0922fada-4501-4821-9da5-5833bcb2b8d4
 MapTiles,fea52e5a-b371-463b-85f5-81770daa2737
+MapUnroll,cb3e49c6-be3c-4b9f-8a95-3e29188d9713
 MappedArrays,dbb5928d-eab1-5f90-85c2-b9b0edb7c900
 MarSwitching,b2b8a7f1-da70-4e5f-beaa-e2774ec39c2f
 Maracas,329a7628-3119-536a-a060-c6b2f8e35265
@@ -6483,6 +6489,7 @@ MixedModelsMakie,b12ae82c-6730-437f-aff9-d2c38332a376
 MixedModelsPermutations,647c4018-d7ef-4d03-a0cc-8889a722319e
 MixedModelsSerialization,b32ace64-3998-4ca6-afd0-a0db4a0482b2
 MixedModelsSim,d5ae56c5-23ca-4a1f-b505-9fc4796fc1fe
+MixedModelsSmallSample,fb531da0-582c-4a62-80cc-836e12ba9c31
 MixedStructTypes,3d69f371-6fa5-5add-b11c-3293622cad62
 MixedSubdivisions,291d046c-3347-11e9-1e74-c3d251d406c6
 MixedTypesContainers,d538787b-fcd7-45dd-a3fb-92a4ecb31e9f
@@ -6698,6 +6705,7 @@ MultinomialRegression,a592c9b7-6983-49e8-8273-c41e1cdef303
 MultinomialSeries,b1457606-cce2-4c91-91e3-a50c9ebbb83c
 MultiobjectiveProximalBundle,7c640890-aab7-4b0b-9130-8fee89820740
 MultipathChannel,a0de0523-4880-46e2-8f2e-e01f2b1f4520
+MultipleInterfaces,822ac178-5032-4fc5-9e36-cfa8f056a624
 MultipleScattering,80a8ab25-5750-5d93-a6d7-4adc97cdd5fb
 MultipleTesting,f8716d33-7c4a-5097-896f-ce0ecbd3ef6b
 MultiplesOfPi,b749d01f-fee9-4313-9f11-89ddf7ea9d58
@@ -10436,6 +10444,7 @@ Survival,8a913413-2070-5976-9d4c-2b364fdc2f7f
 SurvivalAnalysis,d1dd7d07-e5c2-418a-8652-e20add45d312
 SurvivalBase,9cb6079b-e021-4662-8a75-9f65bfa286f2
 SurvivalDistributions,7121986e-ae89-4673-ae4e-1cb822919a18
+SurvivalModels,230d35e3-bb2c-48f4-adfc-0b42c4b39395
 SurvivalSignature,13fa4dc1-3690-464b-a752-a9f12e029c3c
 SwagUI,bf05d729-34b2-4f1f-a2f1-2452bece7ebc
 Swagger,2d69052b-6a58-5cd9-a030-a48559c324ac
