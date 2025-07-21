@@ -2285,6 +2285,7 @@ DataFramesMeta,1313f7d8-7da2-5740-9ea0-a2ca25f37964
 DataGraphs,b5a273c3-7e6c-41f6-98bd-8d7f1525a36a
 DataIO,ef35fa6a-3910-11e9-1848-752a35b00f56
 DataInterpolations,82cc6244-b520-54b8-b5a6-8a565e85f1d0
+DataInterpolationsND,4f1ef021-621a-47a5-ac8a-95402a2d1ea8
 DataKnots,f3f2b2ad-91c8-5588-b964-d77e2d3bb090
 DataLoaders,2e981812-ef13-4a9c-bfa0-ab13047b12a9
 DataManifest,b8ee69ef-a20a-4d38-bceb-a68d72817f72
@@ -4843,6 +4844,7 @@ InputBuffers,0c81fc1b-5583-44fc-8770-48be1e1cca08
 Insolation,e98cc03f-d57e-4e3c-b70c-8d51efe9e0d8
 InspectDR,d0351b0e-4b05-5898-87b3-e2a8edfddd1d
 InstaRound,609f54d3-8a97-4836-aa37-e3dc8f03ac88
+InstanceDispatch,23e940aa-d356-45ed-adbd-bebf2015d7d9
 InstantFrame,d4c411e5-b967-4c36-b61c-e426871b3c50
 InstantiateFromURL,43edad99-fa64-5e4f-9937-1c09a410b73f
 InstrumentConfig,2ae464b0-21de-4247-9233-e7c17725eb53
@@ -10738,6 +10740,7 @@ TestExtras,5ed8adda-3752-4e41-b88a-e8b09835ee3a
 TestFunctionRunner,792026f5-ac9a-4a19-adcb-47b0ce2deb5d
 TestHandcalcFunctions,6ba57fb7-81df-4b24-8e8e-a3885b6fcae7
 TestImages,5e47fb64-e119-507b-a336-dd2b206d9990
+TestItemControllers,340407ab-12a4-4a78-8da2-3de3b3fd1448
 TestItemDetection,76b0de8b-5c4b-48ef-a724-914b33ca988d
 TestItemRunner,f8b46487-2199-4994-9208-9a1283c18c0a
 TestItems,1c621080-faea-4a02-84b6-bbd5e436b8fe
