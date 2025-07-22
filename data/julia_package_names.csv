@@ -3138,6 +3138,7 @@ Extrae_jll,2b2c4be0-e38c-5918-b8b4-9a308845a1e9
 ExtremalOptimization,3b6521e1-56b2-406b-b1f7-6ae6ec1fb69e
 ExtremeFloats,4fba8ba3-5816-4b0a-a58e-35901defa442
 ExtremeLearning,c95f448f-dc0f-43b0-8158-a2e23540fc0b
+ExtremePlots,96740c97-20d1-419e-bd96-765ff0b5546a
 ExtremeStats,bda1af87-e1f1-54ef-ae32-d9c31cb662a2
 Extremes,fe3fe864-1b39-11e9-20b8-1f96fa57382d
 EyeOfRa,80847211-bc6c-46c0-860f-0841d8001362
@@ -3640,6 +3641,7 @@ FreudenthalTriangulations,ea2b2c30-cea2-479b-adc8-fbe18a3c201b
 FreydCategoriesForCAP,cec356e3-7627-4f73-8308-af32cbf46c2b
 Fri,46a35dea-4a1c-47d3-b78b-20459e72ba5a
 FriBidi_jll,559328eb-81f9-559d-9380-de523a88c83c
+FrictionProviders,0e168e98-d76b-4d03-b07e-2b13986b2fd0
 FromDigits,a6d61093-4b9a-4edd-a5a7-589135744240
 FromFile,ff7dd447-1dcb-4ce3-b8ac-22a812192de7
 Fronts,45b28afb-7f9c-4d83-a9c8-739861dbc76b
@@ -4048,6 +4050,7 @@ GeometricFilter,52e57683-dc88-4bd1-983c-468b4cfc34f1
 GeometricFlux,7e08b658-56d3-11e9-2997-919d5b31e4ea
 GeometricIntegrators,dcce2d33-59f6-5b8d-9047-0defad88ae06
 GeometricIntegratorsDiffEq,5a33fad7-5ce4-5983-9f5d-5f26ceab5c96
+GeometricKalman,37c64ece-753e-4456-a3c8-f0622d3cd54c
 GeometricMachineLearning,194d25b2-d3f5-49f0-af24-c124f4aa80cc
 GeometricMultigrid,ec3bce20-3e4b-4d8a-a801-89defc82be1c
 GeometricProblems,18cb22b4-ad41-5c80-9c5f-710df63fbdc9
@@ -5863,6 +5866,7 @@ Lycian,7c215dd3-d1b4-4517-b6c6-0123f1059a20
 Lyra,ffbea66a-397b-416b-b21c-0d4295c18fac
 Lz4_jll,5ced341a-0733-55b8-9ab6-a4889d929147
 M4_jll,9051c120-a745-5e86-aaa7-8cbc404dba28
+MACEModels,29bafc4c-4f38-420f-a153-8a5a5e0bd5f6
 MAFFT_jll,72a4bdf2-be5e-5c84-b157-f1dc2927f791
 MAGEMinApp,3bfd43b6-b983-4998-9dd6-d5d715d830b7
 MAGEMin_C,e5d170eb-415a-4524-987b-12f1bce1ddab
@@ -6845,6 +6849,11 @@ NPCFs,e414b0ab-d40c-4bbc-9f57-095db2c1b88c
 NPFinancial,d92e12fc-aea5-418c-9372-8108a4db1700
 NPZ,15e1cf62-19b3-5cfa-8e77-841668bca605
 NQCBase,78c76ebc-5665-4934-b512-82d81b5cbfb7
+NQCCalculators,ddd1f41d-9621-41e2-91a4-6b87cc8989f3
+NQCDInterfASE,4606675f-2246-4a0b-99d5-75b910de637b
+NQCDistributions,657014a1-bd25-4aa2-92cb-cbcede0310ad
+NQCDynamics,36248dfb-79eb-4f4d-ab9c-e29ea5f33e14
+NQCModels,c814dc9f-a51f-4eaf-877f-82eda4edad48
 NRLMSIS_jll,e40003b6-db6d-53ac-8f97-1b9d6a4db741
 NRRD,9bb6cfbd-7763-5393-b1b5-1c8e09872146
 NSDEBase,5aa61ba9-7752-4810-b2ec-484f26c3f007
@@ -10510,6 +10519,7 @@ SymmetryReduceBZ,49a35663-c880-4242-bebb-1ec8c0fa8046
 Symplectic,32b24f23-0065-419a-aebb-272ab3b73786
 SymplecticFactorizations,7425e8e4-4cde-4e45-9b2f-a15679260f9b
 SymplecticMapTools,6d28690f-f14d-4e01-b22c-df83f7606a8b
+SymplecticMatrices,d07eab47-f98b-4620-8fe1-ee63e153d4ef
 SynapseElife,7cc9ea39-daa9-4846-be95-d8a08c9e3c85
 Synaptogen,e56353f7-4373-4545-acba-b4d938c7539a
 SyncBarriers,3986aa12-c984-439b-887a-f8545bea0e93
