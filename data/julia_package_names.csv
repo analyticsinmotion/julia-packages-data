@@ -5668,6 +5668,7 @@ LightGraphsGraphBLAS,9e818040-a151-11e9-0cac-43033c89f788
 LightGraphsMatching,160ba089-64bf-5ba7-9e14-98ab1d9bcb0a
 LightLattices,c2d87ffe-efce-4f64-b293-8fcb5ddda528
 LightLearn,aea05ee4-eee8-4bb2-9be1-ccb376bfd141
+LightMatter,b578e399-e75b-4901-9c37-d6aa618b88c4
 LightOSM,d1922b25-af4e-4ba3-84af-fe9bea896051
 LightPropagation,bd080553-88c9-414f-9879-667caf467699
 LightQuery,a6f99520-0501-547d-81af-dc7bed1e4d5a
@@ -5978,6 +5979,7 @@ MLJJLBoost,cb937e20-20f2-4cea-8a28-54eef8bab285
 MLJLIBSVMInterface,61c7150f-6c77-4bb1-949c-13197eac2a52
 MLJLinearModels,6ee0df7b-362f-4a72-a706-9e79364fb692
 MLJModelInterface,e80e1ace-859a-464e-9ed9-23947d8ae3ea
+MLJModelRegistryTools,0a96183e-380b-4aa6-be10-c555140810f2
 MLJModels,d491faf4-2d78-11e9-2867-c94bc002c0b7
 MLJMultivariateStatsInterface,1b6a4a23-ba22-4f51-9698-8599985d3728
 MLJNaiveBayesInterface,33e4bacb-b9e2-458e-9a13-5d9a90b235fa
@@ -6222,6 +6224,7 @@ MathleticsFiles,105a4150-501d-4750-a750-eeda3b75fac2
 Matio_jll,f34749e5-bf11-50ef-9bf7-447477e32da8
 MatricesForHomalg,29b9b1b6-efa6-450e-8188-a5a2c25df071
 MatrixAlgebraKit,6c742aac-3347-4629-af66-fc926824e5e4
+MatrixBandwidth,075aa41b-24fd-4573-b25f-92cae432c0f8
 MatrixCompletion,ed8b4348-a40e-11e9-0eb8-b76d3f7c2c42
 MatrixCorrectionTools,41f81499-25de-46de-b591-c3cfc21e9eaf
 MatrixDepot,b51810bb-c9f3-55da-ae3c-350fc1fbce05
@@ -8142,6 +8145,7 @@ PoreMatMod,2de0d7f0-0963-4438-8bc8-7e7ffe3dc69a
 PorousMaterials,68953c7c-a3c7-538e-83d3-73516288599e
 PortAudio,80ea8bcb-4634-5cb3-8ee8-a132660d1d2d
 PortHamiltonianBenchmarkSystems,a30e1a9a-10b8-4bba-9e65-ab6e41f71348
+PortHamiltonianSystems,6ff9205f-2186-4c35-b9d7-b7843b877754
 PortMidi,42b16160-194f-40b3-8419-7a13c10fa643
 PortMidi_jll,6b227df9-c220-5195-838c-e1464939a66f
 Porta,fb2f1d7b-1de9-45a3-b106-388808110f78
@@ -10893,6 +10897,7 @@ TimeseriesTools,380cddd1-6ef2-46ca-b087-e7151fb095ff
 TimeseriesUtilities,31d49243-0742-49c1-b8d2-db113b74581e
 TimespanLogging,a526e669-04d3-4846-9525-c66122c55f63
 Timestamps,0123453a-27b6-4e80-93fe-c2c00e33fefb
+Timestamps64,bb4eac3f-01a0-4c2b-bd7e-ee6d71616039
 Timestream,ce82053c-fa70-4f37-af49-87ab44846bd9
 TimetableSolver,df459030-36d8-4de1-905a-e8bbf7c7dfd8
 TinnitusReconstructor,998763c9-5807-4081-8b95-f32419d2af94
