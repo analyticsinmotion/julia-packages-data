@@ -779,6 +779,7 @@ BcubeGmsh,8c8b3700-392b-4630-b974-b8b78831232a
 BcubeVTK,f7a61acb-f482-4505-b2eb-e9cadd76b6b4
 BeaData,acefaad2-17a4-5d8b-aa08-e18ef75dd0cf
 BeamTracking,8ef5c10a-4ca3-437f-8af5-b84d8af36df0
+BeamletOptics,c387492b-ffec-4e51-9a46-bd230226031c
 Beamlines,5bb90b03-0719-46b8-8ce4-1ef3afd3cd4b
 BeastUtils,af749cb1-4ea1-40dc-96cd-a9902a2c5721
 Beauty,e5fb2512-507e-11e9-3018-95af41067f06
@@ -2839,6 +2840,7 @@ EchoviewEcs,7cb56c3c-3875-5421-bd9a-4b97f0aadfe6
 EchoviewEvr,97003a88-0ad9-518a-a49a-13194a5ffd9e
 EclipsingBinaryStars,298f00ba-5fcf-566c-9100-f8b551e1d946
 EcoBase,a58aae7d-b440-5a11-b283-399458f99aac
+EcoNetPlot,cb759ccd-645c-4f60-9a03-02ab6c6b6960
 EcoSISTEM,ed2dc23b-ada4-5fdb-a26f-56368a14ad8f
 EcologicalNetworks,f03a62fe-f8ab-5b77-a061-bb599b765229
 EcologicalNetworksDynamics,2fd9189a-c387-4076-88b7-22b33b5a4388
@@ -3355,6 +3357,7 @@ Ferrite,c061ca5d-56c9-439f-9c0e-210fe06d3992
 FerriteGmsh,4f95f4f8-b27c-4ae5-9a39-ea55e634e36b
 FerriteInterfaceElements,76cf2c14-24ca-44b2-b86c-6046d3cfcf82
 FerriteMeshParser,0f8c756f-80dd-4a75-85c6-b0a5ab9d4620
+FerriteMultigrid,69a0a054-a29c-4d77-8818-cd7ec12cfcdc
 FerriteViz,59d0093e-b1f1-4fb7-ac85-ab57e45f39d9
 Fetch,bb354801-46f6-40b6-9c3d-d42d7a74c775
 FewBodyPhysics,dd57e2ab-7dae-448b-a136-57ab9eca4234
@@ -7182,6 +7185,7 @@ OPFLearn,426fd8f4-da10-4833-b320-d1e833f8a26f
 OPFSampler,ce3535a8-59a6-4c0a-83ac-3858a19dc5ad
 ORCA,47be7bcc-f1a6-5447-8b36-7eeeff7534fd
 ORC_jll,fb41591b-4dee-5dae-bf56-d83afd04fbc0
+ORTools,b7d69b34-a827-4671-8cfa-f7e1eec930c7
 ORToolsGenerated,6b269722-41d3-11ee-be56-0242ac120002
 ORTools_jll,717719f8-c30c-5086-8f3c-70cd6a1e3a46
 OSMMakie,76b6901f-8821-46bb-9129-841bc9cfe677
@@ -7466,9 +7470,11 @@ OrdinaryDiffEqSSPRK,669c94d9-1f4b-4b64-b377-1aa079aa2388
 OrdinaryDiffEqStabilizedIRK,e3e12d00-db14-5390-b879-ac3dd2ef6296
 OrdinaryDiffEqStabilizedRK,358294b1-0aab-51c3-aafe-ad5ab194a2ad
 OrdinaryDiffEqSymplecticRK,fa646aed-7ef9-47eb-84c4-9443fc8cbfa8
+OrdinaryDiffEqTaylorSeries,9c7f1690-dd92-42a3-8318-297ee24d8d39
 OrdinaryDiffEqTsit5,b1df2697-797e-41e3-8120-5422d3b24e4a
 OrdinaryDiffEqVerner,79d7bb75-1356-48c1-b8c0-6832512096c2
 Org,587fedb0-ad84-11e9-2bd6-d15ea4be1f9e
+OrionORM,4adc1610-4849-4c0a-9fc4-ca498589e63a
 OrnsteinZernike,51399321-c693-48c0-994d-05e3df0250f2
 OrthoMatchingPursuit,2ae2181e-4684-4b2c-a413-203f2dd831ec
 OrthogonalPolynomialsQuasi,aa41a628-2c43-45df-899b-83ab96621781
@@ -10716,6 +10722,7 @@ TensorPolynomialBases,f77b161d-e03a-5d68-b365-d5306aabeaa6
 TensorQEC,0500ac79-7fb5-4262-aaea-37bb1845d1ef
 TensorRT_jll,2eaff018-c6f9-5ddb-97b6-8b0d18888fbb
 TensorRefinement,a3b9d4e2-d0bd-4e25-82d9-b4a73f42a39d
+TensorRenormalizationGroups,742c4823-a45f-4b1c-bad3-1a5bdcda2a0b
 TensorRules,f4bef1b4-b92c-4d5f-a4ba-6d6989c7744d
 TensorToolbox,9c690861-8ade-587a-897e-15364bc6f718
 TensorTrainNumerics,304e70ee-b558-420e-aed5-de4d05b6ca2b
@@ -11515,6 +11522,7 @@ WaveOpticsPropagation,c4c7a1f9-3adc-4a73-843a-d378b6c86436
 WavePropBase,91c5bd54-65f5-4719-ae3b-9579edfc4a0b
 WaveSpec,908d4cf6-a6c0-449c-92e4-852c8f288332
 Waveforms,cb13b1c6-351e-5134-b3ad-d6a530956a82
+WaveguideModes,4195bfc8-baed-4655-b3ea-4cd766faaf06
 WaveguideQED,c4555495-0e8d-488d-8e6a-965ecefe9055
 Wavelets,29a6e085-ba6d-5f35-a997-948ac2efa89a
 WaveletsExt,8f464e1e-25db-479f-b0a5-b7680379e03f
