@@ -835,6 +835,7 @@ Bhaskara,0ff2d225-4740-5ba6-bff6-8e455aafa9c9
 BiBufferedStreams,0a7c0d76-3150-4455-b428-d5f420c13001
 BiCePS_jll,7196b6e2-84d2-5468-aff3-a0acff4d3b58
 BiGGReactions,0f8c7381-4745-4de4-ab54-b92c670edbdd
+BiGSTARS,55e6fa54-20b2-4a8e-ba84-e72db1c430e6
 BibInternal,2027ae74-3657-4b95-ae00-e2f7d55c3e64
 BibParser,13533e5b-e1c2-4e57-8cef-cac5e52f6474
 BibTeX,7b0aa2c9-049f-5cec-894a-2b6b781bb25e
@@ -8431,6 +8432,7 @@ PythonOT,3c485715-4278-42b2-9b5f-8f00e43c12ef
 PythonPlot,274fc56d-3b97-40fa-a1cd-1b4a50311bf9
 Python_jll,93d3a430-8e7c-50da-8e8d-3dfcfb3baf05
 QAOA,814bfb56-6688-4460-8fd4-bc1ff2cd6cd4
+QAlgebra,b9371e27-7e1d-48fa-b5f7-43d028413397
 QBase,e52e8ede-12bf-4731-8af7-b01f6064cb11
 QCDMeasurements,15719ebc-80aa-4a1c-a78b-278b460177d7
 QCDNUM,4acc4d78-9ad5-435b-99b1-7af0628e6e5b
@@ -8877,6 +8879,7 @@ RealPolyhedralHomotopy,0ea325ba-5c5f-496b-acec-8be67510f465
 RealPolynomialRoots,87be438c-38ae-47c4-9398-763eabe5c3be
 RealTimeAudioDiffEq,7a3f4937-0cad-4220-a144-0330815b2118
 RealTimeScheduling,f1524149-62f5-490d-8249-9bfac76a7111
+RealtimeMusicTheory,2f5b4ea4-0f24-4f3b-80d9-07c43c98ce5f
 Rebugger,ee283ea6-eecd-56e3-beb3-83eb4d3c31e9
 Recalls,30af7cf3-eb43-44c7-afa7-33725b72a81e
 RecipesBase,3cdcf5f2-1ef4-517c-9805-6587b60abb01
@@ -10585,6 +10588,7 @@ TORA,a6da6c0f-f153-4ec6-bf42-6dc0ab733f84
 TPLib,df2c65bb-145d-4e43-9df5-5660864f8cb3
 TPSAInterface,575459ea-959c-4603-9b15-d63fb6693033
 TRExMC,4c1474f5-d57d-4103-b4cd-bd216d071502
+TRSFiles,d4b2941c-f37a-4ec9-8241-9a5e52a0f7fd
 TSAnalysis,04d71284-fb40-11e9-15e5-dbbde6a47ab4
 TSFrames,9f90e835-9451-4aaa-bcb1-743a1b8d2f84
 TSML,198dc43e-9e51-5cd7-9d40-d9794d335912
