@@ -218,6 +218,7 @@ AffineMaps,2c83c9a8-abf5-4329-a0d7-deffaf474661
 AffineMotions,4fe253f5-c7a7-4e36-a4a1-b5bab8c98bb8
 AffineScaler,75005516-5893-409d-9e89-87dc6c6330eb
 AffyCelFiles,efc83544-1c47-49f8-8867-17a7f6cc0942
+Agama_jll,966baf2c-d1f1-5710-8d7e-4d538f29c110
 Agate,41889b7c-c35c-4f16-abd7-94b299d9fd29
 Agents,46ada45e-f475-11e8-01d0-f70cc89e6671
 AgentsExampleZoo,88acaeb2-2f63-4ada-bca2-2825d9da22ed
@@ -2874,6 +2875,7 @@ Einstein,090ec698-01a0-4de4-b9a9-b0520fa6fd58
 EinsteinToolkit_jll,4bc72436-6d1e-53e9-a681-d5a2ff310728
 Einsum,b7d42ee7-0b51-5a75-98ca-779d3107e4c0
 Eirene,9c0f25c4-2ca1-5870-89f6-52640788da1d
+Eiscor_jll,e668aba2-5e82-554e-99b5-a9684458d166
 Ekztazy,c8b112a7-7677-4d35-8651-7c5b5cba290e
 ElasticArrays,fdbdab4c-e67f-52f5-8c3f-e7b388dad3d4
 ElasticClusterManager,547eee1f-27c8-4193-bfd6-9e092c8e3331
@@ -5207,6 +5209,7 @@ Kanones,107500f9-53d4-4696-8485-0747242ad8bc
 Karnak,cd156443-31ad-4f6f-850f-a93ee5f75905
 KdbConnect,dbd8d13a-8743-44e2-950f-49a08588fccd
 KdotP,c8045c5a-940e-4537-a0b9-cab4a5eb5ca1
+Keccak,46f8cb0c-4e3a-418e-8a08-140a605d534d
 Keldysh,50f2bc7e-5fd7-11e9-13c7-85fb88b4f34f
 KeldyshED,675b6b9c-7c2f-11e9-3bf3-dfd4d61640f7
 Kelpie,1b112299-d6bc-44e2-912a-478f25731460
@@ -10995,6 +10998,7 @@ TrafficAssignment,735ffce8-66c7-5b61-a90f-89c46d1a79d5
 TrainRuns,e4541106-d44c-4e00-b50b-ecdf479fcf92
 TrainSpikingNet,834bac62-a31c-4194-8633-73b1b5df927e
 TrainingPhantoms,cd4f3286-b756-4d71-b99f-a4358d548556
+TraitInterfaces,228235be-7709-4868-9089-276e3dee9f94
 TraitSimulation,dec3038e-29bc-11e9-2207-9f3d5855a202
 TraitWrappers,ef569cd2-5787-430a-a8c5-986931a3f6a1
 TrajGWAS,9514c204-b736-47c9-8157-11c3e9e5ab30
