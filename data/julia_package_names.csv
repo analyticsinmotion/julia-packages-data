@@ -852,6 +852,7 @@ BigG,75185e45-e16e-4c90-beee-275c7fc4acba
 BigMacro,839f1b1b-eafa-4394-a1a1-3d47d8821c5e
 BigO,2ecab122-4940-479f-a518-03695d136e3f
 BigRationals,4b135b7f-1e8f-46e2-b4fa-ae0bd8ae44fd
+BigRiverJunbi,6a06b223-7d19-411a-858f-7a319f02fdfd
 BigRiverQTL,8f8ec94a-26d1-428c-aa0e-4e66223094bc
 BigRiverQTLPlots,042156b7-ffc6-4e52-80f3-70a9c31dd28f
 BigWig,9d649c22-cb6b-11e8-1fa9-f3896fced444
@@ -2561,6 +2562,7 @@ DiscretePOMP,51c0d67e-089d-4725-9e90-d9ba65989b17
 DiscretePersistentHomologyTransform,9598d6b2-89d7-11ea-0bed-b1104e2053b2
 DiscreteValueIteration,4b033969-44f6-5439-a48b-c11fa3648068
 DiscreteVoronoi,01fd5c3e-b3b7-45fb-9d19-e82518019796
+DiscretizeDistributions,1dbf0e27-43cd-4e03-8ecf-3f7be9d12b15
 Discretizers,6e83dbb3-75ca-525b-8ae2-3751f0dd50b4
 DiscriminativeCircuits,a7647aa2-9cec-401b-a794-defb9118933d
 DisjointCliqueCover,f7dc3c69-b0f0-46d7-a66a-b632855ee0cb
@@ -4023,6 +4025,7 @@ GeoInterfaceRecipes,0329782f-3d07-4b52-b9f6-d3137cf03c7a
 GeoJSON,61d90e0f-e114-555e-ac52-39dfb47a3ef9
 GeoLearning,90c4468e-a93e-43b4-8fb5-87d804bc629f
 GeoMakie,db073c08-6b98-4ee5-b6a4-5efafb3259c6
+GeoMakieArtifacts,c06dcbe2-c11f-4421-b8ce-2adf73295f27
 GeoMapping,855c05df-eed8-5362-a099-6b509f53b81a
 GeoMet,17f98db7-af68-4c95-97fe-c6749748e69a
 GeoParams,e018b62d-d9de-4a26-8697-af89c310ae38
@@ -8159,6 +8162,7 @@ PoreMatMod,2de0d7f0-0963-4438-8bc8-7e7ffe3dc69a
 PorousMaterials,68953c7c-a3c7-538e-83d3-73516288599e
 PortAudio,80ea8bcb-4634-5cb3-8ee8-a132660d1d2d
 PortHamiltonianBenchmarkSystems,a30e1a9a-10b8-4bba-9e65-ab6e41f71348
+PortHamiltonianModelReduction,b1e0afa7-a251-494f-bb10-70a9ac2e613c
 PortHamiltonianSystems,6ff9205f-2186-4c35-b9d7-b7843b877754
 PortMidi,42b16160-194f-40b3-8419-7a13c10fa643
 PortMidi_jll,6b227df9-c220-5195-838c-e1464939a66f
