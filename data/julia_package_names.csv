@@ -4902,6 +4902,7 @@ InteractiveGeospatial,9dbc1c15-08f7-42e2-915c-53d8f7c4cd8b
 InteractiveViz,d14badfc-0adb-4d57-980e-37858d990fa5
 InteratomicPotentials,a9efe35a-c65d-452d-b8a8-82646cd5cb04
 InterestRates,09453d48-b9e1-5bf0-a018-8d5c65f8cb56
+InterfaceFunctions,9f9138d1-22ea-4a5b-8917-3b6286796293
 Interfaces,85a1e053-f937-4924-92a5-1367d23b7b87
 InterferometricModels,b395d269-c2ec-4df6-b679-36919ad600ca
 InternalFluidFlow,a3f4ffcb-63ab-449f-b58f-50e21d5ccbd2
@@ -6743,6 +6744,7 @@ MultivariateChebyshev,c45826ba-8c1e-4a55-8f5e-a4fe57395672
 MultivariateCreativeTelescoping,a544615c-5478-485f-b703-83893a5a3b3b
 MultivariateDiscretization,dd9280a6-c536-421c-a236-ce8c2c5b1b8d
 MultivariateFunctions,54e48022-12d0-513b-b20d-e273c072c6db
+MultivariateMarkovChains,f6ee7e80-f154-4ab7-9ba1-93ac0b1bd6c8
 MultivariateMoments,f4abf1af-0426-5881-a0da-e2f168889b5e
 MultivariateOrthogonalPolynomials,4f6956fd-4f93-5457-9149-7bfc4b2ce06d
 MultivariatePolynomials,102ac46a-7ee4-5c85-9060-abc95bfdeaa3
