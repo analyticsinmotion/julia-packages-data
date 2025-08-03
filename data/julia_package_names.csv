@@ -853,6 +853,7 @@ BigMacro,839f1b1b-eafa-4394-a1a1-3d47d8821c5e
 BigO,2ecab122-4940-479f-a518-03695d136e3f
 BigRationals,4b135b7f-1e8f-46e2-b4fa-ae0bd8ae44fd
 BigRiverJunbi,6a06b223-7d19-411a-858f-7a319f02fdfd
+BigRiverMakie,2073ee19-d2a6-424f-ac95-ea3ed30aeccf
 BigRiverQTL,8f8ec94a-26d1-428c-aa0e-4e66223094bc
 BigRiverQTLPlots,042156b7-ffc6-4e52-80f3-70a9c31dd28f
 BigWig,9d649c22-cb6b-11e8-1fa9-f3896fced444
@@ -1456,6 +1457,7 @@ CellMetabolismBase,29f58b35-15e1-4d3c-99d7-eccaac145095
 CellSegmentation,bc04555c-6b3a-48e0-9330-69d76e9b444f
 CellularAutomata,878138dc-5b27-11ea-1a71-cb95d38d6b29
 CellularPotts,11b7dee7-cd95-48a5-a457-717aae94d0bd
+CensoredDistributions,b2eeebe4-5992-4301-9193-7ebc9f62c855
 CensusACS,5cdc1628-db7d-4f1a-9a42-d0831b0d3a5e
 CenteredRBMs,def70c09-f69f-4396-afd1-e8507a6dddbf
 CentralizedCaches,d1073d05-2d26-4019-b855-dfa0385fef5e
@@ -2322,6 +2324,7 @@ DateFormats,44557152-fe0a-4de1-8405-416d90313ce6
 DateSelectors,c900ad91-5c7c-41b8-bce1-46b0264fae1d
 DateShifting,7c3ad74f-ee21-4e60-a1ba-ecae6f0cff80
 DateTimes64,b342263e-b350-472a-b1a9-8dfd21b51589
+Davidson,0c603acf-41d5-40bf-a378-7dbbea0dae82
 DayCounts,44e31299-2c53-5a9b-9141-82aa45d7972f
 DbgMacro,d6ce5c67-b3b1-4855-8eb4-4ca27575037e
 Dbus_jll,ee1fde0b-3d02-5ea6-8484-8dfef6360eab
@@ -2967,6 +2970,7 @@ EnlilGrids,44994717-8eef-47f3-a7e0-6b313e1778f0
 Enlsip,d5306a6b-d590-428d-a53a-eb3bb2d36f2d
 EnsembleInversion,e03f8fd3-a2ff-47f5-ac97-ba7f0577c430
 EnsembleKalmanProcesses,aa8a2aa5-91d8-4396-bcef-d4f2ec43552d
+EntanglementDetection,5e5e84d8-5f53-4fe3-9037-c06c4de5d74e
 EntityComponentSystem,a8343a65-b356-5275-be17-d741438d126c
 EntroPlots,742586e2-2ccd-48a5-bc1c-31de6daa8fd7
 EntropicCone,46c19be6-bce2-539c-96b6-a48c64de3b10
@@ -8469,6 +8473,7 @@ QMCGenerators,fcae8fc2-2969-4f4b-b6c9-a95746d81969
 QMDDocTools,c50e25eb-ade4-4c96-a757-2a1fd62cbd8c
 QMDP,3aa3ecc9-5a5d-57c8-8188-3e47bd8068d2
 QML,2db162a6-7e43-52c3-8d84-290c1c42d82a
+QMLMakie,08f9cac3-3b11-4f1c-9d88-d0e81c500f64
 QMRIColors,2bec176e-9e8c-4764-a62f-295118d1ec05
 QMSimFiles,1e04daf1-5263-4298-8d88-2487c5ff7e2f
 QNaNs,c947b005-6f94-5690-8353-b90d48bfe02f
@@ -11983,6 +11988,7 @@ cuStateVec,92f7fd98-d22e-4c0d-85a8-6ade11b672fb
 cuTENSOR,011b41b2-24ef-40a8-b3eb-fa098493e9e1
 cuTensorNet,448d79b3-4b49-4e06-a5ea-00c62c0dc3db
 cufinufft_jll,d94e68af-94a2-5465-a03a-ccb69bb7181e
+cupynumeric_jll,2862d674-414d-5b0b-a494-b21f8deca547
 czmq_jll,bada3277-1da5-58a9-94c6-da212cd39369
 dSFMT_jll,05ff407c-b0c1-5878-9df8-858cc2e60c36
 datamash_jll,5e3497f2-6421-5a2b-b76c-5131171094e1
