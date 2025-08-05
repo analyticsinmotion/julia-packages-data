@@ -3056,6 +3056,7 @@ ExaAdmm,4d6a948c-1075-4240-a564-361a5d4e22a2
 ExaFMMt,add1291b-d076-47cc-8667-64576de04ee0
 ExaModels,1037b233-b668-4ce9-9b63-f9f681f55dd2
 ExaPF,0cf0e50c-a82e-488f-ac7e-41ffdff1b8aa
+ExaPowerIO,14903efe-9500-4d7f-a589-7ab7e15da6de
 ExaTron,28b18bf8-76f9-41ea-81fa-0f922810b349
 ExactConversions,9d710cfd-26d5-4b84-a0a4-2b62d6e9d5fb
 ExactConvolution,0d552887-2f53-4f11-9665-485c167a9a55
@@ -9255,6 +9256,7 @@ SDPSymmetryReduction,56ed78d6-6c87-4b01-a4f7-e143c302c7a0
 SDPT3,e33b2407-87ff-50a0-8b27-f0fe7855237d
 SDWBA,a56d74ad-8193-5df7-a216-96cccc48f97a
 SDeMo,3e5feb82-bcca-434d-9cd5-c11731a21467
+SDiagonalizability,addecc1e-711d-4b49-877e-3152f1574f63
 SEAL,bac81e26-86e4-4b48-8696-7d0406d5dbc1
 SEAL_jll,cdf55027-1209-57fc-8789-28745714751d
 SExpressions,eaa8e424-c5f6-11e8-1b3d-d576ba0eee97
@@ -9321,6 +9323,8 @@ SMTPClient,c35d69d1-b747-5018-a192-25bc5e63c83d
 SNAPDatasets,fc66bc1b-447b-53fc-8f09-bc9cfb0b0c10
 SNMRForward,7a571783-2426-4210-b64c-8cc94fde9200
 SNNModels,5fb03681-66ea-42c3-a459-1265ed30d607
+SNNPlots,1906bf50-7128-11ef-3209-891d16f9be9f
+SNNUtils,df079cdf-2344-43fe-90b5-fc41d8d26db7
 SNOW,105f6ee8-0889-46b1-9d4b-65e03cbc8f13
 SNaQ,c2bf7a07-44d2-4d11-b5e2-76dc5aa199d6
 SOCRATESSingleColumnForcings,efca6b66-9b98-11ed-1a32-7b7cdccd517a
@@ -10202,6 +10206,7 @@ StatPlots,60ddc479-9b66-56df-82fc-76a74619b69c
 StatProfilerHTML,a8a75453-ed82-57c9-9e16-4cd1196ecbf5
 StataCall,149ba50c-99c4-11e9-1e32-e960083e84dc
 StataDTAFiles,b8b3a5fb-3772-5a86-9e24-bf4afc28128a
+StateBins,9a95ff34-6502-4c8e-98bc-9434865e63ed
 StateCharts,bfc335c0-d564-425b-98aa-d5c699c8b7ab
 StateMachines,59420ebe-bdc3-4117-ac89-8393ca9fcf2c
 StateSignals,cc7ea9f4-611f-50b7-86a5-d62288be5013
@@ -11602,6 +11607,7 @@ WhittleLikelihoodInference,3fdf5847-2998-4bb9-885b-ec39b41f41a6
 Why,7f495793-cad1-50ff-b494-a17fbecc6ac4
 WhyNotEqual,e6125b7d-2298-432f-af45-a1235af9403e
 WiNDC,699cc7a2-9ea9-42f0-a823-bc8522533664
+WiNDCContainer,75ccf2c7-f350-4b24-b7dd-6f142b3d3146
 WiSARD,2b71b7a6-5a26-4a05-9b8d-679d5aa759d4
 WiSER,2ff19380-1883-49fc-9d10-450face6b90c
 Widgets,cc8bc4a8-27d6-5769-a93b-9d913e69aa62
@@ -11856,6 +11862,7 @@ Zalgo,5b351978-c8a9-11e9-2467-a1bfb30aea0b
 Zarr,0a941bbe-ad1d-11e8-39d9-ab76183a1d99
 ZarrDatasets,519a4cdf-1362-424a-9ea1-b1d782dbb24b
 Zauner,ce1149fb-49fa-4541-ae6c-62019ae07d40
+ZebraPuzzles,ea4507f1-c7b4-4539-82f8-989db771b95d
 Zellij_jll,f51964ae-9c2b-58f9-be08-f952495c30f4
 Zenith_jll,ab215d34-98c8-565c-96d8-6589c1ef91a8
 Zenoh,b742139f-8771-480b-a9b2-33222b45d29b
@@ -12308,6 +12315,7 @@ open62541_jll,de311183-6042-582f-9ed9-05a52085bec4
 openPMD,e4c73209-6c8c-4213-807b-38d671e094ab
 openPMD_api_jll,0cbd5639-4ed4-5caa-9af9-db1a1b49a12d
 openbabel_jll,deeba441-a6a4-5e65-99ae-21494d2aa7fd
+opencl_kernel_profiler_jll,a40818c2-62e6-5f58-9742-acd36e79783b
 openfhe_julia_int128_jll,328aa5c7-aa14-5b23-aa57-05fb7d04b830
 openfhe_julia_jll,e5e97983-1b8c-50fe-92b7-0e05c8c202e2
 opusfile_jll,4fb77979-f048-53ce-ae57-a45249826a33
@@ -12322,6 +12330,7 @@ patch_jll,c7bec4a6-5215-51fd-b0a3-64ceaaad3a34
 patchutils_jll,69275a5b-71b6-5a9c-a287-c8fd9491cd23
 pciutils_jll,ad59c579-8572-507f-ac8b-0f7a68c64b3d
 peco_jll,b89f85f3-45f8-5ea8-8223-9dfa39faf294
+perfetto_jll,a9cf55cc-512e-50a3-b9eb-1bf9889000f5
 picotool_jll,266ab589-d57d-568d-907f-a1cb33b240d5
 pigpiod_if2_jll,50515f5d-e8ff-5b26-ab2b-0473a017b18c
 pigz_jll,1bc43ea1-30af-5bc8-a9d4-c018457e6e3e
