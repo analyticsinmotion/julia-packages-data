@@ -7092,6 +7092,7 @@ NonlinearCrystals,a311efd2-96b4-40e8-a1fa-502ca2bf329b
 NonlinearEigenproblems,067cfa3b-fa88-53b2-a873-5b23b3a16e31
 NonlinearEquations,dcda4a48-b9f7-11e9-2d4a-7da573938c24
 NonlinearNormalForm,05e19671-dec8-4f15-984f-54eaa6ca64be
+NonlinearOptimizationTestFunctions,3180b13f-e8d1-40aa-806b-3e6ce7522c6b
 NonlinearProblemLibrary,b7050fa9-e91f-4b37-bcee-a89a063da141
 NonlinearSchrodinger,b3fbeaf7-5746-403c-a6b7-06939dc82746
 NonlinearSolve,8913a72c-1f9b-4ce2-8d82-65094dcecaec
@@ -9358,6 +9359,7 @@ SPIRV_LLVM_Translator_unified_jll,85f0d8ed-5b39-5caa-b1ae-7472de402361
 SPIRV_Tools_jll,6ac6d60f-d740-5983-97d7-a4482c0689f4
 SPPL,d4869578-49cb-4439-a9cc-e16ca03432c4
 SPRAL_jll,319450e9-13b8-58e8-aa9f-8fd1420848ab
+SPlit,6b22f1a1-5f68-5715-9b23-279ae752cb98
 SQLCipher,e3bbf2a3-a30c-4959-806c-295e8e13e4d8
 SQLCipher_jll,dc592094-f866-5418-b15b-f7542ad3543c
 SQLCollections,3934435e-e6e6-4fea-a5c0-3a716143d619
@@ -11351,6 +11353,7 @@ UserNSSandbox_jll,b88861f7-1d72-59dd-91e7-a8cc876a4984
 UsingMerge,b01ca8d2-7fff-4612-bd8c-d9d20281f780
 Usrsctp_jll,9f05be0d-5fa0-5d85-a018-f41a39aa9d88
 UtilityModels,bddc258c-9485-48da-848b-3e4c1ee8966c
+VASPseudopotentials,a8aa8eba-0278-4e3a-8f77-14d2f4143e9c
 VCDiff_jll,63be7be4-0e17-5266-a559-5ce1673933d5
 VCFTools,a620830f-fdd7-5ebc-8d26-3621ab35fbfe
 VDT_jll,474730fa-5ea9-5b8c-8629-63de62f23418
