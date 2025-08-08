@@ -1528,6 +1528,7 @@ CherenkovMediumBase,62ded331-ac74-4432-90fd-7fafc84e95f4
 Chess,717200cc-f167-4fd3-b4bf-b5e480529844
 Chevie,367f69f0-ca63-11e8-2372-438b29340c1b
 Chevrons,d9083b8b-98e7-4ee6-a2c7-6db47b61bf48
+ChipFiring,be096eff-6f16-4fe8-bf2d-b0d7a78a4be0
 ChipSort,06416c39-db7e-5258-b068-33480f0cdbbc
 Chipmunk_jll,d4d167ca-650b-5bdd-911d-0fc9b8119a40
 ChirpSignal,f60141a0-4cd3-11eb-3573-695a6f1942a1
@@ -1603,6 +1604,7 @@ Classes,1a9c1350-211b-5766-99cd-4544d885a0d1
 ClassicalCiphers,ecf26e93-935c-5e64-9b21-bc8ac81b4723
 ClassicalOrthogonalPolynomials,b30e2e7b-c4ee-47da-9d5f-2c5c27239acd
 Claude,a00ee857-659a-4bd1-adc3-7f1f48b9fe16
+ClaudeCodeSDK,38ea0fac-78ee-46bd-bc10-f52e7269b833
 ClausenFunctions,1cc96f36-ef02-40ef-a648-5e2c13df3076
 Clay_jll,eef8b2eb-50cb-54da-ad81-a1e64fa68590
 CleanUpPullRequestPreviews,06c59129-2005-40e8-8e6e-18d91e04568a
@@ -2535,6 +2537,7 @@ DimensionfulAngles,2d4b8d7a-02d9-40f9-9abe-9c695b77de0d
 Dimensionless,a24885ee-f44e-4313-a031-cb477fdea68a
 DingDingDing,3926c259-39ba-4d74-9c2f-25ff6470b8c3
 Dionysos,d92c97cf-b87d-42c1-a9c0-25df00b4d958
+DiplodocusCollisions,32d0d58a-4da0-4f8e-8b7e-c2816ac6e5cb
 DiracBilinears,ae7ec7fe-6a6e-422b-b650-b7e6d59ce0d8
 DiracNotation,e655511c-e992-5001-b8e2-2048e6aa15e9
 DirectConvolution,60a1edcd-6e1b-57a1-8cb7-ec83bf7a2d9a
@@ -6417,6 +6420,7 @@ MetidaStats,75cdad26-409a-4e43-8ad7-d54b4fa665a0
 Metis,2679e427-3c69-5b7f-982b-ece356f1e94b
 MetopDatasets,0c26954c-4046-4b98-a13c-f9377ca4b9b7
 Metrics,cb9f3049-315b-4f05-b90c-a8adaec4da78
+MetropolizedForestRecom,f1e60ccc-08a2-41db-b5d4-22e81ab96e15
 Mex,5e29dd5e-a72c-11e9-2bb7-cd1b1701caa7
 MibS_jll,118347d2-e127-56b9-9933-6abf9cc1adc1
 Mice,d4678d24-b338-4f96-a2c8-a66549d61c16
@@ -6560,6 +6564,7 @@ ModelingToolkit,961ee093-0014-501f-94e3-6117800e7a78
 ModelingToolkitDesigner,23d639d0-9462-4d1e-84fe-d700424865b8
 ModelingToolkitNeuralNets,f162e290-f571-43a6-83d9-22ecc16da15f
 ModelingToolkitStandardLibrary,16a59e39-deab-5bd0-87e4-056b12336739
+ModelingToolkitTolerances,cca81fe9-e5fd-44f6-ad29-5b4f39e14206
 Models,e6388cff-ecff-480c-9b53-83211bf7812a
 ModernGL,66fc600b-dfda-50eb-8b99-91cfa97b1301
 ModernGraphs,8af4c0f7-917f-4a35-b394-2c380533a41c
@@ -7863,6 +7868,7 @@ Pfapack_jll,36de11a4-635f-5b15-8378-93f477661e31
 Pgvector,ab7f0314-681e-439b-b2a8-1689834ece97
 PharmaceuticalClassification,c42eed22-7bfe-405f-8797-8b984d5f7563
 PhaseRec,694d4756-7efa-46c2-8f81-162496cbdea7
+PhaseSpaceDTFE,4bbf42c9-fe82-44eb-a825-ab877c23bdb8
 PhaseSpaceIO,de004529-e20a-5d30-89d8-7739140c50e5
 PhaseSpaceTools,0e21426a-da0a-11e8-1f13-43a2532b2fa8
 PhasedArray,26694ec9-1e1a-50ce-959e-f72fe0aa84a3
@@ -8562,6 +8568,7 @@ QuadraticAssignmentProblem,b5d43be9-2bc4-468f-88a1-8af1fa13b6e1
 QuadraticFormsMGHyp,6511778d-1a85-47c0-a398-81d74574b378
 QuadraticHamiltonians,3e6e0849-d9f8-4894-a942-ed0587079b8f
 QuadraticKalman,03de00d5-86b5-48ba-885c-e25084f99d9a
+QuadraticKnapsack,b9e79ec6-4db9-4008-adc0-7db78d24770c
 QuadraticModels,f468eda6-eac5-11e8-05a5-ff9e497bcd19
 QuadraticModelsCPLEX,a53098ac-c15a-4696-bee0-14caaca04665
 QuadraticModelsGurobi,b0275aa7-013b-42ad-9e10-dc5d6db0accb
