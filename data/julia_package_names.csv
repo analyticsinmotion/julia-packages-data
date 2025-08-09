@@ -4613,6 +4613,7 @@ Hyperspecialize,1711496e-389e-5c2f-a773-3b6147c29b08
 HypersurfaceRegions,6d1d4b64-24a0-4125-b8e7-5a4e0a5017ad
 HypertextLiteral,ac1192a8-f4b3-4bfe-ba22-af5b92cd3ab2
 HypertextTemplates,c7d46f9d-34c3-4420-bf57-257f25aec718
+Hypertransform,fc0ce2b4-e141-4471-8aec-392ceb78b612
 HypothesisTests,09f84164-cd44-5f33-b23f-e6b0d136a0d5
 IBMQClient,02860bad-daa6-4506-8736-4a3616c18085
 IBMQJulia,2f6fcadc-0512-4fc1-bf02-5bbdd7783505
@@ -9496,6 +9497,7 @@ SciMLBase,0bca4576-84f4-4d90-8ffe-ffa030f20462
 SciMLBenchmarks,31c91b34-3c75-11e9-0341-95557aab0344
 SciMLExpectations,afe9f18d-7609-4d0e-b7b7-af0cb72b8ea8
 SciMLJacobianOperators,19f34311-ddf3-4b8b-af20-060888a46c0e
+SciMLLogging,a6db7da4-7206-11f0-1eab-35f2a5dbe1d1
 SciMLNLSolve,e9a6253c-8580-4d32-9898-8661bb511710
 SciMLOperators,c0aeaf25-5076-4817-a8d5-81caf7dfa961
 SciMLPublic,431bcebd-1456-4ced-9d72-93c2757fff0b
@@ -11244,6 +11246,7 @@ USalign_jll,927da072-87df-5aff-817c-c070e1bdca98
 UTCDateTimes,0f7cfa37-7abf-4834-b969-a8aa512401c2
 UVITTools,bee8f34e-611d-499e-97b4-2f0d2901cb64
 Ueauty,02ec7d09-9c23-427e-9147-b12e6bb36e7e
+UkrainianLatin,d932fbc0-74b0-44ca-9a64-41f37a8ecec9
 UlamMethod,4cc20838-1966-48f0-823a-5def0ad5c24d
 UltraDark,1c8d022d-dfc0-4b41-80ab-3fc7e88cdfea
 UltraNest,6822f173-b0be-4018-9ee2-28bf56348d09
