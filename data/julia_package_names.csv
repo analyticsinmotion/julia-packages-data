@@ -2538,6 +2538,8 @@ Dimensionless,a24885ee-f44e-4313-a031-cb477fdea68a
 DingDingDing,3926c259-39ba-4d74-9c2f-25ff6470b8c3
 Dionysos,d92c97cf-b87d-42c1-a9c0-25df00b4d958
 DiplodocusCollisions,32d0d58a-4da0-4f8e-8b7e-c2816ac6e5cb
+DiplodocusPlots,e2feba3a-3769-4cd4-93ab-3db026c329dd
+DiplodocusTransport,f63b9913-7a9a-464d-82b9-3e1e536d6db0
 DiracBilinears,ae7ec7fe-6a6e-422b-b650-b7e6d59ce0d8
 DiracNotation,e655511c-e992-5001-b8e2-2048e6aa15e9
 DirectConvolution,60a1edcd-6e1b-57a1-8cb7-ec83bf7a2d9a
@@ -3039,6 +3041,7 @@ EulerLagrange,e4b6a126-98cc-486b-a68d-c3e5d57f8cc9
 EvalMetrics,251d5f9e-10c1-4699-ba24-e0ad168fa3e4
 EvaluationCF,5a7cd546-c751-11e8-3a71-83f58cf2d4e3
 EventEmitter,eed75e0f-2a47-456c-84f6-69ee3fe4bbf9
+EventNotifiers,de92ec2b-fb1f-40f8-8e84-3094df8dc533
 EventSimulation,bf752c2e-6b1c-53e3-a22f-e5bb209bd3f1
 EventStudyInteracts,f9322581-1cea-4fd6-9e8e-2ae6cc4618ce
 Events,3a5a026c-ea78-4100-92bd-8470dea0b587
@@ -4098,6 +4101,7 @@ GetGene,fa12694a-6dff-11e9-3f23-c5fa6b69506f
 Getopt,31df374a-5bce-54dc-914a-f687be069de8
 Gettext,a6aca261-61b0-5b33-a99a-e9c977ffa089
 GettextRuntime_jll,b0724c58-0f36-5564-988d-3bb0596ebc4a
+GettextTiny_jll,37e82e6c-0fe7-5636-990f-a992debc3586
 Gettext_jll,78b55507-aeef-58d4-861c-77aaff3498b1
 Ggplot2,5eb46db9-241e-4516-b2d9-6a99246a435a
 GhibliPalettes,90723813-cdbc-4127-ac5b-633cd2ebf9f7
@@ -5753,6 +5757,7 @@ LinearRegressionKit,e91d531d-6e51-44a8-96b7-a10d5d51daa3
 LinearSampling_jll,be43c337-7630-5e25-892b-702745a732dd
 LinearSegmentation,dc48124f-afd3-49fa-9962-2c9cdaf82bd1
 LinearSolve,7ed4a6bd-45f5-4d41-b270-4a48e9bafcae
+LinearSolveAutotune,67398393-80e8-4254-b7e4-1b9a36a3c5b6
 LinearSolveCUDA,0d26bed2-170e-468a-8415-1cfcbba6e180
 LinearSolvePardiso,a6722589-28b8-4472-944e-bde9ee6da670
 LinearTimeVaryingModelsBase,5e7a79f3-ee03-5374-bd42-db9a52b6e959
@@ -6641,6 +6646,7 @@ Monomials,272bfe72-f66c-432f-a94d-600f29493792
 MonotoneDecomposition,985e57c0-c0fb-4ac0-a7f6-0eae5cf96536
 MonotoneSplines,92812004-5f8d-4354-96af-0c8b7c0637d0
 MonotonicSplines,568f7cb4-8305-41bc-b90d-d32b39cc99d1
+MonteCarloCollisions,3af9cca3-6439-492f-bb75-d94037938865
 MonteCarloIntegration,4886b29c-78c9-11e9-0a6e-41e1f4161f7b
 MonteCarloMarkovKernels,258d96c3-0b0c-5644-b641-119ebad15d7d
 MonteCarloMeasurementUncertainty,0a594e34-94bc-4f62-947f-4b31ef19552b
@@ -7064,6 +7070,7 @@ NodeJS_16_jll,a4b94fbf-73f5-58ff-888d-48a8396e17f6
 NodeJS_18_jll,c1e1d063-8311-5f52-a749-c7b05e91ae37
 NodeJS_20_jll,c7aee132-11e1-519c-8219-0a43005e73c2
 NodeJS_22_jll,8fca9ca2-e7a1-5ccf-8c05-43be5a78664f
+NodeTree,2904b71e-4df0-4a82-a724-4bbee9184de7
 NodesAndModes,7aca2e03-f7e2-4192-9ec8-f4ca66d597fb
 Noise,81d43f40-5267-43b7-ae1c-8b967f377efa
 NoiseModels,15788e68-7bd7-41f2-9680-b6e1d80350af
@@ -8864,6 +8871,7 @@ Raylib,681baf3e-1d1e-48c9-b5e5-b1aea2d6d4d9
 Raylib_jll,f9cae4b5-603c-5a13-b73f-1dfe71482639
 RbfInterpolationTools,30ebf9c2-a709-4272-bf69-cc6d19405279
 Rclone_jll,d3707c4a-c138-5086-90bb-c65de4e50315
+ReAnimation,ed54f85f-91e3-4912-9e4a-a43af611f8a9
 ReSHOP,97740bd8-9665-555f-bcf8-31e31065c979
 ReSHOP_jll,b1e335f6-4372-40fd-9431-5a5c4704c04b
 ReTest,e0db7c4e-2690-44b9-bad6-7687da720f89
@@ -11564,6 +11572,7 @@ Watershed,adaf3d07-42b2-577a-8487-f34ffa1a67e4
 WatershedParcellation,d5eb8130-0e6d-4b05-a476-6219b4bda902
 WaveFD,44f9e87b-acd6-44e6-b5b0-e1db9a6b2dd4
 WaveFD_jll,c8b78e2a-5255-5058-b631-96af8a7e9abf
+WaveFlow,d8840e3d-a7fc-463d-bc34-4e391df193a6
 WaveOperators,8a8a931e-bb7e-411d-b5ad-3690531b5574
 WaveOpticsPropagation,c4c7a1f9-3adc-4a73-843a-d378b6c86436
 WavePropBase,91c5bd54-65f5-4719-ae3b-9579edfc4a0b
