@@ -9501,6 +9501,7 @@ Schistoxpkg,ee8521ae-8f6d-4bf5-8f15-d671735ac7b0
 Schrute,61f9b78f-36d5-406c-bf21-cf8c30e00dbe
 SchumakerSpline,65e68595-3a03-5ff5-a6a2-f05fa774f32e
 SchwarzChristoffel,6e93f119-a087-51f0-a155-b73ce4943121
+SciBmad,7bf6e793-a2ec-421f-8700-d1465381ee80
 SciMLBase,0bca4576-84f4-4d90-8ffe-ffa030f20462
 SciMLBenchmarks,31c91b34-3c75-11e9-0341-95557aab0344
 SciMLExpectations,afe9f18d-7609-4d0e-b7b7-af0cb72b8ea8
@@ -10027,6 +10028,7 @@ SparseExtra,9b3c4d32-3d7d-4a87-a5c7-b3f87cf9d22b
 SparseGaussianProcesses,48e2ed6f-953e-42f9-a56e-74c660f20e0a
 SparseGridQuadrature,783fc400-e4cb-4fe0-842f-3d091e33b2c9
 SparseGrids,bafbe729-afc6-5148-bb4f-226bf3d46895
+SparseGridsKit,979cd4e9-88b3-4541-89ed-3fc35161e54f
 SparseIR,4fe2279e-80f0-4adb-8463-ee114ff56b7d
 SparseInverseSubset,dc90abb0-5640-4711-901d-7e5b23a2fada
 SparseKmeansFeatureRanking,a6138be3-5d3e-4f3e-9009-7e37efc59f36
