@@ -2179,6 +2179,7 @@ DEDataArrays,754358af-613d-5f8d-9788-280bf1605d4c
 DEMetropolis,b4be8cd2-ef9b-406c-8da0-f1f18fb2b05e
 DFControl,1e31e15d-4957-550d-a244-318eced754ae
 DFOLS,0dc4ae03-94be-5b30-bb99-4e20affbc5f0
+DFOTrustRegion,9c8d5c2c-3c1a-4b4e-9c0d-6c2b9d6b9e1f
 DFTK,acf6eb54-70d9-11e9-0013-234b7a5f5337
 DFTforge,bdfbc6b8-a7f8-11e8-26c1-51ecc9f04035
 DFWannier,5e267647-ebb4-5b7d-bc28-1d3eda37ab19
@@ -4799,6 +4800,7 @@ InPhyNet,7d272db0-e1ce-47ab-9b64-d0002ca9962f
 InPlace,12a7aed9-f4ee-5e21-a57e-4f63a8148421
 InboundsArrays,fb0a3009-a0ba-48c7-b828-2efdeaae8962
 IncGammaBeta,5087d2c0-5ad2-51de-b1ef-eaf82f0743fd
+IncSignFeas,f97a4e46-c504-430b-95a5-8a62ba574f60
 IncompleteLU,40713840-3770-5561-ab4c-a76e7d0d7895
 IncompressibleNavierStokes,5e318141-6589-402b-868d-77d7df8c442e
 IncrementalInference,904591bb-b899-562f-9e6f-b8df64c7d480
@@ -5259,6 +5261,7 @@ KeyValueStores,99b27216-9b37-4bb8-ad19-60d6e7774266
 KeyboardDriven,d6b73c45-a735-4b19-932b-179aebda8fdc
 KeyedDistributions,2576fb08-064d-4cab-b15d-8dda7fcb9a6d
 KeyedFrames,ddd84059-9b64-5d1b-85eb-da48df743e32
+KeyedSets,8f975abe-a56e-4aef-bda8-ee7f6c5b55ee
 Keyring,50ea2a6d-d012-47d2-ba52-47aa164fcf80
 Keyutils_jll,c2be6516-4eb7-57db-a4a4-4d4eb801fdbe
 KeywordArgumentExtraction,45533465-3150-2073-4772-41774b207255
@@ -5556,6 +5559,7 @@ Lebedev,c5712dd9-2571-4e23-b661-b4a261421493
 Lectionary,6244d477-9cf0-4e07-8f6b-f8ee26bc0292
 LeftChildRightSiblingTrees,1d6d02ad-be62-4b6b-8a6d-2f90e265016e
 LegacyStrings,1b4a561d-cfcb-5daf-8433-43fcf8b4bea3
+LegatePreferences,8028f36a-2b64-49e9-aa04-2d0933fd2ed9
 LegendrePolynomials,3db4a2ba-fc88-11e8-3e01-49c72059a882
 LegibleLambdas,f1f30506-32fe-5131-bd72-7c197988f9e5
 Legolas,741b9549-f6ed-4911-9fbf-4a1c0c97f0cd
@@ -9777,6 +9781,7 @@ SimpleLooper,ff33fe5b-d8e3-4cbd-8bd9-3d2408ff8cab
 SimpleMatch,a3ae8450-d22f-11e9-3fe0-77240e25996f
 SimpleMock,a896ed2c-15a5-4479-b61d-a0e88e2a1d25
 SimpleNonlinearSolve,727e6d20-b764-4bd8-a329-72de5adea6c7
+SimpleNorm,ed573fae-7fee-4d61-b037-fdc8e83b28d4
 SimplePDHG,bd3c4b4f-113e-4e9f-b976-6f68b19c842b
 SimplePadics,2edc7d5a-420c-455a-9f50-96c88fa4f765
 SimplePartitions,ec83eff0-a5b5-5643-ae32-5cbf6eedec9d
@@ -12327,6 +12332,7 @@ nv_codec_headers_jll,5b052a42-cdd7-5a33-b9ba-fea45e46860b
 object_store_ffi_jll,0e112785-0821-598c-8835-9f07837e8d7b
 obstack_jll,c88a4935-d25e-5644-aacc-5db6f1b8ef79
 ocl_icd_jll,43088459-b9e4-5d54-8487-0befc54bcdc8
+odrpack_jll,d4b606b2-00e0-534d-b821-fa459008cf27
 oneAPI,8f75cd03-7ff8-4ecb-9b8f-daf728133b1b
 oneAPIKernels,3b98bdbd-c5fb-40e4-a3b9-3b59ff234f62
 oneAPI_Level_Zero_Headers_jll,f4bc562b-d309-54f8-9efb-476e56f0410d
