@@ -1546,6 +1546,7 @@ ChromeProfileFormat,b19f0eae-10f4-4ff0-9df2-b48cd85f6b2e
 Chron,68885b1f-77b5-52a7-b2e7-6a8014c56b98
 Chuffed,a105ee56-0da9-4c5a-a151-cc7e299d31db
 Chuffed_jll,77125aae-c893-5498-99e3-e30470bfa328
+ChunkCodecBitshuffle,1d859bbf-6282-4c80-a370-34c59bf7ec11
 ChunkCodecCore,0b6fb165-00bc-4d37-ab8b-79f91016dbe1
 ChunkCodecLibAec,50eb285c-f72d-40fd-bb37-8ab277ca8a2c
 ChunkCodecLibBlosc,c6a955be-ab7f-4fbb-b38f-caf93db6b928
@@ -7268,6 +7269,7 @@ OceanWaveSpectralFitting,a44e4c57-a566-426a-9563-b0c20c24dda1
 Oceananigans,9e8cae18-63c1-5223-a75c-80ca9d6e9a09
 OceanographyCruises,32ce50af-5875-4c4d-b676-f166988c519c
 Oceanostics,d0ccf422-c8fb-49b5-a76d-74acdde946ac
+OctaveH5Reader,a7f2c31c-968a-41f8-b289-3742aa14d81d
 Octave_jll,64f2a4eb-bfb0-58c4-a645-9e6f61b41e29
 Octavian,6fd5a793-0b7e-452c-907f-f8bfe9c57db4
 Octo,16905944-f982-529b-abb2-b839f98f160b
@@ -12472,6 +12474,7 @@ tree_sitter_javascript_jll,ca45b743-11fc-5578-b74a-7528860c0bda
 tree_sitter_jll,695101d5-1b81-5434-9529-70430e482717
 tree_sitter_json_jll,7a1ad169-5d6d-5d19-843c-e04c00abb03b
 tree_sitter_julia_jll,52be201e-a5e9-5cfe-8bf2-2dc4b062171c
+tree_sitter_modelica_jll,be4360af-1d55-5d16-a27b-51516c589496
 tree_sitter_ocaml_jll,58c1feab-41fe-5716-9e27-932daa5b6f35
 tree_sitter_php_jll,1d2f066d-44b9-5d42-b96c-230d176e2df5
 tree_sitter_python_jll,88db161d-10c7-51e6-aa56-e32ecf738a46
