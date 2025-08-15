@@ -1227,6 +1227,7 @@ CMake,631607c0-34d2-5d66-819e-eb0f9aa2061a
 CMakeWrapper,d5fb7624-851a-54ee-a528-d3f3bac0b4a0
 CMake_jll,3f4e10e2-61f2-5801-8945-23b9d642d0e6
 CNNSeq2exp,ca0eaa81-961d-4b24-843c-8575ada746de
+CNPreferences,3e078157-ea10-49d5-bf32-908f777cd46f
 COBRA,58298e0b-d05c-52ec-a210-0694647ebfc7
 COBREXA,babc4406-5200-4a30-9033-bf5ae714c842
 COBS,51d40088-776c-571e-837e-515b83a6b6e6
@@ -7505,6 +7506,7 @@ OrdinaryDiffEqQPRK,04162be5-8125-4266-98ed-640baecc6514
 OrdinaryDiffEqRKN,af6ede74-add8-4cfd-b1df-9a4dbb109d7a
 OrdinaryDiffEqRosenbrock,43230ef6-c299-4910-a778-202eb28ce4ce
 OrdinaryDiffEqSDIRK,2d112036-d095-4a1e-ab9a-08536f3ecdbf
+OrdinaryDiffEqSIMDRK,dc97f408-7a72-40e4-9b0d-228a53b292f8
 OrdinaryDiffEqSSPRK,669c94d9-1f4b-4b64-b377-1aa079aa2388
 OrdinaryDiffEqStabilizedIRK,e3e12d00-db14-5390-b879-ac3dd2ef6296
 OrdinaryDiffEqStabilizedRK,358294b1-0aab-51c3-aafe-ad5ab194a2ad
@@ -9298,6 +9300,7 @@ SHOT_jll,c1ab834c-c4a5-50f5-9156-8f0fe7758b0e
 SHTOOLS,c916fbc8-b869-4f3a-86b1-58538899335e
 SHTOOLS_jll,ff580fc6-ede1-5b7e-942f-684e38381daf
 SHTns,5dc4ea12-f621-4038-8458-a22eae100703
+SHTnsKit,1b9d0af0-2e90-4fb0-9eae-4a2e2cdf5320
 SHTns_jll,daf09cc5-9ab3-509e-9618-0b89086eb825
 SIAMFANLEquations,084e46ad-d928-497d-ad5e-07fa361a48c4
 SIAN,cf7bdac0-b945-4905-b5ad-bc3f1a757483
@@ -11337,6 +11340,7 @@ UnitfulCosmo,961331e1-62bb-46d9-b9e3-f058129f1391
 UnitfulCurrency,f5cc5b76-f814-11e9-291c-a1ea2b8c31c6
 UnitfulData,479269fd-87c4-43d6-a395-02aad47d928b
 UnitfulEquivalences,da9c4bc3-91c8-4f02-8a40-6b990d2a7e0c
+UnitfulGaussian,203183ea-d3ea-452b-8588-590cbae10604
 UnitfulIntegration,6043864f-155a-5464-b5be-64e090a46784
 UnitfulLatexify,45397f5d-5981-4c77-b2b3-fc36d6e9b728
 UnitfulLinearAlgebra,c14bd059-d406-4571-8f61-9bd20e53c30b
