@@ -1030,6 +1030,7 @@ BlsData,bdc3b988-716f-514a-9703-6a7af59ca400
 BlueNoise,9ae74011-d0f3-412c-a047-ea779e11a931
 BlueZ_jll,471b5b61-da80-5748-8755-67d5084d21f2
 Blueprints,0e25da23-48ae-47a7-b185-c5bd5c070cab
+BmlipTeachingTools,656a7065-6f73-6c65-7465-6e646e617262
 BoardGameGeek,57fe6dd9-21bb-41a8-84a4-b199e28a0641
 Bobby,bd34264e-e812-11e8-1ee8-bfb20fea2fb4
 Boids,d31cee86-d6f0-47a3-813b-bb8537950420
@@ -7196,6 +7197,7 @@ ODEInterface_jll,c771fb93-2439-5ece-a3b3-58fecce82101
 ODEProblemLibrary,fdc4e326-1af4-4b90-96e7-779fcce2daa5
 ODINN,c36d5296-eba1-40be-a153-0a8fa632a659
 ODMXMLTools,2456a17b-6ca2-4f51-9342-f0287e829718
+ODSFiles,7b1bdcfb-ac25-445c-8368-46c9637457c8
 OHDSICohortExpressions,b1469e29-13af-4897-a4a9-3c363a260582
 OIFITS,53eb397e-dec1-5dcf-8dc9-2db916067267
 OILMMs,42abab5c-8093-4643-9324-a21c2f6fbe28
@@ -12116,6 +12118,7 @@ hub_jll,1414f103-7607-5802-8977-fcefe8d49cb7
 hyper_jll,a61b6c3d-25e5-5e83-9f29-3d6b98db101c
 hyperfine_jll,1b7234aa-9e17-5ce8-8dba-9d19aeb449eb
 iODBC_jll,80337aba-e645-5151-a517-44b13a626b79
+iceberg_rust_ffi_jll,6bd5c94f-693c-53e3-983d-a09fad412f22
 igraph_jll,4d841945-e0c2-5143-9479-18e4f0102556
 iperf_jll,c3111fcb-6a66-54cb-a6df-fd652d9c82a2
 ipx_jll,b964385b-8358-5f44-856b-d218fe69d290
