@@ -3387,6 +3387,7 @@ FeynmanDiagram,e424a512-dbd9-41ff-9883-094748823e72
 FeynmanKacParticleFilters,b43f8e06-e683-11e8-294f-8d3ef32cb08c
 FiberNlse,21c1a3e3-8543-4069-a1c4-5ed3e2bf6e2f
 Fibers,79c5424f-e3fe-4f6a-a484-e0e793a8858c
+FibonacciChain,1d4145e4-32a1-4f27-ab5f-4bf470d9d7e4
 Fides,18b51ec4-043b-11f0-1953-6f1d11d509fa
 FieldAlgebra,0b62d163-fd1d-4060-a953-4385d03545e2
 FieldConstants,73d362c4-b7ec-495f-a538-f22f12d4d8ae
@@ -10025,6 +10026,7 @@ SpaceDataModel,0b37b92c-f0c5-4a52-bd5c-390dec20857c
 SpaceIndices,5a540a4e-639f-452a-b107-23ea09ed4d36
 SpaceInvaders,27459e48-f83e-40a1-9b04-5e43823e0701
 SpaceLiDAR,29bf0bfc-420f-4fa5-b441-811fd9e6e11d
+SpacePhysicsMakie,0c28ffd8-ae30-4a56-b2e4-f8332c621ad2
 SpaceTimeFields,0af78db0-3b7c-4df8-88bd-686b7cc5245d
 Spacey,6fa23216-6d9f-473e-ad34-00be7be2628b
 SpanningSupernets,c92b83c4-19af-4bf9-9c50-c65f2b7803f9
@@ -10335,6 +10337,7 @@ StippleTable,5bb4b094-0818-496d-ae94-fd777e10e8ba
 StippleTabs,29f11006-3202-4091-a17b-0a26282d76dd
 StippleTypedArrays,304e07c4-4ffc-4adf-87bc-5a9afdf39ded
 StippleUI,a3c5d34a-b254-4859-a8fa-b86abb7e84a3
+StippleUsers,fc25ca13-2340-47d7-8ff6-e6adb00fe34b
 StirredReactor,0f306737-e494-4d62-9475-91bb092c0e67
 StitchBindings,98c25cc8-eb50-4420-96bf-d3053e46f68d
 StochDynamicProgramming,f6024387-75e5-5fdf-b095-327b05c0905f
