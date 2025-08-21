@@ -2542,6 +2542,7 @@ DimensionfulAngles,2d4b8d7a-02d9-40f9-9abe-9c695b77de0d
 Dimensionless,a24885ee-f44e-4313-a031-cb477fdea68a
 DingDingDing,3926c259-39ba-4d74-9c2f-25ff6470b8c3
 Dionysos,d92c97cf-b87d-42c1-a9c0-25df00b4d958
+Diplodocus,792d114c-f8c3-4b81-9580-cc03468a5b58
 DiplodocusCollisions,32d0d58a-4da0-4f8e-8b7e-c2816ac6e5cb
 DiplodocusPlots,e2feba3a-3769-4cd4-93ab-3db026c329dd
 DiplodocusTransport,f63b9913-7a9a-464d-82b9-3e1e536d6db0
@@ -6119,6 +6120,7 @@ MUSCLE_jll,0d2b832c-22e5-5080-b34f-49cc6141c4c5
 MXNet,a7949054-b901-59c6-b8e3-7238c29bf7f0
 MacOSIOReport,27799fc1-e272-4181-9793-a9e1fcba685b
 MackeyGlass,5eb54613-e1e4-5bb3-a6bc-ad608a6b2204
+MacroEnergy,260b7737-bf0e-4e84-9335-3af14438b1f5
 MacroEnergyScaling,824dc6dc-8db5-4e55-923f-6cabbd6cfcd5
 MacroEnergySolvers,466a4f75-6c9c-4ef2-97df-f5f43ac00c23
 MacroEnergySystemsScaling,e07ba8b4-499e-4f54-a885-af58260c741f
@@ -11019,6 +11021,7 @@ ToolipsSVG,8ae86ec9-919d-4ece-9a6d-09b7d28dae11
 ToolipsServables,bf3a9e68-ca66-4981-8178-9d71c4f8abaa
 ToolipsSession,2fe55384-55bc-4df3-9d59-c817d405cd05
 ToolipsUDP,c24f5779-9d3b-4059-90d7-a34104ea6889
+ToolipsUploader,8d58c116-97a2-4dce-9816-d8d464dcb6e5
 TopOpt,53a1e1a5-51bb-58a9-8a02-02056cc81109
 TopOptMakie,e9c7d871-bed6-4650-ae23-a24e464b8b55
 TopOptProblems,27704a7e-a4df-40bc-951d-d074625df1c8
@@ -12037,6 +12040,7 @@ cppcheck_jll,74123790-a849-591a-9c73-46a70652358a
 crun_jll,aef68bef-9b3f-58c3-affd-5589e119eed3
 cryptopp_jll,9ced465f-3d53-56cd-9803-9d1649b5e965
 cuDNN,02a925ec-e4fe-4b08-9a7e-0d78e3d38ccd
+cuOpt,29a73d17-8276-40b7-9ffb-d89e58023643
 cuQuantum_jll,b75408ef-6fdf-5d74-b65a-7df000ad18e6
 cuStateVec,92f7fd98-d22e-4c0d-85a8-6ade11b672fb
 cuTENSOR,011b41b2-24ef-40a8-b3eb-fa098493e9e1
