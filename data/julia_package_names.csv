@@ -1104,6 +1104,7 @@ Bravais,ada6cbde-b013-4edf-aa94-f6abe8bd6e6b
 BraveNewAlgorithm,62e8e4ba-3e3d-40af-bbe6-192e07c2d347
 BrazilCentralBank,1db8e8ca-f8ef-4fae-b3f5-ea2940ece087
 BrazilFinancialData,83903589-8fc8-4699-b7ad-cfd56ee128ec
+Breakers,e52b5ea0-8122-4946-b8e9-9981f9d15727
 Bridge,2d3116d5-4b8f-5680-861c-71f149790274
 BridgeDiffEq,1aa9af3a-2424-508f-bb7e-0626de155470
 BridgeLandmarks,83b8d07e-fbc4-11e9-24cb-23d125ee72bd
@@ -1455,6 +1456,7 @@ CellBasedModels,388cb286-f2b1-4654-a3bb-2e137a39c658
 CellListMap,69e1c6dd-3888-40e6-b3c8-31ac5f578864
 CellLists,b6871879-622e-446c-84f2-629b119ba541
 CellMLToolkit,03cb29e0-1ef4-4721-aa24-cf58a006576f
+CellMetabolism,d7c5e2dd-9163-4219-82bc-37cddd708ca9
 CellMetabolismBase,29f58b35-15e1-4d3c-99d7-eccaac145095
 CellSegmentation,bc04555c-6b3a-48e0-9330-69d76e9b444f
 CellularAutomata,878138dc-5b27-11ea-1a71-cb95d38d6b29
@@ -2838,6 +2840,7 @@ EasyConfig,acab07b0-f158-46d4-8913-50acef6d41fe
 EasyCurl,5dc68c43-2cae-45c1-9c9f-30d6e2b9e002
 EasyFFTs,08be435b-48e7-4090-a646-9e3615ae1968
 EasyFit,fde71243-0cda-4261-b7c7-4845bd106b21
+EasyHybrid,61bb816a-e6af-4913-ab9e-91bff2e122e3
 EasyJobs,66d786ec-6e9c-4d5d-a8f6-aa4f8d7350fb
 EasyJobsBase,db8ca866-b61f-4bd1-a9b9-75c107d645d4
 EasyML,807c15e4-954b-4072-b0d2-8db75ef7308a
@@ -3419,6 +3422,7 @@ FillArrays,1a297f60-69ca-5386-bcde-b61e274b549b
 FillOutliers,36498ab6-316f-4d40-82fe-0951719b46b4
 FilterHelpers,d8f44d74-4a63-4059-add9-16c5740a0809
 FilteredGroupbyMacro,d46d16aa-1548-45e6-bb37-c0a3431c6626
+Fimbul,cac51d78-27de-4708-bd2b-bd13a82f652b
 FinEtools,91bb5406-6c9a-523d-811d-0644c4229550
 FinEtoolsAcoustics,72171760-8bdd-11e9-0dbf-b3b512e82515
 FinEtoolsDDMethods,093fdad3-4fce-4574-aa49-c2a24de4f00d
@@ -5716,6 +5720,7 @@ LightenQP,732b1220-b3b1-47df-92b9-9aafce73c71b
 Lighthouse,ac2c24cd-07f0-4848-96b2-1b82c3ea0e59
 LighthouseFlux,56a5d6c5-c9a8-4db3-ae3d-7c3fdb50c563
 LightweightCharts,d6998af1-87ca-4e7f-83d4-864c79a249fa
+LightweightStats,6e4b0b68-1f2b-4a7e-8f0e-d3e9f3d5c8a1
 LiiBRA,a5b28938-1935-4481-b801-30e5c8ed4e83
 LikelihoodProfiler,93acb638-a083-5915-8dce-d129bc6a3f59
 Lilith,94c2ca8e-d4e4-11e9-02ac-43cfcaaaed17
@@ -7303,6 +7308,7 @@ Olive,724ecaf6-c7a0-4c22-b37e-0bb7b4193da8
 OliveDocBrowser,730a473e-e451-46cc-9004-d443de66d173
 OliveHighlighters,f769160f-f39a-4920-b1de-ba699e2d8893
 OliveImages,d5c9dd0d-5678-4538-8542-c68b20ea893d
+OliveMarkdown,e20f13e9-ec62-4716-8935-0d6a9c8994c4
 OlivePython,723e633f-9a76-4329-b2d1-0431e20a66c6
 Omega,1af16e33-887a-59b3-8344-18f1671b3ade
 OmegaCore,84d23798-d00f-4e9b-a82e-be69778c030a
@@ -8548,6 +8554,7 @@ Qaintellect,0a7fc590-1c99-4bf9-b5a7-8c116fa99d16
 Qaintessent,9e6618a4-6605-11ea-2880-e931cf774ea8
 Qaintmodels,ab7059c2-a49a-4c6e-9904-a72a0109a3ff
 Qaylla,160ec2fe-adfa-420e-809b-15ae23db4a01
+Qdrant_jll,49d5a0a8-0cca-57b3-8548-a2cd8c16dcd0
 Qecsim,e6c2bad3-a74c-45bb-aaa0-aff4e9ffa0d7
 Qemu_jll,72aeabae-b714-56e8-bb55-1d7ed6f48f02
 Qemu_static_jll,969c3ef0-f950-5ada-826d-ee9b7b636380
