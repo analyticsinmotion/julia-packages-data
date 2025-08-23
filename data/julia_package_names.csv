@@ -2001,6 +2001,7 @@ CoolProp_jll,3351c21f-4feb-5f29-afb9-f4fcb0e27549
 CooperativeGames,4bb2c6fa-c716-443c-bd78-f2a2f3c4e880
 CoordGridTransforms,1cf1ec0c-22f7-4062-925b-8db09db48fc3
 CoordRefSystems,b46f11dc-f210-4604-bfba-323c1ec968cb
+CoordinateBisection,fbbb2451-6dde-4807-9c10-ea24ace8c95b
 CoordinateConventions,7204ce3a-f536-43d2-be4a-fbed74e90d86
 CoordinateConverterGK,d77a50d3-17ea-48e4-bb1c-35f220bfae06
 CoordinateDescent,c00ed354-b9be-54b8-8a23-c5ac771bc43a
@@ -3591,6 +3592,7 @@ ForTheBadge,64e55fb5-fece-45e4-9f07-6b725a6cb483
 ForceImport,9dda63f9-cce7-5873-89fa-eccbb2fffcde
 Forecast,6efb3b9f-b065-4dd1-b1a5-fac2350e161b
 ForecastAccuracy,b9d94c12-295a-11ea-066b-bff6e5bc6a33
+ForecastBaselines,d939df8b-32bd-4754-9006-1ae460420eb6
 ForecastData,97bfbf95-b26f-4f60-9525-b5a468fedbf5
 ForecastEval,c08c26e9-7d88-5404-9cd5-c0fa6a8b90ba
 ForecastPlots,95c0ec29-a3eb-434e-bd76-d289ebf6f18a
@@ -7305,6 +7307,7 @@ OhMyThreads,67456a42-1dca-4109-a031-0a68de7e3ad5
 OkFiles,b25a35d4-863d-483c-9fa1-95480bd075d2
 OktaJWTVerifier,4bff0fe4-4ead-499c-9e50-e12c47db005b
 Olive,724ecaf6-c7a0-4c22-b37e-0bb7b4193da8
+OliveAutoComplete,b9312bd6-fe06-412b-9215-2c85cf0180df
 OliveDocBrowser,730a473e-e451-46cc-9004-d443de66d173
 OliveHighlighters,f769160f-f39a-4920-b1de-ba699e2d8893
 OliveImages,d5c9dd0d-5678-4538-8542-c68b20ea893d
