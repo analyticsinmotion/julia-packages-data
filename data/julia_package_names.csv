@@ -3192,6 +3192,7 @@ FEMBeam,962f5c4a-ca9e-56d3-a659-14f0d9baaf78
 FEMMaterials,0c6c1f6c-65b6-54d6-9cff-6b64003af638
 FEMQuad,be8e8821-3f6f-54c2-987c-d2773c3a52cb
 FEMSparse,dcdf9ed5-39e7-592a-90de-966c054b7718
+FEMfunctions,289e5444-23cd-48ba-96e1-34c60879f4f4
 FEniCS,186dfeec-b415-5c13-8e76-5fbf19f56f9b
 FFAST,10506e09-08cd-5f0b-aee5-631de1bcc925
 FFLAS_FFPACK_jll,dfc7ee4e-f599-5c37-83b9-6493130c4cf0
@@ -3860,6 +3861,7 @@ GRQt5_jll,be234c1c-6cf4-5063-8676-3229d64ce17a
 GRQt6_jll,03d9041e-b4d2-508d-8c1c-d30ef48c1ce0
 GRUtils,0337cf30-a0fd-11e9-31db-a79914c9d7ac
 GR_jll,d2c73de3-f751-5644-a686-071e5b155ba9
+GSDFiles,64a8acd3-9415-46af-9ee4-f25c25bec2f1
 GSDFormat,1b955fb9-6f2e-4960-8f17-37db80c113c6
 GSL,92c85e6c-cbff-5e0c-80f7-495c94daaecd
 GSL_jll,1b77fbbe-d8ee-58f0-85f9-836ddc23a7a4
@@ -8096,6 +8098,7 @@ PlusPlus,8e5c59b7-3747-4243-91a0-01dae595d934
 Pluto,c3e4b0f8-55cb-11ea-2926-15256bba5781
 PlutoArgs,06cd568a-3b38-413c-b3c7-59344d89f60e
 PlutoArticles,f6bf48b7-86ff-4272-ae2d-6d953707ade4
+PlutoBook_jll,41d2b3ab-7676-5bec-847c-6e41a0c34141
 PlutoDependencyExplorer,72656b73-756c-7461-726b-72656b6b696b
 PlutoDevMacros,a0499f29-c39b-4c5c-807c-88074221b949
 PlutoExtras,ed5d0301-4775-4676-b788-cf71e66ff8ed
