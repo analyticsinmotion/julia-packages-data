@@ -190,6 +190,7 @@ AddPackage,70d26913-0580-4037-ad67-7d2c365cf5c5
 AddToField,5f906781-1e48-4758-8d00-55479429a6a5
 AdditionalUnits,02d9b4f0-7821-44c6-acbd-01a1ab91b72e
 AdditiveCellCom,c442aa85-5626-4e74-944d-fad50fba57b5
+AdditiveClosuresForCAP,bbee75d5-3cb4-4478-8ae7-eddc7864e69e
 Adiff,27f7cb71-feaf-432a-86ca-8731dc5cf332
 AdjacentFloats,6cc8125e-a04b-5e90-9cbf-894ba9b8047f
 Adjacently,411c8731-a39f-4a7d-8b26-fcc9fee4eb7b
@@ -485,6 +486,7 @@ AstroPropagators,7f2154ff-9684-4686-a457-9182f50d0f5b
 AstroRepresentations,403ab190-7cad-4c95-848f-e576570a949d
 AstroSimBase,c6a34d98-f626-4d8d-b450-a3f124eaada6
 AstroTime,c61b5328-d09d-5e37-a9a8-0eb41c39009c
+Astroalign,7f4629bd-323a-4fad-ad42-4ee56350f27f
 AstrodynamicalCalculations,c0cf9fb7-f496-4999-a425-c50785d1b88b
 AstrodynamicalModels,4282b555-f590-4262-b575-3e516e1493a7
 AstrodynamicalSolvers,636ee813-9c9e-4a0a-af07-88b3043dcb77
@@ -4873,6 +4875,7 @@ InformationDistances,abb756f7-3127-476d-9279-572d0f4d7c25
 InformationGeometry,ee9d1287-bbdf-432c-9920-c447cf97a828
 InformationInequalities,b4972362-a981-4dc4-9e05-19b54dfae4bc
 InformationMeasures,96684042-fbdc-5399-9b8e-d34e539a126c
+InformationPropagationAnalysis,a5102360-ae28-4698-95dd-b3596d53d633
 InfrastructureModels,2030c09a-7f63-5d83-885d-db604e0e9cc0
 InfrastructureSensing,88be2ce5-dfe4-4538-82c0-aa279cdf463c
 InfrastructureSystems,2cd47ed4-ca9b-11e9-27f2-ab636a7671f1
@@ -10007,6 +10010,7 @@ SoilMulch,be6996d8-ce38-42dc-ae22-8b975ffb034a
 SoilPlantAirContinuum,2d76e174-5bec-4df2-b5ea-844408736dc2
 SoilProfiles,d2d87a28-bc46-4564-bd1b-2e333645c2dc
 SoilWater_ToolBox,374a444c-c624-4b44-9de1-37c0fe7c6d41
+SolarEnergeticParticle,c65597a0-fc8f-4fb5-9f0a-4e6244d82c46
 SolarGeometry,4c2ee4bc-ae8c-4f43-b820-7df96744ebfe
 Solaris,c31bc6c7-79d6-424e-a85f-5b42ee086500
 Solcast,316e074d-b47d-40a7-868b-1b027d6a4e76
@@ -11564,6 +11568,7 @@ VoronoiGraph,e5f3e3e8-00d7-4f74-8011-648b521326aa
 VortexDistributions,b688e990-d167-11e8-1f13-43a2532b2fa8
 VortexFilaments,d3bb65d8-f921-4227-aa76-0b59d05b829a
 VortexLattice,7a09bdf8-3785-11e9-0bdd-57d0ec69af3f
+VortexMethod,d0bfb0ea-6286-496d-8bb4-f6dc2a72891a
 VortexStepMethod,ed3cd733-9f0f-46a9-93e0-89b8d4998dd9
 Vortice,286ff66b-9b1b-5805-8ad0-4d725a2cae59
 VoxelModel,4956fa17-11d8-4a0b-a900-0a865cb13992
