@@ -3384,6 +3384,7 @@ Fermi,9237668d-08c8-4784-b8dd-383aa52fcf74
 FermiDiracIntegrals,e265ac49-cc4b-4270-b3a8-e67d55197967
 FermionXYModels,19fd5c17-81b1-4921-a398-53333efd3594
 Fermionic,9854c450-6826-470b-b7cd-d3803b32f4ba
+FermionicHilbertSpaces,82e5dd95-83c3-46b2-a303-acc930c81756
 Ferrite,c061ca5d-56c9-439f-9c0e-210fe06d3992
 FerriteGmsh,4f95f4f8-b27c-4ae5-9a39-ea55e634e36b
 FerriteInterfaceElements,76cf2c14-24ca-44b2-b86c-6046d3cfcf82
@@ -5053,6 +5054,8 @@ JLBoost,13d6d4a1-5e7f-472c-9ebc-8123a4fbb95f
 JLBoostMLJ,8b86df2c-1bc3-481d-95df-1c4d5a20ed95
 JLD,4138dd39-2aa7-5051-a626-17a0bb65d9c8
 JLD2,033835bb-8acc-5ee8-8aae-3f567f8a3819
+JLD2Bzip2,84687f94-9f67-4744-9d95-d64e07ea2a3b
+JLD2Lz4,49ca2578-dfa4-4b24-b5ab-b610893dc52a
 JLD2Manager,81380758-35f1-456b-ad34-99baebce6e41
 JLFzf,1019f520-868f-41f5-a6de-eb00f4b6a39c
 JLLGenerator,73536572-7074-4e69-5270-206c4c6a2061
