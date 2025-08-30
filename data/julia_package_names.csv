@@ -944,6 +944,7 @@ Biofilm,210d8ceb-62d9-4e79-bbbd-4c6870635f0a
 BioformatsLoader,d1f74bce-bb60-11ea-2eff-3d75f256b4d8
 Bioinformatics,c429c406-9079-5a14-8339-dedc8835de90
 Biomodelling,9f4c04fe-aef9-11e9-18a8-b5ce91034548
+BiosemiDataFormat,d1c37e40-cd17-11e8-241b-47481c954d91
 Bip39,513d1476-22ab-43b1-8671-226bf27d1d59
 BipartiteFactorGraphs,b30351d1-6332-4c89-82f4-633fdf76981a
 BipartiteMatching,79040ab4-24c8-4c92-950c-d48b5991a0f6
@@ -5762,6 +5763,7 @@ LinearAlgebraX,9b3f67b0-2d00-526e-9884-9e4938f8fb88
 LinearAlgebraicRepresentation,95167b0c-186a-594b-a231-52369c6de044
 LinearAssignment,e04a135d-938e-4d6d-a2bd-80fee3964557
 LinearBand,e5cab26e-c5ce-48e0-bb1c-98fd263da73b
+LinearClosuresForCAP,1f080b7b-ff6a-46b3-9ade-986f655adc86
 LinearCombinations,67be3549-475c-46bf-8928-de3404d670d9
 LinearCovarianceModels,4af8ee2a-afa9-11e9-10dc-fb1b37f8f4b5
 LinearDecisionRules,ee4db4e3-7eec-47e5-9935-9699b02754f6
@@ -9936,6 +9938,7 @@ SlidingDistancesBase,25b0cc0c-38e4-462f-a11d-8564868c562d
 SlimOptim,e4c7bc62-5b23-4522-a1b9-71c2be45f1df
 SlimPlotting,f6d04670-764e-495b-a720-91c3c9a588ff
 SlimeMoldOptim,24f4c3ab-28f3-4779-ba6e-75fbc5297b09
+Slint,3a59bceb-d31e-474c-9627-7222755a1e48
 SlottedRandomAccess,3cd48f03-9865-4243-ab2c-9fbbaa30d0d4
 Slugify,6a57dadc-0402-4d39-bf46-19b28e03609d
 SlurmAddAllocatedProcs,4b0af0f2-a3e4-42c8-afa2-c5af2ee86004
@@ -11493,6 +11496,7 @@ VarianceComponentModels,813005db-34b4-5f71-be9e-1bbf0a1d8f1c
 VariantCallFormat,28eba6e3-a997-4ad9-87c6-d933b8bca6c1
 VariantVisualization,7f8bf45c-0ad5-53b5-97e6-33c1305e0aa4
 VariationalInequality,f79a5470-17c6-525f-b62f-3ca7bd6eedf2
+VariogramAnalysis,07dc4704-23df-41f7-aa80-c1ad3d8f3e52
 Variography,04a0146e-e6df-5636-8d7f-62fa9eb0b20c
 Varpro,ad47e2ae-6390-11e8-3558-e91f8c28af54
 VaxData,a6f58a78-e649-57e2-81bc-1d865c7b74f7
