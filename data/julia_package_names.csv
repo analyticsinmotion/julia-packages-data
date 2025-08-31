@@ -5225,6 +5225,7 @@ KCP_jll,000eeb74-f857-587a-a816-be5685e97e75
 KCenters,5d8de97f-65f8-4dd6-a15b-0f89c36a43ce
 KDEstimation,c13e3d18-d57b-11e9-0f19-037e2db2dfef
 KEGGModuleParser,8ec094ee-96fb-47c5-b407-8e5042c4c592
+KIMNeighborList,c95d6c40-0c10-4161-80ab-e9b71483fbc7
 KLDivergences,3c9cd921-3d3f-41e2-830c-e020174918cc
 KLU,ef3ab10e-7fda-4108-b977-705223b18434
 KMA_jll,8f4cd466-d9e8-5461-9379-2aebd0b2c3e0
@@ -10800,6 +10801,7 @@ TemporalNetworks,8c7a6a83-a663-42fb-a24a-c426533903ed
 Tempus,e6262be2-5787-4bdc-bc3f-4b5a3442fa30
 TenNetLib,1ce00845-9e1b-4798-bd63-033d15ad4ca9
 TenPuzzle,2b1cd6f4-158b-5933-849b-48df756daf9e
+TenSolver,cfd60579-01bf-4b47-9b3b-7c8dc91a23e2
 TeneT,260a78e0-cbf2-49ba-8157-48058c700f32
 TensArrays,70eefb7d-4b42-471c-acf6-aaa17e297c50
 TensND,474b5345-2588-4284-8a58-2430a1a40cb0
