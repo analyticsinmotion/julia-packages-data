@@ -1945,6 +1945,7 @@ ConstrainedDynamicsVis,07ee0992-da0a-4409-aa8f-e0a0c9c09c30
 ConstrainedRootSolvers,7e2492bd-0955-4089-8696-9df2af57a479
 ConstrainedShortestPaths,b3798467-87dc-4d99-943d-35a1bd39e395
 ConstrainedSimplexSearch,18a5e75d-c893-44ea-8c57-0eddfae82f21
+ConstrainedStrategicEquilibrium,05d11b4f-2d49-4ad8-8303-04c47d6ab303
 ConstrainedSystems,c257ce95-4918-4279-a47c-50fdbcb74a04
 ConstraintCommons,e37357d9-0691-492f-a822-e5ea6a920954
 ConstraintDomains,5800fd60-8556-4464-8d61-84ebf7a0bedb
@@ -3236,6 +3237,7 @@ FLANN,4ef67f76-e0de-5105-ac01-03b6482fb4f8
 FLANN_jll,48b6455b-4cf5-590d-a543-2d733c79e793
 FLEXPART_jll,f469b0c9-c763-5b61-b20e-7fa8370129c5
 FLINT_jll,e134572f-a0d5-539d-bddf-3cad8db41a82
+FLORIDyn,fc770985-7669-4833-bc54-a38444eb6027
 FLOWFoil,fb58ae67-a5c0-4a90-8078-890ae2c2e65e
 FLOWMath,6cb5d3fb-0fe8-4cc2-bd89-9fe0b19a99d3
 FLOWPanel,6be8c882-484d-4309-b349-d23112750151
@@ -3618,6 +3620,7 @@ Format,1fa38f19-a742-5d3f-a2b9-30dd87b9d5f8
 FormatSpecimens,3372ea36-2a1a-11e9-3eb7-996970b6ffbd
 FormattedTables,f83c0036-6341-5149-9c2c-4d931666a087
 Formatting,59287772-0a20-5a39-b81b-1366585eb4c0
+FormulaCompiler,72341345-62c2-4039-9674-a84f8dcc444c
 ForneyLab,9fc3f58a-c2cc-5bff-9419-6a294fefdca9
 FortranFiles,c58ffaec-ab22-586d-bfc5-781a99fd0b10
 FortranNamelistParser,8fb689aa-71ff-4044-8071-0cffc910b57d
@@ -4948,6 +4951,7 @@ Interfaces,85a1e053-f937-4924-92a5-1367d23b7b87
 InterferometricModels,b395d269-c2ec-4df6-b679-36919ad600ca
 InternalFluidFlow,a3f4ffcb-63ab-449f-b58f-50e21d5ccbd2
 InternedStrings,7d512f48-7fb1-5a58-b986-67e6dc259f01
+InteroperableCSV,1fbc523b-fa59-4a4c-89bb-0e3fcf7c697f
 InterpolatedPDFs,dd871ef8-c280-11e9-0edd-21d59c0cc143
 InterpolatedRejectionSampling,9608d442-472c-11e9-3e14-5b72dbacd115
 InterpolationKernels,16730964-a2ec-11e9-36fa-47a4f82bfac6
@@ -6534,6 +6538,7 @@ MiniZinc,a7f392d2-6c35-496e-b8cc-0974fbfcbf91
 MiniZinc_jll,3677d96b-3d39-5184-a844-8e8b2839af35
 MinimalRLCore,4557a151-568a-41c4-844f-9d8069264cea
 MinimallyDisruptiveCurves,c6328df5-4af8-4637-a9e9-78ed74a2ae2b
+MinimumVarianceAnalysis,5a74c7d3-1edb-47ee-a7ac-bdb4b3eeab9d
 MinimumVolumeEllipsoids,369a3862-bec2-4fd2-abcd-2df79a05ee65
 Minio,4281f0d9-7ae0-406e-9172-b7277c1efa20
 MinkowskiFunctionals,966f3356-8dad-4c1b-950e-472e4a926962
