@@ -3374,6 +3374,7 @@ FaultTolerantControl,45299f66-0548-4da8-9567-4dae0facc19d
 Faust,b0df9959-3f7b-4e37-9fbf-63cb195e8303
 Fauxcurrences,a2d61402-033a-4ca9-aef4-652d70cf7c9c
 FdeSolver,1746e360-1058-44a5-9855-ddd460437d0c
+FeastKit,fb02c795-5df5-4db3-94bf-d2cc9bf113f2
 Feather,becb17da-46f6-5d3c-ad1b-1c5fe96bc73c
 FeatherFiles,b675d258-116a-5741-b937-b79f054b0542
 FeatherLib,409f5150-fb84-534f-94db-80d1e10f57e1
@@ -6140,6 +6141,7 @@ MSTM3Runner,5f129dbe-4c99-420f-990a-21e94701024b
 MSTM4Runner,fd83a0a4-5223-4bbc-b61e-d20f1d446444
 MSTM_jll,2c0bff41-3d2c-5a3a-b138-70c96ef824a5
 MTBroadcast,0ed24e87-296a-40aa-ad28-aba02bf7580c
+MTGeophysics,71b12eb5-90c3-4985-b1e7-1ec075583b1e
 MTH229,ebaf19f5-aa55-568f-9bb2-d6722dad893b
 MTKHelpers,2725b469-bb7f-4d1a-ba58-ced332a70bc7
 MUMPS,55d2b088-9f4e-11e9-26c0-150b02ea6a46
@@ -6702,6 +6704,7 @@ MonthlyDates,5be0b35e-b7aa-4f8f-be3c-193ee1a845a6
 MoodleQuestions,e6233ccc-e36c-49e3-ac71-1ad7b6c78055
 Mooncake,da2b9cff-9c12-43a0-ae48-6db2b0edb7d6
 Moonshine,99b31415-443e-43a2-8bf4-ca532bb4a161
+MoreMaps,d6ea422f-1f55-4be1-bfc3-e7c09aa4d855
 MortalityModels,9406b108-c799-4c20-a955-6fb73514e56d
 MortalityTables,4780e19d-04b9-53dc-86c2-9e9aa59b5a12
 Mortar2D,0b7cd5e2-b3f3-5fae-9080-a65912ed73e3
@@ -12060,6 +12063,7 @@ bsdiff_classic_jll,7424abe3-9926-5da8-9b28-863d6330819c
 bsdiff_endsley_jll,4b92dbe6-3cad-5173-b451-9946eb17ce71
 bsdiff_jll,820cb745-3461-5c14-98e1-21b61faceff9
 bwamem2_jll,4ebad81c-a51b-5e30-a6f2-7dd7a25f3aaf
+cJSON_jll,0d65d39a-c591-5c20-a0df-10e8381fd541
 c_questdb_client_jll,49a0df60-3d80-5428-85ce-5c0f24fd7b67
 capnproto_jll,3576fdfd-e245-5854-bcf7-dae6dc3117e0
 cargo_license_jll,e85b2321-5bf6-5335-9209-779fed322386
