@@ -3694,6 +3694,7 @@ FromDigits,a6d61093-4b9a-4edd-a5a7-589135744240
 FromFile,ff7dd447-1dcb-4ce3-b8ac-22a812192de7
 Fronts,45b28afb-7f9c-4d83-a9c8-739861dbc76b
 FstFileFormat,01a6e8c0-b5b3-11e9-1fe6-8b3e5c2aa61e
+Fugl,a78eb1c3-f9be-4b1a-a708-e7053b7f16d7
 FullNetworkSystems,877b7152-b508-43dc-81fb-72341a693988
 FunSQL,cf6cc811-59f4-4a10-b258-a8547a8f6407
 FunWrap,af455024-efd4-48e8-b4ac-752b8c56ff1f
@@ -3883,6 +3884,7 @@ GTK4_jll,6ebb71f1-8434-552f-b6b1-dc18babcca63
 GTKmm3_jll,6c5188dc-7670-5467-b522-e8b8d9d5f1a3
 GTPSA,b27dd330-f138-47c5-815b-40db9dd9b6e8
 GTPSA_jll,a4739e29-4b97-5c0b-bbcf-46f08034c990
+GWInference,12bfb5b4-b11b-482e-a53a-61106a071c3c
 GXBeam,974624c9-1acb-4ad6-a627-8ac40fc27a3e
 GZip,92fee26a-97fe-5a0c-ad85-20a5f3185b63
 Gabs,0eb812ee-a11f-4f5e-b8d4-bb8a44f06f50
@@ -5604,6 +5606,7 @@ LengthChannels,6e84ca90-c4c0-49b1-bdb7-24cdbeba32de
 LengthFreeStaticMatrices,aeef1611-66c2-4f82-a5cb-420906a81ec8
 LennardJones,d8a96929-0be6-44df-b03a-619eb7e9790e
 Lens,496038af-b016-571c-b31e-8262695ac102
+LensFactory,e2630f5e-de23-4bea-bc0a-959d40375e7e
 Leptonica_jll,6a1430e4-294a-53a5-a485-ec66ef6b843c
 Lerche,d42ef402-04e6-4356-9f73-091573ea58dc
 LessUnitful,f29f6376-6e90-4d80-80c9-fb8ec61203d5
