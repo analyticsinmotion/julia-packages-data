@@ -3542,6 +3542,7 @@ FlexExtract_jll,928114cd-b949-50c5-8a7b-63c9d706fec3
 FlexLinearAlgebra,b67e1e5a-d13e-5892-ad81-fb75f5903773
 FlexPlan,4dc3fedf-fcb4-4327-bce2-523fd266e8c9
 FlexUnits,76e01b6b-c995-4ce6-8559-91e72a3d4e95
+FlexiChains,4a37a8b9-6e57-4b92-8664-298d46e639f7
 FlexiGroups,1e56b746-2900-429a-8028-5ec1f00612ec
 FlexiJoins,e37f2e79-19fa-4eb7-8510-b63b51fe0a37
 FlexiMaps,6394faf6-06db-4fa8-b750-35ccc60383f7
@@ -11563,6 +11564,7 @@ VirtualAcousticOcean,629e117c-1786-4222-ab4a-1acab234d923
 VirtualAgeModels,b276bca3-8be3-40c5-b17b-0eb635c89c3b
 VirtualEnv,f8ef4a19-0666-4e54-aa90-5d6169a53550
 VirtualObservatory,d7ce213e-d3b9-4ed1-b00e-1146b7ac83e0
+VirtualObservatorySAMP,71edce32-5052-4cae-8257-5b1cf32090e7
 VirtualPlantLab,b977ecfa-1b9a-418d-909d-4ebe565736ce
 VisClaw,d5c85fe6-8620-4d3a-96f0-ac478d4f5d38
 ViscousFlow,103da179-b3e4-57c1-99a4-586354eb2c5a
