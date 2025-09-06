@@ -2705,6 +2705,7 @@ DotNET,5091b313-875f-492b-8fe1-0f0d7d725ad8
 DotProductGraphs,586abeb4-6645-4f28-8984-da840f878f37
 DotTestSets,c389a1a6-a4ad-11e9-3760-17d115de83c0
 DoubleArrayTries,abbaa0e5-f788-499c-92af-c35ff4258c82
+DoubleBetaDecayGenerators,b67d9115-b479-4391-b710-1f027b87ba2b
 DoubleEnded,1bc4e7c2-c1e1-11e9-03fe-315bbef43fde
 DoubleExponentialFormulas,eb426421-6452-4132-80ef-4b100a757ac5
 DoubleFloats,497a8b3b-efae-58df-a0af-a86822472b78
@@ -12144,6 +12145,7 @@ flecs_jll,36bf25e4-cdf2-5fe1-89b6-d11c3d348c77
 flex_jll,48a596b8-cc7a-5e48-b182-65f75e8595d0
 flux_core_jll,381ff186-7949-5def-80e3-c2e748080dc1
 fortune_jll,08bdf8ff-2af7-5c3d-85d2-7e4de503c7bb
+fplll_jll,d41a5a93-b765-542c-87e0-8b980b4b1221
 fpzip_jll,dabd510a-92a7-54df-aa64-c306dd35554a
 fts_jll,d65627f6-89bd-53e8-8ab5-8b75ff535eee
 fzf_jll,214eeab7-80f7-51ab-84ad-2988db7cef09
