@@ -1391,6 +1391,7 @@ CapAndHomalg,c4774649-1891-41ea-a883-87141804c57c
 CapacityExpansion,c5f7ca31-19be-526c-ac1d-e0dcac83edb8
 CapacityExpansionData,2c92f082-f457-11e9-1715-ebb1b5fff37b
 Capnp,4a176cb5-e787-4417-92d8-5e07a66a639e
+Capse,994f66c3-d2c7-4ba6-88fb-4a10f50800ba
 Capstone_jll,0bfc08ce-5f35-58d0-8256-ec6a7315737c
 CaratheodoryFejerApprox,591793e0-8db6-4f40-aac6-a66fe5f65964
 CaratheodoryPruning,ab320bfc-8242-4797-bfc4-9370c33880e7
@@ -2883,6 +2884,7 @@ EconoSim,cc8cb6e0-4c11-4d04-b964-59e7aacda730
 Econometrics,4d6a76a9-bfbc-5492-8924-cf6ed7875f06
 EconomicScenarioGenerators,1d18cbdc-9ca7-45fd-a8b2-b9434f9145be
 Ecophys,19467474-d12d-47c9-939f-3e50fbfd93ad
+Ecosons,79264595-ebef-4885-9da8-6ac76f78a2e5
 EdgeCameras,2c982244-eb47-11e8-1c11-070084c1fd7d
 EditBoundary,8bb5e942-8cec-4ba7-bbd0-1456b2d7b960
 EditionBuilders,2fb66cca-c1f8-4a32-85dd-1a01a9e8cd8f
@@ -7327,6 +7329,7 @@ OctofitterRadialVelocity,c6a353d9-c9c1-48aa-9c23-64f4679bd07d
 Octonions,d00ba074-1e29-4f5e-9fd4-d67071d6a14d
 OctreeBH,32610584-8033-4d12-ab8e-952911879412
 OddEvenIntegers,8d37c425-f37a-4ca2-9b9d-a61bc06559d2
+Odrpack,8771e72f-1726-44cc-8528-8e528679e212
 OdsIO,56b0d19f-0a74-5872-92bc-f48f9c5431d4
 OffsetArrays,6fe1bfb0-de20-5000-8ca7-80f57d26f881
 Ogg,796d8c31-69d0-5366-9081-a3bf997f4f0d
@@ -9927,6 +9930,7 @@ Sixel,45858cf5-a6b0-47a3-bbea-62219f50df47
 SixelTerm,65edfddc-f399-4499-8369-a1bd38eee2ea
 Skans,a745460b-2075-4384-80fc-e13528d5f107
 SkeelBerzins,15eb0f9a-d441-4223-9ae5-4829ae804a45
+Skelia,79462ac6-003b-4e37-94c5-db11fbae63d8
 SkewLinearAlgebra,5c889d49-8c60-4500-9d10-5d3a22e2f4b9
 Skia,d59498f3-381e-4841-a765-4609d464ae1b
 Skia_jll,775d8421-ae54-5f59-bb96-f071f11d00ce
@@ -10367,6 +10371,7 @@ SteadyWaves,2d4f3d31-6681-40b2-b238-b8279529db51
 SteamTables,43dc94dd-f011-5c5d-8ab2-5073432dc0ba
 SteamWebAPIs,e6ff7510-e9ee-4fc9-8d54-48d13dde7e75
 Steganography,b36d76f3-e888-5fd0-8dd3-e39a55b413c6
+StellaGmsh,d075ac83-78d4-45fb-ba34-599d2b1f585f
 StellarSpectraObservationFitting,6b1189bd-9150-44f8-8055-f6ca7d16451e
 StellarTracks,2b4a1a39-e20a-4324-9c0b-7d841c062f62
 StellaratorOptimization,f2f44f23-99b2-4d7c-931e-31858dc08d61
@@ -10490,6 +10495,7 @@ StructuralUnits,ec81c399-378c-4a82-baa1-80fb2fc85b6c
 StructuralVibration,85cedecc-ec67-4717-8ef3-ce3f1b8dc459
 StructureFunctions,e93fee26-4d5e-49c1-899d-490508cfd19b
 StructuredArrays,2e8cd123-6858-488d-b42d-068777248635
+StructuredGaussianMixtures,4b627f85-a485-4383-967f-8f50175dea55
 StructuredGrids,3d2d666f-9104-4379-abe9-d44f4b99a429
 StructuredLight,13204c95-a6e5-4c09-8c7b-ee09b09e0944
 StructuredOptimization,46cd3e9d-64ff-517d-a929-236bc1a1fc9d
@@ -11690,6 +11696,7 @@ WebToys,f67adaa7-c0cb-55cd-ba19-4b9b797b00eb
 Webviews,b7e775b7-052a-4229-9250-fe08ae90f9c6
 WeibullParetoDist,efcb490d-de09-481a-82de-9e1304d0eed4
 WeightInitializers,d49dbf32-c5c2-4618-8acc-27bb2598ef2d
+WeightVectors,02edb123-fbf3-4025-abe6-bed5b7376cdf
 WeightedArrays,379a43df-f81c-573e-83a6-069eb6c11a71
 WeightedEdgeListFormat,1ad517f0-379a-4563-bead-04a8bca42320
 WeightedOnlineStats,bbac0a1f-7c9d-5672-960b-c6ca726e5d5d
