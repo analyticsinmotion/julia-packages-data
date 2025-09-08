@@ -6165,6 +6165,7 @@ MacroEnergySystemsScaling,e07ba8b4-499e-4f54-a885-af58260c741f
 MacroModelling,687ffad2-3618-405e-ac50-e0f7b9c75e44
 MacroTools,1914dd2f-81c6-5fcd-8719-6d5c9610ff09
 MacroUtilities,274a0f0b-05f4-4024-87ff-de4a5b524b4f
+MadIPM,4406d55e-1099-4ca6-ac6a-6cf051b10024
 MadNLP,2621e9c9-9eb4-46b1-8089-e8c72242dfb6
 MadNLPGPU,d72a61cc-809d-412f-99be-fd81f4b8a598
 MadNLPGraph,2f590f30-ea46-438a-a78d-e5bfe3109704
@@ -7408,6 +7409,7 @@ OpenFOAM_jll,89340185-c6b7-517e-a5e0-0a450377a6e4
 OpenFST,18031d04-943d-420a-99da-58315a5a21aa
 OpenGLMathematics_jll,cc7be9be-d298-5888-8f50-b85d5f9d6d73
 OpenGeoSysUncertaintyQuantification,2b9e718a-2bbf-456a-af48-1d5a69fa48c6
+OpenGithubModelsApi,d7562bb7-516c-4adf-8fef-31c117335ddd
 OpenIDConnect,195a77af-17c0-520f-ac58-3336c7ea8576
 OpenImageIO_jll,fd470f6e-6842-5666-8cbd-b5630dfbbd08
 OpenInterfaces,07e4ff7f-07bb-45cd-9e58-8fac98767c00
@@ -9539,6 +9541,7 @@ SauterSchwab3D,0a13313b-1c00-422e-8263-562364ed9544
 SauterSchwabQuadrature,535c7bfe-2023-5c1d-b712-654ef9d93a38
 SavitskyGolayFilters,f52a7a4e-f3c4-4810-b429-372b32c00cf9
 SavitzkyGolay,c4bf5708-b6a6-4fbe-bcd0-6850ed671584
+SawyerEliassenSolver,4160a140-ed77-4dbe-8316-dcd1d4ea2f4e
 ScHoLP,c786d6c3-4fbc-59fc-968c-e848efb65d2d
 ScRNAseq,e44c6a41-5310-4d0d-ae73-cb13410d3383
 ScTenifold,fcca1770-266e-4af5-8612-876362e279e9
