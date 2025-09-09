@@ -5857,6 +5857,7 @@ LocallyCompetitive,86bb8979-40af-4c14-b177-a78efc84e952
 LocallyWeightedRegression,68d949f0-74a3-5070-a3ac-aa8145b4bcaa
 LockandKeyLookups,2e05b275-071e-4a72-a6f9-4f599bc7944c
 Loess,4345ca2d-374a-55d4-8d30-97f9976e7612
+Log2file,9348bb98-452d-4fd0-bebd-231ec7952d68
 LogCompose,8416b438-731e-11ea-2421-05f642269042
 LogDensity,43a98068-d3ec-47a8-8f69-6a851f589296
 LogDensityProblems,6fdf6af0-433a-55f7-b3ed-c6c6e0b8df7c
@@ -9684,6 +9685,7 @@ SeparableFunctions,c8c7ead4-852c-491e-a42d-3d43bc74259e
 SeparableOptimization,b66076ac-575f-47ff-93e2-9c43ffc8d39e
 SeparatingAxisTheorem2D,33f35c42-577e-5c66-8569-bbf1771cbf32
 SeqBounds,343dbc49-a00e-4db9-80e1-8930f4861f86
+SeqFold,b3b2a78d-ef5a-44e0-bc1e-af93888afa44
 SeqGen_jll,1820de90-959d-54bb-9e2e-c539b020f79b
 SeqLoggers,5370ec29-8137-43b2-8ce7-bd26b38685e0
 SeqShuffle,5ea955a8-74dc-49b5-be65-6ee01fc504f7
@@ -10169,6 +10171,7 @@ SpeechFeatures,6f3487c4-5ca2-4050-bfeb-2cf56df92307
 SpeedDate,2e38f7da-5467-4768-b2f8-11afcbc6cdb1
 SpeedMapping,f1835b91-879b-4a3f-a438-e4baacf14412
 SpeedyWeather,9e226e20-d153-4fed-8a5b-493def4f21a9
+SpeedyWeatherInternals,34489162-d270-4603-8b96-37b04f830d73
 SpeexDSP_jll,f2f9631b-9a4e-5b48-9975-88f638ec36a7
 Spehulak,13b2040c-5979-4bcf-93a6-c2323bf411ba
 SpelledOut,4728c690-e668-4265-bc0d-51a8c0f93067
