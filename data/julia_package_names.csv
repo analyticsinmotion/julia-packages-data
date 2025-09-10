@@ -132,6 +132,7 @@ AbstractWallets,5f0830d6-faab-11e9-0c1a-a5525342cc9a
 AbstractXsdTypes,1d4aff4b-e088-40cb-b713-ffe4caf1580b
 AbstractYieldMacros,71802903-5811-4e1f-b8e7-37bd234b68eb
 Absynth,198fb612-3ccb-11e9-3f7d-cd8c0d4e7bc8
+AcademicWebsite,bf8d10fa-a935-41a3-9f31-ee6ce4bca516
 AccelInterfaces,0fc7c93f-c1ed-4c30-8474-1cec40f2ca52
 AcceleratedArrays,44e12807-9a19-5591-91cf-c1b4fb89ce64
 AcceleratedKernels,6a4ca0a5-0e36-4168-a932-d9be78d558f1
@@ -7366,6 +7367,7 @@ OneHot,460b0459-f81d-40f2-a460-3486927c7399
 OneHotArrays,0b1bfda6-eb8a-41d2-88d8-f5af5cad476f
 OneRule,90484964-6d6a-4979-af09-8657dbed84ff
 OneTimePasswords,cbea7a94-ea03-4af3-b52f-24efa70d1a55
+OneTwoFive,3b8edd7d-1770-4db3-baf1-86f62e581bb4
 OneTwoMany,762dc654-8631-413a-a342-372a7419ad9d
 OnlineLogBinning,6694b27a-7f2b-41da-9dea-d3f4793b6534
 OnlineNMF,e0c94d91-d830-4516-8b46-9a113d37a394
@@ -9192,6 +9194,7 @@ RigorousCoupledWaveAnalysis,c8f76c1c-e1da-11e9-2f58-db462fa08db6
 RigorousInvariantMeasures,6103b61f-200f-420b-b397-2cbeef157920
 Rimu,c53c40cc-bd84-11e9-2cf4-a9fde2b9386e
 RingBuffers,f6d8bcc6-4e01-5431-93c4-9d6004abab90
+RingGrids,d1845624-ad4f-453b-8ff4-a8db365bf3a7
 RingLists,286e9d63-9694-5540-9e3c-4e6708fa07b2
 RingPolymerArrays,81cd853e-d334-476c-b156-f95acc8a32dc
 RingStarProblems,bed4ad48-c7de-4cc5-bbc0-d98473e6c0f4
