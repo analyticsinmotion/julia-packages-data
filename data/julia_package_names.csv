@@ -1162,6 +1162,7 @@ CALCEPH,1537fe66-4725-5aba-80f4-3a74792cecc1
 CALCEPH_jll,dd3044d3-6c85-52eb-b239-9fbeaa51d7ac
 CALIPSO,4c24e94e-21a7-4591-8ee4-d226b67258b2
 CALiPPSO,06591efd-5e2b-42e5-a742-7087027635df
+CANBus,bffc1db9-6142-4b2c-b5cf-b017e7edc3de
 CANalyze,2dc4fe6c-d2be-46ad-ace5-0bbcd4825534
 CAOS,84b91ece-59cc-50c4-8800-6f827c67b7cb
 CAP,d64df2ee-d2bb-46f4-8cbc-f03bb858f8cb
@@ -2286,6 +2287,7 @@ DataAssimilationBenchmarks,7c720533-a3c7-49b7-973c-85ef17efca74
 DataAugmentation,88a5189c-e7ff-4f85-ac6b-e6158070f02e
 DataAxesFormats,1375bf9c-a47d-45a1-aad5-626dd8629d98
 DataBags,497ad153-c143-42a2-80c7-87bdfcf8382a
+DataCollocations,9454e98c-75cb-4dbc-9573-481819719962
 DataConvenience,3b531cbf-ee43-4e67-8118-dca2c9372f86
 DataDeps,124859b0-ceae-595e-8997-d05f6a7a8dfe
 DataDepsGenerators,a14fa8ac-7845-53f2-854f-e9bba4c623ff
@@ -8565,6 +8567,7 @@ QMLMakie,08f9cac3-3b11-4f1c-9d88-d0e81c500f64
 QMRIColors,2bec176e-9e8c-4764-a62f-295118d1ec05
 QMSimFiles,1e04daf1-5263-4298-8d88-2487c5ff7e2f
 QNaNs,c947b005-6f94-5690-8353-b90d48bfe02f
+QOCO_jll,a6854289-b047-58aa-884c-5e4b3dc00a83
 QOI,4b34888f-f399-49d4-9bb3-47ed5cae4e65
 QPALM,6c3e646c-629b-11e9-19d9-033f6272e8d4
 QPALM_jll,ffff4089-a68e-5e40-8b55-c7b9cd3999ca
@@ -9168,6 +9171,7 @@ ReverseDiffSparse,89212889-6d3f-5f97-b412-7825138f6c9c
 ReverseGeocode,96b87e3f-b46e-456c-8178-0e438baab6fa
 ReverseMcCormick,f9d89e60-3bef-4186-aa8f-bdf0d7614dd6
 ReversePropagation,527681c1-8309-4d3f-8790-caf822a419ba
+ReverseSearch,4c89c464-f98c-4bab-a6f2-360512b03a4e
 ReverseStackTraces,755d2ad4-7ed4-4791-99e6-179f2b4884dd
 ReversedSeries,87ffe17a-2ae0-4c33-b274-0f3657b00e05
 ReversedStrings,d6a58270-6f46-44a2-ab4b-2a767377cb4b
@@ -11506,6 +11510,7 @@ VTKDataIO,c6703add-1d23-52c6-9943-3ad88652b9b2
 VTKDataTypes,10d27dd1-1d0f-5a4c-b178-bd2d0045a217
 VTKLegacy,0a04e04c-3d81-46c0-89a4-d6cdbba47ab1
 VTKView,955f2c64-5fd0-11e9-0ad0-3332e913311a
+VTK_jll,74d5c060-2aa8-5f16-b7f5-964146ffbc58
 VTTrac,a95e085e-b118-4c2b-a00a-78cb3dcd4dd8
 VTUFileHandler,6e9f8158-41af-4c42-b493-3202dfdd0db4
 VUMPSAutoDiff,87d80e04-03a5-42db-b395-4c81662c4174
@@ -11815,6 +11820,7 @@ XDiag,3edaab83-692e-476a-bab5-541af84d25fc
 XDiag_jll,05e47fe5-458f-5313-a276-ec18ac0ef94c
 XFloats,ad7b0a5e-d6ee-550c-835e-59a288c14bf3
 XGBoost,009559a3-9522-5dbb-924b-0b6ed2b22bb9
+XGBoost_GPU_jll,bf13095a-df47-5f5c-aa1a-d897479947cc
 XGBoost_jll,a5c6f535-4255-5ca2-a466-0e519f119c46
 XGPaint,af630e4a-6754-4ec2-ab8a-f9f8b9ebafbf
 XGrad,c48004fe-d13f-5df9-98d5-0c1ab8e45fa0
@@ -12258,6 +12264,7 @@ libblastrampoline_jll,8e850b90-86db-534c-a0d3-1478176c7d93
 libbluray_jll,4a6b8444-0b90-5145-9aa0-b7d88b695d06
 libboxer_jll,5847ba37-b048-5c88-b501-c62f664b1471
 libcap_jll,eef66a8b-8d7a-5724-a8d2-7c31ae1e29ed
+libcbor_jll,5d4dba4b-0609-5411-86b8-155d70b59700
 libcellml_jll,2a231547-1e2e-5ce0-a51e-f3f5ef0a1add
 libcgal_julia_jll,e9ad47b2-a301-5fb7-a0bd-6eece649b37c
 libcgroup_jll,073f27de-2a51-5a0c-9fc3-04c66de53728
