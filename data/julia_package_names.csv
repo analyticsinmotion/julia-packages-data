@@ -966,6 +966,7 @@ BitInformation,de688a37-743e-4ac2-a6f0-bd62414d1aa7
 BitIntegers,c3b6d118-76ef-56ca-8cc7-ebb389d030a1
 BitMasks,a3e06817-fd65-4797-8291-16f435bc2529
 BitOperations,e1e0eea2-bc69-5bf6-8574-13634873a17c
+BitPacking,b58c8408-13c4-4787-8733-7038ae624acf
 BitPermutations,81206824-6155-40a8-95f7-18696067be4d
 BitSAD,7f90e340-ca22-4a3e-a259-118ed254aff3
 BitSetTuples,0f2f92aa-23a3-4d05-b791-88071d064721
@@ -4853,6 +4854,7 @@ IndexSpaces,3ceaaf38-e7b4-4193-a23a-303dd231a83a
 IndexableBitVectors,1cb3b9ac-1ffd-5777-9e6b-a3d42300664d
 IndexedFactorGraphs,edf0a622-c16b-410a-a162-e53dc16a76ae
 IndexedGraphs,8a731c18-cfb7-4915-927e-cc26b56b67cd
+IndexedStructVectors,943997de-97ed-46fb-843d-45d8ceac30b4
 IndexedTables,6deec6e2-d858-57c5-ab9b-e6ca5bd20e43
 IndexedVectors,ce6fd8af-47ce-44eb-b41a-c8253e356a4d
 Indexes,4ffb77ac-cb80-11e8-1b35-4b78cc642f6d
@@ -5922,6 +5924,7 @@ LowRankMatrices,e65ccdef-c354-471a-8090-89bec1c20ec3
 LowRankModels,15d4e49f-4837-5ea3-a885-5b28bfa376dc
 LowRankOps,0ea32739-31af-43e6-82ee-ebe6dcf00a6f
 LowRankOpt,607ca3ad-272e-43c8-bcbe-fc71b56c935c
+LowerTriangularArrays,ed20b33f-a660-45d0-a353-9c8c20bb5814
 LoweredCodeUtils,6f1432cf-f94c-5a45-995e-cdbf5db27b0b
 Lowess,a2847a04-7795-4581-bff1-964344ea125d
 LsqFit,2fda8390-95c7-5789-9bda-21331edee243
@@ -6266,6 +6269,7 @@ MaskArrays,0779ba27-d013-422b-b20d-67aa3361bf56
 MaskedArrays,e3e6debb-e142-42bc-8e83-ba8646d1d252
 MassInstallAction,e162569b-3ff4-40cf-b055-1e5f8042da73
 MassSpec,1eca0e19-7dec-47c1-ba23-53c12588e011
+MassSpecBioChemicals,f4388e49-ae39-433b-b921-aa66233e9152
 MassSpecChemicals,a0caa3fb-cd40-4122-b5cb-396daad418a9
 MatInt,f23b31af-f0ea-4208-b2e0-bbfc29c446c9
 MatLang,05b439c0-bb3c-11e9-1d8d-1f0a9ebca87a
@@ -7695,6 +7699,7 @@ POMDPToolbox,0729bffe-8e6b-52fa-a3fa-893719b744f4
 POMDPTools,7588e00f-9cae-40de-98dc-e0c70c48cdd7
 POMDPXFiles,c6f6ee83-58c6-5336-a19f-2c76817e1af6
 POMDPs,a93abf59-7444-517b-a68a-c42f96afdd7d
+POMLUtils,8c985f62-e6ed-46b2-9e87-fb745dbb52c6
 PORTA_jll,c3fa2e09-48e0-5371-872a-ed3ac32dd1fc
 PPInterpolation,0bf8acf5-7f56-4370-abee-dfc0c3b7d49e
 PPLM,80fe3cd3-18f3-43a0-bc53-22e3608ca67d
@@ -9655,6 +9660,7 @@ Seleroute,d2f42c57-c897-4e08-8218-a119b5759c84
 SelfConcordantSmoothOptimization,d352d416-c122-4e2b-b229-b93695c65420
 SelfOrganizingMaps,ba4b7379-301a-4be0-bee6-171e4e152787
 SellmeierFit,cb4c0f5c-2214-40eb-8da0-53ca8e9a3192
+SemaDbAPI,c1fe1625-cec3-4ab7-b4cb-bea2f0104fc4
 Semagrams,13530c0b-fe5b-42fd-9b7e-79367be16329
 SemanticAST,c5775199-6b5c-47be-a5a7-a37436caf489
 SemanticCaches,03ba8f0e-aaaa-4626-a19b-56297996781b
@@ -9940,6 +9946,7 @@ Sisyphus,e91afccf-c93e-44fd-aa4c-3d3ef13645c0
 SixDOF,304da4c3-06e5-42c8-b67d-e82ababee5fb
 Sixel,45858cf5-a6b0-47a3-bbea-62219f50df47
 SixelTerm,65edfddc-f399-4499-8369-a1bd38eee2ea
+SizeCheck,e0176837-3861-45f9-8fb4-a12fc39b9661
 Skans,a745460b-2075-4384-80fc-e13528d5f107
 SkeelBerzins,15eb0f9a-d441-4223-9ae5-4829ae804a45
 Skelia,79462ac6-003b-4e37-94c5-db11fbae63d8
@@ -10962,6 +10969,7 @@ ThermofluidQuantities,8e558ecf-e13e-4796-9812-ac12e4724222
 ThermovisorImages,54d963ed-1681-434b-92d2-200df9375a55
 ThesisArt,6184abd9-1539-47ca-b742-6ec6f8d46641
 Theta,42bdb5c4-78fb-11e9-2233-215979c148c4
+ThickIntervals,540b2d50-f826-4de2-88b6-7b05931975d3
 ThickNumbers,b57aa878-5b76-4266-befc-f8e007760995
 ThinFilmsTools,e990187e-78db-4ef6-b01c-c671a8d7225b
 ThinPlateSplines,1d861738-f48e-4029-b1d3-81ce6bc7f5ab
