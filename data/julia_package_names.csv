@@ -8140,6 +8140,7 @@ PlusPlus,8e5c59b7-3747-4243-91a0-01dae595d934
 Pluto,c3e4b0f8-55cb-11ea-2926-15256bba5781
 PlutoArgs,06cd568a-3b38-413c-b3c7-59344d89f60e
 PlutoArticles,f6bf48b7-86ff-4272-ae2d-6d953707ade4
+PlutoBook,76e9aec1-d984-498e-955d-b16e80c2ab71
 PlutoBook_jll,41d2b3ab-7676-5bec-847c-6e41a0c34141
 PlutoDependencyExplorer,72656b73-756c-7461-726b-72656b6b696b
 PlutoDevMacros,a0499f29-c39b-4c5c-807c-88074221b949
@@ -8816,6 +8817,7 @@ REPLTetris,6af34c43-eb40-584a-ba44-023879b5265e
 REPLTreeViews,00000000-1111-2222-3333-444444444444
 REPLference,89b048f0-36f8-47dc-b812-110e59d1ec6a
 REPLicant,8acbef56-6722-412a-9f59-5674813d37bb
+RESTOllamaAPI,a14a4b93-2064-4976-ac0c-5e1498c38ea6
 REopt,d36ad4e8-d74a-4f7a-ace1-eaea049febf6
 REoptLite,0144022d-7626-48b7-867b-06d945449d75
 REoptPlots,81d7bfe7-808b-4a8e-bf67-c3577adb378e
@@ -10152,6 +10154,7 @@ SpatialIndexing,d4ead438-fe20-5cc5-a293-4fd39a41b74c
 SpatialJackknife,e2fa44a5-09d5-5fa2-a080-aa0766578c8a
 SpatialLightModulator,8496614f-bc0d-4828-b8a6-7044d7be1234
 SpatialOmicsGPs,e145bb07-96d9-421f-b0a2-c579a69b21bf
+SpatialRasterLite,25a4c9b9-c310-4d6e-b9a7-fa79274760a1
 SpatiallySymmetricTensors,267f34df-16a8-4a72-a26d-fb880b511394
 SpatioTemporalTraits,6a04ffb7-1155-443c-92eb-f1f26f00354c
 Speasy,09b745ad-c67d-442f-94a6-c7f4d1e4d861
@@ -10184,6 +10187,7 @@ SpeechAugment,85f1d090-a841-11eb-2200-31772235f1bd
 SpeechFeatures,6f3487c4-5ca2-4050-bfeb-2cf56df92307
 SpeedDate,2e38f7da-5467-4768-b2f8-11afcbc6cdb1
 SpeedMapping,f1835b91-879b-4a3f-a438-e4baacf14412
+SpeedyTransforms,ed023a3f-7a3c-42dd-bab6-68c21c8c3105
 SpeedyWeather,9e226e20-d153-4fed-8a5b-493def4f21a9
 SpeedyWeatherInternals,34489162-d270-4603-8b96-37b04f830d73
 SpeexDSP_jll,f2f9631b-9a4e-5b48-9975-88f638ec36a7
