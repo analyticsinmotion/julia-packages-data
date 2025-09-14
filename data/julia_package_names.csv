@@ -5966,6 +5966,7 @@ MATLABDiffEq,e2752cbe-bcf4-5895-8727-84ebc14a76bd
 MAiNGO,19f71287-e05d-461c-be93-c347e7defd4d
 MAiNGO_jll,6ab0fed5-a098-5dc6-978d-ebec7ca9d2e4
 MCAnalyzer,a81df072-f4bb-11e8-03d3-cfaeda626d18
+MCBench,3951c326-33a3-4e32-9c78-203120422c33
 MCHammer,58716550-704d-11e9-05c2-8f708e47025f
 MCIntegration,ea1e2de9-7db7-4b42-91ee-0cd1bf6df167
 MCMCBenchmarks,72ce6e51-3f7f-5ebd-8e88-b86aa3e31c30
@@ -10070,6 +10071,7 @@ SoleData,123f1ae1-6307-4526-ab5b-aab3a92a2b8c
 SoleDecisionTreeInterface,de8eae22-3630-40e0-868c-abfc4c1bb3da
 SoleLogics,b002da8f-3cb3-4d91-bbe3-2953433912b5
 SoleModels,4249d9c7-3290-4ddd-961c-e1d3ec2467f8
+SoleReasoners,eb5c4719-5716-4250-abf0-f5b4713e79ae
 SolidModeling,87eb8544-cf78-4b0d-97e3-b7004341d5e9
 SolidStateDetectors,71e43887-2bd9-5f77-aebd-47f656f0a3f0
 SolveDSGE,00bf1f32-23ad-54cc-bf6e-3216db8a43a2
@@ -10572,6 +10574,7 @@ SunAsAStar,1bd1a468-645d-4223-8813-48273918c0e0
 SunCalc,46d852a4-2fba-44bf-a445-ee38df28a2fc
 Sundials,c3572dad-4567-51f8-b174-8c6c989267f4
 Sundials32_jll,3d421925-9ddb-5fba-844f-eab55ed40f51
+Sundials_GPU_jll,035518d0-5ae3-5af5-93bb-592bb84664f0
 Sundials_jll,fb77eaff-e24c-56d4-86b1-d163f2edb164
 SunlightHNC,1d8199c2-2c11-4f8e-a265-f9a0ffcc17be
 Sunny,2b4a2ac8-8f8b-43e8-abf4-3cb0c45e8736
@@ -11469,6 +11472,7 @@ UnsafeAssume,99140e25-3765-45c6-8186-bf020531d25b
 UnsafeAtomics,013be700-e6cd-48c3-b4a1-df204f14c38f
 UnsafeAtomicsLLVM,d80eeb9a-aca5-4d75-85e5-170c8b632249
 UnsafePointers,e17b2a0c-0bdf-430a-bd0c-3a23cae4ff39
+UnsetIndex,cc9ef2aa-5034-4aa9-a69b-c36694cce9f8
 UnsteadyFlowSolvers,fe99531a-0285-52ab-9c44-55b4da1c0c9c
 UnstructuredGrids,9cd2e232-b78e-5341-8154-33bf4eafe965
 UnsupervisedClustering,c6b3b713-2a2b-4e07-a35c-d57ac4f46186
@@ -11810,6 +11814,7 @@ WrapIt,962878d8-9763-11ee-8c14-fbf60c98afae
 WrapIt_jll,c56a8eb6-3dd0-5432-903d-1a19a3d2a949
 WrappedMultiGraphs,2815cbbd-0d7d-431b-a8da-1940906b5714
 WrappedR,2cb1610a-c9de-4cc5-9cd8-c4853e5c0aaf
+WrappedUnions,325db55a-9c6c-5b90-b1a2-ec87e7a38c44
 WringTwistree,b97f57d3-c4d5-419f-b8d9-90964b0843a1
 WriteDocx,d049ceea-54ee-41d7-a26f-ba29db3b6599
 WriteTFW,49d7a207-2b26-4c4c-b0e9-253fdb5aa2df
@@ -12365,6 +12370,7 @@ libsingular_julia_jll,ae4fbd8f-ecdb-54f8-bbce-35570499b30e
 libsixel_jll,075b6546-f08a-558a-be8f-8157d0f608a5
 libsndfile_jll,5bf562c0-5a39-5b4f-b979-f64ac885830c
 libsodium_jll,a9144af2-ca23-56d9-984f-0d03f7b5ccf8
+libsparseir_jll,e5bf0e3f-5e75-5bb8-9f3f-2c07620468a3
 libspatialite_jll,a4c9d1fc-8f32-52c2-b7e7-251980156b63
 libssh_jll,a8d4f100-aa25-5708-be18-96e0805c2c9d
 libsvm_jll,08558c22-525a-5d2a-acf6-0ac6658ffce4
