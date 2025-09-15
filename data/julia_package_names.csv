@@ -5547,6 +5547,7 @@ LatinSquares,c3c424ec-ae8f-5049-b7bf-f9296ef684c8
 LatinSyntax,48187f9f-78ff-4060-b31e-d855612fbaec
 LatticeAnimals,8faeb6a4-9048-4507-b81f-6dcc9b8256f0
 LatticeDiracOperators,019239df-b0e3-486e-8e4c-d1c29ee5d6b9
+LatticeMatrices,dd6a91e4-736f-4540-ac85-13822ca7b545
 LatticeModels,3c3db7f8-440c-4375-905c-1a18b5307bed
 LatticeQCD,8a12f9b3-8daf-4285-9aa6-f1d88d857ae8
 LatticeRules,73f95e8e-ec14-4e6a-8b18-0d2e271c4e55
@@ -5818,6 +5819,7 @@ LinearTurboFold_jll,cd7c2323-e06e-549f-9837-4f85c0db7ff9
 Lingeling,24b7b615-05f5-4cb5-9c13-cd423f90764a
 Lingeling_jll,54ea7443-b7cf-5485-b0d0-86c7d7a308e1
 LinkCutTrees,9b2c3604-c02d-4033-9e75-a81d4d4fb586
+LinkFunctions,fa965eab-f9a2-49de-8293-bc60088b3cbc
 LinkedInAPI,b8105b00-6eed-423c-b4b1-db9a63bbfa9d
 LinkedLists,70f5e60a-1556-5f34-a19e-a48b3e4aaee9
 Lints,969b4477-8239-4824-a7ce-fb2a72cbc115
@@ -6889,6 +6891,7 @@ NCTiles,4c1fdd90-559f-11e9-1abf-07ceafc4ffc0
 NDPriorityQueues,62ce6dcf-afc2-4b9e-bf6a-7a1353c578d1
 NDTensors,23ae76d9-e61a-49c4-8f12-3f1a16adf9cf
 NDTools,98581153-e998-4eef-8d0d-5ec2c052313d
+NDimensionalSparseArrays,6e93e0f3-59a5-426f-9354-1ff93716b9b4
 NEFTInterface,a0053b83-2858-41a9-bfb0-1030075bb8f6
 NEOSServer,f10290a3-90ea-431b-80e2-02d4e6b73321
 NEO_jll,700fe977-ac61-5f37-bbc8-c6c4b2b6a9fd
@@ -8935,6 +8938,7 @@ RateLimiter,24b76ae0-009b-4410-993f-7a05b90d7239
 RateTables,d40fb65e-c2ee-4113-9e14-cb96ca0acb32
 RatingCurves,e9e3b3e0-5095-4984-97e8-7ac0126a89f0
 RationalFunctionApproximation,c92886a3-cb30-4e18-b84f-372dde475ecc
+RationalFunctionFields,73480bc8-48a2-41cc-880f-208b490ccf65
 RationalGenerators,2737ff73-0d59-47a5-9105-cfa0dee446ca
 RationalPolygons,d26dedfb-ad13-44bd-90c7-a2710fa2c005
 RationalProjectivePlane,c6f45eda-53e9-4846-927e-3bf2d3f4e2f3
