@@ -139,6 +139,7 @@ AcceleratedKernels,6a4ca0a5-0e36-4168-a932-d9be78d558f1
 AcceleratorLattice,118f53b2-f4ec-480a-a460-1a04f660b17d
 AcceleratorSimUtils,8b14b3b2-39c5-4be4-bdc0-0b322e577224
 AccerionSensorAPI_jll,df519f1b-be81-5d76-8634-ded01372dc30
+AccessibleModels,4b3c8bd9-8c05-441a-9330-31ce8207a5fd
 AccessibleOptimization,d88a00a0-4a21-4fe4-a515-e2123c37b885
 Accessors,7d9f7c33-5ae7-4f3b-8dc6-eff91059b697
 AccessorsExtra,33016aad-b69d-45be-9359-82a41f556fd4
@@ -3248,6 +3249,7 @@ FLORIDyn,fc770985-7669-4833-bc54-a38444eb6027
 FLOWFoil,fb58ae67-a5c0-4a90-8078-890ae2c2e65e
 FLOWMath,6cb5d3fb-0fe8-4cc2-bd89-9fe0b19a99d3
 FLOWPanel,6be8c882-484d-4309-b349-d23112750151
+FLOWVPM,6e19019d-7c31-4940-9d16-c3f15dfe6020
 FLOYao,6d9310a3-f1d0-41b7-8edb-11c1cf57cd2d
 FLTK_jll,4fce6fc7-ba6a-5f4c-898f-77e99806d6f8
 FLoops,cc61a311-1640-44b5-9fba-1b764f453329
@@ -4625,6 +4627,7 @@ HybridSystemsSimulations,bed98974-b02a-5e2f-9ee0-a103f5c450dd
 HybridTreeBoosting,a7b84c78-fd94-4b48-aa74-d26ca7b1659c
 Hydro,fc36d966-fe4b-4286-9a77-63003c00d81d
 HydroModelCore,57609f06-44cb-4626-8f6d-47ea844d0af1
+HydroModelLibrary,f34bc7f3-9d04-4ef8-b7a3-feb87ce2ba93
 HydroModelTools,31f4d4b3-d71d-422d-8932-b4ab24c6e7e3
 HydroModels,7e3cde01-c141-467b-bff6-5350a0af19fc
 HydroPowerSimulations,fc1677e0-6ad7-4515-bf3a-bd6bf20a0b1b
@@ -10674,6 +10677,7 @@ SymbolicNumericIntegration,78aadeae-fbc0-11eb-17b6-c7ec0477ba9e
 SymbolicPlanners,b6fe5377-9711-4fad-95b0-be4eed71ecbb
 SymbolicQuartetNetworkCoal,4201568c-2e61-4571-8a9c-4da1ec7770d0
 SymbolicRegression,8254be44-1295-4e6a-a16d-46603ac705cb
+SymbolicSMT,a0d8a0e1-65bc-4be1-9afb-79a704359442
 SymbolicSigns,27726e8a-9648-448d-a8f7-a27e0ac037d6
 SymbolicTracingUtils,77ddf47f-b2ab-4ded-95ee-54f4fa148129
 SymbolicUtils,d1185830-fcd6-423d-90d6-eec64667417b
@@ -11989,6 +11993,7 @@ YaoToEinsum,9b173c7b-dc24-4dc5-a0e1-adab2f7b6ba9
 YasolSolver,4543d8c2-dbf1-4999-b2cf-e00b224f19c5
 YearMonths,c2c48e9c-33cf-11e9-2c9f-bfebf9880caf
 Yeppp,6310b701-1812-5374-a82f-9f6f2d54a40a
+YetAnotherSimulationSuite,d3ec4d54-14c5-4f6e-8d2e-82ae0926cfed
 Yields,d7e99b2f-e7f3-4d9e-9f01-2338fc023ad3
 YisyAIFramework,1833fadb-d4a3-4bdc-92b3-7dbe365d2b7d
 YodaFiles,db43a6b5-d1be-4ac2-9828-026fb2246ab5
