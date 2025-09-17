@@ -1186,6 +1186,7 @@ CDCLsat,b71133ba-6b01-47a0-b4fe-e7a9e8ed2c06
 CDCS,4fe2ecd4-b952-581a-b4b6-a532675a646e
 CDDLib,3391f64e-dcde-5f30-b752-e11513730f60
 CDE_jll,519a0aee-8577-56a6-9f9d-1e74151fa0e1
+CDFDatasets,075ae62b-f872-4368-b383-31e3aa6c3154
 CDGRNs,b97acbd9-7fbb-4cbc-bc29-58677f11bc5c
 CDLmotif,31692b3b-61a6-410b-a229-5e9354f2e019
 CDMrdata,60f1a76e-720d-4784-bbc6-074b7a9a39a5
@@ -5303,6 +5304,7 @@ KernelMachines,6717196d-eae9-43d0-801c-fc416e8966f6
 KernelMethods,d79e8f30-5872-11e9-0dab-2d1842b87615
 KernelOps,96fb99f5-d28b-4914-8161-ce02e97273ad
 KernelSpectralDensities,027d52a2-76e5-4228-9bfe-bc7e0f5a8348
+KerrGeodesics,53139c06-1eed-45f1-8780-9fca08ecab11
 Ket,412c778c-4733-41d8-b706-9e072557ba34
 KeyCounter,f308447f-e99f-46ec-ad9e-5a4c598148f8
 KeyValueStores,99b27216-9b37-4bb8-ad19-60d6e7774266
@@ -5513,6 +5515,7 @@ LaguerreVoronoi,e2403620-b030-4fa5-8994-0cb25fd74009
 Lale,25676c37-aa2f-4f14-ad5b-b63670ababff
 LambdaFn,fcefd6c4-8de0-11e9-0d15-03bc7c8ec982
 LambdaMaker,8b137802-21d4-43b8-8610-b92ef2bbc330
+Lambert,66f5ad62-9998-49cb-a01c-13bfcd13cbb1
 LambertW,984bce1d-4616-540c-a9ee-88d1112d94c9
 LambertsProblem,bfcf449f-4a4c-42e3-91d7-977e7d435437
 LandDataTools,d1413c6f-1a60-4f18-acd6-8d361c31e2f3
