@@ -542,6 +542,7 @@ Attractors,f3fd9213-ca85-4dba-9dfd-7fc91308fec7
 AttributeGraphs,d091dd56-f8c5-469d-b7f7-ff847498145f
 Attrs,a4224b96-20e5-5401-805b-05f03f927511
 AudioDB,7751140e-3dbe-4f12-a6f7-19bdd520e90f
+AudioReader,a9c2ce0f-e965-4f6d-9ec4-ce2d5ed55f28
 AudioSchedules,0990df78-ca1d-4d03-ab92-318744ee3999
 AuditoryFilters,2b6db37a-05bd-5fbd-94f7-97a8281041e3
 AuditorySignalUtils,20759599-9703-4078-b9af-37a489742e5c
@@ -6692,6 +6693,7 @@ MolecularGraphKernels,bf3818bd-b6bb-4954-8baa-32c32282e633
 MolecularMinimumDistances,46954fcc-1dd7-4352-b01d-a39240e91dc8
 MolecularTopologies,57484d9e-382c-5364-a237-1ed6cd00a13f
 MolecularTrajectories,c3751834-3f3f-50ce-917e-73bb091d662c
+MoleculeFlow,0907176b-47b3-4e96-be91-0e9bb91fb14f
 Molecules,5de6a177-b489-40a9-b2f4-524242b9b679
 Molly,aa0f7f06-fcc0-5ec4-a7f3-a573f33f9c4c
 MomentArithmetic,216cd8d6-c1f2-4f0b-a686-f7bd07ccd726
@@ -7408,6 +7410,7 @@ OpenBLAS32_jll,656ef2d0-ae68-5445-9ca0-591084a874a2
 OpenBLASConsistentFPCSR_jll,6cdc7f73-28fd-5e50-80fb-958a8875b1af
 OpenBLASHighCoreCount_jll,3a2d25a1-7f54-53f7-aded-df035e2fc6f8
 OpenBLAS_jll,4536629a-c528-5b80-bd46-f80d51c5b363
+OpenBabel,2a3b4ccc-5517-4f81-8dec-e98b499b9516
 OpenCL,08131aa3-fb12-5dee-8b74-c09406e224a2
 OpenCL_Headers_jll,a7aa756b-2b7f-562a-9e9d-e94076c5c8ee
 OpenCL_jll,6cb37087-e8b6-5417-8430-1f242f1e46e4
