@@ -5247,6 +5247,7 @@ KCenters,5d8de97f-65f8-4dd6-a15b-0f89c36a43ce
 KDEstimation,c13e3d18-d57b-11e9-0f19-037e2db2dfef
 KEGGModuleParser,8ec094ee-96fb-47c5-b407-8e5042c4c592
 KIMNeighborList,c95d6c40-0c10-4161-80ab-e9b71483fbc7
+KIMPortableModels,110f5901-8789-45df-852c-04e9fda0ddd7
 KLDivergences,3c9cd921-3d3f-41e2-830c-e020174918cc
 KLU,ef3ab10e-7fda-4108-b977-705223b18434
 KMA_jll,8f4cd466-d9e8-5461-9379-2aebd0b2c3e0
@@ -6693,6 +6694,7 @@ MolecularGraphKernels,bf3818bd-b6bb-4954-8baa-32c32282e633
 MolecularMinimumDistances,46954fcc-1dd7-4352-b01d-a39240e91dc8
 MolecularTopologies,57484d9e-382c-5364-a237-1ed6cd00a13f
 MolecularTrajectories,c3751834-3f3f-50ce-917e-73bb091d662c
+MoleculeDatasets,12345678-1234-1234-1234-123456789abc
 MoleculeFlow,0907176b-47b3-4e96-be91-0e9bb91fb14f
 Molecules,5de6a177-b489-40a9-b2f4-524242b9b679
 Molly,aa0f7f06-fcc0-5ec4-a7f3-a573f33f9c4c
@@ -7014,6 +7016,7 @@ NativeNaNMath,6e4fe5f8-bc0f-434f-9b40-863822321529
 NativeSARSOP,a07c76ea-660d-4c9a-8028-2e6dbd212cb8
 NaturalES,89824b7a-ce3e-4367-b4d5-add9d360affc
 NaturalEarth,436b0209-26ab-4e65-94a9-6526d86fea76
+NaturalGradientOptimisers,3c1df321-2532-4054-b4fb-66e5d4440098
 NaturalNeighbours,f16ad982-4edb-46b1-8125-78e5a8b5a9e6
 NaturalSort,c020b1a1-e9b0-503a-9c33-f039bfc54a85
 NaturallyUnitful,872cf16e-200e-11e9-2cdf-8bb39cfbec41
@@ -7532,6 +7535,7 @@ OptimizationMultistartOptimization,e4316d97-8bbb-4fd3-a7d8-3851d2a72823
 OptimizationNLPModels,064b21be-54cf-11ef-1646-cdfee32b588f
 OptimizationNLopt,4e6fcdb7-1186-4e1f-a706-475e75c168bb
 OptimizationNOMAD,2cab0595-8222-4775-b714-9828e6a9e01b
+OptimizationODE,dfa73e59-e644-4d8a-bf84-188d7ecb34e4
 OptimizationOptimJL,36348300-93cb-4f02-beb5-3c3902f8871e
 OptimizationOptimisers,42dfb2eb-d2b4-4451-abcd-913932933ac1
 OptimizationPRIMA,72f8369c-a2ea-4298-9126-56167ce9cbc2
@@ -12209,6 +12213,7 @@ gawk_jll,054acbdd-7fbc-53f6-b51a-0fe4f8189fb8
 gb_jll,006bdf2e-00d8-555c-bee2-993406487cbf
 gdk_pixbuf_jll,da03df04-f53b-5353-a52f-6a8b0620ced0
 gecko_jll,32aead09-57ab-5c70-a47a-e7c5b594f489
+geoarrow_c_jll,77d2fadc-a494-5d8f-9ad4-41084f776bc1
 gflags_jll,705dcc9d-86a1-50d2-892e-91b5af3191b8
 gfm_jll,1709ae2f-740e-5434-a713-d92bde733aaf
 ggml_jll,010131b8-9656-5f5d-909c-3207272d5029
@@ -12452,6 +12457,7 @@ muparser_jll,888e69b1-873b-5047-a2fc-24c07cbe9dc8
 mvndst_jll,78cd126e-648e-5a4b-8892-63be0e833cb1
 mxml_jll,3aba0aed-08ca-55af-8b7a-52957b70b9aa
 nPth_jll,58695248-dc95-54d8-8aad-a18bc9fe19aa
+nanoarrow_jll,c104a5b5-1715-5fd7-8664-28eaad6c5848
 nanoflann_jll,d35a0d8d-9068-5be2-914f-8871ec93937d
 nats_c_jll,df1a97a6-7490-50b1-97c6-e8aaaa3c5160
 nats_server_jll,8b1691f7-6002-537d-bdf7-c6203599dc08
