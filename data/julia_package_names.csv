@@ -26,6 +26,7 @@ ADSeismic,65edcd7e-b178-4558-a546-bf867610404b
 ADTypes,47edcb42-4c32-4615-8424-f2b9edc5f35b
 AEMS,3b430cce-3194-5812-b203-bf9e73c3e836
 AES,5a3fb44e-d90d-11e9-053b-99581e1bac63
+AESInternals,23d80bc3-1b68-464f-aa9a-274c2b418af4
 AFLplusplus_jll,2a46d845-6c66-546d-9393-effbe7e72607
 AGFFileReader,36dd7d7d-c279-4b5c-a024-2ba417cea492
 AIBECS,ace601d6-714c-11e9-04e5-89b7fad23838
@@ -6517,6 +6518,7 @@ Microbiome,3bd8f0ae-a0f2-5238-a5af-e1b399a4940c
 MicrobiomeAnalysis,09137a06-29c6-4e66-9476-ab7e4b8c7492
 MicrobiomePlots,bed85cf4-5cc8-5ac4-9eb3-09fbf92b2ce2
 Microeconometrics,5d8a72c5-1e5a-5861-b6ae-c8e9564f9d17
+Microfloats,31c70f10-a750-4521-b13c-797315ae2933
 Microgrids,bd581358-d3fa-499e-a26e-e70307242c03
 MicroscopePSFs,de9ac726-48a4-48ab-84b0-1c03c7c18929
 Microscopes,e2e16d05-ec94-40b7-b355-ae0fb683d354
@@ -8060,6 +8062,7 @@ Pitaya,0b12f483-aaff-4a42-bf4f-5a3345f2360f
 Pitches,71ce3a53-bc01-4ee9-b4af-5ce581ee5149
 Pitchjx,aacb0929-27c6-5080-af7c-e887e16e4e49
 PixelArt,0ba03b52-44ea-4ae8-ae76-4c95056a1ba8
+PixelMatch,433bd86c-62cb-491d-a348-72c5c8365002
 Pixell,d4cbf8b2-a14f-4080-9f5e-d5a64ada768e
 Pixman_jll,30392449-352a-5448-841d-b1acce4e97dc
 PkgAuthentication,4722fa14-9d28-45f9-a1e2-a38605bd88f0
