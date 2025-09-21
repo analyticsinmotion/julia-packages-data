@@ -1796,6 +1796,7 @@ CombineML,f3117721-c1d3-5ff8-9230-e4dd1549a252
 CombinedParsers,5ae71ed2-6f8a-4ed1-b94f-e14e8158f19e
 CometLogger,952f05d4-56a3-4431-900f-8abaa653b4db
 CommandLiner,dab3b9ab-a280-4855-a173-bba60dabf33a
+CommonDataFormat,a9737db6-c05c-4e48-868b-6bc41491d9d9
 CommonDataModel,1fbeeb36-5f17-413c-809b-666fb144f157
 CommonEq,3709ef60-1bee-4518-9f2f-acd86f176c50
 CommonHighlight,0147c57a-19b4-5173-b9c9-41cf4c2c7bcf
@@ -6502,6 +6503,7 @@ Metrics,cb9f3049-315b-4f05-b90c-a8adaec4da78
 MetropolizedForestRecom,f1e60ccc-08a2-41db-b5d4-22e81ab96e15
 Mex,5e29dd5e-a72c-11e9-2bb7-cd1b1701caa7
 MibS_jll,118347d2-e127-56b9-9933-6abf9cc1adc1
+Mica,28c78530-8bb7-4fc0-9b88-04e8b391d412
 Mice,d4678d24-b338-4f96-a2c8-a66549d61c16
 MicroCanonicalHMC,234d2aa0-2291-45f7-9047-6fa6f316b0a8
 MicroCollections,128add7d-3638-4c79-886c-908ea0c25c34
@@ -9630,6 +9632,7 @@ ScikitLearn,3646fa90-6ef7-5e7e-9f22-8aca16db6324
 ScikitLearnBase,6e75b9c4-186b-50bd-896f-2d2496a4843e
 ScikitSpatial,e57cb7e2-dadc-4589-8217-6f26b584a9fb
 ScopedSettings,6ffd3f19-5aa5-475d-9277-f0318686a530
+ScopedStreams,ae12ab41-8e94-49b1-b3b7-5c73acb71980
 ScopedValues,7e506255-f358-4e82-b7e4-beb19740aa63
 ScoreDrivenModels,4a87933e-d659-11e9-0e65-7f40dedd4a3a
 ScoredTests,f38cd097-35c0-4a4d-abf7-36f5cb14a6cb
@@ -11560,6 +11563,7 @@ Validator,02027c61-3ae1-4905-89a9-8d0daafb84ec
 ValkyrieRobot,c74b26e8-f247-5d24-b013-c11a2bbd97c6
 ValueAtRisk,a6faba0b-26a4-479a-8301-f768699ecb7c
 ValueConstraints,92afce1a-211d-486e-a2ad-128a80a11060
+ValueFunctionIterations,dc40bd75-440c-4f41-8fab-869df1870d2c
 ValueHistories,98cad3c8-aec3-5f06-8e41-884608649ab7
 ValueOrientedRiskManagementInsurance,4aceb6fc-b794-5e89-b0ac-b6eba507a4bd
 ValueShapes,136a8f8c-c49b-4edb-8b98-f3d64d48be8f
@@ -11856,6 +11860,7 @@ XDGSpec,fe33d248-b583-4bd1-8106-a6949c99f4d9
 XDMFFileHandler,b0b32849-8088-4a6a-980f-ce3b511736e4
 XDiag,3edaab83-692e-476a-bab5-541af84d25fc
 XDiag_jll,05e47fe5-458f-5313-a276-ec18ac0ef94c
+XESMF,2e0b0046-e7a1-486f-88de-807ee8ffabe5
 XFloats,ad7b0a5e-d6ee-550c-835e-59a288c14bf3
 XGBoost,009559a3-9522-5dbb-924b-0b6ed2b22bb9
 XGBoost_GPU_jll,bf13095a-df47-5f5c-aa1a-d897479947cc
