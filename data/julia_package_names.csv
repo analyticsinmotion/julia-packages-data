@@ -6700,6 +6700,7 @@ MolecularTopologies,57484d9e-382c-5364-a237-1ed6cd00a13f
 MolecularTrajectories,c3751834-3f3f-50ce-917e-73bb091d662c
 MoleculeDatasets,12345678-1234-1234-1234-123456789abc
 MoleculeFlow,0907176b-47b3-4e96-be91-0e9bb91fb14f
+MoleculeView,51e283bb-8733-4f53-8900-5afe7e33f1ed
 Molecules,5de6a177-b489-40a9-b2f4-524242b9b679
 Molly,aa0f7f06-fcc0-5ec4-a7f3-a573f33f9c4c
 MomentArithmetic,216cd8d6-c1f2-4f0b-a686-f7bd07ccd726
@@ -9834,6 +9835,7 @@ SimSearchManifoldLearning,ca7ab67e-1aa0-420a-90d9-eb5aef468722
 SimSpin,ec6baca6-10c1-11ea-19b5-f7da994b81a8
 SimSpread,afa5cc60-bf5a-45b9-aa6c-27158a106b2a
 SimString,2e3c4037-312d-4650-b9c0-fcd0fc09aae4
+SimT2D,a3ae81af-56a3-442d-870f-4d537fedbc5a
 SimilarityNetworkFusion,6c1fd854-37c7-5216-bfd6-aad91993916b
 SimilaritySearch,053f045d-5466-53fd-b400-a066f88fe02a
 Similitude,d70e672a-ff44-4dfc-8031-4cc812d84922
@@ -10141,6 +10143,7 @@ Sparlectra,31ce9bba-fd9d-44a1-b005-f5f509afda38
 SparseADRules,ae8a6b66-6d5b-48e8-98b1-80a7170c1f48
 SparseArrayKit,a9a3c162-d163-4c15-8926-b8794fbefed2
 SparseArraysCOO,610335e3-e389-450b-99eb-3a0a1c8c6bf9
+SparseBandedMatrices,bd59d7e1-4699-4102-944e-d05209cb92aa
 SparseBase,8047a082-0763-4c4f-a23b-a4a948721f1d
 SparseConnectivityTracer,9f842d2f-2579-4b1d-911e-f412cf18a3f5
 SparseDiffTools,47a9eef4-7e08-11e9-0b38-333d64bd3804
