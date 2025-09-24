@@ -3412,6 +3412,7 @@ FerriteMeshParser,0f8c756f-80dd-4a75-85c6-b0a5ab9d4620
 FerriteMultigrid,69a0a054-a29c-4d77-8818-cd7ec12cfcdc
 FerriteViz,59d0093e-b1f1-4fb7-ac85-ab57e45f39d9
 Fetch,bb354801-46f6-40b6-9c3d-d42d7a74c775
+FewBodyHamiltonians,3a126c26-e5d7-4a95-83c3-3b69f8a11ded
 FewBodyPhysics,dd57e2ab-7dae-448b-a136-57ab9eca4234
 FewBodyToolkit,28c40a4d-cd08-48a0-9e99-cc2df8099be4
 FewSpecialFunctions,6fcbd3ca-4273-49c4-98b3-81b765566de6
@@ -9017,6 +9018,7 @@ Readline_jll,05236dd9-4125-5232-aa7c-9ec0c9b2c25a
 RealContinuedFractions,2913f2de-b437-495a-9482-ef041561d0d3
 RealDot,c1ae055f-0cd5-4b69-90a6-9a35b1a98df9
 RealFFTs,3645faec-0534-4e91-afef-021db0981eec
+RealLabelNormalization,8d35fa01-733e-4c31-a932-545268b5cf98
 RealNeuralNetworks,4491297b-8966-5840-8cb9-b189d60f3398
 RealPolyhedralHomotopy,0ea325ba-5c5f-496b-acec-8be67510f465
 RealPolynomialRoots,87be438c-38ae-47c4-9398-763eabe5c3be
@@ -9385,6 +9387,7 @@ SDeMo,3e5feb82-bcca-434d-9cd5-c11731a21467
 SDiagonalizability,addecc1e-711d-4b49-877e-3152f1574f63
 SEAL,bac81e26-86e4-4b48-8696-7d0406d5dbc1
 SEAL_jll,cdf55027-1209-57fc-8789-28745714751d
+SEQ2EXPdata,321b9d11-aa10-4af3-aaad-5d74081bdd4f
 SExpressions,eaa8e424-c5f6-11e8-1b3d-d576ba0eee97
 SF36HealthSurvey,727fe6bb-9b0f-4205-9895-5e3cff32d72d
 SFML_jll,a867eb61-6e20-512e-ac9f-cfafa65876cc
@@ -10575,6 +10578,7 @@ SuccessiveConvexProgrammings,de9f8efb-491d-4667-8a63-6a751e3bd45f
 Sudoku,ed8dd712-c67e-57b2-a78d-39b336ca029f
 SudokuSolver,35248bf2-58a5-46a0-9b1d-c0a73a50a101
 SuffixArrays,24f65c1e-0a10-5d3d-8a1f-a83399f3fced
+SuffixAutomata,d8d90db5-3bd3-4328-8736-8f5f0958bb41
 SuffixConversion,a5344401-2eb1-4dab-b845-3affa8d070e0
 SuffixTrees,430257b6-7d61-4797-9a77-8ecd01b73801
 SugarBLAS,0999239e-cb9f-5507-94be-17f19fa7f34d
