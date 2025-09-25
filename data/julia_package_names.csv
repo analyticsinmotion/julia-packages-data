@@ -177,6 +177,7 @@ AdaptiveDistanceFields,a1957575-6125-5dba-8f92-417d2d1f4a46
 AdaptiveEstimators,f894c1f0-37bd-4d0b-bad6-c1e4fa45af5b
 AdaptiveFilters,c4f366c8-f60d-49ea-b3e5-386989159d04
 AdaptiveKDTrees,68d1b5e8-2215-47d8-a76e-d1727e222b22
+AdaptiveLevin,cb2033fd-04a4-45e1-a176-a3c784c945f7
 AdaptiveMCMC,717c3277-546c-407d-8270-09a39a0919a0
 AdaptivePredicates,35492f91-a3bd-45ad-95db-fcad7dcfedb7
 AdaptiveRegularization,79adfba0-1eab-50d9-8528-0589417a2bfe
@@ -3514,6 +3515,7 @@ FirstOrderSolvers,e2860157-3336-52d5-8ddc-1def50726c76
 FirstPassageTools,accd898d-9985-405f-8366-b38793ff4f76
 FishTank,b38b52d1-0eac-4161-8266-eab412337ac4
 FisherPlot,a6a81055-8810-4a7f-bad9-3c67194ad2e1
+FisherWright,a555c6d9-8fd4-4ecd-87f6-904b8d8d9cbe
 FishersExactTest,bb7b2d4f-b953-405a-be8a-3427bcf465e4
 FittedItemBanks,3f797b09-34e4-41d7-acf6-3302ae3248a5
 FixArgs,5d8a8d4b-09a6-4f10-9cda-cb42fab7536d
@@ -9123,6 +9125,7 @@ ReinforcementLearningTrajectories,6486599b-a3cd-4e92-a99a-2cea90cc8c3c
 ReinforcementLearningZoo,d607f57d-ee1e-4ba7-bcf2-7734c1e31854
 RelationalDatasets,6b8bdb16-f930-11eb-22b5-7ba1dabdf7a8
 Relationals,0682c367-51f6-4d82-8bfe-b4722079e034
+RelationshipMatrices,d4d45922-7dca-4708-ac5a-a6dbb0551829
 RelativisticDynamics,9dfc3e7a-5dd6-4aec-9244-c4a41014c270
 RelevancePropagation,0be6dd02-ae9e-43eb-b318-c6e81d6890d8
 RelevanceStacktrace,6c8a4c8a-cd07-4735-95b7-b1ced2eaf8fd
@@ -12419,6 +12422,7 @@ libudfread_jll,037e6697-03b9-52b7-b841-7aee0d773eb5
 libunistring_jll,6db05002-db9d-53dd-a359-17d4854bdf22
 libusb_compat_jll,d2399bea-3a32-5108-a30f-aef315c0e3a8
 libusb_jll,a877fdc9-fe69-5ed6-b93d-11ecd0dc2d49
+libversion_jll,536dcc1b-10b1-5f38-bd5e-495471764a69
 libvofi_jll,62e11466-777e-5a8a-800b-95b03cc31b38
 libvorbis_jll,f27f6e37-5d2b-51aa-960f-b287f2bc3b7a
 libwatcher_jll,f2e3f4ed-6d30-53f6-bb33-6a6ab454fa9c
