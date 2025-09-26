@@ -4628,6 +4628,7 @@ Hwloc,0e44f5e4-bd66-52a0-8798-143a42290a1d
 Hwloc_jll,e33a78d0-f292-5ffc-b300-72abe9b543c8
 HybridAStar,123b5ccf-89cf-4973-9536-c0f20d353bb2
 HybridArrays,1baab800-613f-4b0a-84e4-9cd3431bfbb9
+HybridDynamicModels,7e133797-8c8e-49d9-acf3-b153daa40e06
 HybridStructs,49057fa9-d513-5ef6-ae80-2dc68a70a2bd
 HybridSystems,2207ec0c-686c-5054-b4d2-543502888820
 HybridSystemsSimulations,bed98974-b02a-5e2f-9ee0-a103f5c450dd
@@ -9246,6 +9247,7 @@ RipsererDataPrep,af23ddc1-4c4f-4bcf-9c33-39460b30e4e2
 RipsererPrep,28fba1bf-e12c-44a1-af44-66aee64b468f
 RiskAdjustedLinearizations,7bb39b10-f246-11ea-2456-25a63198e074
 RiskBudgeting,a9f5bb6c-0632-44f9-9c01-5aa9e657c941
+RiskBudgetingMeanVariance,f229c2ab-fef4-405d-a999-5503961a83f7
 RiskLabAI,a72881da-fdaa-49c1-8962-99caf4ccfee8
 RiskMeasures,b5a8929a-7a15-4aed-937e-21e1a404cbc5
 RiskPerf,9166ba07-fd5b-44b6-9936-7aa4238d27f8
