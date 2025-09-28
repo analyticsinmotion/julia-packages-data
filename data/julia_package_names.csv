@@ -1688,6 +1688,7 @@ CloseOpenIntervals,fb6a15b2-703c-40df-9091-08a04967cfa9
 ClosedFormExpectations,70ff922c-62d4-418d-abfc-e284e489b734
 ClosedIntervals,059b0e18-018a-5deb-a5b2-c624ee85784b
 ClosedLoopReachability,73c0b437-a350-4e9b-97ac-9adb151c271b
+ClosedWaveguideDispersion,d74d092a-a0c6-412f-a98c-c8383163d778
 CloudBase,85eb1798-d7c4-4918-bb13-c944d38e27ed
 CloudClusters,4ca6f12b-c8f1-4945-b50f-6bb73234c039
 CloudCovErr,06334dd7-98ce-4d72-a129-750f571d4b02
@@ -6506,6 +6507,7 @@ MetidaStats,75cdad26-409a-4e43-8ad7-d54b4fa665a0
 Metis,2679e427-3c69-5b7f-982b-ece356f1e94b
 MetopDatasets,0c26954c-4046-4b98-a13c-f9377ca4b9b7
 Metrics,cb9f3049-315b-4f05-b90c-a8adaec4da78
+MetropolisAlgorithm,e0c51df9-7b68-45ac-a268-26cdc14101c5
 MetropolizedForestRecom,f1e60ccc-08a2-41db-b5d4-22e81ab96e15
 Mex,5e29dd5e-a72c-11e9-2bb7-cd1b1701caa7
 MibS_jll,118347d2-e127-56b9-9933-6abf9cc1adc1
