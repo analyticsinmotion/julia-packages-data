@@ -1044,6 +1044,7 @@ BlueNoise,9ae74011-d0f3-412c-a047-ea779e11a931
 BlueZ_jll,471b5b61-da80-5748-8755-67d5084d21f2
 Blueprints,0e25da23-48ae-47a7-b185-c5bd5c070cab
 BmlipTeachingTools,656a7065-6f73-6c65-7465-6e646e617262
+BnGStructs,764f5799-4fa8-443f-b488-b719b6ff37e3
 BoardGameGeek,57fe6dd9-21bb-41a8-84a4-b199e28a0641
 Bobby,bd34264e-e812-11e8-1ee8-bfb20fea2fb4
 Boids,d31cee86-d6f0-47a3-813b-bb8537950420
@@ -6633,6 +6634,7 @@ MobergIO,9bdc2bb6-e40d-4944-bd5f-2bf890d3f651
 MockAWS,34973bfc-0c0e-5173-a011-fa9066d4440a
 MockTableGenerators,63c704a1-a924-4685-a9dd-2c8225e4c0d3
 Mocking,78c3b35d-d492-501b-9361-3d52fe80e533
+ModalAssociationRules,fb95e5f7-b6b0-4744-a282-88ebeeae65a3
 ModalDecisionLists,dbece2fb-9d58-4710-9902-4ec759308ae8
 ModalDecisionTrees,e54bda2e-c571-11ec-9d64-0242ac120002
 ModalIntervalArithmetic,d9d21f8b-92ef-476a-95b1-a8f4ec3d740c
@@ -10696,6 +10698,7 @@ Symata,a906b1d5-d016-55c4-aab3-8a20cba0db2a
 SymbolServer,cf896787-08d5-524d-9de7-132aaa0cb996
 SymbolicAWEModels,9c9a347c-5289-41db-a9b9-25ccc76c3360
 SymbolicAnalysis,4297ee4d-0239-47d8-ba5d-195ecdf594fe
+SymbolicApproximators,edb0eac7-a3aa-4158-b16d-3faaf99b23a9
 SymbolicCircuit,90f18bad-8de6-4f24-a7ee-bfe158ef45c0
 SymbolicCodegen,fc9b0551-4f1b-42e1-8440-e8a535f5a551
 SymbolicControlSystems,886cb795-8fd3-4b11-92f6-8071e46f71c5
@@ -12183,6 +12186,7 @@ crun_jll,aef68bef-9b3f-58c3-affd-5589e119eed3
 cryptopp_jll,9ced465f-3d53-56cd-9803-9d1649b5e965
 cuDNN,02a925ec-e4fe-4b08-9a7e-0d78e3d38ccd
 cuOpt,29a73d17-8276-40b7-9ffb-d89e58023643
+cuPDLPx_jll,bca5daad-f4d3-5101-ae12-8b63679c982c
 cuQuantum_jll,b75408ef-6fdf-5d74-b65a-7df000ad18e6
 cuStateVec,92f7fd98-d22e-4c0d-85a8-6ade11b672fb
 cuTENSOR,011b41b2-24ef-40a8-b3eb-fa098493e9e1
