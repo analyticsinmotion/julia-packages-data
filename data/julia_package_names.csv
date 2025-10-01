@@ -5964,6 +5964,7 @@ LuxCUDA,d0bbae9a-e099-4d5b-a835-1c6931763bda
 LuxCore,bb33d45b-7691-41d6-9220-0943567d0623
 LuxDeviceUtils,34f89e08-e1d5-43b4-8944-0b49ac560553
 LuxLib,82251201-b29d-42c6-8e01-566dec8acb11
+LuxRecurrentLayers,5e5405f4-2f7b-4c22-98a2-cf8b6168ae33
 LuxTestUtils,ac9de150-d08f-4546-94fb-7472b5760531
 Luxor,ae8d54c2-7ccd-5906-9d76-62fc9837b5bc
 LuxorGraphPlot,1f49bdf2-22a7-4bc4-978b-948dc219fbbc
@@ -8540,6 +8541,7 @@ PyArrow,efc81ffe-9e87-4f02-af89-7663f751d186
 PyBoltz,0bca4874-a2b8-4dca-bc03-d2d86e344f1f
 PyBraket,e85266a6-1825-490b-a80e-9b9469c53660
 PyBullet,9e6df25e-3b2c-44c5-be37-b553c26be21f
+PyCDFpp,8480bde4-bc3c-44e7-baab-4ff1aa53fe88
 PyCaesar,5de271da-f4c9-48db-ba43-272b66d09ab8
 PyCall,438e738f-606a-5dbb-bf0a-cddfbfd45ab0
 PyCallChainRules,b12ccfe2-7326-416f-9f4f-cd3183bd9fe8
@@ -12392,6 +12394,7 @@ libnabo_jll,569caa04-3db7-54b1-b5fe-10f3ec93054b
 libnl_jll,7c700954-19d3-5208-81e2-8fa5fe7c0bd8
 libnode_jll,76d26698-d9ba-5ca1-ae24-4ac9393d02a0
 libopenjpegextra_jll,45948f9d-8d54-5094-b7bd-7e0ca68150a5
+liboqs_jll,f73f08d5-36d9-596d-acf6-d5a4dbccad08
 libosmium_jll,7f0a2ee1-9b43-5740-ae82-b54233cf7071
 libpcap_jll,f78539f5-9ba6-5ded-ae79-6d41194c59b7
 libpicosat_jll,6b231c3b-13f8-5ced-86ae-8860c7f75d86
