@@ -1138,6 +1138,7 @@ Btop_jll,a14fdeb2-c00a-556b-ab4f-03d750735e9e
 BubbleBath,06490a66-c478-4593-a275-4b14021bccc5
 Buchi,484f28d2-1a9e-4e02-bb9b-910131567e8f
 BudgetConstraints,51aacf4b-43e8-45f9-b960-ce5126c2a956
+BufferIO,ff366017-094f-4144-bd70-a828a0d67152
 BufferedFiles,58049f72-ad03-4b9e-92cf-b241b4467e52
 BufferedStreams,e1450e63-4bb3-523b-b2a4-4ffa8c0fd77d
 Buffers,d9ae4b7f-d04c-4b7f-92f7-4d9c2e17e1a4
@@ -2942,6 +2943,7 @@ ElectronDisplay,d872a56f-244b-5cc9-b574-2017b5b909a8
 ElectronGas,8c98e03e-8755-48b1-a5ef-1e2e7812a7c9
 ElectronLiquid,fe3a0b7f-0e79-43cc-aa0f-33de5212abe5
 ElectronTests,fa9e6d27-338f-4c48-a526-3b082c2df35e
+Electron_jll,a46fd3cf-b2b0-5367-b5a0-4facf7960654
 Electrum,b7bf5f09-dce4-461b-b741-5180c76f4cfe
 ElemCo,094d408e-8508-40f4-9646-a254980d91ac
 ElementSymbols,05abb99a-2616-4a0f-b7a8-7cbd3e8a9a5b
@@ -4294,6 +4296,7 @@ GraphicsMagick_jll,aa65733b-c888-5e24-8545-c87abc10c960
 GraphicsMath,c7a8a04f-9555-4fea-9aa6-9f2fbff5049a
 Graphite2_jll,3b182d85-2403-5c21-9c21-1e1f0cc25472
 Graphs,86223c79-3864-5bf0-83f7-82e725a168b6
+GraphsColoring,ed38bb8a-6120-4024-8d1e-8789784f251b
 GraphsFlows,06909019-6f44-4949-96fc-b9d9aaa02889
 GraphsInterfaceChecker,3bef136c-15ff-4091-acbb-1a4aafe67608
 GraphsMatching,c3af3a8c-b79e-4b01-bf44-c718d7e0e0d6
@@ -7158,6 +7161,7 @@ Ninja_jll,76642167-d241-5cee-8c94-7a494e8cb7b7
 NipponColors,6ad8dad8-821c-43d6-81bb-8d3dfb5c0fb6
 NistyPQC,2b8046e5-a088-403d-a84e-acdf171f9a66
 NoRainbows,0123455d-aa4f-468e-93ab-d299a68444db
+NoSleep,95f667b2-49e0-4955-80bd-390d74d178c7
 NodalPolynomialSpaces,0b197c3a-da26-4bf3-b373-765e7d9e4c53
 Nodariety,ffab58b1-199d-4bd9-83d9-8aaad2b4ff2e
 Node2Vec,c775ef22-2988-11e9-03e2-6f3df0344398
@@ -10115,6 +10119,7 @@ SoleData,123f1ae1-6307-4526-ab5b-aab3a92a2b8c
 SoleDecisionTreeInterface,de8eae22-3630-40e0-868c-abfc4c1bb3da
 SoleLogics,b002da8f-3cb3-4d91-bbe3-2953433912b5
 SoleModels,4249d9c7-3290-4ddd-961c-e1d3ec2467f8
+SolePostHoc,cf1aa0c3-12c9-4ebe-9bdc-bd6c2ca79b72
 SoleReasoners,eb5c4719-5716-4250-abf0-f5b4713e79ae
 SolidModeling,87eb8544-cf78-4b0d-97e3-b7004341d5e9
 SolidStateDetectors,71e43887-2bd9-5f77-aebd-47f656f0a3f0
@@ -10892,6 +10897,7 @@ TemplateMatching,b21ddb9f-2587-4215-bf7c-fbe182daf540
 Tempo,c33777b2-e695-4fae-9135-aeae8855dd81
 Temporal,a110ec8f-48c8-5d59-8f7e-f91bc4cc0c3d
 TemporalGPs,e155a3c4-0841-43e1-8b83-a0e4f03cc18f
+TemporalMixtureModels,04cebb6a-72a2-4d9b-bd91-f7dfea97eb3c
 TemporalNetworks,8c7a6a83-a663-42fb-a24a-c426533903ed
 Tempus,e6262be2-5787-4bdc-bc3f-4b5a3442fa30
 TenNetLib,1ce00845-9e1b-4798-bd63-033d15ad4ca9
