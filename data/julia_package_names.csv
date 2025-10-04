@@ -1467,6 +1467,7 @@ Cclib,6bf0c929-756b-4df7-ab0b-d621f7ebeba1
 Ccluster,8fd415a7-295e-5ecb-bee7-308748477f8f
 Ccluster_jll,2795595f-8cd6-5168-9a44-49c628ee0ce1
 CeMicrodata,11053890-0308-406b-94d3-d76ebcae6419
+Celerite2,d7c4d21e-f632-4ce8-8dec-1f68bf4f0d36
 CellArrays,d35fcfd7-7af4-4c67-b1aa-d78070614af4
 CellArraysIndexing,6597d73a-e7d2-484e-9044-f54e6a6a1966
 CellBase,01ff7365-e1e2-4ed5-aabe-f1c451dd6d4e
@@ -2644,6 +2645,7 @@ DistributedOperations,5333d757-b784-411c-847d-750c45219338
 DistributedQuery,15823ff3-ba11-45dc-afab-613a0ec31816
 DistributedReinforcementLearning,4d01364a-afc1-4828-a15a-b5219e90899b
 DistributedRelaxationTimes,77006267-fdeb-46de-a135-5da16dc5426c
+DistributedResourceOptimization,bad89516-e02f-43f9-a1d3-8f2ce98dd1a2
 DistributedSparseGrids,963c640e-cdaa-5978-8b8a-59ae1a680e3d
 DistributedSparseGridsPlotting,548b5689-f04a-429b-874f-be14d81f5589
 DistributedStwdLDA,4f7c0122-5260-4c96-aca3-bf9f51513501
@@ -4011,6 +4013,7 @@ GeneralizedChisqDistribution,99dca13f-2202-4520-8aaf-d8c6dbeefecd
 GeneralizedDubinsIntervalProblem,11014322-c36b-48e8-9f33-d4141ac63aad
 GeneralizedGaussianQuadrature,958e0c08-f14d-42e8-a0ab-84193b3783f2
 GeneralizedGenerated,6b9d7cbe-bcb9-11e9-073f-15a7a543e2eb
+GeneralizedGrossPitaevskii,1c32f1f8-fc12-41ee-a188-d96e58f04b51
 GeneralizedMonteCarlo,e9bfd9a4-9025-4baf-81dc-99e507987dd3
 GeneralizedMorseWavelets,b8d14031-e142-472f-b25f-bd9018bb5b90
 GeneralizedPhase,13235c25-d339-4138-a8bf-65c4e89d8d0a
@@ -6134,6 +6137,7 @@ MPFR_wrap,cdf4abc8-5239-43db-b7bc-12a39a6062cc
 MPI,da04e1cc-30fd-572f-bb4f-1f8673147195
 MPIArray4MoMs,b7f3fe35-ff1f-4dc5-b861-bd211d5a9a4b
 MPIAsyncPools,71dbed6d-20b0-48c6-bb22-c3e423edce76
+MPICH_CUDA_jll,be7bd464-f152-51b7-b3a2-8e7b69765627
 MPICH_jll,7cb0a576-ebde-5e09-9194-50597f1243b4
 MPIClusterManagers,e7922434-ae4b-11e9-05c5-9780451d2c66
 MPIFiles,371237a9-e6c1-5201-9adb-3d8cfa78fa9f
