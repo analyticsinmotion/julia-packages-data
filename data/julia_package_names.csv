@@ -1187,6 +1187,7 @@ CCBlade,e1828068-15df-11e9-03e4-ef195ea46fa4
 CCDReduction,b790e538-3052-4cb9-9f1f-e05859a455f5
 CCTools_jll,1e42d1a4-ec21-5f39-ae07-c1fb720fbc4b
 CClosure,6238cdf7-1651-426a-bbec-388a63a3d275
+CDAWeb,950ff2a9-823f-469c-91a7-754a5d85edca
 CDCLsat,b71133ba-6b01-47a0-b4fe-e7a9e8ed2c06
 CDCS,4fe2ecd4-b952-581a-b4b6-a532675a646e
 CDDLib,3391f64e-dcde-5f30-b752-e11513730f60
@@ -6023,6 +6024,7 @@ MDBM,dd61e66b-39ce-57b0-8813-509f78be4b4d
 MDCT,1ba2fcf6-b438-57ac-94bf-052622d64a91
 MDDatasets,176e4ad4-9107-502a-977c-53a5728fe704
 MDEStudy,45ce4efb-129e-4f36-8fe9-5e4f23129ff4
+MDFZero,d7387f09-800a-4cc8-8a20-0e66764c1296
 MDInclude,90d73f82-b7c3-43a4-ac2d-0ceedb790db1
 MDLovoFit,55da9f78-c647-4a46-be5d-0de490449a34
 MDLovoFit_jll,d8780812-71d7-51d3-b38b-dae269fdfcb3
@@ -9813,6 +9815,7 @@ ShipMMG,37f2b0bf-0c13-4883-8808-e75eb56597e7
 ShockwaveProperties,77d2bf28-a3e9-4b9c-9fcf-b85f74cc8a50
 Shoco,f786175c-7be2-5c6f-a66a-14694b1fea27
 Shoco_jll,70823c38-4688-527f-81c8-b284cebe458d
+ShoelaceWidgets,1dc53738-a592-4c0c-95ab-f92b84dc4c89
 ShortCodes,f62ebe17-55c5-4640-972f-b59c0dd11ccf
 ShortFFTs,3a4051df-11c6-4922-af5a-d7072afac5a2
 ShortStrings,63221d1c-8677-4ff0-9126-0ff0817b4975
