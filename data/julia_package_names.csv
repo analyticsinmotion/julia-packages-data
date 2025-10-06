@@ -7549,6 +7549,7 @@ OptimalTransportNetworks,e2b46e68-897f-4e4e-ba36-a93c9789fd96
 Optimisers,3bd65402-5787-11e9-1adc-39752487f4e2
 Optimization,7f7a1694-90dd-40f0-9382-eb1efda571ba
 OptimizationAlgorithms,5eef6961-c6df-46a7-ba44-0f01c6045f8f
+OptimizationAuglag,2ea93f80-9333-43a1-a68d-1f53b957a421
 OptimizationBBO,3e6eede4-6085-4f62-9a71-46d9bc1eb92b
 OptimizationBase,bca83a33-5cc9-4baa-983d-23429ab6bcbb
 OptimizationCMAEvolutionStrategy,bd407f91-200f-4536-9381-e4ba712f53f8
@@ -7557,6 +7558,7 @@ OptimizationEvolutionary,cb963754-43f6-435e-8d4b-99009ff27753
 OptimizationFlux,253f991c-a7b2-45f8-8852-8b9a9df78a86
 OptimizationGCMAES,6f0a0517-dbc2-4a7a-8a20-99ae7f27e911
 OptimizationIpopt,43fad042-7963-4b32-ab19-e2a4f9a67124
+OptimizationLBFGSB,22f7324a-a79d-40f2-bebe-3af60c77bd15
 OptimizationMOI,fd9f6733-72f4-499f-8506-86b2bdd0dea1
 OptimizationManopt,e57b7fff-7ee7-4550-b4f0-90e9476e9fb6
 OptimizationMetaheuristics,3aafef2f-86ae-4776-b337-85a36adf0b55
@@ -7572,6 +7574,7 @@ OptimizationPolyalgorithms,500b13db-7e66-49ce-bda4-eed966be6282
 OptimizationProblems,5049e819-d29b-5fba-b941-0eee7e64c1c6
 OptimizationPyCMA,fb0822aa-1fe5-41d8-99a6-e7bf6c238d3b
 OptimizationSciPy,cce07bd8-c79b-4b00-aee8-8db9cce22837
+OptimizationSophia,892fee11-dca1-40d6-b698-84ba0d87399a
 OptimizationSpeedMapping,3d669222-0d7d-4eb9-8a9f-d8528b0d9b91
 OptimizationTestFunctions,cd4f65ad-fe33-43f7-aff7-f8769dbe6900
 OptimizedEinsum,c9cfed12-e746-47c4-860d-affc68c43467
