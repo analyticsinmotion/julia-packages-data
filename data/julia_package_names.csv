@@ -3103,6 +3103,7 @@ ExaModels,1037b233-b668-4ce9-9b63-f9f681f55dd2
 ExaPF,0cf0e50c-a82e-488f-ac7e-41ffdff1b8aa
 ExaPowerIO,14903efe-9500-4d7f-a589-7ab7e15da6de
 ExaTron,28b18bf8-76f9-41ea-81fa-0f922810b349
+ExactConfidenceIntervals,cb5439cf-0c05-4d39-a458-fd4a793d2bb3
 ExactConversions,9d710cfd-26d5-4b84-a0a4-2b62d6e9d5fb
 ExactConvolution,0d552887-2f53-4f11-9665-485c167a9a55
 ExactDiagonalization,52dcaa32-6da7-11e9-20ef-755843cf72eb
@@ -4638,6 +4639,7 @@ HurdleDMR,f9e53bcf-9449-548a-a5fe-a83e43094f75
 Hurst,f5425a1d-c389-4276-87b1-4aa2dfb12528
 Hwloc,0e44f5e4-bd66-52a0-8798-143a42290a1d
 Hwloc_jll,e33a78d0-f292-5ffc-b300-72abe9b543c8
+HyDistFlow,ec11561a-3d46-4613-8fbe-e5ccb3a9c72d
 HybridAStar,123b5ccf-89cf-4973-9536-c0f20d353bb2
 HybridArrays,1baab800-613f-4b0a-84e4-9cd3431bfbb9
 HybridDynamicModels,7e133797-8c8e-49d9-acf3-b153daa40e06
@@ -7428,6 +7430,7 @@ OnlinePortfolioSelection,038f9fe3-14bd-47ca-b081-2e00e8c46dfa
 OnlineSampleStatistics,455218f6-ed6f-43e9-ad07-c481a1567983
 OnlineStats,a15396b6-48d5-5d58-9928-6d29437db91e
 OnlineStatsBase,925886fa-5bf2-5e8e-b522-a9147a512338
+OnlineStatsChains,c3092dcd-a09e-45f3-b86d-18109bff285f
 OnlineTechnicalIndicators,dc2d07fb-478f-4566-8417-81bb3e5a7af1
 OohataHuzinaga,a8c67e1a-51a8-4393-8cc1-c530063cb104
 OpSel,099ba0d8-67b8-41ac-a69a-bfd69f53aa15
@@ -11761,6 +11764,7 @@ WaveFlow,d8840e3d-a7fc-463d-bc34-4e391df193a6
 WaveOperators,8a8a931e-bb7e-411d-b5ad-3690531b5574
 WaveOpticsPropagation,c4c7a1f9-3adc-4a73-843a-d378b6c86436
 WavePropBase,91c5bd54-65f5-4719-ae3b-9579edfc4a0b
+WaveSim,357e0438-a8f0-40ee-b2b7-31745160e092
 WaveSpec,908d4cf6-a6c0-449c-92e4-852c8f288332
 Waveforms,cb13b1c6-351e-5134-b3ad-d6a530956a82
 WaveguideModes,4195bfc8-baed-4655-b3ea-4cd766faaf06
