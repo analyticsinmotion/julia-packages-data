@@ -3505,6 +3505,7 @@ FiniteGroups,7eb45ad1-e93a-4d9d-8e8f-2bf75ed29802
 FiniteHorizonGramians,b59a298d-d283-4a37-9369-85a9f9a111a5
 FiniteHorizonPOMDPs,8a13bbfe-798e-11e9-2f1c-eba9ee5ef093
 FiniteHorizonValueIteration,c7772946-478f-4fc8-9340-5223c2489741
+FiniteLattices,650210df-7c64-40ac-8e1f-94ea4f378b07
 FiniteMPS,6b572690-f317-4dad-a5fe-5fe73a0b7d42
 FiniteMesh,d3ebd857-6980-4843-ad12-8da20c4645b4
 FinitePosets,580d1d9c-67b1-4c59-872e-f12456ffb9fa
@@ -7920,6 +7921,7 @@ Pasteee,f468650b-ff2f-47f6-a837-e130848f4551
 PatModules,a21dec46-d3f5-4597-b5d8-44806e486af6
 PatchMixtureKriging,7f4aaa78-ba82-458d-b0a9-a4bcbebf63c4
 Patchelf_jll,f2cf89d6-2bfd-5c44-bd2c-068eea195c0c
+Patchwork,89290475-19d9-4972-8f76-8da21b5d05c1
 PathDistribution,1a7fcfa4-7553-5727-a5d0-072824df3c21
 PathIntersections,4c1a95c7-462a-4a7e-b284-959c63fbf1dc
 PathWeightSampling,e595aebf-dd45-48e4-a6c3-f40ecff26dc3
@@ -9007,6 +9009,7 @@ RayTracing,3007c720-8091-40db-9339-e09e4eb4c7ea
 Raylib,681baf3e-1d1e-48c9-b5e5-b1aea2d6d4d9
 Raylib_jll,f9cae4b5-603c-5a13-b73f-1dfe71482639
 RbfInterpolationTools,30ebf9c2-a709-4272-bf69-cc6d19405279
+RcloneInterface,932f4081-3d7e-4a99-9bcb-8a566d3812cb
 Rclone_jll,d3707c4a-c138-5086-90bb-c65de4e50315
 ReAnimation,ed54f85f-91e3-4912-9e4a-a43af611f8a9
 ReSHOP,97740bd8-9665-555f-bcf8-31e31065c979
@@ -9039,6 +9042,7 @@ ReadStat,d71aba96-b539-5138-91ee-935c3ee1374c
 ReadStatTables,52522f7a-9570-4e34-8ac6-c005c74d4b84
 ReadStat_jll,a4dc8951-f1cc-5499-9034-9ec1c3e64557
 ReadVTK,dc215faf-f008-4882-a9f7-a79a826fadc3
+ReadWorkWrite,0ca60e3c-a1ff-4be2-9c1f-01d3a4e79398
 ReadWriteDlm2,670cb119-9e6b-5dfa-81ab-9d3c314fe86c
 Readability,4455ec5f-b558-4ef1-b6d8-c3694046c382
 ReadableNumbers,7774933c-dd73-5de8-a8c3-ca082e6dff1c
@@ -9186,6 +9190,7 @@ ReplGPT,8ef5fce9-1516-4e06-b171-18cb54ddb04b
 ReplMaker,b873ce64-0db9-51f5-a568-4457d8e49576
 Replay,dd78c5bf-19c4-4e9c-96ce-c3ec745c7812
 ReplicateBE,671d9d50-c343-11e9-1a9c-fdd992682823
+RepoPacker,0492b770-a617-4b26-af09-22e984124158
 RepoSnapshots,44eb87bc-f37b-45e8-9f53-3bcb453a652d
 ReportMetrics,c1654acf-408b-4272-96ce-66c258df8a6c
 Repos,952dd333-a03f-400d-b720-7cb119ba64f7
