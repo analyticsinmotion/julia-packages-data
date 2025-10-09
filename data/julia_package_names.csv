@@ -96,6 +96,7 @@ AbnormalReturns,f9c80461-2ebf-4c7c-9c1c-d30d9d100fd8
 About,69d22d85-9f48-4c46-bbbe-7ad8341ff72a
 AbsSmoothFrankWolfe,6d364d26-5f85-487f-81b3-ae189dbb3e92
 AbstractAlgebra,c3fe647b-3220-5bb0-a1ea-a7954cac585d
+AbstractBayesOpt,735adf16-6ca3-4095-a89a-9a0ece110843
 AbstractCircuitComponentRounding,f69727b9-8a39-40e5-8e7a-0243a3421727
 AbstractControlProcesses,d0d8031c-1ca7-4517-a182-a2551ca8592c
 AbstractCosmologicalEmulators,c83c1981-e5c4-4837-9eb8-c9b1572acfc6
@@ -9626,6 +9627,7 @@ ScRNAseq,e44c6a41-5310-4d0d-ae73-cb13410d3383
 ScTenifold,fcca1770-266e-4af5-8612-876362e279e9
 ScalarKernelFunctions,802a20c4-2b75-4561-af12-9016d659aa4b
 ScalarRadau,52145ff8-3717-48bc-b8ab-44d3704098ee
+ScaleBar,b24819f0-15bd-425d-8fc0-a9d00d1e0559
 ScaledNumbersInput,8c0df181-3ed8-49fb-8e60-811d535a551e
 ScaledNumbersOutput,782ee38f-53f4-49ed-a0ae-b2a4e296146b
 ScalingCollapse,bcf2b353-04f3-4f78-ac0b-80007e341812
