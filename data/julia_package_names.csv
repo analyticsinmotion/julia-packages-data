@@ -1619,6 +1619,7 @@ CiteEXchange,e2e9ead3-1b6c-4e96-b95f-43e6ab899178
 CitrusAPI,fb58f9c3-ae58-4847-ba51-3b3c84151ac7
 CitrusBuilder,28cec04b-85b5-4b92-beb9-e8851fc733f1
 Clang,40e3b903-d033-50b4-a0cc-940c62c95e31
+ClangExtract_jll,d9a74643-86e8-547a-9e66-b074b7ecbd4d
 Clang_assert_jll,72d370af-b0e4-5787-9b36-2e8c6f54fb93
 Clang_jll,0ee61d77-7f21-5576-8119-9fcc46b10100
 Clang_unified_jll,ffc816e1-ba66-5fa9-9ecc-bcc5cb19bea1
@@ -7591,6 +7592,7 @@ Optionals,3304b86d-eb5b-5d22-9ed4-3b0a60539cfe
 Opus,0af1e411-0638-4d6d-bb05-ed1900b440d5
 Opus_jll,91d4177d-7536-5919-b921-800302f37372
 Oracle,7240a794-28ba-5199-b477-df5fe5cf6155
+OrbisChessEngine,2eacc985-a635-41e1-b67f-45fa7ceb5b4d
 OrbitPropagationLibrarySOFA,38b9e004-e2fa-4648-aa91-337faf7b69aa
 OrbitalElements,f8fcefdb-5f5a-475b-b2a0-c41c734946b5
 OrbitalTrajectories,2b613a20-8d2a-5290-b19f-e06f4bcc2e7d
@@ -8327,6 +8329,7 @@ PortMidi_jll,6b227df9-c220-5195-838c-e1464939a66f
 Porta,fb2f1d7b-1de9-45a3-b106-388808110f78
 PortfolioAnalytics,55d897a4-798b-418f-87f2-da98fa5ba518
 PortfolioOpt,d204b4b0-6ba1-497c-bfb5-71589c3b52ce
+PortfolioOptimisers,e0036ec9-05e5-505d-a6a9-07af41c94861
 Portinari,72ee7ba2-92b2-4971-a97d-28f521fe8910
 PosDefManifold,f45a3650-5c51-11e9-1e9a-133aa5e309cf
 PosDefManifoldML,a07f4532-e2c9-11e9-2ea2-6d98fe4a1f21
@@ -8695,6 +8698,7 @@ Qt6Quick3D_jll,6dc365b9-5e99-58d6-8812-efce7277b6ef
 Qt6QuickTimeline_jll,aaa24d55-1a42-52ef-a112-65a2da50b610
 Qt6ShaderTools_jll,ce943373-25bb-56aa-8eca-768745ed7b5a
 Qt6Svg_jll,6de9746b-f93d-5813-b365-ba18ad4a9cf3
+Qt6Tools_jll,41098d5d-486a-5be3-bd44-b646bda58606
 Qt6Wayland_jll,e99dba38-086e-5de3-a5b1-6e4c66e897c3
 Qt6WebChannel_jll,83f1a98f-4f9b-584f-8f95-63c67b3a1da2
 Qt6WebSockets_jll,35d9aba7-3991-5541-aec2-52abade7e365
