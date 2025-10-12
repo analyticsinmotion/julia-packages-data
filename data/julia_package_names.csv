@@ -22,6 +22,7 @@ ADNLPModels,54578032-b7ea-4c30-94aa-7cbd1cce6c9a
 ADOLC,a7293fd6-5c8a-477e-b6cc-312e3ac044ef
 ADOLC_jll,5f481b30-e4a3-563b-890b-c343462061b6
 ADRIA,7dc409a7-fbe5-4c9d-b3e2-b0c19a6ba600
+ADRIAIndicators,05ad51df-066f-4748-8c47-f6b67db83211
 ADSeismic,65edcd7e-b178-4558-a546-bf867610404b
 ADTypes,47edcb42-4c32-4615-8424-f2b9edc5f35b
 AEMS,3b430cce-3194-5812-b203-bf9e73c3e836
@@ -2946,6 +2947,7 @@ ElectroPhysiology,da7a9670-f599-43ac-b818-143f8bf87d45
 ElectrochemicalKinetics,a2c6e634-85ca-418a-9c67-9b5417ce2d04
 ElectromagneticFields,d6c1ba6f-ee03-53af-b876-68cefeb88ec8
 Electron,a1bb12fb-d4d1-54b4-b10a-ee7951ef7ad3
+ElectronCall,8ddd578f-0c94-4c64-8c65-f083f291b266
 ElectronDisplay,d872a56f-244b-5cc9-b574-2017b5b909a8
 ElectronGas,8c98e03e-8755-48b1-a5ef-1e2e7812a7c9
 ElectronLiquid,fe3a0b7f-0e79-43cc-aa0f-33de5212abe5
@@ -6213,6 +6215,7 @@ MacroModelling,687ffad2-3618-405e-ac50-e0f7b9c75e44
 MacroTools,1914dd2f-81c6-5fcd-8719-6d5c9610ff09
 MacroUtilities,274a0f0b-05f4-4024-87ff-de4a5b524b4f
 MadIPM,4406d55e-1099-4ca6-ac6a-6cf051b10024
+MadNCL,434a0bcb-5a7c-42b2-a9d3-9e3f760e7af0
 MadNLP,2621e9c9-9eb4-46b1-8089-e8c72242dfb6
 MadNLPGPU,d72a61cc-809d-412f-99be-fd81f4b8a598
 MadNLPGraph,2f590f30-ea46-438a-a78d-e5bfe3109704
@@ -6907,6 +6910,7 @@ MutationChecks,28e448c6-aefe-4fa0-855b-08706fcc0c50
 MuttsInterface,4f105e01-9b18-47b8-92a3-3fae8366c3d5
 MutualInformationImageRegistration,f55eb597-e6a1-4806-8966-600fcb3de930
 Mux,a975b10e-0019-58db-a62f-e48ff68538c9
+MuxDisplay,afaeafb7-3261-478a-83e7-deab50c7bbde
 MvNormalCDF,37188c8d-bc69-4638-b057-733e744175ec
 MvNormalCalibration,bbc1677d-7cf1-46ff-9fcf-9af1de965559
 MyAwesomePackage,19daf8e9-0870-4f25-9c1d-f38ed379fe1e
@@ -7740,6 +7744,7 @@ PLists,244549da-a957-11e8-2419-29f9eea8ace5
 PMC_jll,249dbc79-71b0-5013-a2f7-d158f2044670
 PMIx_jll,32165bc3-0280-59bc-8c0b-c33b6203efab
 PNGFiles,f57f5aa1-a3ce-4bc8-8ab9-96f992907883
+POMCGraphSearch,e82fe6b4-19c7-48e5-8e59-9f77de09f3d8
 POMCPOW,4c53ee00-974c-466f-8fa5-8dd73959bbab
 POMDPFiles,9cf5b727-2e06-5671-8c87-8c6b0f729d5d
 POMDPGifs,7f35509c-0cb9-11e9-0708-2928828cdbb7
