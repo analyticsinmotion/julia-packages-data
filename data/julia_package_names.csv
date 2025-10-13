@@ -4874,6 +4874,7 @@ IncSignFeas,f97a4e46-c504-430b-95a5-8a62ba574f60
 IncompleteLU,40713840-3770-5561-ab4c-a76e7d0d7895
 IncompressibleNavierStokes,5e318141-6589-402b-868d-77d7df8c442e
 IncrementalInference,904591bb-b899-562f-9e6f-b8df64c7d480
+IncrementalInferenceTypes,9808408f-4dbc-47e4-913c-6068b950e289
 IncrementalProgressBar,e78ae4d9-7c0a-4397-83ad-465eb5391708
 IncrementalPruning,82ee451e-1805-57fd-b4f9-e90c19bcb3e9
 IncrementalSVD,de227602-7e15-40a7-b166-bbaff82a52b8
@@ -9691,6 +9692,7 @@ ScopedStreams,ae12ab41-8e94-49b1-b3b7-5c73acb71980
 ScopedValues,7e506255-f358-4e82-b7e4-beb19740aa63
 ScoreDrivenModels,4a87933e-d659-11e9-0e65-7f40dedd4a3a
 ScoredTests,f38cd097-35c0-4a4d-abf7-36f5cb14a6cb
+Scorio,8b85e2e0-9a7f-4d8f-8e1e-3c5c7d5e8e0a
 Scotch,c8656ae5-b689-4c12-92d5-de0ad806c81d
 ScrapeSEC,856806e7-be2f-4540-8165-3a51303b7af0
 Scratch,6c6a2e73-6563-6170-7368-637461726353
@@ -10008,6 +10010,7 @@ SimulatedNeuralMoments,43b7c8c0-5622-45b8-90a3-338fc50d2232
 SimulationBasedCalibration,84405b40-1b58-4881-906f-8add004fb729
 SimulationBasedInference,78927d98-f421-490e-8789-96b006983a5c
 SimulationLogger,0f3b6f24-f534-4b11-a614-00dcf4ece10c
+SimulationLogging,d006b024-b550-4554-9ca0-d488e688d825
 SimulationLogs,e3c6736c-93d9-479d-93f3-96ff5e8836d5
 SimulationParameters,32ab26d3-25d6-405d-a295-367385e16093
 SimulinkSDIImporter,71d5d903-a9d4-4e03-9846-ef3fdeefd64d
@@ -12217,6 +12220,7 @@ charon_jll,25c75577-2a26-528c-a488-ab5b6e0c7170
 cif_api_jll,6fcef0ae-1c05-5fc1-b206-1cf994addbad
 cilantro_jll,a3b35723-f448-5ea8-82d7-f10131ef8160
 cilkrts_jll,71772805-00bc-5a29-9044-a26d819b7806
+cliquer_jll,3c0ef3d7-c8db-52c0-a794-17abeb0e3f8d
 cmark_gfm_jll,a3df0bfa-898a-51af-9696-aaeb342b5108
 cmark_jll,7ecd0961-8137-5994-b1c6-01b84f60da24
 cminpack_jll,b792d7bf-f512-5dba-8a02-6d8084434f1d
