@@ -464,6 +464,7 @@ Asimov,d6cb2d2e-c0e1-4728-a899-ef9458c69435
 AsmJit_jll,1afa9899-fc99-5d84-9f06-5cc81cdd983b
 AsmMacro,f617cd02-e7fb-5dad-8d07-aa96542e7fbb
 AssemblyView,e1a66ace-d94f-4d56-9cba-db43e0ec34d1
+AssetCrates,d8559f7b-85bf-40b2-8b45-fabe493c1faa
 AssetRegistry,bf4720bc-e11a-5d0c-854e-bdca1663c893
 Assets,4a03a35a-a24b-4d57-b425-13a263c27574
 AssignTaxonomy,941572e2-79a6-4ec3-8380-7ad5c8caa571
@@ -560,6 +561,7 @@ Aurora,7e0f99ac-a6fe-4198-8809-f35fd52d95a1
 AuthGG,73b108b0-3f95-4bd2-8c7c-23af2537d260
 Authorization,b5147960-3063-5349-a9c3-a0b314d6952d
 AutoBZCore,66bd3e16-1600-45cf-8f55-0b550710682b
+AutoComputationalGraphTuning,9895cdd9-2e9e-4374-a2b7-90eb9a5a3bcd
 AutoCorrelationResampling,7721453b-5e57-40b4-b973-78d00789d4c1
 AutoDiffOperators,6e1301d5-4f4d-4fb5-9679-7191e22f0e0e
 AutoEncoderToolkit,1575904b-3569-468b-ae7a-8569c4d6dae9
@@ -3427,6 +3429,7 @@ FerriteMeshParser,0f8c756f-80dd-4a75-85c6-b0a5ab9d4620
 FerriteMultigrid,69a0a054-a29c-4d77-8818-cd7ec12cfcdc
 FerriteViz,59d0093e-b1f1-4fb7-ac85-ab57e45f39d9
 Fetch,bb354801-46f6-40b6-9c3d-d42d7a74c775
+FewBodyDB,db38d531-b084-4210-bfec-cee5c3c1a709
 FewBodyHamiltonians,3a126c26-e5d7-4a95-83c3-3b69f8a11ded
 FewBodyPhysics,dd57e2ab-7dae-448b-a136-57ab9eca4234
 FewBodyToolkit,28c40a4d-cd08-48a0-9e99-cc2df8099be4
@@ -3827,6 +3830,7 @@ GCUtils,25d72b2e-e87f-11ef-9f1d-00155d5ae889
 GDAL,add2ef01-049f-52c4-9ee2-e494f65e021a
 GDAL_jll,a7073274-a066-55f0-b90d-d619367d196c
 GDB_jll,a8b33d9f-0f8b-5197-9986-f85cbaa50c6c
+GDMathLib,ed54f85f-91e8-4912-9e4a-a43af611f8a9
 GEEBRA,c959553c-f8cc-46e9-a814-0006f6d26ee1
 GEMPIC,b6d65c3a-4a4e-11e9-25d0-d309dc85ddeb
 GEOGloWS,ca5be53c-8591-4213-9e02-39f26c545885
@@ -3996,6 +4000,7 @@ GeNIOS,633953ab-b710-48ef-9c4e-3b2d1d3d8185
 Geant4,559df036-b7a0-42fd-85df-7d5dd9d70f44
 Geant4_jll,872b6946-528a-5ac7-9145-d37eec569368
 Geant4_julia_jll,e202cb52-5471-567a-9cb0-0ca301e27810
+Gears,12b47476-e81a-4b1e-bd5d-7199c2c66cc7
 Gecko,1207f3c9-c989-46bd-b274-f7b835830eca
 GellMannMatrices,ab9ec009-2876-46ab-95e9-a984e5637243
 Gemini,0e52221f-e550-4e6d-bdf1-4c59b98d8cd5
@@ -12648,6 +12653,7 @@ s5cmd_jll,9c7924da-da29-52d4-adf6-81e6cfbf5c74
 sais_jll,87580118-d570-561d-bbff-a6d0453db9f3
 samtools_jll,cafa7ba0-c216-50a9-a84c-e0b2e0e60c48
 satsuma_jll,21c6bb45-b5e4-54df-a79f-e074cc52b729
+sba_jll,0286bae6-9fa4-574c-a97d-dd326ec6ac87
 sccache_jll,a0ca49aa-d5b3-56d4-a580-62818514636d
 scopehal_jll,c69b092c-cabd-51ee-983a-b3d58f6c0ce7
 sdsl_lite_jll,74ccf9ed-edcf-595f-acda-b35b5ec4b965
