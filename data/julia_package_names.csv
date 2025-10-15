@@ -2039,6 +2039,7 @@ CoordinatedSupplyChains,3aaabd38-80f0-440d-8028-ff5345734cd4
 Coordinates,15ac8fbd-cb39-4be8-bb90-8f74d06af8f8
 CopEnt,3d58aee0-59b1-4d68-b4d3-acbeec332be7
 CopernicusData,40f541ec-ef23-43f7-b2aa-6425eeeec50a
+CopernicusMarine,cd43e856-93a3-40c8-bc9e-6146cdce14fa
 CopositiveAnalyticCenter,05dc622f-161e-4567-aeb3-31c6e962d327
 Copulas,ae264745-0b69-425e-9d9d-cf662c5eec93
 CoralBlox,f00a6e10-004a-11ef-3676-67ec635bc1a2
@@ -5929,6 +5930,7 @@ LogicCircuits,a7847b3b-b7f1-4dd5-83c3-60e0aa0f8599
 LogicToolkit,d3a281b0-2e49-4a34-8c25-fb04c757da16
 LogisticOptTools,1300ed3d-6860-462d-a0dd-96dd8e4084ab
 LogisticROC,6bf4ee07-1766-4a3a-9e7e-3ffe73513617
+LogisticSAEM,262e3ab3-471d-4025-88c1-a54caa1d773a
 Logistics,e933307e-f964-4372-9340-e36d39c2f667
 LogitSamplers,1b30fcfc-0ee9-4be2-9cfe-b2289b43e041
 Logomaker,3e22dfff-eee4-477b-ac6a-6f7f49e5ccf0
@@ -9208,6 +9210,7 @@ RepeatingDecimalNotations,fbb887af-2519-40af-8dc5-25186fd85022
 ReplGPT,8ef5fce9-1516-4e06-b171-18cb54ddb04b
 ReplMaker,b873ce64-0db9-51f5-a568-4457d8e49576
 Replay,dd78c5bf-19c4-4e9c-96ce-c3ec745c7812
+RepliBuild,4450f29b-7b71-45c6-8742-e7520a479938
 ReplicateBE,671d9d50-c343-11e9-1a9c-fdd992682823
 RepoPacker,0492b770-a617-4b26-af09-22e984124158
 RepoSnapshots,44eb87bc-f37b-45e8-9f53-3bcb453a652d
@@ -10867,6 +10870,7 @@ Tables,bd369af6-aec1-5ad0-b16a-f7cc5008161c
 TabletWeaving,562db2e1-a68d-468c-8704-31bf85beff7e
 Tabulae,a03c184b-2b42-4641-ae65-f14a9f5424c6
 TabularDisplay,3eeacb1d-13c2-54cc-9b18-30c86af3cadb
+TabularFunctions,7add9882-6fce-4afb-882d-af036a41bc9c
 TabularMakie,a1206b2a-a832-4df1-8526-ead2f0882fc9
 TabularTDLearning,df77095f-98f0-51e5-a706-d0ff5a5ad33f
 TabulatedQuadratureRules,3da39775-d94e-428b-a709-24e9ab7fe27d
