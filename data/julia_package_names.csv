@@ -1473,6 +1473,7 @@ Ccluster,8fd415a7-295e-5ecb-bee7-308748477f8f
 Ccluster_jll,2795595f-8cd6-5168-9a44-49c628ee0ce1
 CeMicrodata,11053890-0308-406b-94d3-d76ebcae6419
 Celerite2,d7c4d21e-f632-4ce8-8dec-1f68bf4f0d36
+Cell2HR,5c73846f-6712-4eb1-b84d-78fe4ff3efce
 CellArrays,d35fcfd7-7af4-4c67-b1aa-d78070614af4
 CellArraysIndexing,6597d73a-e7d2-484e-9044-f54e6a6a1966
 CellBase,01ff7365-e1e2-4ed5-aabe-f1c451dd6d4e
@@ -1691,6 +1692,7 @@ Clipper,c8f6d549-b3ab-5508-a0d1-48fe138e8cc1
 Clipper2_jll,6a795559-3f7e-5382-b5a1-7e858e3d15a4
 Clipper_jll,1721f0f4-5627-55cb-8b31-c466f04189fe
 CliqueTrees,60701a23-6482-424a-84db-faee86b9b1f8
+Cliquer,de97a3fd-3e70-4f7d-9cd1-f8dda99baab4
 Cliquing,570927c9-3032-54d7-b655-f6b1c77412c2
 Clockwork,5f19fa64-e0b3-455f-937a-ba40af0c08d8
 CloseOpenIntervals,fb6a15b2-703c-40df-9091-08a04967cfa9
@@ -3109,6 +3111,7 @@ ExTinyMD,fec76197-d59f-46dd-a0ed-76a83c21f7aa
 ExaAdmm,4d6a948c-1075-4240-a564-361a5d4e22a2
 ExaFMMt,add1291b-d076-47cc-8667-64576de04ee0
 ExaModels,1037b233-b668-4ce9-9b63-f9f681f55dd2
+ExaModelsPower,2fff4b78-0b6c-428d-bac8-85ccea8c4bdf
 ExaPF,0cf0e50c-a82e-488f-ac7e-41ffdff1b8aa
 ExaPowerIO,14903efe-9500-4d7f-a589-7ab7e15da6de
 ExaTron,28b18bf8-76f9-41ea-81fa-0f922810b349
@@ -7550,6 +7553,7 @@ OptimBase,87e2bd06-a317-5318-96d9-3ecbac512eee
 OptimKit,77e91f04-9b3b-57a6-a776-40b61faaebe0
 OptimPack,04a3d532-ba69-5937-989a-472689bdb720
 OptimPack_jll,8115cc2e-fb29-5d71-b5cb-a4fb1c5dcd4c
+OptimShortestPaths,665f6718-e944-491c-97a0-bc01f3ed948a
 OptimTestProblems,cec144fc-5a64-5bc6-99fb-dde8f63e154c
 OptimalApplication,3e920f78-0eb2-4966-9e73-7442414dae3e
 OptimalBids,54ed2464-0158-49e7-9a8e-1c1697a616e3
@@ -11774,6 +11778,7 @@ Walsh,f1c6acf7-8ab3-4e4a-9b0e-68ce1a4a1adb
 Waluigi,aa5a021a-6c35-4f46-b189-2143d43923dc
 Wandb,ad70616a-06c9-5745-b1f1-6a5f42545108
 WandbMacros,e69cbec5-4d86-4e4e-9018-58a9d8b3f761
+WangLandau,8fe66260-677e-4fa0-b9cd-b744032f5639
 Wannier,2b19380a-1f7e-4d7d-b1b8-8aa60b3321c9
 WannierIO,cb1bc77f-5443-4951-af9f-05b616a3e422
 WarmupHMC,60658175-6863-4866-a322-ab51a11c0cfe
