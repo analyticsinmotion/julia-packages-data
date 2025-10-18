@@ -195,6 +195,7 @@ AddInit,fb98f0d0-f82c-4729-879a-95be0d8634ee
 AddLatest,404e4c7d-d40a-4c57-9c40-90ee175e5491
 AddPackage,70d26913-0580-4037-ad67-7d2c365cf5c5
 AddToField,5f906781-1e48-4758-8d00-55479429a6a5
+AdditionalDistributions,6655a985-646a-4595-ab89-59c8a6085518
 AdditionalUnits,02d9b4f0-7821-44c6-acbd-01a1ab91b72e
 AdditiveCellCom,c442aa85-5626-4e74-944d-fad50fba57b5
 AdditiveClosuresForCAP,bbee75d5-3cb4-4478-8ae7-eddc7864e69e
@@ -3053,6 +3054,7 @@ EpochFolding,d59dda0b-512f-44d1-9007-ebd7d520ecca
 EpollShim_jll,2702e6a9-849d-5ed8-8c21-79e8b8f9ee43
 EponymKeywordSyntax,d38a42db-3801-4ba0-8d69-b527598ec48c
 EponymTuples,97e2ac4a-e175-5f49-beb1-4d6866a6cdc3
+Epsteinlib_jll,4ec54591-1743-56ec-8704-f258a6d96b61
 EqualityConstrainedMinimization,3687fdae-f7fc-44d6-b290-5a4209d5cae9
 EqualitySampler,78feedfb-ee96-4c5d-801a-e07e5d165ffd
 Equate,1f4a9958-6928-474c-bcb2-b5c430b26db6
