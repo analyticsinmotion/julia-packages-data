@@ -881,6 +881,7 @@ BijectiveHilbert,91e7fc40-53cd-4118-bd19-d7fcd1de2a54
 Bijectors,76274a88-744f-5084-9051-94815aaf08c4
 BilevelHeuristics,61682c44-1689-4c10-8e1b-162e0db5231e
 BilevelJuMP,485130c0-026e-11ea-0f1a-6992cd14145c
+BilevelOptSolver,ebd9d908-4cd9-41bb-bf99-b5a9fe2ee039
 BilevelOptimization,98803d92-2a2a-5e5c-9642-fb423c87776e
 BinBencherBackend,63a9268e-b9e5-4a07-aba6-1f52d4878f75
 BinDeps,9e28174c-4ba2-5203-b857-d8d62c4213ee
@@ -4319,6 +4320,7 @@ Graphics,a2bd30eb-e257-5431-a919-1863eab51364
 GraphicsMagick_jll,aa65733b-c888-5e24-8545-c87abc10c960
 GraphicsMath,c7a8a04f-9555-4fea-9aa6-9f2fbff5049a
 Graphite2_jll,3b182d85-2403-5c21-9c21-1e1f0cc25472
+Graphons,e0c12bfd-47d7-434e-afb7-632611640ca5
 Graphs,86223c79-3864-5bf0-83f7-82e725a168b6
 GraphsColoring,ed38bb8a-6120-4024-8d1e-8789784f251b
 GraphsFlows,06909019-6f44-4949-96fc-b9d9aaa02889
