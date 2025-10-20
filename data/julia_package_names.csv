@@ -7591,6 +7591,7 @@ OptimizationGCMAES,6f0a0517-dbc2-4a7a-8a20-99ae7f27e911
 OptimizationIpopt,43fad042-7963-4b32-ab19-e2a4f9a67124
 OptimizationLBFGSB,22f7324a-a79d-40f2-bebe-3af60c77bd15
 OptimizationMOI,fd9f6733-72f4-499f-8506-86b2bdd0dea1
+OptimizationMadNLP,5d9c809f-c847-4062-9fba-1793bbfef577
 OptimizationManopt,e57b7fff-7ee7-4550-b4f0-90e9476e9fb6
 OptimizationMetaheuristics,3aafef2f-86ae-4776-b337-85a36adf0b55
 OptimizationMultistartOptimization,e4316d97-8bbb-4fd3-a7d8-3851d2a72823
@@ -8112,6 +8113,7 @@ PikaParser,3bbf5609-3e7b-44cd-8549-7c69f321e792
 Pikchr_jll,bb53d66c-7482-569a-820c-c7df7b381dd9
 Pilates,c24c5e2f-a713-4bab-b0d1-32f8b5281162
 Pilot,ae4e50cc-6dbb-4f20-9f13-c46e7dac87e8
+PinCFlow,230a4047-f24c-41d9-8d93-b3b8a5ef3847
 Pinchot_jll,a0e007bb-30f3-5a40-a04b-58baf70e7e14
 Pinecone,ee90fdae-f7f0-4648-8b00-9c0307cf46d9
 Pingouin,61ac1d4c-5a1f-4019-949c-7919748f8c44
@@ -11787,6 +11789,7 @@ Wandb,ad70616a-06c9-5745-b1f1-6a5f42545108
 WandbMacros,e69cbec5-4d86-4e4e-9018-58a9d8b3f761
 WangLandau,8fe66260-677e-4fa0-b9cd-b744032f5639
 Wannier,2b19380a-1f7e-4d7d-b1b8-8aa60b3321c9
+WannierExcitonModel,b427a48a-3e32-43b5-a614-63ff4457e590
 WannierIO,cb1bc77f-5443-4951-af9f-05b616a3e422
 WarmupHMC,60658175-6863-4866-a322-ab51a11c0cfe
 Wasabi,cec542a4-22c5-46cb-8ca4-a46a7737b387
