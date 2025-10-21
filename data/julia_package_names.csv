@@ -3511,6 +3511,7 @@ FindMinimaxPolynomial,af72fe11-ff17-4ca6-9497-daf1aa55531e
 FindPeaks1D,d8961e24-b28b-4efb-8e50-1c680b9a7431
 FindSteadyStates,5ce5e58b-649a-467a-bfd0-ccefe064e451
 FiniteDiff,6a86dc24-6348-571c-b903-95158fe2bd41
+FiniteDiffWENO5,4b1b4241-afed-47c3-a843-c6e03821b375
 FiniteDifferenceFormula,fc1124c1-9066-4ec6-b9ac-c409d23c4e6c
 FiniteDifferenceMatrices,a7a66f33-e7b8-47af-b618-f9b5bea05f3d
 FiniteDifferences,26cc04aa-876d-5657-8c51-4c34ba976000
@@ -4148,6 +4149,7 @@ GeometricEquations,c85262ba-a08a-430a-b926-d29770767bf2
 GeometricFilter,52e57683-dc88-4bd1-983c-468b4cfc34f1
 GeometricFlux,7e08b658-56d3-11e9-2997-919d5b31e4ea
 GeometricIntegrators,dcce2d33-59f6-5b8d-9047-0defad88ae06
+GeometricIntegratorsBase,71212ab4-08a2-48eb-a02b-4cbad0e9c44a
 GeometricIntegratorsDiffEq,5a33fad7-5ce4-5983-9f5d-5f26ceab5c96
 GeometricKalman,37c64ece-753e-4456-a3c8-f0622d3cd54c
 GeometricMachineLearning,194d25b2-d3f5-49f0-af24-c124f4aa80cc
