@@ -5517,6 +5517,7 @@ LLVM_assert_jll,1a4ff6f1-5156-5f9a-8aa5-a2840611f610
 LLVM_full_assert_jll,6ec703ca-3f29-566b-9bb1-b5c9e844abaf
 LLVM_full_jll,a3ccf953-465e-511d-b87f-60a6490c289d
 LLVM_jll,86de99a1-58d6-5da7-8064-bd56ce2e322c
+LLVM_utils_jll,7464d292-bb96-5107-870f-256ce0e8f954
 LMDB,11f193de-5e89-5f17-923a-7d207d56daf9
 LMDB_jll,6206cf0b-f360-5984-af49-5437264c140e
 LMDiskANN,a2e5363b-c4e1-4593-9e2f-a2937b345987
@@ -6307,6 +6308,7 @@ Maracas,329a7628-3119-536a-a060-c6b2f8e35265
 MarchingCubes,299715c1-40a9-479a-aaf9-4a633d36f717
 Marconi,bbe32c30-8a1d-11e9-18de-655e918680e9
 MarginalLogDensities,f0c3360a-fb8d-11e9-1194-5521fd7ee392
+Margins,883ce5cb-1d42-4db9-84e7-eea888f0a17e
 MariaDB_Connector_C_jll,aabc7e14-95f1-5e66-9f32-aea603782360
 MariaDB_Connector_ODBC_jll,1124d457-72a3-5205-9757-36a127c7d0f8
 MarkableIntegers,0913cafa-90c8-523e-aa68-da9dd2ac225d
@@ -8092,6 +8094,7 @@ Piccolo,c4671d76-df94-11ed-2057-43d4fd632fad
 PiccoloPlots,f42a522c-b487-4f73-ad5a-ad0c3e4a12c8
 PiccoloQuantumObjects,5a402ddf-f93c-42eb-975e-5582dcda653d
 Pickle,fbb45041-c46e-462f-888f-7c521cafbc2c
+PicoHTTPParser_jll,c57283d8-6a1b-5748-ae95-e23eefbd933c
 PicoQuant,2db47837-5a65-4a20-8d0f-8ec2491baa53
 PicoSAT,ff2beb65-d7cd-5ff1-a187-74671133a339
 PicoSAT_jll,e78fa76d-a187-569f-aede-ad11521a2edf
@@ -10837,6 +10840,7 @@ TERMIOS,10233e3b-0d6c-416a-8c1a-d3d286bd6cd2
 TFRecord,841416d8-1a6a-485a-b0fc-1328d0f53d5e
 TGGeometry,d7e755d2-3c95-4bcf-9b3c-79ab1a78647b
 TIFFDatasets,8d837e6f-fc51-4c76-affd-c130faf94be7
+TJProdEst,abc1b9c5-3c15-4812-bf1e-3dec67f530a4
 TKTDsimulations,e31a5254-3556-45b0-bb0a-af5ec6251750
 TLDR,ea576619-15d3-4675-b24c-7b7a8f11ced0
 TMLE,8afdd2fb-6e73-43df-8b62-b1650cd9c8cf
