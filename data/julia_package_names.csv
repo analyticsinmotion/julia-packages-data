@@ -1419,6 +1419,7 @@ CarlemanLinearization,4803f6b2-022a-4c1b-a771-522a3413ec86
 Carlo,780c37f4-4e5a-43de-9e79-65c261e525a4
 CarnotCycles,b01af851-7cff-425c-b4a4-ed45d3481e5c
 CarouselArrays,728b0f75-d1ac-44d2-96e7-73f1be4eca2f
+CarouselGreedy,100727de-7a56-4b5d-9379-46eb10e23cf1
 Cartan,e24af43f-9fd5-4672-9264-a75f3ae40eb2
 CartesianCategories,c5961c08-7b59-43f4-a15e-02b3e7c87ab8
 CartesianCutCell,21ad27bb-7bae-4588-b189-a1a591923795
@@ -8841,6 +8842,7 @@ QuantumStatePlots,42a22799-231f-43e2-8d9d-80a724399a88
 QuantumSymbolics,efa7fd63-0460-4890-beb7-be1bbdfbaeae
 QuantumTomography,1d9c40fe-1d26-11ea-03f8-f5801c7a1696
 QuantumToolbox,6c2fb7c5-b903-41d2-bc5e-5a7c320b9fab
+QuantumTransport,411772af-e49e-49ed-af28-686d52595cd1
 QuantumWalk,715ab00d-497d-5f5e-92b0-16e551a8d81b
 QuartetNetworkGoodnessFit,1382f7fc-2744-4d9d-8ec6-1e3efdec0746
 Quarto,d7167be5-f61b-4dc9-b75c-ab62374668c5
