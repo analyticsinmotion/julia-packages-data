@@ -7363,6 +7363,7 @@ ORC_jll,fb41591b-4dee-5dae-bf56-d83afd04fbc0
 ORTools,b7d69b34-a827-4671-8cfa-f7e1eec930c7
 ORToolsGenerated,6b269722-41d3-11ee-be56-0242ac120002
 ORTools_jll,717719f8-c30c-5086-8f3c-70cd6a1e3a46
+OSMGeocoder,28a637ce-2736-498a-9075-487c6d86a7c1
 OSMMakie,76b6901f-8821-46bb-9129-841bc9cfe677
 OSMToolset,a1c25ae6-0f93-4b3a-bddf-c248cb99b9fa
 OSQP,ab2f91bb-94b4-55e3-9ba0-7f65df51de79
