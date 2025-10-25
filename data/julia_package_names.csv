@@ -6281,6 +6281,7 @@ ManagedLoops,36a4119d-6b73-4371-88fe-ba2d91f5495d
 Mandelbrot,52854307-bbd1-4ac7-933f-adc0936abe8a
 Mangal,b8b640a6-63d9-51e6-b784-5033db27bef2
 Mango,5e49fdec-d473-4d14-b295-7bff2fcf1925
+MangoEnergyEnvironments,648f5313-62c6-43ee-8010-c7c816bb980d
 ManiFactor,644c2d91-53c3-4334-b351-920c96c0b266
 ManifestUtilities,8c44504f-1cba-4a08-a12a-8828b1581fee
 ManifoldBindings,6347b20d-ab3f-4582-b354-87a116902036
@@ -7818,6 +7819,7 @@ PSIS,ce719bf2-d5d0-4fb9-925d-10a81b42ad04
 PSRBridge,c616c425-6d4e-4525-9781-0810509229d1
 PSRClassesInterface,1eab49e5-27d8-4905-b9f6-327b6ea666c4
 PSRDADA_jll,112af7e5-2028-5602-98a6-a68893324ddc
+PSRDatabase,d9b62651-08e5-4754-bb8c-8acb2abbd08d
 PSSFSS,6b20a5d4-3c6c-44cd-883b-1480592d72be
 PTSCOTCH_jll,b3ec0f5a-9838-5c9b-9e77-5f2c6a4b089f
 PThreadPool_jll,a74eb8f4-56fd-5a14-80e9-60c06ef4dc0e
@@ -11697,6 +11699,7 @@ VegaDatasets,0ae4a718-28b7-58ec-9efb-cded64d6d5b4
 VegaFusion_jll,e97bca81-1c03-5bcd-840e-fab7961fc59f
 VegaLite,112f6efa-9a02-5b7d-90c0-432ed331239a
 VegetationPeriods,4df5cbe9-1151-4758-a012-f067475fd452
+VelocityDistributionFunctions,63a0b508-f74a-48f7-b6e7-0e65849b0078
 Vensim2MTK,6539e830-265a-11ee-32ea-19fcbc6dc4d8
 VerTeX,cc48e778-429c-5593-b60f-2bcf41d5649c
 VeriQuEST,3aa2c528-5caf-4a2e-b044-409d1cbc6a28
