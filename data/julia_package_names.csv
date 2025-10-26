@@ -2725,6 +2725,7 @@ DomainIntegrals,cc6bae93-f070-4015-88fd-838f9505a86c
 DomainSets,5b8099bc-c8ec-5219-889f-1d9e522a28bf
 DominanceAnalysis,61e87ef1-9b8b-4988-a4a2-86a1869cf33a
 DontMaterialize,5f58fed1-7d9e-412e-9290-962e4cbf8d80
+Doom_jll,3cb357e7-0c63-562a-a9d8-fef2e353dfb8
 DopplerSpectroscopyCore,5ae39bbf-cd25-4248-8c0a-5a8eea00c34e
 DormandPrince,5e45e72d-22b8-4dd0-9c8b-f96714864bcd
 DoseCalculators,fb202ad0-d22e-11eb-2fc2-a7d76729265e
@@ -6862,6 +6863,7 @@ MultiJuMP,f6097e2c-3ba3-5605-a9a8-3a277acb490f
 MultiKDE,77543b7f-bd95-4024-91c1-46775346e0e7
 MultiModalMuSig,a66acb62-5df1-561a-8400-71bc98699397
 MultiObjectiveAlgorithms,0327d340-17cd-11ea-3e99-2fd5d98cecda
+MultiOrbitalTightBinding,d871067b-d151-416a-b662-b20fedbe94b9
 MultiPrecisionArrays,e0585029-f0fd-471c-997a-b805c9f71f28
 MultiQuad,8fca5bbe-a785-4bb7-9793-c0c8ddca5d4b
 MultiQuantityGPs,f6349cb8-2139-4a62-bb23-95f1cd2c4c3a
@@ -9199,6 +9201,7 @@ ReinforcementLearningExperiments,6bd458e5-1694-412f-b601-3a888375c491
 ReinforcementLearningFarm,14eff660-7080-4cec-bba2-cfb12cd77ac3
 ReinforcementLearningTrajectories,6486599b-a3cd-4e92-a99a-2cea90cc8c3c
 ReinforcementLearningZoo,d607f57d-ee1e-4ba7-bcf2-7734c1e31854
+RejectionSamplers,90f62166-f53e-5083-ac0e-6e2bf74182ae
 RelationalDatasets,6b8bdb16-f930-11eb-22b5-7ba1dabdf7a8
 Relationals,0682c367-51f6-4d82-8bfe-b4722079e034
 RelationshipMatrices,d4d45922-7dca-4708-ac5a-a6dbb0551829
