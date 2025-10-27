@@ -1113,6 +1113,7 @@ BracketingNonlinearSolve,70df07ce-3d50-431d-a3e7-ca6ddb60ac1e
 BraidChains,2f0bda38-0aac-4c24-8082-32a9a5324934
 BraidGroup,88710b8a-735b-4c46-a451-f37baff89cb3
 BrainFlow,abd5acf9-0fc9-4730-984d-e27a37823580
+BrainVisionDataFormat,a1c37e40-cd17-11e8-241b-47481c954d92
 Braket,19504a0f-b47d-4348-9127-acc6cc69ef67
 BraketAHS,aad1d28c-1a3f-47da-806d-2ed76430c1d6
 BraketSimulator,76d27892-9a0b-406c-98e4-7c178e9b3dff
@@ -2430,6 +2431,7 @@ Delaunator,466f8f70-d5e3-4806-ac0b-a54b75a91218
 Delaunay,07eb4e4e-0c6d-46ef-bc4e-83d5e5d860a9
 DelaunayTriangulation,927a84f5-c5f4-47a5-9785-b46e178433df
 DelayDiffEq,bcd4f6db-9728-5f36-b5f7-82caef46ccdb
+DelayDifferentialAnalysis,b6d4d9e0-4e3a-4c8f-9a1f-2e7b8c9d0e1a
 DelayEmbeddings,5732040d-69e3-5649-938a-b6b4f237613f
 DelaySSAToolkit,d39380a9-d0d7-4ae6-ae63-0e8d8b7efa9e
 DelayedEvaluation,2c753b72-1c91-42c0-bffb-8fcc0131c994
@@ -3051,6 +3053,7 @@ EoSSuperancillaries,c1bf003f-4e47-49d9-bdfd-5a4051db3c04
 Ephemerides,6a9c3322-c8fe-4c26-8ad6-14a6f8acd2a0
 EphemerisSources,858900df-f7ae-402a-aa8c-3e4ef85aa271
 EphemerisSourcesBase,b8f1d712-e88d-4f2a-8498-e66ce688ee29
+EpicHyperSketch,c73a71ba-f77a-4450-b81e-a1166e41307d
 Epicrop,ba61b42c-0a63-478a-861d-cedeca8bda8f
 EpithelialDynamics1D,ace8a2d7-7779-48a6-a8a4-cf6831a7e55b
 EpochFolding,d59dda0b-512f-44d1-9007-ebd7d520ecca
@@ -3627,6 +3630,7 @@ FluxKAN,5d54f141-216f-4d16-867d-ae7ad4aba2dd
 FluxMPI,acf642fa-ee0e-513a-b9d5-bcd150f7ec3b
 FluxNLPModels,31fab0eb-bb78-4d15-8993-a8083bba6d27
 FluxOptTools,ca11d760-9bce-11e9-0b7e-4f72fcadb4f9
+FluxOptics,5d1b044d-dcff-404c-be27-e1944ce84415
 FluxPrune,1384c1f3-d8dd-4e05-9122-0c792acaad72
 FluxReconstruction,19bbc782-a6fb-447a-8120-ff40275555e1
 FluxTikz,bede0ec3-65cc-49cf-9d47-682ba1bc832a
