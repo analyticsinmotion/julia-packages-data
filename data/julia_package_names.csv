@@ -633,6 +633,7 @@ BEASTDataPrep,7fe627e2-2553-44c3-aa13-292e356d3647
 BEASTXMLConstructor,2ff12cca-58d7-407c-9ba2-24d4f684d922
 BED,8e4a8c10-cb6b-11e8-08d2-83478d609d67
 BERT,615b485c-77d9-11e9-182a-fb54b95fd2b6
+BERTAnalysisGUI,e774e4bd-d316-4fdb-a598-27f0a282f788
 BEncode,65043f5e-d494-54fb-85cf-e13b6ec0f31a
 BFloat16s,ab4f0b2a-ad5b-11e8-123f-65d77653426b
 BGEN,6db4b851-9beb-4b83-9d64-eb1cfb37721d
@@ -5300,6 +5301,7 @@ KDEstimation,c13e3d18-d57b-11e9-0f19-037e2db2dfef
 KEGGModuleParser,8ec094ee-96fb-47c5-b407-8e5042c4c592
 KIMNeighborList,c95d6c40-0c10-4161-80ab-e9b71483fbc7
 KIMPortableModels,110f5901-8789-45df-852c-04e9fda0ddd7
+KIM_API,00fa7f40-1ac7-4a84-9681-9f177278cec0
 KLDivergences,3c9cd921-3d3f-41e2-830c-e020174918cc
 KLU,ef3ab10e-7fda-4108-b977-705223b18434
 KMA_jll,8f4cd466-d9e8-5461-9379-2aebd0b2c3e0
@@ -7556,6 +7558,7 @@ OpenVAF_jll,c649151a-19b8-53bd-9f17-80f8f8085f60
 OpenXL,5439f3e2-bb62-4031-b438-a07447f64eb9
 Openresty_jll,87da34d4-7b1b-5a94-8376-8cb65bf3132c
 OperationsResearchModels,8042aa49-e599-49ec-a8f7-b5b80cc82a88
+OperatorAlgebra,49087e99-997d-48ed-8945-d57b707c274b
 OperatorApproximation,c7ec8986-4b84-48ba-9795-9bd526637602
 OperatorFlux,47cfafe2-3833-4da3-8183-ce14c2b92cbd
 OperatorLearning,5913d0e6-5bb6-45e3-8a06-341cf4fd0203
@@ -10196,6 +10199,7 @@ SolePostHoc,cf1aa0c3-12c9-4ebe-9bdc-bd6c2ca79b72
 SoleReasoners,eb5c4719-5716-4250-abf0-f5b4713e79ae
 SolidModeling,87eb8544-cf78-4b0d-97e3-b7004341d5e9
 SolidStateDetectors,71e43887-2bd9-5f77-aebd-47f656f0a3f0
+Sollya_jll,d0a0d62e-5946-5252-a47a-59d54c8a5a63
 SolveDSGE,00bf1f32-23ad-54cc-bf6e-3216db8a43a2
 SolverBenchmark,581a75fa-a23a-52d0-a590-d6201de2218a
 SolverCore,ff4d7338-4cf1-434d-91df-b86cb86fb843
@@ -11592,6 +11596,7 @@ UniversalIntegerCodes,f9d38c27-4a81-4d8c-bddb-5ed3c8119a58
 UnixMmap,674b2976-56af-439b-a2b1-837be4a3d087
 UnixTimes,ab1a18e7-b408-4913-896c-624bb82ed7f4
 Unmarshal,cbff2730-442d-58d7-89d1-8e530c41eb02
+UnoSolver,1baa60ac-02f7-4b39-a7a8-2f4f58486b05
 Uno_jll,396d5378-14f1-5ab1-981d-48acd51740ed
 Unroll,36e64239-2ab9-4580-84fb-56737a503d36
 Unrolled,9602ed7d-8fef-5bc8-8597-8f21381861e8
@@ -11646,6 +11651,7 @@ VNGraphs,82074f20-eae8-4dc7-b23b-c0e0f9981814
 VOLK_jll,13737630-5ab7-50a7-b423-42a4a7ec78b3
 VOTables,3abbdab7-df67-4801-8590-8effec53f469
 VP4Optim,8687cf0f-8f6d-4dd6-8e27-64e326ab5325
+VPINEstimation,98b75bef-cec7-42fd-9fd8-1608d125fef6
 VPTrees,6889b67b-453b-53df-8fa8-6efd51eae556
 VQC,f53c5859-8f70-4782-8aac-8d69ad6f55c5
 VSL,04294c92-b9b2-5258-861c-e23397c8ec5d
