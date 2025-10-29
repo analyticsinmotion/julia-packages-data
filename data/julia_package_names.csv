@@ -1299,6 +1299,7 @@ CStarSurfaces,42ef8a1c-faf6-41db-96e1-562c4470a736
 CStructures,c9817921-aac3-4215-a82e-d746b8a84f94
 CSyntax,ea656a56-6ca6-5dda-bba5-7b6963a5f74c
 CTBase,54762871-cc72-4466-b8e8-f6c8b58076cd
+CTBenchmarks,db1dffaa-5ed3-4583-9a66-b5881c82ef11
 CTDirect,790bbbee-bee9-49ee-8912-a9de031322d5
 CTFlows,1c39547c-7794-42f7-af83-d98194f657c2
 CTModels,34c4fa32-2049-4079-8329-de33c2a22e2d
@@ -2930,6 +2931,7 @@ EffectiveWaves,37e8709b-1ed2-53db-b26a-3571262b3cb4
 Effects,8f03c58b-bd97-4933-a826-f71b64d2cca2
 EfficientFrontier,cc5db6c5-6ee2-4027-b902-77472ae9c2f7
 EfficientGlobalOptimization,394991d0-d7c6-11e9-19af-cd33f6408fef
+Effort,ace19e24-02c2-4bce-bc41-b57e89c0fc53
 EgyptianFractions,0f160d28-7819-5803-9275-299e9913be39
 EigenShow,84cdf194-f1a7-4248-80dd-8c89ca764f78
 Eigen_jll,bc6bbf8a-a594-5541-9c57-10b0d0312c70
@@ -11005,6 +11007,7 @@ TensorMarket,8b7d4fe7-0b45-4d0d-9dd8-5cc9b23b4b77
 TensorMixedStates,4ce20acf-6baa-4876-9668-f7596d62e73f
 TensorNetworkAD,6b36f460-1d4e-5459-a8c4-3ab8f40f7d47
 TensorNetworkCodes,b317c587-d840-4e81-9857-9d906192e215
+TensorNetworkQuantumSimulator,4de3b72a-362e-43dd-83ff-3f381eda9f9c
 TensorOperations,6aa20fa7-93e2-5fca-9bc0-fbd0db3c71a2
 TensorOperationsTBLIS,1e289f0c-8058-4c3e-8acf-f8ef036bd865
 TensorOperator,e9fcb3ac-1e93-4356-b836-ee815348c213
@@ -12343,6 +12346,7 @@ gecko_jll,32aead09-57ab-5c70-a47a-e7c5b594f489
 geoarrow_c_jll,77d2fadc-a494-5d8f-9ad4-41084f776bc1
 gflags_jll,705dcc9d-86a1-50d2-892e-91b5af3191b8
 gfm_jll,1709ae2f-740e-5434-a713-d92bde733aaf
+gfxinfo_c_bindings_jll,00b32d8b-1458-5b75-bb06-93b2c7edeef7
 ggml_jll,010131b8-9656-5f5d-909c-3207272d5029
 gh_cli_jll,5d31d589-30fb-542f-b82d-10325e863e38
 ghr_jll,07c12ed4-43bc-5495-8a2a-d5838ef8d533
