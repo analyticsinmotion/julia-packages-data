@@ -683,6 +683,7 @@ BZMeshes,d3690ab3-6367-44d6-ab08-b07ed981380e
 BacenSGS,cf000e6a-8cd9-4459-9820-c8fff5d8f25f
 Backboner,9ac9c2a2-1cfe-46d3-b3fd-6fa470ea56a7
 BackedUpImmutable,ce7fb557-0848-50b6-86d3-b63d1ee2efee
+BackgroundMeshes,b200be5e-c4c1-4b3d-840b-d423a53b46f3
 BackgroundSubtraction,9977cdcb-3521-4027-9f3f-3caff6505f42
 Backtester,e95d6c4f-f375-4488-afb7-83da67c67a69
 BackwardDifferenceFormula,bb1c57f4-4a50-4dfd-96bc-51bda4983b9c
@@ -2772,6 +2773,7 @@ Dubins3D,b218df9c-8706-40c8-80f9-13e28a209add
 Ducc0,47ec601d-2729-4ac9-bed9-2b3ab5fca9ff
 DuckDB,d2f5444f-75bc-4fdf-ac35-56f514c445e1
 DuckDB_jll,2cbbab25-fc8b-58cf-88d4-687a02676033
+DuctAPE,ad8e49fd-fab7-444e-af4a-0daba3b8bf11
 Duff,3e2ffa6a-ba38-11e8-0a1c-7b69309e1c72
 DumbCompleter,b9d245dc-5d95-11e9-326a-bbd03ea8ebff
 Dummyvar,5d02951d-65b4-45d8-b6c0-f168f9df2c9e
@@ -3610,6 +3612,7 @@ FlipGraphs,bf6bd3dc-c349-4a39-9695-9ea99bf10cfe
 FlipPA,a9676066-08b1-4647-a3cf-89b449beb4d6
 Float8s,81dfefd7-55b0-40c6-a251-db853704e186
 FloatIntLiterals,d825739f-1e7d-411f-adf0-2b899cf72c5b
+FloatInts,857eb3b2-67a4-40ca-81a3-30b5dac1cebd
 FloatTracker,1722352a-da05-4a89-9ace-0f2f7ef630bb
 FloatingTableView,197bc772-8d3f-4a3f-b50f-4eb5086fedbf
 FlowAtlas,ef7debb3-0d09-4604-8960-6109d4c5b3e0
@@ -3877,6 +3880,7 @@ GLTF,aeeaf58c-ab4d-11e9-3a9f-9b6bf58b5bc3
 GLU_jll,bd17208b-e95e-5925-bf81-e2f59b3e5c61
 GMAT,af5f6e49-cefe-43d6-ba7f-e98344787928
 GMAT_jll,5472d9e0-cb42-52f7-96c9-a9fd19db341f
+GMCMeasure,7356f369-bb30-4519-aa96-c92d996faa13
 GML_Glauber_Dynamics,ec21ea4c-06aa-48cd-aeb3-a42dd9f5a482
 GMMParameterEstimation,7a1c707a-4b3e-4a1f-9208-da91076bfd6f
 GMP_jll,781609d7-10c4-51f6-84f2-b8444358ff6d
@@ -8097,6 +8101,7 @@ PhysicalMeshes,97d9904f-034f-4fb7-aeaa-03a173434233
 PhysicalOceanography,e1a20e90-c40e-46c0-93e3-c2da05da97e3
 PhysicalParticles,78724250-4eb2-11e9-0f34-13a7aab864c5
 PhysicalTrees,dc5d4990-50a5-4af2-bdaa-6f78dc9b9fb2
+PhysicalUnits,260a1713-e24c-4a46-a881-35260f93c772
 PhysicsInformedML,ddcc5653-dcaa-48f1-be98-eb2dafe13740
 PhysicsInformedRegression,b39d95ae-da9c-4cd6-b0a9-f74eb13434aa
 PhysiologyAnalysis,69cbc4a0-077e-48a7-9b45-fa8b7014b5ca
@@ -8109,6 +8114,7 @@ Piccolo,c4671d76-df94-11ed-2057-43d4fd632fad
 PiccoloPlots,f42a522c-b487-4f73-ad5a-ad0c3e4a12c8
 PiccoloQuantumObjects,5a402ddf-f93c-42eb-975e-5582dcda653d
 Pickle,fbb45041-c46e-462f-888f-7c521cafbc2c
+PicoHTTPParser,7dfb699f-0de3-4c94-bc59-7670dfa845e2
 PicoHTTPParser_jll,c57283d8-6a1b-5748-ae95-e23eefbd933c
 PicoQuant,2db47837-5a65-4a20-8d0f-8ec2491baa53
 PicoSAT,ff2beb65-d7cd-5ff1-a187-74671133a339
@@ -9365,6 +9371,7 @@ RobustModels,d6ea1423-9682-4bbd-952f-b1577cbf8c98
 RobustNeuralNetworks,a1f18e6b-8af1-433f-a85d-2e1ee636a2b8
 RobustPmap,27aeedcb-f738-516b-a0b8-3211cf1146e5
 RobustShortestPath,16f6c422-f222-508b-b0da-15025777bca7
+Robustbase,1786b160-9db0-4122-8bd2-4c7456afcf2f
 RockSample,de008ff0-c357-11e8-3329-7fe746fe836e
 Rocket,df971d30-c9d6-4b37-b8ff-e965b2cb3a40
 Rocketeer,5e8e706b-2fa9-4c18-afb5-213c5db89150
@@ -10141,6 +10148,7 @@ Smoothers,012d725f-b4dd-4916-8440-03955fc52575
 Smoothing,cf09d348-ed9f-4043-bc55-1768af2a262b
 SmoothingSplines,102930c3-cf33-599f-b3b1-9a29a5acab30
 Snake,af688983-2b6d-40fa-a2f6-00f5fef758ee
+SnakeBar,8b9c4a5e-7f1c-4d3a-9e2b-1a4c5d6e7f8a
 SnakeGames,34dccd9f-48d6-4445-aa0f-8c2e373b5429
 SnakeIterator,2a3ac32a-96bb-42aa-a23f-7363afb8ec0a
 SnapTests,cedb2ae3-6529-478c-a04f-d9256ac5d41f
@@ -10163,6 +10171,7 @@ SoEwald2D,0daaa638-a47d-40d8-b855-b9e525a61752
 SoXResampler_jll,fbe68eb6-6641-54c6-99e3-f7c7c4d73a57
 SoapyBladeRF_jll,80aee790-0d4a-5951-bcd6-30e0bbfe317a
 SoapyLMS7_jll,e7ed14a0-13eb-5dc7-93e2-6133b2eb8bed
+SoapyLiteXM2SDR_jll,78637076-15f0-5053-8c59-c1671873564b
 SoapyLoopback_jll,8d250ce8-a086-56bd-8a36-e4e8f4202680
 SoapyMultiSDR_jll,e03d614a-b766-59b2-b90b-cbee90a02c36
 SoapyPlutoSDR_jll,96b01697-91ed-557a-a63b-0996cb7d9743
