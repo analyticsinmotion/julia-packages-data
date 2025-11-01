@@ -1679,6 +1679,7 @@ ClimaReproducibilityTests,e0c89595-00ba-42a9-9f9b-061ef3dc23a1
 ClimaSeaIce,6ba0ff68-24e6-4315-936c-2e99227c95a4
 ClimaTimeSteppers,595c0a79-7f3d-439a-bc5a-b232dc3bde79
 ClimaUtilities,b3f4f4ca-9299-4f7f-bd9b-81e1242a7513
+ClimaViz,396db26a-da9e-4cf0-936a-85fded5d16c1
 ClimateBase,35604d93-0fb8-4872-9436-495b01d137e2
 ClimateERA,96028d6e-f290-464b-8a03-1e746e0363c3
 ClimateEasy,47ceb0c8-0fe6-4c49-a4a1-92bc59187c00
@@ -4268,6 +4269,7 @@ Goalign_jll,ed1357da-d9e6-57e3-b342-6130e0ca2d5e
 Gogeta,8b0c908c-0e18-4590-8d3d-9c2483fd76bf
 GoldenSequences,e13314f6-e9b3-11e9-0763-f13dff015e8a
 GoldfarbIdnaniSolver,906ccaf3-f60c-4d27-be89-7848ae703cf8
+GongBetaAdrenergicSignaling,c9319e42-2a68-4d31-a4ce-d28d39ea7682
 GoodsteinSequences,808baba0-b719-11eb-2c94-7207250e358f
 GoogleCloud,55e21f81-8b0a-565e-b5ad-6816892a5ee7
 GoogleCloudObjectStores,2a67aa01-6213-50f9-bb91-c167b72acb78
@@ -5978,6 +5980,7 @@ LopShelve,b886a573-0f84-4e1e-bf4c-dbf643e19b24
 Loraine,df0521af-66a0-42b3-822e-f30debbfe642
 LorentzDrudeMetals,100d92e6-c477-5236-9e74-205fcab5fd63
 LorentzGroup,5249e202-7b38-466e-aecc-8fc3462187b6
+LorentzVectorBase,592a752d-6533-4762-a71b-738712ea30ec
 LorentzVectorHEP,f612022c-142a-473f-8cfd-a09cf3793c6c
 LorentzVectors,3f54b04b-17fc-5cd4-9758-90c048d965e3
 Lorenz96,3fb22c43-5981-45f6-b839-6cbd65dbe502
@@ -8836,6 +8839,7 @@ QuantumESPRESSOFormatter,a4e7ca57-d8d8-4f74-9c0b-0b18081c205e
 QuantumESPRESSOParser,a780ab42-b33a-11e9-16c1-a92d75b2a626
 QuantumElectrodynamics,bb1fba1d-cf9b-41b3-874e-4b81465537b9
 QuantumEspresso_jll,74603b90-2fcf-5710-a7d7-830b31b8b33c
+QuantumFCS,f61df7d1-40df-4ff5-bdc9-ea200d60bc8f
 QuantumFluidSpectra,8ddfec37-9569-48bd-b1f3-d8731767ee3a
 QuantumFoca,a8c63e1a-51a3-4393-8cc1-c539063cb104
 QuantumGradientGenerators,a563f35e-61db-434d-8c01-8b9e3ccdfd85
