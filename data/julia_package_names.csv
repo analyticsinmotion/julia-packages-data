@@ -2859,6 +2859,7 @@ EHTNCDBase,0d1a6071-c6ae-40ce-b68e-43bf1c0beb66
 EHTUVData,56783127-7e15-4e7d-9691-d34b50bc826a
 EHTUtils,9d0fa6a6-ae25-4c2e-8152-6c4b7f2016aa
 EISAnalysis,ab7e12ee-d331-41bc-abbc-f7535c4414c7
+ELFINData,fcbbe0ba-d66e-4e8f-95dd-8166f95b70c5
 ELFIO_jll,2133ec9d-2300-5c3e-b0d9-ae6a10eb43df
 EMIRT,8acf8dda-514d-5c36-9488-7e3496cf596e
 EMpht,0ca9fa26-8833-11e9-3415-832a08817e5a
@@ -9071,6 +9072,7 @@ RayTraceEllipsoid,f4cd0703-4c39-5e89-823d-694fbb07b12c
 RayTraceHeatTransfer,7cf1493d-886e-405c-b582-53b49fa147b6
 RayTracer,60dacb86-48ff-11e9-0f01-03ab8794bbc9
 RayTracing,3007c720-8091-40db-9339-e09e4eb4c7ea
+Raycore,afc56b53-c9a9-482a-a956-d1d800e05559
 Raylib,681baf3e-1d1e-48c9-b5e5-b1aea2d6d4d9
 Raylib_jll,f9cae4b5-603c-5a13-b73f-1dfe71482639
 RbfInterpolationTools,30ebf9c2-a709-4272-bf69-cc6d19405279
