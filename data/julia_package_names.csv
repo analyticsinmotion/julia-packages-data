@@ -413,6 +413,7 @@ ArguMend,c85fd23e-5eaf-479f-abdc-5c469c653c21
 ArgumentModes,2dc46c84-39f7-4c37-9a42-c3faed15caad
 ArgumentProcessor,da5e4181-4678-44ac-9e93-56ca85e03b1f
 Aria2_jll,9ab3bdc3-1250-5043-8fac-ac7e82d2cbc9
+Ariadne,0be81120-40bf-4f8b-adf0-26103efb66f1
 Arianna,07692032-97b4-4f8d-80d7-e18df88d31a9
 ArnoldiMethod,ec485272-7323-5ecc-a04f-4719b315124d
 ArnoldiMethodTransformations,fede57cc-428a-11e9-3e5c-c149a0a4072d
@@ -6718,6 +6719,7 @@ ModelWrappers,44c54197-9f56-47cc-9960-7f2e20bfb0d6
 ModelicaScriptingTools,9bd7ba1c-b518-491f-8f72-7efe190322aa
 ModelingToolkit,961ee093-0014-501f-94e3-6117800e7a78
 ModelingToolkitDesigner,23d639d0-9462-4d1e-84fe-d700424865b8
+ModelingToolkitInputs,9c47c465-b61a-4984-aca2-8d7e8f154266
 ModelingToolkitNeuralNets,f162e290-f571-43a6-83d9-22ecc16da15f
 ModelingToolkitStandardLibrary,16a59e39-deab-5bd0-87e4-056b12336739
 ModelingToolkitTolerances,cca81fe9-e5fd-44f6-ad29-5b4f39e14206
@@ -11346,6 +11348,7 @@ Trapz,592b5752-818d-11e9-1e9a-2b8ca4a44cd1
 Trash,2177afbf-83db-417c-8225-ea8191cd3f0f
 TravelingSalesmanExact,737fac7d-4440-55ef-927e-002196e95561
 TravelingSalesmanHeuristics,8c8f4381-2cdd-507c-846c-be2bcff6f45f
+TravellingSailorProblem,a3415216-7039-422d-b654-bd7aa2f43b3e
 TreatmentPanels,7885c543-3ac4-48a3-abed-7a36d7ddb69f
 Trebuchet,98b73d46-197d-11e9-11eb-69a6ff759d3a
 TreeArchival,216c6a2e-6c61-7669-6863-726165657274
