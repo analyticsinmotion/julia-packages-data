@@ -2384,6 +2384,7 @@ DbgMacro,d6ce5c67-b3b1-4855-8eb4-4ca27575037e
 Dbus_jll,ee1fde0b-3d02-5ea6-8484-8dfef6360eab
 DeIdentification,b905b068-7150-5b22-bc23-80596c88c6a6
 DeMorgan,454c4576-8353-43f8-8d90-1177b7ee912a
+DearDiary,bcf306fc-d39d-4f25-b732-26abcc96baf2
 DebianGlibc_jll,3812390e-129a-5d25-9b88-6fc12c151a30
 DebugAdapter,17994d07-08fe-42cc-bc1b-7af499b1ea47
 DebugDataWriter,810e33c6-efd6-4462-86b1-f71ae88af720
@@ -4117,6 +4118,7 @@ GeoData,9b6fcbb8-86d6-11e9-1ce7-23a6bb139a78
 GeoDataFrames,62cb38b5-d8d2-4862-a48e-6a340996859f
 GeoDataPicker,ad26291b-5ad9-4b61-8cdb-f4ecfd1c1fc8
 GeoDatasets,ddc7317b-88db-5cb5-a849-8449e5df04f9
+GeoDynamo,d9585174-0cde-43e1-8c7d-10e3f89dfe41
 GeoEfficiency,b1f22607-7830-5ceb-9a8e-05ab1ac77008
 GeoEnergyIO,3b1dd628-313a-45bb-9d8d-8f3c48dcb5d4
 GeoEstimation,a4aa24f8-9f24-4d1a-b848-66d123bfa54d
@@ -5589,6 +5591,7 @@ LambertsProblem,bfcf449f-4a4c-42e3-91d7-977e7d435437
 LandDataTools,d1413c6f-1a60-4f18-acd6-8d361c31e2f3
 LandSea,cbf7bb22-a1a6-46cb-8b24-174e3bc5fc04
 LandauDistribution,6012e1b8-0df6-47e7-96ae-5acef29e6d22
+Landfire,16f38fd6-0379-4569-89bb-2d3d56e50de8
 LandsatExplorer,28909d84-766e-4dab-8e3e-91fd31d78b70
 Langevin,42433972-eea5-42bb-ab72-392315b4e8df
 Langmuir,c62cc850-d7ca-4cc1-a95b-48008b40dc90
@@ -8743,6 +8746,7 @@ Qemu_static_jll,969c3ef0-f950-5ada-826d-ee9b7b636380
 QhullMiniWrapper_jll,460c41e3-6112-5d7f-b78c-b6823adb3f2d
 Qhull_jll,784f63db-0788-585a-bace-daefebcd302b
 QiskitOpt,81b20daf-e62b-4502-a0d1-aa084de80e33
+Qiskit_jll,b54e8e98-f244-53b3-a8e8-4727a4907f76
 QpidProton_jll,0d8a7629-d82b-587d-918a-5ef219d77cd9
 Qsosed,88aa254b-a4fc-49c2-a63e-728a46cd2298
 QstarzGPS,ada5f36f-82d2-4979-8729-2b99ff45c2e1
@@ -11508,6 +11512,7 @@ UCX_jll,16e4e860-d6b8-5056-a518-93e88b6392ae
 UDPipe_jll,41a5a540-3a0e-51a4-a518-13553378ad37
 UDUNITS_jll,2619efb9-15dd-5c8d-95a3-19a84f6456dc
 UDUnits,c1403bd2-e34a-5715-b454-1ca6f7e8d33a
+UFFFiles,20c5726e-8372-4c34-be2c-190a5a70d483
 UHDBindings,4d90b16f-829e-4b78-80d9-fb9bcf8c06e0
 UInt12Arrays,c28d94ed-d5b6-4a5f-906b-ac5b0f674341
 UKBMain,e9dcb185-a80b-4202-b080-ba6c07819832
@@ -12190,6 +12195,7 @@ ZeroDimensionalArrays,446293e6-c8ea-451e-b470-6510dab5ca7b
 ZeroInflatedDistributions,f0eaf0ea-6b2c-45fd-8e3c-3fe72bdc2ec5
 ZeroInflatedLikelihoods,799edfa2-b1a3-4e1c-96c0-d1ebdffd3208
 ZeroMQ_jll,8f1865be-045e-5c20-9c9f-bfbfb0764568
+ZeroOrigin,421443cc-9b00-11ea-1646-3bac74f84b0c
 ZeroRing,11e428aa-d9de-4607-8aa2-0699a440adf3
 Zeros,bd1ec220-6eb4-527a-9b49-e79c3db6233b
 ZfpCompression,43441a71-1662-41c6-b8ea-40ed1525242b
@@ -12206,6 +12212,7 @@ ZlibNG_jll,c62bbaca-5768-5b75-85e2-9a0ea54e1624
 Zlib_jll,83775a58-1f1d-513f-b197-d71354ab007a
 Zomato,f91f2aa8-3cb3-52ab-b009-b9f47c1c1b27
 ZonalFlow,728887dd-28ad-4880-9c43-8461f4f025ea
+ZoneProfilers,402d8ed9-92af-47cb-aae4-ae215e44b74b
 Zotero,a6782e42-190c-4b39-989d-970618284c73
 ZstdSeekable_jll,86ac9985-db92-5090-8b9c-ec8f613186b3
 Zstd_jll,3161d3a3-bdf6-5164-811a-617609db77b4
