@@ -6423,6 +6423,7 @@ MatrixPencils,48965c70-4690-11ea-1f13-43a2532b2fa8
 MatrixPolynomials,bd52c179-449c-4965-a404-68b29a447f4b
 MatrixProductBP,3d39929c-b583-45fa-b331-3f50b693a38a
 MatrixProfile,24e37439-14ec-4097-bda3-6a65822e2305
+MatrixSign,a25fa8c1-e8fe-40fb-8be2-d139e369b1d5
 Matroids,f99c5f09-8689-4482-a891-4b988ec2fc3d
 Matte,b0b859e2-eb2e-45cd-bd98-8fc21bfdc9fa
 MatterEnv,9a24efd3-56f5-4b6c-a4cc-8c3068a60637
@@ -7579,6 +7580,7 @@ Openresty_jll,87da34d4-7b1b-5a94-8376-8cb65bf3132c
 OperationsResearchModels,8042aa49-e599-49ec-a8f7-b5b80cc82a88
 OperatorAlgebra,49087e99-997d-48ed-8945-d57b707c274b
 OperatorApproximation,c7ec8986-4b84-48ba-9795-9bd526637602
+OperatorCore,3945cd23-d97e-4db0-9df2-35342dbd287d
 OperatorFlux,47cfafe2-3833-4da3-8183-ce14c2b92cbd
 OperatorLearning,5913d0e6-5bb6-45e3-8a06-341cf4fd0203
 OperatorScaling,c32e1cdf-d535-416b-8655-021cdbf00cd4
@@ -7981,6 +7983,7 @@ PartitionedMPSs,17ce1de9-5131-45e3-8a48-9723b6e2dc23
 PartitionedSolvers,11b65f7f-80ac-401b-9ef2-3db765482d62
 PartitionedStructures,a6683cb1-4e99-4d03-b5b5-b79ed0acabcf
 PartitionedVectors,9d5e22db-ddc8-46c9-8309-91b035e7f733
+PartonShower,a32c89ae-d023-4659-8493-2353e71a7a82
 PassiveTracerFlows,dc26d6a1-c8d5-50f2-8a17-f57a5c578a00
 PastaQ,30b07047-aa8b-4c78-a4e8-24d720215c19
 PasteMyst,b8ba6cf2-bc19-4044-9316-f77e3c6f0f88
@@ -12215,6 +12218,7 @@ ZlibNG_jll,c62bbaca-5768-5b75-85e2-9a0ea54e1624
 Zlib_jll,83775a58-1f1d-513f-b197-d71354ab007a
 Zomato,f91f2aa8-3cb3-52ab-b009-b9f47c1c1b27
 ZonalFlow,728887dd-28ad-4880-9c43-8461f4f025ea
+ZoneProfilerTracy,e1916cde-5bbf-401f-b637-13ab0c87f0f0
 ZoneProfilers,402d8ed9-92af-47cb-aae4-ae215e44b74b
 Zotero,a6782e42-190c-4b39-989d-970618284c73
 ZstdSeekable_jll,86ac9985-db92-5090-8b9c-ec8f613186b3
@@ -12790,6 +12794,7 @@ tree_sitter_php_jll,1d2f066d-44b9-5d42-b96c-230d176e2df5
 tree_sitter_python_jll,88db161d-10c7-51e6-aa56-e32ecf738a46
 tree_sitter_ruby_jll,64e8d737-0d98-5a82-81e1-7af1483a77cc
 tree_sitter_rust_jll,b2197e8e-fe20-5781-846b-d7979e3cddf2
+tree_sitter_toml_jll,a1529afc-395a-556b-957c-713caec82e13
 tree_sitter_typescript_jll,dfa7e5a0-2128-5201-bc87-2ee6cd674210
 uCSV,e0b4c2ea-889f-54df-a5e0-fe74b3c892fd
 umesimd_jll,5f48918c-46a5-5bc9-aa52-10e03b443aad
