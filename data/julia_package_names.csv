@@ -4693,6 +4693,7 @@ HybridStructs,49057fa9-d513-5ef6-ae80-2dc68a70a2bd
 HybridSystems,2207ec0c-686c-5054-b4d2-543502888820
 HybridSystemsSimulations,bed98974-b02a-5e2f-9ee0-a103f5c450dd
 HybridTreeBoosting,a7b84c78-fd94-4b48-aa74-d26ca7b1659c
+HydrOptics,2b3ecd17-0e78-4272-b026-194a0ada43e6
 Hydro,fc36d966-fe4b-4286-9a77-63003c00d81d
 HydroModelCore,57609f06-44cb-4626-8f6d-47ea844d0af1
 HydroModelLibrary,f34bc7f3-9d04-4ef8-b7a3-feb87ce2ba93
@@ -12753,6 +12754,7 @@ sed_jll,8ce03227-cf0a-51af-b0b4-2693c0743e9f
 sgtsnepi_jll,c2c51ba6-9464-585c-93d5-ba434ab08fad
 simdjson_jll,40266717-b07e-50ee-a1c6-5956cbf905d9
 slope_jll,baac1969-1582-5600-b38b-7408c9d44009
+slow5lib_jll,cf15d115-0011-542e-ba8a-590cfd1400f0
 smesh_jll,e8c45408-479c-54df-ae5b-4501057d3a5a
 snappy_jll,fe1e1685-f7be-5f59-ac9f-4ca204017dfd
 soapysdr_jll,343a40d9-ed99-5d34-8b56-649aaa4ecee6
