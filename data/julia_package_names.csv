@@ -3061,6 +3061,7 @@ EnzymeCore,f151be2c-9106-41f4-ab19-57ee4f262869
 EnzymeTestUtils,12d8515a-0907-448a-8884-5fe00fdf1c5a
 Enzyme_jll,7cc45869-7501-5eee-bdea-0790c847d4ef
 EoSSuperancillaries,c1bf003f-4e47-49d9-bdfd-5a4051db3c04
+Eoshifts,a610e8d0-bcf9-11f0-bd78-7b325b0dfb67
 Ephemerides,6a9c3322-c8fe-4c26-8ad6-14a6f8acd2a0
 EphemerisSources,858900df-f7ae-402a-aa8c-3e4ef85aa271
 EphemerisSourcesBase,b8f1d712-e88d-4f2a-8498-e66ce688ee29
@@ -8437,6 +8438,7 @@ PowerAnalyses,fee4b835-1841-44f8-82ea-42813857171a
 PowerAnalytics,56ce1300-00bc-47e4-ba8c-b166ccc19f51
 PowerApps,e34cdab0-23c5-4ff6-ba51-717855faf142
 PowerDynBase,7ffb48b1-f436-5a59-a310-b4407da33972
+PowerDynData,8af9307f-baed-4afb-b455-e9e9cc62a748
 PowerDynOperationPoint,95be4243-a2fd-5eef-a7d1-2e97978993e7
 PowerDynSolve,b2d36aa5-a2b1-5d23-8bd9-f353e61de00d
 PowerDynamics,cc46b21f-1b17-51c2-b642-af74c3d3a8be
@@ -11402,6 +11404,7 @@ Tries,666c268a-d78f-417b-b45a-09e10b365109
 TrigPolys,bbdedc48-cb31-4a37-9fe3-b015aecc8dd3
 Trilinos_jll,b6fd3212-6f87-5999-b9ea-021e9cd21b17
 TrillionDollarWords,d66529d5-f4f4-49d9-a69b-da67f5535f0a
+TrimCheck,f940d764-e397-4179-96e0-76ce55cfe39b
 TriplotBase,981d1d27-644d-49a2-9326-4793e63143c3
 TriplotRecipes,808ab39a-a642-4abf-81ff-4cb34ebbffa3
 Trixi,a7f1ee26-1774-49b1-8366-f1abc58fbfcb
