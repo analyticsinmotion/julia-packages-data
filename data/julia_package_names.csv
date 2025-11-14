@@ -415,6 +415,7 @@ ArgumentProcessor,da5e4181-4678-44ac-9e93-56ca85e03b1f
 Aria2_jll,9ab3bdc3-1250-5043-8fac-ac7e82d2cbc9
 Ariadne,0be81120-40bf-4f8b-adf0-26103efb66f1
 Arianna,07692032-97b4-4f8d-80d7-e18df88d31a9
+Ark,56664e29-41e4-4ea5-ab0e-825499acc647
 ArnoldiMethod,ec485272-7323-5ecc-a04f-4719b315124d
 ArnoldiMethodTransformations,fede57cc-428a-11e9-3e5c-c149a0a4072d
 Arpack,7d9fca2a-8960-54d3-9f78-7d1dccf2cb97
@@ -7441,6 +7442,7 @@ OceanTransportMatrixBuilder,c2b4a04e-6049-4fc4-aa6a-5508a29a1e1c
 OceanTurb,d848d694-35fd-11e9-1c91-9995598ac29e
 OceanWaveSpectralFitting,a44e4c57-a566-426a-9563-b0c20c24dda1
 Oceananigans,9e8cae18-63c1-5223-a75c-80ca9d6e9a09
+OceananigansLagrangianFilter,3a2ee588-b56c-4451-ba19-103f511bcf00
 OceanographyCruises,32ce50af-5875-4c4d-b676-f166988c519c
 Oceanostics,d0ccf422-c8fb-49b5-a76d-74acdde946ac
 OctaveH5Reader,a7f2c31c-968a-41f8-b289-3742aa14d81d
@@ -8757,6 +8759,7 @@ Qemu_jll,72aeabae-b714-56e8-bb55-1d7ed6f48f02
 Qemu_static_jll,969c3ef0-f950-5ada-826d-ee9b7b636380
 QhullMiniWrapper_jll,460c41e3-6112-5d7f-b78c-b6823adb3f2d
 Qhull_jll,784f63db-0788-585a-bace-daefebcd302b
+Qiskit,91d9a17d-f964-4b6c-a3c4-2f4cfdea2c95
 QiskitOpt,81b20daf-e62b-4502-a0d1-aa084de80e33
 Qiskit_jll,b54e8e98-f244-53b3-a8e8-4727a4907f76
 QpidProton_jll,0d8a7629-d82b-587d-918a-5ef219d77cd9
@@ -9446,6 +9449,7 @@ RuntimeGeneratedFunctions,7e49a35a-f44a-4d26-94aa-eba1b4ca6b47
 RustFFT,b7f167ac-9de6-40dd-9818-ec636999de39
 RustRegex,cdf36688-0c6d-42c6-a883-5d2df16e9e88
 Rusticl_jll,0e9524f4-d8d1-5353-8bd4-6e7599f5f54e
+RustyIceberg,390bdf5b-b624-43dc-a846-0ef7a3405804
 RustyObjectStore,1b5eed3d-1f46-4baa-87f3-a4a892b23610
 RvLineList,64580eba-dac5-4344-8efb-4882f76a30da
 RvSpectML,1f61ac2c-3a1c-440a-925a-2707197041c8
@@ -9664,6 +9668,7 @@ SZ_jll,409b0d58-1332-5589-be3b-4d778b0df058
 Sabermetrics,415736d3-e371-4b8a-9ed5-2a314a4b3aac
 SaddleSearch,75381b30-3731-4e86-91cd-f2c0a8b56a68
 SafeByteCalculators,88ce4d4d-ee2f-4b4a-abd3-cbc3580a88f7
+SafePETSc,50acdc01-ce88-4ca7-bd87-6916c254362e
 SafeREPL,5e6a0ad9-8e90-40fa-86b1-deb43b8cfda7
 SafeTensors,eeda0dda-7046-4914-a807-2495fc7abb89
 SafeTestsets,1bc83da4-3b8d-516f-aca4-4fe02f6d838f
@@ -11304,6 +11309,7 @@ Tortuosity,80bb5c7f-3561-4bbc-a7c3-5e29a4cab6cc
 TotalLeastSquares,028f657a-7ace-5159-a694-8cfd97933b0c
 TotalVariation,00d00faa-c8f6-542a-bba9-9987f051d897
 Touchstone,af4736ee-1570-4274-b14c-898d17d80b75
+TouchstoneParser,b369b07b-dee1-4342-88e3-29a776361291
 Tower,965ce0a6-fda6-11e9-2ec6-215e9e726cc7
 TowerOfEnzyme,42b7b2d3-c73e-45b7-822c-d9186d944e94
 ToyPublicKeys,79566f03-f7ae-471c-a05f-4700599937bd
