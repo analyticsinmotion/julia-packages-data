@@ -1438,6 +1438,7 @@ CartesianGeneticProgramming,a58c8383-ac42-4eac-b920-efb5a098c09c
 CartesianGrids,3e975e5d-2cf8-4263-9573-8460aaf534d9
 CartesianJoin,53bdf068-0a7a-4e29-924d-659363f059ee
 CasADi,c49709b8-5c63-11e9-2fb2-69db5844192f
+CasADiNLPModels,9e015429-ec9b-44ad-8386-499448c02825
 CasADi_jll,4e54d0b0-c9f2-5505-b569-bd333cacc8c1
 CasCommonChemistry,df8efd69-f2b9-468d-a38a-0046f1138390
 Casacore,72bb1062-94f5-49fa-bb69-94b615203ad9
@@ -2461,6 +2462,7 @@ DenoESBuild,aff91ddb-6407-42b7-bb34-3a1644953040
 Deno_jll,04572ae6-984a-583e-9378-9577a1c2574d
 DenseGillespieAlgorithm,196457aa-616b-4d30-8659-0f081272c821
 DensityEstimationDatasets,4461dd73-db61-4ee9-b68e-5875fb3b3faa
+DensityFlows,76bf0c8b-52dc-40eb-a764-102eb4cc7fe0
 DensityInterface,b429d917-457f-4dbc-8f4c-0cc954292b1d
 DensityRatioEstimation,ab46fb84-d57c-11e9-2f65-6f72e4a7229f
 DensityScatter,0c88c325-9891-4b47-8316-abdfe8381675
@@ -7869,6 +7871,7 @@ PWF,0f4c3beb-4231-4c4d-93e1-709cb40a89e6
 PYTHIA8,ab9774ad-7527-4370-92ef-86b02700ecc9
 PYTHIA_jll,47b8ac8e-e87e-59c1-8ebd-407ebead3f7c
 PYiCSV,a947b93a-73a6-4986-95bf-5299b82f6468
+PaPILO,d9c0c21a-f458-4936-9625-08537585e348
 PaStiX_jll,46e5285b-ff06-5712-adf2-cc145d39f096
 PacMan,ebae00cb-175a-4544-90d1-5f8122d792df
 Pack1,cc01df09-5213-447c-9a1b-5a24cdf8b096
@@ -8238,6 +8241,7 @@ PlantViz,358bd95d-d12c-439f-94b7-04b17e500c7f
 Plasma,d4286570-51d5-4bbe-9c0b-035637fe1a6e
 PlasmaEquilibriumToolkit,57ef8d28-8191-49ce-8cf8-17f9379aac88
 PlasmaFormulary,d26ff896-aba2-4e70-a0a6-448627456efe
+PlasmaWaves,12efb907-3f94-4823-94fe-a707db5a5005
 Plasmo,d3f7391f-f14a-50cc-bbe4-76a32d1bad3c
 PlasmoBenders,491f1417-53b2-48aa-b9da-44cdd6c031b7
 PlasmoData,18473d7d-a938-4be0-a189-2b040dfe6be7
@@ -12057,6 +12061,7 @@ XPA_jll,9dbca590-e19a-5566-89a8-3997bfd21c58
 XPORTA,8c143463-af6f-456f-8aed-72447cb569d2
 XPalm,6b523e1e-d512-416c-8e51-a8fbef0064e7
 XRT,4d396880-2e3f-4be1-8c36-e87777010d00
+XRayQuadrics,06f10efd-d23e-4080-b4cc-94b4a1650570
 XRootD,164e3b87-dc46-4cbc-97a6-5b310108fce0
 XRootD_cxxwrap_jll,bb14ce0c-f071-543a-8ca1-cd3dc3e29ed0
 XRootD_jll,b6113df7-b24e-50c0-846f-35a2e36cb9d5
