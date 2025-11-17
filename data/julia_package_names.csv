@@ -5079,6 +5079,7 @@ InvariantSets,0a1268e7-2270-4ee8-9901-5a5b516c7ae9
 Invariants,115d0255-0791-41d2-b533-80bc4cbe6c10
 InvariantsCore,69cbffe8-09de-43b1-81db-93034495284f
 InventoryManagement,2ad91f63-398d-4379-af6a-5a85689656d5
+InventoryRoutingProblems,e8de3f6f-ae4e-4f89-bef5-bb3731e07e8d
 InverseDistanceWeighting,6a8e3230-34bb-5a86-b9da-9f7447a06da5
 InverseFunctions,3587e190-3f89-42d0-90ee-14403ec27112
 InverseIsing,52c454c7-7088-40af-988f-f8cda9361c5e
@@ -6906,6 +6907,7 @@ MultiQuantityGPs,f6349cb8-2139-4a62-bb23-95f1cd2c4c3a
 MultiResolutionIterators,396aa475-d5af-5b65-8c11-5c82e21b2380
 MultiScaleArrays,f9640e96-87f6-5992-9c3b-0743c6a49ffa
 MultiScaleTreeGraph,dd4a991b-8a45-4075-bede-262ee62d5583
+MultiSpacecraftAnalysis,162efcab-a561-4df9-ac40-20243229ff2c
 MultiStateSystems,63dd226a-9d27-42a2-9f4c-7f7a071798e0
 MultiStochGrad,323ce080-7fb5-11ea-274f-1d7ddb39cbfa
 MultiThreadedCaches,18056a9e-ed0c-4ef3-9ad7-376a7fb08032
@@ -11299,6 +11301,7 @@ ToolipsServables,bf3a9e68-ca66-4981-8178-9d71c4f8abaa
 ToolipsSession,2fe55384-55bc-4df3-9d59-c817d405cd05
 ToolipsUDP,c24f5779-9d3b-4059-90d7-a34104ea6889
 ToolipsUploader,8d58c116-97a2-4dce-9816-d8d464dcb6e5
+ToolsForCategoricalTowers,e2cf920d-0824-4cbb-97bb-0be40824f89f
 TopOpt,53a1e1a5-51bb-58a9-8a02-02056cc81109
 TopOptMakie,e9c7d871-bed6-4650-ae23-a24e464b8b55
 TopOptProblems,27704a7e-a4df-40bc-951d-d074625df1c8
