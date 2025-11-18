@@ -12727,6 +12727,7 @@ prrte_jll,eb928a42-fffd-568d-ab9c-3f5d54fc65b9
 psurface_jll,d6cb37aa-0f65-5fd6-8d86-c55d2c9ef130
 pugixml_jll,ef860afa-341e-548b-93de-15e6b165854a
 pybind11_jll,8a9a6109-fcbb-5819-8534-fa3eb9037080
+qiskit_ibm_runtime_jll,dfd00f80-54b8-5b12-a44d-54bafd549557
 qpOASES_jll,f16e1b62-db32-537f-94d1-ea38eaaf9298
 qr_mumps_jll,e37b5aa0-c611-5f0f-83fb-aee446c0b77e
 quarto_jll,b7163347-bfae-5fd9-aba4-19f139889d78
