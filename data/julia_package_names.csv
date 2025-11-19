@@ -3073,6 +3073,7 @@ EphemerisSources,858900df-f7ae-402a-aa8c-3e4ef85aa271
 EphemerisSourcesBase,b8f1d712-e88d-4f2a-8498-e66ce688ee29
 EpicHyperSketch,c73a71ba-f77a-4450-b81e-a1166e41307d
 Epicrop,ba61b42c-0a63-478a-861d-cedeca8bda8f
+EpicycleBase,cbc97457-4cae-4fc4-be5b-ffc98fbd0dcb
 EpithelialDynamics1D,ace8a2d7-7779-48a6-a8a4-cf6831a7e55b
 EpochFolding,d59dda0b-512f-44d1-9007-ebd7d520ecca
 EpollShim_jll,2702e6a9-849d-5ed8-8c21-79e8b8f9ee43
@@ -4193,6 +4194,7 @@ GeometryOps,3251bfac-6a57-4b6d-aa61-ac1fef2975ab
 GeometryOpsCore,05efe853-fabf-41c8-927e-7063c8b9f013
 GeometryOptimization,673bf261-a53d-43b9-876f-d3c1fc8329c2
 GeometryPrimitives,17051e67-205e-509e-8301-03b320b998e6
+GeometryToolkit,ce5ad29b-8b1a-4d19-a814-cc15ce7eccd1
 GeometryTypes,4d00f742-c7ba-57c2-abde-4428a4b178cb
 Geomorphometry,714e3e49-7933-471a-9334-4a6a65a92f36
 GeophysicalFlows,44ee3b1c-bc02-53fa-8355-8e347616e15e
@@ -5926,6 +5928,7 @@ LittleCMS_jll,d3a379c0-f9a3-5b72-a4c0-6bf4d2e8af0f
 LittleEndianBase128,1724a1d5-ab78-548d-94b3-135c294f96cf
 LittleEphemeris,216eeeb1-80f3-427b-9618-77bd73e1755d
 LittleManComputer,c742fd3c-88f6-4004-ba45-01ef0bf0104f
+LiveLayoutUnicodePlots,8b8f1234-5678-9012-3456-789012345678
 LiveServer,16fef848-5104-11e9-1b77-fb7a48bbb589
 LlamaCpp,4028143c-eef9-4a3a-9d23-34f3d8ed2047
 LlamaCppOutlines,cf61004f-919f-4111-a040-3ccdc0268dd3
@@ -10936,6 +10939,7 @@ TSPSolvers,c9b9de95-37f0-4dea-82f9-4245f29ba0b6
 TSVD,9449cd9e-2762-5aa3-a617-5413e99d722e
 TSne,24678dba-d5e9-5843-a4c6-250288b04835
 TTVFaster,d84f081e-b698-44a3-a477-911041168508
+TVMFFI_jll,7af0ec00-f2f5-592e-a8a6-f550b668bbed
 TVM_jll,366fac1a-8926-5ab0-83e4-4abef7ac9c79
 TZJData,dc5dba14-91b3-4cab-a142-028a31da12f7
 Taarruz,edc76f5a-727d-11e9-15f5-7184c9a7c95d
@@ -12299,6 +12303,7 @@ battery_cli_jll,dd074c01-bd9e-510d-b91d-361c690844c9
 bcftools_jll,b51ba988-139c-5e66-8d45-d5b53cbf8c72
 beefalo_jll,a30d6a8e-903d-54eb-aa61-387f835467ce
 biber_jll,8ac4b36a-8846-5b9b-8645-a4ae0c6335e5
+biome_jll,e025eaa5-66fc-5276-8162-323db2d8a800
 bitshuffle_jll,228fe19c-1b83-5282-a626-13744502a320
 bitwarden_cli_jll,9720d140-3882-5b8d-84f3-6af565c4e518
 blasfeo_jll,6b574d4a-bb57-5a4b-b7e6-1c794c903646
