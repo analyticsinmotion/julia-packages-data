@@ -1511,6 +1511,7 @@ Chafa_jll,52a89005-cc63-50df-a748-7ef82af009e5
 Chain,8be319e6-bccf-4806-a6f7-6fae938471bc
 ChainForth,5e0eca46-5516-4b42-8bdb-e2489174fddb
 ChainLadder,80b912e8-4419-4152-9910-58fcfb6515ad
+ChainModels,63c4e67a-d9f4-4de5-9a91-57c0b98e2989
 ChainPlots,43761bbe-b505-42c3-b8bd-5d4ae40fd227
 ChainRules,082447d4-558c-5d27-93f4-14fc19e9eca2
 ChainRulesCore,d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4
@@ -2983,6 +2984,7 @@ ElectronGas,8c98e03e-8755-48b1-a5ef-1e2e7812a7c9
 ElectronLiquid,fe3a0b7f-0e79-43cc-aa0f-33de5212abe5
 ElectronTests,fa9e6d27-338f-4c48-a526-3b082c2df35e
 Electron_jll,a46fd3cf-b2b0-5367-b5a0-4facf7960654
+ElectronicStructureModels,89b7eb7d-0b8d-5078-86d5-4a0f481f2984
 Electrum,b7bf5f09-dce4-461b-b741-5180c76f4cfe
 ElemCo,094d408e-8508-40f4-9646-a254980d91ac
 ElementSymbols,05abb99a-2616-4a0f-b7a8-7cbd3e8a9a5b
@@ -6248,6 +6250,7 @@ MRIFiles,5a6f062f-bf45-497d-b654-ad17aae2a530
 MRIGradients,6ea382ba-d04a-44a2-b811-544bd2aee867
 MRINavigator,eacce8a8-16e1-4f0a-a125-bfe7a196bd66
 MRIOperators,fb1137e3-90a6-46ce-a672-6e1e53d120f2
+MRIRealign,4447969b-3c70-418c-8ae2-3a391da519f9
 MRIReco,bdf86e05-2d2b-5731-a332-f3fe1f9e047f
 MRISampling,9be66c26-f988-4649-80fc-f4721a4a33f2
 MRISimulation,8988da37-ea20-4fa6-9af7-8a6f6f9a8970
@@ -8945,6 +8948,7 @@ Quickhull,baca2653-9c88-49d2-a488-12dbf25fc4fb
 Quiqbox,7cb8c394-fae1-4ab9-92f2-30189d7746cd
 Quiver,cdbb3f72-2527-4dbd-9d0e-93533a5519ac
 QuizQuestions,612c44de-1021-4a21-84fb-7261cf5eb2d4
+QuotientCategories,c103c924-3523-4680-a691-c88f3312ec70
 QuranTree,f647ab69-6f05-4d64-883f-59d0fbe08d2b
 Qutilities,144146ce-868b-5e43-9e5b-0e94f26a569f
 Qwind,988db7c6-b368-4d8d-9ee1-ae26d5771fb3
@@ -9594,6 +9598,7 @@ SMLMBoxer,a7d3b33b-b840-4f8e-b556-99be03134090
 SMLMData,5488f106-40b8-4660-84c5-84a168990d1b
 SMLMFrameConnection,1517b1a9-81e8-461f-b994-92eb29599690
 SMLMMetrics,0dae9b29-4590-421e-953b-e41aa0457150
+SMLMRender,d945b928-cd23-4282-89d9-fc086b52682d
 SMLMSim,5a0a87e4-02d4-41f5-bf26-b8c94c784a04
 SMM,bc769cb7-f249-5bba-802a-79f18cb247ec
 SMRPInversion,aec56ffe-cd48-4f37-83c0-3fddfef137dd
@@ -11879,6 +11884,7 @@ Walker2020Sampling,f34fe3fd-af96-4859-b26f-d1ad3ec20571
 Walrus,bec5164f-1c7a-4c32-8768-be9354254d6a
 Walsh,f1c6acf7-8ab3-4e4a-9b0e-68ce1a4a1adb
 Waluigi,aa5a021a-6c35-4f46-b189-2143d43923dc
+WamIPEDensity,b4be18c8-5d09-4dc7-9320-34e8e308bc8c
 Wandb,ad70616a-06c9-5745-b1f1-6a5f42545108
 WandbMacros,e69cbec5-4d86-4e4e-9018-58a9d8b3f761
 WangLandau,8fe66260-677e-4fa0-b9cd-b744032f5639
