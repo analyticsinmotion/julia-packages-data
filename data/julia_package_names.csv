@@ -2257,6 +2257,7 @@ DLPipelines,e6530d7c-7faa-4ede-a0d6-9eff9baad396
 DMARCParser,b395d34e-f85f-4ead-8e9f-b0c549b85c9d
 DMRGenie,8fc702ce-c5c1-11ef-3984-dd129c1f8037
 DMRJtensor,5b179a51-5399-4802-8f6e-f7014fc12e6f
+DMSPData,d5333723-18be-412f-8474-053889153fe2
 DOI2BibTeX,f07c2035-147c-4265-9006-0e86cca2fe32
 DPClustering,2972619a-3223-5d84-b495-1a2ccd5409fe
 DPFEHM,8c3ed914-120a-47bd-8d72-56c743732853
@@ -4051,6 +4052,7 @@ GenGPT3,bf5e1513-8b89-42fc-a2bc-387c809df403
 GenICamRuntime_jll,aa41fe3f-f84b-5278-bb8c-b34b17f07c6c
 GenLib,e0fdd441-59bc-4b30-afdc-19bed4d9eb49
 GenLinearAlgebra,2304d612-645f-44c0-913c-a25a709b015d
+GenOpt,f2c049d8-7489-4223-990c-4f1c121a4cde
 GenParticleFilters,56b76ac4-72ef-411e-b419-6d312ed86a6f
 GenServers,7ba82512-5dde-4a56-aa4f-e00f617b4033
 GenTeX,986b9465-75d6-44a0-94a2-e5aa8586ae9d
@@ -4229,6 +4231,7 @@ GigaScatter,9213d8c3-915d-41ea-a218-6d7652ffb8c6
 GilaElectromagnetics,d021e48d-d5bb-41e2-b1a9-c560019218de
 GilbertCurves,88fa7841-ef32-4516-bb70-c6ec135699d9
 GillMatsuno,39e863eb-a116-4232-ae62-2a8db89e9457
+GillMurrayWright81,1819ed89-a2b3-41ea-8dbb-b3a776e027cf
 Gingko_jll,ebc12d66-1ae6-5e16-bc1b-c04a92e425de
 Ginkgo,4c8bd3c9-ead9-4b5e-a625-08f1338ba0ec
 Gismo,f019f137-166b-4455-b646-ee200b009b83
@@ -12840,6 +12843,7 @@ tree_sitter_rust_jll,b2197e8e-fe20-5781-846b-d7979e3cddf2
 tree_sitter_toml_jll,a1529afc-395a-556b-957c-713caec82e13
 tree_sitter_typescript_jll,dfa7e5a0-2128-5201-bc87-2ee6cd674210
 uCSV,e0b4c2ea-889f-54df-a5e0-fe74b3c892fd
+uconfig_jll,d163f6d1-60cd-57a6-95f2-34bbfba0af3c
 umesimd_jll,5f48918c-46a5-5bc9-aa52-10e03b443aad
 unixODBC_jll,1841a5aa-d9e2-579c-8226-32ed2af93ab1
 unpaper_jll,d52248c9-e08a-51c2-9066-05d0bf3e6245
