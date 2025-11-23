@@ -499,6 +499,7 @@ AstroPlot,00b67d96-df8a-4e04-ab4d-0170e12eeaec
 AstroPropagators,7f2154ff-9684-4686-a457-9182f50d0f5b
 AstroRepresentations,403ab190-7cad-4c95-848f-e576570a949d
 AstroSimBase,c6a34d98-f626-4d8d-b450-a3f124eaada6
+AstroStates,e8875680-ece1-4c6e-865d-f99ee1f9f9b4
 AstroTime,c61b5328-d09d-5e37-a9a8-0eb41c39009c
 Astroalign,7f4629bd-323a-4fad-ad42-4ee56350f27f
 AstrodynamicalCalculations,c0cf9fb7-f496-4999-a425-c50785d1b88b
@@ -966,6 +967,7 @@ Biomodelling,9f4c04fe-aef9-11e9-18a8-b5ce91034548
 BiosemiDataFormat,d1c37e40-cd17-11e8-241b-47481c954d91
 Bip39,513d1476-22ab-43b1-8671-226bf27d1d59
 BipartiteFactorGraphs,b30351d1-6332-4c89-82f4-633fdf76981a
+BipartiteGraphs,caf10ac8-0290-4205-88aa-f15908547e8d
 BipartiteMatching,79040ab4-24c8-4c92-950c-d48b5991a0f6
 BipartiteNull,9c9e855c-dc5f-4faf-9e51-68ae7b74148d
 Biplots,9eb8d32e-48e1-486a-8aed-3d24e9b2252a
@@ -8225,6 +8227,7 @@ PkgServerClient,9c9e696b-6b05-402c-8ae4-5dc38852c714
 PkgSkeleton,d254efa0-af53-535e-b7f1-03c1c9fbcbe7
 PkgSwaps,729fbdb0-15f9-4c97-886d-de714606e99e
 PkgTemplates,14b8a8f1-9102-5b29-a752-f990bacb7fe1
+PkgTemplatesShikiPlugin,8989d94b-1623-4fd9-b5bc-7ab28ad8c70f
 PkgToSoftwareBOM,6254a0f9-6143-4104-aa2e-fd339a2830a6
 PkgUtility,0d262f2c-28e9-492c-8e19-d7a5c4f11611
 PkgUtils,6f897bc9-7a02-494e-b4ae-05ae7ec60539
