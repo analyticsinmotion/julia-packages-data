@@ -1287,6 +1287,7 @@ CPUTime,a9c8d775-2e2e-55fc-8582-045d282d599e
 CQLdriver,9d1c9671-1ee4-5573-9bdf-56d4f028cf50
 CRC,44b605c4-b955-5f2b-9b6d-d2bd01d3d205
 CRC32,b4567568-9dcc-467e-9b62-c342d3a501d3
+CRHorizons,d359ef98-a7e3-42d2-87cb-a7a1f294c746
 CRRao,49d1be55-416f-4ec4-9ddf-53cbbcddc063
 CRlibm,96374032-68de-5a5b-8d9e-752f78720389
 CRlibm_jll,4e9b3aee-d8a1-5a3d-ad8b-7d824db253f0
@@ -3723,6 +3724,7 @@ FourierSeries,91b0b092-f7f9-44d0-82ad-103031573311
 FourierSeriesEvaluators,2a892dea-6eef-4bb5-9d1c-de966c9f6db5
 FourierSpaces,f3d7ce31-8807-4b9f-8144-4bd3ed8f0112
 FourierTools,b18b359b-aebc-45ac-a139-9c0ccbb2871e
+FpCategories,b9f20f1b-1226-4811-b6a0-b2e47a225553
 FractalAnimation,6118da02-c7f1-44e0-8933-0c8b5cc44c9b
 FractalDimensions,4665ce21-e117-4649-aed8-08bbe5ccbead
 FractalIntegrals,1214b007-556e-4c4e-8d39-042f176f8b35
@@ -3756,6 +3758,7 @@ FreeTypeAbstraction,663a7486-cb36-511b-a19d-713bb74d65c9
 Freenect,3da711cf-ac70-47ad-bd8d-7cd93f6093d7
 FreezeCurves,71e4ad71-e4f2-45a3-aa0a-91ffaa9676be
 FreqTables,da1fdf0e-e0ff-5433-a45f-9bb5ff651cb1
+FreqTools,fb344015-2583-4870-9d87-af59fc8caa54
 FrequencySweep,a173ecca-d819-46be-893e-979583f5a0a2
 Fresa,35d66a44-7359-11ea-387b-f94ed747d8e0
 FresnelEquations,9e8d69f6-009b-4290-9624-9f9a175b876d
@@ -6906,6 +6909,7 @@ MultiDocumenter,87ed4bf0-c935-4a67-83c3-2a03bee4197c
 MultiFloats,bdf0d083-296b-4888-a5b6-7498122e68a5
 MultiFractalFields,424b133d-7d37-4eca-9954-b7e5ab009cd0
 MultiGridBarrier,9e2c1f1d-9131-4ad4-b32f-bd2a0b0ecd1e
+MultiGridBarrierPETSc,25e6f22c-346c-4a8d-b463-5e1d66a49b87
 MultiHashParsing,73786568-6863-756d-6873-6168796e616d
 MultiIndexArrays,2f7e0951-2673-41f4-a6a8-e6772a4b2a08
 MultiJuMP,f6097e2c-3ba3-5605-a9a8-3a277acb490f
