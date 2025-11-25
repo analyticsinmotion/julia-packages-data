@@ -489,6 +489,7 @@ AstroAngles,5c4adb95-c1fc-4c53-b4ea-2a94080c53d2
 AstroChemistry,7f947402-6d9b-49de-a6e7-82c660dce669
 AstroConstants,59872b50-2c0f-4331-84f7-44577a892ba3
 AstroCoords,27fb9038-6a9d-4e07-8d5d-d0805b53c4cb
+AstroEpochs,241dcde3-d7a4-450d-948f-15f2ea2ba1fa
 AstroForceModels,077569d7-e100-45f3-83e3-c646e23345bd
 AstroIC,5b3ca070-48c3-41ea-b469-89825dd01fde
 AstroIO,c85a633c-0c3f-44a2-bffe-7f9d0681b3e7
@@ -2894,6 +2895,7 @@ EarlyStopping,792122b4-ca99-40de-a6bc-6742525f08b6
 Earth,ae24ea40-bf11-4146-8ed5-41e60b83d222
 Earth2014,e9bf6461-d004-4b32-878f-fe25c44bfa3e
 EarthAlbedo,d35a88f7-7e53-43e7-b184-7c3e13cf9009
+EarthBox,8cac4eb0-b9dc-491e-8029-d46e41f70254
 EarthData,0ce7a1f8-0645-46c2-a0bb-6c09c29d93e9
 EarthDataLab,359177bc-a543-11e8-11b7-bb015dba3358
 EarthEngine,e0774970-6faf-4e9a-8c34-3860fa82b5ca
@@ -3596,6 +3598,7 @@ FixedSizeBitVector,a6325e15-1dfe-4e9f-88de-e354d00cf0f1
 FixedSizeStrings,3ca710bb-85d4-534c-9bae-b7b5d9e27e20
 FixedWidthTables,ef6c9296-b25d-482c-a0a7-898918678e13
 Fjage,e0fd600c-be67-11e9-1f90-d366689e4029
+FjordSim,70d6b63c-c5d4-46ce-8d1e-8766361373eb
 FlagSOS,78b365f2-6d95-4275-8db6-8dceb35a712b
 FlagSets,c7ad171a-416d-44a6-be7b-07ee749f090e
 FlameGraphs,08572546-2f56-4bcf-ba4e-bab62c3a3f89
@@ -7394,6 +7397,7 @@ ODSFiles,7b1bdcfb-ac25-445c-8368-46c9637457c8
 OHDSICohortExpressions,b1469e29-13af-4897-a4a9-3c363a260582
 OIFITS,53eb397e-dec1-5dcf-8dc9-2db916067267
 OILMMs,42abab5c-8093-4643-9324-a21c2f6fbe28
+OLSPlots,d28686bc-4daf-41d6-8281-8903475a5b9e
 OMETIFF,2d0ec36b-e807-5756-994b-45af29551fcf
 OMEinsum,ebe7aa44-baf0-506c-a96f-8464559b3922
 OMEinsumContractionOrders,6f22d1fd-8eed-4bb7-9776-e7d684900715
@@ -8957,6 +8961,7 @@ QuickTypes,ae2dfa86-617c-530c-b392-ef20fdad97bb
 Quickhull,baca2653-9c88-49d2-a488-12dbf25fc4fb
 Quiqbox,7cb8c394-fae1-4ab9-92f2-30189d7746cd
 Quiver,cdbb3f72-2527-4dbd-9d0e-93533a5519ac
+QuiverTools,dc2e10be-62a3-4315-9c95-46bb97ac152d
 QuizQuestions,612c44de-1021-4a21-84fb-7261cf5eb2d4
 QuotientCategories,c103c924-3523-4680-a691-c88f3312ec70
 QuranTree,f647ab69-6f05-4d64-883f-59d0fbe08d2b
