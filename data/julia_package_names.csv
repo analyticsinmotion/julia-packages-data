@@ -6912,6 +6912,7 @@ MultiDocumenter,87ed4bf0-c935-4a67-83c3-2a03bee4197c
 MultiFloats,bdf0d083-296b-4888-a5b6-7498122e68a5
 MultiFractalFields,424b133d-7d37-4eca-9954-b7e5ab009cd0
 MultiGridBarrier,9e2c1f1d-9131-4ad4-b32f-bd2a0b0ecd1e
+MultiGridBarrier3d,594ea493-0a2f-4496-9340-85da5d8e0ddf
 MultiGridBarrierPETSc,25e6f22c-346c-4a8d-b463-5e1d66a49b87
 MultiHashParsing,73786568-6863-756d-6873-6168796e616d
 MultiIndexArrays,2f7e0951-2673-41f4-a6a8-e6772a4b2a08
@@ -7495,10 +7496,12 @@ OkFiles,b25a35d4-863d-483c-9fa1-95480bd075d2
 OktaJWTVerifier,4bff0fe4-4ead-499c-9e50-e12c47db005b
 Olive,724ecaf6-c7a0-4c22-b37e-0bb7b4193da8
 OliveAutoComplete,b9312bd6-fe06-412b-9215-2c85cf0180df
+OliveCollaborate,197e6993-98e3-4984-a077-c769f1bc4b7b
 OliveDocBrowser,730a473e-e451-46cc-9004-d443de66d173
 OliveHighlighters,f769160f-f39a-4920-b1de-ba699e2d8893
 OliveImages,d5c9dd0d-5678-4538-8542-c68b20ea893d
 OliveMarkdown,e20f13e9-ec62-4716-8935-0d6a9c8994c4
+OliveProfiler,c3a3e59a-dbc1-4859-929f-11754879f5bd
 OlivePython,723e633f-9a76-4329-b2d1-0431e20a66c6
 OliveReadOnly,7aeabb7e-fcf6-4882-8a40-b3e2d665735e
 Omega,1af16e33-887a-59b3-8344-18f1671b3ade
@@ -10415,6 +10418,7 @@ SphericalHarmonicExpansions,504afa71-bae7-47b4-8ec9-3851161806ac
 SphericalHarmonicModes,0e9554e2-b38b-11e9-16d7-9d9abfec665a
 SphericalHarmonics,c489a379-e885-57ff-9236-bd896d33c250
 SphericalScattering,1a9ea918-b599-4f1f-bd9a-d681e8bb5b3e
+SpheroidalWaveFunctions,02c85723-9d49-4e80-ba06-d2f5c9d5147a
 SpiDy,a4849050-cccd-45e7-a409-2b114d5ccb2f
 SpiceData,8ca2a67e-f683-5b14-a319-732e1d1d8f2e
 Spider,dae5e5ee-8eca-4ada-95ce-87810a1e1f9e
@@ -10460,6 +10464,7 @@ SpmSpectroscopy,9ab0b2fc-e013-4186-b0b9-58e9a8cad668
 Spot,f11abc24-ce50-11e8-2475-af6658d13f2b
 Spot_julia_jll,b9ff107b-b78e-5f57-8772-57a339630ba9
 Spotify,369d3230-709b-4770-b64e-2fec7152d6dc
+SpringRank,be6e8a61-07d1-4c53-9ea3-a8f885d7be3a
 SqState,8d120385-201d-43c1-a82b-e15c39505f50
 Sqids,5846b9ac-096c-425b-b363-8d1a03210e20
 Sqlite3Stats,b8827193-453e-47cb-8319-1562ac79a546
