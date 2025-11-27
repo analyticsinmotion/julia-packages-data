@@ -486,15 +486,19 @@ AsterReader,cb1a753d-6b7b-52e3-9bfe-57d99d445c39
 AsteroidShapeModels,a7943d8e-5d65-4248-ae23-0082f5115a05
 AsteroidThermoPhysicalModels,ab46f4a3-3c83-4d86-98d6-41a8b1a2e76e
 AstroAngles,5c4adb95-c1fc-4c53-b4ea-2a94080c53d2
+AstroCallbacks,4e6d50a3-795a-40f7-bdce-bebb06c496f9
 AstroChemistry,7f947402-6d9b-49de-a6e7-82c660dce669
 AstroConstants,59872b50-2c0f-4331-84f7-44577a892ba3
 AstroCoords,27fb9038-6a9d-4e07-8d5d-d0805b53c4cb
 AstroEpochs,241dcde3-d7a4-450d-948f-15f2ea2ba1fa
 AstroForceModels,077569d7-e100-45f3-83e3-c646e23345bd
+AstroFrames,7b16edaa-6936-47b4-b191-819abb0f77bd
 AstroIC,5b3ca070-48c3-41ea-b469-89825dd01fde
 AstroIO,c85a633c-0c3f-44a2-bffe-7f9d0681b3e7
 AstroImages,fe3fc30c-9b16-11e9-1c73-17dabf39f4ad
 AstroLib,c7932e45-9af1-51e7-9da9-f004cd3a462b
+AstroManeuvers,7696fc14-2f3a-46f6-b942-ece41ce8abed
+AstroModels,ac4cc047-8a77-4e9e-bb46-f1584e9a10ee
 AstroNbodySim,034523a5-eae8-49f5-9052-0ea364535333
 AstroPlot,00b67d96-df8a-4e04-ab4d-0170e12eeaec
 AstroPropagators,7f2154ff-9684-4686-a457-9182f50d0f5b
@@ -502,6 +506,7 @@ AstroRepresentations,403ab190-7cad-4c95-848f-e576570a949d
 AstroSimBase,c6a34d98-f626-4d8d-b450-a3f124eaada6
 AstroStates,e8875680-ece1-4c6e-865d-f99ee1f9f9b4
 AstroTime,c61b5328-d09d-5e37-a9a8-0eb41c39009c
+AstroUniverse,4bd44dca-1e45-43d2-b940-3f88da59ea6f
 Astroalign,7f4629bd-323a-4fad-ad42-4ee56350f27f
 AstrodynamicalCalculations,c0cf9fb7-f496-4999-a425-c50785d1b88b
 AstrodynamicalModels,4282b555-f590-4262-b575-3e516e1493a7
