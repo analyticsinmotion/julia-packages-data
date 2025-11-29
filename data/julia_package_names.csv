@@ -1038,6 +1038,7 @@ BlockHaloArrays,8029ca6b-11ad-4a59-88a2-2e6eee4ef8a2
 BlockMatching,100fd195-2f51-49a3-864c-eaaf5f23bc5e
 BlockSparseMatrices,1ef78180-cc57-4e70-b6ec-c3e471307147
 BlockSystems,4663d367-db1f-4bef-81e7-dc1bd7f7b428
+BlockTensorFactorization,07b766a1-0096-4e53-b687-1cd07becaccb
 BlockTensorKit,5f87ffc2-9cf1-4a46-8172-465d160bd8cd
 BlockTriangularForm,adeb47b7-70bf-415a-bb24-c358563e873a
 BlockingMethod,d9bca9eb-1e72-4788-bb56-3426fa9acbbd
@@ -2125,6 +2126,7 @@ CrimsonSkyline,b920cfb2-02b9-492b-931b-17200f17e6e0
 Crispulator,39046a72-5a6f-4d18-ae88-b64c04dba158
 CriticalDifferenceDiagrams,e3dcb5d8-23d5-4a0a-a175-b3f280ae1849
 CriticalTransitions,251e6cd3-3112-48a5-99dd-66efcfd18334
+CropGrowth,31d5a150-c0a8-4571-b61a-37582b26e8d4
 CropRootBox,0b8d6067-eb21-45e9-ba5b-895cd2a7ad38
 Cropbox,a904b226-abf1-11e9-2713-059ba252a964
 CrossEntropyMethod,f7e364ee-db6c-46d3-b598-27dc284d9c4d
@@ -9856,6 +9858,7 @@ SegregatedVMSSolver,90220dfc-fac3-4908-b895-51c1a1f4cb85
 SegyIO,157a0f19-4d44-4de5-a0d0-07e2f0ac4dfa
 SeisBase,8b7dfb90-41a7-4c72-9751-87603311c074
 SeisIO,b372bb87-02dd-52bb-bcf6-c30dd83fd342
+SeisKit,05bd159c-2902-4555-8394-afb6d27f67e8
 SeisMain,5696fd22-15e8-11e9-1986-f9ab08703604
 SeisMakie,1618359f-28d0-421c-9c3d-0705aaf8cc0d
 SeisModels,47bbc3d6-959e-5592-a00a-d17660d07a0f
