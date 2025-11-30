@@ -1579,6 +1579,7 @@ ChemistryQuantitativeAnalysis,3ed48883-6809-43ec-b77a-d23b0650d8c4
 ChemistryQuantitativeAnalysisUI,972148b6-472c-424e-8065-54bf210c1201
 ChemometricsData,fc65c5b3-1e2f-40fc-8189-28dcf66ce270
 ChemometricsTools,a9718f02-dbee-5ae5-ad0e-dfbd07fa387b
+ChenSignatures,4efb4129-5e83-47d2-926d-947c0e6cb76d
 CherenkovDeconvolution,7995dc16-b5cc-11e8-32a0-21341f07e0b5
 CherenkovMediumBase,62ded331-ac74-4432-90fd-7fafc84e95f4
 Chess,717200cc-f167-4fd3-b4bf-b5e480529844
@@ -7596,6 +7597,7 @@ OpenQASM,a8821629-a4c0-4df7-9e00-12969ff383a7
 OpenQuantumBase,5dd19120-8766-11e9-1ef9-27094038a7db
 OpenQuantumSystems,90e503ea-487f-4e8e-81fe-8dcc9db25ac5
 OpenQuantumTools,e429f160-8886-11e9-20cb-0dbe84e78965
+OpenRouter,b1229eab-bc7b-489c-92b5-04baf87d8d0b
 OpenRouterAPI,5fa99b77-8481-443e-99e2-0055499c94eb
 OpenSMILES,29c4880b-f2d1-40f2-9463-012547100b04
 OpenSSH_jll,9bd350c2-7e96-507f-8002-3f2e150b4e1b
@@ -9647,6 +9649,7 @@ SP2000China,c1df9deb-2e6b-43bb-8257-0a25d59f3b2a
 SP2000ChinaData,e24bbd13-ca2d-4e80-8582-2dcbdb03756c
 SPCSpectra,ddf1bf59-526a-4a23-8a87-8f8ce489e0c9
 SPDX,47358f48-d834-4249-91f5-f6185eb3d540
+SPECReader,0b5e1f4c-4755-4775-bc20-dc99ea6f75ff
 SPECTrecon,ab1be465-a7f0-4423-9048-0ee774b70ed9
 SPEDAS,3930f61c-4d81-4846-ab8f-357babe068a6
 SPEFiles,ed854f67-b1dc-40c1-a595-92080aa32ec0
@@ -12583,6 +12586,7 @@ libidn2_jll,e3d30ef0-22f3-5ccc-b703-2e063d8d1f30
 libidn_jll,f0f5855d-14eb-5155-b6cb-9f6c251f73bb
 libigc_jll,94295238-5935-5bd7-bb0f-b00942e9bdd5
 libiio_jll,8da1a5bb-246c-59c5-9ba1-a6804f8e92f0
+libimagequant_jll,50a7bfbf-5fc4-52b4-b7f8-52e7f829027e
 libinchi_jll,172afb32-8f1c-513b-968f-184fcd77af72
 libinput_jll,36db933b-70db-51c0-b978-0f229ee0e533
 libint_jll,5fdff7f3-485e-5122-bc58-379aa217adcc
