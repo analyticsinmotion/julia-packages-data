@@ -10002,6 +10002,7 @@ SignType,9609daed-dfca-48a0-b6c8-6de1ae2e1f05
 SignalAlignment,00a43169-c78a-487b-af83-05d1ed4d9f28
 SignalAnalysis,df1fea92-c066-49dd-8b36-eace3378ea47
 SignalBase,00c44e92-20f5-44bc-8f45-a1dcef76ba38
+SignalChannels,59ec5e11-ed95-4167-ad38-35055440f478
 SignalDecomposition,11a47235-7b84-4c7c-b885-fc3e2a9cf955
 SignalOperators,4d633899-0529-4c96-b1ed-a77d049c39ef
 SignalPlots,c121886f-841d-4855-8f3a-15f9a2397416
@@ -11186,6 +11187,7 @@ TextGrids,92f09047-6d16-4473-addc-838620b4de14
 TextHeatmaps,2dd6718a-6083-4824-b9f7-90e4a57f72d2
 TextModels,77b9cbda-2a23-51df-82a3-24144d1cd378
 TextParse,e0df1984-e451-5cb5-8b61-797a481e67e3
+TextPrompts,c04547c9-bcc9-415a-98e0-c28ab642efa6
 TextSearch,7f6f6c8a-3b03-11e9-223d-e7d88259bd6c
 TextSegmentation,05fd07d0-ee0f-48fc-9851-87e441b455c1
 TextUnidecode,67e1f08c-fd37-5136-8feb-70434d6f9f3a
@@ -11261,6 +11263,7 @@ TiffImages,731e570b-9d59-4bfa-96dc-6df516fadf69
 TightBinding,db00978d-8b5b-52b5-bbe7-ff451c144724
 TightBindingApproximation,d3576f78-cb9d-4774-9dc5-b247cf392ff4
 TightBindingToolkit,2233325a-6eb3-486f-aff0-670e0939fa7e
+TikhonovFenichelReductions,66629163-d46e-44ca-9a00-7025b1e168e6
 TikzCDs,1e332c56-9431-4126-8a34-92cbdf251ae4
 TikzGraphs,b4f28e30-c73f-5eaf-a395-8a9db949a742
 TikzPictures,37f6aa50-8035-52d0-81c2-5a1d08754b2d
@@ -11913,6 +11916,7 @@ WORLD_jll,df1608cb-88be-5058-95d4-2cc1fff969de
 WRDSMerger,59d27aa3-834e-4232-9046-52ef43e86786
 Wahoo,34ee53bd-d3f2-451a-8e30-9c0767249144
 Wakame,4447db07-3941-47e2-90a2-965b7cb1b6ce
+Wakaran,5b749d0f-6905-42a8-962c-e5c64ecf324d
 Walker2014Sampling,a2f0375b-2a06-4a22-9386-496d263139c3
 Walker2020Sampling,f34fe3fd-af96-4859-b26f-d1ad3ec20571
 Walrus,bec5164f-1c7a-4c32-8768-be9354254d6a
@@ -12753,6 +12757,7 @@ patch_jll,c7bec4a6-5215-51fd-b0a3-64ceaaad3a34
 patchutils_jll,69275a5b-71b6-5a9c-a287-c8fd9491cd23
 pciutils_jll,ad59c579-8572-507f-ac8b-0f7a68c64b3d
 peco_jll,b89f85f3-45f8-5ea8-8223-9dfa39faf294
+peppi_jlrs_jll,42265baf-9f38-5b3a-a647-0201f872c1d9
 perfetto_jll,a9cf55cc-512e-50a3-b9eb-1bf9889000f5
 picotool_jll,266ab589-d57d-568d-907f-a1cb33b240d5
 pigpiod_if2_jll,50515f5d-e8ff-5b26-ab2b-0473a017b18c
