@@ -3895,6 +3895,7 @@ GEOGloWS,ca5be53c-8591-4213-9e02-39f26c545885
 GEOS_jll,d604d12d-fa86-5845-992e-78dc15976526
 GEOTRACES,0fd43d8d-f157-424e-aaf7-32776c24e0de
 GFF3,af1dc308-cb6b-11e8-32f0-31192efa90f6
+GFXInfo,1e0a258e-4f42-48e3-aec2-b8d74ef17dc4
 GFlops,2ea8233c-34d4-5acc-88b4-02f326385bcc
 GGUFFiles,64b78412-f075-48b3-a385-7ef9f8f02b20
 GHCNData,7e11e036-0ca3-4a2d-a287-b6bec19ddff0
@@ -5994,6 +5995,7 @@ LogProbs,0810563c-c8a8-53be-b185-e51c33dc41ea
 LogRoller,c41e01d8-14e5-11ea-185b-e7eabed7be4b
 LogSpline,6b40cf57-2cb8-450d-abd9-e1a605a46c2e
 LogarithmicNumbers,aa2f6b4e-9042-5d33-9679-40d3a6b85899
+Logfire,afd33542-d123-4ba1-bea0-67b5a7deb1ad
 Logging2,18cd0bd4-3461-488c-9dae-1a490b172243
 LoggingCommon,44db15ec-78df-42c5-8c4e-36d253f36098
 LoggingExtras,e6f89c97-d47a-5376-807f-9c37f3926c36
@@ -6479,6 +6481,7 @@ MaximumIndependentSet_jll,84ef374a-9d6e-5be7-91be-6cf66a2d5e4c
 MaximumLikelihoodPower,b27c85e4-d77a-5c9d-b9af-900830bae76b
 MaximumLikelihoodProblems,e149cee4-a9c8-4a03-a7b6-d91720412337
 Maxnet,81f79f80-22f2-4e41-ab86-00c11cf0f26f
+Maxoids,b7166d23-9f35-4d07-9399-e1add1741ff3
 Maxvol,4cc553b9-be87-484b-81d9-b5ae2a4e3958
 MaxwellBase,7ddc1c72-b467-4b56-ac1e-188734e3cfa7
 MaxwellFDFD,9ee19b4e-b9c3-5130-be0e-e5859ba17e49
@@ -8644,6 +8647,11 @@ ProteinEnsembles,186d2b2d-8ad5-54a6-bcea-66047609c611
 ProteinSecondaryStructures,c298f58b-271f-48cb-96ac-5442ca7c67d9
 ProtoBuf,3349acd9-ac6a-5e09-bcdb-63829b23a429
 ProtoStructs,437b6fc4-8e8e-11e9-3fa1-ad391e66c018
+ProtocolBuffersCompiler_jll,216d9ab1-ce93-551b-982a-3c3555652c2a
+ProtocolBuffersLite_jll,0ca7621e-fd3d-51c7-9dfb-33f80fc8c6fe
+ProtocolBuffersSDK_jll,c1854a36-7b81-519e-bf44-e86c02ce7156
+ProtocolBuffersSDK_static_jll,718d5bc8-dd73-59da-a394-864b6fb530f1
+ProtocolBuffers_jll,077c9ec6-821a-5206-80b9-88f6560c8ee9
 ProtocolDataUnits,07db6e9f-91ad-4fbd-9fd8-5722e51e9a72
 ProudPalettes,61d02e3d-8de9-45ce-a87b-73174b99cb55
 ProvenanceBase,4d266fdc-498f-48d9-a85b-1209f2b17158
@@ -12872,9 +12880,11 @@ tree_sitter_jll,695101d5-1b81-5434-9529-70430e482717
 tree_sitter_json_jll,7a1ad169-5d6d-5d19-843c-e04c00abb03b
 tree_sitter_julia_jll,52be201e-a5e9-5cfe-8bf2-2dc4b062171c
 tree_sitter_modelica_jll,be4360af-1d55-5d16-a27b-51516c589496
+tree_sitter_nonmem_jll,e72dcfaf-fc0e-59b0-8bbb-b81678c89dff
 tree_sitter_ocaml_jll,58c1feab-41fe-5716-9e27-932daa5b6f35
 tree_sitter_php_jll,1d2f066d-44b9-5d42-b96c-230d176e2df5
 tree_sitter_python_jll,88db161d-10c7-51e6-aa56-e32ecf738a46
+tree_sitter_r_jll,fc627389-31b9-5eeb-8794-6fbf305d88d7
 tree_sitter_ruby_jll,64e8d737-0d98-5a82-81e1-7af1483a77cc
 tree_sitter_rust_jll,b2197e8e-fe20-5781-846b-d7979e3cddf2
 tree_sitter_toml_jll,a1529afc-395a-556b-957c-713caec82e13
