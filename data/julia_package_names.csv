@@ -1575,6 +1575,7 @@ Chemfiles_jll,78a364fa-1a3c-552a-b4bb-8fa0f9c1fcca
 ChemicalFormula,069161ab-964a-4228-89a0-7a676f2e1f46
 ChemicalIdentifiers,fa4ea961-1416-484e-bda2-883ee1634ba5
 ChemistryFeaturization,6c925690-434a-421d-aea7-51398c5b007a
+ChemistryLab,f346e401-14f9-407c-a0e2-c4f64a3e574a
 ChemistryQuantitativeAnalysis,3ed48883-6809-43ec-b77a-d23b0650d8c4
 ChemistryQuantitativeAnalysisUI,972148b6-472c-424e-8065-54bf210c1201
 ChemometricsData,fc65c5b3-1e2f-40fc-8189-28dcf66ce270
@@ -5780,6 +5781,7 @@ LibGEOS,a90b1aa1-3769-5649-ba7e-abc5a9d163eb
 LibGEOSMakie,1902729b-b4d4-4bb0-ae7d-e2f19e2a15fb
 LibGit2_jll,e37daf67-58a4-590a-8e99-b0245dd2ffc5
 LibIIO,054d326e-df27-43d9-b4b2-3b491c653341
+LibImageQuant,65eadcc4-e045-440a-9e0d-07418b613f72
 LibLZO,32aa4ff1-cc5a-4ead-abec-09bb076ef871
 LibMPDec_jll,7106de7a-f406-5ef1-84f7-3345f7341bd2
 LibModbus,eb9b09e8-e158-48db-9998-d0f1810f0d04
@@ -10292,6 +10294,7 @@ SoilProfiles,d2d87a28-bc46-4564-bd1b-2e333645c2dc
 SoilWater_ToolBox,374a444c-c624-4b44-9de1-37c0fe7c6d41
 SolarEnergeticParticle,c65597a0-fc8f-4fb5-9f0a-4e6244d82c46
 SolarGeometry,4c2ee4bc-ae8c-4f43-b820-7df96744ebfe
+SolarPosition,5b9d1343-a731-5a90-8730-7bf8d89bf3eb
 Solaris,c31bc6c7-79d6-424e-a85f-5b42ee086500
 Solcast,316e074d-b47d-40a7-868b-1b027d6a4e76
 Sole,7b3b3b3f-8b15-4a80-a798-b383498bc2cf
@@ -12871,6 +12874,7 @@ tree_sitter_bash_jll,7332bcdc-bd2a-5999-b4fe-680b85f40771
 tree_sitter_c_jll,af41be9f-6c08-5eeb-b278-7a4b044e283f
 tree_sitter_c_sharp_jll,723d02b1-9c41-53fe-b4fa-4fa9538be20d
 tree_sitter_cpp_jll,db96dd59-cc3e-5205-9518-9f32d21f88e9
+tree_sitter_fortran_jll,f370be48-5072-5a80-a2be-a91280f1992d
 tree_sitter_go_jll,beecb120-e197-59fa-b79c-0316d51c9920
 tree_sitter_highlight_jll,a99a7680-1b0c-57dd-b59a-79ab8f52c9a4
 tree_sitter_html_jll,3890dd07-cc9a-5220-ba41-7d914d0b28d4
@@ -12879,6 +12883,7 @@ tree_sitter_javascript_jll,ca45b743-11fc-5578-b74a-7528860c0bda
 tree_sitter_jll,695101d5-1b81-5434-9529-70430e482717
 tree_sitter_json_jll,7a1ad169-5d6d-5d19-843c-e04c00abb03b
 tree_sitter_julia_jll,52be201e-a5e9-5cfe-8bf2-2dc4b062171c
+tree_sitter_matlab_jll,67499a12-87ae-5367-9f08-9b6e5d7d8b47
 tree_sitter_modelica_jll,be4360af-1d55-5d16-a27b-51516c589496
 tree_sitter_nonmem_jll,e72dcfaf-fc0e-59b0-8bbb-b81678c89dff
 tree_sitter_ocaml_jll,58c1feab-41fe-5716-9e27-932daa5b6f35
