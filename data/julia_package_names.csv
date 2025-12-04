@@ -919,6 +919,7 @@ BinaryTraits,190e46ec-f771-4705-b939-984896f7be0e
 BinaryTrees,289e92be-c05a-437b-9e67-5b0c799891f8
 BinaryWrappers,f01c122e-0ea1-4f85-ad8f-907073ad7a9f
 Binaryen_jll,a54ac8ab-712d-5a0e-8e11-9296c0d3c20e
+Bincrypter,96fd710b-316a-421d-b5a6-3410d6b9b0d0
 Bingomatic,5d0f211d-823e-4d77-a844-586f1e6d1e5a
 BinnedDistributionFit,f02bb49f-f210-4a55-8a0e-128c45691c98
 BinnedModels,fa1fc709-16e9-4084-816c-4cfb0f07afb9
@@ -6318,6 +6319,7 @@ Madrigal,30ac0af5-7056-44d2-a45c-266d747295e6
 Mads,d6bdc55b-bd94-5012-933c-1f73fc2ee992
 MagNav,f91b31a4-be4d-40e3-b767-4b8c09c10076
 MagicVLSI_jll,8553b089-32f9-510e-b5d7-7da551ec2160
+Magika,a454fd17-9086-4fe2-b9b0-9a1c0873c51f
 MagmaThermoKinematics,e7fe3d1a-f102-40b5-a66b-64b14986c4c8
 MagneticReadHead,63dd013e-5414-5e51-b21a-a24e12ed54cf
 MagnitudeDistributions,159377fa-0e0e-4acb-ad92-1ebbdec31067
@@ -10782,6 +10784,8 @@ SubspaceInference,706446a6-0e85-4c47-b731-c658bbb72625
 SubspacePreservingSparsification,4d1ea0e1-70d2-4753-baf0-722475fae2d0
 Subspaces,922a6ab9-c04b-46bc-b8bf-400344129a3c
 SubstitutionModels,8365b1bb-bd83-58ee-a267-f2965fc81c73
+SubsurfaceCore,3a78539b-9dce-42c5-be8d-f3fa4153f7a3
+Subzero,21f28ab0-737f-4f26-8d5f-51b5b12fb6de
 SuccessiveConvexProgrammings,de9f8efb-491d-4667-8a63-6a751e3bd45f
 Sudoku,ed8dd712-c67e-57b2-a78d-39b336ca029f
 SudokuSolver,35248bf2-58a5-46a0-9b1d-c0a73a50a101
