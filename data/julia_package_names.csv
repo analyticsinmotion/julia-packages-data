@@ -2389,6 +2389,7 @@ DataToolkitBase,e209d0c3-e863-446f-9b45-de6ca9730756
 DataToolkitCommon,9e6fccbf-6142-406a-aa4c-75c1ae647f53
 DataToolkitDocumenter,da7a8352-2ca4-4dda-97e5-892bce2686ec
 DataTools,96c8136d-373b-4a4f-9482-8552faa6eb26
+DataTreatments,1b3ff5f2-9b56-42a2-b38a-76a033f741ca
 DataTypesBasic,83eed652-29e8-11e9-12da-a7c29d64ffc9
 DataValueInterfaces,e2d170a0-9d28-54be-80f0-106bbe20a464
 DataValues,e7dc6d0d-1eca-5fa6-8ad6-5aecde8b7ea5
@@ -2584,6 +2585,7 @@ DifferentialDynamicProgramming,9cd584b6-1a68-5b24-b787-24af5fbbf48b
 DifferentialDynamicsModels,cb52cc87-d0c7-5933-bad1-08679d8b4c67
 DifferentialEquations,0c46a032-eb83-5123-abaf-570d42b7fbaa
 DifferentialEvolutionMCMC,607db5a9-722a-4af8-9a06-1810c0fe385b
+DifferentialEvolutionMetropolis,a5908a69-3cf8-4221-8182-38852cbc47b2
 DifferentialForms,9e54b8bf-1ae4-4c45-8656-f6b46e7970a3
 DifferentialPhaseContrast,4f2186bb-3a2c-44f0-a062-04c6d4d3fd0d
 DifferentialRiccatiEquations,9819f967-4574-4d9d-b214-002eeba273d9
@@ -3100,6 +3102,7 @@ EpochFolding,d59dda0b-512f-44d1-9007-ebd7d520ecca
 EpollShim_jll,2702e6a9-849d-5ed8-8c21-79e8b8f9ee43
 EponymKeywordSyntax,d38a42db-3801-4ba0-8d69-b527598ec48c
 EponymTuples,97e2ac4a-e175-5f49-beb1-4d6866a6cdc3
+EpsteinLib,a842d94e-5710-4e9e-8aa7-655017b7ad80
 Epsteinlib_jll,4ec54591-1743-56ec-8704-f258a6d96b61
 EqualityConstrainedMinimization,3687fdae-f7fc-44d6-b290-5a4209d5cae9
 EqualitySampler,78feedfb-ee96-4c5d-801a-e07e5d165ffd
