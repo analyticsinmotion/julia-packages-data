@@ -3743,6 +3743,7 @@ FourierSeriesEvaluators,2a892dea-6eef-4bb5-9d1c-de966c9f6db5
 FourierSpaces,f3d7ce31-8807-4b9f-8144-4bd3ed8f0112
 FourierTools,b18b359b-aebc-45ac-a139-9c0ccbb2871e
 FpCategories,b9f20f1b-1226-4811-b6a0-b2e47a225553
+FpLinearCategories,607c1b85-d155-426e-91c9-9defd76aa9e1
 FractalAnimation,6118da02-c7f1-44e0-8933-0c8b5cc44c9b
 FractalDimensions,4665ce21-e117-4649-aed8-08bbe5ccbead
 FractalIntegrals,1214b007-556e-4c4e-8d39-042f176f8b35
@@ -4964,6 +4965,7 @@ IndependentHypothesisWeighting,1340648c-e7e8-4e39-b869-c84f40c4506c
 IndexFunArrays,613c443e-d742-454e-bfc6-1d7f8dd76566
 IndexSpaces,3ceaaf38-e7b4-4193-a23a-303dd231a83a
 IndexableBitVectors,1cb3b9ac-1ffd-5777-9e6b-a3d42300664d
+IndexedDataFrames,30d8e1a9-d5cd-4a57-ad5f-8276e63f4ed5
 IndexedFactorGraphs,edf0a622-c16b-410a-a162-e53dc16a76ae
 IndexedGraphs,8a731c18-cfb7-4915-927e-cc26b56b67cd
 IndexedStructVectors,943997de-97ed-46fb-843d-45d8ceac30b4
@@ -8400,6 +8402,7 @@ PolyChaos,8d666b04-775d-5f6e-b778-5ac7c70f65a3
 PolyDAQP,be5c70c9-e47a-4559-82a9-cba980583202
 PolyJuMP,ddf597a6-d67e-5340-b84c-e37d84115374
 PolyLog,85e3b03c-9856-11eb-0374-4dc1f8670e7f
+PolyOCP,486de887-2d28-4133-b065-860be2a859fb
 PolySignedDistance,8d51ded4-3717-4b51-8789-c29ee14d2ab5
 PolyaGammaDistribution,5d96170c-d9fd-4420-bed5-7554cecc1fd7
 PolyaGammaHybridSamplers,c636ee4f-4591-4d8c-9fae-2dea21daa433
@@ -10573,6 +10576,7 @@ StataDTAFiles,b8b3a5fb-3772-5a86-9e24-bf4afc28128a
 StateBins,9a95ff34-6502-4c8e-98bc-9434865e63ed
 StateCharts,bfc335c0-d564-425b-98aa-d5c699c8b7ab
 StateMachines,59420ebe-bdc3-4117-ac89-8393ca9fcf2c
+StateSelection,64909d44-ed92-46a8-bbd9-f047dfbdc84b
 StateSignals,cc7ea9f4-611f-50b7-86a5-d62288be5013
 StateSpaceAnalysis,8767b432-2e83-436f-aa62-e8e2db78ab85
 StateSpaceDynamics,19cf8126-1d00-4ad8-bf17-4e76d7bc0f6d
