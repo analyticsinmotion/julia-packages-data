@@ -7,6 +7,7 @@ ABCdeZ,208e7efd-7036-4c82-8b73-3e7ae71c2350
 ABCredit,91b5283e-3ff1-4617-8122-130c88cb8aba
 ACAFact,2e0d8c30-fd72-45bd-a04c-a052d00f6fe4
 ACEbase,14bae519-eb20-449c-a949-9c58ed33163e
+ACEfit,ad31a8ef-59f5-4a01-b543-a85c2f73e95c
 ACME,ca8b7239-ccd3-5cce-807f-2072f3f0d108
 ACSets,227ef7b5-1206-438b-ac65-934d6da304b8
 ACTRModels,c095b0ea-a6ca-5cbd-afed-dbab2e976880
@@ -4750,6 +4751,7 @@ Hymod,2d06aeeb-b05a-4dff-b7c9-38070db02149
 Hypatia,b99e6be6-89ff-11e8-14f8-45c827f4f8f2
 HyperDualMatrixTools,04d39a18-1502-5db8-a704-9ca743349cef
 HyperDualNumbers,50ceba7f-c3ee-5a84-a6e8-3ad40456ec97
+HyperHessians,06b494a0-c8e0-40cc-ad32-d99506a00a6c
 HyperModularity,bc4352e7-2825-48c1-aa5c-95462f20dcc0
 HyperSparseMatrices,c7efdb1c-7caa-4c7d-9b5e-9093f9323c7c
 HyperSphere,12e350a7-e224-4cd9-9794-6d6b55fa14c7
@@ -7438,6 +7440,7 @@ ONNXRunTime,e034b28e-924e-41b2-b98f-d2bbeb830c6a
 ONNXRuntime_CUDA_jll,a13615ec-4c6a-5020-9bdf-9d9993bbd1cf
 ONNXRuntime_jll,09e6dd1b-8208-5c7e-a336-6e9061773d0b
 ONNX_jll,4df3ec0b-c10b-5542-9400-16acb2a6b670
+ONNX_static_jll,23524693-fba5-5b56-a3e3-2a280dc54396
 ONOperas,2f311c38-3ada-427e-8056-89f8b5c11f31
 ONSAS,7d8da659-23aa-453a-9a19-a3d1f6c795f5
 OOESAlgorithm,b729bf19-12cd-5270-a5a7-361c22ea64b8
@@ -8458,6 +8461,7 @@ Poptart,197b51f5-fdb5-5f35-aa9f-0a14f35f5b28
 Population,11b83ad2-e65e-47ba-870b-1ff818f3e30a
 Porcupine,3b53a3d7-3f34-4bba-8df2-4717a8b1e972
 PoreMatMod,2de0d7f0-0963-4438-8bc8-7e7ffe3dc69a
+Porosity,35db7a65-4993-4cb4-8bbd-c48e232b3666
 PorousMaterials,68953c7c-a3c7-538e-83d3-73516288599e
 PortAudio,80ea8bcb-4634-5cb3-8ee8-a132660d1d2d
 PortHamiltonianBenchmarkSystems,a30e1a9a-10b8-4bba-9e65-ab6e41f71348
