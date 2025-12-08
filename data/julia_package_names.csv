@@ -356,6 +356,7 @@ Apophis,cf72b054-1e85-4718-a3f4-02cfdc10a054
 AppBundler,40eb83ae-c93a-480c-8f39-f018b568f472
 AppBundlerUtils_jll,20612f45-4fe6-500a-af5c-19078bfe0d65
 AppDirs,5a4fb9a2-b02d-4ffe-b178-6027dc2bc1ce
+AppEnv,9f11263e-cf0d-4932-bae6-807953dbea74
 AppleAccelerate,13e28ba4-7ad8-5781-acae-3021b1ed3924
 AppleHealthParser,d1ed7681-0bdc-4b3e-a64e-a9a059b3ebfe
 AppliGeneralLedger,69311175-8ceb-4e66-8d4a-fec439d19437
@@ -651,6 +652,7 @@ BERTAnalysisGUI,e774e4bd-d316-4fdb-a598-27f0a282f788
 BEncode,65043f5e-d494-54fb-85cf-e13b6ec0f31a
 BFloat16s,ab4f0b2a-ad5b-11e8-123f-65d77653426b
 BGEN,6db4b851-9beb-4b83-9d64-eb1cfb37721d
+BGZFLib,b86bd9b6-aa64-492d-a0e2-e61a004d8aed
 BGZFStreams,28d598bf-9b8f-59f1-b38c-5a06b4a0f5e6
 BHAPtfem,93ceba2d-d20d-5c25-8f16-94297efeca72
 BHAtp,dfba38dd-e1e3-5ba0-a365-f7fdd7187232
@@ -3066,6 +3068,7 @@ EnergyStatistics,631263cc-0f82-11ea-1caf-35c9eae72d11
 EnforcedTypeSignatureCallables,e0a517c1-78b8-4e0b-8db9-584d87c611c9
 EngThermBase,dffbff30-506a-45ba-b474-e78cc8ad254e
 EnglishText,a9e4a3a0-3b51-51f6-8ce2-a898b8c5b12e
+EnhancedCSV,db2670d1-d57e-49e7-a9fb-f22487c808fe
 EnhancedGJK,3d39a06a-b57e-5769-b499-4d62b23c243f
 EnhancedLogging,5d3b31b8-5173-11e9-1ac0-b32cb3db6653
 Enigma,68071ed3-b3ed-4442-ae89-ae359c4518d1
@@ -4409,6 +4412,7 @@ GreekSyntax,5497687e-e4d1-4cb6-b14f-a6a808518ccd
 GreenFlux,ccad5352-7643-4eb2-b711-e9c298e87bf0
 GreenFunc,9efc7ea6-d529-4241-ab29-dcf68b94af7c
 GreenWriter,e298cd2a-bb8b-47e7-b9a6-e75b86eaa6ce
+GregoryLoredo,27cdad02-83ed-4657-a9f5-b5f94b1c509a
 Grep,775960c6-9b90-5df0-b405-1e337feb71e5
 GridArrays,356ae075-8bc9-5ef9-a342-46c9ba26438c
 GridCreation,71e55505-9134-4914-97da-b2ab28305a13
@@ -6433,6 +6437,7 @@ MathML,abcecc63-2b08-419c-80c4-c63dca6fa478
 MathMLRepr,42d37811-1353-41fc-905d-730061a3b7c3
 MathOptAI,e52c2cb8-508e-4e12-9dd2-9c4755b60e73
 MathOptAnalyzer,d1179b25-476b-425c-b826-c7787f0fff83
+MathOptBenchmarkInstances,f7f8d0a1-fd34-491e-a7ac-a4cf52f91fe5
 MathOptChordalDecomposition,691ff971-50ce-4a2e-a182-eb537bf792c3
 MathOptFormat,f4570300-c277-12e8-125c-4912f86ce65d
 MathOptIIS,8c4f8055-bd93-4160-a86b-a0c04941dbff
@@ -8100,6 +8105,7 @@ PerformanceProfilingHttpEndpoints,773a18e9-432f-47dd-82a7-1a805cf6f851
 PerformanceTestTools,dc46b164-d16f-48ec-a853-60448fc869fe
 PeriLab,2ecefcea-59f0-46dd-9cfd-1d2b8cc5f112
 Peridynamics,4dc47793-80f3-4232-b30e-ca78ca9d621b
+PeriodicArrays,343d6138-6384-4525-8bee-38906309ab36
 PeriodicAutoregressive,bf9113de-13c2-4ffd-8552-7be908523e05
 PeriodicGraphEmbeddings,f305370e-dc8e-427a-bb15-d3949eabeccf
 PeriodicGraphEquilibriumPlacement,72a2d4b8-adbf-4c88-a101-42c807716bb0
