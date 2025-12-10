@@ -8594,6 +8594,7 @@ PrettyPrint,8162dcfd-2161-5ef2-ae6c-7681170c5f98
 PrettyPrinting,54e16d92-306c-5ea0-a30b-337be88ac337
 PrettyTables,08abe8d2-0d0c-5749-adfa-8a2ac140af0d
 PrettyTests,ecd20d55-42c1-4d31-a87b-fff5cebab0b6
+PrimeAttention,8947be7e-a623-4b33-ad81-c67fb9ad3345
 Primes,27ebfcd6-29c5-5fa9-bf4b-fb8fc14df3ae
 PrimitiveCollisions,3b8dc6f2-bddc-4c88-9cf9-9f37a0c17a29
 PrimitiveOneHot,13d12f88-f12b-451e-9b9f-13b97e01cc85
@@ -12682,6 +12683,7 @@ libsodium_jll,a9144af2-ca23-56d9-984f-0d03f7b5ccf8
 libsparseir_jll,e5bf0e3f-5e75-5bb8-9f3f-2c07620468a3
 libspatialite_jll,a4c9d1fc-8f32-52c2-b7e7-251980156b63
 libssh_jll,a8d4f100-aa25-5708-be18-96e0805c2c9d
+libstrophe_jll,9ba4b727-a6ae-5378-842c-8467618b2537
 libsvm_jll,08558c22-525a-5d2a-acf6-0ac6658ffce4
 libtakum_jll,2acead13-4190-5b23-9738-715dd9fd1a00
 libtapi_jll,defda0c2-6d1f-5f19-8ead-78afca958a10
