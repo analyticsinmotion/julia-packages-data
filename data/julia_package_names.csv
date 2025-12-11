@@ -350,6 +350,7 @@ Antique,be6e5d0e-34a5-4c8f-af83-e1b5389203d8
 Antlr4CppRuntime_jll,642bff37-c5db-510f-b67c-24692d406d7f
 AnyAscii,a6021bc5-2e08-4bec-afaa-bd1873282c9a
 AnyMOD,16ed6a40-d4c3-11e9-1e10-59384530c1b4
+AnythingLLMDocs,333fe5f5-19c9-4863-8caf-c9193e7dba62
 AnytimeWeightedAStar,ec8c4e8f-3dff-4cc6-be8a-faba0f6c4cb5
 AoGExtensions,7df18d33-496e-4cfd-8564-72cba2c0b329
 Apophis,cf72b054-1e85-4718-a3f4-02cfdc10a054
@@ -7467,6 +7468,7 @@ OSMMakie,76b6901f-8821-46bb-9129-841bc9cfe677
 OSMToolset,a1c25ae6-0f93-4b3a-bddf-c248cb99b9fa
 OSQP,ab2f91bb-94b4-55e3-9ba0-7f65df51de79
 OSQP_jll,9c4f68bf-6205-5545-a508-2878b064d984
+OSRM_jll,a74304e1-5a13-544f-adb7-0572470cee19
 OTF2_jll,312b3e1d-731b-5709-b7dd-8df63785c7d0
 OVERT,07e67fc4-eb77-11eb-38c2-1307cbb1fbf4
 OWENSPreComp,7fd84261-8b17-47b6-a87d-1cc34e69440e
