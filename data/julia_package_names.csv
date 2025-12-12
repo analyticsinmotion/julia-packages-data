@@ -8,6 +8,7 @@ ABCredit,91b5283e-3ff1-4617-8122-130c88cb8aba
 ACAFact,2e0d8c30-fd72-45bd-a04c-a052d00f6fe4
 ACEbase,14bae519-eb20-449c-a949-9c58ed33163e
 ACEfit,ad31a8ef-59f5-4a01-b543-a85c2f73e95c
+ACEpotentials,3b96b61c-0fcc-4693-95ed-1ef9f35fcc53
 ACME,ca8b7239-ccd3-5cce-807f-2072f3f0d108
 ACSets,227ef7b5-1206-438b-ac65-934d6da304b8
 ACTRModels,c095b0ea-a6ca-5cbd-afed-dbab2e976880
@@ -3281,6 +3282,7 @@ FAMSA_jll,03e070a6-cabd-5a65-a0e2-949769773651
 FASTX,c2308a5c-f048-11e8-3e8a-31650f418d12
 FBCModelTests,1060cd45-1c33-4a14-be81-8fa38fdd82bf
 FCA,9ac0d1d1-ab1e-5a44-888c-d389b307372d
+FCCQuadrature,7e58c0cd-f370-453c-9274-eb333b7aace6
 FCSFiles,d76558cf-badf-52d4-a17e-381ab0b0d937
 FDDerivatives,66d7c4ea-78be-5636-8e8c-eba2f3c94ae1
 FDM,e25cca7e-83ef-51fa-be6c-dfe2a3123128
@@ -6793,6 +6795,7 @@ ModelingToolkitDesigner,23d639d0-9462-4d1e-84fe-d700424865b8
 ModelingToolkitInputs,9c47c465-b61a-4984-aca2-8d7e8f154266
 ModelingToolkitNeuralNets,f162e290-f571-43a6-83d9-22ecc16da15f
 ModelingToolkitStandardLibrary,16a59e39-deab-5bd0-87e4-056b12336739
+ModelingToolkitTearing,6bb917b9-1269-42b9-9f7c-b0dca72083ab
 ModelingToolkitTolerances,cca81fe9-e5fd-44f6-ad29-5b4f39e14206
 Models,e6388cff-ecff-480c-9b53-83211bf7812a
 ModernGL,66fc600b-dfda-50eb-8b99-91cfa97b1301
@@ -8303,6 +8306,7 @@ PlantRayTracer,78485975-e4aa-407d-b3bb-ded5a4265d05
 PlantSimEngine,9a576370-710b-4269-adf9-4f603a9c6423
 PlantUML,69ad847d-c018-4c53-a279-bc41134dba09
 PlantViz,358bd95d-d12c-439f-94b7-04b17e500c7f
+Plasm,f409d63b-f417-4cf6-91a7-43a0b773193b
 Plasma,d4286570-51d5-4bbe-9c0b-035637fe1a6e
 PlasmaEquilibriumToolkit,57ef8d28-8191-49ce-8cf8-17f9379aac88
 PlasmaFormulary,d26ff896-aba2-4e70-a0a6-448627456efe
@@ -9315,6 +9319,7 @@ RegularGrids,b0707430-6b97-4baa-a412-de5724fe1c0f
 RegularizationTools,29dad682-9a27-4bc3-9c72-016788665182
 RegularizedCovarianceMatrices,5bfb50f7-5e0c-48f2-b6cf-e6e905952022
 RegularizedLeastSquares,1e9c538a-f78c-5de5-8ffb-0b6dbe892d23
+RegularizedOptimization,20620ad1-4fe4-4467-ae46-fb087718fe7b
 RegularizedProblems,ea076b23-609f-44d2-bb12-a4ae45328278
 Reinforce,0376cc21-f8a9-5fcf-8891-fde1415a4fd3
 ReinforcementLearning,158674fc-8238-5cab-b5ba-03dfc80d1318
@@ -10740,6 +10745,7 @@ StreamCallbacks,c1b9e933-98a0-46fc-8ea7-3b58b195fb0a
 StreamCallbacksExt,318dcf79-f1de-4874-b31b-6e12fc76f75a
 StreamSampling,ff63dad9-3335-55d8-95ec-f8139d39e468
 StreamToString,dc918f9c-79cc-42e6-85f1-d8b9b09632f4
+StreamVByte_jll,90af1822-8dd1-5078-b228-f487b1f02c31
 Streamfall,09d4d480-e905-4803-959d-af438f1c2811
 StressTest,6e3341f8-3a0d-4582-a093-9d6e6d36caf8
 Stressify,8a229381-d7eb-4865-a507-cf9af2c5cd1e
