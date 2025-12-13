@@ -1986,6 +1986,7 @@ Consensus,39099a2c-f609-41b4-99c2-62ec6735b6c9
 ConsensusBasedX,8f5ebde3-ef8e-4825-b277-c25898c0de77
 ConsensusBasedXPlots,69c88b9d-9dd6-4dd3-8f65-085fa43a946d
 ConservationLawsParticles,dbb53eb6-f4e4-11e9-1aca-071dd871ed0a
+ConservativeRegridding,8e50ac2c-eb48-49bc-a402-07c87b949343
 ConsistencyResampling,4937dc1f-c7a3-5772-9d42-4a8277f2eb51
 ConsistentKoopman,e2e491fc-7d8f-4591-840c-7964746acd08
 ConsoleCodes,56af3beb-dadf-49b6-97be-f243832a24ad
@@ -3089,6 +3090,7 @@ EntropyHub,3938faea-3bfa-4bc3-8092-0c6746ff9af1
 EntropyInvariant,73e3304b-a6b6-4b69-aa20-e611882c686e
 EntropyScaling,36a13073-9e6e-4b19-b12b-cb530e79ee8e
 Entwine_jll,9290252f-3c82-5b4b-93a0-1879861c8c5d
+EnumClasses,53ae640c-c67a-4d53-9dcb-4c921c67b7cd
 EnumSets,6e6cbeda-52ee-45ac-a8dc-908a1b2c6a2c
 EnumX,4e289a0a-7415-4d19-859d-a7e5c4648b56
 EnvironmentMigrators,e51d7f76-d3fb-4251-851d-1e49b8315b3e
@@ -8987,6 +8989,7 @@ QuartzImageIO,dca85d43-d64c-5e67-8c65-017450d5d020
 Quasar,86e06105-936e-439e-acf0-7687560b0bd9
 QuasiArrays,c4ea9172-b204-11e9-377d-29865faadc5c
 QuasiCopula,c47b6ae2-b804-4668-9957-eb588c99ffbc
+QuasiCrystal,7178fac9-d2bf-4933-964d-a28131e4f2a4
 QuasiEwald,983f8767-50b7-4083-a328-dfb7a9c26de7
 QuasiGLM,e2a73505-cb16-4f72-bfa1-862ae24a0184
 QuasiGrad,ead79d5d-eeb6-4e9e-b9c0-d4b75b0c44ab
