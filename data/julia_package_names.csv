@@ -1966,6 +1966,7 @@ ConfigEnv,01234589-554d-41b7-ae5c-7b6ee2db6796
 Configs,d3268586-e29f-49f6-96a4-1d4e5b7023cc
 Configurations,5218b696-f38b-4ac9-8b61-a12ec717816d
 ConfigurationsENV,4a543033-a920-4921-b9ec-d69f25e1cf2a
+ConformalGaussHypergeometric,a0f86bc1-470f-4209-bc5c-9aadbf1cec0c
 ConformalMaps,226e0482-2e74-5b70-8460-0a87d2a092cc
 ConformalPrediction,98bfc277-1877-43dc-819b-a3e38c30242f
 ConicBenchmarkUtilities,e95a7839-07fb-532d-9a0e-071766bb5168
@@ -7765,6 +7766,7 @@ OrdinaryDiffEqIMEXMultistep,9f002381-b378-40b7-97a6-27a27c83f129
 OrdinaryDiffEqLinear,521117fe-8c41-49f8-b3b6-30780b3f0fb5
 OrdinaryDiffEqLowOrderRK,1344f307-1e59-4825-a18e-ace9aa3fa4c6
 OrdinaryDiffEqLowStorageRK,b0944070-b475-4768-8dec-fb6eb410534d
+OrdinaryDiffEqNewmark,d204908a-63b9-11ef-18f5-cfec7123a93b
 OrdinaryDiffEqNonlinearSolve,127b3ac7-2247-4354-8eb6-78cf4e7c58e8
 OrdinaryDiffEqNordsieck,c9986a66-5c92-4813-8696-a7ec84c806c8
 OrdinaryDiffEqOperatorSplitting,760fc936-9fa0-4281-9c1a-468957eedc89
