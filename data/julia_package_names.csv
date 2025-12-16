@@ -8422,6 +8422,7 @@ PolarizedTypes,d3c5d4cd-a8ee-40d6-aac7-e34df5a20044
 PolaronMakie,a3d5612c-6665-44da-b73b-aebf26fd4c82
 PolaronMobility,a1b829d7-2a44-59aa-80d3-9ddd83901c9b
 PolaronPathIntegrals,d6737c65-484a-4421-a0d1-26b5c66db56b
+PoliSpectralTools,e5870fb4-0785-4c2b-93f1-21089c9623d1
 Poltergeist,89210da2-f0be-5ef8-ba65-10393cce509d
 PolyBranch,3c307872-14e4-494b-abb3-fed68641e9b4
 PolyChaos,8d666b04-775d-5f6e-b778-5ac7c70f65a3
@@ -9848,6 +9849,7 @@ Schrute,61f9b78f-36d5-406c-bf21-cf8c30e00dbe
 SchumakerSpline,65e68595-3a03-5ff5-a6a2-f05fa774f32e
 SchwarzChristoffel,6e93f119-a087-51f0-a155-b73ce4943121
 SciBmad,7bf6e793-a2ec-421f-8700-d1465381ee80
+SciCompDSL,91a8cdf1-4ca6-467b-a780-87fda3fff15e
 SciMLBase,0bca4576-84f4-4d90-8ffe-ffa030f20462
 SciMLBenchmarks,31c91b34-3c75-11e9-0341-95557aab0344
 SciMLExpectations,afe9f18d-7609-4d0e-b7b7-af0cb72b8ea8
@@ -12063,6 +12065,7 @@ WhyNotEqual,e6125b7d-2298-432f-af45-a1235af9403e
 WiNDC,699cc7a2-9ea9-42f0-a823-bc8522533664
 WiNDCContainer,75ccf2c7-f350-4b24-b7dd-6f142b3d3146
 WiNDCNational,859d2a84-d038-44d0-959f-b84298eeb557
+WiNDCRegional,3a283cf7-dd81-4e73-b72e-b49da15ce41c
 WiSARD,2b71b7a6-5a26-4a05-9b8d-679d5aa759d4
 WiSER,2ff19380-1883-49fc-9d10-450face6b90c
 Widgets,cc8bc4a8-27d6-5769-a93b-9d913e69aa62
