@@ -1466,6 +1466,7 @@ Cassette,7057c7e9-c182-5462-911a-8362d720325c
 CassetteBase,6dd3e646-b1c5-42c7-94be-00277fa12e22
 CassetteOverlay,d78b62d4-37fa-4a6f-acd8-2f19986eb9ee
 CastepReader,fad133d4-4adf-409a-947f-9114b6962100
+CasualPlots,96609e94-6212-48a9-9561-4cd28ba001d1
 CatBoost,e2e10f9a-a85d-4fa9-b6b2-639a32100a12
 CatColabInterop,9ecda8fb-39ab-46a2-a496-7285fa6368c1
 CatIndices,aafaddc9-749c-510e-ac4f-586e18779b91
@@ -5685,6 +5686,7 @@ LatinHypercubeSampling,a5e1c1ea-c99a-51d3-a14d-a9a37257b02d
 LatinOrthography,1e3032c9-fa1e-4efb-a2df-a06f238f6146
 LatinSquares,c3c424ec-ae8f-5049-b7bf-f9296ef684c8
 LatinSyntax,48187f9f-78ff-4060-b31e-d855612fbaec
+Lattice2D,e8031020-b7ff-4f1d-bee4-f79aea4cf140
 LatticeAnimals,8faeb6a4-9048-4507-b81f-6dcc9b8256f0
 LatticeDiracOperators,019239df-b0e3-486e-8e4c-d1c29ee5d6b9
 LatticeMatrices,dd6a91e4-736f-4540-ac85-13822ca7b545
@@ -10445,6 +10447,7 @@ SpecialPolynomials,a25cea48-d430-424a-8ee7-0d3ad3742e9e
 SpecializeVarargs,24973c7f-061f-47f0-b8d1-653b711ffc2d
 SpeciesDistributionToolkit,72b53823-5c0b-4575-ad0e-8e97227ad13b
 SpeciesInteractionNetworks,49e116ef-912f-4766-9e56-896a49944adc
+SpeciesInteractionSamplers,52128aff-513d-4647-bfdb-f540a36539f5
 SpeciesToNetworks,1cd42f4e-713b-4441-9f2f-62ba40f1840e
 Spectra,391af1a9-06f1-59d3-8d21-0be089654739
 SpectralClustering,a9453432-0461-11e9-1276-9b1ac3d3d0c6
