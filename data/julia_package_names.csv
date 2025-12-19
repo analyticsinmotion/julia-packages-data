@@ -4727,6 +4727,7 @@ Htop_jll,3902149a-7cde-5d36-8de2-61bc48a40c47
 HttpCommon,77172c1b-203f-54ac-aa54-3f1198fe9f90
 HubCLI,4dccea4f-7716-450f-9d24-0ee75e7372ff
 HubbardAtoms,4f3da25b-ea28-4d4f-a81f-380d3f5e56a6
+HubbardTN,31f8dd75-9f76-4da8-9aed-ce20a80dcd69
 HuggingFaceApi,3cc741c3-0c9d-4fbe-84fa-cdec264173de
 HuggingFaceDatasets,d94b9a45-fdf5-4270-b024-5cbb9ef7117d
 HuggingFaceHub,d0076355-e2c0-48e6-a044-05906e51b7fc
@@ -5921,6 +5922,7 @@ LineSearches,d3d80556-e9d4-5f37-9878-2ab0fcc64255
 LineageCollapse,e38bdfdf-80f5-4f0c-93e0-53dd02ee37b8
 LinearAdjoints,3201237a-9847-11e9-0d2a-6d530c977506
 LinearAlgebraForCAP,3dc4824f-14ac-4ab7-8a60-75dbcd4a9d60
+LinearAlgebraMPI,5bdd2be4-ae34-42ef-8b36-f4c85d48f377
 LinearAlgebraX,9b3f67b0-2d00-526e-9884-9e4938f8fb88
 LinearAlgebraicRepresentation,95167b0c-186a-594b-a231-52369c6de044
 LinearAssignment,e04a135d-938e-4d6d-a2bd-80fee3964557
@@ -9681,6 +9683,7 @@ SMLMFrameConnection,1517b1a9-81e8-461f-b994-92eb29599690
 SMLMMetrics,0dae9b29-4590-421e-953b-e41aa0457150
 SMLMRender,d945b928-cd23-4282-89d9-fc086b52682d
 SMLMSim,5a0a87e4-02d4-41f5-bf26-b8c94c784a04
+SMLMView,83077460-0282-453d-8507-e85496fba1c9
 SMM,bc769cb7-f249-5bba-802a-79f18cb247ec
 SMRPInversion,aec56ffe-cd48-4f37-83c0-3fddfef137dd
 SMTPClient,c35d69d1-b747-5018-a192-25bc5e63c83d
@@ -9769,6 +9772,7 @@ SZ_jll,409b0d58-1332-5589-be3b-4d778b0df058
 Sabermetrics,415736d3-e371-4b8a-9ed5-2a314a4b3aac
 SaddleSearch,75381b30-3731-4e86-91cd-f2c0a8b56a68
 SafeByteCalculators,88ce4d4d-ee2f-4b4a-abd3-cbc3580a88f7
+SafeIO,b60d60a1-a286-437d-88e3-564ee59fee65
 SafePETSc,50acdc01-ce88-4ca7-bd87-6916c254362e
 SafeREPL,5e6a0ad9-8e90-40fa-86b1-deb43b8cfda7
 SafeTensors,eeda0dda-7046-4914-a807-2495fc7abb89
@@ -10955,6 +10959,7 @@ SymbolicLimits,19f23fe9-fdab-4a78-91af-e7b7767979c3
 SymbolicNeuralNetworks,aed23131-dcd0-47ca-8090-d21e605652e3
 SymbolicNumericIntegration,78aadeae-fbc0-11eb-17b6-c7ec0477ba9e
 SymbolicPlanners,b6fe5377-9711-4fad-95b0-be4eed71ecbb
+SymbolicQuartetCF,bdb2d313-ae54-487a-ba87-13d2dbade7fa
 SymbolicQuartetNetworkCoal,4201568c-2e61-4571-8a9c-4da1ec7770d0
 SymbolicRegression,8254be44-1295-4e6a-a16d-46603ac705cb
 SymbolicSMT,a0d8a0e1-65bc-4be1-9afb-79a704359442
@@ -12675,6 +12680,7 @@ libnode_jll,76d26698-d9ba-5ca1-ae24-4ac9393d02a0
 libopenjpegextra_jll,45948f9d-8d54-5094-b7bd-7e0ca68150a5
 liboqs_jll,f73f08d5-36d9-596d-acf6-d5a4dbccad08
 libosmium_jll,7f0a2ee1-9b43-5740-ae82-b54233cf7071
+libosrmc_jll,b012619c-76c7-5216-bb6b-491eaf671aba
 libpcap_jll,f78539f5-9ba6-5ded-ae79-6d41194c59b7
 libpicosat_jll,6b231c3b-13f8-5ced-86ae-8860c7f75d86
 libplist_jll,7bef5416-8376-5e75-ab4d-144910ca2ef4
