@@ -1152,6 +1152,7 @@ BraveNewAlgorithm,62e8e4ba-3e3d-40af-bbe6-192e07c2d347
 BrazilCentralBank,1db8e8ca-f8ef-4fae-b3f5-ea2940ece087
 BrazilFinancialData,83903589-8fc8-4699-b7ad-cfd56ee128ec
 Breakers,e52b5ea0-8122-4946-b8e9-9981f9d15727
+Breeze,660aa2fb-d4c8-4359-a52c-9c057bc511da
 Bridge,2d3116d5-4b8f-5680-861c-71f149790274
 BridgeDiffEq,1aa9af3a-2424-508f-bb7e-0626de155470
 BridgeLandmarks,83b8d07e-fbc4-11e9-24cb-23d125ee72bd
@@ -9446,6 +9447,7 @@ ReversedStrings,d6a58270-6f46-44a2-ab4b-2a767377cb4b
 ReversibleJumpMCMC,4e599b9b-5231-4225-b353-2dfd54e54db8
 Revise,295af30f-e4ad-537b-8983-00126c2a3abe
 ReviseTests,a8315d63-8160-44e4-a573-aa779bc83c34
+Rewrap,e37f04ce-ca06-4a96-b09f-ea39bec02b08
 RewriteTools,5969e224-3634-4c61-9f66-721b69e98b8a
 Rewriters,1df27592-1edd-4a6d-9e16-9f1b005f54b8
 Rfam,38c5b72b-a3f0-437e-9f79-f3da4655de63
@@ -12902,6 +12904,7 @@ scopehal_jll,c69b092c-cabd-51ee-983a-b3d58f6c0ce7
 sdsl_lite_jll,74ccf9ed-edcf-595f-acda-b35b5ec4b965
 seatd_jll,1322d9e5-2885-5d14-b40b-5d6c7dfe9ea1
 sed_jll,8ce03227-cf0a-51af-b0b4-2693c0743e9f
+sequentialknn_jll,a3d66c5c-fa88-5e7c-8b67-86d01549c065
 sgtsnepi_jll,c2c51ba6-9464-585c-93d5-ba434ab08fad
 simdjson_jll,40266717-b07e-50ee-a1c6-5956cbf905d9
 slope_jll,baac1969-1582-5600-b38b-7408c9d44009
