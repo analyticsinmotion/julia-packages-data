@@ -6964,6 +6964,7 @@ MultiFloats,bdf0d083-296b-4888-a5b6-7498122e68a5
 MultiFractalFields,424b133d-7d37-4eca-9954-b7e5ab009cd0
 MultiGridBarrier,9e2c1f1d-9131-4ad4-b32f-bd2a0b0ecd1e
 MultiGridBarrier3d,594ea493-0a2f-4496-9340-85da5d8e0ddf
+MultiGridBarrierMPI,abf18f27-d12f-4566-94ed-07bf0c385f70
 MultiGridBarrierPETSc,25e6f22c-346c-4a8d-b463-5e1d66a49b87
 MultiHashParsing,73786568-6863-756d-6873-6168796e616d
 MultiIndexArrays,2f7e0951-2673-41f4-a6a8-e6772a4b2a08
@@ -10268,6 +10269,7 @@ SlimPlotting,f6d04670-764e-495b-a720-91c3c9a588ff
 SlimeMoldOptim,24f4c3ab-28f3-4779-ba6e-75fbc5297b09
 Slint,3a59bceb-d31e-474c-9627-7222755a1e48
 SlottedRandomAccess,3cd48f03-9865-4243-ab2c-9fbbaa30d0d4
+Slow5,cf995a98-0b54-410c-943f-9a6b99e12d57
 Slugify,6a57dadc-0402-4d39-bf46-19b28e03609d
 SlurmAddAllocatedProcs,4b0af0f2-a3e4-42c8-afa2-c5af2ee86004
 SlurmClusterManager,c82cd089-7bf7-41d7-976b-6b5d413cbe0a
