@@ -12855,6 +12855,7 @@ pandoc_jll,c5432543-76ad-5c9d-82bf-db097047a5e2
 patch_jll,c7bec4a6-5215-51fd-b0a3-64ceaaad3a34
 patchutils_jll,69275a5b-71b6-5a9c-a287-c8fd9491cd23
 pciutils_jll,ad59c579-8572-507f-ac8b-0f7a68c64b3d
+pdfcpu_jll,11eb8c55-494e-5fbf-9c4c-3c38881568d1
 peco_jll,b89f85f3-45f8-5ea8-8223-9dfa39faf294
 peppi_jlrs_jll,42265baf-9f38-5b3a-a647-0201f872c1d9
 perfetto_jll,a9cf55cc-512e-50a3-b9eb-1bf9889000f5
