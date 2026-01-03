@@ -2299,6 +2299,7 @@ DSDP,2714ae6b-e930-5b4e-9c21-d0bacf577842
 DSDP_jll,1065e140-e56c-5613-be8b-7480bf7138df
 DSGE,6cf23378-2c47-544c-b0c3-6efefe57ca11
 DSP,717857b8-e6f2-59f4-9121-6e50c889abd2
+DSPOperators,d5a72628-6e2f-430e-82f5-561df0bb8116
 DSPopt,cdb1efd8-3f30-48e6-a1f7-a3d77bf376b8
 DSSP_jll,74334e00-59ce-546d-b517-81f3b7e1d491
 DTALib,f55e719c-a8af-45e7-9c94-698398622baa
@@ -6278,6 +6279,7 @@ MPICH_jll,7cb0a576-ebde-5e09-9194-50597f1243b4
 MPIClusterManagers,e7922434-ae4b-11e9-05c5-9780451d2c66
 MPIFiles,371237a9-e6c1-5201-9adb-3d8cfa78fa9f
 MPIHaloArrays,e77e6532-e7cc-40ad-aebc-b383a150aff6
+MPILargeCounts,03b5a6d4-3f85-4eec-9d38-a1f1826bd98e
 MPIMagneticFields,f6dda52a-86e9-4b50-afb7-f39836a99446
 MPIMapReduce,02e612b2-dee0-47c3-933b-ef05e3915492
 MPIMeasurements,a874a27a-e9a7-503d-98b6-bf61df4bb725
@@ -8277,6 +8279,7 @@ Pio3d,276a7f50-ef14-5ff6-a3e3-20ef51d5e3d7
 Pioneer,585db54e-1982-41c9-ae07-9e9eb56c7d61
 Pioran,58cf54c2-5899-443a-99a6-60958a74ec4a
 Pipe,b98c9c47-44ae-5843-9183-064241ee97a0
+PipeChannels,316ea068-b8d4-4418-b34f-158552ec34f5
 Pipebraces,25a62be5-bbe8-4619-a10f-9066af09d2c9
 Pipelines,ef544631-5c6f-4e9b-994c-12e7a4cd724c
 Pipette,0a8c84c6-482d-4399-887f-69614b2ff022
@@ -10446,6 +10449,7 @@ SparseMatricesCOO,fa32481b-f100-4b48-8dc8-c62f61b13870
 SparseMatricesCSR,a0a7dd2c-ebf4-11e9-1f05-cf50bc540ca1
 SparseMatrixColorings,0a514795-09f3-496d-8182-132a7b665d35
 SparseMatrixDicts,5cb6c4b0-9b79-11e8-24c9-f9621d252589
+SparseMatrixIdentification,2607229e-3272-44a7-bc4a-cd97a328dfbf
 SparsePCA,7700fd7a-0a3e-455e-9ac1-177bceab20a5
 SparseRegression,ca6142a6-a6a7-57f5-b674-4a8484b22e92
 SparseSensors,d6ceb477-1fb8-47dc-9268-a5d33dbc737e
@@ -10491,6 +10495,7 @@ SpectralDensities,6f27643f-8ff7-45b5-8e20-15c87f132b4c
 SpectralDistances,2b0dec9d-f767-4f95-9e73-7df56487de68
 SpectralEnvelope,ff710082-a9bc-57f3-81b5-980fc0acaaef
 SpectralGaussianSimulation,1f53f557-16c0-5f8f-980f-fb7167e19889
+SpectralGraphWavelet,3dfa037c-0911-445a-8980-d6a37e5c973e
 SpectralIndices,df0093a1-273d-40bc-819a-796ec3476907
 SpectralInference,a959a40c-7f6b-448f-a4b7-059cce266d3c
 SpectralKit,5c252ae7-b5b6-46ab-a016-b0e3d78320b7
