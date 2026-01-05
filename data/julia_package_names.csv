@@ -1345,6 +1345,7 @@ CUDA_Runtime_Discovery,1af6417a-86b4-443c-805f-a4643ffb695f
 CUDA_Runtime_jll,76a88914-d11a-5bdc-97e0-2f5a05c973a2
 CUDA_SDK_jll,6cbf2f2e-7e60-5632-ac76-dca2274e0be0
 CUDA_SDK_static_jll,8d8e3561-0b33-5a1a-a72b-b83d4fb556a1
+CUDA_Tile_jll,2068806d-a867-5dbd-af0e-42c2eb5d895d
 CUDA_compat_jll,340b3129-3577-50c6-bc43-5dfc29cb9805
 CUDA_full_jll,4f82f1eb-248c-5f56-a42e-99106d144614
 CUDA_jll,e9e359dc-d701-5aa8-82ae-09bbf812ea83
@@ -7759,6 +7760,7 @@ OptionType,a9526d72-2590-4674-b2be-c78bd3dad999
 OptionalArgChecks,dfbeeb84-381a-44da-9ec9-a723abf299c7
 OptionalData,fbd9d27c-2d1c-5c1c-99f2-7497d746985d
 Optionals,3304b86d-eb5b-5d22-9ed4-3b0a60539cfe
+OptionsImpliedPDF,d5722cbd-5612-498c-a56c-8c01aca498af
 Opus,0af1e411-0638-4d6d-bb05-ed1900b440d5
 Opus_jll,91d4177d-7536-5919-b921-800302f37372
 Oracle,7240a794-28ba-5199-b477-df5fe5cf6155
@@ -10240,6 +10242,7 @@ SimulationLogs,e3c6736c-93d9-479d-93f3-96ff5e8836d5
 SimulationParameters,32ab26d3-25d6-405d-a295-367385e16093
 SimulinkSDIImporter,71d5d903-a9d4-4e03-9846-ef3fdeefd64d
 Sinaica,8a925c4c-1422-4188-830c-6473f2312671
+Sindbad,36c3e672-7dee-4606-99b5-7e5d8d85a313
 SindbadTEM,6686e6de-2010-4bf8-9178-b2bcc470766e
 SineFit,962e16cf-eed8-4072-a8f8-1d4280395610
 SingleCell10x,eddce310-d14b-4c2d-aa06-cfe9e2f7af98
@@ -10627,6 +10630,7 @@ StanSample,c1514b29-d3a0-5178-b312-660c88baa699
 StanSamples,52d0d7a9-b304-5f31-a727-b234d0b606ff
 StanVariational,6ede68ce-8466-5085-8a79-4c4de3d9cf4a
 StandaloneIpopt,2377441b-c98c-4b62-8dd7-ad61dfe8e447
+StandardCGE,7f8ee165-c4eb-4a49-b88e-af6fb7f03590
 StandardMarketData,7a408522-0ffe-11ea-0d13-d3c3bdffbeb4
 StandardPacked,65f29c17-9e56-4606-972f-81e04007695c
 StandardYoungTableaux,ae443f46-3c91-4a85-9741-732d995991b6
