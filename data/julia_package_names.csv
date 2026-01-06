@@ -3321,6 +3321,7 @@ FFTInterpolations,e9c4abe8-3893-4664-acb8-58f49d1e9fc0
 FFTResampling,c3173eba-33fe-4761-8a84-0ec65b39ba9a
 FFTViews,4f61f5a4-77b1-5117-aa51-3ab5ef4ef0cd
 FFTW,7a1cc6ca-52ef-59f5-83cd-3a7055c09341
+FFTWOperators,c59a084b-ba08-4f3f-af9e-f4298d6caa94
 FFTW_jll,f5851436-0d7a-5f13-b9de-f02708fd171a
 FFmpegPipe,f0ed6883-1047-5070-ab24-66f5d3b648be
 FFplay_jll,c4dce911-e170-5107-8314-c7bdc6785395
@@ -5807,6 +5808,7 @@ LibCEED,2cd74e05-b976-4426-91fa-5f1011f8952b
 LibCImGui,9be01004-c4f5-478b-abeb-cb32b114cf5e
 LibCURL,b27032c2-a3e7-50c8-80cd-2d36dbcbfd21
 LibCURL_jll,deac9b47-8bc7-5906-a0fe-35ac56dc84c0
+LibCerf,3328f0eb-23dc-40af-8ac5-38dea7eda2f6
 LibClang,673b39ed-8657-431a-8e65-2365c8cec7d5
 LibDLF,f0c3f387-4ff6-435f-9d63-77e28b8d1347
 LibDeflate,9255714d-24a7-4b30-8ea3-d46a97f7e13b
@@ -7099,6 +7101,7 @@ NESSie,f00e83c4-bd01-11e9-272c-ff1b96fb444d
 NExOS,a0d681ee-6dde-4d9d-b128-06c773d9ceb4
 NFFT,efe261a4-0d2b-5849-be55-fc731d526b0d
 NFFT3,53104703-03e8-40a5-ab01-812303a44cae
+NFFTOperators,35a93202-2abf-4a13-bc94-0aee2f861ee0
 NFFTTools,7424e34d-94f7-41d6-98a0-85abaf1b6c91
 NFLData,38e18452-fdda-4cae-b91e-088906595f57
 NFLTables,d9d91892-6368-4404-842f-e6b99dc208e9
@@ -12068,6 +12071,7 @@ WaveSpec,908d4cf6-a6c0-449c-92e4-852c8f288332
 Waveforms,cb13b1c6-351e-5134-b3ad-d6a530956a82
 WaveguideModes,4195bfc8-baed-4655-b3ea-4cd766faaf06
 WaveguideQED,c4555495-0e8d-488d-8e6a-965ecefe9055
+WaveletOperators,f3582904-6f60-4bbd-985d-55eab799bc9d
 Wavelets,29a6e085-ba6d-5f35-a997-948ac2efa89a
 WaveletsExt,8f464e1e-25db-479f-b0a5-b7680379e03f
 WavesAndEigenvalues,a73532ca-c7c2-4c65-85c3-8d67803e4c1d
@@ -12499,6 +12503,7 @@ catch22_jll,8a07c0c5-99ad-56cb-bc82-72eed1bb61ce
 catchaMouse16_jll,dcffe42e-adbb-5815-9d51-5ab017577a26
 cbindgen_jll,a52b955f-5256-5bb0-8795-313e28591558
 cddlib_jll,f07e07eb-5685-515a-97c8-3014f6152feb
+cephes_jll,ed655b5c-2aa3-5cc1-b78c-7837dafe1f1f
 cereal_jll,2f220576-6c59-591b-aa52-ca90a5ab5ffc
 cfastcdr_jll,e2b848fe-1ff7-5e39-bbba-9dad9f402efb
 charon_jll,25c75577-2a26-528c-a488-ab5b6e0c7170
