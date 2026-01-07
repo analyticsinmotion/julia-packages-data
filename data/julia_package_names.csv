@@ -177,6 +177,7 @@ AdalmPluto,af34ca7c-e544-47d5-a6fe-72495f08728e
 Adapode,0750cfb5-909a-49d7-927e-29b6595444bf
 Adapt,79e6a3ab-5dfb-504d-930d-738a2a938a0e
 AdaptableFunctions,16094072-63d9-4fab-833b-5e04479784a5
+AdaptiveCrossApproximation,ef3ffb92-1c7b-43b8-a0d7-a7e2ce4fd1e5
 AdaptiveDesignOptimization,5f210a59-4c6a-4c2f-87d5-5cd98d51789a
 AdaptiveDistanceFields,a1957575-6125-5dba-8f92-417d2d1f4a46
 AdaptiveEstimators,f894c1f0-37bd-4d0b-bad6-c1e4fa45af5b
@@ -6975,6 +6976,7 @@ MultiDimDictionaries,87ff4268-a46e-478f-b30a-76b83dd64e3c
 MultiDimEquations,a3219271-55cc-59b6-9a1f-6f3111928ce1
 MultiDocumenter,87ed4bf0-c935-4a67-83c3-2a03bee4197c
 MultiFloats,bdf0d083-296b-4888-a5b6-7498122e68a5
+MultiFlowSolver,0b348230-5aa4-480a-91ab-d06d9d41a8e5
 MultiFractalFields,424b133d-7d37-4eca-9954-b7e5ab009cd0
 MultiGridBarrier,9e2c1f1d-9131-4ad4-b32f-bd2a0b0ecd1e
 MultiGridBarrier3d,594ea493-0a2f-4496-9340-85da5d8e0ddf
@@ -9586,6 +9588,7 @@ RuntimeEnums,5aed96f1-df88-482a-81d7-fb30b91491f6
 RuntimeGeneratedFunctions,7e49a35a-f44a-4d26-94aa-eba1b4ca6b47
 RustFFT,b7f167ac-9de6-40dd-9818-ec636999de39
 RustRegex,cdf36688-0c6d-42c6-a883-5d2df16e9e88
+RustToolChain,e9dc52e2-edb8-4742-9783-5e542d30dbb5
 Rusticl_jll,0e9524f4-d8d1-5353-8bd4-6e7599f5f54e
 RustyIceberg,390bdf5b-b624-43dc-a846-0ef7a3405804
 RustyObjectStore,1b5eed3d-1f46-4baa-87f3-a4a892b23610
@@ -12126,6 +12129,7 @@ Why,7f495793-cad1-50ff-b494-a17fbecc6ac4
 WhyNotEqual,e6125b7d-2298-432f-af45-a1235af9403e
 WiNDC,699cc7a2-9ea9-42f0-a823-bc8522533664
 WiNDCContainer,75ccf2c7-f350-4b24-b7dd-6f142b3d3146
+WiNDCHousehold,cd12a3d6-ca9d-404c-9a04-cb90ee163205
 WiNDCNational,859d2a84-d038-44d0-959f-b84298eeb557
 WiNDCRegional,3a283cf7-dd81-4e73-b72e-b49da15ce41c
 WiSARD,2b71b7a6-5a26-4a05-9b8d-679d5aa759d4
@@ -12712,6 +12716,7 @@ libheif_jll,a13778fd-9a17-58b4-b5a0-4b4a242815a9
 libidn2_jll,e3d30ef0-22f3-5ccc-b703-2e063d8d1f30
 libidn_jll,f0f5855d-14eb-5155-b6cb-9f6c251f73bb
 libigc_jll,94295238-5935-5bd7-bb0f-b00942e9bdd5
+libigl_jll,b22ceafb-42ac-50cb-bbfc-91fa172c9161
 libiio_jll,8da1a5bb-246c-59c5-9ba1-a6804f8e92f0
 libimagequant_jll,50a7bfbf-5fc4-52b4-b7f8-52e7f829027e
 libinchi_jll,172afb32-8f1c-513b-968f-184fcd77af72
