@@ -1593,6 +1593,7 @@ ChemistryQuantitativeAnalysis,3ed48883-6809-43ec-b77a-d23b0650d8c4
 ChemistryQuantitativeAnalysisUI,972148b6-472c-424e-8065-54bf210c1201
 ChemometricsData,fc65c5b3-1e2f-40fc-8189-28dcf66ce270
 ChemometricsTools,a9718f02-dbee-5ae5-ad0e-dfbd07fa387b
+ChenFliessSeries,e99f7174-7054-485a-9879-8c732ee2472c
 ChenSignatures,4efb4129-5e83-47d2-926d-947c0e6cb76d
 CherenkovDeconvolution,7995dc16-b5cc-11e8-32a0-21341f07e0b5
 CherenkovMediumBase,62ded331-ac74-4432-90fd-7fafc84e95f4
@@ -4638,6 +4639,8 @@ HelloWorldC_jll,dca1746e-5efc-54fc-8249-22745bc95a49
 HelloWorldCxx_jll,ae6da99f-25d9-581d-be6a-a93134b8bbac
 HelloWorldFortran_jll,b7e79332-94ae-5b45-a0a6-65d827bd22db
 HelloWorldGo_jll,8c9296c2-eef7-5c5a-b7f9-196cb7be2712
+HelloWorldMPIC_jll,48f8ecbd-289f-54fe-bc68-e8703618723a
+HelloWorldMPIFortran_jll,92c27a75-d611-5398-bab9-f1b986101c39
 HelloWorldOCaml_jll,d326a031-5c5a-546d-81a5-e59c87734a6a
 Help2man_jll,b065d96c-5f5a-5e02-95cc-818e6b3b761f
 HelpGPT,cd7fe561-ad00-49f8-bbfe-26490459673c
