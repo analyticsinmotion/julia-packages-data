@@ -57,6 +57,7 @@ AM_jll,b6f02f42-5e06-57a7-8984-092e481b1935
 ANOVA,0825541b-7374-5e1e-93bd-72e337c8a986
 ANOVAapprox,5e027bd6-ab01-4733-8320-e0223e929ebb
 ANSIColoredPrinters,a4c015fc-c6ff-483c-b24f-f7ea428134e9
+ANSIEscapes,4e1dc58e-b9ed-4927-9fa5-f81941d7face
 ARCHModels,6d3278bc-c23a-5105-85e5-0d57d2bf684f
 ARDESPOT,d96c9ae4-3372-47d5-8a88-316ae77be8cf
 ARFFFiles,da404889-ca92-49ff-9e8b-0aa6b4d38dc8
@@ -11216,6 +11217,7 @@ TensorFlow,1d978283-2c37-5f34-9a8e-e9c0ece82495
 TensorGames,dad72d94-522a-402a-84d3-a630e8ffd4d6
 TensorInference,c2297e78-99bd-40ad-871d-f50e56b81012
 TensorKit,07d1fe3e-3e46-537d-9eac-e9e13d0d4cec
+TensorKitAdapters,365c3f09-11dd-4b21-ae3b-5ed73578a59c
 TensorKitManifolds,11fa318c-39cb-4a83-b1ed-cdc7ba1e3684
 TensorKitSectors,13a9c161-d5da-41f0-bcbd-e1a08ae0647f
 TensorKitTensors,41b62e7d-e9d1-4e23-942c-79a97adf954b
@@ -11282,6 +11284,7 @@ TestNoAllocations,4f9cea44-66d8-4d7b-9fef-fad96b0e1517
 TestParticle,953b605b-f162-4481-8f7f-a191c2bb40e3
 TestParticleMakie,815e1cc4-5742-45dc-845d-1cec70514f1a
 TestPicker,a64165b9-4409-4de6-85cd-a4e0953bae44
+TestPickerMCPServer,63d7f14d-ed93-5bb2-a437-c14ddc966d3c
 TestReadme,484a2c26-6e88-4a69-ae62-8a3d6c887535
 TestReports,dcd651b4-b50a-5b6b-8f22-87e9f253a252
 TestSetExtensions,98d24dd4-01ad-11ea-1b02-c9a08f80db04
@@ -12429,6 +12432,7 @@ ZoneProfilers,402d8ed9-92af-47cb-aae4-ae215e44b74b
 Zotero,a6782e42-190c-4b39-989d-970618284c73
 ZstdSeekable_jll,86ac9985-db92-5090-8b9c-ec8f613186b3
 Zstd_jll,3161d3a3-bdf6-5164-811a-617609db77b4
+ZulipStream,90cb88a9-eac6-49a0-8eb4-35a012fbf11f
 Zygote,e88e6eb3-aa80-5325-afca-941959d7151f
 ZygoteRules,700de1a5-db45-46bc-99cf-38207098b444
 ZygoteStructArrays,d4e84096-4d6c-49d8-a925-3f99c52ed105
@@ -13009,6 +13013,7 @@ tree_sitter_jll,695101d5-1b81-5434-9529-70430e482717
 tree_sitter_json_jll,7a1ad169-5d6d-5d19-843c-e04c00abb03b
 tree_sitter_julia_jll,52be201e-a5e9-5cfe-8bf2-2dc4b062171c
 tree_sitter_matlab_jll,67499a12-87ae-5367-9f08-9b6e5d7d8b47
+tree_sitter_mlir_jll,58f5032c-e699-5513-a186-e1a3654a1a0e
 tree_sitter_modelica_jll,be4360af-1d55-5d16-a27b-51516c589496
 tree_sitter_nonmem_jll,e72dcfaf-fc0e-59b0-8bbb-b81678c89dff
 tree_sitter_ocaml_jll,58c1feab-41fe-5716-9e27-932daa5b6f35
