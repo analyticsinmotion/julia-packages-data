@@ -178,6 +178,7 @@ AdalmPluto,af34ca7c-e544-47d5-a6fe-72495f08728e
 Adapode,0750cfb5-909a-49d7-927e-29b6595444bf
 Adapt,79e6a3ab-5dfb-504d-930d-738a2a938a0e
 AdaptableFunctions,16094072-63d9-4fab-833b-5e04479784a5
+AdaptiveArrayPools,4f381ef7-9af0-4cbe-99d4-cf36d7b0f233
 AdaptiveCrossApproximation,ef3ffb92-1c7b-43b8-a0d7-a7e2ce4fd1e5
 AdaptiveDesignOptimization,5f210a59-4c6a-4c2f-87d5-5cd98d51789a
 AdaptiveDistanceFields,a1957575-6125-5dba-8f92-417d2d1f4a46
@@ -6736,6 +6737,7 @@ Mineos,daba6828-70d2-4229-869c-b11708ab6c61
 Mineos_jll,77b29d01-de08-56f3-96c6-9f6f21a29421
 Minesweeper,758a1c58-1ae5-4273-bf23-de2a3f195520
 Mingw_jll,2d94bacf-4d71-535d-a47c-45e808015115
+MiniEvents,cc2f42a3-1295-4d24-93d2-d4f09bca1510
 MiniFB,cc649173-1898-4bb8-8a16-ca5f88bd87d9
 MiniFB_jll,b93afbca-07d8-5443-9979-bb4221978155
 MiniLoggers,93f3dd0f-005d-4452-894a-a31841fa4078
@@ -9180,6 +9182,7 @@ RandomFeatureMaps,780baa95-dd42-481b-93db-80fe3d88832c
 RandomFeatures,36c3bae2-c0c3-419d-b3b4-eebadd35c5e5
 RandomFourierFeatures,46bd3b77-1c99-43cd-804b-1e14830792b5
 RandomLinearAlgebraSolvers,5efb4b28-465d-11ec-08dc-2f64b808d2ca
+RandomLotkaVolterraCavity,e0cb5db2-507d-4330-81aa-f62556075e35
 RandomMatrices,2576dda1-a324-5b11-aa66-c48ed7e3c618
 RandomMatrix,0af1cf96-9b30-454e-9d9e-87908f700846
 RandomMatrixDistributions,af03f0a2-7cbb-11e9-3152-f985fa477d26
@@ -12858,6 +12861,7 @@ nlcglib_jll,782cc49c-e073-530d-b5fe-579a70b042cc
 nlminb_jll,c04a2911-6870-53d6-aa47-4d7d5aff1028
 nlohmann_json_jll,7c7c7bd4-5f1c-5db3-8b3f-fcf8282f06da
 nng_jll,53193e1d-1121-5463-9373-c3c6ce833a10
+norMD_jll,9099c623-b728-534d-8b03-174c2f1af6a3
 normaliz_jll,6690c6e9-4e12-53b8-b8fd-4bffaef8839f
 ntl_jll,7494e58d-996d-52b4-b7cf-f5d9dde4b521
 nv_codec_headers_jll,5b052a42-cdd7-5a33-b9ba-fea45e46860b
