@@ -4321,6 +4321,7 @@ GlobalTradeAnalysisProjectModelV7,17bf7c9d-bd82-4e09-a8b5-dac70c0d12c3
 Globtim,00da9514-6261-47e9-8848-33640cb1e528
 Gloo_jll,5909ec93-c24e-5240-9f48-bc73cd7db194
 Gloria,5b2e8964-9f3b-11e8-3f79-610468876dfe
+Glossaries,8f48dd54-e453-4cdc-9500-53b96149560b
 Glowe,d04f5788-f3bf-50c4-8044-9206750af6c9
 GlowupVibes,bf6b54a3-cbc8-4fbf-8641-14341a8f5c06
 Glycolysis,1acb6d80-f93a-4117-912f-ae4c0dd090a6
@@ -5678,6 +5679,7 @@ LandSea,cbf7bb22-a1a6-46cb-8b24-174e3bc5fc04
 LandauDistribution,6012e1b8-0df6-47e7-96ae-5acef29e6d22
 Landfire,16f38fd6-0379-4569-89bb-2d3d56e50de8
 LandsatExplorer,28909d84-766e-4dab-8e3e-91fd31d78b70
+Langdock,6ddf539a-d0a2-4e4a-9326-ccc383163d8c
 Langevin,42433972-eea5-42bb-ab72-392315b4e8df
 Langmuir,c62cc850-d7ca-4cc1-a95b-48008b40dc90
 LanguageDetect,cd500c3e-2407-4d3b-a6bb-21ab03710513
@@ -10443,6 +10445,7 @@ SpaceInvaders,27459e48-f83e-40a1-9b04-5e43823e0701
 SpaceLiDAR,29bf0bfc-420f-4fa5-b441-811fd9e6e11d
 SpacePhysicsMakie,0c28ffd8-ae30-4a56-b2e4-f8332c621ad2
 SpaceTimeFields,0af78db0-3b7c-4df8-88bd-686b7cc5245d
+SpaceWeather,6e6210c8-0d11-4989-92a2-df0be76561ad
 Spacey,6fa23216-6d9f-473e-ad34-00be7be2628b
 SpanningSupernets,c92b83c4-19af-4bf9-9c50-c65f2b7803f9
 Spark,e3819d11-95af-5eea-9727-70c091663a01
@@ -12333,6 +12336,7 @@ Xorriso_jll,0906d627-f1e8-5757-b67e-5a72ed64a995
 Xpress,9e70acf3-d6c9-5be6-b5bd-4e2c73e3e054
 XpressAPI,750d0954-2060-462e-b2dd-f6609bca40df
 Xpress_jll,308bddfa-7f95-4fa6-a557-f2c7addc1869
+XrayAttenuation,7811750c-a499-436e-8b04-55fc0593dd37
 XsdToStruct,3ae7ce5f-3138-4ab9-addd-ceedf56009da
 Xsum,1fd64df0-a4d2-11e9-360d-2f03868f4cf5
 Xtals,ede5f01d-793e-4c47-9885-c447d1f18d6d
