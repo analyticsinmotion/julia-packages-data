@@ -498,6 +498,7 @@ AstroChemistry,7f947402-6d9b-49de-a6e7-82c660dce669
 AstroConstants,59872b50-2c0f-4331-84f7-44577a892ba3
 AstroCoords,27fb9038-6a9d-4e07-8d5d-d0805b53c4cb
 AstroEpochs,241dcde3-d7a4-450d-948f-15f2ea2ba1fa
+AstroFITS,34e54ef0-c5bf-48ab-9e5d-cca51f35ed77
 AstroForceModels,077569d7-e100-45f3-83e3-c646e23345bd
 AstroFrames,7b16edaa-6936-47b4-b191-819abb0f77bd
 AstroIC,5b3ca070-48c3-41ea-b469-89825dd01fde
@@ -3122,6 +3123,7 @@ EphemerisSources,858900df-f7ae-402a-aa8c-3e4ef85aa271
 EphemerisSourcesBase,b8f1d712-e88d-4f2a-8498-e66ce688ee29
 EpicHyperSketch,c73a71ba-f77a-4450-b81e-a1166e41307d
 Epicrop,ba61b42c-0a63-478a-861d-cedeca8bda8f
+Epicycle,83dc357c-0294-4c28-b122-f18155576d3d
 EpicycleBase,cbc97457-4cae-4fc4-be5b-ffc98fbd0dcb
 EpithelialDynamics1D,ace8a2d7-7779-48a6-a8a4-cf6831a7e55b
 EpochFolding,d59dda0b-512f-44d1-9007-ebd7d520ecca
@@ -8566,6 +8568,7 @@ PostgresORM,748b5efa-ed57-4836-b183-a38105a77fdd
 Postman,ece33410-b69e-4f47-aa1e-8b3d16462b5e
 Postprocessing,26555902-eaa5-4ecd-84b7-aef517a82a82
 PotentialFlow,73af2aaf-3f58-5b29-82a9-435ecf827f5b
+PottsEvolver,288ebb56-9d8a-405a-a2d6-6ed6f22c6052
 PottsGauge,3bb3bcb6-c561-57d3-939c-408d524c1e5b
 PottsGumbelRBMLayers,bcd408f2-95f5-489e-9934-d251842dc866
 PovertyAndInequalityMeasures,582645c0-90fa-497a-98b9-936b80116c29
@@ -9221,6 +9224,7 @@ RankCompV3,4cb800f8-6e34-42b5-a258-cba768800361
 RankRevealing,56660b65-79ce-4ef5-9ae7-a20c7f920b12
 RankedChoices,562810e1-8c0d-4830-9cc1-9c323639d9b1
 RankingDifferences,1798185d-28e1-492f-bad0-0ffd3086b9ac
+RapidRefreshData,6311d174-80ed-4991-8be9-d0557cea290a
 RasterDataSources,3cb90ccd-e1b6-4867-9617-4276c8b2ca36
 RasterHistograms,dfdd8f93-37cf-4dac-b522-93b2288e19f1
 Rasters,a3a2b9e3-a471-40c9-b274-f788e487c689
@@ -12579,6 +12583,7 @@ exprtk_jll,dc4c4521-5b7f-5177-bcb8-53f895501e5d
 extxyz_jll,6ecdc6fc-93a8-5528-aee3-ac7ae1c60be7
 f4ncgb_jll,160f184c-7e1a-5d95-af1f-70d62a450302
 fakechroot_jll,0d1115f3-e42e-5952-a93b-f179746a6ed7
+fastlowess_jll,7381d214-3001-5784-8d9a-8eb8e8688076
 fastp_jll,cdb18c6f-09f1-5f87-ba27-801070dd1989
 faust_jll,ee02ff01-307c-5f43-b4c2-04ffc4645b0f
 ffts_jll,84ad2fbc-dacc-5b40-99f5-8db9d02a0a8a
