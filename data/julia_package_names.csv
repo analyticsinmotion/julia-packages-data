@@ -4814,6 +4814,7 @@ IBMQClient,02860bad-daa6-4506-8736-4a3616c18085
 IBMQJulia,2f6fcadc-0512-4fc1-bf02-5bbdd7783505
 ICD_GEMs,2478728f-ce00-4f2d-aaa1-6f265bd37e5b
 ICOADSDict,60101457-b834-54f3-bc3b-04499cd57c3b
+ICSTools,df5b002e-b112-454e-9743-c2a1eb89ddc3
 ICU_jll,a51ab1cf-af8e-5615-a023-bc2c838bba6b
 IDFCurves,17afcda4-a678-4b99-aabd-b1f8835dcb1e
 IDFDataCanada,b4a361a7-a77f-4d9e-8c40-a407543557fa
@@ -7255,6 +7256,7 @@ NelsonRules,f967765a-671f-4dab-8ad7-3d510d8fd276
 Nemo,2edaba10-b0f1-5616-af89-8c11ac63239a
 Neo4j,d2adbeaf-5838-5367-8a2f-e46d570981db
 Neo4jBolt,6bf848c2-a04c-470f-9a4d-5a21d02c3e16
+NeoPKPD,aa42e64f-7c0c-4f7e-9a43-9f30a48e1a32
 Neovim,b2cf22bb-779f-4885-b12f-54b1c19a73e0
 Neptune,6741aa20-66dc-42c8-a8ae-3740631035cd
 NeptuneAILogger,edd09736-da86-44b6-b465-b626e6fb8c8b
