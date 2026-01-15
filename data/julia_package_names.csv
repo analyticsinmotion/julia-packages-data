@@ -2987,6 +2987,7 @@ EditionBuilders,2fb66cca-c1f8-4a32-85dd-1a01a9e8cd8f
 EditorsRepo,3fa2051c-bcb6-4d65-8a68-41ff86d56437
 Edlib,397faa13-b53e-4cbf-b1cd-0b7e158e6587
 Edlib_jll,9cc87b63-894b-53d6-8750-e9bc5869edd9
+Eegle,1260424e-cd79-4b74-a0ea-47c69c296663
 EffectSizes,e248de7e-9197-5860-972e-353a2af44d75
 EffectiveWaves,37e8709b-1ed2-53db-b26a-3571262b3cb4
 Effects,8f03c58b-bd97-4933-a826-f71b64d2cca2
@@ -3444,6 +3445,7 @@ FastHalton,05a64641-4d1a-5311-8c01-b9b6c96c7c05
 FastHartleyTransform,e0605d58-1a4b-427b-8ab9-d16fed775e83
 FastHistograms,06971c4e-2824-4b19-bcf3-55442efb9bc7
 FastIOBuffers,6ccb8d0d-f5f8-5ae0-a392-f5aa62729a81
+FastInterpolations,9ea80cae-fc13-4c00-8066-6eaedb12f34b
 FastIsostasy,80efc11e-3694-4407-a4bf-24e5955cde3d
 FastJet,8509a5d2-ae42-11e8-0b46-5d0ace601ee4
 FastJet_Julia_Wrapper_jll,33ff6b16-4e4c-5b96-9396-f34816859298
@@ -11343,6 +11345,7 @@ Thermochron,b9a8379e-ee1a-4388-b7ca-7852af1cef08
 ThermodynamicIntegration,1022446e-a4a4-4a46-8bce-0ffd39f68cd3
 Thermodynamics,b60c26fb-14c3-4610-9d3e-2d17fe7ff00c
 ThermofluidQuantities,8e558ecf-e13e-4796-9812-ac12e4724222
+Thermopack_jll,f4b513d5-df74-5b77-afcc-0e7f5b2f7b55
 ThermovisorImages,54d963ed-1681-434b-92d2-200df9375a55
 ThesisArt,6184abd9-1539-47ca-b742-6ec6f8d46641
 Theta,42bdb5c4-78fb-11e9-2233-215979c148c4
