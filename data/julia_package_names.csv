@@ -2919,6 +2919,7 @@ ELFINData,fcbbe0ba-d66e-4e8f-95dd-8166f95b70c5
 ELFIO_jll,2133ec9d-2300-5c3e-b0d9-ae6a10eb43df
 EMIRT,8acf8dda-514d-5c36-9488-7e3496cf596e
 EMpht,0ca9fa26-8833-11e9-3415-832a08817e5a
+EOptInterface,96d9f51d-8c41-4e2d-b1a3-7b48dea3ddd1
 EPGsim,b6a82cc1-40c9-4006-90b7-9176002c0410
 EPOCHInput,691e61f8-6502-44a1-a143-5276a0aa0dc4
 EQDSKReader,0d45e213-aaf5-468d-97e2-5d9984e6e107
@@ -3020,6 +3021,7 @@ ElectricFields,2f84ce32-9bb1-11e8-0d9f-3dce90a4beca
 ElectricGrid,d6749236-802c-4af3-9b09-2fcebf7269d7
 ElectricWires,a6e744fb-b06e-4c79-977f-74d170207450
 ElectricalEngineering,84e62fa8-74a0-5990-9214-c45bd74ae4d7
+ElectroMechanicsFEM,3e3237d9-63df-4510-8634-5aa762e77746
 ElectroPhysiology,da7a9670-f599-43ac-b818-143f8bf87d45
 ElectrochemicalKinetics,a2c6e634-85ca-418a-9c67-9b5417ce2d04
 ElectromagneticFields,d6c1ba6f-ee03-53af-b876-68cefeb88ec8
@@ -5221,6 +5223,8 @@ ItuRPropagation,a73e506c-35e8-47b2-857c-dfce7ead1349
 ItuRPropagations,27e0793c-dcf3-4b51-9682-e1c9838db8f8
 JACC,0979c8fe-16a4-4796-9b82-89a9f10403ea
 JCAMPDXir,931eddca-b696-4dc5-beb7-a03832886454
+JCGECalibrate,52bcf1bb-5715-4bdb-b809-8ade53bb6205
+JCGECore,9fb9d605-0ed3-4980-82c1-f0874844db5d
 JCheck,852ab1b9-8b1f-4e09-8e6c-09fa7814d69a
 JDBC,6042db11-3c3d-5e84-8dba-9cbf74c9ba48
 JDF,babc3d20-cd49-4f60-a736-a8f9c08892d3
