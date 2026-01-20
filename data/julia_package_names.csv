@@ -2444,6 +2444,7 @@ DecFP_jll,47200ebd-12ce-5be5-abb7-8e082af23329
 Decapodes,679ab3ea-c928-4fe6-8d59-fd451142d391
 DecentralizedInternet,c64ce7d0-6970-11ea-3334-dbbabb1ea5a5
 Decimals,abce61dc-4473-55a0-ba07-351d65e31d42
+DecisionFocusedLearningAlgorithms,46d52364-bc3b-4fac-a992-eb1d3ef2de15
 DecisionFocusedLearningBenchmarks,2fbe496a-299b-4c81-bab5-c44dfc55cf20
 DecisionMakingEnvironments,c2d78f9d-1393-4ac0-9d65-4613f9d81ffe
 DecisionMakingPolicies,4cd5d487-2a85-4602-baee-1f5c94b6a44c
@@ -4336,6 +4337,7 @@ Glossaries,8f48dd54-e453-4cdc-9500-53b96149560b
 Glowe,d04f5788-f3bf-50c4-8044-9206750af6c9
 GlowupVibes,bf6b54a3-cbc8-4fbf-8641-14341a8f5c06
 Glycolysis,1acb6d80-f93a-4117-912f-ae4c0dd090a6
+GlyphEctoplasm,8227acd8-3ec4-4c13-8000-5272694d2f9b
 Glyphy,e3b492bb-b251-48f2-9293-5b5772365208
 Gmsh,705231aa-382f-11e9-3f0c-b7cb4346fdeb
 GmshImport,3fad61ad-f714-4a28-bb66-2c78145d2d59
@@ -5230,6 +5232,7 @@ JACC,0979c8fe-16a4-4796-9b82-89a9f10403ea
 JCAMPDXir,931eddca-b696-4dc5-beb7-a03832886454
 JCGECalibrate,52bcf1bb-5715-4bdb-b809-8ade53bb6205
 JCGECore,9fb9d605-0ed3-4980-82c1-f0874844db5d
+JCGEImportData,8e499509-ec2a-45f1-ac19-e18611106d56
 JCGERuntime,cc244198-1562-43f7-ad75-589e1d675269
 JCheck,852ab1b9-8b1f-4e09-8e6c-09fa7814d69a
 JDBC,6042db11-3c3d-5e84-8dba-9cbf74c9ba48
@@ -9376,6 +9379,7 @@ ReferenceFrameRotations,74f56ac7-18b3-5285-802d-d4bd4f104033
 ReferenceImplementations,e4855c6d-60ae-49c0-a936-05b0c4d57984
 ReferenceTests,324d217c-45ce-50fc-942e-d289b448e8cf
 Referenceables,42d2dcc6-99eb-4e98-b66c-637b7d73030e
+RefinedSlippage,f102acab-2a34-462b-8f40-530debd6834f
 Reflexicons,644c6a88-f588-41ff-bb6a-8a2790f1d811
 Refraction,a85f0e34-77fa-494d-9980-9155dceff362
 RefractiveIndex,97a43521-7681-4ec2-835f-5b8ab7e7617e
@@ -11584,6 +11588,7 @@ TransmissionChannelAnalysis,d500094b-e8d7-4ee4-9514-4e3996dd73c3
 TransmuteDims,24ddb15e-299a-5cc3-8414-dbddc482d9ca
 Transparency,be247f3c-b89e-4149-9092-0bc3d48f38b6
 TransportBasedInference,bdf749b0-1400-4207-80d3-e689c0e3f03d
+TransportMaps,6fd49bf0-03ac-4dd1-b9b3-42e511274d6e
 TransportProperties,5257e33d-5a01-4fd1-9680-e504fee35d5b
 Trapz,592b5752-818d-11e9-1e9a-2b8ca4a44cd1
 Trash,2177afbf-83db-417c-8225-ea8191cd3f0f
