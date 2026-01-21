@@ -10149,6 +10149,7 @@ SignalTemporalLogic,a79a9ddd-d50e-4d85-a979-5d85760e62a0
 SignalTemps,9748e082-7d24-4353-af53-8a6c8ccbfb0c
 SignalingDimension,96aab1c2-4ac7-11eb-3d9a-a59b97fb3321
 Signals,6303bc30-01ab-52eb-8b10-60e47555a8d1
+SignedCholesky,50dbd362-918f-47d7-a50f-7fe6628962b9
 SignedDistanceField,9a18c034-6024-4f9e-89ee-87be330f4587
 SignedDistanceFields,73760f76-fbc4-59ce-8f25-708e95d2df96
 SignedDistanceFunction,b0860ef3-f78d-49a5-98b3-8176f82dbb49
