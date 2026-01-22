@@ -295,6 +295,7 @@ AllenNeuropixelsBase,0b0e28cf-a3af-44db-8bea-1c4507018d35
 AllenSDK,9d22b198-c11d-497b-9ac7-6add78eade21
 AllocArrays,5c00bae2-1499-4716-9206-27f63fd08a44
 AllocCheck,9b6a8646-10ed-4001-bbdc-1d2f46dfbb1a
+AllocationViewer,e68bee48-ccd2-4290-be16-570446adc5cc
 Allocations,260a3f16-0ffa-4f23-875b-1350d3996fb5
 AlmostBlockDiagonals,a95523ee-d6da-40b5-98cc-27bc505739d5
 Alpaca,fcf20ba4-066e-11ea-0417-5fa1eb97d662
@@ -506,6 +507,7 @@ AstroIC,5b3ca070-48c3-41ea-b469-89825dd01fde
 AstroIO,c85a633c-0c3f-44a2-bffe-7f9d0681b3e7
 AstroImages,fe3fc30c-9b16-11e9-1c73-17dabf39f4ad
 AstroLib,c7932e45-9af1-51e7-9da9-f004cd3a462b
+AstroMOID,534c009d-3f74-45e2-88f7-ae4fc4afe031
 AstroManeuvers,7696fc14-2f3a-46f6-b942-ece41ce8abed
 AstroModels,ac4cc047-8a77-4e9e-bb46-f1584e9a10ee
 AstroNbodySim,034523a5-eae8-49f5-9052-0ea364535333
@@ -774,6 +776,7 @@ BasisSets,086cb5bb-2461-57d8-8068-0aed7f5b5cf6
 BaslerCamera,e40af120-e25d-11ea-0ce6-f3b09ee65c37
 BatchAssign,e837618a-1c15-48db-beb0-68297dffdb28
 BatchIterators,4161f7c7-f4e7-47ff-bbcb-bc0b24702626
+BatchPDLP,529b9e8a-d2db-4a93-8026-567587707ce3
 BatchReactor,ae347489-fc42-416e-8e9d-f76cf1731aac
 Batched,1629540a-9a93-50e9-aec3-2a5ae159dca9
 BatchedBLAS,dfa6e8bd-ffa5-4347-817a-aa08eb84b250
@@ -2932,6 +2935,7 @@ ERFA_jll,a00367d1-88f1-52c5-9c6b-193aa5f849e1
 ESAInterpolationFiles,dfb2dbec-0384-47ba-b614-66be42e3cf9e
 ESeriesRounding,7b398af1-3c03-4c36-a68d-b29057ec0a45
 ETOPO,eb8fb1ab-fde0-4497-ad36-194d38f2cde7
+EVMavg,83676904-526c-4bd2-b920-806f8f4550db
 EarCut,5160dea5-cc57-53b0-be5f-ac191989508a
 EarCut_jll,5ae413db-bbd1-5e63-b57d-d24a61df00f5
 EarlyStopping,792122b4-ca99-40de-a6bc-6742525f08b6
@@ -5230,9 +5234,11 @@ ItuRPropagation,a73e506c-35e8-47b2-857c-dfce7ead1349
 ItuRPropagations,27e0793c-dcf3-4b51-9682-e1c9838db8f8
 JACC,0979c8fe-16a4-4796-9b82-89a9f10403ea
 JCAMPDXir,931eddca-b696-4dc5-beb7-a03832886454
+JCGEBlocks,e7e2410e-b632-4869-8943-8241db0dfb31
 JCGECalibrate,52bcf1bb-5715-4bdb-b809-8ade53bb6205
 JCGECore,9fb9d605-0ed3-4980-82c1-f0874844db5d
 JCGEImportData,8e499509-ec2a-45f1-ac19-e18611106d56
+JCGEOutput,d375a7b0-530a-4732-94fc-3dc39a3a1ffd
 JCGERuntime,cc244198-1562-43f7-ad75-589e1d675269
 JCheck,852ab1b9-8b1f-4e09-8e6c-09fa7814d69a
 JDBC,6042db11-3c3d-5e84-8dba-9cbf74c9ba48
@@ -6390,6 +6396,7 @@ Madagascar_jll,aa2f55ac-b14e-51ec-b6ff-9716116fc184
 Madrigal,30ac0af5-7056-44d2-a45c-266d747295e6
 Mads,d6bdc55b-bd94-5012-933c-1f73fc2ee992
 MagNav,f91b31a4-be4d-40e3-b767-4b8c09c10076
+Magic,938144cb-3a24-4977-a248-a12dea9dd101
 MagicVLSI_jll,8553b089-32f9-510e-b5d7-7da551ec2160
 Magika,a454fd17-9086-4fe2-b9b0-9a1c0873c51f
 MagmaThermoKinematics,e7fe3d1a-f102-40b5-a66b-64b14986c4c8
