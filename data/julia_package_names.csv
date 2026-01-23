@@ -647,6 +647,7 @@ AzStorage_jll,00c928b4-b5f3-54d8-b38d-afd4635c4ad2
 AztecDiamonds,8762d9c5-fcab-4007-8fd1-c6de73397726
 Azure,34b51195-c7f2-5807-8107-6ca017e2682c
 AzureClusterlessHPC,0090f474-c28d-4577-9e1b-9155814dbffa
+B0Map,26d27508-09c5-44d0-86be-f4e37b03a7e6
 BARON,2e2ca445-9e14-5b13-8677-4410f177f82b
 BAT,c0cd4b16-88b7-57fa-983b-ab80aecada7e
 BATBase,b4d2a721-a957-46f4-b6b6-f139c9e7db21
@@ -1615,6 +1616,7 @@ ChirpSignal,f60141a0-4cd3-11eb-3573-695a6f1942a1
 Chmy,33a72cf0-4690-46d7-b987-06506c2248b9
 ChooseOptimizer,858a232f-1959-5553-8cfc-91e1fd5304e2
 ChoosyDataLoggers,edd8e46e-3ca5-477d-bc67-b483295d3b14
+ChordPlots,e0224685-ada7-484b-b848-3b026668d1bd
 Chordal,c40dd8eb-886b-47e3-91a7-7e6ae22bd2fd
 ChordalGraph,60fd0770-a5cf-11ea-07c5-d789f1eae5cb
 ChowLiuTrees,be466665-d60c-4e0a-9ae9-070eb5e678a5
@@ -4577,6 +4579,7 @@ HOHQMesh_jll,1d5cbd98-5122-5a8a-bea1-c186d986ee7f
 HOODESolver,217528c2-21c4-4222-9975-97f0b0cbd7c1
 HORIZONS,5a3ac768-beb4-554a-9c98-3342fe3377f5
 HPCMod,fd7ff580-634a-4fbd-a744-0f3e7cd44420
+HPCSparseArrays,537374f1-5608-4525-82fb-641dce542540
 HPTT_jll,0d2ef6bb-bd72-5e2e-be6b-e06c14f6a480
 HSARuntime,2c364e2c-59fb-59c3-96f3-194112e690e0
 HSL,34c5aeac-e683-54a6-a0e9-6e0fdc586c50
@@ -11046,6 +11049,7 @@ SymbolicAnalysis,4297ee4d-0239-47d8-ba5d-195ecdf594fe
 SymbolicApproximators,edb0eac7-a3aa-4158-b16d-3faaf99b23a9
 SymbolicCircuit,90f18bad-8de6-4f24-a7ee-bfe158ef45c0
 SymbolicCodegen,fc9b0551-4f1b-42e1-8440-e8a535f5a551
+SymbolicCompilerPasses,3384d301-0fbe-4b40-9ae0-b0e68bedb069
 SymbolicControlSystems,886cb795-8fd3-4b11-92f6-8071e46f71c5
 SymbolicGA,be1275fb-6550-422f-8b88-a5943ccecfb8
 SymbolicIndexingInterface,2efcf032-c050-4f8e-a9bb-153293bab1f5
