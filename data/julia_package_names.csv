@@ -764,6 +764,7 @@ BasicDataLoaders,f0789d0e-9b93-4002-b86d-d7fb1957141c
 BasicInterpolators,26cce99e-4866-4b6d-ab74-862489e035e0
 BasicLU,f55c55da-c227-4c78-8e30-b72a48476979
 BasicMD,f448d96e-cc9b-4179-976a-6795f3ef2db6
+BasicMesh,5ba12469-52ae-495e-a2c1-ff3b69a1384d
 BasicModelInterface,59605e27-edc0-445a-b93d-c09a3a50b330
 BasicPOMCP,d721219e-3fc6-5570-a8ef-e5402f47c49e
 BasicTextRender,c69498db-0706-4865-8aa9-71281a0ffe91
@@ -4494,6 +4495,7 @@ GroebnerBasis,e39c9192-ea4d-5e15-9584-a488c6d614bd
 GroebnerWalk,6dc8777d-2b0c-4de5-9e3c-426c1820f6f9
 GroundMotion,1a1bcaad-b889-5540-93fc-02c6735e0f5a
 GroundwaterPlots,4497dbff-a3fd-4ae5-909f-dd1339757ac3
+GroupFunctions,187e6719-d2a6-4c17-9b39-0c99811c6bd2
 GroupNumbers,3c80737e-c28d-49fd-9c64-d7d44b4f4ed8
 GroupPresentations,e70aea02-d551-4d4a-88dc-a60a3b79560b
 GroupRings,0befed6a-bd73-11e8-1e41-a1190947c2f5
@@ -8143,6 +8145,7 @@ PartitionedSolvers,11b65f7f-80ac-401b-9ef2-3db765482d62
 PartitionedStructures,a6683cb1-4e99-4d03-b5b5-b79ed0acabcf
 PartitionedVectors,9d5e22db-ddc8-46c9-8309-91b035e7f733
 PartonShower,a32c89ae-d023-4659-8493-2353e71a7a82
+PassStores,4383d8c7-e827-43b8-a3d6-a47e3cac7fdc
 PassiveTracerFlows,dc26d6a1-c8d5-50f2-8a17-f57a5c578a00
 PastaQ,30b07047-aa8b-4c78-a4e8-24d720215c19
 PasteMyst,b8ba6cf2-bc19-4044-9316-f77e3c6f0f88
