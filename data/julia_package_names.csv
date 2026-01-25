@@ -4830,6 +4830,7 @@ HypertextLiteral,ac1192a8-f4b3-4bfe-ba22-af5b92cd3ab2
 HypertextTemplates,c7d46f9d-34c3-4420-bf57-257f25aec718
 Hypertransform,fc0ce2b4-e141-4471-8aec-392ceb78b612
 HypothesisTests,09f84164-cd44-5f33-b23f-e6b0d136a0d5
+HypothesisTestsExtra,ddd859b9-8813-4e20-ab59-a7b08a106634
 IBMQClient,02860bad-daa6-4506-8736-4a3616c18085
 IBMQJulia,2f6fcadc-0512-4fc1-bf02-5bbdd7783505
 ICD_GEMs,2478728f-ce00-4f2d-aaa1-6f265bd37e5b
@@ -8291,6 +8292,7 @@ PhysiologyModeling,6edd8d80-c083-4fb2-88a3-9ae8efe7fb75
 PhysiologyPlotting,d5a2a81f-3167-4eb5-8f67-b1ebe6a4430d
 PiCraft,6cc4b21d-cec8-58d5-a373-5cd579ce5971
 PiGPIO,bb151fc1-c6dc-5496-8ed6-07f94907e623
+PiMPC,e8a2dd3f-358c-491c-b12d-146b59c446fb
 PianoHands,74435128-bd9d-4d82-978b-bd768beb391e
 Piccolo,c4671d76-df94-11ed-2057-43d4fd632fad
 PiccoloPlots,f42a522c-b487-4f73-ad5a-ad0c3e4a12c8
@@ -11117,6 +11119,7 @@ TCX,3b8c1752-506b-11e9-3f9b-8db86abc7c68
 TCX2Graph,7c1b654f-8326-48fd-8083-965747c58dac
 TCXReader,1acf2333-b1bd-424d-862d-25e89a4f23c1
 TDAmeritrade,85f6aff6-1a1d-4afc-a0ba-df5513750661
+TDEPWrapper,03dde086-6832-4aef-a599-2e26e563d57c
 TDEP_jll,1616d667-7f4b-50a1-9dcc-173d58025fb3
 TDLib_jll,6cfef11d-eb86-5696-bb50-1df673c3ffa1
 TERMIOS,10233e3b-0d6c-416a-8c1a-d3d286bd6cd2
@@ -11585,6 +11588,7 @@ Transducers,28d57a85-8fef-5791-bfe6-a80928e7c999
 TransferEntropy,ea221983-52f3-5440-99c7-13ea201cd633
 TransferFunctions,ea859a41-d6bf-4726-8e40-524191381158
 TransferMatrix,2beed9eb-9e49-431e-8607-1bb8bf5c1db8
+TransferOperator,d7cbbda6-fde5-4b94-961a-baab5090bb7e
 TransformSpecifications,b92eaff8-8912-4b32-ad24-14d7c692d780
 TransformUtils,9b8138ad-1b09-5408-aa39-e87ed6d21b63
 TransformVariables,84d833dd-6860-57f9-a1a7-6da5db126cff
@@ -13035,6 +13039,7 @@ spectra_jll,ef34ea38-0a9e-523f-b228-55b6d5c13eb1
 spglib_jll,ac4a9f1e-bdb2-5204-990c-47c8b2f70d4e
 spirv2clc_jll,f0274c0c-8c8a-59f1-85b7-f7d60330c5fb
 spla_jll,c0b6e1fa-1634-5519-836b-ea1958e971dd
+sqlite_vec_jll,baba3ab0-b101-5c6b-81c2-6f96346aa768
 squashfs_tools_jll,eed32e3e-a7c5-5bf9-9121-5cf3ab653887
 sshpass_jll,10845e11-4a35-56cf-b896-e8069d57c2bc
 ssht_jll,06c0f48c-727e-59bc-bc79-048e0b09db0c
