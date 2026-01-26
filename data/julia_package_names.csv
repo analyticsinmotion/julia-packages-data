@@ -2193,6 +2193,7 @@ CuArrays,3a865a2d-5b23-5a0f-bc46-62713ec82fae
 CuCountMap,7f9ef4d9-b8e2-47f5-be66-f1ea02ff3f4a
 CuFluxSampler,d04bc951-f907-4aa3-859a-fc6f9fe5eea9
 CuNFFT,a9291f20-7f4c-4d50-b30d-4e07b13252e1
+CuPDLPx,bcd6524d-1420-4b17-a582-359cb8a71a63
 CuTropicalGEMM,c2b282c3-c9c2-431d-80f7-a1a0561ebe55
 CuYao,b48ca7a8-dd42-11e8-2b8e-1b7706800275
 Cuba,8a292aeb-7a57-582c-b821-06e4c11590b1
@@ -5240,10 +5241,13 @@ ItuRPropagation,a73e506c-35e8-47b2-857c-dfce7ead1349
 ItuRPropagations,27e0793c-dcf3-4b51-9682-e1c9838db8f8
 JACC,0979c8fe-16a4-4796-9b82-89a9f10403ea
 JCAMPDXir,931eddca-b696-4dc5-beb7-a03832886454
+JCGEAgentInterface,0ceb7b1e-19fc-43b9-b3d5-2f4cf3d18128
 JCGEBlocks,e7e2410e-b632-4869-8943-8241db0dfb31
 JCGECalibrate,52bcf1bb-5715-4bdb-b809-8ade53bb6205
 JCGECore,9fb9d605-0ed3-4980-82c1-f0874844db5d
+JCGEExamples,0291785c-4d3c-45ec-ba8e-d8f5428f97c2
 JCGEImportData,8e499509-ec2a-45f1-ac19-e18611106d56
+JCGEImportMPSGE,f07e4517-cb44-4ce3-be1e-24c689785741
 JCGEOutput,d375a7b0-530a-4732-94fc-3dc39a3a1ffd
 JCGERuntime,cc244198-1562-43f7-ad75-589e1d675269
 JCheck,852ab1b9-8b1f-4e09-8e6c-09fa7814d69a
@@ -5486,6 +5490,7 @@ KernelEstimator,857edff2-01a9-55ba-8bc9-13e46c0ddbb2
 KernelFunctions,ec8451be-7e33-11e9-00cf-bbf324bd1392
 KernelGradients,e5faadeb-7f6c-408e-9747-a7a26e81c66a
 KernelInterpolation,95686e15-3c94-4443-8f08-76d06d509f7b
+KernelIntrinsics,f9588fbb-d238-4998-b15a-468e8766d49a
 KernelMachines,6717196d-eae9-43d0-801c-fc416e8966f6
 KernelMethods,d79e8f30-5872-11e9-0dab-2d1842b87615
 KernelOps,96fb99f5-d28b-4914-8161-ce02e97273ad
@@ -8649,6 +8654,7 @@ PowerSimulationsDynamics,398b2ede-47ed-4edc-b52e-69e4a48b4336
 PowerSpectra,87acb811-fa58-4e83-857d-605afdc1041b
 PowerSystemCaseBuilder,f00506e0-b84f-492a-93c2-c0a9afc4364e
 PowerSystems,bcd98974-b02a-5e2f-9ee0-a103f5c450dd
+PowerSystemsInvestmentsPortfolios,bed98974-b02a-5e2f-9fe0-a103f8c450dd
 PowerSystemsMaps,e146f72c-d4f8-45d3-b3ca-12a16cb68a38
 PowerSystemsUnits,c279aad7-7dc9-58d3-995b-109d3f5deb94
 PowerWaterModels,7f4f7f52-2f44-4c87-b9ed-462dc784f1b2
@@ -10966,6 +10972,7 @@ SummationByParts,55d25451-638a-4804-8089-59924bcb4a40
 SummationByPartsOperators,9f78cca6-572e-554e-b819-917d2f1cf240
 SunAsAStar,1bd1a468-645d-4223-8813-48273918c0e0
 SunCalc,46d852a4-2fba-44bf-a445-ee38df28a2fc
+SunPy,d53ba2b8-6a4a-4633-896a-a050af4da271
 Sundials,c3572dad-4567-51f8-b174-8c6c989267f4
 Sundials32_jll,3d421925-9ddb-5fba-844f-eab55ed40f51
 Sundials_GPU_jll,035518d0-5ae3-5af5-93bb-592bb84664f0
@@ -11685,6 +11692,7 @@ TryCatch,0ca489f0-7580-4b41-9fdc-1863c852da4c
 TryExperimental,ae3b139e-64da-4858-8f55-5617df0d650e
 Tryparse,7b412df5-33c1-4334-b65f-95ccdd546b1c
 Tsunami,36e41bbe-399b-4a86-8623-faa02b4c2ac8
+TsyganenkoModels,14dfbe45-703c-4bf3-b096-15691adbb981
 TtH_jll,f7b99bbd-2e5d-508a-a6d9-3364a7ade44d
 TuePlots,7dc86ad5-723e-4492-bd0d-d0b58009a4c8
 Tui4jl,f62ea92b-1830-43a7-8bcc-e4c334842b76
