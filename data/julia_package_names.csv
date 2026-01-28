@@ -343,6 +343,7 @@ AnomalyBenchmark,13f62802-72e9-43db-893e-f77429f524ed
 AnonymousEnums,1b8a1bdb-a29a-4350-a16c-c7e9322d6a39
 AnovaBase,946dddda-6a23-4b48-8e70-8e60d9b8d680
 AnovaFixedEffectModels,e4965305-65d6-464d-9c03-ae3e5cffadab
+AnovaFun,786f6bac-1c88-4ef5-b24a-5b341b5d6c78
 AnovaGLM,0a47a8e3-ec57-451e-bddb-e0be9d22772b
 AnovaMixedModels,6832ca0c-c2dd-4d0c-851a-521ca5db42f5
 Ansillary,e36756a0-2672-11ea-3472-2f9ad6253375
@@ -2204,6 +2205,7 @@ Cubature_jll,7bc98958-0e37-5d67-a6ac-a3a19030071a
 CubedSphere,7445602f-e544-4518-8976-18f8e8ae6cdb
 CubicEoSDatabase,8742253c-1987-415f-b31d-1ec9670d9ed7
 CubicHermiteSpline,2338ea46-7d83-48cf-b44e-cf8e0b5b9cc1
+CubicInterpolation_jll,b06d284d-2c5b-591e-b85a-2706a7b137dc
 CubicSplines,9c784101-8907-5a6d-9be6-98f00873c89b
 CudaNTTs,355ed90f-8f14-42c1-a87f-2eca0abd88af
 CudaRBMs,4e7460e3-fd1b-4f88-90fa-49c1b80b3e77
@@ -2914,6 +2916,7 @@ EDFPlus,582d7a84-78fd-59ab-a7bb-47fc6b175004
 EDFlib_jll,b51820a9-a924-5fc2-b09e-5fb7870ce458
 EDKit,f6058819-fd6f-45d3-a3c8-4753d8c54d1a
 EDM4hep,eb32b910-dde9-4347-8fce-cd6be3498f0c
+EEGPlot,7b5c3b30-84a4-4b07-a630-c21dc8c95940
 EEGToolkit,60d25398-4b8b-433c-a8d4-4fe867135cfd
 EFIT,cda752c5-6b03-55a3-9e33-132a441b0c17
 EFTfitter,2a2a6a96-a4ec-477f-941b-476720990667
@@ -4282,6 +4285,7 @@ GeophysicalModelGenerator,3700c31b-fa53-48a6-808a-ef22d5a84742
 Geophysics,74efdf00-b554-44e1-bd21-abb9281d951c
 GeostatInversion,acd30bff-8734-59b1-86d1-c3ef2efb63d6
 Geotherm,8d306a12-9b36-11e8-3bde-e7538e1f5b4a
+GeothermalWells,9e50befb-bb92-4f5a-8f9f-381c571c0866
 Geppetto,7616020f-7d25-45ac-879d-3d4711576aab
 GerryChain,e09a5c58-8952-4b57-bc02-56d902e45e6e
 Gershgorin,24e2f6b0-dc6e-48a5-a23f-118d347caa96
@@ -8383,6 +8387,7 @@ PlanckFunctions,56edaee7-e77f-43d7-994d-8307b8de0a62
 PlanetOrbits,fd6f9641-d78f-43ce-a379-ceb0bddb468a
 PlanetSim,2ce8fb18-82de-4cc8-b75d-a45bdc5f56b9
 PlanetaryEphemeris,d83715d0-7e5f-11e9-1a59-4137b20d8363
+PlanetaryMagneticFields,548c34cc-0185-415b-8526-a0c739028078
 Planets,e3f94f68-5db2-5e58-a5fa-32df241f0093
 PlanktonIndividuals,dfeb4ede-c75e-11e9-050d-41ab7a730e9e
 PlanningDomains,34fa33c8-33e3-4e77-bac8-de592315aba2
