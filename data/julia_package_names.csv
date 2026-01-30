@@ -142,6 +142,7 @@ Absynth,198fb612-3ccb-11e9-3f7d-cd8c0d4e7bc8
 AcademicWebsite,bf8d10fa-a935-41a3-9f31-ee6ce4bca516
 AccelInterfaces,0fc7c93f-c1ed-4c30-8474-1cec40f2ca52
 AcceleratedArrays,44e12807-9a19-5591-91cf-c1b4fb89ce64
+AcceleratedDCTs,16e42a1c-b1d1-5566-807a-fe3b9ee7f6e1
 AcceleratedKernels,6a4ca0a5-0e36-4168-a932-d9be78d558f1
 AcceleratorLattice,118f53b2-f4ec-480a-a460-1a04f660b17d
 AcceleratorSimUtils,8b14b3b2-39c5-4be4-bdc0-0b322e577224
@@ -587,6 +588,7 @@ AugmentedPoissonBoltzmann,d8b18f01-5396-498d-b34d-247825c18ff1
 Augmentor,02898b10-1f73-11ea-317c-6393d7073e15
 AuraLighting,158d7793-e11f-4c20-a9b1-63b9418f6648
 Aurora,7e0f99ac-a6fe-4198-8809-f35fd52d95a1
+AustralianElectricityMarkets,1bf50fc4-d6fd-47c1-85ec-4976c2b5cc58
 AuthGG,73b108b0-3f95-4bd2-8c7c-23af2537d260
 Authorization,b5147960-3063-5349-a9c3-a0b314d6952d
 AutoBZCore,66bd3e16-1600-45cf-8f55-0b550710682b
@@ -2459,6 +2461,7 @@ DecisionFocusedLearningBenchmarks,2fbe496a-299b-4c81-bab5-c44dfc55cf20
 DecisionMakingEnvironments,c2d78f9d-1393-4ac0-9d65-4613f9d81ffe
 DecisionMakingPolicies,4cd5d487-2a85-4602-baee-1f5c94b6a44c
 DecisionMakingUtils,e21ee072-cbb1-4ecc-b257-6a793c43976a
+DecisionNetworks,a1ae968e-b3ba-4546-81a6-f6e3d3a9391a
 DecisionProgramming,0e836bf4-a496-11ea-2c13-edcbe498ce6b
 DecisionTree,7806a523-6efd-50cb-b5f6-3fa6f1930dbb
 DecompUtil_jll,2ebad9b3-2ef2-5978-ad98-6cd1c30fc6b8
@@ -3092,6 +3095,7 @@ Endatabas,3c24e884-fd8b-4642-9948-3255f4665db5
 EndpointRanges,340492b5-2a47-5f55-813d-aca7ddf97656
 EnergyCommunity,2f2d8a28-e724-42c4-aa4e-51fe4e6b7a61
 EnergyExpressions,f4b57a2e-27c7-11e9-0cb0-edd185b706f6
+EnergyIntegration,603f9d78-3227-40ee-8768-7855343f6fcd
 EnergyModelsBase,5d7e687e-f956-46f3-9045-6f5a5fd49f50
 EnergyModelsCO2,84b3f4d7-d799-4a5d-b06c-25c90dcfcad7
 EnergyModelsCompliance,a12c78df-351d-47be-9a81-17a33aab13b1
@@ -3493,6 +3497,7 @@ FastRunningMedian,3a47ddbd-112b-4cc1-b00e-3746ec434ee5
 FastSpecSoG,ebb58456-9453-4d17-87e2-7100c1ea036c
 FastSphericalHarmonics,d335c211-7587-445e-a753-f0b1fb7e445f
 FastTabular,d896c661-108c-409d-a26f-7fe446e2d3d3
+FastTanhSinhQuadrature,b650e0df-f744-4436-b963-b44034668c57
 FastTransforms,057dd010-8810-581a-b7be-e3fc3b93f78c
 FastTransformsForwardDiff,77fa7db0-1c81-401d-9fde-3592fc42b8bc
 FastTransforms_jll,34b6f7d7-08f9-5794-9e10-3819e4c7e49a
@@ -4170,6 +4175,7 @@ GenericInstruments,b8d24480-b8ee-42fe-a917-db159b4b1a29
 GenericLinearAlgebra,14197337-ba66-59df-a3e3-ca00e7dcff7a
 GenericSVD,01680d73-4ee2-5a08-a1aa-533608c188bb
 GenericSchur,c145ed77-6b09-5dd9-b285-bf645a82121e
+GenericSparseArrays,da3fe0eb-88a8-4d14-ae1a-857c283e9c70
 GenericTensorNetworks,3521c873-ad32-4bb4-b63d-f4f178f42b49
 GeneticBitArrays,5d6f8c34-7f74-4dab-a49b-48b3414fbfce
 GeneticProgramming,ad102508-34d1-48cc-9d5a-825d0c17f2b5
@@ -4741,6 +4747,7 @@ Historic,e6ec0b50-ef98-488a-a141-280ae2eaf113
 HistoricalStdlibVersions,6df8b67a-e8a0-4029-b4b7-ac196fe72102
 HistoryTrees,6629d18c-a67a-486a-9b40-962f9d752038
 Hive,6735fb99-e7a2-5b86-aa6b-3fb73ebb43ff
+HiveStructurePaths,67cf009d-4aa4-48c9-a112-d5138c970da1
 Hjson_jll,c7ce213b-85ae-5bf1-9497-6be93055ed87
 HmtArchive,1e7b0059-6550-4515-8382-5d3f2046a0a7
 HmtDashUtils,56120bdb-dd5b-43f0-8d83-690e170361e4
