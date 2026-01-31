@@ -2462,6 +2462,7 @@ DecisionMakingEnvironments,c2d78f9d-1393-4ac0-9d65-4613f9d81ffe
 DecisionMakingPolicies,4cd5d487-2a85-4602-baee-1f5c94b6a44c
 DecisionMakingUtils,e21ee072-cbb1-4ecc-b257-6a793c43976a
 DecisionNetworks,a1ae968e-b3ba-4546-81a6-f6e3d3a9391a
+DecisionProblems,b716e576-a1f9-415a-b454-baf909aed799
 DecisionProgramming,0e836bf4-a496-11ea-2c13-edcbe498ce6b
 DecisionTree,7806a523-6efd-50cb-b5f6-3fa6f1930dbb
 DecompUtil_jll,2ebad9b3-2ef2-5978-ad98-6cd1c30fc6b8
@@ -4199,6 +4200,7 @@ GeniePackageManager,3bdcc7f3-4b7d-42a1-be8e-724ecf5e3574
 GeniePlugins,07906039-e6ad-44b0-b988-2f2de6a70eec
 GenieSession,03cc5b98-4f21-4eb6-99f2-22eced81f962
 GenieSessionFileSession,5c4fdc26-39e3-47cf-9034-e533e09961c2
+GenieTest,b272cc50-9a4f-43b1-8692-0510264c1fe6
 GenomeGraphs,3aa97884-90e5-11e8-2134-af657ec4f203
 GenomicAnnotations,4f8a0a0a-376d-5ac0-ab14-e88793df67f0
 GenomicDiversity,594eec9e-a086-4631-8fc7-61104af37930
@@ -7061,6 +7063,7 @@ MultiThreadedCaches,18056a9e-ed0c-4ef3-9ad7-376a7fb08032
 MultiUAVDelivery,13c59af0-a5df-4589-8a68-75dc1bf2d35a
 Multibreak,2db7fbaf-c681-4fb2-9fc5-9b884bdd742d
 MulticlassPerceptron,dab37cba-9818-490d-9918-279965c31300
+Multicluster,15ffbdae-f567-4411-842e-188464567360
 MulticomplexNumbers,d39bb3b7-cc9c-4bb9-be86-52b494dfee17
 MultidimensionalTools,9aeeebde-7c74-460c-b059-016a4aa0f713
 MultifractalTools,d4a7d00b-0e68-4c54-830d-611b26b28009
@@ -12230,6 +12233,7 @@ WikiText,b61fe8a8-5644-50f8-8f27-7d732010995a
 Wikidata,d5e6d34e-0946-4041-89ae-8db3fad848f3
 WildBootTests,65c2e505-86ba-4c19-93f1-95506c1443d5
 WildcardArrays,05d16eb0-506c-4fac-9187-f7ce7e253b09
+WildfireData,c50625c8-1a95-45e7-9f30-e55dbed7e5b4
 Wilkinson,74aeefec-6ade-5337-bbc5-48a18adb804f
 WilliamsonTransforms,48feb556-9bdd-43a2-8e10-96100ec25e22
 Wilsonloop,f3c8d4fe-2f22-401d-8228-e6a01d7a1d02
