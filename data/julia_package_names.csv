@@ -1910,6 +1910,7 @@ CompetingClocks,5bb9b785-358c-4fee-af0f-b94a146244a8
 CompileBot,877fb49a-56b0-480a-9049-319c0c353852
 CompileTraces,92d184ee-bd0d-43d0-b768-a20943f3d1e3
 Compiler,807dbc54-b67e-4c79-8afb-eafe4df6f2e1
+CompilerCaching,9db33cc3-5358-4881-8759-fa4194144afd
 CompilerPluginTools,6b7a57c9-7cc1-4fdf-b7f5-e857abae3638
 CompilerSupportLibraries_jll,e66e0078-7015-5450-92f7-15fbd957f2ae
 Complementarity,a9b2a840-c9d5-5181-a245-8df664c2d6e7
@@ -3097,6 +3098,7 @@ EndpointRanges,340492b5-2a47-5f55-813d-aca7ddf97656
 EnergyCommunity,2f2d8a28-e724-42c4-aa4e-51fe4e6b7a61
 EnergyExpressions,f4b57a2e-27c7-11e9-0cb0-edd185b706f6
 EnergyIntegration,603f9d78-3227-40ee-8768-7855343f6fcd
+EnergyIntegrationWebApp,a6bc986e-675b-4287-8dea-8a93b3f9a836
 EnergyModelsBase,5d7e687e-f956-46f3-9045-6f5a5fd49f50
 EnergyModelsCO2,84b3f4d7-d799-4a5d-b06c-25c90dcfcad7
 EnergyModelsCompliance,a12c78df-351d-47be-9a81-17a33aab13b1
@@ -3567,6 +3569,7 @@ FiftyOneImageAnnotations,a00f948b-584f-4068-8192-b9768bfe7837
 FigCLIGen,bc9c4d6b-10c7-430a-9b0c-cd343efcf359
 Figgy,937e9308-674a-48ca-a404-047094c8c902
 Figures,fb03b324-f2a4-578c-aba7-71fab90f4c9b
+FileCheck,4e644321-382b-4b05-b0b6-5d23c3d944fb
 FileCmp,343a5541-a696-4ae7-8102-bc61c09e1896
 FileExplorer,edaeb83b-eb46-4343-a784-f8799e8c45af
 FileIO,5789e2e9-d7fb-5bc7-8068-2c6fae9b9549
@@ -4887,6 +4890,7 @@ IPython,18364772-b071-5c00-bfd7-ceeaffab630a
 IRBEM,d0b46c7b-8a8f-4d20-a1b4-6e9a4a1e4e5f
 IRBEM_jll,65aecb69-0b26-50c5-b061-de07bd15962b
 IRKGaussLegendre,58bc7355-f626-4c51-96f2-1f8a038f95a2
+IRStructurizer,93e32bba-5bb8-402b-805d-ffb066edee93
 IRTools,7869d1d1-7146-5819-86e3-90919afe41df
 IRViz,fe03f759-463e-4126-a68f-1df7fb7a8375
 ISAData,d7b50b69-85a0-4ab1-8c4f-cd70fc91ba8f
@@ -7831,6 +7835,7 @@ OptionalArgChecks,dfbeeb84-381a-44da-9ec9-a723abf299c7
 OptionalData,fbd9d27c-2d1c-5c1c-99f2-7497d746985d
 Optionals,3304b86d-eb5b-5d22-9ed4-3b0a60539cfe
 OptionsImpliedPDF,d5722cbd-5612-498c-a56c-8c01aca498af
+Optuna,a5d0552b-b2dc-4f08-ac5c-85ca7d701b92
 Opus,0af1e411-0638-4d6d-bb05-ed1900b440d5
 Opus_jll,91d4177d-7536-5919-b921-800302f37372
 Oracle,7240a794-28ba-5199-b477-df5fe5cf6155
