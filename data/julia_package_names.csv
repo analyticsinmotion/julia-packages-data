@@ -6405,6 +6405,7 @@ MUSCLE_jll,0d2b832c-22e5-5080-b34f-49cc6141c4c5
 MXNet,a7949054-b901-59c6-b8e3-7238c29bf7f0
 MacOSIOReport,27799fc1-e272-4181-9793-a9e1fcba685b
 MackeyGlass,5eb54613-e1e4-5bb3-a6bc-ad608a6b2204
+MacroEconometricModels,14a6ec33-bcac-448e-845f-2fb6769698f1
 MacroEnergy,260b7737-bf0e-4e84-9335-3af14438b1f5
 MacroEnergyScaling,824dc6dc-8db5-4e55-923f-6cabbd6cfcd5
 MacroEnergySolvers,466a4f75-6c9c-4ef2-97df-f5f43ac00c23
@@ -7968,6 +7969,7 @@ PDMatsSingular,8b9ac4da-30d1-49d3-a564-69a6ecc8b6d7
 PDSampler,f9d848e4-75a0-5321-a43a-fbaa97166838
 PEG,12d937ae-5f68-53be-93c9-3a6f997a20a8
 PEPSKit,52969e89-939e-4361-9b68-9bc7cde4bdeb
+PEPit,362dabbc-d565-4ef8-96fa-aefabe1c072a
 PERMANOVA,f33fedc7-88ab-426d-b3f4-502f30fbdde3
 PETLION,5e0a28e4-193c-47fa-bbb8-9c901cc1ac2c
 PETSc,ace2c81b-2b5f-4b1e-a30d-d662738edfe0
@@ -8031,6 +8033,7 @@ PROJ_jll,58948b4f-47e0-5654-a9ad-f609743f8632
 PRONTO,97df7862-8962-462b-83f4-d1fea1a8c26c
 PROPACK,b169e327-5944-5131-97a6-5d3d3f0a476a
 PROPACK_jll,2c99449f-f194-5e92-8ff0-13814ff41dcf
+PROPOSAL_jll,a7736f47-6014-525c-ac95-fe8419cd7fa6
 PSDMatrices,fe68d972-6fd8-4755-bdf0-97d4c54cefdc
 PSFModels,9ba017d1-7760-46cd-84a3-1e79e9ae9ddc
 PSFWrite,1a094a50-539a-5eba-b3bf-75406d1a4751
@@ -11189,6 +11192,7 @@ TZJData,dc5dba14-91b3-4cab-a142-028a31da12f7
 Taarruz,edc76f5a-727d-11e9-15f5-7184c9a7c95d
 Tabben,b92785ef-f07b-4bd7-b7d7-af12e1e8f537
 TableDistances,e5d66e97-8c70-46bb-8b66-04a2d73ad782
+TableEdit,6fd26c76-9c3a-4270-bdc3-4821c052fe8b
 TableIO,8545f849-0b94-433a-9b3f-37e40367303d
 TableIOInterface,d1efa939-5518-4425-949f-ab857e148477
 TableLogger,72b659bb-f61b-4d0d-9dbb-0f81f57d8545
