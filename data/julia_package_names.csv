@@ -4777,6 +4777,7 @@ HomotopyContinuation,f213a82b-91d6-5c5d-acf7-10f1c761b327
 HomotopyOpt,8c5e0f79-7402-43d4-9c5c-e1bde87b1895
 HopTB,3804c90a-d6ae-434d-aed1-763ec3185202
 Hopfields,6768ce78-dd5b-4160-b677-5994b15e298d
+Hordcoin,5495aede-444c-4b33-a3d8-b01a3ffd757a
 HorizonsAPI,c15253bb-5e94-4b8b-9a02-579bb6c8e3ce
 HorizonsEphemeris,05ee1981-f730-42d8-b713-4f42d99733dc
 HorseML,cd092912-fa1d-4500-ad73-daf1b0b0bfff
@@ -5840,6 +5841,7 @@ LensFactory,e2630f5e-de23-4bea-bc0a-959d40375e7e
 Leptonica_jll,6a1430e4-294a-53a5-a485-ec66ef6b843c
 Lerche,d42ef402-04e6-4356-9f73-091573ea58dc
 LessUnitful,f29f6376-6e90-4d80-80c9-fb8ec61203d5
+LessUnits,05e0e9bd-d7a3-4127-a531-85e488807e56
 LetsBeRational_jll,b1162f8a-ee7e-515c-ae1d-7fab3c0ab9f7
 LevelDB,6248df61-47b1-58fa-9b7c-c0f1183480ca
 LevelDB2,002418b5-1437-4398-8918-fc420664f8a4
@@ -9039,6 +9041,7 @@ QuandlAccess,9828b13b-9cf9-4ed3-a262-66ff2e7f23f2
 QuantEcon,fcd29c91-0bd7-5a09-975d-7ac3f643a60c
 QuantExQASM,630b6936-434f-11ea-2df3-976e72da0e99
 QuantLib,96a2b5a2-274e-5d11-8b3e-35bccd200598
+QuantNova,1b0303c1-8819-4d1c-a929-91cb710ac874
 QuantReg,a0becc08-653f-40d2-91e7-721373d1053f
 QuantReg_jll,6615ef03-4b82-5800-9c41-81d3e66fba0f
 Quante,62e6779b-560f-53ed-829f-06ad43eb5710
@@ -10829,6 +10832,7 @@ StemCellModels,bd92d27a-bb62-11e8-1f1b-ed4b990cdfb0
 Stencils,264155e8-78a8-466a-aa59-c9b28c34d21a
 StenoGraphs,78862bba-adae-4a83-bb4d-33c106177f81
 StepwiseRegression,546ecb9f-27b9-4a3e-acea-6784bee00edb
+Stereonet,2079c055-d4a2-4eb8-9548-50343aa1f7d0
 Stheno,8188c328-b5d6-583d-959b-9690869a5511
 Stipple,4acbeb90-81a0-11ea-1966-bdaff8155998
 StippleCharts,30ddb3f0-912f-4f34-9804-e4bb31290777
