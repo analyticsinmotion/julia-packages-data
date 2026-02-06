@@ -1261,6 +1261,7 @@ CGAL,15fcbb24-5a00-427b-98c5-e32879a22884
 CGAL_jll,8fcd9439-76b0-55f4-a525-bad0597c05d8
 CGNS_jll,5232ba32-63ef-5a57-8e6a-e52ba13cfec0
 CGcoefficient,c862aa61-d51e-47d1-b396-b1e789b4e0b6
+CHICKEN_jll,ba656ed8-6435-5caa-83e6-1e677deaf2de
 CHMMAIRRa,d8677c85-7479-426e-842e-70dedf0c4b34
 CHMMera,4c20a592-b4de-41d1-8706-b02f346981aa
 CHiPPS_BLIS_jll,33c101cd-e3cd-5787-bb96-d137b8b1ecc4
@@ -3467,6 +3468,7 @@ FastGraphletTransform,8757296b-2078-477d-a41d-7d2812277c39
 FastGroupBy,e6aeac8e-85c6-520e-8612-effc59bc0f33
 FastHadamardStructuredTransforms_jll,3b5334fc-ad2e-52bb-943a-614153fa1c0c
 FastHalton,05a64641-4d1a-5311-8c01-b9b6c96c7c05
+FastHankelTransform,3a9aa71a-4826-43c7-bf6d-7fc63822c18e
 FastHartleyTransform,e0605d58-1a4b-427b-8ab9-d16fed775e83
 FastHistograms,06971c4e-2824-4b19-bcf3-55442efb9bc7
 FastIOBuffers,6ccb8d0d-f5f8-5ae0-a392-f5aa62729a81
@@ -4632,6 +4634,7 @@ Hanabi_jll,37516f07-4740-538e-b7cb-eec320f4a184
 HandIsomorphism_jll,984f9c1f-46fe-5a04-8363-0cf7ea158318
 Handcalcs,e8a07092-c156-4455-ab8e-ed8bc81edefb
 Handles,94972ede-0d5b-11e9-1425-55c861492980
+HandyG_jll,176cd8ec-bef4-5d25-a3d7-2797db4e996d
 Hankel,74863788-d124-456e-a676-9b76578dd39e
 Hanzi,485a87e4-fb71-42ca-b614-bc87b1bb3702
 HapLink,8ca39d33-de0d-4205-9b21-13a80f2b7eed
@@ -9506,6 +9509,7 @@ RenderJay,54f35ada-98a6-4c15-bdf4-2485f34720f9
 RenoiseOSC,7e67a06f-bc16-486c-bec5-3b6767787fd6
 ReparametrizableDistributions,7d03e222-df96-4b80-bcdc-d089be88b5f2
 RepeatingDecimalNotations,fbb887af-2519-40af-8dc5-25186fd85022
+RepertoireMetrics,e91c7f3f-04d6-44be-88db-69575482d5b6
 ReplGPT,8ef5fce9-1516-4e06-b171-18cb54ddb04b
 ReplMaker,b873ce64-0db9-51f5-a568-4457d8e49576
 Replay,dd78c5bf-19c4-4e9c-96ce-c3ec745c7812
@@ -10190,6 +10194,7 @@ SignalAnalysis,df1fea92-c066-49dd-8b36-eace3378ea47
 SignalBase,00c44e92-20f5-44bc-8f45-a1dcef76ba38
 SignalChannels,59ec5e11-ed95-4167-ad38-35055440f478
 SignalDecomposition,11a47235-7b84-4c7c-b885-fc3e2a9cf955
+SignalIndices,18f53e89-494d-4131-905c-653e8ada6cd8
 SignalOperators,4d633899-0529-4c96-b1ed-a77d049c39ef
 SignalPlots,c121886f-841d-4855-8f3a-15f9a2397416
 SignalTables,3201582d-3078-4276-ba5d-0a1254d79d7c
