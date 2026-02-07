@@ -219,6 +219,7 @@ AdvancedPS,576499cb-2369-40b2-a588-c64705576edc
 AdvancedVI,b5ca4192-6429-45e5-a2d9-87aec30a685c
 AdventOfCode,7ef4cfdd-3fec-4d8b-b242-bcc5161d01d5
 Adversarial,8264478e-c961-11e9-041d-dda11a3b20ed
+AdversarialAttacks,0930d2b9-30a9-4ff9-b124-6eb7688acdd1
 AdversarialPrediction,ad42c870-428c-46ff-ae37-01b7349146a9
 AeroAcoustics,03ede2b8-90d7-56cb-9af1-359a44c6802d
 AeroBeams,4684ee71-20c3-4c77-8fc5-ebacc9f0342e
@@ -3778,6 +3779,7 @@ ForestPlot,4c160800-dae9-4e88-8d4c-769bf7c259e1
 FormFactor,e4b5035b-6f80-41c4-b9c7-57c4172102a9
 Format,1fa38f19-a742-5d3f-a2b9-30dd87b9d5f8
 FormatSpecimens,3372ea36-2a1a-11e9-3eb7-996970b6ffbd
+FormationTemps,03bcd87b-2230-4045-a5fa-95a5fcdd1ff8
 FormattedTables,f83c0036-6341-5149-9c2c-4d931666a087
 Formatting,59287772-0a20-5a39-b81b-1366585eb4c0
 FormulaCompiler,72341345-62c2-4039-9674-a84f8dcc444c
@@ -4866,6 +4868,7 @@ IDSGraphs,9919d111-45a3-4056-8d55-3f6c887b9b09
 IERSConventions,4e86e20e-879b-40dc-9e12-cee74f4cd199
 IESopt,ed3f0a38-8ad9-4cf8-877e-929e8d190fe9
 IESoptLib,b98f706d-40ec-4ce6-a66c-1c6e71d3cef6
+IFTDuals,e48d2a1f-af84-496e-b4fe-d99c19dbdf31
 IGLWrap_jll,283677c1-8365-580c-84e5-ef4b5d190868
 IGraphs,647e90d3-2106-487c-adb4-c91fc07b96ea
 IJulia,7073ff75-c697-5162-941a-fcdaad2a7d2a
@@ -8216,6 +8219,7 @@ Peaks,18e31ff7-3703-566c-8e60-38913d67486b
 PearsonCorrelationMatch,a9b75987-8b2a-4819-9442-b884e853de6b
 PearsonHash,76affd09-9633-40de-b67a-dc8d4e40d5a1
 Peccon,f5b9415a-ee94-4c1d-9f36-779b616d2866
+Peddy,0ce30ac1-e258-4977-baf6-e7a1803367e2
 Pedigree,fd4f9bdd-bf75-4419-92eb-a4eb745abf0e
 PedigreeBase,9e3bf72a-84c4-4798-98fd-c28eed5cded1
 Peggy,73a55e99-9441-455f-8acb-d9f8f3d4403a
@@ -9154,6 +9158,7 @@ Quickhull,baca2653-9c88-49d2-a488-12dbf25fc4fb
 Quiqbox,7cb8c394-fae1-4ab9-92f2-30189d7746cd
 Quiver,cdbb3f72-2527-4dbd-9d0e-93533a5519ac
 QuiverTools,dc2e10be-62a3-4315-9c95-46bb97ac152d
+Quiver_jll,846f1d71-3648-54c4-93dd-5fb4e13f0ad8
 QuizQuestions,612c44de-1021-4a21-84fb-7261cf5eb2d4
 QuotientCategories,c103c924-3523-4680-a691-c88f3312ec70
 QuranTree,f647ab69-6f05-4d64-883f-59d0fbe08d2b
@@ -10492,6 +10497,7 @@ SoleLogics,b002da8f-3cb3-4d91-bbe3-2953433912b5
 SoleModels,4249d9c7-3290-4ddd-961c-e1d3ec2467f8
 SolePostHoc,cf1aa0c3-12c9-4ebe-9bdc-bd6c2ca79b72
 SoleReasoners,eb5c4719-5716-4250-abf0-f5b4713e79ae
+SoleXplorer,5816ab97-8dbe-4a0a-b2fb-0334bd9876ed
 SolidModeling,87eb8544-cf78-4b0d-97e3-b7004341d5e9
 SolidStateDetectors,71e43887-2bd9-5f77-aebd-47f656f0a3f0
 Sollya_jll,d0a0d62e-5946-5252-a47a-59d54c8a5a63
@@ -11815,6 +11821,7 @@ Typstry,f0ed7684-a786-439e-b1e3-3b82803b501e
 UAParser,9c2e70fb-c67a-5ec7-8d93-51b38135a8ac
 UASM_jll,bbf38c07-751d-5a2b-a7fc-5c0acd9bd57e
 UBPF_jll,502467ad-4a4a-57e4-9860-6b433130b33f
+UCC_jll,00126aba-537c-58fc-8007-2fc5e2f5667b
 UCIData,2dacb708-9dd8-11e9-1001-07df1c52a9e4
 UCX,6b349878-927d-5bd5-ab28-bc3aa4175a33
 UCX_jll,16e4e860-d6b8-5056-a518-93e88b6392ae
