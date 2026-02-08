@@ -785,6 +785,7 @@ BatchAssign,e837618a-1c15-48db-beb0-68297dffdb28
 BatchIterators,4161f7c7-f4e7-47ff-bbcb-bc0b24702626
 BatchPDLP,529b9e8a-d2db-4a93-8026-567587707ce3
 BatchReactor,ae347489-fc42-416e-8e9d-f76cf1731aac
+BatchStats,fc354a49-c873-40ff-aa7e-af8a5c6a2882
 Batched,1629540a-9a93-50e9-aec3-2a5ae159dca9
 BatchedBLAS,dfa6e8bd-ffa5-4347-817a-aa08eb84b250
 BatchedMerkleTree,225b011c-e439-4471-b39b-04a9a0fe32f0
@@ -2113,6 +2114,7 @@ Copulas,ae264745-0b69-425e-9d9d-cf662c5eec93
 CoralBlox,f00a6e10-004a-11ef-3676-67ec635bc1a2
 CoreMLProtobuf,a5f34d12-0067-4cbd-84e2-651e0174c66e
 CoreNLPClient,128a14f7-a34c-4ab5-b797-7dc430f1f974
+Corleone,2751e0db-33e9-4374-b36d-b7219e1e6b40
 CornerPlot,b8d669dd-3d88-55df-ae05-b65fc3f9fff9
 CornerPlotting,4a808bcd-0da0-4a1c-a768-2071018375da
 CorpusLoaders,214a0ac2-f95b-54f7-a80b-442ed9c2c9e8
@@ -4629,6 +4631,7 @@ HalfEdges,b1055ec2-7fd2-11e8-0664-e1e21354bdb9
 HalfIntegerArrays,8d01e2c4-1bfe-4abb-85d1-ae030bc38508
 HalfIntegers,f0d1745a-41c9-11e9-1dd9-e5d34d218721
 HallThruster,2311f341-5e6d-4941-9e3e-3ce0ae0d9ed6
+HaloMF,0e139a23-195b-4aec-b8fc-e9aa4361bc8d
 HaltonSequences,13907d55-377f-55d6-a9d6-25ac19e11b95
 Hamburg,fe294631-7164-4d0f-9497-e1b4dc4640c8
 Hanabi,705708ad-e62c-5f47-9095-732127600058
@@ -5513,6 +5516,7 @@ KernelDensityEstimate,2472808a-b354-52ea-a80e-1658a3c6056d
 KernelDensityEstimatePlotting,c43967c8-f634-5d24-8eab-2867546b366b
 KernelDensitySJ,49dc5b4e-6806-4504-b2cc-a81764e7a38b
 KernelEstimator,857edff2-01a9-55ba-8bc9-13e46c0ddbb2
+KernelForge,d2e71dfc-f0f5-4b9d-8de2-a66a4c724860
 KernelFunctions,ec8451be-7e33-11e9-00cf-bbf324bd1392
 KernelGradients,e5faadeb-7f6c-408e-9747-a7a26e81c66a
 KernelInterpolation,95686e15-3c94-4443-8f08-76d06d509f7b
@@ -6448,6 +6452,7 @@ MajoranaReps_MathLink,b31d3d4c-bef0-4e65-bcd1-e17c4090d72f
 Makeitso,5616b7aa-48d8-5ba3-83fe-06b58d5edc20
 Makemsix_jll,92e7c7cf-2c17-5ab8-9563-5ab5b2fcee8a
 Makie,ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a
+MakieBake,a115e09d-244e-4709-8d7d-89753b11a70b
 MakieCore,20f20a25-4f0e-4fdf-b5d1-57303727442b
 MakieDraw,8315f7d3-d5d2-4d16-bebe-3aa4ef51e4f8
 MakieExtra,54e234d5-9986-40d8-815f-a5e42de435f6
@@ -8041,6 +8046,7 @@ PROJ_jll,58948b4f-47e0-5654-a9ad-f609743f8632
 PRONTO,97df7862-8962-462b-83f4-d1fea1a8c26c
 PROPACK,b169e327-5944-5131-97a6-5d3d3f0a476a
 PROPACK_jll,2c99449f-f194-5e92-8ff0-13814ff41dcf
+PROPOSAL_cxxwrap_jll,39234983-ca09-5ebd-80f9-0678ebb0ef7b
 PROPOSAL_jll,a7736f47-6014-525c-ac95-fe8419cd7fa6
 PSDMatrices,fe68d972-6fd8-4755-bdf0-97d4c54cefdc
 PSFModels,9ba017d1-7760-46cd-84a3-1e79e9ae9ddc
@@ -8068,6 +8074,7 @@ PackageCompiler,9b87118b-4619-50d2-8e1e-99f35a4d4d9d
 PackageExtensionCompat,65ce6f38-6b18-4e1d-a461-8949797d7930
 PackageMaker,29c12bd1-d721-479e-9f19-f3213c237221
 PackageStates,412cc100-f440-45a8-9ec7-153ed5111422
+PackageURLs,c2271b70-7219-4bda-bcc3-62ec08ead5b7
 PackedIntegers,7c0bfd36-8adf-4958-a1b0-362003732c56
 PackedReadWrite,5d6e2f64-5c87-46b6-9ff4-cf810e78676d
 PackedVectorsOfVectors,7713531c-48ef-4bdd-9821-9ff7a8736089
@@ -9698,6 +9705,7 @@ RxEnvironments,5ea003d0-0c30-4e5c-84d5-cc22d8d83890
 RxInfer,86711068-29c9-4ff7-b620-ae75d7495b3d
 RxNav,204b4f30-d656-11eb-06dc-3b971f9bbb52
 RxnHelperUtils,58b8660e-aa37-4837-a287-8893ee0015f8
+RxvtKeyBindings,669f0021-236d-4bc5-9694-b723bfb83af1
 S2Geometry_jll,846536d6-5c10-5069-b47f-45525c463cf9
 S2TwTrans,5cf70722-ebfd-496e-996c-d9fcb5a97026
 SALTBase,265b7df6-2be8-4c25-b607-723db51099b1
@@ -11022,6 +11030,7 @@ Sundials_GPU_jll,035518d0-5ae3-5af5-93bb-592bb84664f0
 Sundials_jll,fb77eaff-e24c-56d4-86b1-d163f2edb164
 SunlightHNC,1d8199c2-2c11-4f8e-a265-f9a0ffcc17be
 Sunny,2b4a2ac8-8f8b-43e8-abf4-3cb0c45e8736
+SupabaseAuth,a0444c1d-6bfd-4346-a8b3-2f7d58af6057
 SuperEnum,5c958174-e7d9-5990-9618-4567de4ba542
 SuperLU,149cae9a-b337-42bd-ac98-00096b14e8a3
 SuperLUBase,79fc8b2a-9fec-41f5-a0c4-660a4203283a
