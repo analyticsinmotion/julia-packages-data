@@ -540,6 +540,7 @@ AtlasIO,d44f5655-1c95-40b4-8e53-9bdb5084f5d6
 AtlasRobot,436ed74b-f7b6-57fe-bd82-efdbd6c0ab0c
 Atmosphere,2c84d669-3b95-46c3-a358-9a76f739ac9c
 AtmosphericDeposition,1a52f20c-0d16-41d8-a00a-b2996d86a462
+AtmosphericExtinction,fae9e5b2-af3b-4f55-8d7e-b4c0083dc7a6
 AtmosphericModels,c59cac55-771d-4f45-b14d-1c681463a295
 AtmosphericProfilesLibrary,86bc3604-9858-485a-bdbe-831ec50de11d
 Atom,c52e3926-4ff0-5f6e-af25-54175e0327b1
@@ -1803,6 +1804,7 @@ Coalescent,7af52d38-510f-42b9-ba0a-b0cde7e92322
 Cobweb,ec354790-cf28-43e8-bb59-b484409b7bad
 CocktailDB,5dab4e14-3d8d-47b0-9250-6e6291c569a8
 Coconots,2061d889-07fc-48e0-ab41-7cc4d945d6d4
+CodeComplexity,6a833b0f-2137-4092-987b-66bce4e6b438
 CodeCosts,01031290-36d5-4888-8ad8-581b08f8a907
 CodeEvaluation,5a076611-96cb-4f02-9d3a-9e309f06f8ff
 CodeInfoTools,bc773b8a-8374-437a-b9f2-0e9785855863
