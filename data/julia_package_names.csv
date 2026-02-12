@@ -2626,6 +2626,7 @@ DifferentiableFactorizations,f7876f94-e99c-4755-b0c6-59dc4ff4934d
 DifferentiableFlatten,c78775a3-ee38-4681-b694-0504db4f5dc7
 DifferentiableFrankWolfe,b383313e-5450-4164-a800-befbd27b574d
 DifferentiableMetabolism,9677e053-0fc1-49e6-98a8-2ad3a1525e54
+DifferentiableMoM,23e8cd96-b521-4dc5-8732-25c09bc9e688
 DifferentiableStateSpaceModels,beacd9db-9e5e-4956-9b09-459a4b2028df
 DifferentiableTrajectoryOptimization,86fad55d-71c6-41a1-96ed-88d107dcd2ba
 DifferentialBases,12289b5d-7c11-438f-92a0-e1442e5c6fa7
@@ -3484,6 +3485,7 @@ FastIsostasy,80efc11e-3694-4407-a4bf-24e5955cde3d
 FastJet,8509a5d2-ae42-11e8-0b46-5d0ace601ee4
 FastJet_Julia_Wrapper_jll,33ff6b16-4e4c-5b96-9396-f34816859298
 FastJet_jll,7111ce8a-33e8-59c0-b870-b64149b8fb4c
+FastLOWESS,5d760c97-4851-4f57-8eaf-1b3e829bbf83
 FastLapackInterface,29a986be-02c6-4525-aec4-84b980013641
 FastLevenbergMarquardt,7a0df574-e128-4d35-8cbd-3d84502bf7ce
 FastLevenshtein,f79185a3-a88d-4013-8848-f9f041a6cb9a
@@ -12082,6 +12084,7 @@ VelocityDistributionFunctions,63a0b508-f74a-48f7-b6e7-0e65849b0078
 Vensim2MTK,6539e830-265a-11ee-32ea-19fcbc6dc4d8
 VerTeX,cc48e778-429c-5593-b60f-2bcf41d5649c
 VeriQuEST,3aa2c528-5caf-4a2e-b044-409d1cbc6a28
+VerifyMacros,af467e45-a3cd-48cc-969b-d17b4696c409
 VerizonEctoken_jll,020a3b16-f9c3-57ee-bc19-dd452accb145
 VersatileHDPMixtureModels,cb401d7d-c4f9-4284-af24-a1eca280e8e8
 VersionCheck,a637dc6b-bca1-447e-a4fa-35264c9d0580
@@ -12563,6 +12566,7 @@ Zotero,a6782e42-190c-4b39-989d-970618284c73
 ZstdSeekable_jll,86ac9985-db92-5090-8b9c-ec8f613186b3
 Zstd_jll,3161d3a3-bdf6-5164-811a-617609db77b4
 ZulipStream,90cb88a9-eac6-49a0-8eb4-35a012fbf11f
+ZwickerLoudness,08868560-fde5-4d5c-a6ad-ef47176ecf8c
 Zygote,e88e6eb3-aa80-5325-afca-941959d7151f
 ZygoteRules,700de1a5-db45-46bc-99cf-38207098b444
 ZygoteStructArrays,d4e84096-4d6c-49d8-a925-3f99c52ed105
