@@ -2729,6 +2729,7 @@ DistQuads,6966f90c-3441-5cda-97d6-80813c921d68
 DistanceFields,cbc00ff9-31b5-4f80-b2d7-f36b47fd6865
 DistanceTransforms,71182807-4d06-4237-8dd0-bdafe4d097e2
 Distances,b4f34e82-e78d-54a5-968a-f98e89d6e8f7
+DistilBERT,4a3a1c16-5378-477a-8c70-c7b46c0a0f4d
 DistributedAdhoc,d3b670be-7695-4f53-993c-7bcc16c2acea
 DistributedArrays,aaf54ef3-cdf8-58ed-94cc-d582ad619b94
 DistributedData,f6a0035f-c5ac-4ad0-b410-ad102ced35df
@@ -7533,6 +7534,7 @@ NumericalAlgorithms,3b47cccd-2e0f-43d2-aaa1-0b61cbee3591
 NumericalAnalysis,fb18ad0a-c577-441c-b4b0-b42a431f6d4f
 NumericalDistributions,13416b18-ec19-40e4-a123-e345ab61da74
 NumericalEFT,69ae41d2-7e17-11ec-28d9-b73852c51be0
+NumericalEarth,904d977b-046a-4731-8b86-9235c0d1ef02
 NumericalIntegration,e7bfaba1-d571-5449-8927-abc22e82249b
 NumericalMethodsforEngineers,00e1d38a-71a9-5665-8612-32ae585a75a3
 NumericalRange,bd3c3ff1-ad01-40db-ab3f-ca12d8f2d1e9
@@ -11107,6 +11109,7 @@ SwissVAMyKnife,fafdf525-54c7-48ec-ae29-528bd4cccfab
 SwitchOnSafety,ceb7f16a-07bf-5f4a-9354-b68f01b1610f
 Swizzles,60694085-d904-4bfc-95dc-1e0e768e9359
 SymArrays,c2b21f84-4a8e-4c96-99a2-2b79df568f75
+SymBasis,0806812d-f945-4f84-939d-820504b53c51
 SymBoltz,64c5a815-d72d-4982-8b1f-85a778bbef4e
 SymDict,2da68c74-98d7-5633-99d6-8493888d7b1e
 SymDiff,d0f7bc7f-cd2f-4cc8-8336-d901b45b4b8e
