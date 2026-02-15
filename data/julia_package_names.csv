@@ -1351,6 +1351,7 @@ CTDirect,790bbbee-bee9-49ee-8912-a9de031322d5
 CTFlows,1c39547c-7794-42f7-af83-d98194f657c2
 CTModels,34c4fa32-2049-4079-8329-de33c2a22e2d
 CTParser,32681960-a1b1-40db-9bff-a1ca817385d1
+CTSolvers,d3e8d392-8e4b-4d9b-8e92-d7d4e3650ef6
 CUBScout,5bb2324b-4f8a-4227-8185-e835854b0a1e
 CUDA,052768ef-5323-5732-b1bb-66c8b64840ba
 CUDAKernels,72cfdca4-0801-4ab0-bf6a-d52aa10adc57
@@ -4291,6 +4292,7 @@ GeometricIntegratorsBase,71212ab4-08a2-48eb-a02b-4cbad0e9c44a
 GeometricIntegratorsDiffEq,5a33fad7-5ce4-5983-9f5d-5f26ceab5c96
 GeometricKalman,37c64ece-753e-4456-a3c8-f0622d3cd54c
 GeometricMachineLearning,194d25b2-d3f5-49f0-af24-c124f4aa80cc
+GeometricMedicalPhantoms,c297bd51-60f5-42e7-80e4-f985777cb71a
 GeometricMultigrid,ec3bce20-3e4b-4d8a-a801-89defc82be1c
 GeometricProblems,18cb22b4-ad41-5c80-9c5f-710df63fbdc9
 GeometricSolutions,7843afe4-64f4-4df4-9231-049495c56661
@@ -4845,6 +4847,7 @@ Hymod,2d06aeeb-b05a-4dff-b7c9-38070db02149
 Hypatia,b99e6be6-89ff-11e8-14f8-45c827f4f8f2
 HyperDualMatrixTools,04d39a18-1502-5db8-a704-9ca743349cef
 HyperDualNumbers,50ceba7f-c3ee-5a84-a6e8-3ad40456ec97
+HyperFEM,ddbf423a-3df4-409e-9685-3dc416cae46c
 HyperHessians,06b494a0-c8e0-40cc-ad32-d99506a00a6c
 HyperModularity,bc4352e7-2825-48c1-aa5c-95462f20dcc0
 HyperSparseMatrices,c7efdb1c-7caa-4c7d-9b5e-9093f9323c7c
@@ -10064,6 +10067,7 @@ SearchLightSQLite,21a827c4-482a-11ea-3a19-4d2243a4a2c5
 SearchModels,0e966ebe-b704-4a65-8279-db954bfe5da0
 SearchSortedNearest,e8f3a9d7-1e19-435f-864b-2435d14e4e17
 SearchSpaces,eb7571c6-2196-4f03-99b8-52a5a35b3163
+SearchableGeometries,0d49ff20-b62b-4542-99e1-46442543f9f8
 SeasonalStreamflowForecasts,bb13d32d-afbb-4581-b3da-b1545cc63733
 SeasonalTrendLoess,42fb36cb-998a-4034-bf40-4eee476c43a1
 SeawaterPolynomials,d496a93d-167e-4197-9f49-d3af4ff8fe40
@@ -10213,6 +10217,7 @@ SideKicks,ae7baef6-f8d7-4188-9988-8bf5c4952615
 SiennaPRASInterface,4b496c86-8d00-441d-b504-079c710e0aa7
 SigFigs,98c7d76d-7e09-410d-8095-648d0832f4ae
 SigMF,dc1af1da-aa00-46a0-b3ad-5cde4383c966
+SigmaClip,e8e6a0c9-ed5e-482f-a5cb-ec074f5ee4bb
 SigmaProofs,f8559b4c-f045-44a2-8db2-503e40bb7416
 SigmaRidgeRegression,e566bdc2-f852-4ed0-870a-7389015b131d
 SigmoidNumbers,5f9c4118-ff96-4443-8e36-82746d603364
@@ -11108,6 +11113,7 @@ SwiftShader_jll,c404ff5a-e271-5628-8eaa-423d39d64c15
 SwissVAMyKnife,fafdf525-54c7-48ec-ae29-528bd4cccfab
 SwitchOnSafety,ceb7f16a-07bf-5f4a-9354-b68f01b1610f
 Swizzles,60694085-d904-4bfc-95dc-1e0e768e9359
+Swizzling,00000000-0000-4000-b000-202512210000
 SymArrays,c2b21f84-4a8e-4c96-99a2-2b79df568f75
 SymBasis,0806812d-f945-4f84-939d-820504b53c51
 SymBoltz,64c5a815-d72d-4982-8b1f-85a778bbef4e
