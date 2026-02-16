@@ -795,6 +795,7 @@ BatchedTransformations,8ba27c4b-52b5-4b10-bc66-a4fda05aa11b
 Batsrus,e74ebddf-6ac1-4047-a0e5-c32c99e57753
 BattMo,6f0c0536-3c2c-4762-a987-c605a8a6f898
 BayesBase,b4ee3484-f114-42fe-b91c-797d54a0c67e
+BayesDensityCore,93712312-7690-42d2-80ab-295e38cb0be8
 BayesFlux,c2416e8a-86ea-414a-9a91-c37c770c1547
 BayesHistogram,000d9b38-65fe-4c81-bdb9-69f01f102479
 BayesNets,ba4760a4-c768-5bed-964b-cf806dc591cb
@@ -10246,6 +10247,7 @@ SignedDistanceFields,73760f76-fbc4-59ce-8f25-708e95d2df96
 SignedDistanceFunction,b0860ef3-f78d-49a5-98b3-8176f82dbb49
 SignedPerms,87930f55-5467-4ad4-bf41-f0163ea2f44f
 Silico,048c718f-54a7-45b2-94ea-30214ee46b03
+Silo_jll,f5d339c9-093b-5756-8f08-ceae06537255
 SimDNA,f325a362-c78e-481f-886d-076c680a7e4a
 SimGBS,92ef5d18-3a1f-4c68-9409-006e7edfe355
 SimJulia,428bdadb-6287-5aa5-874b-9969638295fd
@@ -11908,6 +11910,7 @@ UnfoldCDL,dbccb84b-e307-4652-ba5b-383ef6e27386
 UnfoldDecode,ec0f67a1-ae9f-4687-b20b-bd39d33e72da
 UnfoldMakie,69a5ce3b-64fb-4f22-ae69-36dd4416af2a
 UnfoldMixedModels,019ae9e0-8363-565c-86e5-97a5a2fe84f4
+UnfoldRIDE,348b5554-d1f6-52bd-94b1-729601d351bf
 UnfoldSim,ed8ae6d2-84d3-44c6-ab46-0baf21700804
 UnfoldStats,96fd419a-8306-4ce8-ba5b-cd907cb7647c
 Unfolding,c5d2ca1b-4127-462e-b5fa-7f6e5ca16f83
@@ -12414,6 +12417,7 @@ Xerces_jll,637d83c4-b86a-5d90-b82d-5cf0573a8cfc
 Xfoil,19641d66-a62d-11e8-2441-8f57a969a9c4
 XicTools_jll,05e36573-c726-5118-99be-97aa17437f28
 Xicor,77194b58-d7c3-46dd-b530-0e56265cadd8
+Xloreta,1065177d-3187-4367-82d7-a0dd2e6bc05e
 XmlStructLoader,1bf1c528-19f0-4e43-b24f-ad91d84ffbf7
 XmlStructWriter,1f6e99ea-5afe-4254-a342-0998356893f5
 Xorg_compositeproto_jll,0af4abc2-9bda-511f-85a5-daebf69421ba
@@ -12688,6 +12692,7 @@ cuQuantum_jll,b75408ef-6fdf-5d74-b65a-7df000ad18e6
 cuStateVec,92f7fd98-d22e-4c0d-85a8-6ade11b672fb
 cuTENSOR,011b41b2-24ef-40a8-b3eb-fa098493e9e1
 cuTensorNet,448d79b3-4b49-4e06-a5ea-00c62c0dc3db
+cuTile,0dea8319-8c4a-4662-a73d-20234d115b9a
 cufinufft_jll,d94e68af-94a2-5465-a03a-ccb69bb7181e
 cunumeric_jl_wrapper_jll,49048992-29d2-5fd1-994f-9cecf112d624
 cupynumeric_jll,2862d674-414d-5b0b-a494-b21f8deca547
