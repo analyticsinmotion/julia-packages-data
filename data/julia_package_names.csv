@@ -8955,6 +8955,7 @@ QEPOptimize,9f67e06f-6394-43be-a72d-a2000081c01d
 QGIS,f157c2ba-572d-4438-a710-d9db9a9b13c0
 QGYBJplus,9782897d-e654-4714-b43b-fe3f3f944194
 QHull,a8468747-bd6f-53ef-9e5c-744dbc5c59e7
+QLawController,abf9877f-367a-4f05-a285-16210808b276
 QMCGenerators,fcae8fc2-2969-4f4b-b6c9-a95746d81969
 QMDDocTools,c50e25eb-ade4-4c96-a757-2a1fd62cbd8c
 QMDP,3aa3ecc9-5a5d-57c8-8188-3e47bd8068d2
@@ -9008,6 +9009,7 @@ Qemu_static_jll,969c3ef0-f950-5ada-826d-ee9b7b636380
 QhullMiniWrapper_jll,460c41e3-6112-5d7f-b78c-b6823adb3f2d
 Qhull_jll,784f63db-0788-585a-bace-daefebcd302b
 Qiskit,91d9a17d-f964-4b6c-a3c4-2f4cfdea2c95
+QiskitIBMRuntimeC,90b98b31-c194-4d1e-bfb5-0d4cb7418088
 QiskitOpt,81b20daf-e62b-4502-a0d1-aa084de80e33
 Qiskit_jll,b54e8e98-f244-53b3-a8e8-4727a4907f76
 QpidProton_jll,0d8a7629-d82b-587d-918a-5ef219d77cd9
