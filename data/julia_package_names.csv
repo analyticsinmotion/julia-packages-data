@@ -796,7 +796,12 @@ BatchedTransformations,8ba27c4b-52b5-4b10-bc66-a4fda05aa11b
 Batsrus,e74ebddf-6ac1-4047-a0e5-c32c99e57753
 BattMo,6f0c0536-3c2c-4762-a987-c605a8a6f898
 BayesBase,b4ee3484-f114-42fe-b91c-797d54a0c67e
+BayesDensityBSplineMixture,dc1a60f9-7a32-4f65-8b9e-ee7db92abd95
 BayesDensityCore,93712312-7690-42d2-80ab-295e38cb0be8
+BayesDensityFiniteGaussianMixture,588bb9d7-6d85-4df3-a9ca-7b66fb5e4296
+BayesDensityHistSmoother,4ec5b509-5e49-418c-a128-3e7a20b6d93e
+BayesDensityPitmanYorMixture,9da0b0c8-0459-4567-a5a4-3605fb8f6d57
+BayesDensityRandomBernsteinPoly,0b3787ab-bd9c-4026-b901-8cf5c1b442b9
 BayesFlux,c2416e8a-86ea-414a-9a91-c37c770c1547
 BayesHistogram,000d9b38-65fe-4c81-bdb9-69f01f102479
 BayesNets,ba4760a4-c768-5bed-964b-cf806dc591cb
@@ -11319,6 +11324,7 @@ TaylorInterface,628e9319-2ed5-413a-8fcb-ba6034deb837
 TaylorInversion,b52af375-caae-415f-bfb3-e49a502a248a
 TaylorModels,314ce334-5f6e-57ae-acf6-00b6e903104a
 TaylorSeries,6aa5eb33-94cf-58f4-a9d0-e4b2c4fc25ea
+TclTk,26a9145d-e64c-4475-a766-b5ac12021523
 Tcl_jll,9fc9b8dd-f768-5d0d-bb0b-e65961e00eb6
 TcpInstruments,aaee30c5-7b57-4441-b61a-ab7186f11903
 TeXTable,a350b66b-315f-4c41-8dcc-4d7330525fdd
