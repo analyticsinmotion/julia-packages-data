@@ -3608,6 +3608,7 @@ FilesystemDatastructures,89f0c457-83d8-4998-bfff-8b4a338c9833
 Filetimes,3549b72e-d846-5e61-81ad-7b3ef408fc17
 FillArrays,1a297f60-69ca-5386-bcde-b61e274b549b
 FillOutliers,36498ab6-316f-4d40-82fe-0951719b46b4
+FilterDDP,3fc7acb0-3ec8-433f-906a-2d1e86d217d2
 FilterHelpers,d8f44d74-4a63-4059-add9-16c5740a0809
 FilteredGroupbyMacro,d46d16aa-1548-45e6-bb37-c0a3431c6626
 Fimbul,cac51d78-27de-4708-bd2b-bd13a82f652b
@@ -6469,6 +6470,7 @@ MagicVLSI_jll,8553b089-32f9-510e-b5d7-7da551ec2160
 Magika,a454fd17-9086-4fe2-b9b0-9a1c0873c51f
 MagmaThermoKinematics,e7fe3d1a-f102-40b5-a66b-64b14986c4c8
 MagneticReadHead,63dd013e-5414-5e51-b21a-a24e12ed54cf
+Magnetostatics,e551bd30-f216-4325-9989-532520624021
 MagnitudeDistributions,159377fa-0e0e-4acb-ad92-1ebbdec31067
 MagnonPhononHybridization,83eb1d98-e19b-4996-92b4-3414e1382055
 MahjongTiles,4428f09d-fda0-4bc5-909e-74e028533219
