@@ -933,6 +933,7 @@ BinBencherBackend,63a9268e-b9e5-4a07-aba6-1f52d4878f75
 BinDeps,9e28174c-4ba2-5203-b857-d8d62c4213ee
 BinStatistics,41602cae-99cf-4169-ad6c-01f6ab844ef7
 BinaryBuilder,12aac903-9f7c-5d81-afc2-d9565ea332ae
+BinaryBuilder2,12aac903-9f7c-5d81-afc2-d9565ea332af
 BinaryBuilderAuditor,53524979-5234-6e31-4220-6120654b694c
 BinaryBuilderBase,7f725544-6523-48cd-82d1-3fa08ff4056e
 BinaryBuilderGitUtils,654d7472-7548-7361-4832-74694762694c
@@ -2124,6 +2125,7 @@ CopositiveAnalyticCenter,05dc622f-161e-4567-aeb3-31c6e962d327
 Copulas,ae264745-0b69-425e-9d9d-cf662c5eec93
 CoralBlox,f00a6e10-004a-11ef-3676-67ec635bc1a2
 CoreMLProtobuf,a5f34d12-0067-4cbd-84e2-651e0174c66e
+CoreMath,b7a15901-be09-4a0e-87d2-2e66b0e09b5a
 CoreMath_jll,a38c48d9-6df1-5ac9-9223-b6ada3b5572b
 CoreNLPClient,128a14f7-a34c-4ab5-b797-7dc430f1f974
 Corleone,2751e0db-33e9-4374-b36d-b7219e1e6b40
@@ -4285,6 +4287,7 @@ GeoStatsSolvers,50e95529-e670-4fa6-84ad-e28f686cc091
 GeoStatsTransforms,725d9659-360f-4996-9c94-5f19c7e4a8a6
 GeoStatsValidation,36f43c0d-3673-45fc-9557-6860e708e7aa
 GeoStatsViz,36492b79-4a51-4dff-89b6-31e03c9a81c2
+GeoSurrogates,7068cc40-2035-44e5-a3a1-4a05757b754b
 GeoTIFF,c470187e-1474-4b46-a068-a417f109db17
 GeoTables,e502b557-6362-48c1-8219-d30d308dcdb0
 GeoThermalCloud,9b555b37-faa4-4dca-b31f-51f0aad2d23b
@@ -5524,6 +5527,7 @@ KdbConnect,dbd8d13a-8743-44e2-950f-49a08588fccd
 KdotP,c8045c5a-940e-4537-a0b9-cab4a5eb5ca1
 Keccak,46f8cb0c-4e3a-418e-8a08-140a605d534d
 KeemenaPreprocessing,f4ce45ae-2b88-40b3-ad81-d2d70f7eb3a1
+KeemenaSubwords,891fdae5-3dc6-4d0d-8da0-c6f1d38b32bd
 Keldysh,50f2bc7e-5fd7-11e9-13c7-85fb88b4f34f
 KeldyshED,675b6b9c-7c2f-11e9-3bf3-dfd4d61640f7
 Kelpie,1b112299-d6bc-44e2-912a-478f25731460
@@ -8323,6 +8327,7 @@ Pfam,275cd14a-065f-44bb-ab7a-e1328a0f1819
 Pfapack_jll,36de11a4-635f-5b15-8378-93f477661e31
 Pgvector,ab7f0314-681e-439b-b2a8-1689834ece97
 PharmaceuticalClassification,c42eed22-7bfe-405f-8797-8b984d5f7563
+PhaseFields,6af1007f-d462-454c-a7f3-5589aa52c87f
 PhaseRec,694d4756-7efa-46c2-8f81-162496cbdea7
 PhaseSpaceDTFE,4bbf42c9-fe82-44eb-a825-ab877c23bdb8
 PhaseSpaceIO,de004529-e20a-5d30-89d8-7739140c50e5
@@ -12935,6 +12940,7 @@ libpostal_jll,af819820-d0b8-51fd-9b6f-e7926976c73e
 libpsl_jll,c4fadf96-db99-5883-8c55-41cf0165eeb0
 librdkafka_jll,7943bfb0-7437-5acd-a008-22777931c7aa
 librealsense_jll,65edd895-dc1e-518e-896c-dc343a3c7f2e
+librel_ant_parser_jll,f30bf88c-a969-5e45-b2c9-3eb7c20c1c7d
 librsync_jll,6c5fa084-3dbe-5c56-adb0-3ea4e9e901c0
 librtlsdr_jll,d1c10d9e-0af6-511b-a44d-62fc8e59b084
 librttopo_jll,4a3ffa5b-425c-5e62-932c-e04bcaef15ee
