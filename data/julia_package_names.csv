@@ -796,6 +796,7 @@ BatchedTransformations,8ba27c4b-52b5-4b10-bc66-a4fda05aa11b
 Batsrus,e74ebddf-6ac1-4047-a0e5-c32c99e57753
 BattMo,6f0c0536-3c2c-4762-a987-c605a8a6f898
 BayesBase,b4ee3484-f114-42fe-b91c-797d54a0c67e
+BayesDensity,4cc3c169-7268-405b-84ce-cc9eca2341c2
 BayesDensityBSplineMixture,dc1a60f9-7a32-4f65-8b9e-ee7db92abd95
 BayesDensityCore,93712312-7690-42d2-80ab-295e38cb0be8
 BayesDensityFiniteGaussianMixture,588bb9d7-6d85-4df3-a9ca-7b66fb5e4296
@@ -3043,6 +3044,7 @@ Effort,ace19e24-02c2-4bce-bc41-b57e89c0fc53
 EgyptianFractions,0f160d28-7819-5803-9275-299e9913be39
 EigenShow,84cdf194-f1a7-4248-80dd-8c89ca764f78
 Eigen_jll,bc6bbf8a-a594-5541-9c57-10b0d0312c70
+EigenstratFormat,df1a4358-36d9-4579-8618-03b057c4e7d8
 Eikonal,a6aab1ba-8f88-4217-b671-4d0788596809
 EinExprs,b1794770-133b-4de1-afb4-526377e9f4c5
 EindhovenLogo,18231132-4f0d-4a5b-8f66-ccd1a8e66870
@@ -10298,6 +10300,7 @@ SimpleCaching,71e1c77a-176e-49fd-a90f-f84a4a948e95
 SimpleCarModels,83cf0ae4-8bfa-5275-b23c-08ca25417759
 SimpleChains,de6bee2f-e2f4-4ec7-b6ed-219cc6f6e9e5
 SimpleChecksums,99b673fe-21e3-4c03-9f5c-4e20ec304e65
+SimpleClang,d80a2e99-53a4-4f81-9fa2-fda2140d535e
 SimpleConfig,f2d95530-262a-480f-aff0-1c0431e662a7
 SimpleConstants,6ca440b6-64d6-4b6c-88af-e5d091cb43b1
 SimpleContainerGenerator,b8d349fb-717b-4aac-a9b1-e1da4219c631
@@ -12326,6 +12329,7 @@ Wikidata,d5e6d34e-0946-4041-89ae-8db3fad848f3
 WildBootTests,65c2e505-86ba-4c19-93f1-95506c1443d5
 WildcardArrays,05d16eb0-506c-4fac-9187-f7ce7e253b09
 WildfireData,c50625c8-1a95-45e7-9f30-e55dbed7e5b4
+Wildfires,8a83dac0-8d4f-4b7e-b327-bade5b93bcdd
 Wilkinson,74aeefec-6ade-5337-bbc5-48a18adb804f
 WilliamsonTransforms,48feb556-9bdd-43a2-8e10-96100ec25e22
 Wilsonloop,f3c8d4fe-2f22-401d-8228-e6a01d7a1d02
