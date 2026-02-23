@@ -6578,6 +6578,7 @@ MaterialPointVisualizer,9ce2fbfb-c269-402f-8683-a675189e795c
 MaterialReconstruction,03cb9323-3c4b-4e23-a84c-921ade87b3a3
 Materials,35fa313e-aa48-52ea-bc82-ddb91c7db87b
 MathGL_jll,6834ddeb-87f2-5bbb-bfa4-c37572f854d4
+MathJSON,77215b4b-6f01-425c-beac-950ae6536d4d
 MathJaxRenderer,c4602970-9bd6-4912-867b-6b19c60f5024
 MathLink,18c93696-a329-5786-9845-8443133fa0b4
 MathLinkExtras,319bc7fa-14a0-11ec-21e1-6160fff0bbd8
@@ -10689,6 +10690,7 @@ Spglib,f761d5c5-86db-4880-b97f-9680a7cccfb5
 SphereSurfaceHistogram,b3f7556e-2c1d-50f9-83b1-7c1b68b21cf8
 SphereUDE,d7416ba7-148a-4110-b27d-9087fcebab2d
 SpheriCart,5caf2b29-02d9-47a3-9434-5931c85ba645
+SphericalBesselTransforms,a230e6b4-601e-4928-8f3a-78619b4f94b1
 SphericalClusterMass,4e4236b1-b06d-4ded-9e3d-2d170138da79
 SphericalFourierBesselDecompositions,7c5eff59-6392-4db1-b2e3-7d0560cca202
 SphericalFunctions,af6d55de-b1f7-4743-b797-0829a72cf84e
@@ -12172,6 +12174,7 @@ VisualizingLQCD,e32cf159-d8fc-4e5a-8baa-2faa67007f87
 ViterbiDecoder,5f0870c7-49c9-4542-b5f1-5d9ed4caea51
 Vizagrams,8c229dad-8b3a-4031-83d6-73545c88426d
 Viznet,52a3aca4-6234-47fd-b74a-806bdf78ede9
+VkDCT_jll,480b0143-c4e9-5ffc-bbe4-91f6a1b763ab
 VkFFTCUDA,fce8808e-e16a-45a8-8cbe-ffae295c7ea5
 Vlasiator,7d2ba682-ad6e-4e20-80d9-3f2d4a610bb4
 VlasiatorMakie,af7e05b2-8ba0-474e-bf83-503ba399852e
