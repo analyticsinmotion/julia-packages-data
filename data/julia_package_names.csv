@@ -1607,6 +1607,7 @@ Check_jll,491db154-c145-5abe-9c32-446728d60cce
 CheckedArithmetic,2c4a1fb8-30c1-4c71-8b84-dff8d59868ee
 CheckedArithmeticCore,740b204e-26e5-40b1-866a-9c367e60c4b6
 CheckedCalls,6490f8d2-1475-45bb-865d-edb65413071d
+CheckedSizeProduct,1b2cc9da-92e3-4b71-9788-30fc110eefda
 Checkerboard,b297549e-c8cb-44e5-9c33-b7e2667db6fc
 Checkpointing,eb46d486-4f9c-4c3d-b445-a617f2a2f1ca
 Checkpoints,b4a3413d-e481-5afc-88ff-bdfbd6a50dce
@@ -3839,6 +3840,7 @@ FpLinearCategories,607c1b85-d155-426e-91c9-9defd76aa9e1
 FractalAnimation,6118da02-c7f1-44e0-8933-0c8b5cc44c9b
 FractalDimensions,4665ce21-e117-4649-aed8-08bbe5ccbead
 FractalIntegrals,1214b007-556e-4c4e-8d39-042f176f8b35
+Fractalizer,c0cd90ba-f482-40dc-b865-bff11b43dfb3
 FractionalCalculus,638fb199-4bb2-4014-80c8-6dc0d90f156b
 FractionalDelayFilter,c1b2b608-cf0a-49e8-8122-201050f5fbe7
 FractionalDiffEq,c7492dd8-6170-483b-af64-cefb6c377d9a
@@ -7973,6 +7975,7 @@ OutlierDetectionTrees,6470b2ab-4fe8-498e-808d-6badd5c3da38
 OutputCollectors,6c11c7d4-943b-4e2b-80de-f2cfc2930a8c
 OverflowContexts,649716ba-0eb1-4560-ace2-251185f55281
 Overpass,834259d5-5bc3-4baf-8c23-ac7b5902f5e3
+OverpassAPI,78759bb8-e702-4122-98f4-c2c710342d47
 Overseer,1ada24be-c16d-4464-9f61-27c2e0f16645
 OwnTime,18732c20-e27e-497f-aa49-3bf01a8fc721
 Oxygen,df9a0d86-3283-4920-82dc-4555fc0d1d8b
@@ -8679,6 +8682,7 @@ PoseComposition,0a8ab332-79e8-43e0-a313-949ce1168071
 Posets,9a158a65-591e-4f68-ac4f-9ffef2fc51f2
 PositionVelocityTime,52ec0b5e-ee36-11ea-211c-3d844fc5682d
 PositionalEmbeddings,d504d84d-5e64-4f13-be9b-c14c41279bd1
+PositiveChartsToricVarieties,055cc933-8b1f-435f-a5f5-b5788e050b7b
 PositiveFactorizations,85a6dd25-e78a-55b7-8502-1745935b8125
 PositiveIntegrators,d1b20bf0-b083-4985-a874-dc5121669aa5
 Posits,206caa4e-a773-11ef-0a96-55713be7837f
@@ -8707,6 +8711,7 @@ PowerDynOperationPoint,95be4243-a2fd-5eef-a7d1-2e97978993e7
 PowerDynSolve,b2d36aa5-a2b1-5d23-8bd9-f353e61de00d
 PowerDynamics,cc46b21f-1b17-51c2-b642-af74c3d3a8be
 PowerFlowData,dd99e9e3-7471-40fc-b48d-a10501125371
+PowerFlowFileParser,bed98974-b02e-5e2f-9ee0-a103f5c450dd
 PowerFlows,94fada2c-fd9a-4e89-8d82-81405f5cb4f6
 PowerGraphics,5f7eddb3-86b1-49e8-a95a-ddc0f45eea41
 PowerImpedanceACDC,8bb8d9d3-c57e-5130-a7c9-cb214ef560ae
@@ -9625,6 +9630,7 @@ ReverseSearch,4c89c464-f98c-4bab-a6f2-360512b03a4e
 ReverseStackTraces,755d2ad4-7ed4-4791-99e6-179f2b4884dd
 ReversedSeries,87ffe17a-2ae0-4c33-b274-0f3657b00e05
 ReversedStrings,d6a58270-6f46-44a2-ab4b-2a767377cb4b
+Reversi,8f7655e2-04a7-45c2-9cb3-16b1b80822ae
 ReversibleJumpMCMC,4e599b9b-5231-4225-b353-2dfd54e54db8
 Revise,295af30f-e4ad-537b-8983-00126c2a3abe
 ReviseTests,a8315d63-8160-44e4-a573-aa779bc83c34
@@ -12674,6 +12680,7 @@ blaspp_jll,ac2d9471-9114-5691-9e37-f48642a6f9ea
 blis32_jll,e47b3055-b30e-52b1-9cd4-aea7f6c39f40
 blis_jll,6136c539-28a5-5bf0-87cc-b183200dce32
 bliss_jll,508c9074-7a14-5c94-9582-3d4bc1871065
+blockSQP2_jll,8a1cb406-4d92-5272-b91c-0b6599bad0b1
 blockSQP_jll,fec014c7-73d5-5f83-866b-eea102cb7f01
 bmon_jll,d7e7cbe0-5b96-5c0f-b173-1d76374e957e
 boost_jll,28df3c45-c428-5900-9ff8-a3135698ca75
