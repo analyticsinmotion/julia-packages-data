@@ -1070,6 +1070,7 @@ BlockEnums,7c338ca5-b20e-417b-9799-aae6c720705e
 BlockFactorizations,5c499583-5bfe-4591-9b59-c1e192d48697
 BlockHaloArrays,8029ca6b-11ad-4a59-88a2-2e6eee4ef8a2
 BlockMatching,100fd195-2f51-49a3-864c-eaaf5f23bc5e
+BlockSQP2,eedde146-038c-472b-a63b-c8c70ebda014
 BlockSparseMatrices,1ef78180-cc57-4e70-b6ec-c3e471307147
 BlockSystems,4663d367-db1f-4bef-81e7-dc1bd7f7b428
 BlockTensorFactorization,07b766a1-0096-4e53-b687-1cd07becaccb
@@ -2107,6 +2108,7 @@ ConvolutionOperators,15927181-a1bb-497c-b745-8dbf505c019d
 ConvolutionalOperatorLearning,3c17ac3d-2343-4d75-b01f-81723beeda4b
 CooccurrenceRegression,b11753cd-0d5a-47ad-8b8f-99db3fa4a09b
 Cookbook,5c1ef01f-39c8-5834-b1a0-1a342f75f4df
+CoolPDLP,9e90bdc5-3073-4e0f-a275-e19f28ac1b53
 CoolProp,e084ae63-2819-5025-826e-f8e611a84251
 CoolProp_jll,3351c21f-4feb-5f29-afb9-f4fcb0e27549
 CooperativeGames,4bb2c6fa-c716-443c-bd78-f2a2f3c4e880
@@ -8167,6 +8169,7 @@ ParU_jll,9e0b026c-e8ce-559c-a2c4-6a3d5c955bc9
 ParXRec,ce505a99-8540-44bd-8e52-2947982c0c75
 ParaReal,d8ab9f86-dde6-11e9-3216-afd74457b932
 ParaViewCatalyst,0fa3a46a-29f8-4c04-a671-08df7e71e505
+Parables,b23e9bf5-c030-48ea-90eb-85d026696f85
 ParabolicTrigonometry,2c67d0d1-3dd0-4e24-8359-dd001bbc3df8
 ParallelAnalysis,c8fef40c-3641-40f1-b0ae-e08425a5d2fc
 ParallelDataTransfer,2dcacdae-9679-587a-88bb-8b444fb7085b
@@ -11632,6 +11635,7 @@ ToQUBO,9a412ddf-83fa-43b6-9748-7843c851aa65
 ToStruct,43ec2cc1-0e50-5406-a854-b7ff8fdb8dad
 ToddlerED,9f6f0ab1-6019-4add-889f-74609d4bcb4c
 Todo,b28a226c-6cff-11e9-1336-699fd753ab00
+TodoFiles,358ed29a-d93c-4fe8-8ea3-c6948dc61de3
 ToeplitzMatrices,c751599d-da0a-543b-9d20-d0a503d91d24
 ToggleMenus,6dfc96c8-e1b7-449c-9871-5de18f44e5a6
 ToggleableAsserts,07ecc579-1b30-493c-b961-3180daf6e3ae
