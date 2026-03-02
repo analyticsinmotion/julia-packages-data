@@ -2132,6 +2132,7 @@ CoreMLProtobuf,a5f34d12-0067-4cbd-84e2-651e0174c66e
 CoreMath,b7a15901-be09-4a0e-87d2-2e66b0e09b5a
 CoreMath_jll,a38c48d9-6df1-5ac9-9223-b6ada3b5572b
 CoreNLPClient,128a14f7-a34c-4ab5-b797-7dc430f1f974
+CoreNNLS,e0c1f8e0-0001-4000-8000-000000000001
 Corleone,2751e0db-33e9-4374-b36d-b7219e1e6b40
 CorleoneOED,6590a4b1-d036-41fe-a5b4-03a980244101
 CornerPlot,b8d669dd-3d88-55df-ae05-b65fc3f9fff9
@@ -4006,6 +4007,7 @@ GFXInfo,1e0a258e-4f42-48e3-aec2-b8d74ef17dc4
 GFlops,2ea8233c-34d4-5acc-88b4-02f326385bcc
 GGUFFiles,64b78412-f075-48b3-a385-7ef9f8f02b20
 GHCNData,7e11e036-0ca3-4a2d-a287-b6bec19ddff0
+GIAC_jll,cf749d6c-42f5-550d-8800-4812740c2942
 GIFImages,7064036c-d33e-4a25-b247-cf6150d8ad81
 GIRFReco,cf1bd817-9e2d-403d-b1e7-15ef5a867bae
 GLAbstraction,ca6e7d0a-b0c9-59ca-8aba-aebf11497e1c
@@ -4267,6 +4269,7 @@ GeoDynamo,d9585174-0cde-43e1-8c7d-10e3f89dfe41
 GeoEfficiency,b1f22607-7830-5ceb-9a8e-05ab1ac77008
 GeoEnergyIO,3b1dd628-313a-45bb-9d8d-8f3c48dcb5d4
 GeoEstimation,a4aa24f8-9f24-4d1a-b848-66d123bfa54d
+GeoExplorer,386f1b4b-9a3d-4ef9-97c4-2a0480d4a57f
 GeoFormatTypes,68eda718-8dee-11e9-39e7-89f7f65f511f
 GeoGreensFunctions,1bc39cc2-b9cd-470c-972b-2e3fb46182c5
 GeoGrids,22c7c615-cf67-4787-b800-cc81b4f1a63f
@@ -5770,6 +5773,7 @@ LabJack,961e5755-77e0-4113-a782-3f305e67c3ba
 LabMaze,bba4e509-098c-4c3e-9e4f-ff6e34834d9e
 LabVIEW0,b5ef6335-26be-4d6f-85a4-8b5df3cbaa06
 LabViewXML,656e9f32-718a-11e9-002e-018f26774860
+LabelImg,fbed17e4-9066-41ea-b2d4-aff0c0fb68d6
 LabelNumerals,2e475f56-4567-5c41-94ff-3f69a29378f9
 LabelledArrays,2ee39098-c373-598a-b85f-a56591580800
 LabelledGraphs,605abd48-4d17-4660-b914-d4df33194460
@@ -7139,6 +7143,7 @@ MulticlassPerceptron,dab37cba-9818-490d-9918-279965c31300
 Multicluster,15ffbdae-f567-4411-842e-188464567360
 MulticomplexNumbers,d39bb3b7-cc9c-4bb9-be86-52b494dfee17
 MultidimensionalTools,9aeeebde-7c74-460c-b059-016a4aa0f713
+MultifileArrays,18a1d154-b244-4181-98dd-8f3786468fa3
 MultifractalTools,d4a7d00b-0e68-4c54-830d-611b26b28009
 Multigraphs,7ebac608-6c66-46e6-9856-b5f43e107bac
 MultilayerFiber,5163218f-e962-4d1b-9436-42cf34da72ec
@@ -12311,6 +12316,7 @@ WeibullParetoDist,efcb490d-de09-481a-82de-9e1304d0eed4
 WeightInitializers,d49dbf32-c5c2-4618-8acc-27bb2598ef2d
 WeightVectors,02edb123-fbf3-4025-abe6-bed5b7376cdf
 WeightedArrays,379a43df-f81c-573e-83a6-069eb6c11a71
+WeightedData,198d7fc6-4dbd-4d01-be45-be9677e11b0d
 WeightedEdgeListFormat,1ad517f0-379a-4563-bead-04a8bca42320
 WeightedOnlineStats,bbac0a1f-7c9d-5672-960b-c6ca726e5d5d
 WeightedPCA,ee299941-4bd7-491e-86f9-95d1f98baef4
