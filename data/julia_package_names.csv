@@ -2854,6 +2854,7 @@ DrWatson,634d3b9d-ee7a-5ddf-bec9-22491ea816e1
 DrakeLCMTypes,6484683b-de53-5689-b9d2-2f18b83297fe
 DrakeVisualizer,49c7015b-b8db-5bc5-841b-fcb31c578176
 DrawSimpleGraphs,1d51b185-1a84-59cf-b84e-03b0e3da30b7
+DrawingDim,3b4f1277-4f84-48a8-a8ec-5e08d2f3a5e9
 DrelTools,fc805444-c5ec-4e06-bf74-6216be16ab28
 Drifters,bd752fb7-3f37-44cb-a8fb-f461137b623f
 DrillHoles,9d36f3b5-8124-4f7e-bcda-df733105c718
@@ -6514,6 +6515,7 @@ MakiePDF,e9a2b5d4-2139-42d9-ad42-ef6c084e8c4b
 MakiePatterns,1dd4001f-e390-44df-a925-c4b057495931
 MakiePublication,dde8697e-0d61-460d-88dd-856f66710dd1
 MakieRichText,9317242e-1230-4881-bcbc-8f9566308e0e
+MakieSequenceLogos,f0e20901-8604-42d3-8d47-9ff91640a2ee
 MakieTeX,6d554a22-29e7-47bd-aee5-0c5f06619414
 MakieThemes,e296ed71-da82-5faf-88ab-0034a9761098
 MallocArrays,bdde6022-96f5-457e-ae5c-df64ce731513
@@ -8835,6 +8837,7 @@ Probably,2172800d-0309-5a57-a84f-d50c94757422
 ProblemReductions,899c297d-f7d2-4ebf-8815-a35996def416
 ProblemSet,806f51fd-16a3-4f55-bd44-f0d72f9cf926
 Problox,41531fc7-7f15-48cd-9c2f-2efb66d9fe65
+ProceduralNoise,3aba9546-43d6-4ec1-9542-6d3f8f2a5c7f
 ProcessBasedModelling,ca969041-2cf3-4b10-bc21-86f4417093eb
 ProconIO,14bbafba-0b52-4ec8-8fe0-855204a3b917
 Procrastinate,3362a694-cdb4-48f5-aa9a-ff559879651c
@@ -11824,6 +11827,7 @@ TruncatedMVN,502039d7-87d7-456d-8cc8-96307cceeee2
 TruncatedStacktraces,781d530d-4396-4725-bb49-402e4bee1e77
 TruncatedStreams,a94d6aec-2c5c-43a3-8874-9c6fe372d212
 TrustRegionMethods,14486370-d344-40f0-8ff9-262f8a3330be
+TrustRegionReflective,b2fb89f2-9639-4e52-b458-b5e2ad6f229e
 Trusty,8d423e50-a21a-41c9-877a-e99e491e0514
 TruthTables,9ec6d097-1036-44b0-a6be-6d8b59e15e3f
 Try,bf1d0ff0-c4a9-496b-85f0-2b0d71c4f32a
