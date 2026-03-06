@@ -606,6 +606,7 @@ AutoGrad,6710c13c-97f1-543f-91c5-74e8f7d95b35
 AutoHashEquals,15f4f7f2-30c1-5605-9d31-71845cf9641f
 AutoHist,0bf0ee65-3559-4d1e-a282-1b0e88839781
 AutoLandmarking,513749c4-1492-45a3-bfbf-e630717bb7f0
+AutoLyap,0620cc6d-054a-4145-a0e3-d8b030648321
 AutoMLPipeline,08437348-eef5-4817-bc1b-d4e9459680d6
 AutoPkg,4571da9f-be60-41fb-9c10-7f3445d84327
 AutoPreallocation,e7028de2-df94-4053-9fdc-99272086b8d4
@@ -3740,6 +3741,7 @@ FlexiJoins,e37f2e79-19fa-4eb7-8510-b63b51fe0a37
 FlexiMaps,6394faf6-06db-4fa8-b750-35ccc60383f7
 FlexibilityAnalysis,a86d3b49-e43c-5f8d-b693-d32ec726be17
 FlexibleFunctors,0da941aa-91b6-4cc4-98e3-d6ba47d3ded9
+FlexibleSnowModelOSHD,5919be0d-1d81-4a5b-ac5f-ee56392bdbf1
 Flexle,dc22aa90-55d8-496a-ae41-a34b09be019a
 Flick,7fdabe25-5bc1-4a7a-966a-1dc79c0c5380
 Flight,e329eb8f-69f3-4234-a468-5e3889a58643
@@ -6466,6 +6468,7 @@ MUMPS_seq_jll,d7ed1dd3-d0ae-5e8e-bfb4-87a502085b8d
 MUSCLE_jll,0d2b832c-22e5-5080-b34f-49cc6141c4c5
 MXNet,a7949054-b901-59c6-b8e3-7238c29bf7f0
 MacOSIOReport,27799fc1-e272-4181-9793-a9e1fcba685b
+Macchiato,cd40ceae-7681-4e2e-9056-ba6e356aca3e
 MackeyGlass,5eb54613-e1e4-5bb3-a6bc-ad608a6b2204
 MacroEconometricModels,14a6ec33-bcac-448e-845f-2fb6769698f1
 MacroEnergy,260b7737-bf0e-4e84-9335-3af14438b1f5
