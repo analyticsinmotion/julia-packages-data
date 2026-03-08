@@ -6556,6 +6556,7 @@ MapUnroll,cb3e49c6-be3c-4b9f-8a95-3e29188d9713
 MappedArrays,dbb5928d-eab1-5f90-85c2-b9b0edb7c900
 MarSwitching,b2b8a7f1-da70-4e5f-beaa-e2774ec39c2f
 Maracas,329a7628-3119-536a-a060-c6b2f8e35265
+Maranatha,f59da73d-25b7-4e5f-93e8-d831d7277eb4
 MarchingCubes,299715c1-40a9-479a-aaf9-4a633d36f717
 Marconi,bbe32c30-8a1d-11e9-18de-655e918680e9
 MarginalLogDensities,f0c3360a-fb8d-11e9-1194-5521fd7ee392
@@ -7380,6 +7381,7 @@ NearestCorrelationMatrix,59ddf330-608c-4938-8bc9-a4ee97bbbea6
 NearestNeighborDescent,dd2c4c9e-a32f-5b2f-b342-08c2f244fce8
 NearestNeighborModels,636a865e-7cf4-491e-846c-de09b730eb36
 NearestNeighbors,b8a86587-4115-5ab1-83bc-aa920d37bbce
+NeatEvolution,fcc92617-70eb-4c43-847c-323c44b5224c
 NeatText,d28e2158-296f-49f9-928e-754b5a3efa02
 NeidArchive,b2c48323-12ae-41a0-acdb-062d24b276bc
 NeighborJoining,3f465f53-8c2e-426b-b4f1-431dfde0fdf8
@@ -9345,6 +9347,7 @@ RainMaker,ce1e5628-4095-449b-8858-623a1e420393
 Ramps,620c3add-4af5-46cb-82b5-af0dc8736fda
 RamseySpectroscopyCore,c2a93995-efaf-4fb2-b3df-3b08479f64e0
 RandFieldStructFuncs,8cf9e0f4-2236-4022-885f-e952f37830b5
+RandLinearAlgebra,da1d211a-c3bc-43b2-b5d0-ce83f16a0f3a
 Random123,74087812-796a-5b5d-8853-05524746bad3
 RandomBasedArrays,079b6ec6-a4f7-11e9-0358-1904ae85a441
 RandomBooleanMatrices,9ae346a0-3d16-5633-ad70-ddb60ab77eac
@@ -10072,6 +10075,7 @@ ScatteredInterpolation,3f865c0f-6dca-5f4d-999b-29fe1e7e3c92
 ScatteringOptics,e317c96f-4a6f-4ae9-8016-294fb9063ff5
 ScenTrees,4ec4db44-c288-11e9-3202-272e944f779a
 ScenTreesMakie,9bd120df-771c-42ec-88b3-c561e7179d1b
+ScenarioTheory,34245d11-8d86-4cc3-9865-ee17c37bff99
 SceneGraphs,20c9ef15-1db2-418e-be3d-d83b089f5c41
 SchattenNorms,03bc5d91-8e1a-555a-857b-eaff090ecb7c
 Sched,1fb05d12-6c47-528b-bee1-deadc63ff0b4
@@ -10658,6 +10662,7 @@ SparseMatrixColorings,0a514795-09f3-496d-8182-132a7b665d35
 SparseMatrixDicts,5cb6c4b0-9b79-11e8-24c9-f9621d252589
 SparseMatrixIdentification,2607229e-3272-44a7-bc4a-cd97a328dfbf
 SparsePCA,7700fd7a-0a3e-455e-9ac1-177bceab20a5
+SparseRationalLearning,38edcbe5-9bfb-4d27-9b01-8f1fb2a70f4c
 SparseRegression,ca6142a6-a6a7-57f5-b674-4a8484b22e92
 SparseSensors,d6ceb477-1fb8-47dc-9268-a5d33dbc737e
 SparseTimeSeries,e40787dc-7381-49a9-a10c-5aed17658239
