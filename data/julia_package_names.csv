@@ -2707,6 +2707,7 @@ DirectedAcyclicGraphs,1e6dae5e-d6e2-422d-9af3-452e7a3785ee
 DirectionalStatistics,e814f24e-44b0-11e9-2fd5-aba2b6113d95
 DiscoDiff,944e5dbc-7108-4f31-a215-df58b8009117
 Discord,e67e5439-1494-44b2-b9ab-d191a16377ec
+DiscoveryGraph,6c26c9e7-0ef1-44eb-bb5c-4a6256936300
 Discreet,c2843242-4f35-58a6-a2a0-7e7527607317
 DiscreteChoiceCalculations,759baa6d-43dc-42d9-a008-b157c131ff49
 DiscreteChoiceModels,c2e53169-916a-425c-bc99-aa016d67d968
@@ -9177,6 +9178,7 @@ QuantumESPRESSOExpress,524a00d3-5d12-4323-9774-d2c11dc9d82e
 QuantumESPRESSOFormatter,a4e7ca57-d8d8-4f74-9c0b-0b18081c205e
 QuantumESPRESSOParser,a780ab42-b33a-11e9-16c1-a92d75b2a626
 QuantumElectrodynamics,bb1fba1d-cf9b-41b3-874e-4b81465537b9
+QuantumEspressoIO,3a638b13-24f5-41eb-8ce1-879979581471
 QuantumEspresso_jll,74603b90-2fcf-5710-a7d7-830b31b8b33c
 QuantumFCS,f61df7d1-40df-4ff5-bdc9-ea200d60bc8f
 QuantumFluidSpectra,8ddfec37-9569-48bd-b1f3-d8731767ee3a
@@ -12004,6 +12006,7 @@ UnionArrays,d6dd79e4-993b-11e9-1366-0de1c9fe1122
 UnionCollections,ea2a18ed-132b-4398-a457-2ce4804e5c00
 UnionFind,99c6138d-4661-531e-8606-19bf1ec96588
 UniqueKronecker,dd29a912-d12a-442e-ae57-6933397c0393
+UniqueNamesGenerator,5c885c3a-e8ef-4832-bb46-f82d698e97a0
 UniqueVectors,2fbcfb34-fd0c-5fbb-b5d7-e826d8f5b0a9
 Unishox,e63e2b3a-53a6-427d-87f9-f7afaee6e6e3
 Unishox_jll,3d704607-676d-54ad-a58f-27926b53472b
