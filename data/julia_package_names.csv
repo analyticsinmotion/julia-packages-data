@@ -844,6 +844,7 @@ BcubeCGNS,a9bead8e-c4b5-4f51-8a4e-84805ae90250
 BcubeGmsh,8c8b3700-392b-4630-b974-b8b78831232a
 BcubeVTK,f7a61acb-f482-4505-b2eb-e9cadd76b6b4
 BeaData,acefaad2-17a4-5d8b-aa08-e18ef75dd0cf
+BeamPhysics,f85cbb92-938a-4877-a34b-92f8b55ab56a
 BeamTracking,8ef5c10a-4ca3-437f-8af5-b84d8af36df0
 BeamletOptics,c387492b-ffec-4e51-9a46-bd230226031c
 Beamlines,5bb90b03-0719-46b8-8ce4-1ef3afd3cd4b
@@ -3536,6 +3537,7 @@ FastRationals,275e499e-7a09-5551-a1d1-9fe535a2b717
 FastRecurFlux,588c45af-af6b-483f-b667-6e294e895986
 FastRounding,fa42c844-2597-5d31-933b-ebd51ab2693f
 FastRunningMedian,3a47ddbd-112b-4cc1-b00e-3746ec434ee5
+FastSinCos,eb71ef10-bbd6-487f-97cc-2efbd12ad3c4
 FastSpecSoG,ebb58456-9453-4d17-87e2-7100c1ea036c
 FastSphericalHarmonics,d335c211-7587-445e-a753-f0b1fb7e445f
 FastTabular,d896c661-108c-409d-a26f-7fe446e2d3d3
@@ -5377,6 +5379,7 @@ JSPlots,05744359-7ec0-46c8-9490-aaa1bc06b10a
 JSServe,824d6782-a2ef-11e9-3a09-e5662e0c26f9
 JSUrl,7961c0c6-d413-4083-9ff6-822c52aae3a3
 JSXGraph,97e4c2e4-f0cb-461e-a268-312dec255b76
+JSXGraphRecipesBase,bd634f59-a37b-43f6-973f-3a9fc2996b03
 JSpecAstro,799228a4-d83e-4675-bef0-fa04f023a533
 JUDI,f3b833dc-6b2e-5b9c-b940-873ed6319979
 JUDI4Cloud,32925ad8-f583-44d3-8c77-a232bc7bbe09
@@ -12684,6 +12687,7 @@ argtable_jll,166911fe-1485-5b25-83ac-750489179000
 arm_binutils_jll,59abdd74-cdb7-53ea-acab-ed1c8628de13
 armadillo_jll,0631256a-41da-5d69-bb72-795e0d5510ec
 asdf_cxx_jll,4f8305f1-6461-5f12-b534-9c962894ae19
+asio_jll,adbc9c39-6bf4-5566-8295-c0623552eeca
 assimp_jll,54ae6823-98c6-5a7c-8365-5a43b909f91f
 at_spi2_atk_jll,de012916-1e3f-58c2-8f29-df3ef51d412d
 at_spi2_core_jll,0fc3237b-ac94-5853-b45c-d43d59a06200
@@ -13004,6 +13008,7 @@ libsais_jll,256fa0d9-5b69-5eda-b2e7-67f42de8f23f
 libsamplerate_jll,9427e74d-4e05-59c1-8ff3-7d74b6e52ac8
 libsass_jll,47bcb7c8-5119-555a-9eeb-0afcc36cd728
 libseccomp_jll,bbe1b2b0-80d5-5705-9e4b-b28efe83ce82
+libsemigroups_jll,99c76e05-e2a6-5e47-b69a-d74ec2f0d12c
 libserialport_jll,220460dc-b50e-5ed0-8176-09b0fd261e90
 libsharp2_jll,180207a7-b08e-5162-af94-7d62a04fe081
 libsigcpp_jll,8855df87-3ca1-5a3d-a68b-4f0ddc198ba8
