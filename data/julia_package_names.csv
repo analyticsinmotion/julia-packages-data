@@ -3043,6 +3043,7 @@ EditionBuilders,2fb66cca-c1f8-4a32-85dd-1a01a9e8cd8f
 EditorsRepo,3fa2051c-bcb6-4d65-8a68-41ff86d56437
 Edlib,397faa13-b53e-4cbf-b1cd-0b7e158e6587
 Edlib_jll,9cc87b63-894b-53d6-8750-e9bc5869edd9
+EegFun,aa15e9e4-a77e-4972-a32b-58bceaaa184b
 Eegle,1260424e-cd79-4b74-a0ea-47c69c296663
 EffectSizes,e248de7e-9197-5860-972e-353a2af44d75
 EffectiveWaves,37e8709b-1ed2-53db-b26a-3571262b3cb4
@@ -4256,6 +4257,7 @@ GenomeGraphs,3aa97884-90e5-11e8-2134-af657ec4f203
 GenomicAnnotations,4f8a0a0a-376d-5ac0-ab14-e88793df67f0
 GenomicDiversity,594eec9e-a086-4631-8fc7-61104af37930
 GenomicFeatures,899a7d2d-5c61-547b-bef9-6698a8d05446
+GenomicMIBLUP,d0f2d65e-bd8c-4e3e-b0b0-b1ee50f5c8a4
 GenomicMaps,db448a0f-c3d9-5f82-93ff-ed9bd37d70e8
 GenomicOffsets,496adb70-ccd1-4bf3-8d93-537a078619e1
 GenomicVectors,96124ad7-5c0a-5c8f-8316-419835a3cefd
@@ -10630,6 +10632,7 @@ Sound,afe32e48-2646-410f-a1df-ae97debbc86b
 Soup3_jll,fcd1aa73-243d-5665-acf3-2a5a4322c7a8
 SourceCodeMcCormick,a7283dc5-4ecf-47fb-a95b-1412723fc960
 SourceWalk,2987fe4f-acca-4bd1-87ee-98b3d562f1a1
+SovovaMulti,0cf59ef5-fec3-4aea-9b72-567761fff152
 SpFFT_jll,8be71ea8-ca6b-526f-84e8-fb2862ef466b
 SpQEphysTools,3cf761ad-e7e3-472c-b6ca-3dfc9dcba960
 SpaSM,017bf598-072c-475c-a75e-c3e68736ce70
