@@ -4361,6 +4361,7 @@ GettextRuntime_jll,b0724c58-0f36-5564-988d-3bb0596ebc4a
 GettextTiny_jll,37e82e6c-0fe7-5636-990f-a992debc3586
 Gettext_jll,78b55507-aeef-58d4-861c-77aaff3498b1
 Ggplot2,5eb46db9-241e-4516-b2d9-6a99246a435a
+Gherkin,30f46725-be1c-4b6b-9edd-e96e9b6c9ac9
 GhibliPalettes,90723813-cdbc-4127-ac5b-633cd2ebf9f7
 Ghost,4f8f7498-1303-42e1-920c-5033445536df
 Ghostscript_jll,61579ee1-b43e-5ca0-a5da-69d92c66a64b
@@ -5870,6 +5871,7 @@ LazyStartup,6f20d168-bb28-4f0e-934a-fbb9859c2f63
 LazyStrings,011382f2-1ba6-4494-bbc4-494973ed13c8
 LazyTables,3f3958f0-9dd7-4ba3-9331-125492819f7d
 LazyWAVFiles,82ba68a1-f779-4cc2-8f94-53af9af8d852
+Leadfields,d0ef5c8d-53fe-4948-8f80-436d4b7c1491
 LeafGasExchange,eed59905-05f1-464e-afba-94c39a4505fd
 LeafOptics,d155caf3-1b17-4a40-bb30-7fbeaeeea502
 Leaflet,2ed2781b-9bfa-45ba-823d-d31db75b7d93
@@ -9807,6 +9809,7 @@ SASLAuth,cca00f77-35de-46b7-a2e1-4a86bed9cc56
 SASLMR,c5384bee-8a12-426e-bc63-175ec2f1897e
 SASLib,df8f2f22-cfef-5733-af3f-96770d497d85
 SAShE,83401093-d8e7-49c8-a98d-2b177fad4d3a
+SBAAWindTurbines,06c5acaf-82b3-464d-988e-3efab6bf1b1c
 SBC_jll,da37f231-8920-5702-a09a-bdd970cb6ddc
 SBML,e5567a89-2604-4b09-9718-f5f78e97c3bb
 SBMLFBCModels,3e8f9d1a-ffc1-486d-82d6-6c7276635980
@@ -12116,6 +12119,7 @@ VNGraphs,82074f20-eae8-4dc7-b23b-c0e0f9981814
 VNNLIB_jll,2fc91ace-7b29-55fa-9e7a-edf3c4bda191
 VOLK_jll,13737630-5ab7-50a7-b423-42a4a7ec78b3
 VOTables,3abbdab7-df67-4801-8590-8effec53f469
+VOUnits,a1e4a1a0-2026-0228-0017-f00a75000000
 VP4Optim,8687cf0f-8f6d-4dd6-8e27-64e326ab5325
 VPINEstimation,98b75bef-cec7-42fd-9fd8-1608d125fef6
 VPTrees,6889b67b-453b-53df-8fa8-6efd51eae556
