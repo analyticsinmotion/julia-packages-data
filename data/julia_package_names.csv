@@ -4339,6 +4339,7 @@ GeometricalPredicates,fd0ad045-b25c-564e-8f9c-8ef5c5f21267
 GeometryBasics,5c1252a2-5f33-56bf-86c9-59e7332b4326
 GeometryOps,3251bfac-6a57-4b6d-aa61-ac1fef2975ab
 GeometryOpsCore,05efe853-fabf-41c8-927e-7063c8b9f013
+GeometryOpsTestHelpers,47ae2730-6264-4af1-919b-a18bc445f019
 GeometryOptimization,673bf261-a53d-43b9-876f-d3c1fc8329c2
 GeometryPrimitives,17051e67-205e-509e-8301-03b320b998e6
 GeometryToolkit,ce5ad29b-8b1a-4d19-a814-cc15ce7eccd1
@@ -6698,6 +6699,7 @@ McmcHermes,1dcdc7e9-a8b1-4892-8a0a-cdab5a60ee98
 MeCab,28a8edfd-32bd-5648-83f9-9b597c29a4fc
 MealDB,7c6f5c80-a916-4f5a-ba62-8beba2430b5e
 MeanFieldGraph,f3c20582-38a4-43ca-95fd-b3c95fb7ac78
+MeanFieldTheories,5cc7fde8-cb1c-4e9c-8eab-9f209b9d15ae
 MeanFieldToolkit,b00fcea2-f4b1-4480-b444-a0ed31c44801
 MeanFilters,86727aa0-fd67-4533-b6ed-348f1dda914f
 MeanSquaredDisplacement,13c93d70-909c-440c-af92-39d48ffa2ba2
@@ -9627,6 +9629,7 @@ Reproducible,74acc403-992c-5bc5-99bd-1528790dac51
 ReproducibleLiteratePage,963ca19c-1af9-4710-a933-a2a16c7180a2
 ReproducingKernelHilbertSpaces,7b950924-44ca-4659-84ba-ed75b85b0597
 Reproject,d1dcc2e6-806e-11e9-2897-3f99785db2ae
+Republic,27243419-9dde-4721-b67c-fd63626fea7f
 RequiredInterfaces,97f35ef4-7bc5-4ec1-a41a-dcc69c7308c6
 RequiredKeywords,fa45d1ab-b616-567a-ad77-664fd15b62b2
 Requires,ae029012-a4dd-5104-9daa-d747884805df
@@ -13038,6 +13041,7 @@ libudfread_jll,037e6697-03b9-52b7-b841-7aee0d773eb5
 libunistring_jll,6db05002-db9d-53dd-a359-17d4854bdf22
 libusb_compat_jll,d2399bea-3a32-5108-a30f-aef315c0e3a8
 libusb_jll,a877fdc9-fe69-5ed6-b93d-11ecd0dc2d49
+libva_jll,9a156e7d-b971-5f62-b2c9-67348b8fb97c
 libversion_jll,536dcc1b-10b1-5f38-bd5e-495471764a69
 libvofi_jll,62e11466-777e-5a8a-800b-95b03cc31b38
 libvorbis_jll,f27f6e37-5d2b-51aa-960f-b287f2bc3b7a
@@ -13082,6 +13086,7 @@ mold_jll,0903f2b2-81ff-5be9-abf7-91be1d67eee8
 mosquitto_client_jll,fe4c1bd5-8d44-5fb7-91e7-4554e87d4671
 mousetrap_jll,0e90efc8-2bbd-550f-bf3c-306a2edaaeef
 mpg123_jll,3205ef68-7822-558b-ad0d-1b4740f12437
+mpif_jll,9aeb927a-4695-514f-a259-621a69f20ec0
 mpifileutils_jll,2909f913-03bf-57eb-ad45-3e7a43191703
 mpv_jll,3b7eb3ab-5558-5250-ad56-7cbe1b8a43e3
 mrfDepth_jll,53656f53-9700-50e7-bf9c-d3aea1338d1b
