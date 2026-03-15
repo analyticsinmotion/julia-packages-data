@@ -777,6 +777,7 @@ BasicModelInterface,59605e27-edc0-445a-b93d-c09a3a50b330
 BasicPOMCP,d721219e-3fc6-5570-a8ef-e5402f47c49e
 BasicTextRender,c69498db-0706-4865-8aa9-71281a0ffe91
 BasicTreePlots,523fa316-3eda-45c7-ad2f-0d13a1dc3d77
+BasinVolumes,5eaeaa69-2339-4f0b-83bf-0f19e045deca
 Basinhopping,9e7568c4-705a-47cd-b25f-0976344ae296
 Basins,7e5b28ef-eee2-49be-86fd-c343c6921134
 BasisFunctionExpansions,07f847a3-b39a-5451-bea0-0f0f0688aa14
@@ -1315,6 +1316,7 @@ CMakeWrapper,d5fb7624-851a-54ee-a528-d3f3bac0b4a0
 CMake_jll,3f4e10e2-61f2-5801-8945-23b9d642d0e6
 CNNSeq2exp,ca0eaa81-961d-4b24-843c-8575ada746de
 CNPreferences,3e078157-ea10-49d5-bf32-908f777cd46f
+CO2BatchFill,7ea0d275-a78e-480a-8e35-6aa88f365d2b
 COBRA,58298e0b-d05c-52ec-a210-0694647ebfc7
 COBREXA,babc4406-5200-4a30-9033-bf5ae714c842
 COBS,51d40088-776c-571e-837e-515b83a6b6e6
@@ -8070,6 +8072,7 @@ PETScBinaryIO,7d8a6817-b67b-57e2-acac-4a73d125cd6b
 PETSc_jll,8fa3689e-f0b9-5420-9873-adf6ccf46f2d
 PEtab,48d54b35-e43e-4a66-a5a1-dde6b987cf69
 PEtabSelect,6de2f99a-1d3e-11f0-2fac-936eab9aa55b
+PEtabTraining,ed36266e-456b-4f4e-a6d5-e20de27032ad
 PFFRGSolver,11f6c8cf-44ee-44b9-b993-a23edf0823ea
 PGENFiles,bbb59ef6-f40c-4dde-a38e-7e7eb74f31f9
 PGFPlots,3b7a836e-365b-5785-a47d-02c71176b4aa
@@ -9046,6 +9049,7 @@ QRCode,6cfbe66a-a49d-11e9-1842-750d329cfcbb
 QRCoders,f42e9828-16f3-11ed-2883-9126170b272d
 QRDecoders,d4999880-6331-4276-8b7d-7ee1f305cff8
 QRMumps,422b30a1-cc69-4d85-abe7-cc07b540c444
+QRacahSymbols,13c27e9b-5f68-43dc-97e8-482e821abd98
 QRupdate,29d2ae51-7246-454b-9a65-19ff7b2849a5
 QRupdate_ng_jll,c2997458-08a2-5152-82e8-5e3e3871749a
 QRupdatesFast,20ee83fe-e634-4b6c-9f98-3c5eb64c79e6
