@@ -1535,6 +1535,7 @@ CausalSets,2cd3ca5d-4cd6-4e37-88b9-1a897f702e70
 CausalTables,6af48e0c-efc2-4bf7-a92f-a553ccf79fd6
 CausalityTools,5520caf5-2dd7-5c5d-bfcb-a00e56ac49f7
 CausalityToolsBase,b1f25513-c649-51ee-8a1c-0e98d01ae897
+Causifyxion,c7c60c5c-2ec4-4fbb-884a-28bd8a4a87ad
 CavityTools,217fe2f1-7e3d-419f-9934-cd6900c2759a
 CayleyMengerDeterminant,5b98d230-66e3-4a60-a8a7-ae961925db22
 CbaOPF,b09c5755-86bc-4b69-9fb0-eea9d409a5ca
@@ -2211,6 +2212,7 @@ CryptoPRG,d846c407-34c1-46cb-aa27-d51818cc05e2
 CryptoSignatures,35cc5888-0c46-470e-89c7-eafcaf79a1aa
 CryptoUtils,04afed74-ac16-11e9-37b6-1352e3e05830
 CryptographicHashFunctions,59f36028-7e5a-47c1-b5da-23e00bab95ae
+CrystalBase,0ae0509d-b425-412a-aec4-62d47edd1221
 CrystalInfoContainers,0536147b-35f3-46ba-bdca-9c2438f9daa4
 CrystalInfoFramework,6007d9b0-c6b2-11e8-0510-1d10e825f3f1
 CrystalNets,7952bbbe-a946-4118-bea0-081a0932faa9
@@ -2724,6 +2726,7 @@ DiscreteOrderedMedian,749eb255-e7f0-474c-bf5d-cdfd6b01954b
 DiscretePIDs,c1363496-6848-4723-8758-079b737f6baf
 DiscretePOMP,51c0d67e-089d-4725-9e90-d9ba65989b17
 DiscretePersistentHomologyTransform,9598d6b2-89d7-11ea-0bed-b1104e2053b2
+DiscretePolynomialEnsembles,80aba503-207c-4777-976b-9d60a60fc763
 DiscreteValueIteration,4b033969-44f6-5439-a48b-c11fa3648068
 DiscreteVoronoi,01fd5c3e-b3b7-45fb-9d19-e82518019796
 DiscretizeDistributions,1dbf0e27-43cd-4e03-8ecf-3f7be9d12b15
@@ -6556,6 +6559,7 @@ ManifoldsBase,3362f125-f0bb-47a3-aa74-596ffd7ef2fb
 MannKendall,1761a1e1-e032-445b-870e-f3b23132a90a
 Manopt,0fc0a36d-df90-57f3-8f93-d78a9fc72bb5
 ManoptExamples,5b8d5e80-5788-45cb-83d6-5e8f1484217d
+Mantis,45fd81cf-4570-4cb4-b51d-06adeaefc15d
 ManualMemory,d125e4d3-2237-4719-b19c-fa641b8a4667
 ManualNLPModels,30dfa513-9b2f-4fb3-9796-781eabac1617
 ManuscriptOrthography,c7d01213-112e-44c9-bed3-ac95fd3728c7
@@ -9870,6 +9874,7 @@ SEAL_jll,cdf55027-1209-57fc-8789-28745714751d
 SEQ2EXPdata,321b9d11-aa10-4af3-aaad-5d74081bdd4f
 SExpressions,eaa8e424-c5f6-11e8-1b3d-d576ba0eee97
 SF36HealthSurvey,727fe6bb-9b0f-4205-9895-5e3cff32d72d
+SFEModeling,89b22d97-be7f-4761-8b60-7b4b226eb4bd
 SFHWorkflows,9f162cfb-b9f3-4dd2-bb0f-c8f5cc5047ef
 SFML_jll,a867eb61-6e20-512e-ac9f-cfafa65876cc
 SFTPClient,6f0ef2a9-1531-47bc-8c87-f4ce50005508
