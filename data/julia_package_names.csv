@@ -6197,6 +6197,7 @@ LogitSamplers,1b30fcfc-0ee9-4be2-9cfe-b2289b43e041
 Logomaker,3e22dfff-eee4-477b-ac6a-6f7f49e5ccf0
 LokiLogger,51d429d1-9683-4c89-86d7-889f440454ef
 LombScargle,fc60dff9-86e7-5f2f-a8a0-edeadbb75bd9
+LongBridge,d6178d20-a635-452c-a447-f7a195f79261
 LongDatasetSort,3293fb92-4d5f-4840-a675-6a8c3e839d01
 LongMemory,f5f8e4a8-cb56-40ea-a13e-090cc212d358
 LongPort,622b4643-1e26-4658-857c-37e2e088d33f
@@ -8443,6 +8444,7 @@ PicoQuant,2db47837-5a65-4a20-8d0f-8ec2491baa53
 PicoSAT,ff2beb65-d7cd-5ff1-a187-74671133a339
 PicoSAT_jll,e78fa76d-a187-569f-aede-ad11521a2edf
 Picotool,5ec5d1c9-c394-4ef5-850c-f245e78f4765
+PicturaShapes,1e37758b-0744-482d-88c6-a60636b43abc
 Pidfile,fa939f87-e72e-5be4-a000-7fc836dbe307
 Piecewise,f03ddd90-437e-4cf2-8f6c-e62f92609b90
 PiecewiseAffineApprox,029c5f1c-0dc4-4551-8b87-a10b73fe3713
@@ -12485,6 +12487,7 @@ XKCD,4bc7fa8b-4ef2-4643-8c8b-cef036f85839
 XKeyboard,0c8a7d74-93ea-4f23-9ed1-b26578bfdfe6
 XLA_Tools_jll,5debfaa8-cf0e-5577-9f8f-ffadd6421daa
 XLSX,fdbf4ff8-1666-58a4-91e7-1b58723a45e0
+XLSXDecrypt,e3fae58b-f948-45ca-982d-29fa61c37f2f
 XLSXasJSON,8c9e00cc-ccf1-11e8-3de6-5b028f480d9e
 XML,72c71f33-b9b6-44de-8c94-c961784809e2
 XML2_jll,02c8fc9c-b97f-50b9-bbe4-9be30ff0a78a
