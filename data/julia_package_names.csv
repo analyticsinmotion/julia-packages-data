@@ -2867,6 +2867,7 @@ DrawingDim,3b4f1277-4f84-48a8-a8ec-5e08d2f3a5e9
 DrelTools,fc805444-c5ec-4e06-bf74-6216be16ab28
 Drifters,bd752fb7-3f37-44cb-a8fb-f461137b623f
 DrillHoles,9d36f3b5-8124-4f7e-bcda-df733105c718
+DrillInterface,d92b6104-cdd8-4875-a041-bad43500bca7
 DrillMudsThermalProps,353a8573-383f-4727-b0e9-478950a5ec11
 DroneSurveillance,63556450-714a-11e9-08e1-e368b701e279
 DropboxSDK,bfd8ad24-ccb0-5e6a-9bd1-fc4bec713fae
@@ -8228,6 +8229,7 @@ ParameterJuMP,774612a8-9878-5177-865a-ca53ae2495f9
 ParameterSchedulers,d7d3b36b-41b8-4d0d-a2bf-768c6151755e
 ParameterSpace,1cbe449d-ba56-45e5-b823-2aefb7650dd9
 ParameterSpacePartitions,64931d76-8770-46b0-8423-0a5d3a7d2d72
+ParameterSweeps,29431ea6-eff6-4a7e-ba43-0bbe931263bf
 ParameterTests,8eb61621-d5fd-4192-a1eb-e9414570b645
 ParameterisedModule,d16e510f-c236-4b74-8eb3-5d2ec9a3ec6e
 ParameterizedFunctions,65888b18-ceab-5e60-b2b9-181511a3b968
