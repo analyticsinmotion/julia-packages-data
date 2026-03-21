@@ -4778,6 +4778,7 @@ HeteroPCA,77aa4d34-f7f4-424a-adb3-974963498de9
 HeterogeneousComputing,2182be2a-124f-4a91-8389-f06db5907a21
 HeuristicOptimizers,de832154-0e71-40a9-a3ad-2166d2d73fc5
 Heuristics,6acb60cf-2fd4-4316-b77c-a68f9bfdd616
+HexFITS,1465c6e1-1cbb-424f-a4d4-267027409048
 HexIO,53d494c1-5632-5724-8f4c-31dff12d585e
 Hexagons,a1b4810d-1bce-5fbd-ac56-80944d57a21f
 HiGHS,87dc4568-4c63-4d18-b0c0-bb2238e4078b
@@ -6405,6 +6406,7 @@ MLMolGraph,95df4b36-cca9-11eb-b8bc-0242ac130003
 MLStyle,d8e11817-5142-5d16-987a-aa16d5891078
 MLSuite,fd36aebc-0777-11ea-1be3-eb1bdc5c01e1
 MLSuiteBase,d01462b0-16b5-11ea-1c8e-eb7ed7586854
+MLThermoProperties,5b10a24f-5c48-4ecd-8f3d-34970e95074b
 MLUtils,f1d291b0-491e-4a28-83b9-f70985020b54
 MLX_C_jll,6073304d-8c11-559f-8a83-5ce24a08dcab
 MLX_jll,f64cf55a-5a53-5b8c-8e0c-ce6c538bc415
@@ -7314,6 +7316,7 @@ NNFEM,9fbee185-08cf-5df3-934a-20f446aa0bf6
 NNHelferlein,b9e938e5-d80d-48a2-bb0e-6649b4a98aeb
 NNPACK_jll,a6bfbf70-4841-5cb9-aa18-3a8ad3c413ee
 NNParamsPrinter,1ce897a9-95c2-40e1-99fc-436ddf268509
+NNkernels,1409a70c-e4a7-4ad8-be19-f498502441cf
 NNlib,872c559c-99b0-510c-b3b7-b6c96a88d5cd
 NNlibCUDA,a00861dc-f156-4864-bf3c-e6376f28a68d
 NODAL,44063525-382a-5b84-b7ca-976d099b8647
@@ -11090,6 +11093,7 @@ StructuralDynamicsODESolvers,5837384c-0389-41f0-a8dd-204a40e5dede
 StructuralEquationModels,383ca8c5-e4ff-4104-b0a9-f7b279deed53
 StructuralIdentifiability,220ca800-aa68-49bb-acd8-6037fa93a544
 StructuralInheritance,eb3e9d2b-04dc-54b3-9584-49775b812a39
+StructuralSearchModels,3afe5679-3dae-4b7a-af0e-821cb371ddf8
 StructuralUnits,ec81c399-378c-4a82-baa1-80fb2fc85b6c
 StructuralVibration,85cedecc-ec67-4717-8ef3-ce3f1b8dc459
 StructureFunctions,e93fee26-4d5e-49c1-899d-490508cfd19b
@@ -12508,6 +12512,7 @@ XPA_jll,9dbca590-e19a-5566-89a8-3997bfd21c58
 XPORTA,8c143463-af6f-456f-8aed-72447cb569d2
 XPalm,6b523e1e-d512-416c-8e51-a8fbef0064e7
 XRT,4d396880-2e3f-4be1-8c36-e87777010d00
+XRationals,f354a88b-0804-406d-a35b-636616acac82
 XRayQuadrics,06f10efd-d23e-4080-b4cc-94b4a1650570
 XRootD,164e3b87-dc46-4cbc-97a6-5b310108fce0
 XRootD_cxxwrap_jll,bb14ce0c-f071-543a-8ca1-cd3dc3e29ed0
@@ -12887,6 +12892,7 @@ gperf_jll,1a1c6b14-54f6-533d-8383-74cd7377aa70
 gperftools_jll,c8ae51e6-ca1b-5cf7-8aa4-ff5973bfb1e4
 grep_jll,47013893-54eb-5c9c-83b4-9a24496ece36
 gsasl_jll,2e8251e1-4612-5cea-b4a3-ba3e3b422b6d
+hackrf_jll,c61eafdd-7b6a-5b25-afd2-541b5c32cc1b
 helpme_jll,f33c8c47-f3e6-5e52-bf5f-5eacb4024144
 hicolor_icon_theme_jll,059c91fe-1bad-52ad-bddd-f7b78713c282
 hidapi_jll,fc16ec7e-3cba-5ca4-a17a-1acd8165bbee
