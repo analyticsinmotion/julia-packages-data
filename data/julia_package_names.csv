@@ -1716,6 +1716,7 @@ ClapeyronHANNA,3f3167c7-7596-4199-a8f8-b0e6cfdc2746
 Clarabel,61c947e1-3e6d-4ee4-985a-eec8c727bd6e
 ClassImbalance,04a18a73-7590-580c-b363-eeca0919eb2a
 Classes,1a9c1350-211b-5766-99cd-4544d885a0d1
+ClassicControlEnvironments,a1069ede-d5f9-41a5-87b2-adf4ef867b86
 ClassicalCiphers,ecf26e93-935c-5e64-9b21-bc8ac81b4723
 ClassicalOrthogonalPolynomials,b30e2e7b-c4ee-47da-9d5f-2c5c27239acd
 Claude,a00ee857-659a-4bd1-adc3-7f1f48b9fe16
@@ -7123,6 +7124,7 @@ MriResearchTools,557dad86-b9bd-4533-8525-1a39684d020f
 MsgPack,99f44e22-a591-53d1-9472-aa23ef4bd671
 MshReader,64cd2da2-d71d-431a-81e3-4cf84ef169dd
 MuJoCo,1c101251-5e0f-4746-b44c-0728d433b68a
+MuJoCoEnvironments,21ab680e-8976-4604-9445-b09bf8035a21
 MuJoCo_jll,32af7c3b-80ec-5621-8194-2f6cb2280831
 MuSink,9311f4a3-d431-4665-b35d-8d2edcf6b88a
 MuTuner,206a444d-62d4-4bef-89ca-f2a4a27f2209
@@ -8258,6 +8260,7 @@ ParametrisedConvexApproximators,668502ff-1e8f-42bf-95c7-24f1e819f537
 Parametron,41fac6d6-0ffa-5bcc-b863-17dd4947be41
 Paraml,0a452357-00e2-49ec-9da5-12084d27edbc
 Pardiso,46dd5b70-b6fb-5a00-ae2d-e8fea33afaf2
+ParetoEnsembles,5a671d39-efd4-4f73-b77d-a08726cdc8b7
 ParetoRecipes,71a409db-0c41-4225-8938-aaf295661ce5
 ParetoSmooth,a68b5a21-f429-434e-8bfa-46b447300aac
 ParetoSmoothedImportanceSampling,98f080ec-61e2-11eb-1c7b-31ea1097256f
@@ -8663,6 +8666,7 @@ Poltergeist,89210da2-f0be-5ef8-ba65-10393cce509d
 PolyBranch,3c307872-14e4-494b-abb3-fed68641e9b4
 PolyChaos,8d666b04-775d-5f6e-b778-5ac7c70f65a3
 PolyDAQP,be5c70c9-e47a-4559-82a9-cba980583202
+PolyHarmonicTrigTransforms,c853eca7-4467-4dac-871a-88cef1644acc
 PolyJuMP,ddf597a6-d67e-5340-b84c-e37d84115374
 PolyLog,85e3b03c-9856-11eb-0374-4dc1f8670e7f
 PolyOCP,486de887-2d28-4133-b065-860be2a859fb
@@ -10658,6 +10662,7 @@ SortingNetworks,07e3d4f1-5dc2-5a3a-9c19-e1965b76eff9
 Soss,8ce77f84-9b61-11e8-39ff-d17a774bf41c
 SossMLJ,cf2dc0df-ab57-42da-b773-28c60db69bd5
 Sound,afe32e48-2646-410f-a1df-ae97debbc86b
+SoundIO,f47ac10b-58cc-4372-a567-0e02b2c3d479
 Soup3_jll,fcd1aa73-243d-5665-acf3-2a5a4322c7a8
 SourceCodeMcCormick,a7283dc5-4ecf-47fb-a95b-1412723fc960
 SourceWalk,2987fe4f-acca-4bd1-87ee-98b3d562f1a1
