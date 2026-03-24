@@ -5848,6 +5848,7 @@ LatinSyntax,48187f9f-78ff-4060-b31e-d855612fbaec
 Lattice2D,e8031020-b7ff-4f1d-bee4-f79aea4cf140
 LatticeAnimals,8faeb6a4-9048-4507-b81f-6dcc9b8256f0
 LatticeDiracOperators,019239df-b0e3-486e-8e4c-d1c29ee5d6b9
+LatticeMaker,ce2437d6-9709-47f6-b5a7-5bf524fd8b96
 LatticeMatrices,dd6a91e4-736f-4540-ac85-13822ca7b545
 LatticeModels,3c3db7f8-440c-4375-905c-1a18b5307bed
 LatticeQCD,8a12f9b3-8daf-4285-9aa6-f1d88d857ae8
@@ -10625,6 +10626,7 @@ SoilWater_ToolBox,374a444c-c624-4b44-9de1-37c0fe7c6d41
 SolarEnergeticParticle,c65597a0-fc8f-4fb5-9f0a-4e6244d82c46
 SolarGeometry,4c2ee4bc-ae8c-4f43-b820-7df96744ebfe
 SolarPosition,5b9d1343-a731-5a90-8730-7bf8d89bf3eb
+SolarSINDy,e7a3c1d2-5f8b-4a9e-b6c0-3d2e1f4a8b7c
 Solaris,c31bc6c7-79d6-424e-a85f-5b42ee086500
 Solcast,316e074d-b47d-40a7-868b-1b027d6a4e76
 Sole,7b3b3b3f-8b15-4a80-a798-b383498bc2cf
@@ -12629,6 +12631,7 @@ YOLOv7,a9523b4b-60f2-4b05-86a8-33bf953359c5
 YYJSON,dad5a794-77f7-4556-b071-d80a9747599c
 Yagami,6c1512a5-7034-4c39-b54a-f9774b92869c
 YahooFinance,71b753c1-733f-4418-b8b2-c1bb484780f7
+YamDB,3738f2fa-2244-4e2d-ac48-d4c5041abf79
 Yao,5872b779-8223-5990-8dd0-5abbb0748c8c
 YaoAPI,0843a435-28de-4971-9e8b-a9641b2983a8
 YaoArrayRegister,e600142f-9330-5003-8abb-0ebd767abc51
