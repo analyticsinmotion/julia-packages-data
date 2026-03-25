@@ -2812,6 +2812,7 @@ DocumentationGenerator,8f0d3306-d70b-5309-b898-24bb6ab47850
 DocumentationOverview,fd22d563-a49f-4a45-896b-231dbcd7c5a0
 Documenter,e30172f5-a6a5-5a46-863b-614d45cd2de4
 DocumenterCitations,daee34ce-89f3-4625-b898-19384cb65244
+DocumenterCopyButton,e492c155-30e5-4d09-a3ac-117479612e06
 DocumenterDescriptions,e9159221-f9c0-48a0-ba53-9ba151c71a1d
 DocumenterDiagrams,a106ebf2-4182-4cba-90d4-44cd3cc36e85
 DocumenterDocset,6c6aa8a8-7996-49c7-bb42-8bcee6cacab7
@@ -2983,6 +2984,7 @@ ELFIO_jll,2133ec9d-2300-5c3e-b0d9-ae6a10eb43df
 EMIRT,8acf8dda-514d-5c36-9488-7e3496cf596e
 EMpht,0ca9fa26-8833-11e9-3415-832a08817e5a
 EOptInterface,96d9f51d-8c41-4e2d-b1a3-7b48dea3ddd1
+EPANET_jll,77163387-e0fe-59b0-9b78-8c1fbc54efca
 EPGsim,b6a82cc1-40c9-4006-90b7-9176002c0410
 EPOCHInput,691e61f8-6502-44a1-a143-5276a0aa0dc4
 EQDSKReader,0d45e213-aaf5-468d-97e2-5d9984e6e107
@@ -7225,6 +7227,7 @@ MusicProcessing,32bb9398-a9ad-408c-b137-8304ef5cbed9
 MusicTheory,564e61e1-4667-41b2-a4a2-754a0240c775
 MusicVisualizations,8e838768-4b4f-4130-9d6d-43f7b35ca0d6
 MusicXML,521615e9-e573-4eb2-bc7e-702d55c0bb95
+Musica_jll,f5e5459d-1a87-5129-97d9-bab22ca84fbb
 Musl_jll,3490aa6f-05e0-5d3a-9648-5b0c647c155f
 Muspel,6074595b-091a-495a-9b39-045a690b2c53
 Mustache,ffc61752-8dc7-55ee-8c37-f3e9cdd09e70
