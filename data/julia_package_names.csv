@@ -1279,6 +1279,7 @@ CGAL,15fcbb24-5a00-427b-98c5-e32879a22884
 CGAL_jll,8fcd9439-76b0-55f4-a525-bad0597c05d8
 CGNS_jll,5232ba32-63ef-5a57-8e6a-e52ba13cfec0
 CGcoefficient,c862aa61-d51e-47d1-b396-b1e789b4e0b6
+CHGNetInterface,ed376acd-e979-4125-b637-573100a4d0f2
 CHICKEN_jll,ba656ed8-6435-5caa-83e6-1e677deaf2de
 CHMMAIRRa,d8677c85-7479-426e-842e-70dedf0c4b34
 CHMMera,4c20a592-b4de-41d1-8706-b02f346981aa
@@ -1924,6 +1925,7 @@ CompAir,4888ff1c-74b1-49c5-b7ba-2d54c6dc65c5
 CompEcon,1375f997-1772-542d-b6fa-a8ee39124556
 CompHENS,873a7a81-90fd-4468-8feb-46a7ba58f008
 CompScienceMeshes,3e66a162-7b8c-5da0-b8f8-124ecd2c3ae1
+CompSense,fc9ab54f-05c8-490d-b2ab-7595dd5cd9b2
 CompTime,0fb5dd42-039a-4ca4-a1d7-89a96eae6d39
 CompactBases,2c0377a8-7469-4ebd-be0f-82e501f20078
 CompactBasisFunctions,a09551c4-f815-4143-809e-dd1986753ba7
@@ -2562,6 +2564,7 @@ DensityRatioEstimation,ab46fb84-d57c-11e9-2f65-6f72e4a7229f
 DensityScatter,0c88c325-9891-4b47-8316-abdfe8381675
 Denumpyfy,cecfa166-9fdc-475c-9ab0-5678dea9d294
 DependenciesParser,074bffb8-faa7-59ba-9894-a592f955b684
+DependencyAtlas,4fd80dc0-1456-4cb8-b66a-f1af47e41f08
 DependencyTrees,9ae0eaca-57f6-5d9a-9b02-4a09e011bd92
 DependencyWalker,7db386b5-e858-4964-8eb4-2fa66f8df882
 DependentBootstrap,191d1da1-0f37-5779-b8ea-a655caa0c150
@@ -4293,6 +4296,7 @@ GeoEnergyIO,3b1dd628-313a-45bb-9d8d-8f3c48dcb5d4
 GeoEstimation,a4aa24f8-9f24-4d1a-b848-66d123bfa54d
 GeoExplorer,386f1b4b-9a3d-4ef9-97c4-2a0480d4a57f
 GeoFormatTypes,68eda718-8dee-11e9-39e7-89f7f65f511f
+GeoGmsh,6f0d8a70-7550-4fa5-a91d-b527153fa687
 GeoGreensFunctions,1bc39cc2-b9cd-470c-972b-2e3fb46182c5
 GeoGrids,22c7c615-cf67-4787-b800-cc81b4f1a63f
 GeoIO,f5a160d5-e41d-4189-8b61-d57781c419e3
@@ -6272,6 +6276,7 @@ LyoPronto,86014da0-a5b3-40a4-ad76-3e66dfc3e269
 Lyra,ffbea66a-397b-416b-b21c-0d4295c18fac
 Lz4_jll,5ced341a-0733-55b8-9ab6-a4889d929147
 M4_jll,9051c120-a745-5e86-aaa7-8cbc404dba28
+MACEInterface,702af922-8fe5-4898-93bf-1d716fce3ecb
 MACEModels,29bafc4c-4f38-420f-a153-8a5a5e0bd5f6
 MAFFT_jll,72a4bdf2-be5e-5c84-b157-f1dc2927f791
 MAGEMinApp,3bfd43b6-b983-4998-9dd6-d5d715d830b7
@@ -11748,6 +11753,7 @@ ToricAtiyahBott,72dfc14a-8332-4639-b9f3-8b017b604ecf
 Tortuosity,80bb5c7f-3561-4bbc-a7c3-5e29a4cab6cc
 TotalLeastSquares,028f657a-7ace-5159-a694-8cfd97933b0c
 TotalVariation,00d00faa-c8f6-542a-bba9-9987f051d897
+TotalVariationImageFiltering,a85ae5a6-60df-4598-b867-d7e55d5c417d
 Touchstone,af4736ee-1570-4274-b14c-898d17d80b75
 TouchstoneParser,b369b07b-dee1-4342-88e3-29a776361291
 Tower,965ce0a6-fda6-11e9-2ec6-215e9e726cc7
@@ -12254,6 +12260,7 @@ VisClaw,d5c85fe6-8620-4d3a-96f0-ac478d4f5d38
 ViscousFlow,103da179-b3e4-57c1-99a4-586354eb2c5a
 Vision,9150dba0-62ab-4b8c-b7d2-25a0d6dd685f
 VisionHeatmaps,27106da1-f8bc-4ca8-8c66-9b8289f1e035
+VisionTransformers,00959321-334e-493b-bd7c-cca5aa241a1b
 Visor,cf786855-3531-4b86-ba6e-3e33dce7dcdb
 VisualDL,98ad42d3-8ce6-553d-ae41-509bd26b5557
 VisualDiff,a4e6b4e8-4b97-4be9-afa4-72a10a6a8f69
@@ -12380,6 +12387,7 @@ WebP,e3aaa7dc-3e4b-44e0-be63-ffb868ccd7c1
 WebSession,73909f5d-5828-4c22-bf39-7339a58e168d
 WebSockets,104b5d7c-a370-577a-8038-80a2059c5097
 WebToys,f67adaa7-c0cb-55cd-ba19-4b9b797b00eb
+WeberElectrodynamics,b7b438b0-8b51-4018-ba50-da6ecf296240
 Webviews,b7e775b7-052a-4229-9250-fe08ae90f9c6
 WeibullParetoDist,efcb490d-de09-481a-82de-9e1304d0eed4
 WeightInitializers,d49dbf32-c5c2-4618-8acc-27bb2598ef2d
