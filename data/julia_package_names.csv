@@ -1198,6 +1198,7 @@ BrillouinZoneMeshes,9f696214-9961-49f3-89a2-cb1ea204eb6e
 BritishNationalGrid,07503c7f-9676-5157-a8e2-6c0d0a9caee7
 BrkgaMpIpr,028a27d2-de01-11e8-146d-d556803d83ae
 BroadLineRegions,0ba2ffe9-29ae-4dc1-9466-6a4b513121e6
+BroadbandBPM,f91b385c-3ede-44c9-92c8-2a04f762ef2f
 BrokenRecord,bdd55f5b-6e67-4da1-a080-6086e55655a0
 BrownDriverBriggs,ed877a0f-8e86-4599-984a-df81107104eb
 BrowseTables,5f4fecfd-7eb0-5078-b7f6-ad1f2563c22a
@@ -3094,6 +3095,7 @@ ElectricFields,2f84ce32-9bb1-11e8-0d9f-3dce90a4beca
 ElectricGrid,d6749236-802c-4af3-9b09-2fcebf7269d7
 ElectricWires,a6e744fb-b06e-4c79-977f-74d170207450
 ElectricalEngineering,84e62fa8-74a0-5990-9214-c45bd74ae4d7
+ElectricityNetworkReduction,8d6c9889-004b-5ffc-a588-babdd84958c6
 ElectroMechanicsFEM,3e3237d9-63df-4510-8634-5aa762e77746
 ElectroPhysiology,da7a9670-f599-43ac-b818-143f8bf87d45
 ElectrochemicalKinetics,a2c6e634-85ca-418a-9c67-9b5417ce2d04
@@ -3157,6 +3159,7 @@ EnergyModelsCO2,84b3f4d7-d799-4a5d-b06c-25c90dcfcad7
 EnergyModelsCompliance,a12c78df-351d-47be-9a81-17a33aab13b1
 EnergyModelsFlex,a81b9388-333d-4b63-81f2-910b060b544c
 EnergyModelsGUI,737a7361-d3b7-40e9-b1ac-59bee4c5ea2d
+EnergyModelsGasNetworks,3f775d88-a4da-46c4-a2cc-aa9f16db6707
 EnergyModelsGeography,3f775d88-a4da-46c4-a2cc-aa9f16db6708
 EnergyModelsHeat,ad1b8b27-e232-4da9-b498-bea9c19a30d7
 EnergyModelsHydrogen,44855f8b-b147-4985-ac18-48817d03c548
@@ -3786,6 +3789,7 @@ FlowWorkspace,93705cf0-0d0c-4207-9085-aa3a02725bf0
 Flowfusion,5b4e93c8-7b6e-4682-b400-fc3b238f52b1
 Flowstar,a8054ddd-9dca-4d20-8ffe-ae96ec1541f1
 Flowstar_jll,857d554b-2109-5851-8b71-fc429cd15c15
+FluorescenceCorrelationFitting,4b8222f9-91d6-4fc3-8988-c3d342909eae
 FluorescentSeries,68ab7a74-b89c-58c4-90e0-a4e17bbb69bc
 Flux,587475ba-b771-5e3f-ad9e-33799f191a9c
 Flux2Lux,ab51a4a6-c8c3-4b1f-af31-4b52a21037df
