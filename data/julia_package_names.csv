@@ -9810,6 +9810,7 @@ RoundingIntegers,d5f540fe-1c90-5db3-b776-2e2f362d9394
 RowEchelon,af85af4c-bcd5-5d23-b03a-a909639aa875
 Rscape_jll,c8f3e4f4-dc8a-5e75-8464-d1f1be3e8be2
 Rsvg,c4c386cf-5103-5370-be45-f3a111cca3b8
+RuizEquilibration,4e3fa5aa-00ae-463a-a120-6d723684915b
 RuleMiner,26420b10-3f9f-4b54-bd85-e6b3d5a44d3c
 Run,e7132d5a-96e2-11e9-15da-db8a129aaaf8
 RunBinary,29c08b6a-42b0-4a71-84c9-d93be35dae53
@@ -10609,6 +10610,7 @@ SnpParser,88f658c2-9c57-4237-8ba3-7a1a0c23f65a
 SoEwald2D,0daaa638-a47d-40d8-b855-b9e525a61752
 SoXResampler_jll,fbe68eb6-6641-54c6-99e3-f7c7c4d73a57
 SoapyBladeRF_jll,80aee790-0d4a-5951-bcd6-30e0bbfe317a
+SoapyHackRF_jll,b2adfde3-587a-5e1b-918b-4f590a6d5faa
 SoapyLMS7_jll,e7ed14a0-13eb-5dc7-93e2-6133b2eb8bed
 SoapyLiteXM2SDR_jll,78637076-15f0-5053-8c59-c1671873564b
 SoapyLoopback_jll,8d250ce8-a086-56bd-8a36-e4e8f4202680
@@ -11939,6 +11941,7 @@ Twiddle,7200193e-83a8-5a55-b20d-5d36d44a0795
 TwilioSMS,a2c60971-6a69-4bc9-a5fb-2e7d30160e17
 TwiliteTimeline,e840c479-728b-4aa1-8e51-d6f149480f58
 TwinCopulas,324e1790-ee0a-4954-b7e4-a383d36b0fd7
+TwistedBoundaryConditions,2af597a4-5342-44f0-9c3f-26623f0804b1
 Twistronics,e64eaefb-b7d3-45fb-a1e6-d686d91076ba
 Twitch,784df20b-8885-49bf-9cd9-555b1fa67e21
 Twitter,92393bbf-ba23-5323-a3fa-fbe1e5f35af8
@@ -12869,6 +12872,7 @@ exprtk_jll,dc4c4521-5b7f-5177-bcb8-53f895501e5d
 extxyz_jll,6ecdc6fc-93a8-5528-aee3-ac7ae1c60be7
 f4ncgb_jll,160f184c-7e1a-5d95-af1f-70d62a450302
 fakechroot_jll,0d1115f3-e42e-5952-a93b-f179746a6ed7
+fast_float_jll,3e47ebc0-1a57-5d97-8531-bb9677ddea26
 fastlowess_jll,7381d214-3001-5784-8d9a-8eb8e8688076
 fastp_jll,cdb18c6f-09f1-5f87-ba27-801070dd1989
 faust_jll,ee02ff01-307c-5f43-b4c2-04ffc4645b0f
