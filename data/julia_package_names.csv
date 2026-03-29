@@ -1931,6 +1931,7 @@ CompTime,0fb5dd42-039a-4ca4-a1d7-89a96eae6d39
 CompactBases,2c0377a8-7469-4ebd-be0f-82e501f20078
 CompactBasisFunctions,a09551c4-f815-4143-809e-dd1986753ba7
 ComparatorNetworks,cbee9254-2197-4c11-8b22-effda389bb24
+CompariMotif,aecef331-8c7a-44c4-b913-ba8debb6e116
 Compat,34da2185-b29b-5c13-b0c7-acf172513d20
 CompatDevTools,732b9ffd-ba4a-45cb-82b2-a390f71ea5ac
 CompatEntryUtilities,8be7a408-1a4a-465c-8be3-3898d13eb8a5
@@ -3947,6 +3948,7 @@ FunctionalModels,c42448f0-9baa-11eb-2295-650722d739d2
 FunctionalStateMachine,3e9e306e-7e3c-11e9-12d2-8f8f67a2f951
 FunctionalTables,19188cdf-3410-574e-a556-e73fa9e4281b
 Functors,d9f16b24-f501-4c13-a1f2-28368ffc5196
+FundamentalFrequencies,33907ca8-b329-4b9f-877b-c71d0f37dbeb
 FundamentalsNumericalComputation,e48b7b93-d2a8-4750-aba7-f743ccd5256c
 FunnyORM,6f72f9d7-811b-4da6-baae-56a3a3823ad6
 FuseApi,67451fab-d9b0-4aa1-a584-3691f4a673db
@@ -5215,6 +5217,7 @@ IntegralsCuba,e00cd5f1-6337-4131-8b37-28b2fe4cd6cb
 IntegralsCubature,c31f79ba-6e32-46d4-a52f-182a8ac42a54
 IntegratedOptics,c28080c6-85c9-4c53-b771-a8cba179d15c
 IntegratedOscillatorModel,4a86908f-de09-412e-b134-eda2b762bb2a
+IntegrationInterface,03ca86a4-b7cd-4b10-a38f-d7a84f40de1e
 IntegrationTests,6be7cfa2-1838-408e-bc49-3a824ac3a1fb
 IntelGEMM,46a1a280-e6c3-11e9-0321-d12035ae5ac9
 IntelITT,c9b2f978-7543-4802-ae44-75068f23ee64
@@ -11028,6 +11031,8 @@ StochasticAD,e4facb34-4f7e-4bec-b153-e122c37934ac
 StochasticBlockModel,e022115e-0a72-11ea-0a57-4fc90b22dc23
 StochasticDelayDiffEq,29a0d76e-afc8-11e9-03a4-eda52ae4b960
 StochasticDiffEq,789caeaf-c7a9-5a7d-9973-96adeb23e2a0
+StochasticDiffEqCore,19c5a474-6cd1-4a5f-be79-46dc34e54d7f
+StochasticDiffEqLevyArea,90dbc90e-856a-4131-af2c-e8c5aa0f35b5
 StochasticDominance,8041b248-d9a2-49d2-9c7f-91ddf745d052
 StochasticGene,a2598c62-e771-4eb8-9887-959a94ab00ef
 StochasticGroundMotionSimulation,b8c06d6b-f458-43ac-b37a-3e779b88779f
