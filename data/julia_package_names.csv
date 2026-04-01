@@ -3511,6 +3511,7 @@ FastBEAST,3fccbda2-992b-41a0-8fae-2b833e1e73d8
 FastBroadcast,7034ab61-46d4-4ed7-9d0f-46aef9175898
 FastCDR_jll,4c445503-5c2d-5ebd-97f6-9e823778a91e
 FastCGI,e8c3bf11-b54e-5fcf-8bd0-49e7696ff13f
+FastCUDASSIM,9bfbc2e6-55ab-4199-a6e3-cd4a60ef255b
 FastChebInterp,cf66c380-9a80-432c-aff8-4f9c79c0bdde
 FastCholesky,2d5283b6-8564-42b6-bb00-83ed8e915756
 FastClosures,9aa1b823-49e4-5ca5-8b0f-3971ec8bab6a
@@ -9221,6 +9222,7 @@ QuantumCircuits,ad924a34-1f3f-4025-ae82-e16b6f8ddf61
 QuantumCitations,259add83-af3e-4603-9706-50e341d5574e
 QuantumClifford,0525e862-1e90-11e9-3e4d-1b39d7109de1
 QuantumCliffordPlots,4eeed724-23be-436c-a322-a8540588cc9f
+QuantumClusterTheories,097857cb-d914-4df9-ba6d-e02fb595fe10
 QuantumCollocation,0dc23a59-5ffb-49af-b6bd-932a8ae77adf
 QuantumCollocationCore,2b384925-53cb-4042-a8d2-6faa627467e1
 QuantumControl,8a270532-f23f-47a8-83a9-b33d10cad486
@@ -11041,7 +11043,16 @@ StochasticBlockModel,e022115e-0a72-11ea-0a57-4fc90b22dc23
 StochasticDelayDiffEq,29a0d76e-afc8-11e9-03a4-eda52ae4b960
 StochasticDiffEq,789caeaf-c7a9-5a7d-9973-96adeb23e2a0
 StochasticDiffEqCore,19c5a474-6cd1-4a5f-be79-46dc34e54d7f
+StochasticDiffEqHighOrder,0520c28c-50fd-4d16-9c96-902fc80b3bab
+StochasticDiffEqIIF,ebf54054-c36b-4494-9aba-657e36df524f
+StochasticDiffEqImplicit,5080b986-4c76-4669-b5dc-373a41579d5b
+StochasticDiffEqLeaping,aefaaa88-39f2-4e89-b162-d61b7e8cc81b
 StochasticDiffEqLevyArea,90dbc90e-856a-4131-af2c-e8c5aa0f35b5
+StochasticDiffEqLowOrder,d15fe365-ce7f-450a-828a-7985bd5b681b
+StochasticDiffEqMilstein,8c95a807-c8e7-4581-8419-890d001af53e
+StochasticDiffEqROCK,db241ea8-0e6b-4abc-8f2d-1adff2294fd9
+StochasticDiffEqRODE,49714585-0aa1-4f53-b1e6-a9b8c0d5e03f
+StochasticDiffEqWeak,af2a2fcd-1c36-4cbe-a6d0-5afda784a085
 StochasticDominance,8041b248-d9a2-49d2-9c7f-91ddf745d052
 StochasticGene,a2598c62-e771-4eb8-9887-959a94ab00ef
 StochasticGroundMotionSimulation,b8c06d6b-f458-43ac-b37a-3e779b88779f
@@ -12368,6 +12379,7 @@ WaspNet,c0b53cd3-4946-4106-b8e7-91971464ade9
 WatchJuliaBurn,952999c0-2bc0-44cb-b633-dc1e299b187b
 WaterFlows,26b386a0-5622-11e9-3ee7-f1bbe84c80da
 WaterLily,ed894a53-35f9-47f1-b17f-85db9237eebd
+WaterLilyMeshBodies,634e6054-d510-4276-b3a3-6481ab5b18dc
 WaterModels,7c60b362-08f4-5b14-8680-cd67a3e18348
 WaterPhysics,20dd5ee6-61da-454b-ac5d-c09c2977e03a
 WaterWaves1D,1a68f91a-d9eb-11e8-2e16-69ad0016fc96
@@ -12912,6 +12924,7 @@ gat_jll,b88765aa-e0a2-5b02-b897-840ea4e6307e
 gawk_jll,054acbdd-7fbc-53f6-b51a-0fe4f8189fb8
 gb_jll,006bdf2e-00d8-555c-bee2-993406487cbf
 gdk_pixbuf_jll,da03df04-f53b-5353-a52f-6a8b0620ced0
+gdx_jll,aa021fa7-5c7d-5dc1-9fa7-c90cd282ac20
 gecko_jll,32aead09-57ab-5c70-a47a-e7c5b594f489
 geoarrow_c_jll,77d2fadc-a494-5d8f-9ad4-41084f776bc1
 gflags_jll,705dcc9d-86a1-50d2-892e-91b5af3191b8
