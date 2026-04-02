@@ -1813,6 +1813,7 @@ ClusterAnalysis,10587292-549a-4141-aed9-b9dca56acf27
 ClusterDepth,c8d8bbfa-f476-4995-adff-2987f04015d1
 ClusterEnsembles,e493a4bf-88d6-40ad-84dc-847a9b000e38
 ClusterManagers,34f1f09b-3a8b-5176-ab39-66d58a4d544e
+ClusterPermutationTests,e3bc594e-7e39-4b61-be5a-4b8b3e7ff14e
 ClusterRunner,3325b298-19c5-4432-bbc2-e7898443f212
 ClusterTrees,5100927d-02aa-593a-b4f9-7235df19f0db
 ClusterUtils,651d1c28-5f8d-4b26-91d9-468bf8b4a262
@@ -5927,6 +5928,7 @@ Lebedev,c5712dd9-2571-4e23-b661-b4a261421493
 Lectionary,6244d477-9cf0-4e07-8f6b-f8ee26bc0292
 LeftChildRightSiblingTrees,1d6d02ad-be62-4b6b-8a6d-2f90e265016e
 LegacyStrings,1b4a561d-cfcb-5daf-8433-43fcf8b4bea3
+Legate,1238f2cf-6593-4d60-9aca-2f5364e49909
 LegatePreferences,8028f36a-2b64-49e9-aa04-2d0933fd2ed9
 LegendrePolynomials,3db4a2ba-fc88-11e8-3e01-49c72059a882
 LegibleLambdas,f1f30506-32fe-5131-bd72-7c197988f9e5
@@ -7183,6 +7185,7 @@ MultiModalMuSig,a66acb62-5df1-561a-8400-71bc98699397
 MultiObjectiveAlgorithms,0327d340-17cd-11ea-3e99-2fd5d98cecda
 MultiOrbitalTightBinding,d871067b-d151-416a-b662-b20fedbe94b9
 MultiPrecisionArrays,e0585029-f0fd-471c-997a-b805c9f71f28
+MultiProgressManagers,cc0c738e-a464-4ba6-84fc-30e2ce8f9d3d
 MultiQuad,8fca5bbe-a785-4bb7-9793-c0c8ddca5d4b
 MultiQuantityGPs,f6349cb8-2139-4a62-bb23-95f1cd2c4c3a
 MultiResolutionIterators,396aa475-d5af-5b65-8c11-5c82e21b2380
@@ -9095,6 +9098,7 @@ QRCode,6cfbe66a-a49d-11e9-1842-750d329cfcbb
 QRCoders,f42e9828-16f3-11ed-2883-9126170b272d
 QRDecoders,d4999880-6331-4276-8b7d-7ee1f305cff8
 QRMumps,422b30a1-cc69-4d85-abe7-cc07b540c444
+QRStudio,6020892f-701e-4efe-8b55-f26b30257e50
 QRacahSymbols,13c27e9b-5f68-43dc-97e8-482e821abd98
 QRupdate,29d2ae51-7246-454b-9a65-19ff7b2849a5
 QRupdate_ng_jll,c2997458-08a2-5152-82e8-5e3e3871749a
@@ -10087,6 +10091,7 @@ SampleChainsAbstractMCMC,e3df14af-082c-4778-8c88-0319331ee7b3
 SampleChainsDynamicHMC,6d9fd711-e8b2-4778-9c70-c1dfb499d4c4
 SampledSignals,bd7594eb-a658-542f-9e75-4c4d8908c167
 SampledVectors,35248bf2-58a5-46a0-9b1d-c0a73a50a103
+SamplesCore,7e48b2a1-39c4-4d51-8e95-9d3278c7b89b
 SamplingInterdiction,9aaecd24-a0d8-466b-8bd9-adc0977479ee
 SamplingRB,c377c86e-bf6b-4a25-91bb-5ed2a0abdac5
 Sandbox,9307e30f-c43e-9ca7-d17c-c2dc59df670d
@@ -11987,6 +11992,7 @@ Tyler,e170d443-b9d6-418a-9ee8-061e966341ef
 TypeClasses,addcc920-e0cf-11e8-30b7-0fb08706b574
 TypeCompletion,8f700d64-2ec0-4e18-b562-010c3a374dda
 TypeDBClient,7ffdda62-db04-4838-9798-febd00f3125c
+TypeDBDriverClib_jll,cd6bae0c-b179-51b7-81cb-091010e4ec61
 TypeDomainNaturalNumberLists,7d526985-4c4e-42f3-8365-e6139167f00a
 TypeDomainNaturalNumberStrictlyBinaryTrees,f5023ec8-5a1e-4e68-9745-2bb2270cc447
 TypeDomainNaturalNumbers,06919feb-fec6-4e74-a260-ddb603bc7a1b
@@ -12385,6 +12391,7 @@ WaterPhysics,20dd5ee6-61da-454b-ac5d-c09c2977e03a
 WaterWaves1D,1a68f91a-d9eb-11e8-2e16-69ad0016fc96
 Watershed,adaf3d07-42b2-577a-8487-f34ffa1a67e4
 WatershedParcellation,d5eb8130-0e6d-4b05-a476-6219b4bda902
+WavNative,a2d1c3e4-5b67-4d89-bc01-e23456789abc
 WaveFD,44f9e87b-acd6-44e6-b5b0-e1db9a6b2dd4
 WaveFD_jll,c8b78e2a-5255-5058-b631-96af8a7e9abf
 WaveFlow,d8840e3d-a7fc-463d-bc34-4e391df193a6
@@ -12473,6 +12480,7 @@ WildBootTests,65c2e505-86ba-4c19-93f1-95506c1443d5
 WildcardArrays,05d16eb0-506c-4fac-9187-f7ce7e253b09
 WildfireData,c50625c8-1a95-45e7-9f30-e55dbed7e5b4
 Wildfires,8a83dac0-8d4f-4b7e-b327-bade5b93bcdd
+WildlandFire,a1b2c3d4-e5f6-7890-abcd-ef1234567890
 Wilkinson,74aeefec-6ade-5337-bbc5-48a18adb804f
 WilliamsonTransforms,48feb556-9bdd-43a2-8e10-96100ec25e22
 Wilsonloop,f3c8d4fe-2f22-401d-8228-e6a01d7a1d02
