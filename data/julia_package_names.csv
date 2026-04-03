@@ -610,6 +610,7 @@ AutoHist,0bf0ee65-3559-4d1e-a282-1b0e88839781
 AutoLandmarking,513749c4-1492-45a3-bfbf-e630717bb7f0
 AutoLyap,0620cc6d-054a-4145-a0e3-d8b030648321
 AutoMLPipeline,08437348-eef5-4817-bc1b-d4e9459680d6
+AutoMerge,c5732277-7834-41e3-8e1f-5f375898cfe1
 AutoPkg,4571da9f-be60-41fb-9c10-7f3445d84327
 AutoPreallocation,e7028de2-df94-4053-9fdc-99272086b8d4
 AutoPrettyPrinting,9109d3c5-9510-494f-be9f-db449708e717
@@ -4888,6 +4889,7 @@ Huginn,9cb796e9-d0ea-421b-b37d-eb97bc1add55
 Hugo_jll,c8420254-0ddf-5525-a2d3-3ad9242def7d
 HumanReadableSExpressions,dfa09964-7899-4f24-b5ee-10dc563fda7c
 Humanize,7ec9b9c5-1998-51e1-b7fc-fc3590c18259
+HumidAir,297ac2f1-4f1d-47ed-8f40-453c09ae9a48
 Hungarian,e91730f6-4275-51fb-a7a0-7064cfbd3b39
 HurdleDMR,f9e53bcf-9449-548a-a5fe-a83e43094f75
 Hurst,f5425a1d-c389-4276-87b1-4aa2dfb12528
@@ -8844,6 +8846,7 @@ Powerful,542e4350-023d-42c7-b19f-8cb561780c9e
 Powersense,c5022caa-3a13-4c38-8648-ef17c886ed6e
 Powsybl,cc5d7637-2d3a-48eb-b6d4-9415154f8200
 Powsybl_jll,b8c81e45-bfcc-5af0-87df-fd7619bc5515
+PrISM,fde4c310-c20a-4a4a-8ff2-565b2b89066a
 PrairieIO,e0255976-123f-53e1-a894-d0440dea2ee2
 PreCICE,57fbd4af-5cc3-4712-aac0-6930e7658184
 PrePostCall,6a9148d9-5e9a-5935-86c8-72740ba3a7c7
