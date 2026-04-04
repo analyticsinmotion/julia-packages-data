@@ -977,6 +977,7 @@ BioAlignments,00701ae9-d1dc-5365-b64a-a3a3ebf5695e
 BioAtomsCount,85ca2092-e647-4015-bc79-36f358be2fb1
 BioCCP,79e6b149-e254-49fe-a721-3c4960de1574
 BioChemicalTreatment,c4b0d576-2c18-480d-8459-22152dbbf5e0
+BioCodes,5da0a781-4ec8-4633-a007-8ceb506d1ca1
 BioCore,37cfa864-2cd6-5c12-ad9e-b6597d696c81
 BioDemuX,ac87d701-7792-4b86-94b3-1f30c027900b
 BioDemultiplexer,39204792-bc26-423a-8bcf-54c03468b271
@@ -2421,6 +2422,7 @@ DataAssimilationBenchmarks,7c720533-a3c7-49b7-973c-85ef17efca74
 DataAugmentation,88a5189c-e7ff-4f85-ac6b-e6158070f02e
 DataAxesFormats,1375bf9c-a47d-45a1-aad5-626dd8629d98
 DataBags,497ad153-c143-42a2-80c7-87bdfcf8382a
+DataCaches,c1455f2b-6d6f-4f37-b463-919f923708a5
 DataCollocations,9454e98c-75cb-4dbc-9573-481819719962
 DataConvenience,3b531cbf-ee43-4e67-8118-dca2c9372f86
 DataDeps,124859b0-ceae-595e-8997-d05f6a7a8dfe
@@ -3149,6 +3151,7 @@ EmpiricalDistributions,0bbb1fad-0f24-45fe-94a4-415852c5cc3b
 EmpiricalModeDecomposition,6a34a51b-2f4a-4636-bd3c-e47519ebd0d9
 EmpiricalOrthogonalFunctions,63ff9c73-14d6-49bd-be05-5ad278f77d6a
 EmpiricalPotentials,38527215-9240-4c91-a638-d4250620c9e2
+EmpiricalTightBinding,592ba744-f2ce-40dd-852e-7cfd1e22b0d7
 Empirikos,cab608d6-c565-4ea1-96d6-ce5441ba21b0
 Emporium,4f286ecd-06d3-4492-bdef-0ca090b7d070
 EnKF,685896a8-a41b-11e9-3419-3315e75b5d74
@@ -4796,6 +4799,7 @@ HeroIcons,0e288569-e4b5-43fd-9baa-cb516e1232f8
 Hestia,75036a29-a2ca-4eb4-a964-4c35e636f9a9
 HetaSimulator,630b40c4-2f38-41ff-bcb3-b2c7232fed0d
 HeteroPCA,77aa4d34-f7f4-424a-adb3-974963498de9
+HeterogeneousArrays,40d36c5c-e028-4551-8108-c37812a952b9
 HeterogeneousComputing,2182be2a-124f-4a91-8389-f06db5907a21
 HeuristicOptimizers,de832154-0e71-40a9-a3ad-2166d2d73fc5
 Heuristics,6acb60cf-2fd4-4316-b77c-a68f9bfdd616
@@ -7652,6 +7656,7 @@ NumericalRepresentationTheory,6b7c1d51-ecee-4149-97a8-50646b514dce
 NumericalTypeAliases,be9b823e-291e-41a1-b8ce-806204e78f92
 Numerics,8b6e5320-caf2-4a3d-ab96-070b5f3e7804
 Numssp,bcd14c31-b0d4-4eae-b592-0213e767a021
+NyanLexers,d66291fa-f43e-4b10-8b90-d63ec5d3f0a1
 OATHToolkit_jll,2f89d1c9-c8cc-56a0-9b6f-1a564073fb5a
 OAuth,22d8b318-f366-56fb-a292-a93f7d76c017
 OBOParse,afb48802-0cf5-5a61-b18d-a3da2e9c5fb6
@@ -10691,6 +10696,7 @@ SortFilters,d6dedbf8-78c7-4e81-bd5f-fe48695b798a
 SortMark,15f864f9-903d-48fa-aa6c-47f5a1506de6
 SortMerge,041a2d23-8c6e-5597-be73-bf96b5e0dfd4
 SortTileRecursiveTree,746ee33f-1797-42c2-866d-db2fce69d14d
+SortedIntervals,b6c59e15-8662-4f8a-b157-cd910e143dcd
 SortedIteratorProducts,6df855aa-0571-4a39-928e-ca59f790d640
 SortedVectors,9404b2b5-64ac-5ade-85a3-77c836ef30b4
 SortingAlgorithms,a2af1166-a08f-5f64-846c-94a0d3cef48c
@@ -11132,6 +11138,7 @@ StructArrays,09ab397b-f2b6-538f-b94a-2f83cf4a842a
 StructC14N,d2514e9c-36c4-5b8e-97e2-51e7675c221c
 StructDatabaseMapping,66daddfc-c305-4fd9-8f84-fb59daccc546
 StructDualDynProg,5d41aeb0-57df-5a94-a3c4-60ba49600646
+StructEditor,f41bf64d-372c-4047-8f65-4cd74346a5da
 StructEqualHash,8bd03d06-bfef-4aaf-8250-1a26cbb401bf
 StructEquality,6ec83bb0-ed9f-11e9-3b4c-2b04cb4e219c
 StructHelpers,4093c41a-2008-41fd-82b8-e3f9d02b504f
