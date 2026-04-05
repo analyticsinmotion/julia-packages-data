@@ -849,6 +849,7 @@ Bcube,cf06320b-b7f3-4748-8003-81a6b6979792
 BcubeCGNS,a9bead8e-c4b5-4f51-8a4e-84805ae90250
 BcubeGmsh,8c8b3700-392b-4630-b974-b8b78831232a
 BcubeVTK,f7a61acb-f482-4505-b2eb-e9cadd76b6b4
+BeForData,49581401-e3b0-43cb-bb9c-49750952130d
 BeaData,acefaad2-17a4-5d8b-aa08-e18ef75dd0cf
 BeamPhysics,f85cbb92-938a-4877-a34b-92f8b55ab56a
 BeamTracking,8ef5c10a-4ca3-437f-8af5-b84d8af36df0
@@ -9566,6 +9567,8 @@ RecurrenceRelationshipArrays,b889d2dc-af3c-4820-88a8-238fa91d3518
 RecurrenceRelationships,807425ed-42ea-44d6-a357-6771516d7b2c
 RecurrentLayers,78449bcf-6750-4b78-9e82-63d4a1ccdf8c
 RecursiveArrayTools,731186ca-8d62-57ce-b412-fbd966d074cd
+RecursiveArrayToolsArrayPartitionAnyAll,172d604e-c495-4f00-97bf-d70957099afa
+RecursiveArrayToolsShorthandConstructors,39fb7555-b4ad-4efd-8abe-30331df017d3
 RecursiveCausalDiscovery,96483cbc-aa6d-4394-9266-bb69d9075284
 RecursiveDicts,e20b0d26-85b9-4cc4-ab0c-abba12ca33a5
 RecursiveFactorization,f2c3362d-daeb-58d1-803e-2bc74f2840b4
@@ -9699,6 +9702,7 @@ Requires,ae029012-a4dd-5104-9daa-d747884805df
 ResEE,539b6a15-2144-4f08-8574-27224deb4b81
 Resample,318ae45f-2437-4276-8d16-19df99ea8507
 ResearchSoftwareMetadata,58378933-4625-47fa-851e-05ee27d397bd
+Reseau,802f3686-a58f-41ce-bb0c-3c43c75bba36
 ReservoirComputing,7c2d2b1e-3dd4-11ea-355a-8f6a8116e294
 ResettableStacks,ae5879a3-cd67-5da8-be7f-38c6eb64a37b
 ResilienceDecisionMaking,e4e67209-a09d-4b87-93df-521fd564896e
@@ -12155,6 +12159,7 @@ UniversalDependencies,aa815940-ac17-4642-b6b9-9c066aae69b2
 UniversalDiffEq,791b002b-939e-4b08-8060-ecf413fcb155
 UniversalFeynRulesOutput,e2970b7e-a80f-4839-9fc1-2a0f2f4c4333
 UniversalIntegerCodes,f9d38c27-4a81-4d8c-bddb-5ed3c8119a58
+UnixCompress,3f1a3b67-9ed5-4096-bdaa-9e31f28ad61f
 UnixMmap,674b2976-56af-439b-a2b1-837be4a3d087
 UnixTimes,ab1a18e7-b408-4913-896c-624bb82ed7f4
 Unmarshal,cbff2730-442d-58d7-89d1-8e530c41eb02
