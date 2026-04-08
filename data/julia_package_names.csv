@@ -1144,6 +1144,7 @@ BootstrapVirasoro,ca6c609c-7c6b-4ea6-be06-ee6e3ced7d6c
 BorrowChecker,7bdcaa52-c310-4bb0-bf54-d941056ed284
 Borsh,e0ca245e-e2d4-4924-a0cc-c0f16c675cd2
 Boscia,36b166db-dac5-4d05-b36a-e6c4cef071c9
+BoseFermiLerch,a6880d5c-510b-4d6a-acfa-e934188c78a6
 BoseWormPIMC,bd945c55-3bff-4c7d-84e7-fefb69b5105e
 BosonSampling,4f11539d-f4e6-47f3-a15e-0809978c3ed1
 Bosonic,fdc9d97d-6704-4816-9428-252828370922
@@ -6112,6 +6113,7 @@ LinDistFlow,bf674bac-ffe4-48d3-9f32-72124ffa9ede
 LinLogQuantization,44354dd6-1ce2-4e80-a0fb-98a3a2b05088
 LinQuadOptInterface,f8899e07-120b-5979-ab1d-7b97bb9e1a48
 LinRegOutliers,6d4de0fb-32d9-4c65-aac1-cc9ed8b94b1a
+Lincege,f7bb31c1-1dce-4f9f-a981-827e9ac9009b
 Lindenmayer,d9db2020-d13e-4bf8-b13e-b12a3214b5ef
 LindoAPI,5d56408f-8135-48b9-8e3b-17d984397714
 LineIntegralConvolution,954431ae-a746-4b0b-bf75-a8381ca95b21
@@ -7465,6 +7467,7 @@ NelsonRules,f967765a-671f-4dab-8ad7-3d510d8fd276
 Nemo,2edaba10-b0f1-5616-af89-8c11ac63239a
 Neo4j,d2adbeaf-5838-5367-8a2f-e46d570981db
 Neo4jBolt,6bf848c2-a04c-470f-9a4d-5a21d02c3e16
+NeoNEXUS,ce3fc199-6729-41fd-b549-7e4572107528
 NeoPKPD,aa42e64f-7c0c-4f7e-9a43-9f30a48e1a32
 Neovim,b2cf22bb-779f-4885-b12f-54b1c19a73e0
 Neptune,6741aa20-66dc-42c8-a8ae-3740631035cd
@@ -8222,6 +8225,7 @@ PackageMaker,29c12bd1-d721-479e-9f19-f3213c237221
 PackageStates,412cc100-f440-45a8-9ec7-153ed5111422
 PackageURLs,c2271b70-7219-4bda-bcc3-62ec08ead5b7
 PackedIntegers,7c0bfd36-8adf-4958-a1b0-362003732c56
+PackedParselets,209b254f-b05f-46a6-8f5d-65983536c2bc
 PackedReadWrite,5d6e2f64-5c87-46b6-9ff4-cf810e78676d
 PackedVectorsOfVectors,7713531c-48ef-4bdd-9821-9ff7a8736089
 Packing,19eb6ba3-879d-56ad-ad62-d5c202156566
@@ -11761,6 +11765,7 @@ Timestream,ce82053c-fa70-4f37-af49-87ab44846bd9
 TimetableSolver,df459030-36d8-4de1-905a-e8bbf7c7dfd8
 TinnitusReconstructor,998763c9-5807-4081-8b95-f32419d2af94
 TinyEKFGen,6bec017d-0eb5-4800-a30e-28dcf67ac06f
+TinyEigvals,7dc15f10-ef5b-4bb7-b45f-6ac6462fc3a6
 TinyGibbs,69381cfd-d032-43bc-afd6-efe925dccc54
 TinyHugeNumbers,783c9a47-75a3-44ac-a16b-f1ab7b3acf04
 TinyMachines,5d0fdf5f-995e-4f1b-a9e8-363392c4fe32
