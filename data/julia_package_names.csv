@@ -141,6 +141,7 @@ AbstractWallets,5f0830d6-faab-11e9-0c1a-a5525342cc9a
 AbstractXsdTypes,1d4aff4b-e088-40cb-b713-ffe4caf1580b
 AbstractYieldMacros,71802903-5811-4e1f-b8e7-37bd234b68eb
 Absynth,198fb612-3ccb-11e9-3f7d-cd8c0d4e7bc8
+AcademicIdentifiers,73aec6e9-1368-4429-b03d-50b89ba0733e
 AcademicWebsite,bf8d10fa-a935-41a3-9f31-ee6ce4bca516
 AccelInterfaces,0fc7c93f-c1ed-4c30-8474-1cec40f2ca52
 AcceleratedArrays,44e12807-9a19-5591-91cf-c1b4fb89ce64
@@ -990,6 +991,7 @@ BioFetch,f8217676-c24a-4825-a874-ba6ce2a4fe08
 BioFindr,77580646-997d-4218-a3cc-42097ecd1c68
 BioGenerics,47718e42-2ac5-11e9-14af-e5595289c2ea
 BioGraph,bbceaa37-9423-4c65-8842-740620a24309
+BioIdentifiers,22183900-f399-4fcd-a053-d40765e38b1f
 BioLab,1fe83854-81c0-42f7-afc9-71ba9af673ca
 BioMASS,324734c7-f323-4536-9335-775d9be9d101
 BioMakie,7de43156-b762-4475-b39f-ba1e1e59ee2f
@@ -3537,12 +3539,14 @@ FastGeoProjections,981663e8-0c94-46dd-b2cf-efc8480900ec
 FastGradientProjection,db76afe2-0dac-4a3c-a8c7-f541811e5437
 FastGraphletTransform,8757296b-2078-477d-a41d-7d2812277c39
 FastGroupBy,e6aeac8e-85c6-520e-8612-effc59bc0f33
+FastH3,a23a4b7e-97d2-4b3a-8f5c-6e9d0f2a1b3c
 FastHadamardStructuredTransforms_jll,3b5334fc-ad2e-52bb-943a-614153fa1c0c
 FastHalton,05a64641-4d1a-5311-8c01-b9b6c96c7c05
 FastHankelTransform,3a9aa71a-4826-43c7-bf6d-7fc63822c18e
 FastHartleyTransform,e0605d58-1a4b-427b-8ab9-d16fed775e83
 FastHistograms,06971c4e-2824-4b19-bcf3-55442efb9bc7
 FastIOBuffers,6ccb8d0d-f5f8-5ae0-a392-f5aa62729a81
+FastIdentifiers,4753c187-0528-4cab-a788-b8a80107dae0
 FastInterpolations,9ea80cae-fc13-4c00-8066-6eaedb12f34b
 FastIsostasy,80efc11e-3694-4407-a4bf-24e5955cde3d
 FastJet,8509a5d2-ae42-11e8-0b46-5d0ace601ee4
@@ -6777,6 +6781,7 @@ Media,e89f7d12-3494-54d1-8411-f7d8b9ae1f27
 MedicalImageRegistration,8c7db820-1a42-4900-981b-afb566070d21
 Medipix,c2036f84-fecd-45db-822d-61dbed506f2f
 Mehrotra,ff64e54f-29a3-40c0-a3ca-0c9552343258
+MeijerG,c1979943-378d-4dac-9c37-200771e290c3
 Mellan,9395f11c-09ed-45be-886c-23f223b99ebb
 MemPool,f9f48841-c794-520a-933b-121f7ba6ed94
 MemberFunctions,08b01624-6c0b-11e9-1b9f-6d80c967c393
@@ -7672,6 +7677,8 @@ NumericalTypeAliases,be9b823e-291e-41a1-b8ce-806204e78f92
 Numerics,8b6e5320-caf2-4a3d-ab96-070b5f3e7804
 Numssp,bcd14c31-b0d4-4eae-b592-0213e767a021
 NyanLexers,d66291fa-f43e-4b10-8b90-d63ec5d3f0a1
+NyanSpectreNetlistParser,f050a39a-f089-4c65-a86a-958b8b907b9b
+NyanVerilogAParser,28caa042-5edb-4d1f-abcd-02ce41b2dd3d
 OATHToolkit_jll,2f89d1c9-c8cc-56a0-9b6f-1a564073fb5a
 OAuth,22d8b318-f366-56fb-a292-a93f7d76c017
 OBOParse,afb48802-0cf5-5a61-b18d-a3da2e9c5fb6
