@@ -2,6 +2,7 @@ package_name,package_uuid
 AAindex,1cd36ffe-cb05-4761-9ff9-f7bc1999e190
 ABBAj,6b41afa3-2ed9-49a7-abc1-b2d458227d0d
 ABCDMatrixOptics,ccdfd77c-c9b6-493d-8c46-f34d2494ed29
+ABCRejection,1e8f6a0c-d50d-416e-aae2-648972eea77c
 ABC_jll,73717f16-8662-5d85-9e79-a3c1fc1c8861
 ABCdeZ,208e7efd-7036-4c82-8b73-3e7ae71c2350
 ABCredit,91b5283e-3ff1-4617-8122-130c88cb8aba
@@ -1383,9 +1384,11 @@ CTParser,32681960-a1b1-40db-9bff-a1ca817385d1
 CTSolvers,d3e8d392-8e4b-4d9b-8e92-d7d4e3650ef6
 CUBScout,5bb2324b-4f8a-4227-8185-e835854b0a1e
 CUDA,052768ef-5323-5732-b1bb-66c8b64840ba
+CUDACore,bd0ed864-bdfe-4181-a5ed-ce625a5fdea2
 CUDAKernels,72cfdca4-0801-4ab0-bf6a-d52aa10adc57
 CUDAPreconditioners,57b3401a-ff44-4c54-9e38-1c8db7da4902
 CUDASIMDTypes,ba1ee33b-8807-41fd-9812-6d5f2ce04139
+CUDATools,9ec180c6-1c07-47c7-9e6e-ebefa4d1f6d0
 CUDA_Compiler_jll,d1e2174e-dfdc-576e-b43e-73b79eb1aca8
 CUDA_Driver,a6be3551-5000-4724-bfab-551d491a12f7
 CUDA_Driver_jll,4ee394cb-3365-5eb0-8335-949819d2adfc
@@ -1416,6 +1419,7 @@ CUDNN_CUDA92_jll,75b8dd0a-07b1-5bf5-8859-e3022e43e992
 CUDNN_jll,62b44479-cb7b-5706-934f-f13b2eb2e645
 CUDSS,45b445bb-4962-46a0-9369-b4df9d0f772e
 CUDSS_jll,4889d778-9329-5762-9fec-0578a5d30366
+CUPTI,9e67e8f6-ba02-4b6c-a7db-3b11ae1e7ab7
 CURL_jll,b21e61f3-bafc-59ac-ab14-4c5c62d6588d
 CUSOLVERRF,a8cc9031-bad2-4722-94f5-40deabb4245c
 CUTENSOR_CUDA101_jll,c2b537fd-2c7d-5f1c-8e77-78945a4d1c3a
@@ -4173,6 +4177,7 @@ Game2048Core,449ebaaf-06bc-4dda-9a3f-b1c40666d086
 GameTheory,64a4ffa8-f47c-4a47-8dad-aee7aadc3b51
 GameTracer,8cb375ce-8ac0-445a-ba91-c464b2953507
 GameZero,9da27670-f782-11e9-1da1-f53579315bfe
+Gamma,a0844989-3bd2-4988-8bea-c9407ab0941b
 GamsStructure,d6ad7568-1850-470f-916e-e505a496a0a2
 GapFindFill,3f3529c4-1ac4-11ea-2abf-331d22aacaec
 Garamon,dbf15181-0796-4f0c-80cc-db9023881340
@@ -4414,6 +4419,7 @@ GhibliPalettes,90723813-cdbc-4127-ac5b-633cd2ebf9f7
 Ghost,4f8f7498-1303-42e1-920c-5033445536df
 Ghostscript_jll,61579ee1-b43e-5ca0-a5da-69d92c66a64b
 GiNaC_jll,f695d788-2582-5101-a7df-1403a8f3a07a
+Giac,e4421f97-9838-4fd0-9fa5-94f11373bf78
 GibbsSeaWater,9a22fb26-0b63-4589-b28e-8f9d0b5c3d05
 GibbsSeaWater_jll,6727f6b2-98ea-5d0a-8239-2f72283ddb11
 GibbsTypePriors,1266804b-bd95-4f6b-9d1e-355bae9cde8b
@@ -4807,6 +4813,7 @@ HerbGrammar,4ef9e186-2fe5-4b24-8de7-9f7291f24af7
 HerbInterpret,5bbddadd-02c5-4713-84b8-97364418cca7
 HerbSearch,3008d8e8-f9aa-438a-92ed-26e9c7b4829f
 HerbSpecification,6d54aada-062f-46d8-85cf-a1ceaf058a06
+HerbieMacros,db7554b1-3828-4a32-b78a-fdb1407eb12f
 Hermetic,b255c96a-a4ac-5b61-a2c4-3db36d36609d
 HermiteInterpolation,e59a9049-0778-4b41-b4a6-c75571210bee
 HeroIcons,0e288569-e4b5-43fd-9baa-cb516e1232f8
@@ -5022,6 +5029,7 @@ ITensorGPU,d89171c1-af8f-46b3-badf-d2a472317c15
 ITensorGaussianMPS,2be41995-7c9f-4653-b682-bfa4e7cebb93
 ITensorLattices,3ef2b461-a4cb-42b1-a580-b83f8df68c40
 ITensorMPOCompression,03645d51-6a26-4d1e-b9a1-035dc79d88e7
+ITensorMPOConstruction,f1f99f3b-4b00-4d2f-a9c2-ce76efdc8f31
 ITensorMPS,0d1a4710-d33b-49a5-8f18-73bdf49b47e2
 ITensorMakie,72ca75eb-df6f-4d6b-80c5-d5eab17be3f9
 ITensorNetworks,2919e153-833c-4bdc-8836-1ea460a35fc7
@@ -5597,6 +5605,7 @@ Kabsch,f04b186e-52d5-4f75-9fe8-bf69181293d4
 KadanoffBaym,82532805-809c-4ef0-842b-4b00c5e9be5f
 KahanSummation,8e2b3108-d4c1-50be-a7a2-16352aec75c3
 Kahuna,a159c9be-0176-11ea-0d64-b53c1d07f8ae
+Kaimon,d3856c55-31fd-4246-b7e8-380411123c01
 KaitaiStruct,701c8e6d-1b01-4551-886b-1760f51f9f8d
 Kaleido,caafb194-7e8d-11e9-2724-d5981dd0806d
 Kaleido_jll,f7e6163d-2fa5-5f23-b69c-1db539e41963
@@ -7401,6 +7410,7 @@ NTNk,530fd2b5-bc52-54ba-93c2-82eb6468edee
 NUMA,292f1341-b53f-425a-80e5-3597ad0961bf
 NUMA_jll,7f51dc2b-bb24-59f8-b771-bb1490e4195d
 NURBS,dde13934-061e-461b-aa91-2c0fad390a0d
+NVML,611af6d1-644e-4c5d-bd58-854d7d1254b9
 NVMagnetometer,28fc4bcf-da03-4841-bbdb-88baaf311b30
 NVPL_jll,aa5f73a5-3a95-59b9-aadf-aa3f57305df1
 NVTX,5da4648a-3479-48b8-97b9-01cb529c0a1f
@@ -10572,6 +10582,7 @@ SingleFloats,2b6d1eac-7baa-5078-8adc-e6a3e659f14f
 Singular,bcd08a7b-43d2-5ff7-b6d4-c458787f915c
 SingularIntegralEquations,e094c991-5a90-5477-8896-c1e4c9552a1a
 SingularIntegrals,d7440221-8b5e-42fc-909c-0567823f424a
+SingularModes,630bf884-3bbe-4fe9-8bc5-255f673a196e
 SingularSpectrumAnalysis,77f5812f-bd1f-5f6e-9b72-07b28d8bbbc3
 Singular_jll,43d676ae-4934-50ba-8046-7a96366d613b
 Sinograms,02a14def-c6e6-4ab0-b2df-0ab64bc8cdd7
@@ -12142,6 +12153,7 @@ Unicorn_jll,6d54e6d0-aa66-5537-971b-bc3b5065bd4e
 Unidecode,967fb449-e509-55aa-8007-234b4096b967
 UnifiedPseudopotentialFormat,8030dd95-f9ed-4dd5-b230-99ba15524fc3
 UniformIsingModels,91393fb9-e38b-4a31-9409-aa579b4163ad
+UniformStreamlines,d45a1faf-ed48-5bcd-af90-6f9b3352014e
 Uniformization,f44d862a-bb5d-4651-8b42-7616042c4b61
 UnifyJustTheDocs,11bfd71e-bedf-46a1-8e5b-178579ef73ee
 UnionArrays,d6dd79e4-993b-11e9-1366-0de1c9fe1122
@@ -12922,10 +12934,15 @@ coreutils_jll,5818bda4-868b-5068-b238-e370ed6eefef
 cppcheck_jll,74123790-a849-591a-9c73-46a70652358a
 crun_jll,aef68bef-9b3f-58c3-affd-5589e119eed3
 cryptopp_jll,9ced465f-3d53-56cd-9803-9d1649b5e965
+cuBLAS,182d3088-87b7-4494-8cad-fc6afaa545bc
 cuDNN,02a925ec-e4fe-4b08-9a7e-0d78e3d38ccd
+cuFFT,533571aa-0936-420e-b4be-9c66f5f626ca
 cuOpt,29a73d17-8276-40b7-9ffb-d89e58023643
 cuPDLPx_jll,bca5daad-f4d3-5101-ae12-8b63679c982c
 cuQuantum_jll,b75408ef-6fdf-5d74-b65a-7df000ad18e6
+cuRAND,20fd9a0b-12d5-4c2f-a8af-7c34e9e60431
+cuSOLVER,887afef0-6a32-4de5-add4-7827692ba8fc
+cuSPARSE,b26da814-b3bc-49ef-b0ee-c816305aa060
 cuStateVec,92f7fd98-d22e-4c0d-85a8-6ade11b672fb
 cuTENSOR,011b41b2-24ef-40a8-b3eb-fa098493e9e1
 cuTensorNet,448d79b3-4b49-4e06-a5ea-00c62c0dc3db
