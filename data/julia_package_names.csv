@@ -6671,6 +6671,7 @@ MaskArrays,0779ba27-d013-422b-b20d-67aa3361bf56
 MaskPII,e51ab4cc-94ad-4aad-a579-d543f796cd4d
 MaskedArrays,e3e6debb-e142-42bc-8e83-ba8646d1d252
 MassInstallAction,e162569b-3ff4-40cf-b055-1e5f8042da73
+MassJ,29d00ee4-54c8-43d9-be5a-d01c626e7957
 MassSpec,1eca0e19-7dec-47c1-ba23-53c12588e011
 MassSpecBioChemicals,f4388e49-ae39-433b-b921-aa66233e9152
 MassSpecChemicals,a0caa3fb-cd40-4122-b5cb-396daad418a9
@@ -7150,6 +7151,7 @@ Montre,df2d4b28-ae60-43d6-8e46-0b6fc9d716f5
 Montre_jll,f72ebd5e-5dd3-5332-aade-6695765c27ff
 MoodleQuestions,e6233ccc-e36c-49e3-ac71-1ad7b6c78055
 Mooncake,da2b9cff-9c12-43a0-ae48-6db2b0edb7d6
+MooncakeSparse,85e08d05-c593-4d83-8d7e-0e912d511203
 Moonshine,99b31415-443e-43a2-8bf4-ca532bb4a161
 MoreMaps,d6ea422f-1f55-4be1-bfc3-e7c09aa4d855
 MortalityModels,9406b108-c799-4c20-a955-6fb73514e56d
@@ -8026,6 +8028,7 @@ Opus_jll,91d4177d-7536-5919-b921-800302f37372
 Oracle,7240a794-28ba-5199-b477-df5fe5cf6155
 OrbisChessEngine,2eacc985-a635-41e1-b67f-45fa7ceb5b4d
 OrbitPropagationLibrary,c20f9b96-66de-4231-bbc8-363008277063
+OrbitPropagationLibraryNRLMSIS,13047893-382f-4339-b745-3678b5447bed
 OrbitPropagationLibrarySOFA,38b9e004-e2fa-4648-aa91-337faf7b69aa
 OrbitalElements,f8fcefdb-5f5a-475b-b2a0-c41c734946b5
 OrbitalTrajectories,2b613a20-8d2a-5290-b19f-e06f4bcc2e7d
@@ -9148,6 +9151,7 @@ QRDecoders,d4999880-6331-4276-8b7d-7ee1f305cff8
 QRMumps,422b30a1-cc69-4d85-abe7-cc07b540c444
 QRStudio,6020892f-701e-4efe-8b55-f26b30257e50
 QRacahSymbols,13c27e9b-5f68-43dc-97e8-482e821abd98
+QRecoupling,12fbc973-52c7-4af8-b64a-f7602a7eb369
 QRupdate,29d2ae51-7246-454b-9a65-19ff7b2849a5
 QRupdate_ng_jll,c2997458-08a2-5152-82e8-5e3e3871749a
 QRupdatesFast,20ee83fe-e634-4b6c-9f98-3c5eb64c79e6
