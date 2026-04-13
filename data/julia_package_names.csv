@@ -7967,6 +7967,7 @@ OptimPack,04a3d532-ba69-5937-989a-472689bdb720
 OptimPack_jll,8115cc2e-fb29-5d71-b5cb-a4fb1c5dcd4c
 OptimShortestPaths,665f6718-e944-491c-97a0-bc01f3ed948a
 OptimTestProblems,cec144fc-5a64-5bc6-99fb-dde8f63e154c
+OptimaSolver,24efeca9-a785-406e-adb3-83609348bee7
 OptimalApplication,3e920f78-0eb2-4966-9e73-7442414dae3e
 OptimalBids,54ed2464-0158-49e7-9a8e-1c1697a616e3
 OptimalBranching,96e750e4-2b4b-404e-96bc-6769eb2ae924
@@ -12644,6 +12645,7 @@ XPORTA,8c143463-af6f-456f-8aed-72447cb569d2
 XPalm,6b523e1e-d512-416c-8e51-a8fbef0064e7
 XRT,4d396880-2e3f-4be1-8c36-e87777010d00
 XRationals,f354a88b-0804-406d-a35b-636616acac82
+XRayLabTool,df3fe04d-a251-48f4-b0c1-7c37c180def4
 XRayQuadrics,06f10efd-d23e-4080-b4cc-94b4a1650570
 XRootD,164e3b87-dc46-4cbc-97a6-5b310108fce0
 XRootD_cxxwrap_jll,bb14ce0c-f071-543a-8ca1-cd3dc3e29ed0
