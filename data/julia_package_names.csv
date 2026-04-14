@@ -1565,6 +1565,7 @@ Cclib,6bf0c929-756b-4df7-ab0b-d621f7ebeba1
 Ccluster,8fd415a7-295e-5ecb-bee7-308748477f8f
 Ccluster_jll,2795595f-8cd6-5168-9a44-49c628ee0ce1
 CeMicrodata,11053890-0308-406b-94d3-d76ebcae6419
+CechCore_jll,724d9041-2a60-51e0-bb7b-08a7c2be9791
 Celerite2,d7c4d21e-f632-4ce8-8dec-1f68bf4f0d36
 Cell2HR,5c73846f-6712-4eb1-b84d-78fe4ff3efce
 CellArrays,d35fcfd7-7af4-4c67-b1aa-d78070614af4
@@ -2180,6 +2181,7 @@ Cortex,39612bbb-57ff-4bee-a8f8-6b0371679005
 CorticalParcels,40903625-a1ea-44c8-b7f6-e840be33f0ed
 CorticalSpectralTemporalResponses,82ec0db2-aa68-11e9-08e4-e3d69fc08b96
 CorticalSurfaces,db9f6742-bc38-4697-955a-0a5dbec8c5c6
+CosmoNEXUS,571d7339-38b0-4585-872c-fb03e0c88832
 Cosmology,76746363-e552-5dba-9a5a-cef6fa9cc5ab
 Couenne_jll,f09e9e23-9010-5c9e-b679-9f1d8f79b85c
 CoulombFunctions,a1073327-32f2-4398-bd61-1b686fd668f2
@@ -2239,6 +2241,7 @@ CryptoSignatures,35cc5888-0c46-470e-89c7-eafcaf79a1aa
 CryptoUtils,04afed74-ac16-11e9-37b6-1352e3e05830
 CryptographicHashFunctions,59f36028-7e5a-47c1-b5da-23e00bab95ae
 CrystalBase,0ae0509d-b425-412a-aec4-62d47edd1221
+CrystalBonds,5d95cc45-87af-4e25-a5eb-db5677fad510
 CrystalInfoContainers,0536147b-35f3-46ba-bdca-9c2438f9daa4
 CrystalInfoFramework,6007d9b0-c6b2-11e8-0510-1d10e825f3f1
 CrystalNets,7952bbbe-a946-4118-bea0-081a0932faa9
@@ -6670,6 +6673,7 @@ MartaCT,1b4a4c30-53cc-4a73-9c44-e0ae6415a229
 MaskArrays,0779ba27-d013-422b-b20d-67aa3361bf56
 MaskPII,e51ab4cc-94ad-4aad-a579-d543f796cd4d
 MaskedArrays,e3e6debb-e142-42bc-8e83-ba8646d1d252
+MassBalanceMachine,01be3c3f-7f86-47d7-9d35-d52d1be8d668
 MassInstallAction,e162569b-3ff4-40cf-b055-1e5f8042da73
 MassJ,29d00ee4-54c8-43d9-be5a-d01c626e7957
 MassSpec,1eca0e19-7dec-47c1-ba23-53c12588e011
@@ -11368,6 +11372,7 @@ SymbolicIntegration,315ce56f-eed0-411d-ab8a-2fbdf9327b51
 SymbolicLimits,19f23fe9-fdab-4a78-91af-e7b7767979c3
 SymbolicNeuralNetworks,aed23131-dcd0-47ca-8090-d21e605652e3
 SymbolicNumericIntegration,78aadeae-fbc0-11eb-17b6-c7ec0477ba9e
+SymbolicOptimization,d571510e-6e5f-4c5d-a12c-0c9fbed6c685
 SymbolicPlanners,b6fe5377-9711-4fad-95b0-be4eed71ecbb
 SymbolicQuartetCF,bdb2d313-ae54-487a-ba87-13d2dbade7fa
 SymbolicQuartetNetworkCoal,4201568c-2e61-4571-8a9c-4da1ec7770d0
@@ -12826,6 +12831,7 @@ ZipFile,a5390f91-8eb1-5f08-bee0-b1d1ffed6cea
 ZipFlow_jll,3f4651c6-dca0-5abf-a9ca-128c6c1e6eb6
 ZipStreams,d1ba5cbe-eaf4-46e4-b1fe-0fd0bb93243b
 ZippedArrays,8051824b-fc5e-4603-89c4-0e6ea551cb88
+ZirconGrowth,5085b5e1-578a-4bbf-9dfc-2862bf7461c3
 ZlibNG_jll,c62bbaca-5768-5b75-85e2-9a0ea54e1624
 Zlib_jll,83775a58-1f1d-513f-b197-d71354ab007a
 Zomato,f91f2aa8-3cb3-52ab-b009-b9f47c1c1b27
