@@ -5902,10 +5902,12 @@ LatinSquares,c3c424ec-ae8f-5049-b7bf-f9296ef684c8
 LatinSyntax,48187f9f-78ff-4060-b31e-d855612fbaec
 Lattice2D,e8031020-b7ff-4f1d-bee4-f79aea4cf140
 LatticeAnimals,8faeb6a4-9048-4507-b81f-6dcc9b8256f0
+LatticeCore,84b1cbd8-bc58-4618-bc4f-b46a399f49f1
 LatticeDiracOperators,019239df-b0e3-486e-8e4c-d1c29ee5d6b9
 LatticeMaker,ce2437d6-9709-47f6-b5a7-5bf524fd8b96
 LatticeMatrices,dd6a91e4-736f-4540-ac85-13822ca7b545
 LatticeModels,3c3db7f8-440c-4375-905c-1a18b5307bed
+LatticeProteins,2b3394db-9f9c-454f-a26a-0ad872321417
 LatticeQCD,8a12f9b3-8daf-4285-9aa6-f1d88d857ae8
 LatticeRules,73f95e8e-ec14-4e6a-8b18-0d2e271c4e55
 LatticeSites,5c077215-83a5-5958-bb3f-c7068ae3c6fe
@@ -8043,6 +8045,7 @@ OrderedCollections,bac558e1-5e72-5ebc-8fee-abe8a469f55d
 OrdinalGWAS,00428148-03d9-50ae-bfb7-4a690d5612f1
 OrdinalMultinomialModels,b51826c6-2bc1-4eb0-a3af-c080fd29f1d0
 OrdinaryDiffEq,1dea7af3-3e70-54e6-95c3-0bf5283fa5ed
+OrdinaryDiffEqAMF,08082164-f6a1-4363-b3df-3aa6fcf571ad
 OrdinaryDiffEqAdamsBashforthMoulton,89bda076-bce5-4f1c-845f-551c83cdda9a
 OrdinaryDiffEqBDF,6ad6398a-0878-4a85-9266-38940aa047c8
 OrdinaryDiffEqCore,bbf590c4-e513-4bbe-9b18-05decba2e5d8
@@ -8060,6 +8063,7 @@ OrdinaryDiffEqIMEXMultistep,9f002381-b378-40b7-97a6-27a27c83f129
 OrdinaryDiffEqLinear,521117fe-8c41-49f8-b3b6-30780b3f0fb5
 OrdinaryDiffEqLowOrderRK,1344f307-1e59-4825-a18e-ace9aa3fa4c6
 OrdinaryDiffEqLowStorageRK,b0944070-b475-4768-8dec-fb6eb410534d
+OrdinaryDiffEqMultirate,d4b830b4-ac80-426b-8507-16693d424963
 OrdinaryDiffEqNewmark,d204908a-63b9-11ef-18f5-cfec7123a93b
 OrdinaryDiffEqNonlinearSolve,127b3ac7-2247-4354-8eb6-78cf4e7c58e8
 OrdinaryDiffEqNordsieck,c9986a66-5c92-4813-8696-a7ec84c806c8
@@ -10120,6 +10124,7 @@ STL_jll,69cf8a62-f9ae-5d65-8d00-30585a4771ef
 STMMRunner,5a832f93-9be3-4627-b47e-d2e960387a5d
 STREAMBenchmark,05e9033e-e298-417a-adae-495536c11ad4
 STRIDE_jll,850473c1-9ef0-5df9-a957-757f4cde8b8b
+STRUMPACK_jll,86fbd0b9-476f-557c-b766-62c724b42d8c
 STYRENE_jll,26c1a390-a91f-50e6-ae38-ce2477450035
 SUNRepresentations,1a50b95c-7aac-476d-a9ce-2bfc675fc617
 SVDSketch,f2712ddf-d375-4b75-9475-5f3be79dfb12
