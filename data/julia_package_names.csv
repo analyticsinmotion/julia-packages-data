@@ -957,6 +957,7 @@ BinaryBuilderSources,316c416d-4527-6863-7465-466137743047
 BinaryBuilderToolchains,33566f4c-336c-3150-6d30-4374274e6143
 BinaryDecisionDiagrams,cd45f48d-2bff-4983-a793-756749635bd1
 BinaryFields,0fee9d7f-8397-4f0d-9ec6-117db1666467
+BinaryHeaps,b2a6c25c-c996-4615-94ab-6e519ffb8690
 BinaryProvider,b99e7846-7c00-51b0-8f62-c81ae34c0232
 BinaryRecordReader,27e49e6c-9eba-4945-878d-08e5ccc7cbcd
 BinaryReedSolomon,8a283c49-c6d0-46c5-bbc1-5b2a51f34960
@@ -7576,6 +7577,7 @@ Newtrinos,5b289081-bab5-45e8-97fc-86872f1653a0
 NextGP,1a32220a-4ac3-442e-849d-1943511e16f7
 NextLA,d37ed344-79c4-486d-9307-6d11355a15a3
 NgSpice,1a64e563-3ad9-44a2-8713-a1728bea8a90
+Nghttp2Wrapper,aac3f40a-7475-434e-9d89-bbdc1574c652
 NiLang,ab4ef3a6-0b42-11ea-31f6-e34652774712
 NiLangCore,575d3204-02a4-11ea-3f62-238caa8bf11e
 NiaARM,cb655f37-3f9a-467f-922e-5a165e048db7
