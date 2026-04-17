@@ -498,6 +498,7 @@ AssociatedLegendrePolynomials,2119f1ac-fb78-50f5-8cc0-dda848ebdb19
 AssociatedTests,e00e7eca-deca-4415-9dc4-9b3efe792c16
 Associations,614afb3a-e278-4863-8805-9959372b9ec2
 AssociativeArrays,9477f2fd-3d51-5b6a-a127-ca3a070ddf94
+AssociativeCommutativePatternMatching,1750cefb-754d-4383-8ab7-d9c1d1688458
 AssociativeWindowAggregation,444271a7-5434-4a02-b82b-0e30a9223c60
 AsterReader,cb1a753d-6b7b-52e3-9bfe-57d99d445c39
 AsteroidShapeModels,a7943d8e-5d65-4248-ae23-0082f5115a05
@@ -1449,6 +1450,7 @@ CachedDicts,e69b5797-b9f7-4a92-bcfe-7d0cb35ca5b6
 CachedFunctions,ed268df6-2d29-4139-a3e0-ddeb8be80dc7
 Caching,68ad905a-5087-500a-aae7-0fd6acda2eb1
 CadCAD,56c374c5-0231-4cc5-a8a5-dfd13506b270
+Cadnip,28ce5535-9df1-4533-abc1-da0fb7327efb
 Caesar,62eebf14-49bc-5f46-9df9-f7b7ef379406
 Cairo,159f3aea-2a34-519c-b102-8c37f9878175
 CairoMakie,13f3f980-e62b-5c42-98c6-ff1f3baf88f0
@@ -4333,6 +4335,7 @@ GeoEfficiency,b1f22607-7830-5ceb-9a8e-05ab1ac77008
 GeoEnergyIO,3b1dd628-313a-45bb-9d8d-8f3c48dcb5d4
 GeoEstimation,a4aa24f8-9f24-4d1a-b848-66d123bfa54d
 GeoExplorer,386f1b4b-9a3d-4ef9-97c4-2a0480d4a57f
+GeoFetch,c6403d6d-7f13-4b8b-8cd8-129f29a0fba1
 GeoFormatTypes,68eda718-8dee-11e9-39e7-89f7f65f511f
 GeoGmsh,6f0d8a70-7550-4fa5-a91d-b527153fa687
 GeoGreensFunctions,1bc39cc2-b9cd-470c-972b-2e3fb46182c5
@@ -5113,6 +5116,7 @@ ImageSegmentation,80713f31-8817-5129-9cf8-209ff8fb23e1
 ImageSegmentationEvaluation,643f3195-0488-53f5-baa0-4208a0de173b
 ImageShow,4e3cecfd-b093-5904-9786-8bbb286a6a31
 ImageSmooth,a14a6c0f-317a-4379-b4a0-4ba4e1e9b5ed
+ImageTally,3a0688b7-cdea-55d2-b485-88f3d59bc26e
 ImageTracking,7632190a-71f5-11e9-04ef-99e081817785
 ImageTransformations,02fcd773-0e25-5acc-982a-7f6622650795
 ImageUtils,8ad4436d-4835-5a14-8bce-3ae014d2950b
@@ -5226,6 +5230,7 @@ Inherit,341b8389-5eed-42ab-a01e-622c6bedf032
 IniFile,83e8ac13-25f8-5344-8a64-a9f2b223428f
 InitialMassFunctions,e9251ff4-c148-4db3-bf46-89407750fae0
 InitialValues,22cec73e-a1b8-11e9-2c92-598750a2cf9c
+InjectSills,2361c6a6-84b7-4f91-9ad3-fbd42a4af622
 InlineDispatch,ab49173f-ff2e-4091-9f72-02325fb05285
 InlineExports,809d7502-0c9d-5bc2-962a-5201dc498f73
 InlineStrings,842dd82b-1e85-43dc-bf29-5d0ee9dffc48
@@ -7573,6 +7578,7 @@ NewlineLexers,f391c746-b838-4748-bbb5-9885c75b726e
 NewsAPI,d145281a-7b66-43b1-b4e0-c06cc84e19a4
 NewsLookout,48ea66d6-70bf-4733-809e-20017acf6e3b
 NewsvendorModel,63d3702b-073a-45e6-b43c-f47e8b08b809
+NewtonSchulz,ffda9531-618e-46f2-b97a-23c8fea85237
 Newtrinos,5b289081-bab5-45e8-97fc-86872f1653a0
 NextGP,1a32220a-4ac3-442e-849d-1943511e16f7
 NextLA,d37ed344-79c4-486d-9307-6d11355a15a3
@@ -11708,6 +11714,7 @@ Thermodynamics,b60c26fb-14c3-4610-9d3e-2d17fe7ff00c
 ThermofluidQuantities,8e558ecf-e13e-4796-9812-ac12e4724222
 Thermopack_jll,f4b513d5-df74-5b77-afcc-0e7f5b2f7b55
 ThermovisorImages,54d963ed-1681-434b-92d2-200df9375a55
+Theseus,7f538e44-2768-4ef2-af90-2110c0378286
 ThesisArt,6184abd9-1539-47ca-b742-6ec6f8d46641
 Theta,42bdb5c4-78fb-11e9-2233-215979c148c4
 ThickIntervals,540b2d50-f826-4de2-88b6-7b05931975d3
@@ -11858,6 +11865,7 @@ TopOpt_in_PETSc_jll,9e4902f8-fb1c-5527-87bf-6bafcfd196f3
 TopicModelsVB,dad468f8-6d63-5d40-b2c4-48631a3ed0cf
 TopoChains,61cb6e9c-cad8-11eb-0d06-599cf5a8288f
 TopoPlots,2bdbdf9c-dbd8-403f-947b-1a4e0dd41a7a
+TopoTS,dc0f521d-5d0d-4248-bff6-a823dd2a26ec
 TopologicalNumbers,82b459e2-751c-486c-8b84-4a85e9d7ad51
 TopologyPreprocessing,f84dc87b-1198-49da-97ab-02d881fe0800
 Toposes,36a15fe6-6211-457f-8fdb-aa2e0d2f3052
@@ -12246,6 +12254,7 @@ UnsupervisedClustering,c6b3b713-2a2b-4e07-a35c-d57ac4f46186
 Unzip,41fe7b60-77ed-43a1-b4f0-825fd5a5650d
 UnzipLoops,65164825-a06a-491c-beb8-9961b1a95625
 UpROOT,69ce31c6-c38d-56c2-aa87-409d3de9f997
+UpSetPlot,8c89282f-5e1c-475e-ab71-1a5914ad9bc2
 UpdatableCholeskyFactorizations,1a1c1746-0e7b-45d0-811e-72e8bb59686c
 UpdatableQRFactorizations,8b110c62-ada2-4dd7-b53a-29f29fe8f7f4
 UpdateJulia,770da0de-323d-4d28-9202-0e205c1e0aff
