@@ -435,6 +435,7 @@ Aria2_jll,9ab3bdc3-1250-5043-8fac-ac7e82d2cbc9
 Ariadne,0be81120-40bf-4f8b-adf0-26103efb66f1
 Arianna,07692032-97b4-4f8d-80d7-e18df88d31a9
 Ark,56664e29-41e4-4ea5-ab0e-825499acc647
+Armington,448fece5-6e02-4dfe-bf33-b4920090d0e2
 ArnoldiMethod,ec485272-7323-5ecc-a04f-4719b315124d
 ArnoldiMethodTransformations,fede57cc-428a-11e9-3e5c-c149a0a4072d
 Arpack,7d9fca2a-8960-54d3-9f78-7d1dccf2cb97
@@ -2970,6 +2971,7 @@ DynamicSparseArrays,8086fd22-9a0c-46a5-a6c8-6e24676501fe
 DynamicStructs,e139c391-eeee-4818-b359-c8725224fb1f
 DynamicSumTypes,5fcdbb90-de43-509e-b9a6-c4d43f29cf26
 DynamicTerminal,43557e69-2879-4f78-9f9f-e79486a55683
+DynamicWorkflow,61ab1198-09f6-40be-823d-566e36da65b4
 DynamicalBilliards,4986ee89-4ee5-5cef-b6b8-e49ba721d7a5
 DynamicalCorrelators,7abe38c7-550a-49b0-ba99-33d1b5164ede
 DynamicalSystems,61744808-ddfa-5f27-97ff-6e42cc95d634
@@ -4122,6 +4124,7 @@ GPMaxlik,988d40dc-a58a-4803-bd2c-6d7438fe27fe
 GPUArrays,0c68f7d7-f131-5f86-a1c3-88cf8149b2d7
 GPUArraysCore,46192b85-c4d5-4398-a991-12ede77f4527
 GPUCompiler,61eb1bfa-7361-4325-ad38-22787b887f55
+GPUEnv,78a0b619-6146-4252-b244-0f81c54be577
 GPUInspector,608d808f-ff79-47b0-a25d-21f2c9b42853
 GPUToolbox,096a3bc2-3ced-46d0-87f4-dd12716f4bfc
 GPUifyLoops,ba82f77b-6841-5d2e-bd9f-4daf811aec27
@@ -10454,6 +10457,7 @@ SignalTemporalLogic,a79a9ddd-d50e-4d85-a979-5d85760e62a0
 SignalTemps,9748e082-7d24-4353-af53-8a6c8ccbfb0c
 SignalingDimension,96aab1c2-4ac7-11eb-3d9a-a59b97fb3321
 Signals,6303bc30-01ab-52eb-8b10-60e47555a8d1
+SignatureTensors,5c9b64c6-6bff-409c-98cc-3e0c4aaf8bc2
 SignedCholesky,50dbd362-918f-47d7-a50f-7fe6628962b9
 SignedDistanceField,9a18c034-6024-4f9e-89ee-87be330f4587
 SignedDistanceFields,73760f76-fbc4-59ce-8f25-708e95d2df96
