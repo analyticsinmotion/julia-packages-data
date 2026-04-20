@@ -799,6 +799,7 @@ BatchAssign,e837618a-1c15-48db-beb0-68297dffdb28
 BatchIterators,4161f7c7-f4e7-47ff-bbcb-bc0b24702626
 BatchPDLP,529b9e8a-d2db-4a93-8026-567587707ce3
 BatchReactor,ae347489-fc42-416e-8e9d-f76cf1731aac
+BatchSolve,87e15b6a-8d99-4cf4-8ad5-fed92cf0c427
 BatchStats,fc354a49-c873-40ff-aa7e-af8a5c6a2882
 Batched,1629540a-9a93-50e9-aec3-2a5ae159dca9
 BatchedBLAS,dfa6e8bd-ffa5-4347-817a-aa08eb84b250
@@ -1138,6 +1139,7 @@ BoltzmannCollisionIntegral,20179301-8dfd-43f5-a10b-08fddd2c788a
 BoltzmannMachines,4f8fbe5d-35a6-506b-99b3-b5866748635b
 BoltzmannMachinesPlots,e853e177-4ae5-507f-af00-4766098699e4
 BondGraphs,d1a4f103-cd9c-465b-aef3-7f12ef11bc98
+BongCloud,20044d60-3a24-43ac-9e79-7192f8ed3dce
 Bonito,824d6782-a2ef-11e9-3a09-e5662e0c26f8
 Bonmin_jll,29cba6d7-6840-5cf2-a2fa-9bdfccfe29ea
 Bonobo,f7b14807-3d4d-461a-888a-05dd4bca8bc3
@@ -1589,6 +1591,7 @@ CensusACS,5cdc1628-db7d-4f1a-9a42-d0831b0d3a5e
 CenteredRBMs,def70c09-f69f-4396-afd1-e8507a6dddbf
 CentralizedCaches,d1073d05-2d26-4019-b855-dfa0385fef5e
 CeresSolver_jll,274fe647-06be-54d6-af78-99f37f3755f2
+CertifiedHomotopyTracking,eb899720-675b-4191-acdc-9a7e63317b5e
 Cgl_jll,3830e938-1dd0-5f3e-8b8e-b3ee43226782
 ChaChaCiphers,f23b13a2-9352-431b-a28a-b2f20c485fa1
 Chafa_jll,52a89005-cc63-50df-a748-7ef82af009e5
@@ -1890,6 +1893,7 @@ CollectiveSpins,abf2e61e-3022-5fcf-a868-69d409dee72b
 Collects,08986516-18db-4a8b-8eaa-f5ef1828d8f1
 Collide,085180c5-06a8-45e0-97f1-b06875346562
 CollisionDetection,2b5bf9a6-f3f8-5352-af9c-82bb4af718d8
+CollocationIRK,3779a08a-8b2c-4d19-ac40-7acb68237a94
 Colocalization,5deedb61-f8ac-43ca-82f0-d70c51e04289
 ColorBitstring,ce91de38-7578-4b98-aebb-6a5df05791d6
 ColorBlendModes,60508b50-96e1-4007-9d6c-f475c410f16b
@@ -5465,6 +5469,7 @@ JUDI4Cloud,32925ad8-f583-44d3-8c77-a232bc7bbe09
 JUGRNModelGenerator,e4cc4544-6ee8-43a1-93bd-9ed80b3dc475
 JWAS,c9a035f4-d403-5e6b-8649-6be755bc4798
 JWTs,d850fbd6-035d-5a70-a269-1ca2e636ac6c
+JaCoP,02462d8f-a5b3-44fd-8fd4-3169fe7a24c5
 Jabalizer,5ba14d91-d028-496b-b148-c0fbc366f709
 JackPolynomials,ddfd1fc9-90b3-4604-ab0e-bc3dcbfcf898
 Jackknife,133c4774-c510-5f25-b650-129312f89f69
@@ -8387,6 +8392,7 @@ ParticleMDI,c070f950-bb2a-11e8-1d15-1b6f26bd9de9
 ParticleMethods,b097825d-39ce-45b2-a4ab-941e2c2df7e8
 ParticleScattering,3532a73c-0c3e-5edc-89e3-d771336b0a2d
 PartitionedArrays,5a9dfac6-5c52-46f7-8278-5e2210713be9
+PartitionedDistributions,569bd051-8d7b-4221-bcb8-d78512b5866a
 PartitionedLS,19f41c5e-8610-11e9-2f2a-0d67e7c5027f
 PartitionedMPSs,17ce1de9-5131-45e3-8a48-9723b6e2dc23
 PartitionedSolvers,11b65f7f-80ac-401b-9ef2-3db765482d62
@@ -8485,6 +8491,7 @@ PetroBase,b72d3798-c150-44c4-b6d4-c983c975f217
 PetroleumModels,5779e974-1f92-11eb-9f64-57741d3a5e0e
 PetscCall,1194c000-87c4-4102-b4a0-a6217ec4849e
 PetscWrap,5be22e1c-01b5-4697-96eb-ef9ccdc854b8
+Peven,7c3f1014-b4da-4ae0-8bf8-3335ad02c49c
 Pfam,275cd14a-065f-44bb-ab7a-e1328a0f1819
 Pfapack_jll,36de11a4-635f-5b15-8378-93f477661e31
 Pgvector,ab7f0314-681e-439b-b2a8-1689834ece97
@@ -9078,6 +9085,7 @@ PulsarSearch,b7fe27a0-ab0c-4e8e-b203-2a459fc90788
 PulseArchitect,dbc0c267-d109-4c6c-b2bb-d87c36f7afac
 PulseAudio_jll,02771fc1-bdb7-5db5-8d11-300768e00fbd
 PulseInputDDM,c2542da2-1f7d-11e9-2506-87691095ebb2
+PureHTTP2,7d1e1b98-28e7-4969-8df9-5a308937986a
 Purses,b933ae29-2b40-4477-9757-bdbbb03ce3a4
 PushVectors,36b54c61-190e-5a5f-82d5-6f0a962d7362
 Pushover,1d40253f-d7d5-5bc2-be73-07f0f24a3532
@@ -12472,6 +12480,7 @@ WannierExcitonModel,b427a48a-3e32-43b5-a614-63ff4457e590
 WannierIO,cb1bc77f-5443-4951-af9f-05b616a3e422
 WarmupHMC,60658175-6863-4866-a322-ab51a11c0cfe
 Wasabi,cec542a4-22c5-46cb-8ca4-a46a7737b387
+WasmTarget,9f3a1415-1112-405b-ae89-c61daf9872bd
 Wasmtime,f519113a-1485-4b12-af44-dbf9b5a2f6b4
 Wasmtime_jll,d20e7296-4f3e-515c-90b9-d2595a77bf72
 WaspNet,c0b53cd3-4946-4106-b8e7-91971464ade9
