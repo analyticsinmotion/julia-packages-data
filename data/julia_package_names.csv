@@ -825,6 +825,7 @@ BayesSizeAndShape,cb1733c5-7124-4973-b058-890cf74b35cb
 BayesianBlocks,69d15733-bbfe-49f8-b5d2-44af9c5bf4fb
 BayesianExperiments,0200d6b2-355c-4cc6-8967-0ef505c43a9c
 BayesianFactorZoo,3f8f70db-33be-4c52-a587-656da41b6848
+BayesianGLS,6a71d6f6-17a4-4117-9054-433c146cbe9e
 BayesianIntegral,170c7662-660e-5658-93f2-9369b3e86d75
 BayesianLinearRegression,5047281b-d44e-44a3-ad3e-58447b69b7ca
 BayesianLinearRegressors,f579363c-4606-5e5c-a623-c4549f609c4b
@@ -3030,6 +3031,7 @@ ERFA,17511681-8477-586a-8d98-4cfd5a1f2ec3
 ERFA_jll,a00367d1-88f1-52c5-9c6b-193aa5f849e1
 ESAInterpolationFiles,dfb2dbec-0384-47ba-b614-66be42e3cf9e
 ESBMC_jll,f2b6e0de-2827-5924-8156-f9b21238bd87
+ESRIcascade,44b9fa8a-7b67-4022-aaef-71217a010daf
 ESeriesRounding,7b398af1-3c03-4c36-a68d-b29057ec0a45
 ETOPO,eb8fb1ab-fde0-4497-ad36-194d38f2cde7
 EVMavg,83676904-526c-4bd2-b920-806f8f4550db
@@ -4190,6 +4192,7 @@ Game2048Core,449ebaaf-06bc-4dda-9a3f-b1c40666d086
 GameTheory,64a4ffa8-f47c-4a47-8dad-aee7aadc3b51
 GameTracer,8cb375ce-8ac0-445a-ba91-c464b2953507
 GameZero,9da27670-f782-11e9-1da1-f53579315bfe
+Gamen,d58aead4-12fe-4bc4-9bd9-a7dede724567
 Gamma,a0844989-3bd2-4988-8bea-c9407ab0941b
 GamsStructure,d6ad7568-1850-470f-916e-e505a496a0a2
 GapFindFill,3f3529c4-1ac4-11ea-2abf-331d22aacaec
@@ -5765,6 +5768,7 @@ KungIChi,f52142bb-6843-4e16-a1b1-69f2acef56c5
 Kwant,ed3f9b50-51cd-11e9-3ece-75fc8af922bb
 KwdefHelpers,80d9ef48-13f8-4f87-9333-d4c97b041895
 Kwonly,18d08c8c-0732-55ee-a446-91a51d7b4206
+L1Periodograms,be7c8491-5c0f-449a-97b3-ccd5cf8b9653
 L1TrendFiltering,b2ecaf23-c471-4976-bbc3-22be69e1f6bb
 LACosmic,a188e134-b1c0-4a25-bc7e-93a99f0f0e06
 LAGraph_jll,51243bbd-983c-5006-9250-ac9a1da43bd7
@@ -6926,6 +6930,7 @@ Mex,5e29dd5e-a72c-11e9-2bb7-cd1b1701caa7
 MibS_jll,118347d2-e127-56b9-9933-6abf9cc1adc1
 Mica,28c78530-8bb7-4fc0-9b88-04e8b391d412
 Mice,d4678d24-b338-4f96-a2c8-a66549d61c16
+MichiBoost,d4c3b8e2-7f5a-4b1e-9c6d-a2f8e3b0c1d4
 MicroCanonicalHMC,234d2aa0-2291-45f7-9047-6fa6f316b0a8
 MicroCollections,128add7d-3638-4c79-886c-908ea0c25c34
 MicroCoverage,735f9d89-249f-4fc4-9125-480239e6a78f
@@ -11943,6 +11948,7 @@ TransformerBlocks,5cc1ab4e-60b8-441f-a6b4-07f482118326
 Transformers,21ca0261-441d-5938-ace7-c90938fde4d4
 TransformsAPI,756644eb-7399-463e-a86e-97605fb648cd
 TransformsBase,28dd2a49-a57a-4bfb-84ca-1a49db9b96b8
+TransitLeastSquares,5c19cc68-9170-449c-b590-1f8211cd33e4
 TransitionMatrices,057c4241-e127-4181-840e-6b4b92e6eef5
 TransitionPathTheory,8e25bcd3-68d4-49ab-a21a-eececf317700
 TransitionalMCMC,5bc637a6-1a46-43ed-8ea7-ee39cc1921ce
