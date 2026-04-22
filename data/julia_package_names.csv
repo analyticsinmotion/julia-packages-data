@@ -7503,6 +7503,7 @@ NearestCorrelationMatrix,59ddf330-608c-4938-8bc9-a4ee97bbbea6
 NearestNeighborDescent,dd2c4c9e-a32f-5b2f-b342-08c2f244fce8
 NearestNeighborModels,636a865e-7cf4-491e-846c-de09b730eb36
 NearestNeighbors,b8a86587-4115-5ab1-83bc-aa920d37bbce
+NearestNeighborsTest,1d4e4914-a46b-4e08-8d2f-7bc89898521c
 NeatEvolution,fcc92617-70eb-4c43-847c-323c44b5224c
 NeatText,d28e2158-296f-49f9-928e-754b5a3efa02
 NeidArchive,b2c48323-12ae-41a0-acdb-062d24b276bc
@@ -11202,6 +11203,7 @@ StreamVByte_jll,90af1822-8dd1-5078-b228-f487b1f02c31
 Streamfall,09d4d480-e905-4803-959d-af438f1c2811
 StressTest,6e3341f8-3a0d-4582-a093-9d6e6d36caf8
 Stressify,8a229381-d7eb-4865-a507-cf9af2c5cd1e
+Stretto,6542ec78-ee1b-4af1-b08f-242328baa654
 StrideArrays,d1fa6d79-ef01-42a6-86c9-f7c551f8593b
 StrideArraysCore,7792a7ef-975c-4747-a70f-980b88e8d1da
 Strided,5e0ebb24-38b0-5f93-81fe-25c709ecae67
@@ -12250,6 +12252,7 @@ UniversalDependencies,aa815940-ac17-4642-b6b9-9c066aae69b2
 UniversalDiffEq,791b002b-939e-4b08-8060-ecf413fcb155
 UniversalFeynRulesOutput,e2970b7e-a80f-4839-9fc1-2a0f2f4c4333
 UniversalIntegerCodes,f9d38c27-4a81-4d8c-bddb-5ed3c8119a58
+UniversalMaterialModel,451d549b-da3a-4afd-9dba-1924b1a1c089
 UnixCompress,3f1a3b67-9ed5-4096-bdaa-9e31f28ad61f
 UnixMmap,674b2976-56af-439b-a2b1-837be4a3d087
 UnixTimes,ab1a18e7-b408-4913-896c-624bb82ed7f4
