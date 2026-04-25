@@ -5832,7 +5832,9 @@ LLVM_assert_jll,1a4ff6f1-5156-5f9a-8aa5-a2840611f610
 LLVM_full_assert_jll,6ec703ca-3f29-566b-9bb1-b5c9e844abaf
 LLVM_full_jll,a3ccf953-465e-511d-b87f-60a6490c289d
 LLVM_jll,86de99a1-58d6-5da7-8064-bd56ce2e322c
+LLVM_unified_jll,ab2214a1-3e65-5759-b805-15fb2da50eb2
 LLVM_utils_jll,7464d292-bb96-5107-870f-256ce0e8f954
+LLVM_utils_unified_jll,0def2053-1a45-54bc-bfc1-6427e7aae702
 LMDB,11f193de-5e89-5f17-923a-7d207d56daf9
 LMDB_jll,6206cf0b-f360-5984-af49-5437264c140e
 LMDiskANN,a2e5363b-c4e1-4593-9e2f-a2937b345987
@@ -6340,6 +6342,7 @@ LuxDeviceUtils,34f89e08-e1d5-43b4-8944-0b49ac560553
 LuxLib,82251201-b29d-42c6-8e01-566dec8acb11
 LuxRecurrentLayers,5e5405f4-2f7b-4c22-98a2-cf8b6168ae33
 LuxTestUtils,ac9de150-d08f-4546-94fb-7472b5760531
+LuxTriangleAttention,3d5d7496-9328-4173-860c-6da38a33fff6
 Luxor,ae8d54c2-7ccd-5906-9d76-62fc9837b5bc
 LuxorGraphPlot,1f49bdf2-22a7-4bc4-978b-948dc219fbbc
 LuxurySparse,d05aeea4-b7d4-55ac-b691-9e7fabb07ba2
@@ -7950,6 +7953,7 @@ OpenSMILES,29c4880b-f2d1-40f2-9463-012547100b04
 OpenSSH_jll,9bd350c2-7e96-507f-8002-3f2e150b4e1b
 OpenSSL,4d8831e6-92b7-49fb-bdf8-b643e874388c
 OpenSSLGroups,50771dd1-78b8-490c-a786-5ddc80ce15da
+OpenSSL_CLI_jll,5c75c0c5-d41e-523d-9fce-fb93fc296351
 OpenSSL_jll,458c3c95-2e84-50aa-8efc-19380b2a3a95
 OpenScienceFramework,ca34efa3-7b06-4646-a985-ce0937c3739e
 OpenScripturesHebrew,a2aa3e71-aced-403c-831b-dc7e729b9ba3
@@ -9000,6 +9004,7 @@ ProductArrays,39a08dd0-b4b7-4086-afbb-eb1796240846
 ProfileCanvas,efd6af41-a80b-495e-886c-e51b0c7d77a3
 ProfileEndpoints,873a18e9-432f-47dd-82a7-1a805cf6f852
 ProfileLikelihood,3fca794e-44fa-49a6-b6a0-8cd45572ba0a
+ProfilePerfetto,d4e8f2a0-1b3c-4d5e-9f7a-8b6c5d4e3f2a
 ProfileSVG,132c30aa-f267-4189-9183-c8a63c7e05e6
 ProfileVega,4391764f-db79-4bd7-a4c6-f9062de4300e
 ProfileView,c46f51b8-102a-5cf2-8d2c-8597cb0e0da7
@@ -13239,6 +13244,7 @@ libsamplerate_jll,9427e74d-4e05-59c1-8ff3-7d74b6e52ac8
 libsass_jll,47bcb7c8-5119-555a-9eeb-0afcc36cd728
 libseccomp_jll,bbe1b2b0-80d5-5705-9e4b-b28efe83ce82
 libsemigroups_jll,99c76e05-e2a6-5e47-b69a-d74ec2f0d12c
+libsemigroups_julia_jll,49785210-2e0e-5fa7-bc86-ac158b29c4ea
 libserialport_jll,220460dc-b50e-5ed0-8176-09b0fd261e90
 libsharp2_jll,180207a7-b08e-5162-af94-7d62a04fe081
 libsigcpp_jll,8855df87-3ca1-5a3d-a68b-4f0ddc198ba8
