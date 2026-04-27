@@ -241,6 +241,7 @@ AffineScaler,75005516-5893-409d-9e89-87dc6c6330eb
 AffyCelFiles,efc83544-1c47-49f8-8867-17a7f6cc0942
 Agama_jll,966baf2c-d1f1-5710-8d7e-4d538f29c110
 Agate,41889b7c-c35c-4f16-abd7-94b299d9fd29
+AgentBible,1cf589dd-6d9d-4b3c-8f51-646b1be7d77f
 Agents,46ada45e-f475-11e8-01d0-f70cc89e6671
 AgentsExampleZoo,88acaeb2-2f63-4ada-bca2-2825d9da22ed
 AgentsPlots,7820620d-95fb-4739-93b3-b0a14dd83f9a
@@ -557,6 +558,7 @@ AtomGraphs,5a360db7-3336-4c46-b5a1-be4fe079ea55
 AtomTwin,4fbb9974-894c-4a41-a014-437e511f5eec
 AtomicAndPhysicalConstants,5c0d271c-5419-4163-b387-496237733d8b
 AtomicArrays,47b95ec9-9f64-4e52-930c-0b1ac2f8934e
+AtomicChannels,44ab9252-467d-406b-8247-97505f0e2540
 AtomicData,6b77412b-f4b7-4495-8b9c-778517285205
 AtomicFileWrite,f119f125-4b25-46d8-b5f3-95ec5c404bfa
 AtomicGraphNets,ccdf130a-3c88-4595-a023-a7e7f78b9dd5
@@ -7964,6 +7966,7 @@ OpenScienceFramework,ca34efa3-7b06-4646-a985-ce0937c3739e
 OpenScripturesHebrew,a2aa3e71-aced-403c-831b-dc7e729b9ba3
 OpenSlide_jll,becf559c-afb9-529d-9a2d-92566e0304eb
 OpenSoundControl,2ff8ee2d-9747-4b2b-b699-45d473b7b9df
+OpenSourceRoutingMachine,19e5a071-0e58-4e20-9e36-393e8533d14d
 OpenSpecFun_jll,efe28fd5-8261-553b-a9e1-b2916fc3738e
 OpenSpiel,ceb70bd2-fe3f-44f0-b81f-41608acaf2f2
 OpenSpiel_jll,bd10a763-4654-5023-a028-c4918c6cd33e
@@ -9229,6 +9232,7 @@ Qaintellect,0a7fc590-1c99-4bf9-b5a7-8c116fa99d16
 Qaintessent,9e6618a4-6605-11ea-2880-e931cf774ea8
 Qaintmodels,ab7059c2-a49a-4c6e-9904-a72a0109a3ff
 Qaylla,160ec2fe-adfa-420e-809b-15ae23db4a01
+Qdrant,dbfca70a-f45c-4ba8-8c04-a9b96ef74a4f
 Qdrant_jll,49d5a0a8-0cca-57b3-8548-a2cd8c16dcd0
 Qecsim,e6c2bad3-a74c-45bb-aaa0-aff4e9ffa0d7
 Qemu_jll,72aeabae-b714-56e8-bb55-1d7ed6f48f02
@@ -9755,6 +9759,7 @@ ReliabilityOptimization,55eddd50-7f45-4398-96cf-6a37e2b16f80
 Relief,e59a39ae-ffc4-11ea-35a5-2b2996f35250
 ReloadableMiddleware,6b39ad65-d4e1-4a6a-9d75-56e3fde28494
 RelocatableFolders,05181044-ff0b-4ac5-8273-598c1e38db00
+Relucent,d4a0f349-cd98-4799-b7a0-96cbe38b225a
 RemBG,c9661a82-1e2c-4ef3-adad-5e80c329bd66
 Remark,79b45036-8e38-5d04-8f49-b9fb23ff5a0d
 Remarkable,4ac160eb-0277-4e02-b3c6-a4c4623dd812
