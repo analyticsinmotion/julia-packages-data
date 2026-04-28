@@ -216,6 +216,7 @@ Adjacently,411c8731-a39f-4a7d-8b26-fcc9fee4eb7b
 AdjustCRC,ff5396d8-130b-441a-8382-fec03de644a8
 AdmittanceModels,5eda1363-42a2-4d75-bc45-7e2a4a7b92b2
 AdobeGlyphList,715cd884-8f22-55db-b077-449d1f7eef73
+AdvErl,dde1bd1d-599b-48f2-9a33-c620c8659a43
 AdvRBMs,5c8d321f-d88f-4112-b4bc-67901fc2de0a
 AdvancedEncryptionStandard,ffb1ca98-47b0-4d1d-981f-3619cfc1f844
 AdvancedHMC,0bf59076-c3b1-5ca4-86bd-e02cd72cde3d
@@ -5787,6 +5788,7 @@ LASindex,f5cc2397-9d3e-5971-afd7-e1f28e1d1eef
 LAStools_jll,2502db7c-e51e-5cc5-b107-5f8e6dbfe9b6
 LASzip_jll,8372b9c3-1e34-5cc3-bfab-1a98e101de11
 LAZperf_jll,498468b5-6726-5392-b148-b36d48e22663
+LAlatex,2feda2f4-7604-459e-bd73-51e960cd9dcb
 LBFGSB,5be7bae1-8223-5378-bac3-9e7378a2f6e6
 LCIO,94167541-0a4e-5fbf-aeea-474b87c587e3
 LCIO_Julia_Wrapper_jll,1fe59b3e-ae39-56b2-a121-c4c5e6ddab56
@@ -10936,6 +10938,7 @@ SphericalHarmonicModes,0e9554e2-b38b-11e9-16d7-9d9abfec665a
 SphericalHarmonics,c489a379-e885-57ff-9236-bd896d33c250
 SphericalScattering,1a9ea918-b599-4f1f-bd9a-d681e8bb5b3e
 SpheroidalWaveFunctions,02c85723-9d49-4e80-ba06-d2f5c9d5147a
+SpheroidalWaves,5995e872-983e-498e-9750-1cefbd4fb98d
 SpiDy,a4849050-cccd-45e7-a409-2b114d5ccb2f
 SpiceData,8ca2a67e-f683-5b14-a319-732e1d1d8f2e
 Spider,dae5e5ee-8eca-4ada-95ce-87810a1e1f9e
@@ -13361,6 +13364,7 @@ ocl_icd_jll,43088459-b9e4-5d54-8487-0befc54bcdc8
 odrpack_jll,d4b606b2-00e0-534d-b821-fa459008cf27
 oneAPI,8f75cd03-7ff8-4ecb-9b8f-daf728133b1b
 oneAPIKernels,3b98bdbd-c5fb-40e4-a3b9-3b59ff234f62
+oneAPI_Level_Zero_Headers_LTS_2523_40_jll,4bb96339-c1ac-5323-91ee-d669a182ecf2
 oneAPI_Level_Zero_Headers_jll,f4bc562b-d309-54f8-9efb-476e56f0410d
 oneAPI_Level_Zero_Loader_jll,13eca655-d68d-5b81-8367-6d99d727ab01
 oneAPI_Level_Zero_jll,0038a6a5-a77d-50b4-8f67-3bd55e463950
