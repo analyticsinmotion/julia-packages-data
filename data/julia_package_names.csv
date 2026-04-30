@@ -2315,6 +2315,7 @@ Cxx,a0b5b9ef-44b7-5148-a2d1-f6db19f3c3d2
 CxxCall,dbaf2c2e-b61b-429c-b386-57175d7288fb
 CxxInterface,62027b0a-52e9-423e-ab47-e314c210e772
 CxxWrap,1f15a43c-97ca-5a2a-ae31-89f07a497df4
+CyScat,d0429bee-8297-4627-994a-9d0f4cf943a8
 CyberArkPVWAClient,842c8c75-e601-4f84-b414-b792984ce9c7
 CycPols,05fb067e-2cd1-4891-b41e-2c136232fb98
 CycleGAN,b578ace5-c882-4d45-8098-f9efd5fa1cb0
@@ -13366,7 +13367,9 @@ odrpack_jll,d4b606b2-00e0-534d-b821-fa459008cf27
 oneAPI,8f75cd03-7ff8-4ecb-9b8f-daf728133b1b
 oneAPIKernels,3b98bdbd-c5fb-40e4-a3b9-3b59ff234f62
 oneAPI_Level_Zero_Headers_LTS_2523_40_jll,4bb96339-c1ac-5323-91ee-d669a182ecf2
+oneAPI_Level_Zero_Headers_LTS_jll,d79c0b2e-896c-561b-aab9-323701ec0314
 oneAPI_Level_Zero_Headers_jll,f4bc562b-d309-54f8-9efb-476e56f0410d
+oneAPI_Level_Zero_Loader_LTS_jll,f6e5cbb4-ba2a-56dc-92a2-9d66f5656ccd
 oneAPI_Level_Zero_Loader_jll,13eca655-d68d-5b81-8367-6d99d727ab01
 oneAPI_Level_Zero_jll,0038a6a5-a77d-50b4-8f67-3bd55e463950
 oneAPI_Support_Headers_jll,24f86df5-245d-5634-a4cc-32433d9800b3
