@@ -925,6 +925,7 @@ BibInternal,2027ae74-3657-4b95-ae00-e2f7d55c3e64
 BibParser,13533e5b-e1c2-4e57-8cef-cac5e52f6474
 BibTeX,7b0aa2c9-049f-5cec-894a-2b6b781bb25e
 BiblicalHebrew,23d2231d-1fc1-47c2-a612-987552d9b38e
+BiblioFetch,762df351-a244-4190-a0f4-a80c2d45f387
 Bibliography,f1be7e48-bf82-45af-a471-ae754a193061
 BifrostTools,526b3974-5bd8-47e8-be8d-381be867b53b
 BifurcationInference,7fe238d6-d31e-4646-aa16-9d8429fd6da8
@@ -3640,6 +3641,7 @@ FeedbackParticleFilters,f4440bb6-80da-11e9-1db0-85cc1897f664
 Fenrir,e9b4b195-f5cd-427c-8076-5358c553c37f
 Fermi,9237668d-08c8-4784-b8dd-383aa52fcf74
 FermiDiracIntegrals,e265ac49-cc4b-4270-b3a8-e67d55197967
+FermiSea,17eb78a2-c272-434d-a5cf-0011aaf8e6bd
 FermionXYModels,19fd5c17-81b1-4921-a398-53333efd3594
 Fermionic,9854c450-6826-470b-b7cd-d3803b32f4ba
 FermionicHilbertSpaces,82e5dd95-83c3-46b2-a303-acc930c81756
@@ -4084,6 +4086,7 @@ GHCNData,7e11e036-0ca3-4a2d-a287-b6bec19ddff0
 GIAC_jll,cf749d6c-42f5-550d-8800-4812740c2942
 GIFImages,7064036c-d33e-4a25-b247-cf6150d8ad81
 GIRFReco,cf1bd817-9e2d-403d-b1e7-15ef5a867bae
+GIVPOptimizer,52b765d9-9955-43cf-8457-2e847d316e43
 GLAbstraction,ca6e7d0a-b0c9-59ca-8aba-aebf11497e1c
 GLEW_jll,bde7f898-03f7-559e-8810-194d950ce600
 GLFW,f7f18e0c-5ee9-5ccd-a5bf-e8befd85ed98
@@ -9435,6 +9438,7 @@ RAxML_jll,c041c47d-3145-556a-bf4b-99e7014d775b
 RBMsAnnealedImportanceSampling,f4818a02-fb31-488d-84ee-227add8f92b8
 RBNF,83ef0002-5b9e-11e9-219b-65bac3c6d69c
 RBiQuaternions,be7923c8-3e70-447d-8860-ce9fd1d8f58a
+RCCL,a41c8d2e-5322-4c25-8a33-a585bf3f9d32
 RCall,6f49c342-dc21-5d91-9882-a32aef131414
 RDDP,2f046eea-e9a0-482c-8c12-e34140017081
 RDKafka,43e2f499-f4c7-585f-8317-cbc2d9c3bf8f
