@@ -2799,6 +2799,7 @@ DisplayStructure,3564bb48-796b-48a4-9154-f091725b7055
 Displaz,67fdca37-c731-5d95-9a19-4e7673210fab
 DistMesh,f7ee28b6-bfbf-11e9-3e31-8961b86f052c
 DistQuads,6966f90c-3441-5cda-97d6-80813c921d68
+DistanceDependentCRP,de57f43c-cd6e-4458-91da-1920171fba1c
 DistanceFields,cbc00ff9-31b5-4f80-b2d7-f36b47fd6865
 DistanceTransforms,71182807-4d06-4237-8dd0-bdafe4d097e2
 Distances,b4f34e82-e78d-54a5-968a-f98e89d6e8f7
@@ -10379,6 +10380,7 @@ Semicoroutines,b37d3d51-cc38-4fad-93cd-e6859934553f
 SemidefiniteModels,169818f4-1a3d-53bf-95b3-11177825b1e3
 SemidefiniteOptInterface,f0680fed-b2cd-5302-98f9-f4da282d86b5
 SemifieldAlgebra,bcec86f5-ca56-4bff-b104-0763dbc0fc1b
+Semigroups,f8a5e1c0-7b2d-4a3e-9c6f-1d2e3f4a5b6c
 Semirings,900aad66-9ca5-44d4-b043-321c62cb7767
 SemiseparableMatrices,f8ebbe35-cbfb-4060-bf7f-b10e4670cf57
 SenseHat,0dbe55a1-025c-5c9b-ab45-55492d058cfb
