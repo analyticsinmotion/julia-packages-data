@@ -2635,6 +2635,7 @@ Dhall,f7fc0f56-fd22-44bd-b234-bafb44a5fc23
 DiBitVectors,1d781980-c74a-44d0-9ec2-b658ff5df7eb
 DiagHamInterface,2f27495d-c82b-46d5-b81b-1bb9aa58c4d5
 DiagnosisClassification,07aaf720-95f5-4794-b3fe-c98bfa9054ef
+DiagonalIndexing,d2677e01-3654-4f8a-9d1f-7a356cb83656
 Diagonalizations,9cd687f3-b62d-43f3-8fd3-ffcd9e581047
 DiagrammaticEquations,6f00c28b-6bed-4403-80fa-30e0dc12f317
 Diamond_jll,cf5bb7c9-ab56-52de-8deb-a2cf8e1fd3a3
@@ -2737,6 +2738,7 @@ DimensionalData,0703355e-b756-11e9-17c0-8b28908087d0
 DimensionalPlotRecipes,c619ae07-58cd-5f6d-b883-8f17bd6a98f9
 DimensionfulAngles,2d4b8d7a-02d9-40f9-9abe-9c695b77de0d
 Dimensionless,a24885ee-f44e-4313-a031-cb477fdea68a
+Dimensions,5f902022-033a-44bd-a904-0a49265d4d22
 DingDingDing,3926c259-39ba-4d74-9c2f-25ff6470b8c3
 Dionysos,d92c97cf-b87d-42c1-a9c0-25df00b4d958
 Diplodocus,792d114c-f8c3-4b81-9580-cc03468a5b58
@@ -6537,6 +6539,7 @@ MPIMeasurements,a874a27a-e9a7-503d-98b6-bf61df4bb725
 MPIPreferences,3da0fdf6-3ccc-4f1b-acd9-58baa6c99267
 MPIR_jll,426c3dee-e38f-5a7f-9125-e2686f44d6f1
 MPIReco,e4246700-6248-511e-8146-a1d1f47669d2
+MPISharedMemLUs,16de62c6-7569-4410-9c3f-4d5d9d54e565
 MPISort,404a976e-21b5-45c7-95b2-5d74c9953ee0
 MPISphericalHarmonics,2527f7a4-0af4-4016-a944-036fbac19de9
 MPITestImages,67a05f95-e8e3-406b-b1ec-9f1919b23209
