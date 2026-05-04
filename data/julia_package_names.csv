@@ -292,6 +292,7 @@ AlgoimDiff_jll,ce515d28-882f-5689-846d-f09a18d37b96
 AlgorithmicCompetition,435e633d-9c15-4973-be77-d092c40524e8
 AlgorithmicRecourseDynamics,3d1ede72-abb8-4340-bf8e-2ae06849b5ec
 AlgorithmsCollection,9ff941b3-d743-4c60-9dd5-2748db76006b
+AlgorithmsInterface,d1e3940c-cd12-4505-8585-b0a4b322527d
 AliasTables,66dad0bd-aa9a-41b7-9441-69ab47430ed8
 Alicorn,80a53053-bcf5-42c0-89b5-2140b4d6711b
 AlignedAllocs,6ac60441-711f-43f0-8178-7f71f0888134
@@ -3947,6 +3948,7 @@ FredData,6e85b7ee-7d24-5488-b1b7-e4f4198c51ac
 FredMDQD,37d59902-f8b1-4525-bb82-82b728cb01b3
 Fredholm,1b4b468e-bff8-4dce-bfe5-35e47b6235aa
 FreeBird,b4936512-85e8-430f-a91d-7f510ed448a2
+FreeGaussianizer,7f0b8262-4a63-4ff6-90d3-3af6a5556fe5
 FreeParameters,c2bd907f-6643-4f95-bba2-6fb2889bb36c
 FreeSurfer,cbb28e16-2113-4377-92c1-bba511c54513
 FreeType,b38be410-82b0-50bf-ab77-7b57e271db43
@@ -4803,6 +4805,7 @@ Hawkes,1a8a6ae1-07e9-4335-83e9-6ca622dd13bc
 HawkesProcesses,2d64fb00-3e8a-11e9-1551-1b9de1d1a1b5
 Hayagriva_jll,f3aafa49-307a-5320-a5bb-18aa0b37134e
 HclinicBifurcationKit,0e751702-a6d5-4e4e-bf0f-194619fbec56
+HeFFTe_jll,7b92b817-26b5-541f-8611-85454e06426f
 HePPCAT,5b0c0c40-6f85-415d-b828-3ce01d5b51ec
 HeaderArrayFile,e2354eee-dcc0-4139-addc-ce07950641e0
 HeaderREPLs,54d51984-71c9-52bd-8df9-6718e63e4153
@@ -9192,6 +9195,7 @@ QEPOptimize,9f67e06f-6394-43be-a72d-a2000081c01d
 QGIS,f157c2ba-572d-4438-a710-d9db9a9b13c0
 QGYBJplus,9782897d-e654-4714-b43b-fe3f3f944194
 QHull,a8468747-bd6f-53ef-9e5c-744dbc5c59e7
+QILaplace,62ad503f-14a8-4749-be6f-41098d8db53a
 QLawController,abf9877f-367a-4f05-a285-16210808b276
 QMCGenerators,fcae8fc2-2969-4f4b-b6c9-a95746d81969
 QMDDocTools,c50e25eb-ade4-4c96-a757-2a1fd62cbd8c
@@ -9565,6 +9569,7 @@ RandomizedPreconditioners,3e7891d3-c9d1-416a-9949-ebd96150e4f0
 RandomizedProgressiveHedging,9d6c422e-8155-11e9-28dd-5d3b5357240e
 RandomizedPropertyTest,6d7a0864-9fbc-11e9-1427-7bb65d6eba8e
 RandomizedQuasiMonteCarlo,86e2ceac-6d26-4fc9-a89c-301e41ecded2
+Randompack_jll,5c24137f-ff18-52c9-a23f-97a498cab286
 RangeArrays,b3c3ace0-ae52-54e7-9d0b-2c1406fd6b9d
 RangeEnclosures,1b4d18b6-9e5d-11e9-236c-f792b01831f8
 RangeExtractor,0151565a-6c01-463c-b553-c2b2e3b729c0
@@ -9981,6 +9986,7 @@ RxInfer,86711068-29c9-4ff7-b620-ae75d7495b3d
 RxNav,204b4f30-d656-11eb-06dc-3b971f9bbb52
 RxnHelperUtils,58b8660e-aa37-4837-a287-8893ee0015f8
 RxvtKeyBindings,669f0021-236d-4bc5-9694-b723bfb83af1
+S2Geography_jll,e70b04b4-ac82-5d66-a4c6-86165034a7c0
 S2Geometry_jll,846536d6-5c10-5069-b47f-45525c463cf9
 S2TwTrans,5cf70722-ebfd-496e-996c-d9fcb5a97026
 SALTBase,265b7df6-2be8-4c25-b607-723db51099b1
