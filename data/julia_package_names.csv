@@ -1349,6 +1349,7 @@ COBRA,58298e0b-d05c-52ec-a210-0694647ebfc7
 COBREXA,babc4406-5200-4a30-9033-bf5ae714c842
 COBS,51d40088-776c-571e-837e-515b83a6b6e6
 COBSReduced,719baba0-b808-11eb-2c94-7207250cf58f
+COCOA,9ecc82ce-b930-45f2-8d28-709640a22783
 COESA,13e0c4e3-fd7a-51bf-9e22-ec7679f18909
 COINBLAS_jll,70ea7731-f516-5e6d-b63f-53a67d65e1cf
 COPIERTemplate,5022dd56-1d41-4538-9f4c-b20739ff8283
@@ -3099,6 +3100,7 @@ EconomicScenarioGenerators,1d18cbdc-9ca7-45fd-a8b2-b9434f9145be
 Ecophys,19467474-d12d-47c9-939f-3e50fbfd93ad
 Ecosons,79264595-ebef-4885-9da8-6ac76f78a2e5
 EdgeCameras,2c982244-eb47-11e8-1c11-070084c1fd7d
+EdgesGauging,99f3df80-1460-4458-868c-22d2e2492b01
 EditBoundary,8bb5e942-8cec-4ba7-bbd0-1456b2d7b960
 EditionBuilders,2fb66cca-c1f8-4a32-85dd-1a01a9e8cd8f
 EditorsRepo,3fa2051c-bcb6-4d65-8a68-41ff86d56437
@@ -4263,6 +4265,7 @@ GemmKernels,312cec97-f96c-4f55-a63d-8e567f91b59b
 Gen,ea4f424c-a589-11e8-07c0-fd5c91b9da4a
 GenFlux,bf80db26-2df5-4c23-a907-3a9ed30ce870
 GenGPT3,bf5e1513-8b89-42fc-a2bc-387c809df403
+GenICam,877cf6bb-8a86-4aba-855a-f87d24631fe5
 GenICamRuntime_jll,aa41fe3f-f84b-5278-bb8c-b34b17f07c6c
 GenLib,e0fdd441-59bc-4b30-afdc-19bed4d9eb49
 GenLinearAlgebra,2304d612-645f-44c0-913c-a25a709b015d
@@ -7385,6 +7388,7 @@ NDTools,98581153-e998-4eef-8d0d-5ec2c052313d
 NDimensionalSparseArrays,6e93e0f3-59a5-426f-9354-1ff93716b9b4
 NEFTInterface,a0053b83-2858-41a9-bfb0-1030075bb8f6
 NEOSServer,f10290a3-90ea-431b-80e2-02d4e6b73321
+NEO_LTS_jll,a724f90f-ce79-56dd-a1bd-b9de5a61085f
 NEO_jll,700fe977-ac61-5f37-bbc8-c6c4b2b6a9fd
 NEOs,b41c07a2-2abb-11e9-070a-c3c1b239e7df
 NES,ec764722-9dc8-11e9-08dd-a3cdb7c22a6f
@@ -10216,6 +10220,7 @@ SaguaroTrader,26277856-a3f7-4646-aaac-f090473ab108
 SaguaroTraderResults,1186189a-80ad-45af-add8-08b461ccbf8f
 Sainsc,4c4340ea-7f9e-46b4-8512-61f1f6c41a11
 SalesForceBulkApi,de68a502-6b26-11e9-2c24-19af4cbda7e6
+SallyScope,bdc509e6-e5f8-4c54-b183-09f7d375e776
 Salsa,1fbf2c77-44e2-4d5d-8131-0fa618a5c278
 SampleArrays,740e20ac-97ea-4c00-b3fe-fb313cfcaca0
 SampleChains,754583d1-7fc4-4dab-93b5-5eaca5c9622e
@@ -10726,6 +10731,7 @@ Smg2s,36e52ba8-0d61-4da2-bc57-6d85c7a279e7
 SmithChart,0c39085a-4a17-4c0c-9861-c4c53bcea38a
 SmoQyDEAC,9c442b74-637f-4296-b43a-959aa316565a
 SmoQyDQMC,00e12d65-277b-447e-9c1d-a17422dd36f5
+SmoQyElPhQMC,2e896e94-a4a1-44d3-bdd1-72a60ceb4988
 SmoQyHankelCorrCleaner,0ea08462-a9b7-4dbd-b738-4196db0ff3ad
 SmoQyKPMCore,30e33e58-a96a-4fec-8c75-57692dd3ff18
 SmoQySynthAC,fe3e30a4-de68-41ff-a057-b00c4bb8fcbc
@@ -13229,6 +13235,7 @@ libharu_jll,d4e8948d-4b7e-5538-9d15-404f6f0a9070
 libheif_jll,a13778fd-9a17-58b4-b5a0-4b4a242815a9
 libidn2_jll,e3d30ef0-22f3-5ccc-b703-2e063d8d1f30
 libidn_jll,f0f5855d-14eb-5155-b6cb-9f6c251f73bb
+libigc_LTS_jll,9a8258a1-e827-5686-bee9-144461246960
 libigc_jll,94295238-5935-5bd7-bb0f-b00942e9bdd5
 libigl_jll,b22ceafb-42ac-50cb-bbfc-91fa172c9161
 libiio_jll,8da1a5bb-246c-59c5-9ba1-a6804f8e92f0
