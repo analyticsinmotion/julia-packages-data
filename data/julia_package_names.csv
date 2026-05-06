@@ -6536,6 +6536,7 @@ MPIAsyncPools,71dbed6d-20b0-48c6-bb22-c3e423edce76
 MPICH_CUDA_jll,be7bd464-f152-51b7-b3a2-8e7b69765627
 MPICH_jll,7cb0a576-ebde-5e09-9194-50597f1243b4
 MPIClusterManagers,e7922434-ae4b-11e9-05c5-9780451d2c66
+MPIDenseLUs,e8a62dcf-60e4-418b-90b5-fa9f605e4ca5
 MPIFiles,371237a9-e6c1-5201-9adb-3d8cfa78fa9f
 MPIHaloArrays,e77e6532-e7cc-40ad-aebc-b383a150aff6
 MPILargeCounts,03b5a6d4-3f85-4eec-9d38-a1f1826bd98e
@@ -8360,6 +8361,7 @@ ParallelAnalysis,c8fef40c-3641-40f1-b0ae-e08425a5d2fc
 ParallelDataTransfer,2dcacdae-9679-587a-88bb-8b444fb7085b
 ParallelKDE,251f600b-d60c-4092-b1b9-465b74160c73
 ParallelKMeans,42b8e9d4-006b-409a-8472-7f34b3fb58af
+ParallelMCMC,1a970f40-4406-51c9-a967-cb3143c111e8
 ParallelMapReduce,35c9ef8c-44cb-42a7-bccd-f3b9e73321fd
 ParallelMergeCSR,c4b929cc-6141-4ba4-8849-280a863346e1
 ParallelNeighbors,195f4218-6b04-4c05-a00e-4e57ae4ff715
@@ -13287,6 +13289,7 @@ libsemigroups_jll,99c76e05-e2a6-5e47-b69a-d74ec2f0d12c
 libsemigroups_julia_jll,49785210-2e0e-5fa7-bc86-ac158b29c4ea
 libserialport_jll,220460dc-b50e-5ed0-8176-09b0fd261e90
 libsharp2_jll,180207a7-b08e-5162-af94-7d62a04fe081
+libsie_z_jll,d0a94e12-2f58-5ad4-a7be-b35833414070
 libsigcpp_jll,8855df87-3ca1-5a3d-a68b-4f0ddc198ba8
 libsingular_julia_jll,ae4fbd8f-ecdb-54f8-bbce-35570499b30e
 libsixel_jll,075b6546-f08a-558a-be8f-8157d0f608a5
@@ -13394,6 +13397,7 @@ oneAPI_Level_Zero_Headers_jll,f4bc562b-d309-54f8-9efb-476e56f0410d
 oneAPI_Level_Zero_Loader_LTS_jll,f6e5cbb4-ba2a-56dc-92a2-9d66f5656ccd
 oneAPI_Level_Zero_Loader_jll,13eca655-d68d-5b81-8367-6d99d727ab01
 oneAPI_Level_Zero_jll,0038a6a5-a77d-50b4-8f67-3bd55e463950
+oneAPI_Support_Headers_LTS_jll,0e9de0da-c0b6-5d6c-9871-5c996d414ca7
 oneAPI_Support_Headers_jll,24f86df5-245d-5634-a4cc-32433d9800b3
 oneAPI_Support_jll,b049733a-a71d-5ed3-8eba-7d323ac00b36
 oneDNN_jll,3523a63d-8698-5b6f-b2c2-68eaa6bde0f0
