@@ -418,6 +418,7 @@ ArbitrageFreeSABR,2608ead3-6571-486a-ad88-5e77169cf741
 Arbitrary,07bf71a7-21be-5f6a-a6d1-44595bb4f960
 ArbitraryLinearPlasmaSolver_jll,bef83552-04e7-5870-adb7-64f9f8656e45
 Arblib,fb37089c-8514-4489-9461-98f9c8763369
+Arborist,226a4f77-d45f-40bb-908f-e1e2bc89957a
 ArcadeLearningEnvironment,b7f77d8d-088d-5e02-8ac0-89aab2acc977
 ArcadeLearningEnvironment_jll,52cbb755-00ff-5a24-b23e-8a91c598877e
 ArchGDAL,c9ce4bd3-c3d5-55b8-8973-c0e20141b8c3
@@ -2617,6 +2618,7 @@ Descartes,ea4ead7c-22ac-5e77-afc5-cd927cdc0b20
 DescribedTypes,8741edd9-8b82-4aab-aab4-ad85b116ccea
 DescriptorSystems,a81e2ce2-54d1-11eb-2c75-db236b00f339
 DesignStructureMatrix,19401b82-8c43-11e9-36fe-e7e08b9911f1
+DesirabilityScores,4c2d0946-a3d2-4bb8-8258-3a09d0d24184
 Desktop,b29a95c0-35db-4866-a636-e016a4ee858a
 Desmos,4511bacd-46ac-4e41-b5d2-355eeb7547f4
 Destruct,dde75ccc-4946-507f-85f2-ccadd28c929c
@@ -4377,6 +4379,7 @@ GeoMakie,db073c08-6b98-4ee5-b6a4-5efafb3259c6
 GeoMakieArtifacts,c06dcbe2-c11f-4421-b8ce-2adf73295f27
 GeoMapping,855c05df-eed8-5362-a099-6b509f53b81a
 GeoMet,17f98db7-af68-4c95-97fe-c6749748e69a
+GeoNamesAPI,765d8e3e-f214-4ecb-acbb-a2789e381393
 GeoParams,e018b62d-d9de-4a26-8697-af89c310ae38
 GeoParquet,e99870d8-ce00-4fdd-aeee-e09192881159
 GeoRegions,b001f823-fa75-4bff-bf55-6610c8f3688a
@@ -11792,6 +11795,7 @@ ThickNumbers,b57aa878-5b76-4266-befc-f8e007760995
 ThinFilmsTools,e990187e-78db-4ef6-b01c-c671a8d7225b
 ThinPlateSplines,1d861738-f48e-4029-b1d3-81ce6bc7f5ab
 Thinkers,6d80a3f9-a943-41fa-97b3-3004c0daf7a3
+ThorAxe,cf6a4a95-c6c1-4b3e-818d-24edc886ccb5
 ThorlabsLTStage,c851c8d9-0c3b-43db-9ff0-525c27d20a67
 Thorn,0ee5c03e-c25f-11e9-3953-ad1d99449e47
 ThreadLocalCounters,a69d1b5e-1cd7-4edd-aa26-bee352d56156
