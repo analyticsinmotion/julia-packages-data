@@ -443,6 +443,7 @@ Ark,56664e29-41e4-4ea5-ab0e-825499acc647
 Armington,448fece5-6e02-4dfe-bf33-b4920090d0e2
 ArnoldiMethod,ec485272-7323-5ecc-a04f-4719b315124d
 ArnoldiMethodTransformations,fede57cc-428a-11e9-3e5c-c149a0a4072d
+ArnoldiVandermonde,dfb2314e-7b44-493c-847d-ffb1b242c444
 Arpack,7d9fca2a-8960-54d3-9f78-7d1dccf2cb97
 Arpack32_jll,e6e84423-31a5-5eac-8af8-154a55d94dc3
 Arpack_jll,68821587-b530-5797-8361-c406ea357684
@@ -5952,6 +5953,7 @@ LatticeMatrices,dd6a91e4-736f-4540-ac85-13822ca7b545
 LatticeModels,3c3db7f8-440c-4375-905c-1a18b5307bed
 LatticeProteins,2b3394db-9f9c-454f-a26a-0ad872321417
 LatticeQCD,8a12f9b3-8daf-4285-9aa6-f1d88d857ae8
+LatticeQM,606d2a7e-9b17-11e9-1c5c-455b84f60309
 LatticeRules,73f95e8e-ec14-4e6a-8b18-0d2e271c4e55
 LatticeSites,5c077215-83a5-5958-bb3f-c7068ae3c6fe
 LatticeUtilities,33fcf0eb-3ae3-43db-bfbc-1d92a3639bd1
@@ -9580,6 +9582,7 @@ RandomizedPreconditioners,3e7891d3-c9d1-416a-9949-ebd96150e4f0
 RandomizedProgressiveHedging,9d6c422e-8155-11e9-28dd-5d3b5357240e
 RandomizedPropertyTest,6d7a0864-9fbc-11e9-1427-7bb65d6eba8e
 RandomizedQuasiMonteCarlo,86e2ceac-6d26-4fc9-a89c-301e41ecded2
+Randompack,253386b1-9842-41af-b678-bbe31787c5e9
 Randompack_jll,5c24137f-ff18-52c9-a23f-97a498cab286
 RangeArrays,b3c3ace0-ae52-54e7-9d0b-2c1406fd6b9d
 RangeEnclosures,1b4d18b6-9e5d-11e9-236c-f792b01831f8
@@ -13137,6 +13140,7 @@ gocloc_jll,efd4563f-dd60-5f77-b4e3-8d1993cf4f0d
 gperf_jll,1a1c6b14-54f6-533d-8383-74cd7377aa70
 gperftools_jll,c8ae51e6-ca1b-5cf7-8aa4-ff5973bfb1e4
 grep_jll,47013893-54eb-5c9c-83b4-9a24496ece36
+grok_jll,0cd81ddb-c824-5a44-8fef-56db1943f23c
 gsasl_jll,2e8251e1-4612-5cea-b4a3-ba3e3b422b6d
 hackrf_jll,c61eafdd-7b6a-5b25-afd2-541b5c32cc1b
 helpme_jll,f33c8c47-f3e6-5e52-bf5f-5eacb4024144
