@@ -630,6 +630,7 @@ AutoPrettyPrinting,9109d3c5-9510-494f-be9f-db449708e717
 AutoStructs,2e0df379-9877-4907-ab94-cd881f8d985b
 AutoSymPTR,78a0c066-08f1-49a8-82f0-b29cd485e1d3
 AutoSysimages,4eb35182-e5c8-446d-8ecc-33e714a26cef
+AutoTortoise,73a9f6d8-9e5a-4f5a-8f3a-7e4c4f3f4b26
 AutoVectors,dac988ce-a3dc-42da-8c49-b1e833185731
 AutocorrelationShell,69d4c476-349e-11e9-22d5-d17d72ccee3f
 Autocorrelations,b9118d5e-f165-4cbd-b2ae-b030566b7b26
@@ -912,6 +913,7 @@ BestApproximation,b55500c1-4cdc-457d-b883-f6a82974aba3
 BestModelSubset,0f6bdffc-513a-42d2-9813-9a545800a63f
 BestieTemplate,e5d671a7-4186-4f1a-bf88-c19b630da94f
 BetaDecayUtils,b2723bf5-94c5-4359-89e1-3e553b39f040
+BetaKDE,510de360-7fee-4af5-ad83-2adfbc793e05
 BetaML,024491cd-cc6b-443e-8034-08ea7eb7db2b
 BetaReader,e5583720-4bc8-44d1-bd9a-9734450b0166
 BetaRegression,2339b9c3-daaf-4eaa-90d5-e8471159c344
@@ -4645,6 +4647,7 @@ GridapBifurcationKit,e171ecf3-c79e-4835-a39e-60b47bc527f4
 GridapDistributed,f9701e48-63b3-45aa-9a63-9bc6c271f355
 GridapDistributedPETScWrappers,743b6f9b-fae8-55fc-a981-4e9a2885e829
 GridapEmbedded,8838a6a3-0006-4405-b874-385995508d5d
+GridapGeosciences,77ae386e-bde6-49b0-bd6e-9c07e8aee685
 GridapGmsh,3025c34a-b394-11e9-2a55-3fee550c04c8
 GridapMakie,41f30b06-6382-4b60-a5f7-79d86b35bf5d
 GridapODEs,55e38337-5b6e-4c7c-9cfc-e00dd49102e6
@@ -5097,6 +5100,7 @@ IdealGasThermo,d4fb33c0-2494-4384-b7a5-e5d0487b6649
 IdealistaAPIClient,5722b1ce-14da-11ed-06c6-d930f2b72c9a
 IdentityByDescentDispersal,270ed24e-ac4d-5dce-b70a-bd124b3b694a
 IdentityRanges,bbac6d45-d8f3-5730-bfe4-7a449cd117ca
+Iduna,a1090517-0d21-41a4-b698-8a258aa9b9e4
 IfElse,615f187c-cbe4-4ef1-ba3b-2fcf58d6d173
 IfTraits,7a6924a7-8ee3-403d-a531-72325acf0e39
 IgBLAST,0b79348f-fd03-46c5-b933-bdb7f1bed3f3
@@ -5331,6 +5335,7 @@ InterpolatedPDFs,dd871ef8-c280-11e9-0edd-21d59c0cc143
 InterpolatedRejectionSampling,9608d442-472c-11e9-3e14-5b72dbacd115
 InterpolationKernels,16730964-a2ec-11e9-36fa-47a4f82bfac6
 Interpolations,a98d9a8b-a2ab-59e6-89dd-64a1c18fca59
+InterpolativeQTT,87f1ea11-1d4d-47cb-b1d1-07788fc25290
 InterpretMe,e2b23942-74cb-440b-b3b6-a912e3f01750
 Intersections,6d0fbc77-481e-44fe-9ace-1653ddcdea34
 IntervalArithmetic,d1acc4aa-44c8-5952-acd4-ba5d80a2a253
@@ -6552,6 +6557,7 @@ MPIMeasurements,a874a27a-e9a7-503d-98b6-bf61df4bb725
 MPIPreferences,3da0fdf6-3ccc-4f1b-acd9-58baa6c99267
 MPIR_jll,426c3dee-e38f-5a7f-9125-e2686f44d6f1
 MPIReco,e4246700-6248-511e-8146-a1d1f47669d2
+MPISchurComplements,586db363-8230-43f3-b4b3-2c5432ab38c6
 MPISharedMemLUs,16de62c6-7569-4410-9c3f-4d5d9d54e565
 MPISort,404a976e-21b5-45c7-95b2-5d74c9953ee0
 MPISphericalHarmonics,2527f7a4-0af4-4016-a944-036fbac19de9
@@ -7165,6 +7171,7 @@ MolecularMinimumDistances,46954fcc-1dd7-4352-b01d-a39240e91dc8
 MolecularTopologies,57484d9e-382c-5364-a237-1ed6cd00a13f
 MolecularTrajectories,c3751834-3f3f-50ce-917e-73bb091d662c
 MoleculeDatasets,12345678-1234-1234-1234-123456789abc
+MoleculeDock,63b6304e-8562-42bf-81d2-e51868ec1191
 MoleculeFlow,0907176b-47b3-4e96-be91-0e9bb91fb14f
 MoleculeScreen,12345678-1234-1234-1234-123456789012
 MoleculeView,51e283bb-8733-4f53-8900-5afe7e33f1ed
@@ -9019,6 +9026,7 @@ PrintTypeTree,03751d76-14c6-4844-8d34-798a6a45b277
 PrintTypesTersely,41b232b1-0de0-4a65-aab4-126884588aaf
 PriorityChannels,a2669504-c0c1-59c8-a2df-73186d0f9ddc
 PrismAId,118a867e-9825-46ae-bed0-f8987ebdd75d
+PrismMaterialDecomposition,7b44cc36-3fea-439d-9e81-3608c4144315
 PrivateFields,f4800d5f-c5aa-4b4c-a966-fa01325904ff
 Prjtrellis_jll,6a9aa77d-afea-5b9d-b858-ecc31eb61f73
 ProToPortal,f9496bd6-a3bb-4afc-927d-7268532ebfa9
@@ -11679,6 +11687,7 @@ TensorKitAdapters,365c3f09-11dd-4b21-ae3b-5ed73578a59c
 TensorKitManifolds,11fa318c-39cb-4a83-b1ed-cdc7ba1e3684
 TensorKitSectors,13a9c161-d5da-41f0-bcbd-e1a08ae0647f
 TensorKitTensors,41b62e7d-e9d1-4e23-942c-79a97adf954b
+TensorKitchen,3630a16b-0f2f-4d88-afbf-c7d59eccf553
 TensorMarket,8b7d4fe7-0b45-4d0d-9dd8-5cc9b23b4b77
 TensorMixedStates,4ce20acf-6baa-4876-9668-f7596d62e73f
 TensorNetworkAD,6b36f460-1d4e-5459-a8c4-3ab8f40f7d47
