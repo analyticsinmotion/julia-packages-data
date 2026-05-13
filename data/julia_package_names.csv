@@ -1568,6 +1568,7 @@ Causal,c45f814d-238a-4fdc-b3d7-673e55950ac7
 CausalELM,26abab4e-b12e-45db-9809-c199ca6ddca8
 CausalForest,31bdf679-24a7-499a-9be9-b214c66174ea
 CausalGPSLC,e033fc31-0bf0-4add-9518-8e0675b669ea
+CausalGraphs,68db26a2-7c2b-457b-8f5d-f446513faf50
 CausalInference,8e462317-f959-576b-b3c1-403f26cec956
 CausalSets,2cd3ca5d-4cd6-4e37-88b9-1a897f702e70
 CausalTables,6af48e0c-efc2-4bf7-a92f-a553ccf79fd6
@@ -2248,6 +2249,7 @@ CrossMappings,7011085d-2e9b-5a7b-b0c2-f102c05e50c2
 CrossfilterCharts,6fc5cb8a-a410-53bb-86da-72917ac2b213
 Crossterm,89a1a94d-67fa-4c27-8677-ab6d33b1ad6c
 CrudePythonTranslator,58c7ca78-788c-4120-b21e-78fc10394fb4
+Crumble,350be39a-c33b-48c1-bb73-6df1d36ce439
 Crux,e51cc422-768a-4345-bb8e-2246287ae729
 CryoGrid,a535b82e-5f3d-4d97-8b0b-d6483f5bebd5
 CrypticCrosswords,5f016b6a-1706-11e9-24c5-5177419d09cb
@@ -9536,6 +9538,7 @@ RTCB_jll,bf482c3c-1fb1-5ac1-9020-eab415496de8
 RTFTable,1667cc47-68f3-4867-92cf-6a18fe89e349
 RTLSDR,71cfaeeb-f3e6-59e7-80b9-1b8c23d8f010
 RTableTools,76227a05-389e-44bd-84ad-996dde4b1834
+RadarDOU,b215f3ee-f595-4fe5-b8c8-0294062d26ac
 RadeonProRender,27029320-176d-4a42-b57d-56729d2ad457
 RadeonProRender_jll,e92fa02b-1b7a-5e4e-a5cb-14fe26dfc45b
 RadiK,c173e4ef-a5d8-447f-8df0-20ebc266f2f3
@@ -10151,6 +10154,7 @@ SNOW,105f6ee8-0889-46b1-9d4b-65e03cbc8f13
 SNaQ,c2bf7a07-44d2-4d11-b5e2-76dc5aa199d6
 SOCRATESSingleColumnForcings,efca6b66-9b98-11ed-1a32-7b7cdccd517a
 SOFA,ad3d3fd0-b5f2-51ee-b274-8cdbe62317e2
+SOFA_jll,d1004450-2f34-5761-9671-ec24e6a6fe03
 SOLAR_jll,9ace170a-bc31-55e8-8cff-70366ba5762e
 SOLPS2ctrl,a531d12f-ac8a-43e8-b6d9-bd121431dd49
 SOLPS2imas,09becab6-0636-4c23-a92a-2b3723265c31
@@ -10560,6 +10564,7 @@ Simplace,b0b0a731-1897-4268-b4ff-e689c85594d9
 SimpleANOVA,fff527a3-8410-504e-9ca3-60d5e79bb1e4
 SimpleAiboWebAPI,555a2daa-e723-4fb8-a43f-c5b503b4b2ef
 SimpleArgParse,4c739d64-e22d-44e1-ada1-53a1c3c0e953
+SimpleBLE_jll,65d2f289-9923-54e7-9bd2-c5e9669d2a86
 SimpleBio,d9eea77d-fa5d-4a60-93a2-c9db3c2ebc67
 SimpleBoids,db6bb4f6-9d2a-4386-a383-884870da1331
 SimpleBoundaryValueDiffEq,be0294bd-f90f-4760-ac4e-3421ce2b2da0
@@ -12617,6 +12622,7 @@ WebToys,f67adaa7-c0cb-55cd-ba19-4b9b797b00eb
 WeberElectrodynamics,b7b438b0-8b51-4018-ba50-da6ecf296240
 Webviews,b7e775b7-052a-4229-9250-fe08ae90f9c6
 WeibullParetoDist,efcb490d-de09-481a-82de-9e1304d0eed4
+WeierstrassElliptic,a0e68dd2-ec10-4c77-a85a-ad196200124a
 WeightInitializers,d49dbf32-c5c2-4618-8acc-27bb2598ef2d
 WeightVectors,02edb123-fbf3-4025-abe6-bed5b7376cdf
 WeightedArrays,379a43df-f81c-573e-83a6-069eb6c11a71
