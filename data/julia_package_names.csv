@@ -1231,6 +1231,7 @@ BrokenRecord,bdd55f5b-6e67-4da1-a080-6086e55655a0
 BrownDriverBriggs,ed877a0f-8e86-4599-984a-df81107104eb
 BrowseTables,5f4fecfd-7eb0-5078-b7f6-ad1f2563c22a
 BrowserMacros,0e713f60-a330-4a0f-8e30-02c28b77d9ad
+Browzarr,d7a009df-479f-4526-be69-544662986fe6
 Bruno,2c64e276-ffac-4684-a264-d42a389bacb2
 Btop_jll,a14fdeb2-c00a-556b-ab4f-03d750735e9e
 BubbleBath,06490a66-c478-4593-a275-4b14021bccc5
@@ -9101,6 +9102,7 @@ ProteinEnsembles,186d2b2d-8ad5-54a6-bcea-66047609c611
 ProteinSecondaryStructures,c298f58b-271f-48cb-96ac-5442ca7c67d9
 ProtoBuf,3349acd9-ac6a-5e09-bcdb-63829b23a429
 ProtoStructs,437b6fc4-8e8e-11e9-3fa1-ad391e66c018
+ProtocGen,b5fc38b8-670b-4930-8529-238e2ca71835
 ProtocolBuffersCompiler_jll,216d9ab1-ce93-551b-982a-3c3555652c2a
 ProtocolBuffersLite_jll,0ca7621e-fd3d-51c7-9dfb-33f80fc8c6fe
 ProtocolBuffersSDK_jll,c1854a36-7b81-519e-bf44-e86c02ce7156
@@ -13068,6 +13070,7 @@ cryptopp_jll,9ced465f-3d53-56cd-9803-9d1649b5e965
 cuBLAS,182d3088-87b7-4494-8cad-fc6afaa545bc
 cuDNN,02a925ec-e4fe-4b08-9a7e-0d78e3d38ccd
 cuFFT,533571aa-0936-420e-b4be-9c66f5f626ca
+cuNumeric,0fd9ffd4-7e84-4cd0-b8f8-645bd8c73620
 cuOpt,29a73d17-8276-40b7-9ffb-d89e58023643
 cuPDLPx_jll,bca5daad-f4d3-5101-ae12-8b63679c982c
 cuQuantum_jll,b75408ef-6fdf-5d74-b65a-7df000ad18e6
