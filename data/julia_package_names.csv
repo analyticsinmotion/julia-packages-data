@@ -2499,6 +2499,7 @@ DataMigrations,0c4ad18d-0c49-4bc2-90d5-5bca8f00d6ae
 DataPipeline,9ced6f0a-eb77-43a8-bbd1-bbf3031b0d12
 DataPipes,02685ad9-2d12-40c3-9f73-c6aeda6a7ff5
 DataRegistryUtils,1a5903ec-9658-4297-bb6d-314c615f2e02
+DataScienceOperations,3782fec0-3ce0-4a96-88a6-49560f470476
 DataScienceTraits,6cb2f572-2d2b-4ba6-bdb3-e710fa044d6c
 DataScout,76d43509-2e9a-4ef2-8ba2-502f21f4bec7
 DataSets,c9661210-8a83-48f0-b833-72e62abce419
@@ -3831,6 +3832,7 @@ FlexibleSnowModelOSHD,5919be0d-1d81-4a5b-ac5f-ee56392bdbf1
 Flexle,dc22aa90-55d8-496a-ae41-a34b09be019a
 Flick,7fdabe25-5bc1-4a7a-966a-1dc79c0c5380
 Flight,e329eb8f-69f3-4234-a468-5e3889a58643
+FlightCore,e3cc1ee6-15ac-4fef-96b3-1947582bf537
 FlightGNC,f141b7d0-6781-47a7-9266-a0707263841d
 FlightMechanics,d8b13f87-1844-53e1-ad89-0742af8604bf
 FlightMechanicsUtils,0ddfa1e6-9159-4d5a-8b9e-3a0591f1f4a7
@@ -7533,6 +7535,7 @@ NautyTraces,d13d708c-e6ca-4145-9b59-cdd1b3737971
 NavAbilitySDK,f3e6a059-199c-4ada-8143-fcefb97e6165
 Navigation,cc87a3b2-3706-4f35-b5b4-b2c85061916d
 Nbdev,d6ab3a89-b2a3-4279-9123-91d1be4d1a9a
+Nbody2D,e7818769-3b28-4efa-a321-272a2210d310
 NbodyGradient,69f646f0-5709-4f35-9e52-1656edff0883
 Nclusion,cef8bb50-3052-47ee-9080-7fa14a4c9a42
 Ncurses,247b9857-0442-4f1c-b9a0-de109b4a5af1
