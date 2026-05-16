@@ -802,6 +802,7 @@ BasisFunctionExpansions,07f847a3-b39a-5451-bea0-0f0f0688aa14
 BasisFunctions,4343a256-5453-507d-8aad-01a9d7189916
 BasisMatrices,08854c51-b66b-5062-a90d-8e7ae4547a49
 BasisSets,086cb5bb-2461-57d8-8068-0aed7f5b5cf6
+BasisSimulator,8f904dfe-b85e-4ff6-b463-dae2292396b9
 BaslerCamera,e40af120-e25d-11ea-0ce6-f3b09ee65c37
 BatchAssign,e837618a-1c15-48db-beb0-68297dffdb28
 BatchIterators,4161f7c7-f4e7-47ff-bbcb-bc0b24702626
@@ -826,6 +827,7 @@ BayesDensityPitmanYorMixture,9da0b0c8-0459-4567-a5a4-3605fb8f6d57
 BayesDensityRandomBernsteinPoly,0b3787ab-bd9c-4026-b901-8cf5c1b442b9
 BayesFlux,c2416e8a-86ea-414a-9a91-c37c770c1547
 BayesHistogram,000d9b38-65fe-4c81-bdb9-69f01f102479
+BayesKNN,7ac7b2fc-d795-4232-af45-0788aa9f4abc
 BayesNets,ba4760a4-c768-5bed-964b-cf806dc591cb
 BayesOpt,8b8fa57b-2f72-5ccd-8d28-750de228707b
 BayesQR,56593891-ecd2-4259-a1a0-2763cfab97d6
@@ -4158,6 +4160,7 @@ GPUArraysCore,46192b85-c4d5-4398-a991-12ede77f4527
 GPUCompiler,61eb1bfa-7361-4325-ad38-22787b887f55
 GPUEnv,78a0b619-6146-4252-b244-0f81c54be577
 GPUInspector,608d808f-ff79-47b0-a25d-21f2c9b42853
+GPUSelect,203851ad-5791-4cf9-9fcc-5933b5611f42
 GPUToolbox,096a3bc2-3ced-46d0-87f4-dd12716f4bfc
 GPUifyLoops,ba82f77b-6841-5d2e-bd9f-4daf811aec27
 GPnet,1e25b1b3-a3a0-53b8-8729-934c9d7c4cc0
@@ -8161,6 +8164,7 @@ OrdinaryDiffEqTaylorSeries,9c7f1690-dd92-42a3-8318-297ee24d8d39
 OrdinaryDiffEqTsit5,b1df2697-797e-41e3-8120-5422d3b24e4a
 OrdinaryDiffEqVerner,79d7bb75-1356-48c1-b8c0-6832512096c2
 Org,587fedb0-ad84-11e9-2bd6-d15ea4be1f9e
+Orientations,8b457350-7060-4fc5-94ff-7a3d96bb78d0
 OrionAuth,b500a246-f3b7-456f-b081-d82801ca9488
 OrionORM,4adc1610-4849-4c0a-9fc4-ca498589e63a
 OrnsteinZernike,51399321-c693-48c0-994d-05e3df0250f2
@@ -8828,6 +8832,7 @@ PolarizedTypes,d3c5d4cd-a8ee-40d6-aac7-e34df5a20044
 PolaronMakie,a3d5612c-6665-44da-b73b-aebf26fd4c82
 PolaronMobility,a1b829d7-2a44-59aa-80d3-9ddd83901c9b
 PolaronPathIntegrals,d6737c65-484a-4421-a0d1-26b5c66db56b
+Polfed,467b4f57-cce5-4b05-af51-83574939c5b4
 PoliSpectralTools,e5870fb4-0785-4c2b-93f1-21089c9623d1
 Poltergeist,89210da2-f0be-5ef8-ba65-10393cce509d
 PolyBranch,3c307872-14e4-494b-abb3-fed68641e9b4
@@ -8903,6 +8908,7 @@ PortHamiltonianSystems,6ff9205f-2186-4c35-b9d7-b7843b877754
 PortMidi,42b16160-194f-40b3-8419-7a13c10fa643
 PortMidi_jll,6b227df9-c220-5195-838c-e1464939a66f
 Porta,fb2f1d7b-1de9-45a3-b106-388808110f78
+PortableStructs,b33d0e21-58ed-44e8-a1cd-54bcd6317649
 PortfolioAnalytics,55d897a4-798b-418f-87f2-da98fa5ba518
 PortfolioOpt,d204b4b0-6ba1-497c-bfb5-71589c3b52ce
 PortfolioOptimisers,e0036ec9-05e5-505d-a6a9-07af41c94861
@@ -10426,6 +10432,7 @@ SemifieldAlgebra,bcec86f5-ca56-4bff-b104-0763dbc0fc1b
 Semigroups,f8a5e1c0-7b2d-4a3e-9c6f-1d2e3f4a5b6c
 Semirings,900aad66-9ca5-44d4-b043-321c62cb7767
 SemiseparableMatrices,f8ebbe35-cbfb-4060-bf7f-b10e4670cf57
+Semisimple,c99f5fee-6cdb-4bf1-806f-d7690e6ee6f7
 SenseHat,0dbe55a1-025c-5c9b-ab45-55492d058cfb
 Sensemakr,b1eed063-bea0-4e2a-bcc5-a02b2b0a7b77
 SensitivityAnalysis,7df13313-679e-414d-9f6c-66fa593437bc
@@ -11218,6 +11225,7 @@ StirredReactor,0f306737-e494-4d62-9475-91bb092c0e67
 StitchBindings,98c25cc8-eb50-4420-96bf-d3053e46f68d
 StochDynamicProgramming,f6024387-75e5-5fdf-b095-327b05c0905f
 StochOptInterface,ddbffdd9-5b1a-5f20-b6eb-597a58a751db
+StochParticles,48f1789a-3b45-4590-abaa-0579032d20b3
 StochasticAD,e4facb34-4f7e-4bec-b153-e122c37934ac
 StochasticBlockModel,e022115e-0a72-11ea-0a57-4fc90b22dc23
 StochasticDelayDiffEq,29a0d76e-afc8-11e9-03a4-eda52ae4b960
