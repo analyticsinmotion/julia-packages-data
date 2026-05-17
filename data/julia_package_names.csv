@@ -231,6 +231,7 @@ AeroAcoustics,03ede2b8-90d7-56cb-9af1-359a44c6802d
 AeroBeams,4684ee71-20c3-4c77-8fc5-ebacc9f0342e
 AeroFuse,477c59f4-51f5-487f-bf1e-8db39645b227
 AeroMDAO,ae1513eb-aba2-415b-9b88-80f66c7c7c76
+AeroTrixi,96ec6574-3e85-11f1-3b3c-2957db4b7004
 Aeron_jll,d964258c-d1ad-568a-aca9-3ef511f5bffd
 Aerosol,8510b696-cc45-4a64-84d0-47f429ca1505
 AesKeywrapNettle,d0ff3c94-28b9-43ce-b75b-813f49a99563
@@ -11876,6 +11877,7 @@ TiffImages,731e570b-9d59-4bfa-96dc-6df516fadf69
 TightBinding,db00978d-8b5b-52b5-bbe7-ff451c144724
 TightBindingApproximation,d3576f78-cb9d-4774-9dc5-b247cf392ff4
 TightBindingToolkit,2233325a-6eb3-486f-aff0-670e0939fa7e
+TighterInformedBound,2afd7a37-1555-438f-a2e5-6641a1612ac9
 TikhonovFenichelReductions,66629163-d46e-44ca-9a00-7025b1e168e6
 TikzCDs,1e332c56-9431-4126-8a34-92cbdf251ae4
 TikzGraphs,b4f28e30-c73f-5eaf-a395-8a9db949a742
@@ -12564,6 +12566,7 @@ WORLD,0818e8b4-bd9c-59ff-a62a-597382e55725
 WORLD_jll,df1608cb-88be-5058-95d4-2cc1fff969de
 WRDSMerger,59d27aa3-834e-4232-9046-52ef43e86786
 Wahoo,34ee53bd-d3f2-451a-8e30-9c0767249144
+WaitProfileEstimators,396636b3-103e-4ec1-bf9c-f09d60477106
 Wakame,4447db07-3941-47e2-90a2-965b7cb1b6ce
 Wakaran,5b749d0f-6905-42a8-962c-e5c64ecf324d
 Walker2014Sampling,a2f0375b-2a06-4a22-9386-496d263139c3
