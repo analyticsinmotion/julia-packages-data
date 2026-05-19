@@ -2724,6 +2724,7 @@ DifferentialEquations,0c46a032-eb83-5123-abaf-570d42b7fbaa
 DifferentialEvolutionMCMC,607db5a9-722a-4af8-9a06-1810c0fe385b
 DifferentialEvolutionMetropolis,a5908a69-3cf8-4221-8182-38852cbc47b2
 DifferentialForms,9e54b8bf-1ae4-4c45-8656-f6b46e7970a3
+DifferentialGamesBase,a9dd1e63-b4ad-4579-bca8-3a609f3d87b9
 DifferentialPhaseContrast,4f2186bb-3a2c-44f0-a062-04c6d4d3fd0d
 DifferentialRiccatiEquations,9819f967-4574-4d9d-b214-002eeba273d9
 DifferentiationInterface,a0c0ee7d-e4b9-4e03-894e-1c5f64a51d63
@@ -2846,6 +2847,7 @@ DistributionMeasures,35643b39-bfd4-4670-843f-16596ca89bf3
 DistributionVectors,876525fa-7cae-420f-8fd8-59a6b63fe7c3
 Distributions,31c24e10-a181-5473-b8eb-7969acd0382f
 DistributionsAD,ced4e74d-a319-5a8a-b0ac-84af2272839c
+DistributionsFactories,59240773-99cf-44c0-b278-61fee874a1c5
 DistributionsHEP,0d0d6f60-fb7b-48ca-90bb-e14e8b1655a7
 DitherPunk,b8f752a5-abd5-43b6-a55b-e75efda20de0
 Ditherings,18716f60-6c0e-11e9-0a37-e9870d4a7c8f
@@ -3839,6 +3841,7 @@ FlightCore,e3cc1ee6-15ac-4fef-96b3-1947582bf537
 FlightGNC,f141b7d0-6781-47a7-9266-a0707263841d
 FlightMechanics,d8b13f87-1844-53e1-ad89-0742af8604bf
 FlightMechanicsUtils,0ddfa1e6-9159-4d5a-8b9e-3a0591f1f4a7
+FlightPhysics,217868e0-669b-4069-89f9-42760bf46690
 FlightSims,a4c2f6ca-3fbe-4430-8ede-32935de4c069
 FlipGraphs,bf6bd3dc-c349-4a39-9695-9ea99bf10cfe
 FlipPA,a9676066-08b1-4647-a3cf-89b449beb4d6
@@ -6366,6 +6369,7 @@ LoweredCodeUtils,6f1432cf-f94c-5a45-995e-cdbf5db27b0b
 Lowess,a2847a04-7795-4581-bff1-964344ea125d
 LsqFit,2fda8390-95c7-5789-9bda-21331edee243
 LuaCall,b19d909c-f536-5a7e-8424-a4fb7ce1e4d7
+LuaJIT_jll,096af9b6-5517-5256-9c6c-10e3e8b193eb
 LuaNova,faa88067-b4cd-4998-97ac-8175b58d6ef9
 Lua_jll,a4086b1d-a96a-5d6b-8e4f-2030e6f25ba6
 Lucky,091b6c57-2055-4743-a613-81d9bc5174d5
@@ -10048,6 +10052,7 @@ SBMLToolkit,86080e66-c8ac-44c2-a1a0-9adaadfe4a4e
 SBMLToolkitTestSuite,792e603a-1588-414c-b272-614011baa40e
 SBML_jll,bb12108a-f4ef-5f88-8ef3-0b33ff7017f1
 SCALAPACK32_jll,aabda75e-bfe4-5a37-92e3-ffe54af3c273
+SCALAPACK64_jll,575e156b-18ce-583f-9f61-e5186a0cefa5
 SCALAPACK_jll,5d3fc3e8-a677-5550-826f-6cfd58f208da
 SCALE_MAMBA_jll,32427880-5a10-5048-bea3-44a26af5d02d
 SCCNonlinearSolve,9dfe8606-65a1-4bb3-9748-cb89d1561431
