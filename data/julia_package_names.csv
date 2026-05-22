@@ -2523,6 +2523,7 @@ DataValueInterfaces,e2d170a0-9d28-54be-80f0-106bbe20a464
 DataValues,e7dc6d0d-1eca-5fa6-8ad6-5aecde8b7ea5
 DataVoyager,5721bf48-af8e-5845-8445-c9e18126e773
 DataWrangler,a7a6b7e4-f56f-4e7a-9983-6838d7ccc3b8
+DatabentoBinaryEncoding,90689371-c8cb-40d1-831f-18033db90f74
 DatadogAgentClient,63fc710f-0bc7-4874-ab74-c4bc690e10f2
 DatagenCopulaBased,b9879e35-cdd4-53a9-a12a-bc41659e9769
 DatasetsCF,6bac03b7-bcd8-55bf-9a08-86b9b673b6cc
@@ -3839,6 +3840,7 @@ FlexibleSnowModelOSHD,5919be0d-1d81-4a5b-ac5f-ee56392bdbf1
 Flexle,dc22aa90-55d8-496a-ae41-a34b09be019a
 Flick,7fdabe25-5bc1-4a7a-966a-1dc79c0c5380
 Flight,e329eb8f-69f3-4234-a468-5e3889a58643
+FlightApps,c94c8c3d-2ef7-4940-9544-b98dae328d9f
 FlightCore,e3cc1ee6-15ac-4fef-96b3-1947582bf537
 FlightGNC,f141b7d0-6781-47a7-9266-a0707263841d
 FlightMechanics,d8b13f87-1844-53e1-ad89-0742af8604bf
@@ -7747,6 +7749,7 @@ NormalSplines,89968063-813d-4860-bc5c-8f3bf1ba74c5
 Normalization,be38d6a3-8366-4a42-ad57-222272b5bbe7
 NormalizeQuantiles,d366530f-4af1-5ff1-9928-73bf22b88830
 NormalizingFlows,50e4474d-9f12-44b7-af7a-91ab30ff6256
+Nosy,b62be552-3e07-49d0-bbfa-d9387eb027f7
 NotMacro,e5e706a9-49c7-4701-89e1-aff70d94367a
 Notcurses,0745143a-842b-4fd2-a9b7-9e0948c68818
 Notcurses_jll,56927b6a-812d-5b37-a4c6-b46ab6359194
@@ -8518,6 +8521,7 @@ PenaltyFunctions,06bb1623-fdd5-5ca2-a01c-88eae3ea319e
 PencilArrays,0e08944d-e94e-41b1-9406-dcf66b6a9d2e
 PencilFFTs,4a48f351-57a6-4416-9ec4-c37015456aae
 PenultimateDays,556d87f4-f886-4ccd-959d-eefd20094a98
+PeptideProjections,616915ae-382f-4b02-a1fe-078270f89671
 Perceptrons,933afed5-ab4b-5649-acc9-3edb4be3c343
 PerceptualColourMaps,54e51dfa-9dd7-5231-aa84-a4037b83483a
 Percival,01435c0c-c90d-11e9-3788-63660f8fbccc
@@ -8577,6 +8581,7 @@ PhaseRec,694d4756-7efa-46c2-8f81-162496cbdea7
 PhaseSpaceDTFE,4bbf42c9-fe82-44eb-a825-ab877c23bdb8
 PhaseSpaceIO,de004529-e20a-5d30-89d8-7739140c50e5
 PhaseSpaceTools,0e21426a-da0a-11e8-1f13-43a2532b2fa8
+PhaseTypeDistributions,c6a3dbec-a81b-4ac0-803e-44f90338b00b
 PhasedArray,26694ec9-1e1a-50ce-959e-f72fe0aa84a3
 PhilipsDataList,8d02dd3f-0ae5-4a36-8097-157a91f88471
 PhilipsHue,4f36922e-b395-5139-af69-051d0331eef0
@@ -9469,6 +9474,7 @@ Queryverse,612083be-0b0f-5412-89c1-4e7c75506a58
 QuestBase,7e80f742-43d6-403d-a9ea-981410111d43
 QuestDBClient,db551b72-c8d0-4930-8019-443d434af198
 QuestradeAPI,a23c94f3-7123-4b19-879a-52247cde9a4c
+QuickCharts,66666661-dd45-4e85-a5e1-02500b2a6206
 QuickHeaps,30b38841-0f52-47f8-a5f8-18d5d4064379
 QuickMenus,2230646a-bae9-43e2-a071-fff97e6a4342
 QuickPOMDPs,8af83fb2-a731-493c-9049-9e19dbce6165
@@ -11470,6 +11476,7 @@ SweepOperator,7522ee7d-7047-56d0-94d9-4bc626e7058d
 SwiftShader_jll,c404ff5a-e271-5628-8eaa-423d39d64c15
 SwissVAMyKnife,fafdf525-54c7-48ec-ae29-528bd4cccfab
 SwitchOnSafety,ceb7f16a-07bf-5f4a-9354-b68f01b1610f
+SwitchingControl,fcabb1d5-d7f9-46f6-908e-cdac43c56d12
 Swizzles,60694085-d904-4bfc-95dc-1e0e768e9359
 Swizzling,00000000-0000-4000-b000-202512210000
 SymArrays,c2b21f84-4a8e-4c96-99a2-2b79df568f75
@@ -12954,6 +12961,7 @@ Zarr,0a941bbe-ad1d-11e8-39d9-ab76183a1d99
 ZarrDatasets,519a4cdf-1362-424a-9ea1-b1d782dbb24b
 Zauner,ce1149fb-49fa-4541-ae6c-62019ae07d40
 ZebraPuzzles,ea4507f1-c7b4-4539-82f8-989db771b95d
+ZedPlotPane,1a2e9a1c-d784-4d3f-8c27-9f27d983cc09
 Zellij_jll,f51964ae-9c2b-58f9-be08-f952495c30f4
 Zenith_jll,ab215d34-98c8-565c-96d8-6589c1ef91a8
 Zenoh,b742139f-8771-480b-a9b2-33222b45d29b
@@ -13043,6 +13051,7 @@ biber_jll,8ac4b36a-8846-5b9b-8645-a4ae0c6335e5
 biome_jll,e025eaa5-66fc-5276-8162-323db2d8a800
 bitshuffle_jll,228fe19c-1b83-5282-a626-13744502a320
 bitwarden_cli_jll,9720d140-3882-5b8d-84f3-6af565c4e518
+blake3_jll,0ca93e52-f510-5ee4-a663-e98fa7c9a5ab
 blasfeo_jll,6b574d4a-bb57-5a4b-b7e6-1c794c903646
 blaspp_jll,ac2d9471-9114-5691-9e37-f48642a6f9ea
 blis32_jll,e47b3055-b30e-52b1-9cd4-aea7f6c39f40
