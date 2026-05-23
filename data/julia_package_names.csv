@@ -6782,6 +6782,7 @@ MathOptFormat,f4570300-c277-12e8-125c-4912f86ce65d
 MathOptIIS,8c4f8055-bd93-4160-a86b-a0c04941dbff
 MathOptInterface,b8f27783-ece8-5eb3-8dc8-9495eed66fee
 MathOptInterfaceMosek,0087ddc6-3964-5e57-817f-9937aefb0357
+MathOptLazy,5d5fe9b5-b0a4-4485-81f6-7b1b939155e1
 MathOptPresolve,c46b0367-4903-4ff3-bf29-73e6bd648aaa
 MathOptSetDistances,3b969827-a86c-476c-9527-bb6f1a8fbad5
 MathOptSymbolicAD,309f4015-3481-4d63-a8f9-aeb13adfe8eb
@@ -8966,6 +8967,7 @@ PowerFlowData,dd99e9e3-7471-40fc-b48d-a10501125371
 PowerFlowFileParser,bed98974-b02e-5e2f-9ee0-a103f5c450dd
 PowerFlows,94fada2c-fd9a-4e89-8d82-81405f5cb4f6
 PowerGraphics,5f7eddb3-86b1-49e8-a95a-ddc0f45eea41
+PowerGridPlanning,a7220958-9516-4853-85d5-0fc586ce8da1
 PowerImpedanceACDC,8bb8d9d3-c57e-5130-a7c9-cb214ef560ae
 PowerLawNoise,9abb9eec-80c7-4a18-accd-d591357fead6
 PowerLawSamplers,ea71c90e-cdc5-43db-a32d-9c22f1535540
@@ -10910,6 +10912,7 @@ SpaceLiDAR,29bf0bfc-420f-4fa5-b441-811fd9e6e11d
 SpacePhysicsMakie,0c28ffd8-ae30-4a56-b2e4-f8332c621ad2
 SpaceTimeFields,0af78db0-3b7c-4df8-88bd-686b7cc5245d
 SpaceWeather,6e6210c8-0d11-4989-92a2-df0be76561ad
+SpacetimeMetrics,77e61b41-605e-43a6-b70f-04b7dcd1f572
 Spacey,6fa23216-6d9f-473e-ad34-00be7be2628b
 SpanningSupernets,c92b83c4-19af-4bf9-9c50-c65f2b7803f9
 Spark,e3819d11-95af-5eea-9727-70c091663a01
@@ -13158,6 +13161,7 @@ flashrom_jll,5ce1102a-d779-57d8-a38a-c227ece604ed
 flecs_jll,36bf25e4-cdf2-5fe1-89b6-d11c3d348c77
 flex_jll,48a596b8-cc7a-5e48-b182-65f75e8595d0
 flux_core_jll,381ff186-7949-5def-80e3-c2e748080dc1
+fmusim_jll,76f9bd7a-1c05-5050-ae3f-1be9af76d548
 fortune_jll,08bdf8ff-2af7-5c3d-85d2-7e4de503c7bb
 fplll_jll,d41a5a93-b765-542c-87e0-8b980b4b1221
 fpzip_jll,dabd510a-92a7-54df-aa64-c306dd35554a
