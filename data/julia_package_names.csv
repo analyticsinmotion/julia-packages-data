@@ -816,6 +816,7 @@ Batched,1629540a-9a93-50e9-aec3-2a5ae159dca9
 BatchedBLAS,dfa6e8bd-ffa5-4347-817a-aa08eb84b250
 BatchedMerkleTree,225b011c-e439-4471-b39b-04a9a0fe32f0
 BatchedRoutines,a9ab73d0-e05c-5df1-8fde-d6a4645b8d8e
+BatchedSPDMatrices,7d5ee623-fde7-4106-85f9-fb05ac2460fd
 BatchedTransformations,8ba27c4b-52b5-4b10-bc66-a4fda05aa11b
 Batsrus,e74ebddf-6ac1-4047-a0e5-c32c99e57753
 BattMo,6f0c0536-3c2c-4762-a987-c605a8a6f898
@@ -3473,6 +3474,7 @@ FFTA,b86e33f2-c0db-4aa1-a6e0-ab43e668529e
 FFTDists,872ebf62-bb8d-4945-b244-254eba715075
 FFTIndexing,71991d8d-1ef0-4564-8bfb-550f91a1a974
 FFTInterpolations,e9c4abe8-3893-4664-acb8-58f49d1e9fc0
+FFTLoggin,9b7e4f4a-1c2a-4f1e-9c2c-7c2b1a5e3a01
 FFTResampling,c3173eba-33fe-4761-8a84-0ec65b39ba9a
 FFTViews,4f61f5a4-77b1-5117-aa51-3ab5ef4ef0cd
 FFTW,7a1cc6ca-52ef-59f5-83cd-3a7055c09341
@@ -5361,6 +5363,7 @@ InterpretMe,e2b23942-74cb-440b-b3b6-a912e3f01750
 Intersections,6d0fbc77-481e-44fe-9ace-1653ddcdea34
 IntervalArithmetic,d1acc4aa-44c8-5952-acd4-ba5d80a2a253
 IntervalBoxes,43d83c95-ebbb-40ec-8188-24586a1458ed
+IntervalCensoredMultistate,3506c8fb-fa20-493b-899a-e67d94b3cb46
 IntervalConstraintProgramming,138f1668-1576-5ad7-91b9-7425abbf3153
 IntervalContractors,15111844-de3b-5229-b4ba-526f2f385dc9
 IntervalLapper,1bf80048-ef54-4e19-a2c1-a160028d98bb
@@ -6627,6 +6630,7 @@ MTGeophysics,71b12eb5-90c3-4985-b1e7-1ec075583b1e
 MTH229,ebaf19f5-aa55-568f-9bb2-d6722dad893b
 MTKHelpers,2725b469-bb7f-4d1a-ba58-ced332a70bc7
 MUMPS,55d2b088-9f4e-11e9-26c0-150b02ea6a46
+MUMPS64_jll,7e7123fb-46ff-5c22-8640-a7a534ee34a8
 MUMPS_jll,ca64183c-ec4f-5579-95d5-17e128c21291
 MUMPS_seq_jll,d7ed1dd3-d0ae-5e8e-bfb4-87a502085b8d
 MUSCLE_jll,0d2b832c-22e5-5080-b34f-49cc6141c4c5
@@ -10003,6 +10007,7 @@ RollingDedispersion,de1a5888-936f-4c73-9525-49a60d2dc87e
 RollingFunctions,b0e4dd01-7b14-53d8-9b45-175a3e362653
 RollingTimeWindows,f505f7a3-54df-415c-985c-0663f6ab9b41
 RollingWindowArrays,d191faf8-5603-4116-bb4f-9585dee8559b
+RollupTree,04c01c7a-6a3c-48fe-9315-f55725a63c92
 RomanNumerals,37834d88-8936-577c-80c9-1066ecf66832
 Romberg,ff01fdde-158c-414c-948f-c94b4a236685
 RomeoDFT,87c4fabc-abb4-4467-86a6-1748b5c259fe
@@ -12024,6 +12029,7 @@ TotalVariation,00d00faa-c8f6-542a-bba9-9987f051d897
 TotalVariationImageFiltering,a85ae5a6-60df-4598-b867-d7e55d5c417d
 Touchstone,af4736ee-1570-4274-b14c-898d17d80b75
 TouchstoneParser,b369b07b-dee1-4342-88e3-29a776361291
+TowStyTemplates,26c3e8b2-b2ea-4c13-8a2d-a4d529bbbc89
 Tower,965ce0a6-fda6-11e9-2ec6-215e9e726cc7
 TowerOfEnzyme,42b7b2d3-c73e-45b7-822c-d9186d944e94
 ToyPublicKeys,79566f03-f7ae-471c-a05f-4700599937bd
@@ -13652,6 +13658,7 @@ very_nauty_jll,be6384bf-868f-57ad-9feb-9e32886bc996
 viterbi_jll,dd422b0c-1f95-5ffb-9e80-de3947502723
 vmtouch_jll,28f2fcfb-5f6a-5f77-b781-4b42819ab36c
 vole_jll,5833a85b-77c9-5066-a5cb-0fcd921296cc
+vroom_jll,62a4a0cf-2cbc-5e0f-8f30-f6cab19063e7
 wannier90_jll,c5400fa0-8d08-52c2-913f-1e3f656c1ce9
 web3go_jll,eead4c12-a8c2-5c95-a405-009094e72470
 wget2_jll,8726a5da-ff56-5c52-916d-726e18caca27
