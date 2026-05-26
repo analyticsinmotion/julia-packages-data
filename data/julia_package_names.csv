@@ -235,6 +235,7 @@ AeroTrixi,96ec6574-3e85-11f1-3b3c-2957db4b7004
 Aeron_jll,d964258c-d1ad-568a-aca9-3ef511f5bffd
 Aerosol,8510b696-cc45-4a64-84d0-47f429ca1505
 AesKeywrapNettle,d0ff3c94-28b9-43ce-b75b-813f49a99563
+Aff3ct,529ff742-b572-47ff-bc84-d3f557f53d2b
 AffineArithmetic,2e89c364-fad6-56cb-99bd-ebadcd2cf8d2
 AffineInvariantMCMC,a0f608ac-68d0-5108-ad9a-0cdca73324f3
 AffineMaps,2c83c9a8-abf5-4329-a0d7-deffaf474661
@@ -2525,6 +2526,7 @@ DataValueInterfaces,e2d170a0-9d28-54be-80f0-106bbe20a464
 DataValues,e7dc6d0d-1eca-5fa6-8ad6-5aecde8b7ea5
 DataVoyager,5721bf48-af8e-5845-8445-c9e18126e773
 DataWrangler,a7a6b7e4-f56f-4e7a-9983-6838d7ccc3b8
+DatabentoAPI,feb0aed8-3291-460b-9688-521dcb17a4bf
 DatabentoBinaryEncoding,90689371-c8cb-40d1-831f-18033db90f74
 DatadogAgentClient,63fc710f-0bc7-4874-ab74-c4bc690e10f2
 DatagenCopulaBased,b9879e35-cdd4-53a9-a12a-bc41659e9769
@@ -4292,6 +4294,7 @@ GenFlux,bf80db26-2df5-4c23-a907-3a9ed30ce870
 GenGPT3,bf5e1513-8b89-42fc-a2bc-387c809df403
 GenICam,877cf6bb-8a86-4aba-855a-f87d24631fe5
 GenICamRuntime_jll,aa41fe3f-f84b-5278-bb8c-b34b17f07c6c
+GenLAProblems,f8228cda-011f-463c-ac28-4f36d81e7604
 GenLib,e0fdd441-59bc-4b30-afdc-19bed4d9eb49
 GenLinearAlgebra,2304d612-645f-44c0-913c-a25a709b015d
 GenOpt,f2c049d8-7489-4223-990c-4f1c121a4cde
@@ -5012,6 +5015,7 @@ HyperDualNumbers,50ceba7f-c3ee-5a84-a6e8-3ad40456ec97
 HyperFEM,ddbf423a-3df4-409e-9685-3dc416cae46c
 HyperHessians,06b494a0-c8e0-40cc-ad32-d99506a00a6c
 HyperModularity,bc4352e7-2825-48c1-aa5c-95462f20dcc0
+HyperSignal,0aa5b41a-51a1-41e7-8512-17ccb31a7c30
 HyperSparseMatrices,c7efdb1c-7caa-4c7d-9b5e-9093f9323c7c
 HyperSphere,12e350a7-e224-4cd9-9794-6d6b55fa14c7
 HyperTuning,ddfa78db-9111-4329-a6bd-d4ed85ceb229
@@ -5318,6 +5322,7 @@ IntegralArrays,1d092043-8f09-5a30-832f-7509e371ab51
 Integrals,de52edbc-65ea-441a-8357-d3a637375a31
 IntegralsCuba,e00cd5f1-6337-4131-8b37-28b2fe4cd6cb
 IntegralsCubature,c31f79ba-6e32-46d4-a52f-182a8ac42a54
+IntegrateUnitary,70c8b9a1-b4c5-4d7a-a56e-8e7e6495d68b
 IntegratedOptics,c28080c6-85c9-4c53-b771-a8cba179d15c
 IntegratedOscillatorModel,4a86908f-de09-412e-b134-eda2b762bb2a
 IntegrationInterface,03ca86a4-b7cd-4b10-a38f-d7a84f40de1e
@@ -6398,6 +6403,7 @@ LuxLib,82251201-b29d-42c6-8e01-566dec8acb11
 LuxRecurrentLayers,5e5405f4-2f7b-4c22-98a2-cf8b6168ae33
 LuxTestUtils,ac9de150-d08f-4546-94fb-7472b5760531
 LuxTriangleAttention,3d5d7496-9328-4173-860c-6da38a33fff6
+Luximm,dd5ee4bc-caca-4b0e-b38f-82888d7e6786
 Luxor,ae8d54c2-7ccd-5906-9d76-62fc9837b5bc
 LuxorGraphPlot,1f49bdf2-22a7-4bc4-978b-948dc219fbbc
 LuxurySparse,d05aeea4-b7d4-55ac-b691-9e7fabb07ba2
@@ -8286,6 +8292,7 @@ PGPLOT_jll,b11e30b1-63be-5002-9df0-88ee0fe906ff
 PHYLIP_jll,6c8e8166-39d2-5c7b-a0d9-a6b5560fbba2
 PHcalc,a110ef22-8a98-4da7-b9d8-cfb8dc232cf9
 PICDataStructures,cb18667b-f199-4b8b-b886-9916fef47a26
+PIOLib_jll,71578703-7aff-5c16-bbae-7ba9c160b2b9
 PLCTag,c147798f-b4fc-41d0-8ada-b04926728fb5
 PLSRegressor,e010f91f-06b9-52b3-bed3-bb1da186bddc
 PLaplace,05599243-9ba8-485a-9b22-0f602ec9135f
