@@ -819,6 +819,7 @@ BatchedMerkleTree,225b011c-e439-4471-b39b-04a9a0fe32f0
 BatchedRoutines,a9ab73d0-e05c-5df1-8fde-d6a4645b8d8e
 BatchedSPDMatrices,7d5ee623-fde7-4106-85f9-fb05ac2460fd
 BatchedTransformations,8ba27c4b-52b5-4b10-bc66-a4fda05aa11b
+BathMan,46622c6c-8b9e-4df3-b4bd-8ad521cbb4e4
 Batsrus,e74ebddf-6ac1-4047-a0e5-c32c99e57753
 BattMo,6f0c0536-3c2c-4762-a987-c605a8a6f898
 BayesBase,b4ee3484-f114-42fe-b91c-797d54a0c67e
@@ -1607,6 +1608,7 @@ CellMetabolismBase,29f58b35-15e1-4d3c-99d7-eccaac145095
 CellSegmentation,bc04555c-6b3a-48e0-9330-69d76e9b444f
 CellularAutomata,878138dc-5b27-11ea-1a71-cb95d38d6b29
 CellularPotts,11b7dee7-cd95-48a5-a457-717aae94d0bd
+CellularSheaves,bbe41592-74b8-4681-9d9c-4481e725304d
 CensoredDistributions,b2eeebe4-5992-4301-9193-7ebc9f62c855
 CensusACS,5cdc1628-db7d-4f1a-9a42-d0831b0d3a5e
 CenteredRBMs,def70c09-f69f-4396-afd1-e8507a6dddbf
@@ -2512,6 +2514,7 @@ DataScienceTraits,6cb2f572-2d2b-4ba6-bdb3-e710fa044d6c
 DataScout,76d43509-2e9a-4ef2-8ba2-502f21f4bec7
 DataSets,c9661210-8a83-48f0-b833-72e62abce419
 DataSkimmer,54a5dec1-bae8-447e-bd66-474f7865e6c6
+DataSplits,c4daa60e-60e8-4e0a-bcf3-f80a6d479af9
 DataStreams,9a8bc11e-79be-5b39-94d7-1ccc349a1a85
 DataStructures,864edb3b-99cc-5e75-8d2d-829cb0a9cfe8
 DataTables,743a1d0a-8ebc-4f23-814b-50d006366bc6
@@ -3938,6 +3941,7 @@ ForwardDiffPullbacks,450a3b6d-2448-4ee1-8e34-e4eb8713b605
 ForwardMethods,5fe2550f-d27e-4649-9aea-fdf9a83a1aa9
 FoundationDB,d440507b-0e4e-5f44-bdb1-2286f97ade5a
 FourLeafMLE,5790dc55-b552-4dea-a575-4088ca23464b
+FourVectors,b122eb78-8380-428a-b8c8-584a022ae8b6
 Fourdfp,23cab71e-c09d-4758-9ab0-2c183091423d
 Fourier,424e878d-f74a-44ed-9ae4-e4144b72a8ff
 FourierAnalysis,e7e9c730-dc46-11e9-3633-f1ab55cc17e1
@@ -6620,6 +6624,7 @@ MRIFiles,5a6f062f-bf45-497d-b654-ad17aae2a530
 MRIGradients,6ea382ba-d04a-44a2-b811-544bd2aee867
 MRINavigator,eacce8a8-16e1-4f0a-a125-bfe7a196bd66
 MRIOperators,fb1137e3-90a6-46ce-a672-6e1e53d120f2
+MRIPulses,0dd308a2-b030-4bfa-a19c-6e4aba836528
 MRIRealign,4447969b-3c70-418c-8ae2-3a391da519f9
 MRIReco,bdf86e05-2d2b-5731-a332-f3fe1f9e047f
 MRISampling,9be66c26-f988-4649-80fc-f4721a4a33f2
@@ -6716,6 +6721,7 @@ ManifoldDiffEq,1143c485-9b25-4e23-a65f-701df382ec90
 ManifoldGroupTesting,3d9140b9-2699-468e-abff-6b59d65ee1fd
 ManifoldGroupUtils,1a3c8808-2843-4c72-af8e-d50ed15039bf
 ManifoldLearning,06eb3307-b2af-5a2a-abea-d33192699d32
+ManifoldMakie,9d80ff41-dd3c-46f9-b125-88bb271360e5
 ManifoldMeshes,d2a7aed9-80bb-46a9-9a56-e170a93cc177
 ManifoldNormal,5fcb9600-4313-48cf-863b-acbfec9160af
 Manifolds,1cead3c2-87b3-11e9-0ccd-23c62b72b94e
@@ -7551,6 +7557,7 @@ Nanoid,649b5ee6-231f-4350-86a5-2b05c0e3780e
 Napari,ed46c112-542a-4e7e-ab0f-e39321fab6f0
 NarmViz,d2d28525-57f2-465a-853a-c9519fdcef4a
 NarrativeTest,9563631e-acd4-5dd8-bebb-4cf36518960d
+NationalWeightedActivityUnitWrapper,58dad789-f56a-4ab3-a66f-c15139bf9cbe
 NativeFileDialog,e1fe445b-aa65-4df4-81c1-2041507f0fd4
 NativeFileDialog_jll,94d9ae2c-efc7-56f8-9a02-54c47b797961
 NativeNaNMath,6e4fe5f8-bc0f-434f-9b40-863822321529
@@ -11250,6 +11257,7 @@ StepwiseRegression,546ecb9f-27b9-4a3e-acea-6784bee00edb
 Stereonet,2079c055-d4a2-4eb8-9548-50343aa1f7d0
 Stheno,8188c328-b5d6-583d-959b-9690869a5511
 Stipple,4acbeb90-81a0-11ea-1966-bdaff8155998
+StippleActiveTables,019da952-fa7b-77c3-9a56-736984f089dd
 StippleCharts,30ddb3f0-912f-4f34-9804-e4bb31290777
 StippleCodeMirror,2f259941-3e49-4c82-90a7-44f3fe3dcca1
 StippleDownloads,291a174b-6542-42e7-9996-fc00d7c03310
@@ -12037,6 +12045,7 @@ TotalVariation,00d00faa-c8f6-542a-bba9-9987f051d897
 TotalVariationImageFiltering,a85ae5a6-60df-4598-b867-d7e55d5c417d
 Touchstone,af4736ee-1570-4274-b14c-898d17d80b75
 TouchstoneParser,b369b07b-dee1-4342-88e3-29a776361291
+TowSty,868292e2-f7aa-4e91-a674-807902015840
 TowStyTemplates,26c3e8b2-b2ea-4c13-8a2d-a4d529bbbc89
 Tower,965ce0a6-fda6-11e9-2ec6-215e9e726cc7
 TowerOfEnzyme,42b7b2d3-c73e-45b7-822c-d9186d944e94
