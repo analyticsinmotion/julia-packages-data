@@ -2658,6 +2658,7 @@ Dex_jll,f1ef5e10-671a-599f-ac25-3c68827556ba
 DftFunctionals,6bd331d2-b28d-4fd3-880e-1a1c7f37947f
 Dhall,f7fc0f56-fd22-44bd-b234-bafb44a5fc23
 DiBitVectors,1d781980-c74a-44d0-9ec2-b658ff5df7eb
+DiDInt,a755adf4-2e2b-446b-93e8-5a1a900eb7ed
 DiagHamInterface,2f27495d-c82b-46d5-b81b-1bb9aa58c4d5
 DiagnosisClassification,07aaf720-95f5-4794-b3fe-c98bfa9054ef
 DiagonalIndexing,d2677e01-3654-4f8a-9d1f-7a356cb83656
@@ -3323,6 +3324,7 @@ EuclidGraphs,6d00f6e2-8806-480a-ab08-d5e107e6bfed
 EulerAngles,754c60e7-4104-4b2f-84f1-902fd791391f
 EulerCharacteristic,2c1df2f5-4ab6-47a9-8339-2c9d55c0a52c
 EulerLagrange,e4b6a126-98cc-486b-a68d-c3e5d57f8cc9
+EuropeanDataFormat,6e7d3c7c-811f-4696-823f-91ac5a3cab82
 EvalMetrics,251d5f9e-10c1-4699-ba24-e0ad168fa3e4
 EvaluationCF,5a7cd546-c751-11e8-3a71-83f58cf2d4e3
 EventEmitter,eed75e0f-2a47-456c-84f6-69ee3fe4bbf9
@@ -9207,6 +9209,7 @@ Purses,b933ae29-2b40-4477-9757-bdbbb03ce3a4
 PushVectors,36b54c61-190e-5a5f-82d5-6f0a962d7362
 Pushover,1d40253f-d7d5-5bc2-be73-07f0f24a3532
 PyArrow,efc81ffe-9e87-4f02-af89-7663f751d186
+PyBayesForge,57f7871e-0c7c-4b53-b755-28b054770a56
 PyBayesianInference,d122d8d1-e425-46db-8770-26312790ade9
 PyBoltz,0bca4874-a2b8-4dca-bc03-d2d86e344f1f
 PyBraket,e85266a6-1825-490b-a80e-9b9469c53660
@@ -9223,6 +9226,7 @@ PyFOOOF,bb993ee8-2a51-46a1-a315-55ff424041b4
 PyFormattedStrings,5f89f4a4-a228-4886-b223-c468a82ed5b9
 PyFortran90Namelists,e44308e6-bd5b-11e9-2850-49daf8f1ec40
 PyGDatasets,44f67abd-f36e-4be4-bfe5-65f468a62b3d
+PyHCTSA,4f3a0022-ff71-4cd2-bcdc-9e43a2820929
 PyMBAR,ea233917-d838-44e9-aef6-29db41966de8
 PyMNE,6c5003b2-cbe8-491c-a0d1-70088e6a0fd6
 PyPlot,d330b81b-6aea-500a-939a-2ce795aea3ee
