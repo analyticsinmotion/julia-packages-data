@@ -1065,6 +1065,7 @@ BitInformation,de688a37-743e-4ac2-a6f0-bd62414d1aa7
 BitIntegers,c3b6d118-76ef-56ca-8cc7-ebb389d030a1
 BitMasks,a3e06817-fd65-4797-8291-16f435bc2529
 BitOperations,e1e0eea2-bc69-5bf6-8574-13634873a17c
+BitPackedInstances,4367d3ae-5d96-4441-94f8-c197a4364aab
 BitPacking,b58c8408-13c4-4787-8733-7038ae624acf
 BitPermutations,81206824-6155-40a8-95f7-18696067be4d
 BitSAD,7f90e340-ca22-4a3e-a259-118ed254aff3
@@ -1463,6 +1464,7 @@ CVRPSEP_jll,708e8d2e-5bbf-55cc-b455-510884a304cf
 CVXOPT,1a0d837d-f7ba-5e72-a8f8-b8273492ab4e
 CVaRRiskParity,b84f0741-978f-4a85-8cef-ff508e5bc0b0
 CVortex,01b28500-b454-11e9-2ad6-37799b6cb31a
+CXSparse,27bc1049-af5b-4e6d-9573-9751c3395f6e
 CXSparse_jll,c77e7b6a-7cf9-58ed-a396-e1da12b05d87
 CZML,d3ddc7e8-7106-46d1-9902-15843705f60e
 CaNNOLeS,5a1c9e79-9c58-5ec0-afc4-3298fdea2875
@@ -3432,6 +3434,7 @@ ExtendedExtremes,c3d6fec6-66cc-479b-b3f2-8ef84979700f
 ExtendedKronigPennyMatrix,0edef5b7-0e89-49b4-9493-3bcd9a743ed9
 ExtendedLaurentPolynomials,5e2474f5-3cae-4030-9777-812344505b12
 ExtendedRtIrtModeling,1fd685a6-88ce-5cc9-9afc-ec285d232689
+ExtensibleDataFormat,2b00c89a-a032-41e6-8f7f-64a330142705
 ExtensibleEffects,67377c25-f533-4d0b-9328-1721380cc1f1
 ExtensibleScheduler,6837a093-145e-5c9b-b5ad-3b557e31aa31
 ExtensibleUnions,d387736e-c2c9-11e9-2eda-659a30e947ca
@@ -4029,6 +4032,8 @@ FunctionWrappersWrappers,77dc65aa-8811-40c2-897b-53d922fa7daf
 FunctionZeros,b21f74c0-b399-568f-9643-d20f4fa2c814
 FunctionalBallDropping,86f54e4b-c326-4f4b-ad74-639fc688eb37
 FunctionalCollections,de31a74c-ac4f-5751-b3fd-e18cd04993ca
+FunctionalGPs,9c281965-9d98-4de5-9c8e-371bea37d9e9
+FunctionalImageFormat,81713a14-8c46-4899-bb05-3bedfc9b76e7
 FunctionalModels,c42448f0-9baa-11eb-2295-650722d739d2
 FunctionalStateMachine,3e9e306e-7e3c-11e9-12d2-8f8f67a2f951
 FunctionalTables,19188cdf-3410-574e-a556-e73fa9e4281b
@@ -5003,6 +5008,7 @@ HybridSystemsSimulations,bed98974-b02a-5e2f-9ee0-a103f5c450dd
 HybridTreeBoosting,a7b84c78-fd94-4b48-aa74-d26ca7b1659c
 HydrOptics,2b3ecd17-0e78-4272-b026-194a0ada43e6
 Hydro,fc36d966-fe4b-4286-9a77-63003c00d81d
+HydroElasticFEM,e85360b2-c40c-44d1-92ad-66f8d48f49a1
 HydroModelCore,57609f06-44cb-4626-8f6d-47ea844d0af1
 HydroModelLibrary,f34bc7f3-9d04-4ef8-b7a3-feb87ce2ba93
 HydroModelTools,31f4d4b3-d71d-422d-8932-b4ab24c6e7e3
@@ -6831,6 +6837,7 @@ MatrixCorrectionTools,41f81499-25de-46de-b591-c3cfc21e9eaf
 MatrixDepot,b51810bb-c9f3-55da-ae3c-350fc1fbce05
 MatrixEnsembles,c7015dd7-3fb7-4a4c-827e-526313618491
 MatrixEquations,99c1a7ee-ab34-5fd5-8076-27c950a045f4
+MatrixEquationsAD,283a1a7b-c18a-432b-b100-bdc256e73a32
 MatrixFactorizations,a3b82374-2e81-5b9e-98ce-41277c0e4c87
 MatrixFreeRandomizedLinearAlgebra,a69accfa-5557-4533-9d8b-afe141969680
 MatrixFunctionDiff,5a80cb59-5c4a-4b04-8570-513e0deda534
@@ -9919,6 +9926,7 @@ ResourceBundles,a9a2f26c-b040-4a74-98fd-7b69a57a6ccd
 ResourceContexts,8d208092-d35c-4dd3-a0d7-8325f9cce6b4
 ResourceManagers,0ddfaa41-c5cc-4b1d-8f46-5fada6d10e03
 ResourcePools,16787047-0d73-522e-b8c7-4a818d739b35
+RespecializeParams,9fe22ead-9e00-4db2-8b46-706a60d40f5e
 RestApis,766d9fe0-8bda-4b1c-9671-3009ced25364
 RestClient,e1389577-bcae-4d0f-b368-61b404b8c94c
 RestInterfaces,9d33f173-f162-446b-a684-c368130999bf
