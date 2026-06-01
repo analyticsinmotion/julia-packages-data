@@ -1769,6 +1769,7 @@ Classes,1a9c1350-211b-5766-99cd-4544d885a0d1
 ClassicControlEnvironments,a1069ede-d5f9-41a5-87b2-adf4ef867b86
 ClassicalCiphers,ecf26e93-935c-5e64-9b21-bc8ac81b4723
 ClassicalOrthogonalPolynomials,b30e2e7b-c4ee-47da-9d5f-2c5c27239acd
+ClassicalTestTheory,14703628-910c-47ad-8355-bf6eb4e75c54
 Claude,a00ee857-659a-4bd1-adc3-7f1f48b9fe16
 ClaudeCodeSDK,38ea0fac-78ee-46bd-bc10-f52e7269b833
 ClausenFunctions,1cc96f36-ef02-40ef-a648-5e2c13df3076
@@ -5453,6 +5454,7 @@ ItemGraphs,d5eda45b-7e79-5788-9687-2c6ab7b96158
 ItemResponseDatasets,e47bb625-2913-44fb-8b24-b88572ac4ea9
 ItemResponseFunctions,18e85bec-f2a0-4122-b3a6-37651333b522
 ItemResponsePlots,05da4de1-0d5c-4141-b8ea-157f25fdd429
+ItemResponseTheory,bf236bb1-5369-42b7-a3cf-cfce0b9abdf7
 IterTools,c8e1da08-722c-5040-9ed9-7db0dc04731e
 Itera,e78498a0-16ff-4b72-908b-8a2b3cef9703
 IterableTables,1c8ee90f-4401-5389-894e-7a04a3dc0f4d
@@ -9133,6 +9135,7 @@ ProgressView,001e2b2b-9a5a-4695-8244-d905e27b08dc
 ProgressiveHedging,070f1c60-6b5b-11e9-29fc-595e701b384d
 Proj,c94c279d-25a6-4763-9509-64d165bea63e
 Proj4,9a7e659c-8ee8-5706-894e-f68f43bc57ea
+ProjPath,d112055c-8a67-469c-a320-b58d33045117
 ProjectAssigner,40c276f3-910b-46f6-a8e5-80a1b18107b2
 ProjectAssistant,77987ae8-a180-5b25-91db-425870cd9302
 ProjectEuler,34942f61-84b4-43a8-8f7e-e317c275c964
@@ -9207,6 +9210,7 @@ Publish,f065f642-d108-4f50-8aa5-6749150a895a
 PublishOrPerish,e234a932-2705-4c8f-8500-f312fba88976
 PuiseuxPolynomials,f53aee1f-40be-4d16-bc74-7d339eee78ec
 Pukeko,8cf91db1-0219-5b69-b551-5a0ff3c32cce
+Pulsar,54ac5e6d-f0b9-4c2a-a5c2-b0909a9fa55a
 PulsarSearch,b7fe27a0-ab0c-4e8e-b203-2a459fc90788
 PulseArchitect,dbc0c267-d109-4c6c-b2bb-d87c36f7afac
 PulseAudio_jll,02771fc1-bdb7-5db5-8d11-300768e00fbd
@@ -9430,6 +9434,7 @@ QuantumACES,57b1db7a-c9fc-4178-b66e-6b8364be52bb
 QuantumAlgebra,1b9008d5-2a9d-4901-8cfb-44bb87795b64
 QuantumAnnealing,4832667a-bab9-40a8-88f6-be9efce3ea89
 QuantumAnnealingAnalytics,f4de928d-7c93-4858-9dcf-40bc6948a1da
+QuantumAnnealingInterface,d8651ca0-0f93-43a8-b432-4648ccd57c1f
 QuantumChaos,3c8cddf9-0b35-4818-b39a-cb173209c605
 QuantumCircuitDraw,9bc3fc32-c1cb-4aa8-b380-0758771d981f
 QuantumCircuitOpt,88128e30-b60a-4e54-ab02-1050a5f92a36
@@ -11724,6 +11729,7 @@ TaylorSeries,6aa5eb33-94cf-58f4-a9d0-e4b2c4fc25ea
 TclTk,26a9145d-e64c-4475-a766-b5ac12021523
 Tcl_jll,9fc9b8dd-f768-5d0d-bb0b-e65961e00eb6
 TcpInstruments,aaee30c5-7b57-4441-b61a-ab7186f11903
+TeXLayout,2da61a13-e1b6-4a6f-954d-3ae4b998419f
 TeXTable,a350b66b-315f-4c41-8dcc-4d7330525fdd
 TeaFiles,c40ccc24-2f2a-4785-85cd-06e8176bc8e2
 TeaSeis,db5f7d96-a200-5343-9fc6-a259b42289b2
