@@ -810,6 +810,7 @@ BaslerCamera,e40af120-e25d-11ea-0ce6-f3b09ee65c37
 BatchAssign,e837618a-1c15-48db-beb0-68297dffdb28
 BatchIterators,4161f7c7-f4e7-47ff-bbcb-bc0b24702626
 BatchPDLP,529b9e8a-d2db-4a93-8026-567587707ce3
+BatchQuadraticModels,412afcf0-3ec6-4826-be17-8d792afa05a8
 BatchReactor,ae347489-fc42-416e-8e9d-f76cf1731aac
 BatchSolve,87e15b6a-8d99-4cf4-8ad5-fed92cf0c427
 BatchStats,fc354a49-c873-40ff-aa7e-af8a5c6a2882
@@ -2331,6 +2332,7 @@ CustomUnitRanges,dc8bdbbb-1ca9-579f-8c36-e416f6a65cce
 CutBranching_jll,a275e4ba-a8a9-5328-a18a-85c73bd42860
 CutPruners,65d46eb8-70e9-5a30-bf48-2afa3a021b8f
 CutQuad,b130fd59-4ea5-47f9-9e42-9608cf6d689d
+Cutaway,accbb8c4-5e3d-4a74-b963-dcfa9d436f57
 CuthillMcKee,17f17636-5e38-52e3-a803-7ae3aaaf3da9
 CvxCompress,3e489a4b-a92a-5e1b-a7bf-ed666eae205e
 CvxCompress_jll,2493bdd5-554a-52e1-bea5-dc84d30aecb9
@@ -3764,6 +3766,7 @@ FindClosest,ce6c7843-e314-4a0c-820f-2e6f904d3a2a
 FindComplexZeros,0a534ecb-6644-4a7e-8523-fc75d3442ec4
 FindDefinition,93ffb859-d6b2-40fc-9f9f-e7ec8bc255b8
 FindFirstFunctions,64ca27bc-2ba2-4a57-88aa-44e436879224
+FindMUS_jll,c35e9feb-7830-5f19-b4d9-02e619c993ed
 FindMinimaxPolynomial,af72fe11-ff17-4ca6-9497-daf1aa55531e
 FindPeaks1D,d8961e24-b28b-4efb-8e50-1c680b9a7431
 FindSteadyStates,5ce5e58b-649a-467a-bfd0-ccefe064e451
@@ -5284,6 +5287,7 @@ InfiniteLinearAlgebra,cde9dba0-b1de-11e9-2c62-0bab9446c55c
 InfiniteOpt,20393b10-9daf-11e9-18c9-8db751c92c57
 InfiniteRandomArrays,2bc77966-89c7-476d-a40f-269028fac4a9
 InfiniteSets,5ca6e7c4-69d2-49cf-b3ce-e6fbf50f8d91
+InfiniteTEBD,344ae493-4147-41e1-a539-381088f0e418
 InfinitesimalGenerators,2fce0c6f-5f0b-5c85-85c9-2ffe1d5ee30d
 Infinities,e1ba4f0e-776d-440f-acd9-e1d2e9742647
 Infinity,a303e19e-6eb4-11e9-3b09-cd9505f79100
@@ -5506,6 +5510,7 @@ JLLGenerator,73536572-7074-4e69-5270-206c4c6a2061
 JLLPrefixes,afc68a34-7891-4c5a-9da1-1c62935e7b0d
 JLLWrappers,692b3bcd-3c85-4b1f-b108-f13ce0eb3210
 JLSO,9da8a3cd-07a3-59c0-a743-3fdc52c30d11
+JLWInterop,65e54657-ed21-41a3-96db-71ab7fa6d94b
 JMPReader,d9f7e686-cf87-4d12-8d7a-0e9b8c9fba29
 JMcDM,358108f5-d052-4d0a-8344-d5384e00c0e5
 JOLI,bb331ad6-a1cf-11e9-23da-9bcb53c69f6f
@@ -7770,6 +7775,7 @@ NonlinearSolvers,f4b8ab15-8e73-4e04-9661-b5912071d22b
 NonlinearSystems,deb0877a-d74a-4aeb-b6ac-c17f6fb4122e
 NonlinearTestProblems,84d880b8-0062-4738-ba75-b6cb1662e554
 NonogramSolver,108db2ec-6058-46d0-81ab-928f1904c069
+NonparametricCognitiveDiagnosisModel,506f3bee-758e-40a7-86de-9c6e62f9cb49
 NonparametricRegression,db432338-e110-4b7a-9c53-0ace38eb8f7f
 NonparametricVI,2fb14f58-0ee9-4f79-83b0-fac5a8c3c025
 NonsmoothOptim,0dfc7a1c-e419-4470-a3bc-787e626244db
@@ -9216,6 +9222,7 @@ PulseArchitect,dbc0c267-d109-4c6c-b2bb-d87c36f7afac
 PulseAudio_jll,02771fc1-bdb7-5db5-8d11-300768e00fbd
 PulseInputDDM,c2542da2-1f7d-11e9-2506-87691095ebb2
 PureHTTP2,7d1e1b98-28e7-4969-8df9-5a308937986a
+PureKLU,0c0d3e7f-3a8b-4f7e-b6f1-9a4d2e7c1f01
 Purses,b933ae29-2b40-4477-9757-bdbbb03ce3a4
 PushVectors,36b54c61-190e-5a5f-82d5-6f0a962d7362
 Pushover,1d40253f-d7d5-5bc2-be73-07f0f24a3532
@@ -10970,6 +10977,7 @@ SparseArrayKit,a9a3c162-d163-4c15-8926-b8794fbefed2
 SparseArraysCOO,610335e3-e389-450b-99eb-3a0a1c8c6bf9
 SparseBandedMatrices,bd59d7e1-4699-4102-944e-d05209cb92aa
 SparseBase,8047a082-0763-4c4f-a23b-a4a948721f1d
+SparseColumnPivotedQR,a57abbd0-fea5-4d57-96be-5e525945e8e4
 SparseConnectivityTracer,9f842d2f-2579-4b1d-911e-f412cf18a3f5
 SparseDiffTools,47a9eef4-7e08-11e9-0b38-333d64bd3804
 SparseExtra,9b3c4d32-3d7d-4a87-a5c7-b3f87cf9d22b
@@ -11652,6 +11660,7 @@ TSPSolvers,c9b9de95-37f0-4dea-82f9-4245f29ba0b6
 TSVD,9449cd9e-2762-5aa3-a617-5413e99d722e
 TSne,24678dba-d5e9-5843-a4c6-250288b04835
 TTVFaster,d84f081e-b698-44a3-a477-911041168508
+TTVarietyDegree,4f13c1e0-4b62-4a71-9505-4d72b03cb2f5
 TVMFFI_jll,7af0ec00-f2f5-592e-a8a6-f550b668bbed
 TVM_jll,366fac1a-8926-5ab0-83e4-4abef7ac9c79
 TZJData,dc5dba14-91b3-4cab-a142-028a31da12f7
@@ -13054,6 +13063,7 @@ ZstdSeekable_jll,86ac9985-db92-5090-8b9c-ec8f613186b3
 Zstd_jll,3161d3a3-bdf6-5164-811a-617609db77b4
 ZulipStream,90cb88a9-eac6-49a0-8eb4-35a012fbf11f
 ZwickerLoudness,08868560-fde5-4d5c-a6ad-ef47176ecf8c
+ZwickerLoudnessAudio,148fbc6a-b99d-460a-8261-c15b9908ee84
 Zygote,e88e6eb3-aa80-5325-afca-941959d7151f
 ZygoteRules,700de1a5-db45-46bc-99cf-38207098b444
 ZygoteStructArrays,d4e84096-4d6c-49d8-a925-3f99c52ed105
