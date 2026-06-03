@@ -555,6 +555,7 @@ Atlans,1fcd1f08-fdb6-477a-a0aa-3f8f0df25597
 AtlanticCloud,3869560d-4610-43ef-8129-3cc96c3d99f7
 AtlasIO,d44f5655-1c95-40b4-8e53-9bdb5084f5d6
 AtlasRobot,436ed74b-f7b6-57fe-bd82-efdbd6c0ab0c
+AtmosTransport,fcfdcc98-126e-435e-9a83-ddb11e65593a
 Atmosphere,2c84d669-3b95-46c3-a358-9a76f739ac9c
 AtmosphericDeposition,1a52f20c-0d16-41d8-a00a-b2996d86a462
 AtmosphericExtinction,fae9e5b2-af3b-4f55-8d7e-b4c0083dc7a6
@@ -1334,6 +1335,7 @@ CITIfile,8180ae47-4b51-4962-8ae8-0afeafccbbdb
 CImGui,5d785b6c-b76f-510e-a07c-3070796c7e87
 CImGuiPack_jll,333409e9-af72-5310-9767-d6ad21a76a05
 CImGui_jll,7dd61d3b-0da5-5c94-bbf9-a0296c6e3925
+CImPlot3D_jll,a06e77ff-36b4-5132-97e7-89d23e88aaf1
 CImPlot_jll,278f1f02-c5a0-563f-9174-e8b244dda450
 CIndices,5a98b6c4-18fa-405d-92b3-8277d93fed36
 CJKFrequencies,3a858bc7-ae0d-44ab-8a92-ee3192d2dedf
@@ -4908,6 +4910,7 @@ HeuristicOptimizers,de832154-0e71-40a9-a3ad-2166d2d73fc5
 Heuristics,6acb60cf-2fd4-4316-b77c-a68f9bfdd616
 HexFITS,1465c6e1-1cbb-424f-a4d4-267027409048
 HexIO,53d494c1-5632-5724-8f4c-31dff12d585e
+HexMeshes,6a780a60-7728-4ca8-aa44-e8f4e6fd1153
 Hexagons,a1b4810d-1bce-5fbd-ac56-80944d57a21f
 HiGHS,87dc4568-4c63-4d18-b0c0-bb2238e4078b
 HiGHS_jll,8fd58aa0-07eb-5a78-9b36-339c94fd15ea
