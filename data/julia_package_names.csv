@@ -1053,6 +1053,7 @@ BipartiteMatching,79040ab4-24c8-4c92-950c-d48b5991a0f6
 BipartiteNull,9c9e855c-dc5f-4faf-9e51-68ae7b74148d
 Biplots,9eb8d32e-48e1-486a-8aed-3d24e9b2252a
 BipolarSphericalHarmonics,e22a7426-82a6-487a-9ac6-2ced2976a2d6
+BiqCrunch_jll,3dcdc8e4-44ed-57ba-a481-00c2d470a1e6
 Birch_Standard_jll,acd4faa2-4a7b-5a95-a73e-c243ef4528a3
 Birch_jll,f446a8d3-3ce2-58d3-82fb-4f82d1c6300c
 BirkhoffDecomposition,7095a2e3-0a7f-4f3b-b61c-705d32c2f8a5
@@ -8269,6 +8270,7 @@ PALEOsediment,e0a37952-6f01-4236-91ff-62fdc855f67b
 PANDA,57a71ab2-c1ee-420a-94e0-f42fd769768c
 PAPI,c3f66453-0ce3-4e3d-8601-c404262f204f
 PAPI_jll,062e04e5-c3d3-5549-ab66-579a72a7bc1b
+PARI_jll,84859880-2197-580f-a1bb-08b6236e0e08
 PARMETIS_jll,b247a4be-ddc1-5759-8008-7e02fe3dbdaa
 PATHSolver,f5f7c340-0bb3-5c69-969a-41884d311d1b
 PATHlib_jll,f56cabf9-9b38-5fec-ba65-673b1bb18264
@@ -11032,6 +11034,7 @@ SpecialFunctions,276daf66-3868-5448-9aa4-cd146d93841b
 SpecialMatrices,928aab9d-ef52-54ac-8ca1-acd7ca42c160
 SpecialPolynomials,a25cea48-d430-424a-8ee7-0d3ad3742e9e
 SpecializeVarargs,24973c7f-061f-47f0-b8d1-653b711ffc2d
+SpecializingFactorizations,fa08b7a1-13d3-4faf-875d-5cbc1520e3f3
 SpeciesDistributionToolkit,72b53823-5c0b-4575-ad0e-8e97227ad13b
 SpeciesInteractionNetworks,49e116ef-912f-4766-9e56-896a49944adc
 SpeciesInteractionSamplers,52128aff-513d-4647-bfdb-f540a36539f5
