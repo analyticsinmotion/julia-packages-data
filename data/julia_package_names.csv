@@ -350,6 +350,7 @@ Animations,27a7e980-b3e6-11e9-2bcd-0b925532e340
 Anime,628eb91b-9d1c-424a-81d5-cd7fa5d7294a
 Anneal,e4d9eb7f-b088-426e-aeb5-1c0dae3d8abb
 AnnealingAPI,ea73c536-af4e-4c29-9508-d79bc79c0161
+AnnotatedTests,8e1b4f52-4d85-4fb0-a1ef-9a8a0fdc94f1
 AnnuliOrthogonalPolynomials,de1797fd-24c3-4035-91a2-b52aecdcfb01
 AnomalyBenchmark,13f62802-72e9-43db-893e-f77429f524ed
 AnonymousEnums,1b8a1bdb-a29a-4350-a16c-c7e9322d6a39
@@ -5243,6 +5244,7 @@ InPartSObstacles,4110d2ad-ee24-4968-96bf-19205974a08d
 InPhyNet,7d272db0-e1ce-47ab-9b64-d0002ca9962f
 InPlace,12a7aed9-f4ee-5e21-a57e-4f63a8148421
 InboundsArrays,fb0a3009-a0ba-48c7-b828-2efdeaae8962
+IncCSV,66f2fdda-89f9-4824-87f0-56b432c695d5
 IncGammaBeta,5087d2c0-5ad2-51de-b1ef-eaf82f0743fd
 IncSignFeas,f97a4e46-c504-430b-95a5-8a62ba574f60
 IncompleteLU,40713840-3770-5561-ab4c-a76e7d0d7895
@@ -9575,6 +9577,7 @@ REPLHistory,a5566ce3-012c-4b09-85b8-62131f0c3f36
 REPLMaze,124a7ef3-0f4b-4896-aed6-e944e7e0912b
 REPLSmuggler,ad7bff83-59f0-4382-9fe5-c2ac8aa77434
 REPLTetris,6af34c43-eb40-584a-ba44-023879b5265e
+REPLTranscript,e3cf6f4d-9b28-4ea7-9d7d-8f908f8dce64
 REPLTreeViews,00000000-1111-2222-3333-444444444444
 REPLference,89b048f0-36f8-47dc-b812-110e59d1ec6a
 REPLicant,8acbef56-6722-412a-9f59-5674813d37bb
