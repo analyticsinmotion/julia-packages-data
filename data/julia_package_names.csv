@@ -767,6 +767,7 @@ BanyanDataFrames,dfdd4555-3ad7-41cc-a503-a251c9c652f9
 BanyanHDF5,6a384147-cd95-43c9-be55-a9840ecf20a0
 BanyanImages,b9ad4058-0328-459a-b05c-52a04bd79ab2
 BanyanONNXRunTime,3da3ccd6-fc67-4523-8345-616f63551475
+BanzhafInference,1dcd8bad-b4e2-4929-895b-5ffffc074544
 Baobzi,fb487ce6-0906-4f0c-b439-418ac6d167e8
 Baobzi_jll,3808fb15-9b43-5646-9112-da6e39400273
 BarBay,3e4a4fdd-3c42-44bf-ab95-e818c96fb7a6
@@ -3967,6 +3968,7 @@ FourierSpaces,f3d7ce31-8807-4b9f-8144-4bd3ed8f0112
 FourierTools,b18b359b-aebc-45ac-a139-9c0ccbb2871e
 FpCategories,b9f20f1b-1226-4811-b6a0-b2e47a225553
 FpLinearCategories,607c1b85-d155-426e-91c9-9defd76aa9e1
+Fparser_jll,37e46276-c89d-58a3-acca-57bbde310d54
 FractalAnimation,6118da02-c7f1-44e0-8933-0c8b5cc44c9b
 FractalDimensions,4665ce21-e117-4649-aed8-08bbe5ccbead
 FractalIntegrals,1214b007-556e-4c4e-8d39-042f176f8b35
@@ -6182,6 +6184,7 @@ Libksba_jll,52a58d30-3731-5a3f-8361-26ffb4f63669
 Liblet,5ecd16ac-4fd8-43d2-a9dd-e22a5cebe6f6
 Libmount_jll,4b2f31a3-9ecc-558c-b454-b3730dcb73e9
 LibraryAugmentedSymbolicRegression,158930c3-947c-4174-974b-74b39e64a28f
+LibreDWG_jll,09e420bf-8417-5f06-a15e-b9d95313e2fb
 Librsvg_jll,925c91fb-5dd6-59dd-8e8c-345e74382d89
 Libsharp,ac8d63fe-4615-43ae-9860-9cd4a3820532
 Libtask,6f1fad26-d15e-5dc8-ae53-837a1d7b8c9f
@@ -10347,6 +10350,7 @@ SampledSignals,bd7594eb-a658-542f-9e75-4c4d8908c167
 SampledVectors,35248bf2-58a5-46a0-9b1d-c0a73a50a103
 SamplesCore,7e48b2a1-39c4-4d51-8e95-9d3278c7b89b
 SamplingInterdiction,9aaecd24-a0d8-466b-8bd9-adc0977479ee
+SamplingPseudospectrum,df99a186-b277-4535-88c9-5c16d40fec64
 SamplingRB,c377c86e-bf6b-4a25-91bb-5ed2a0abdac5
 Sandbox,9307e30f-c43e-9ca7-d17c-c2dc59df670d
 SankeyMakie,1323c716-dab9-4207-0457-9cc5295a221b
@@ -13528,6 +13532,7 @@ nng_jll,53193e1d-1121-5463-9373-c3c6ce833a10
 norMD_jll,9099c623-b728-534d-8b03-174c2f1af6a3
 normaliz_jll,6690c6e9-4e12-53b8-b8fd-4bffaef8839f
 ntl_jll,7494e58d-996d-52b4-b7cf-f5d9dde4b521
+numav_julia_jll,57785b2f-0453-510f-a9c0-981eddda5fac
 nv_codec_headers_jll,5b052a42-cdd7-5a33-b9ba-fea45e46860b
 object_store_ffi_jll,0e112785-0821-598c-8835-9f07837e8d7b
 obstack_jll,c88a4935-d25e-5644-aacc-5db6f1b8ef79
@@ -13713,6 +13718,7 @@ viterbi_jll,dd422b0c-1f95-5ffb-9e80-de3947502723
 vmtouch_jll,28f2fcfb-5f6a-5f77-b781-4b42819ab36c
 vole_jll,5833a85b-77c9-5066-a5cb-0fcd921296cc
 vroom_jll,62a4a0cf-2cbc-5e0f-8f30-f6cab19063e7
+vtzero_jll,6844ab77-5466-5b71-bac9-33cdec63eea3
 wannier90_jll,c5400fa0-8d08-52c2-913f-1e3f656c1ce9
 web3go_jll,eead4c12-a8c2-5c95-a405-009094e72470
 wget2_jll,8726a5da-ff56-5c52-916d-726e18caca27
