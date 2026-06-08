@@ -2694,6 +2694,7 @@ DictionarySlicing,a912d89d-ef62-4f6b-8cba-1b09a150679e
 Diderot,5d661840-88be-4b78-9825-7b6c04c1bd9a
 Dierckx,39dd38d3-220a-591b-8e3c-4c3a8c710a94
 Dierckx_jll,cd4c43a9-7502-52ba-aa6d-59fb2a88580b
+Diff3D,72681062-5925-4945-963f-74d9429756fe
 DiffEqBase,2b5f629d-d688-5b77-993f-72d75c75574e
 DiffEqBayes,ebbdde9d-f333-5424-9be2-dbf1e9acfb5e
 DiffEqBayesStan,086cc5bb-2461-57d8-8068-0aed7f5b5cd1
@@ -3830,6 +3831,7 @@ FixedPolynomials,3dd14ad9-0029-526e-86e9-8aa0bdd2ab0d
 FixedSizeArrays,3821ddf9-e5b5-40d5-8e25-6813ab96b5e2
 FixedSizeBitVector,a6325e15-1dfe-4e9f-88de-e354d00cf0f1
 FixedSizeStrings,3ca710bb-85d4-534c-9bae-b7b5d9e27e20
+FixedSparsityMatrices,b5d13e52-a467-431a-a85a-928014457621
 FixedWidthTables,ef6c9296-b25d-482c-a0a7-898918678e13
 Fjage,e0fd600c-be67-11e9-1f90-d366689e4029
 FjordSim,70d6b63c-c5d4-46ce-8d1e-8766361373eb
@@ -5161,7 +5163,9 @@ ImGuiGLFWBackend,623d79b3-9695-4e60-bd7e-2a5aabaa6933
 ImGuiOpenGL2Backend,c105bd9b-9289-4129-acf4-4c081b46d160
 ImGuiOpenGLBackend,9d0819b4-44e7-43a2-ad03-8fb999128168
 ImGuiTestEngine,464e2eba-0a11-4ed3-b274-413caa1a1cca
+ImGuiThemes,deadbeef-cafe-face-babe-c0ffeedecade
 ImPlot,e8efc688-5342-4ad4-b4ba-9025a731b363
+ImPlot3D,03da1dfd-c074-4aa6-be59-b3ca78b4aa61
 ImageAnnotations,76a96b56-f16f-11e8-3761-3967fdcf98d3
 ImageAnnotationsIO,a23dbe5c-0729-48bd-99f5-ede0f658dfcb
 ImageAxes,2803e5a7-5153-5ecf-9a86-9b4c37f5f5ac
@@ -6144,6 +6148,7 @@ LibModbus_jll,f28bf708-275a-52ef-9ea6-4821c17573f9
 LibMseed,1f77302d-495a-4b02-8d15-b81beb84162e
 LibNanoVG,7e2db94e-98cb-4b2e-907e-9710ad85db91
 LibOSXUnwind_jll,a83860b7-747b-57cf-bf1f-3e79990d037f
+LibPARI,75bc234d-eb99-4f80-8816-cb1dc773483e
 LibPQ,194296ae-ab2e-5f79-8cd4-7183a0a5a0d1
 LibPQ_jll,08be9ffa-1c94-5ee5-a977-46a84ec9b350
 LibPSF,5cf4117a-c29c-5f6c-be10-22558df91208
@@ -9542,6 +9547,7 @@ QuestBase,7e80f742-43d6-403d-a9ea-981410111d43
 QuestDBClient,db551b72-c8d0-4930-8019-443d434af198
 QuestradeAPI,a23c94f3-7123-4b19-879a-52247cde9a4c
 QuickCharts,66666661-dd45-4e85-a5e1-02500b2a6206
+QuickEnv,b4c4897f-8d96-4155-9008-62d2948bbcdb
 QuickHeaps,30b38841-0f52-47f8-a5f8-18d5d4064379
 QuickMenus,2230646a-bae9-43e2-a071-fff97e6a4342
 QuickPOMDPs,8af83fb2-a731-493c-9049-9e19dbce6165
@@ -11017,6 +11023,7 @@ SparseSensors,d6ceb477-1fb8-47dc-9268-a5d33dbc737e
 SparseTimeSeries,e40787dc-7381-49a9-a10c-5aed17658239
 SparseTransforms,3695a3c4-6718-48f1-a527-58d476e53586
 SparseVariables,2749762c-80ed-4b14-8f33-f0736679b02b
+SparseWithDenseRowColMatrices,80e09e16-2b43-4bb0-96aa-b2ce656e0cca
 SparsityDetection,684fba80-ace3-11e9-3d08-3bc7ed6f96df
 SparsityOperators,a5ff1dd3-4e0a-50db-9022-6d011c1d5846
 SparsityTracing,06eadbd4-12ad-4cbc-ab6e-10f8370940a5
