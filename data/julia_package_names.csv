@@ -1605,6 +1605,7 @@ Ccluster_jll,2795595f-8cd6-5168-9a44-49c628ee0ce1
 CeMicrodata,11053890-0308-406b-94d3-d76ebcae6419
 CechCore_jll,724d9041-2a60-51e0-bb7b-08a7c2be9791
 Celerite2,d7c4d21e-f632-4ce8-8dec-1f68bf4f0d36
+CelestialMechanics,af6ca793-50c9-46f3-a3bd-2b03a7581173
 Cell2HR,5c73846f-6712-4eb1-b84d-78fe4ff3efce
 CellArrays,d35fcfd7-7af4-4c67-b1aa-d78070614af4
 CellArraysIndexing,6597d73a-e7d2-484e-9044-f54e6a6a1966
@@ -3282,6 +3283,7 @@ EnvironmentMigrators,e51d7f76-d3fb-4251-851d-1e49b8315b3e
 EnvironmentalTransport,9e73f4c4-d7e8-4c78-8a11-cd2430746631
 Enzyme,7da242da-08ed-463a-9acd-ee780be4f1d9
 EnzymeCore,f151be2c-9106-41f4-ab19-57ee4f262869
+EnzymeRates,e7a1c2d3-4b5f-6a7e-8c9d-0e1f2a3b4c5d
 EnzymeTestUtils,12d8515a-0907-448a-8884-5fe00fdf1c5a
 Enzyme_jll,7cc45869-7501-5eee-bdea-0790c847d4ef
 EoSSuperancillaries,c1bf003f-4e47-49d9-bdfd-5a4051db3c04
@@ -7311,6 +7313,7 @@ Moshi,2e0e35c7-a2e4-4343-998d-7ef72827ed2d
 MosimoBase,a39d5f18-f8b1-4777-8f97-f1f91469dbd0
 Mosquitto,db317de6-444b-4dfa-9d0e-fbf3d8dd78ea
 MotifCluster,daa9fd3b-41af-4965-b715-a21506bae1e4
+MotifInference,e1c1f7b9-3d4a-4d3e-9b6a-2f5c8d1a7b34
 MotifPvalue,639d9495-0bf7-4cd9-80c6-a19f5ec6f406
 MotifRecognition,2a4d4a8f-c57f-4bed-b307-c16a2225f1ea
 MotifSequenceGenerator,7d228ccb-0fc9-53c8-a429-8c9b5b572bc3
@@ -7831,6 +7834,7 @@ NumCME,1785c143-4357-4f1f-be49-5c4bc10f803a
 NumNN,10f4d809-13e9-4a6a-bcde-2b39165689aa
 NumPyArrays,359eecd2-3036-4797-89e9-498f868f96c0
 NumaAllocators,21436f30-1b4a-4f08-87af-e26101bb5379
+Numav,8e910097-05db-4d5e-bf44-3d692aba33cf
 NumberIntervals,978898f6-561e-11e9-3f66-13949d9e5c8a
 NumberTheoreticTransforms,8497c1d1-af72-4391-8d22-bdd566511a1c
 NumberUnions,fe510250-cf29-5fab-a5fd-ac0daf8093a4
