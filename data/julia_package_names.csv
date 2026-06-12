@@ -5837,6 +5837,7 @@ KomaMRIPlots,76db0263-63f3-4d26-bb9a-5dba378db904
 Kombinator,c77a6b6f-abe2-4dd7-b2b3-8d5a1483deca
 KongYiji,3943505e-88e3-5b18-a3d9-e2be89fdab48
 KoopmanModeDecomposition,fa1c4275-15d9-4b6b-ac6e-8f8cb1e5cce9
+Kora,63f594c6-e77c-4cfd-819e-df68f57e9897
 KoreanJosa,a89d73a9-ae92-4287-941f-57cd51dbf5ba
 Korg,acafc109-a718-429c-b0e5-afd7f8c7ae46
 Kpax3,ad72c4b6-2990-538c-bd38-e122d63d24d9
@@ -6339,6 +6340,7 @@ LocalAnisotropies,cb698b3a-2f1d-48b4-a1e9-ddc0b8f648e2
 LocalApproximationValueIteration,a40420fb-f401-52da-a663-f502e5b95060
 LocalCoverage,5f6e1e16-694c-5876-87ef-16b5274f298e
 LocalDiskObjectStores,2cd9c1d6-d267-5370-983e-0bc605925cae
+LocalErgotropy,a5748edc-c418-4301-944b-2624e769340a
 LocalFennelPartitioning,bc5bb2de-b642-450c-9ee6-9b330b2022e0
 LocalFilters,085fde7c-5f94-55e4-8448-8bbb5db6dde9
 LocalFunctionApproximation,db97f5ab-fc25-52dd-a8f9-02a257c35074
@@ -7291,6 +7293,7 @@ MonteCarloMeasurements,0987c9cc-fe09-11e8-30f0-b96dd679fdca
 MonteCarloObservable,8a675f2c-1eea-59ef-99a5-5eebc71d1519
 MonteCarloSummary,09b61566-bbdb-49ee-a687-6096cc4472a0
 MonteCarloTesting,b75b2f39-c526-438a-aeb3-f18deacfdc57
+MonteCarloX,320e4f08-8d0f-4a8f-bb3c-13768a65d394
 MonthlyDates,5be0b35e-b7aa-4f8f-be3c-193ee1a845a6
 Montre,df2d4b28-ae60-43d6-8e46-0b6fc9d716f5
 Montre_jll,f72ebd5e-5dd3-5332-aade-6695765c27ff
@@ -8893,6 +8896,7 @@ PlyIO,42171d58-473b-503a-8d5f-782019eb09ec
 PoGO,043b967d-4e64-47a6-97d4-0007e6b4905c
 PoGOBase,9aeef027-32d9-426e-907e-1f5ddbd18eab
 PoGOGamemaster,62c09a92-b096-4650-ba41-ec5e38cc10f2
+Poietikes,09fca1fe-24f1-4998-9231-7de1d0d75c53
 PoincareInvariants,26663084-47d3-540f-bd97-40ca743aafa4
 PointBasedValueIteration,835c131e-675f-4498-8e2c-c054c75556e1
 PointCloudRasterizers,971589f2-82d2-11e9-1393-93ab095f3ec7
@@ -9216,6 +9220,7 @@ ProximalBase,0a755509-c5b1-5d6f-9b24-59bcda3c37a3
 ProximalCore,dc4f5ac2-75d1-4f31-931e-60435d74994b
 ProximalMethods,4206358c-74de-4262-b9b2-8440947a766f
 ProximalOperators,a725b495-10eb-56fe-b38b-717eba820537
+ProximalPolicy,19427e27-05a2-4b64-9f79-976985093f5c
 ProxyInterfaces,9b3bf0c4-f070-48bc-ae01-f2584e9c23bc
 PseudoAbsences,68905d83-288d-4570-b05e-f7eb6299ad2c
 PseudoBooleanOptimization,c8fa9a04-bc42-452d-8558-dc51757be744
@@ -10045,6 +10050,7 @@ Rmath,79098fc4-a85e-5d69-aa6a-4863f24498fa
 Rmath_jll,f50d1b31-88e8-58de-be2c-1cc44531875f
 RoME,91fb55c2-4c03-5a59-ba21-f4ea956187b8
 RoMEPlotting,238d586b-a4bf-555c-9891-eda6fc5e55a2
+RoMETypes,298dcef3-e3bd-403a-988f-2dd5ca311a3f
 RoadRunner,e916ade1-3a88-4cc2-a33a-2915d20637d9
 RobertoMD,1a988cff-0a4b-480a-bbee-48812da881ba
 RoboDojo,2859eb88-988f-4613-a49e-c643bedbc906
@@ -10449,6 +10455,7 @@ SciMLOperators,c0aeaf25-5076-4817-a8d5-81caf7dfa961
 SciMLPublic,431bcebd-1456-4ced-9d72-93c2757fff0b
 SciMLSensitivity,1ed8b502-d754-442c-8d5d-10ac956f44a1
 SciMLStructures,53ae85a6-f571-4167-b2af-e1d143709226
+SciMLTesting,09d9d899-5365-40a9-917a-5f67fddea283
 SciMLTutorials,30cb0354-2223-46a9-baa0-41bdcfbe0178
 SciMLVerbosity,a05b3ec9-34a1-438a-b0a1-c0adb433119f
 SciMLWorkshop,6821e370-b0bb-497c-beb7-809790cbeb12
@@ -11622,6 +11629,7 @@ Symbolics,0c5d862f-8b57-4792-8d23-62f2024744c7
 SymbolicsMathLink,7963cd39-1b62-4514-9cf0-788fb5452611
 SymmetricDispatch,1eb2ecf7-7547-4427-9254-f8e5a5c22f1d
 SymmetricFormats,a91e544d-b3d6-4431-ae28-0549b1291c16
+SymmetricFunctions,2fe956d9-8622-4813-baff-ac4df3a59104
 SymmetricPolynomials,558b8e20-7ada-43ad-ad6f-3f1590d8955d
 SymmetricProducts,075c16e0-7ab9-11e8-024b-f7dece19ca2d
 SymmetricTensors,1ab33d94-6c6c-50cc-93f0-e3f623a46aa0
