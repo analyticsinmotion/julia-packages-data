@@ -365,6 +365,7 @@ Ant,fc2879f5-75d7-582e-8603-c64deb99b744
 AntColony,75b11117-7252-40c0-b375-554c734de600
 AntennaPattern,190b1fc3-f725-4b56-bc75-d9d21258ce5e
 Anthropic,a00d14cb-3434-48ec-9b49-cfc2b9ce2a8f
+AnthropicClient,e82deec3-d3b5-4b85-aba1-b8e1f470db1f
 Antic_jll,e21ec000-9f72-519e-ba6d-10061e575a27
 Antique,be6e5d0e-34a5-4c8f-af83-e1b5389203d8
 Antlr4CppRuntime_jll,642bff37-c5db-510f-b67c-24692d406d7f
@@ -559,6 +560,7 @@ AtlasIO,d44f5655-1c95-40b4-8e53-9bdb5084f5d6
 AtlasRobot,436ed74b-f7b6-57fe-bd82-efdbd6c0ab0c
 AtmosTransport,fcfdcc98-126e-435e-9a83-ddb11e65593a
 Atmosphere,2c84d669-3b95-46c3-a358-9a76f739ac9c
+AtmosphericAbsorption,e0e35e18-ffce-4906-90bd-929a5e163038
 AtmosphericDeposition,1a52f20c-0d16-41d8-a00a-b2996d86a462
 AtmosphericExtinction,fae9e5b2-af3b-4f55-8d7e-b4c0083dc7a6
 AtmosphericModels,c59cac55-771d-4f45-b14d-1c681463a295
@@ -4593,6 +4595,7 @@ GoogleCodeSearch_jll,6c08f7c7-e449-597e-96d3-8117915de277
 GoogleDrive,91feb7a0-3508-11ea-1e8e-afea2c1c9a19
 GoogleGenAI,903d41d1-eaca-47dd-943b-fee3930375ab
 GoogleHashCode2014,a405283a-0100-47ff-b2ed-5493eb4224b2
+GoogleLLMClient,47375e4a-9c6c-4a57-8142-eadb383284c2
 GoogleMaps,b6ac9c74-f072-5636-adac-bd17907ec0b6
 GoogleScholar,cc0898d6-34c9-4540-a58d-8bfbe394b8dc
 GoogleSheets,831f653e-6dbc-49a2-ac93-eebfaa09c6e6
@@ -4714,6 +4717,7 @@ Grisu,42e2da0e-8278-4e71-bc24-59509adca0fe
 Groebner,0b43b601-686d-58a3-8a1c-6623616c7cd4
 GroebnerBasis,e39c9192-ea4d-5e15-9584-a488c6d614bd
 GroebnerWalk,6dc8777d-2b0c-4de5-9e3c-426c1820f6f9
+GroqClient,711eb22d-91dc-437e-b59a-359d7c588a21
 GroundMotion,1a1bcaad-b889-5540-93fc-02c6735e0f5a
 GroundwaterPlots,4497dbff-a3fd-4ae5-909f-dd1339757ac3
 GroupFunctions,187e6719-d2a6-4c17-9b39-0c99811c6bd2
@@ -5631,6 +5635,7 @@ JuDGE,7600667b-db04-5866-8f94-e5ff75fe7256
 JuDoc,4ca9428c-4c75-11e9-2efb-bf5cb6c1e8f8
 JuDocTemplates,6793090a-55ae-11e9-0511-73b91164f4ea
 JuLIP,945c410c-986d-556a-acb1-167a618e0462
+JuMENTO,78705326-e6c4-40ef-a028-b98696ee36e4
 JuMP,4076af6c-e467-56ae-b986-b466b2749572
 JuMPChance,bbd82366-0c69-5eef-bed9-5a0dd17fc720
 JuMPConverter,8688f9d9-1483-4eb8-83e1-9bdd47b3f0f9
@@ -7852,6 +7857,7 @@ NumericalIntegration,e7bfaba1-d571-5449-8927-abc22e82249b
 NumericalMethodsforEngineers,00e1d38a-71a9-5665-8612-32ae585a75a3
 NumericalRange,bd3c3ff1-ad01-40db-ab3f-ca12d8f2d1e9
 NumericalRepresentationTheory,6b7c1d51-ecee-4149-97a8-50646b514dce
+NumericalSteepestDescent,ea5c52bc-9edc-428a-9677-4a4d9540cecb
 NumericalTypeAliases,be9b823e-291e-41a1-b8ce-806204e78f92
 Numerics,8b6e5320-caf2-4a3d-ab96-070b5f3e7804
 Numssp,bcd14c31-b0d4-4eae-b592-0213e767a021
@@ -8373,6 +8379,7 @@ POMDPTools,7588e00f-9cae-40de-98dc-e0c70c48cdd7
 POMDPXFiles,c6f6ee83-58c6-5336-a19f-2c76817e1af6
 POMDPs,a93abf59-7444-517b-a68a-c42f96afdd7d
 POMLUtils,8c985f62-e6ed-46b2-9e87-fb745dbb52c6
+POPSRegression,859322f3-d3c4-465e-abc9-91eac1a3a159
 PORTA_jll,c3fa2e09-48e0-5371-872a-ed3ac32dd1fc
 PPInterpolation,0bf8acf5-7f56-4370-abee-dfc0c3b7d49e
 PPLM,80fe3cd3-18f3-43a0-bc53-22e3608ca67d
@@ -8638,6 +8645,7 @@ PersistentCollections,84dc0e8b-87a2-413f-9462-a65634c44495
 PersistentHomologyTransfer,8e4506b2-5217-11ea-25a3-13470ffdf3d0
 PersonParameters,ede86a6c-608d-4331-8790-0f4b0558141a
 Pesto,f3a6be2d-a68d-4ec3-9269-e9777039d639
+PetoiBittle,5bc1ff43-7751-4008-a957-b2449cec208f
 Petri,4259d249-1051-49fa-8328-3f8ab9391c33
 PetroBase,b72d3798-c150-44c4-b6d4-c983c975f217
 PetroleumModels,5779e974-1f92-11eb-9f64-57741d3a5e0e
