@@ -2225,6 +2225,7 @@ CorrelatedEquilibria,d8fd485f-4c4b-4cfa-b507-2290d128bc2e
 CorrelationFunctions,cd8c4018-4f35-43b7-8520-d042ebaeaa2d
 CorrelationTrackers,2aaf3720-2af0-4ca4-b7d9-7d970023fcad
 Cortex,39612bbb-57ff-4bee-a8f8-6b0371679005
+CortexPlot,3e05bac1-479d-436b-8d8a-dabcf2211736
 CorticalParcels,40903625-a1ea-44c8-b7f6-e840be33f0ed
 CorticalSpectralTemporalResponses,82ec0db2-aa68-11e9-08e4-e3d69fc08b96
 CorticalSurfaces,db9f6742-bc38-4697-955a-0a5dbec8c5c6
@@ -4838,6 +4839,7 @@ HalfIntegers,f0d1745a-41c9-11e9-1dd9-e5d34d218721
 HallThruster,2311f341-5e6d-4941-9e3e-3ce0ae0d9ed6
 HaloMF,0e139a23-195b-4aec-b8fc-e9aa4361bc8d
 HaltonSequences,13907d55-377f-55d6-a9d6-25ac19e11b95
+HamamatsuStreakFiles,9cf175da-80c3-439d-a199-cfd3547211b3
 Hamburg,fe294631-7164-4d0f-9497-e1b4dc4640c8
 Hanabi,705708ad-e62c-5f47-9095-732127600058
 Hanabi_jll,37516f07-4740-538e-b7cb-eec320f4a184
@@ -4931,6 +4933,7 @@ HexFITS,1465c6e1-1cbb-424f-a4d4-267027409048
 HexIO,53d494c1-5632-5724-8f4c-31dff12d585e
 HexMeshes,6a780a60-7728-4ca8-aa44-e8f4e6fd1153
 HexSBPSAT,62471009-8046-4323-9523-38e3c9f4e550
+HexVTKHDF,ac570316-e44a-4680-8f99-93c220bf4d9d
 Hexagons,a1b4810d-1bce-5fbd-ac56-80944d57a21f
 HiGHS,87dc4568-4c63-4d18-b0c0-bb2238e4078b
 HiGHS_jll,8fd58aa0-07eb-5a78-9b36-339c94fd15ea
@@ -8667,6 +8670,7 @@ PhaseSpaceDTFE,4bbf42c9-fe82-44eb-a825-ab877c23bdb8
 PhaseSpaceIO,de004529-e20a-5d30-89d8-7739140c50e5
 PhaseSpaceTools,0e21426a-da0a-11e8-1f13-43a2532b2fa8
 PhaseTypeDistributions,c6a3dbec-a81b-4ac0-803e-44f90338b00b
+PhaseTypeDistributionsFitting,614b5b81-d4f4-49a2-a05a-ddc182660778
 PhasedArray,26694ec9-1e1a-50ce-959e-f72fe0aa84a3
 PhilipsDataList,8d02dd3f-0ae5-4a36-8097-157a91f88471
 PhilipsHue,4f36922e-b395-5139-af69-051d0331eef0
