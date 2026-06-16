@@ -41,6 +41,7 @@ AIHelpMe,01402e1f-dc83-4213-a98b-42887d758baa
 AISCSteel,599de4a1-440e-403d-8b33-ce14758023a2
 AKNS,75efc99c-f354-4bf0-9c4f-447e54034ed9
 ALFA,f8dd4131-4bab-4a89-9326-aead9c214d0d
+ALGLIB,3c0bbba6-e638-4e06-b891-7f1c0e5c29fa
 ALPS_jll,6a88e26e-56cb-5037-a572-1ff8e7f440e8
 ALaguerre,b59baba2-a6e1-4dc4-834b-5ad32cf651f6
 AMCL_jll,3d240a5b-71e6-5479-a1fd-1de0b877801d
@@ -136,6 +137,7 @@ AbstractPlutoDingetjes,6e696c72-6542-2067-7265-42206c756150
 AbstractRationals,4958c51a-00f6-11ea-2b94-f3f784e4d148
 AbstractSDRs,0bdde9fc-719a-4dc7-8589-49ca6634fa6b
 AbstractSDRs_rx_ascii_art_dft,6b81e7ba-832b-43c9-bb51-2e30242560d3
+AbstractSphericalHarmonics,ee470b23-2871-4f3a-b920-8523874a9e46
 AbstractStorage,14dbef02-f468-5f15-853e-5ec8dee7b899
 AbstractTensors,a8e43f4a-99b7-5565-8bf1-0165161caaea
 AbstractTrees,1520ce14-60c1-5f80-bbc7-55ef81b5835c
@@ -1623,6 +1625,7 @@ CellSegmentation,bc04555c-6b3a-48e0-9330-69d76e9b444f
 CellularAutomata,878138dc-5b27-11ea-1a71-cb95d38d6b29
 CellularPotts,11b7dee7-cd95-48a5-a457-717aae94d0bd
 CellularSheaves,bbe41592-74b8-4681-9d9c-4481e725304d
+CensoredDemand,c8c18680-54bb-4834-b131-4d8073cfa1c0
 CensoredDistributions,b2eeebe4-5992-4301-9193-7ebc9f62c855
 CensusACS,5cdc1628-db7d-4f1a-9a42-d0831b0d3a5e
 CenteredRBMs,def70c09-f69f-4396-afd1-e8507a6dddbf
@@ -6822,6 +6825,7 @@ MarriageMarkets,bccb7ab1-cda7-5383-b12b-a44596912546
 MarsRuntime,dd07e42f-8d4e-4e9e-9c0b-000000000001
 MarsagliaDiscreteSamplers,4af1e8a0-adf0-4fd3-8f3c-83fd73567e83
 MartaCT,1b4a4c30-53cc-4a73-9c44-e0ae6415a229
+Martini,5a6a432f-473d-4d96-8080-e08c33a11337
 MaskArrays,0779ba27-d013-422b-b20d-67aa3361bf56
 MaskPII,e51ab4cc-94ad-4aad-a579-d543f796cd4d
 MaskedArrays,e3e6debb-e142-42bc-8e83-ba8646d1d252
@@ -11972,6 +11976,7 @@ ThermovisorImages,54d963ed-1681-434b-92d2-200df9375a55
 Theseus,7f538e44-2768-4ef2-af90-2110c0378286
 ThesisArt,6184abd9-1539-47ca-b742-6ec6f8d46641
 Theta,42bdb5c4-78fb-11e9-2233-215979c148c4
+Thetis,a49e9229-5a2d-4267-a054-f87832bf5a89
 ThickIntervals,540b2d50-f826-4de2-88b6-7b05931975d3
 ThickNumbers,b57aa878-5b76-4266-befc-f8e007760995
 ThinFilmsTools,e990187e-78db-4ef6-b01c-c671a8d7225b
@@ -12734,6 +12739,7 @@ WannierExcitonModel,b427a48a-3e32-43b5-a614-63ff4457e590
 WannierIO,cb1bc77f-5443-4951-af9f-05b616a3e422
 WarmupHMC,60658175-6863-4866-a322-ab51a11c0cfe
 Wasabi,cec542a4-22c5-46cb-8ca4-a46a7737b387
+WasmMakie,782397d3-b2e0-4093-86f4-3070b4a5c6bd
 WasmTarget,9f3a1415-1112-405b-ae89-c61daf9872bd
 Wasmtime,f519113a-1485-4b12-af44-dbf9b5a2f6b4
 Wasmtime_jll,d20e7296-4f3e-515c-90b9-d2595a77bf72
