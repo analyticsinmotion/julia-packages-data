@@ -3739,6 +3739,7 @@ FiftyOneImageAnnotations,a00f948b-584f-4068-8192-b9768bfe7837
 FigCLIGen,bc9c4d6b-10c7-430a-9b0c-cd343efcf359
 Figgy,937e9308-674a-48ca-a404-047094c8c902
 Figures,fb03b324-f2a4-578c-aba7-71fab90f4c9b
+FiktarDB,cd32a6e7-57bc-4ef8-af33-ae3d6e300c9d
 FileCheck,4e644321-382b-4b05-b0b6-5d23c3d944fb
 FileCmp,343a5541-a696-4ae7-8102-bc61c09e1896
 FileExplorer,edaeb83b-eb46-4343-a784-f8799e8c45af
@@ -5669,6 +5670,7 @@ JuliaHub,bc7fa6ce-b75e-4d60-89ad-56c957190b6e
 JuliaInXL,9600883c-ba29-528d-9bed-cdc630232040
 JuliaInterpreter,aa1ae85d-cabe-5617-a682-6adf51b2e16a
 JuliaKara,e742bb3c-81eb-5c15-8577-c54658a6ac7f
+JuliaLibWrapping,d61f35a8-f6af-436f-bc10-cee6b101f7bd
 JuliaManager,0cdbb3b1-e653-5045-b8d5-b31a04c2a6c9
 JuliaNVTXCallbacks_jll,9c1d0b0a-7046-5b2e-a33f-ea22f176ac7e
 JuliaPetra,0a7d185b-be57-59df-ac21-86d8a1799c2e
@@ -7754,6 +7756,7 @@ NimbusSDK,343eba5b-4fb9-46a4-8530-c5c9f738ed2c
 Ninja_jll,76642167-d241-5cee-8c94-7a494e8cb7b7
 NipponColors,6ad8dad8-821c-43d6-81bb-8d3dfb5c0fb6
 NistyPQC,2b8046e5-a088-403d-a84e-acdf171f9a66
+NoLimits,1d491b74-35a5-408f-ae19-cf8524c3769d
 NoRainbows,0123455d-aa4f-468e-93ab-d299a68444db
 NoSleep,95f667b2-49e0-4955-80bd-390d74d178c7
 NodalPolynomialSpaces,0b197c3a-da26-4bf3-b373-765e7d9e4c53
@@ -8728,6 +8731,7 @@ PiCraft,6cc4b21d-cec8-58d5-a373-5cd579ce5971
 PiGPIO,bb151fc1-c6dc-5496-8ed6-07f94907e623
 PiMPC,e8a2dd3f-358c-491c-b12d-146b59c446fb
 PianoHands,74435128-bd9d-4d82-978b-bd768beb391e
+PicardLefschetzIntegration,86202789-ec99-4348-b84a-34e9b1fc693e
 Piccolo,c4671d76-df94-11ed-2057-43d4fd632fad
 PiccoloPlots,f42a522c-b487-4f73-ad5a-ad0c3e4a12c8
 PiccoloQuantumObjects,5a402ddf-f93c-42eb-975e-5582dcda653d
@@ -10638,6 +10642,7 @@ SharedMemoryLocks,7bb51ff7-3c6a-41be-b642-de78e6952b49
 SharedMimeInfo_jll,5996c727-abd7-5f74-ae59-138d08b03cd1
 SharedPreferences,a5a92e11-d0bb-45ff-9fc3-c070cd77387a
 Shell,89279098-3423-5141-994b-b871f91dcb82
+ShellCheck_jll,8b3d8500-0e58-5946-a977-e3dcde120a46
 ShellModel,af7a45b4-ac90-45dc-abec-c5da3d7f536c
 ShellStructureTopo,77fad3b7-27a3-4ff4-b61b-6ce40034767b
 Shelly,d5c2ffab-b4e7-4ef6-aef9-6ba302e36d3e
@@ -10971,6 +10976,7 @@ SoilMulch,be6996d8-ce38-42dc-ae22-8b975ffb034a
 SoilPlantAirContinuum,2d76e174-5bec-4df2-b5ea-844408736dc2
 SoilProfiles,d2d87a28-bc46-4564-bd1b-2e333645c2dc
 SoilWater_ToolBox,374a444c-c624-4b44-9de1-37c0fe7c6d41
+Sol2_jll,40efcd7b-2ea1-5554-a9c9-7d951e8b629a
 SolarEnergeticParticle,c65597a0-fc8f-4fb5-9f0a-4e6244d82c46
 SolarGeometry,4c2ee4bc-ae8c-4f43-b820-7df96744ebfe
 SolarPosition,5b9d1343-a731-5a90-8730-7bf8d89bf3eb
@@ -13263,6 +13269,7 @@ dSFMT_jll,05ff407c-b0c1-5878-9df8-858cc2e60c36
 datamash_jll,5e3497f2-6421-5a2b-b76c-5131171094e1
 dav1d_jll,349a489e-63ad-5fc4-b473-f70c9c959831
 deSolveDiffEq,0518478a-701b-4815-806c-24ad5cb92f09
+deal_II_jll,5bf063c2-051f-51d9-b770-4d3ca06472e2
 demumble_jll,1e29f10c-031c-5a83-9565-69cddfc27673
 desync_jll,fa92151d-46bc-54ec-9702-06e181683c4a
 devspace_jll,f3d103f0-1a5c-5786-832a-e5a97cefde2e
@@ -13552,6 +13559,7 @@ mdbtools_jll,07583aeb-fc39-51f3-a266-a2fa5ce88e58
 mdoodz_jll,0a56ae03-39c2-5dea-b057-4d914594188b
 micromamba_jll,f8abcde7-e9b7-5caa-b8af-a437887ae8e4
 mimalloc_jll,38cef826-3163-5c31-a333-3957420b3fb7
+miniaudio_jll,31fdad34-4649-51f1-940c-dc288b1fae56
 minify_jll,7dd700f0-7fa2-5578-8ac1-d309908db794
 minimap2_jll,d341526d-637d-5003-8fc4-9c6812cd2b55
 minio_jll,ad83bbfc-c153-533a-bb97-700a7db721e0
