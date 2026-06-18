@@ -2727,6 +2727,7 @@ DiffEqUncertainty,ef61062a-5684-51dc-bb67-a0fcdec5c97d
 DiffFusion,be7e520c-a8fa-4f26-8f65-6d6d1049182e
 DiffImageRotation,cb1f95eb-7c3a-45bc-9e18-5c07f1beaacd
 DiffMatic,ec55c3ff-feb8-4051-a6a4-2e9f18c613fc
+DiffMoM,bff380b4-c285-4328-812e-213c0f6e21bc
 DiffOpt,930fe3bc-9c6b-11ea-2d94-6184641e85e7
 DiffPointRasterisation,f984992d-3c45-4382-99a1-cf20f5c47c61
 DiffPrivacy,53714aee-e5d1-4d1b-abff-f814f0c675a5
@@ -12350,6 +12351,7 @@ TyPython,9c4566a2-237d-4c69-9a5e-9d27b7d0881b
 Tyler,e170d443-b9d6-418a-9ee8-061e966341ef
 TypeClasses,addcc920-e0cf-11e8-30b7-0fb08706b574
 TypeCompletion,8f700d64-2ec0-4e18-b562-010c3a374dda
+TypeContracts,c7a3f1e2-84b5-4d69-9e0a-1f2b3c4d5e6f
 TypeDBClient,7ffdda62-db04-4838-9798-febd00f3125c
 TypeDBClient3,e65b8614-ec10-4d8b-a9fb-bd44bc213d71
 TypeDBDriverClib_jll,cd6bae0c-b179-51b7-81cb-091010e4ec61
