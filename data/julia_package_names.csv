@@ -1173,6 +1173,7 @@ BoltzmannMachinesPlots,e853e177-4ae5-507f-af00-4766098699e4
 BondGraphs,d1a4f103-cd9c-465b-aef3-7f12ef11bc98
 BongCloud,20044d60-3a24-43ac-9e79-7192f8ed3dce
 Bonito,824d6782-a2ef-11e9-3a09-e5662e0c26f8
+BonitoWidgets,62a4b9e4-7ee6-4bfa-b661-80bcb0a47665
 Bonmin_jll,29cba6d7-6840-5cf2-a2fa-9bdfccfe29ea
 Bonobo,f7b14807-3d4d-461a-888a-05dd4bca8bc3
 Bonsai,30a8ad1e-2947-4f5c-9f0c-168e614e8e53
@@ -3243,6 +3244,7 @@ EmpiricalPotentials,38527215-9240-4c91-a638-d4250620c9e2
 EmpiricalTightBinding,592ba744-f2ce-40dd-852e-7cfd1e22b0d7
 Empirikos,cab608d6-c565-4ea1-96d6-ce5441ba21b0
 Emporium,4f286ecd-06d3-4492-bdef-0ca090b7d070
+EmulatedBitIntegers,344cc1fc-1294-4796-b5db-6b4bd1573fb6
 EnKF,685896a8-a41b-11e9-3419-3315e75b5d74
 EncodedArrays,97725368-735e-11e9-0dd7-6bf34c3b13a8
 Encodings,8275c4fe-57c3-4fbf-b39c-271e6148849a
@@ -4543,6 +4545,7 @@ GitForge,8f6bce27-0656-5410-875b-07a5572985df
 GitHub,bc5e4493-9b4d-5f90-b8aa-2b2bcaad7a26
 GitHubActions,6b79fd1a-b13a-48ab-b6b0-aaee1fee41df
 GitHubAppTokens,065bf76e-ca52-408e-80ac-b2f947d0e344
+GitLabCodeQualityReports,96e47e59-5107-4718-acc0-ede47ee1aa3b
 GitOut,04fb8cda-6e7d-43bb-aab7-5643caf4af12
 GitREPL,86bc0129-654e-4751-9b96-b173469afcbd
 Git_LFS_jll,020c3dae-16b3-5ae5-87b3-4cb189e250b2
@@ -5874,6 +5877,7 @@ KroneckerTools,7e59e93b-e0cb-42c7-aa95-426cb754d61e
 Krotov,b05dcdc7-62f6-4360-bf2c-0898bba419de
 KryburyCompress,665f56ad-f4f7-4f50-adde-d55c796959f8
 Krylov,ba0b0d4f-ebba-5204-a429-3ac8c609bfb7
+KrylovComplexity,b35daade-376e-4ea7-997e-f4120022cb4b
 KrylovKit,0b1a1467-8014-51b9-945f-bf0ae24f4b77
 KrylovMethods,9a2cd570-f05c-5dc1-9209-93ad6f5727f7
 KrylovPreconditioners,45d422c2-293f-44ce-8315-2cb988662dec
@@ -6730,6 +6734,7 @@ Madagascar_jll,aa2f55ac-b14e-51ec-b6ff-9716116fc184
 Madrigal,30ac0af5-7056-44d2-a45c-266d747295e6
 Mads,d6bdc55b-bd94-5012-933c-1f73fc2ee992
 MagNav,f91b31a4-be4d-40e3-b767-4b8c09c10076
+Magesty,329bda51-4b33-4ad1-95c9-f0535f133d43
 Magic,938144cb-3a24-4977-a248-a12dea9dd101
 MagicVLSI_jll,8553b089-32f9-510e-b5d7-7da551ec2160
 Magika,a454fd17-9086-4fe2-b9b0-9a1c0873c51f
@@ -7046,6 +7051,7 @@ Metal_LLVM_Tools_jll,0418c028-ff8c-56b8-a53e-0f9676ed36fc
 Metal_Shader_Converter_jll,9cc310e4-281b-5b8b-8908-46b9a86e6271
 Metalhead,dbeba491-748d-5e0e-a39e-b530a07fa0cc
 MetapopulationDynamics,67afee28-ec33-4cc2-88ea-a48c87ed52f9
+Metatensor_jll,0a60894c-bde1-5a72-bbe5-9f45bee4e041
 Metatheory,e9d8d322-4543-424a-9be4-0cc815abe26c
 Meteostat,b5f40946-ae6d-44b1-bfb0-547ef2ed8e7e
 MethodAnalysis,85b6ec6f-f7df-4429-9514-a64bcd9ee824
@@ -9057,6 +9063,7 @@ PovertyAndInequalityMeasures,582645c0-90fa-497a-98b9-936b80116c29
 PowerAnalyses,fee4b835-1841-44f8-82ea-42813857171a
 PowerAnalytics,56ce1300-00bc-47e4-ba8c-b166ccc19f51
 PowerApps,e34cdab0-23c5-4ff6-ba51-717855faf142
+PowerDiff,4fa8226c-b122-4e48-8217-6f318ba8ef74
 PowerDynBase,7ffb48b1-f436-5a59-a310-b4407da33972
 PowerDynData,8af9307f-baed-4afb-b455-e9e9cc62a748
 PowerDynOperationPoint,95be4243-a2fd-5eef-a7d1-2e97978993e7
