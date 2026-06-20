@@ -2233,6 +2233,7 @@ CortexPlot,3e05bac1-479d-436b-8d8a-dabcf2211736
 CorticalParcels,40903625-a1ea-44c8-b7f6-e840be33f0ed
 CorticalSpectralTemporalResponses,82ec0db2-aa68-11e9-08e4-e3d69fc08b96
 CorticalSurfaces,db9f6742-bc38-4697-955a-0a5dbec8c5c6
+CosmoDTFE,d376d98b-24c2-4fac-bf6b-9000e4999c11
 CosmoNEXUS,571d7339-38b0-4585-872c-fb03e0c88832
 Cosmology,76746363-e552-5dba-9a5a-cef6fa9cc5ab
 Couenne_jll,f09e9e23-9010-5c9e-b679-9f1d8f79b85c
@@ -2587,6 +2588,7 @@ DecisionMakingUtils,e21ee072-cbb1-4ecc-b257-6a793c43976a
 DecisionNetworks,a1ae968e-b3ba-4546-81a6-f6e3d3a9391a
 DecisionProblems,b716e576-a1f9-415a-b454-baf909aed799
 DecisionProgramming,0e836bf4-a496-11ea-2c13-edcbe498ce6b
+DecisionRules,47937410-f832-486f-8300-12c95b225dfc
 DecisionTree,7806a523-6efd-50cb-b5f6-3fa6f1930dbb
 DecompUtil_jll,2ebad9b3-2ef2-5978-ad98-6cd1c30fc6b8
 DecomposingGroupRepresentations,3934549d-b4b9-4a85-8fa6-9c281fbf1a3e
