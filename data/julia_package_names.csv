@@ -2567,6 +2567,7 @@ DbgMacro,d6ce5c67-b3b1-4855-8eb4-4ca27575037e
 Dbus_jll,ee1fde0b-3d02-5ea6-8484-8dfef6360eab
 DeIdentification,b905b068-7150-5b22-bc23-80596c88c6a6
 DeMorgan,454c4576-8353-43f8-8d90-1177b7ee912a
+DePPA,47e0b4c3-c02b-4df9-862c-39042bcbb8d1
 DearDiary,bcf306fc-d39d-4f25-b732-26abcc96baf2
 DebianGlibc_jll,3812390e-129a-5d25-9b88-6fc12c151a30
 Deborah,d9d56e4b-5314-43d8-9d0c-59f15ab373e7
@@ -3353,6 +3354,7 @@ EuclidGraphs,6d00f6e2-8806-480a-ab08-d5e107e6bfed
 EulerAngles,754c60e7-4104-4b2f-84f1-902fd791391f
 EulerCharacteristic,2c1df2f5-4ab6-47a9-8339-2c9d55c0a52c
 EulerLagrange,e4b6a126-98cc-486b-a68d-c3e5d57f8cc9
+Eunoia,7d9f3c1e-5a2b-4c6d-9e8f-1a2b3c4d5e6f
 EuropeanDataFormat,6e7d3c7c-811f-4696-823f-91ac5a3cab82
 EvalMetrics,251d5f9e-10c1-4699-ba24-e0ad168fa3e4
 EvaluationCF,5a7cd546-c751-11e8-3a71-83f58cf2d4e3
@@ -10678,6 +10680,7 @@ Shrike,e7e127b8-87f2-11eb-1459-934231b01f31
 Shuffle,bf21e494-c40e-4daa-abfb-de5ec0aad010
 ShuffleProofs,31a120cc-b3cb-4d07-bbdb-d498660ddfd8
 ShunnHamQuadrature,164309f2-5039-4884-b6c7-6da8aa5c66ad
+SiCell,95f86b30-9ecb-4228-906f-48049b53e836
 SideKicks,ae7baef6-f8d7-4188-9988-8bf5c4952615
 SiennaPRASInterface,4b496c86-8d00-441d-b504-079c710e0aa7
 SigFigs,98c7d76d-7e09-410d-8095-648d0832f4ae
@@ -13504,6 +13507,7 @@ libpsl_jll,c4fadf96-db99-5883-8c55-41cf0165eeb0
 librdkafka_jll,7943bfb0-7437-5acd-a008-22777931c7aa
 librealsense_jll,65edd895-dc1e-518e-896c-dc343a3c7f2e
 librel_ant_parser_jll,f30bf88c-a969-5e45-b2c9-3eb7c20c1c7d
+librerun_c_jll,1148ce26-83e7-5eb1-970b-19db2de75e6d
 librsync_jll,6c5fa084-3dbe-5c56-adb0-3ea4e9e901c0
 librtlsdr_jll,d1c10d9e-0af6-511b-a44d-62fc8e59b084
 librttopo_jll,4a3ffa5b-425c-5e62-932c-e04bcaef15ee
