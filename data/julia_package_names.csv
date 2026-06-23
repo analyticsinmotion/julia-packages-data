@@ -7,6 +7,7 @@ ABC_jll,73717f16-8662-5d85-9e79-a3c1fc1c8861
 ABCdeZ,208e7efd-7036-4c82-8b73-3e7ae71c2350
 ABCredit,91b5283e-3ff1-4617-8122-130c88cb8aba
 ACAFact,2e0d8c30-fd72-45bd-a04c-a052d00f6fe4
+ACETestUtils,b973b150-f408-4aa5-b6a2-f0e33df46af3
 ACEbase,14bae519-eb20-449c-a949-9c58ed33163e
 ACEfit,ad31a8ef-59f5-4a01-b543-a85c2f73e95c
 ACEpotentials,3b96b61c-0fcc-4693-95ed-1ef9f35fcc53
@@ -47,6 +48,7 @@ ALaguerre,b59baba2-a6e1-4dc4-834b-5ad32cf651f6
 AMCL_jll,3d240a5b-71e6-5479-a1fd-1de0b877801d
 AMD,14f7f29c-3bd6-536c-9a0b-7339e30b5a3e
 AMDGPU,21141c5a-9bdb-4563-92ae-f87d6854732e
+AMDGPU_LLVM_Backend_jll,cc5c0156-bd05-5a77-8a68-bb0aafb29019
 AMDGPUnative,12f4821f-d7ee-5ba6-b76b-566925c5fcc5
 AMGCLWrap,4f76b812-4ba5-496d-b042-d70715554288
 AMGCL_C_jll,e3ba5bb7-5aef-5326-9a13-9617383dcacb
@@ -582,6 +584,7 @@ AtomicLevels,10933b4c-d60f-11e8-1fc6-bd9035a249a1
 AtomicLocks,de46ae7c-df16-46d9-ba75-55d31af5ce86
 AtomicMass,2c8f42cb-e0b9-4bc5-96ad-9274ec8d5f21
 AtomicMassEvaluation,9f60cadd-00eb-4e57-b715-beb4ff532cb8
+AtomicOrbitalKernels,aa7a2209-7a51-48b2-9f84-4fb7a35f78a5
 AtomicStructure,e24b7630-0518-11e9-1346-1188d3abce50
 AtomicSymmetries,7e24f7a5-8a44-4f91-9a93-7ee03df51e54
 Atomistic,3e762ff9-b8d8-45cf-a902-edcbc7124e71
@@ -1063,6 +1066,7 @@ BipartiteMatching,79040ab4-24c8-4c92-950c-d48b5991a0f6
 BipartiteNull,9c9e855c-dc5f-4faf-9e51-68ae7b74148d
 Biplots,9eb8d32e-48e1-486a-8aed-3d24e9b2252a
 BipolarSphericalHarmonics,e22a7426-82a6-487a-9ac6-2ced2976a2d6
+BiqCrunch,579a2c09-967a-4d10-82f0-b0fdaa4996f2
 BiqCrunch_jll,3dcdc8e4-44ed-57ba-a481-00c2d470a1e6
 Birch_Standard_jll,acd4faa2-4a7b-5a95-a73e-c243ef4528a3
 Birch_jll,f446a8d3-3ce2-58d3-82fb-4f82d1c6300c
@@ -1336,6 +1340,7 @@ CHGNetInterface,ed376acd-e979-4125-b637-573100a4d0f2
 CHICKEN_jll,ba656ed8-6435-5caa-83e6-1e677deaf2de
 CHMMAIRRa,d8677c85-7479-426e-842e-70dedf0c4b34
 CHMMera,4c20a592-b4de-41d1-8706-b02f346981aa
+CHOLMODSolve,294aff97-b91c-4e14-90fb-7eb7da4c9884
 CHiPPS_BLIS_jll,33c101cd-e3cd-5787-bb96-d137b8b1ecc4
 CHomP,388fe821-2770-44f1-8af1-e3d616332038
 CIAOAlgorithms,44c1da8e-ad92-11ea-0c62-8351ccf0aad4
@@ -4936,6 +4941,7 @@ Hermetic,b255c96a-a4ac-5b61-a2c4-3db36d36609d
 HermiteInterpolation,e59a9049-0778-4b41-b4a6-c75571210bee
 HeroIcons,0e288569-e4b5-43fd-9baa-cb516e1232f8
 Hestia,75036a29-a2ca-4eb4-a964-4c35e636f9a9
+HetaImporter,2930bde8-c75d-4599-8d4a-61558593ddc9
 HetaSimulator,630b40c4-2f38-41ff-bcb3-b2c7232fed0d
 HeteroPCA,77aa4d34-f7f4-424a-adb3-974963498de9
 HeterogeneousArrays,40d36c5c-e028-4551-8108-c37812a952b9
@@ -9429,6 +9435,7 @@ Qemu_static_jll,969c3ef0-f950-5ada-826d-ee9b7b636380
 QhullMiniWrapper_jll,460c41e3-6112-5d7f-b78c-b6823adb3f2d
 Qhull_jll,784f63db-0788-585a-bace-daefebcd302b
 Qiskit,91d9a17d-f964-4b6c-a3c4-2f4cfdea2c95
+QiskitIBMRuntime,1f74880b-c9c8-4af4-a333-b5b4aaaec6f5
 QiskitIBMRuntimeC,90b98b31-c194-4d1e-bfb5-0d4cb7418088
 QiskitOpt,81b20daf-e62b-4502-a0d1-aa084de80e33
 Qiskit_jll,b54e8e98-f244-53b3-a8e8-4727a4907f76
@@ -10853,6 +10860,7 @@ SimulationLogging,d006b024-b550-4554-9ca0-d488e688d825
 SimulationLogs,e3c6736c-93d9-479d-93f3-96ff5e8836d5
 SimulationParameters,32ab26d3-25d6-405d-a295-367385e16093
 SimulinkSDIImporter,71d5d903-a9d4-4e03-9846-ef3fdeefd64d
+SinCosLUT,59c743cf-042e-44de-8bbe-9da51d41dc19
 Sinaica,8a925c4c-1422-4188-830c-6473f2312671
 Sindbad,36c3e672-7dee-4606-99b5-7e5d8d85a313
 SindbadTEM,6686e6de-2010-4bf8-9178-b2bcc470766e
@@ -12720,6 +12728,7 @@ VortexStepMethod,ed3cd733-9f0f-46a9-93e0-89b8d4998dd9
 Vortice,286ff66b-9b1b-5805-8ad0-4d725a2cae59
 VoxelModel,4956fa17-11d8-4a0b-a900-0a865cb13992
 VoxelRayTracers,d9e3e1c4-15df-46c7-bfdb-139154feb7ae
+VoxelShapes,e571a3b5-8c16-454b-ac54-7ac4b35e7290
 VoxelwiseConstantMapping,30c4ba4d-5c6d-4df8-9a6f-7ded98721337
 VueJS,dd23b82c-c6e2-490f-8a36-5dab9c7f2253
 Vulkan,9f14b124-c50e-4008-a7d4-969b3a6cd68a
