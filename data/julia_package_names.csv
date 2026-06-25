@@ -860,6 +860,7 @@ BayesianGLS,6a71d6f6-17a4-4117-9054-433c146cbe9e
 BayesianIntegral,170c7662-660e-5658-93f2-9369b3e86d75
 BayesianLinearRegression,5047281b-d44e-44a3-ad3e-58447b69b7ca
 BayesianLinearRegressors,f579363c-4606-5e5c-a623-c4549f609c4b
+BayesianMGMFRM,1c3fdc16-45de-4463-900f-cd2a5999ffa5
 BayesianNetworkRegression,9eeb066a-ac7d-4e03-9934-48b1fa35cf7f
 BayesianNonparametricStatistics,f7704626-33a3-4ab5-a647-692f1f31d75f
 BayesianNonparametrics,7e49bc5d-d907-5fdd-93a4-11f1b4f8bb51
@@ -1712,6 +1713,7 @@ CherenkovMediumBase,62ded331-ac74-4432-90fd-7fafc84e95f4
 Chess,717200cc-f167-4fd3-b4bf-b5e480529844
 Chevie,367f69f0-ca63-11e8-2372-438b29340c1b
 Chevrons,d9083b8b-98e7-4ee6-a2c7-6db47b61bf48
+ChimeraMultipoles,b4a4ba4a-14dc-46a9-b63b-c0c44dc7c6da
 ChipFiring,be096eff-6f16-4fe8-bf2d-b0d7a78a4be0
 ChipSort,06416c39-db7e-5258-b068-33480f0cdbbc
 Chipmunk_jll,d4d167ca-650b-5bdd-911d-0fc9b8119a40
@@ -3276,6 +3278,7 @@ EnergyModelsHydrogen,44855f8b-b147-4985-ac18-48817d03c548
 EnergyModelsInvestments,fca3f8eb-b383-437d-8e7b-aac76bb2004f
 EnergyModelsRecedingHorizon,37ec17de-8561-4b6b-83ee-0529988fea82
 EnergyModelsRenewableProducers,b007c34f-ba52-4995-ba37-fffe79fbde35
+EnergyPathway,0c72c9ee-6fe4-4ea5-8f44-21444fbbcfe0
 EnergySamplers,f446124b-5d5e-4171-a6dd-a1d99768d3ce
 EnergyStatistics,631263cc-0f82-11ea-1caf-35c9eae72d11
 EnforcedTypeSignatureCallables,e0a517c1-78b8-4e0b-8db9-584d87c611c9
@@ -7158,6 +7161,7 @@ MiniQhull,978d7f02-9e05-4691-894f-ae31a51d76ca
 MiniZinc,a7f392d2-6c35-496e-b8cc-0974fbfcbf91
 MiniZinc_jll,3677d96b-3d39-5184-a844-8e8b2839af35
 MinimalRLCore,4557a151-568a-41c4-844f-9d8069264cea
+MinimalWorkingExamples,1cd72250-7741-5363-ad87-1e7986b7dfb4
 MinimallyDisruptiveCurves,c6328df5-4af8-4637-a9e9-78ed74a2ae2b
 MinimumVarianceAnalysis,5a74c7d3-1edb-47ee-a7ac-bdb4b3eeab9d
 MinimumVolumeEllipsoids,369a3862-bec2-4fd2-abcd-2df79a05ee65
@@ -11469,6 +11473,7 @@ Streamfall,09d4d480-e905-4803-959d-af438f1c2811
 StressTest,6e3341f8-3a0d-4582-a093-9d6e6d36caf8
 Stressify,8a229381-d7eb-4865-a507-cf9af2c5cd1e
 Stretto,6542ec78-ee1b-4af1-b08f-242328baa654
+StrictMode,0e98b4f4-d0e6-42ac-af0a-707c24852f32
 StrideArrays,d1fa6d79-ef01-42a6-86c9-f7c551f8593b
 StrideArraysCore,7792a7ef-975c-4747-a70f-980b88e8d1da
 Strided,5e0ebb24-38b0-5f93-81fe-25c709ecae67
