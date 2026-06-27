@@ -2443,6 +2443,7 @@ DPMMSubClustersStreaming,04147abc-ba09-4e01-921c-df05119b4dca
 DPMNeal3,af0b21b6-ea01-48a9-a6c6-8ff6351a99f2
 DRIPs,12fec403-b259-46d8-9e74-75aa213074e9
 DRSOM,d175e27a-564a-485c-86b6-52e0284acaa2
+DSArith,7f9d7d17-6b7b-4d07-8947-53bcb7546f39
 DSDP,2714ae6b-e930-5b4e-9c21-d0bacf577842
 DSDP_jll,1065e140-e56c-5613-be8b-7480bf7138df
 DSGE,6cf23378-2c47-544c-b0c3-6efefe57ca11
@@ -2558,6 +2559,7 @@ DataTreatments,1b3ff5f2-9b56-42a2-b38a-76a033f741ca
 DataTypesBasic,83eed652-29e8-11e9-12da-a7c29d64ffc9
 DataValueInterfaces,e2d170a0-9d28-54be-80f0-106bbe20a464
 DataValues,e7dc6d0d-1eca-5fa6-8ad6-5aecde8b7ea5
+DataVault,23f5f8f6-b4da-40ee-8c72-c53b6c5de94f
 DataVoyager,5721bf48-af8e-5845-8445-c9e18126e773
 DataWrangler,a7a6b7e4-f56f-4e7a-9983-6838d7ccc3b8
 DatabentoAPI,feb0aed8-3291-460b-9688-521dcb17a4bf
@@ -4190,6 +4192,7 @@ GLPKMathProgInterface,3c7084bd-78ad-589a-b5bb-dbd673274bea
 GLPK_jll,e8aa6df9-e6ca-548a-97ff-1f85fc5b8b98
 GLTF,aeeaf58c-ab4d-11e9-3a9f-9b6bf58b5bc3
 GLU_jll,bd17208b-e95e-5925-bf81-e2f59b3e5c61
+GLViskit,1e7b471d-d6c7-423b-9651-50963641f8da
 GMAT,af5f6e49-cefe-43d6-ba7f-e98344787928
 GMAT_jll,5472d9e0-cb42-52f7-96c9-a9fd19db341f
 GMCMeasure,7356f369-bb30-4519-aa96-c92d996faa13
@@ -4694,6 +4697,7 @@ GraphvizDotLang,6039e64d-d8b8-4c93-8e43-7efd2f757352
 Graphviz_jll,3c863552-8265-54e4-a6dc-903eb78fde85
 GrasslandTraitSim,45e22d02-e628-441d-a1c7-54dcb4b48aca
 Grassmann,4df31cd9-4c27-5bea-88d0-e6a7146666d8
+GrassmannTensorNetworks,d83068a9-b689-45fe-9bec-2d0e83279509
 GraviPet,5928621a-8be5-4e72-aa40-6d276f04f5c4
 GravityGE,ea95cd53-c789-4503-b9ba-f4afdb1790f4
 GrayCode,3c6b6a22-b11f-44c2-accc-f87d49953a21
@@ -5436,6 +5440,7 @@ InterpolationKernels,16730964-a2ec-11e9-36fa-47a4f82bfac6
 Interpolations,a98d9a8b-a2ab-59e6-89dd-64a1c18fca59
 InterpolativeQTT,87f1ea11-1d4d-47cb-b1d1-07788fc25290
 InterpretMe,e2b23942-74cb-440b-b3b6-a912e3f01750
+IntersecT,b262a841-46b1-4418-b8a4-94cbac2a4e8a
 Intersections,6d0fbc77-481e-44fe-9ace-1653ddcdea34
 IntervalArithmetic,d1acc4aa-44c8-5952-acd4-ba5d80a2a253
 IntervalBoxes,43d83c95-ebbb-40ec-8188-24586a1458ed
@@ -10912,6 +10917,7 @@ SkyMaps,04c32fc2-bb1c-4ba6-8717-c9d43359126f
 Skyler,804faec8-72f5-11ea-307d-47b816e9b733
 Slack,40bba58d-c7f1-4fe3-926e-2f246c890c3c
 SlackAPI,45996516-d782-4985-8a4d-8a8f0336c9da
+SlackClaw,916c34f9-65bc-4d80-9781-b3dc311e871d
 SlackSDK,fbce7cdf-2836-403b-b047-729f0088b997
 SlackThreads,a271ce43-5be6-465b-b549-2328063b090f
 Slacker,1fee779b-79a2-446d-a52f-d1aa38b3d5ab
@@ -13088,6 +13094,7 @@ YAJL,bda616b3-ac6d-5293-8ee1-22b41414598d
 YAJL_jll,4bc5dff0-e00f-5dee-8f43-8e76277f4f7d
 YAML,ddb6d928-2868-570f-bddf-ab3f9cf99eb6
 YAMLScript,c6519b1f-f61a-46f8-9c82-37138c212585
+YAMLStar,4dd3d208-18db-460a-a0b1-fbfd847e97b6
 YASM_jll,997772c2-56d0-5ccd-9329-3f55f14e5768
 YAXArrayBase,90b8fcef-0c2d-428d-9c56-5f86629e9d14
 YAXArrays,c21b50f5-aa40-41ea-b809-c0f5e47bfa5c
