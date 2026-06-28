@@ -8515,6 +8515,7 @@ PanelShift,d68e4d5e-4a60-4df1-b225-9a1636c75ae0
 Panelest,8a2d1f95-46f9-4279-b1d5-bcafb618cf2e
 Pango_jll,36c8627f-9965-5494-a995-c6b170f724f3
 Pangomm_jll,9c53b654-4175-57d2-a160-8980ed551c15
+PaperFetch,5ac78112-2af7-4d90-b07d-b58f2e7736b1
 ParGOGraphs,9c72e466-2585-4cd6-b2fc-9c3ab070dc04
 ParSitter,bdeffda0-9f75-4d6c-9dad-1bfd8db84b8f
 ParSpMatVec,ccf9b6e2-7ea7-596a-9d65-09863b18e8cc
@@ -10016,6 +10017,7 @@ Repos,952dd333-a03f-400d-b720-7cb119ba64f7
 Repotomata,36230cab-47f6-4611-a9ad-d42316f9a74f
 Reproduce,560a9c3a-0b8c-11e9-0329-d39dfcb85ed2
 Reproducible,74acc403-992c-5bc5-99bd-1528790dac51
+ReproducibleJobs,aecc171b-6fa4-4f58-b49a-a8d1f07f0278
 ReproducibleLiteratePage,963ca19c-1af9-4710-a933-a2a16c7180a2
 ReproducingKernelHilbertSpaces,7b950924-44ca-4659-84ba-ed75b85b0597
 Reproject,d1dcc2e6-806e-11e9-2897-3f99785db2ae
