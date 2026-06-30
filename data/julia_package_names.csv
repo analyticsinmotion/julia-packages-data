@@ -28,6 +28,8 @@ ADOLC,a7293fd6-5c8a-477e-b6cc-312e3ac044ef
 ADOLC_jll,5f481b30-e4a3-563b-890b-c343462061b6
 ADRIA,7dc409a7-fbe5-4c9d-b3e2-b0c19a6ba600
 ADRIAIndicators,05ad51df-066f-4748-8c47-f6b67db83211
+ADRIAanalysis,bc4d0ea8-6565-4397-854d-28474bf8c6b3
+ADRIAviz,a7bb1955-b5ed-4954-ba3d-ac9734139a95
 ADSeismic,65edcd7e-b178-4558-a546-bf867610404b
 ADTypes,47edcb42-4c32-4615-8424-f2b9edc5f35b
 AEMS,3b430cce-3194-5812-b203-bf9e73c3e836
@@ -2804,6 +2806,7 @@ DimensionfulAngles,2d4b8d7a-02d9-40f9-9abe-9c695b77de0d
 Dimensionless,a24885ee-f44e-4313-a031-cb477fdea68a
 Dimensions,5f902022-033a-44bd-a904-0a49265d4d22
 DingDingDing,3926c259-39ba-4d74-9c2f-25ff6470b8c3
+Dioids,899709ea-2d94-454e-b877-571333ff5bfa
 Dionysos,d92c97cf-b87d-42c1-a9c0-25df00b4d958
 Diplodocus,792d114c-f8c3-4b81-9580-cc03468a5b58
 DiplodocusCollisions,32d0d58a-4da0-4f8e-8b7e-c2816ac6e5cb
@@ -2834,6 +2837,7 @@ DiscreteEvents,127e53a7-d08a-4bd9-afb0-daf0d2b65a85
 DiscreteEventsLite,8b1724b8-7d2d-4f3a-bca2-6234a697fafb
 DiscreteFunctions,b53ab163-7315-5a32-b7e7-8af45be20176
 DiscreteMarkovChains,8abcb7ef-b365-4f7b-ac38-56893fb62f9f
+DiscreteNaturalNeighbors,43764a4e-051a-43e5-af11-231f204a2450
 DiscreteOrderedMedian,749eb255-e7f0-474c-bf5d-cdfd6b01954b
 DiscretePIDs,c1363496-6848-4723-8758-079b737f6baf
 DiscretePOMP,51c0d67e-089d-4725-9e90-d9ba65989b17
@@ -5163,6 +5167,7 @@ ITKIOWrapper,8538b10a-c1b7-4e8d-b607-b3a5053e6a1f
 ITKIOWrapper_jll,b6265aa4-802f-522b-a8eb-4519ac77ab09
 ITK_jll,3324d3a8-621a-5aaa-97fa-c3bc8dfc0481
 ITSOL_2_jll,00902081-cde0-5369-89f6-850dc9512c44
+ITensorCPD,8ca0d870-8743-11ef-3aad-a3ebf6911431
 ITensorGLMakie,3f718f31-6db8-4f43-a433-67cb5c73363e
 ITensorGPU,d89171c1-af8f-46b3-badf-d2a472317c15
 ITensorGaussianMPS,2be41995-7c9f-4653-b682-bfa4e7cebb93
@@ -5461,6 +5466,7 @@ IntervalWavelets,0605f816-0bd7-11ea-1bbe-fb0a4d530a66
 Intervals,d8418881-c3e1-53bb-8760-2df7ec849ed5
 Inti,fb74042b-437e-4c5b-88cf-d4e2beb394d5
 Intonato,4c8581c7-0eaf-45eb-b8fa-a3474c50779c
+IntonatoQICK,3d03a626-c39a-43b6-ab5f-185fddea4851
 IntrinsicTimescales,10d2f5c9-08bb-4a99-a156-10b2ac3b4091
 IntrusiveCollections,fe54b08b-4815-4b70-8b1a-a3021f4307e7
 InvariantCausal,de0b34ba-74bd-4023-98f7-dda430e1ad06
@@ -8601,6 +8607,7 @@ ParticleHolography,b8f7f481-73e0-42c6-b6bd-c66d3b4942cc
 ParticleInCell,3f496205-d90f-4778-83b9-652c261f54b9
 ParticleMDI,c070f950-bb2a-11e8-1d15-1b6f26bd9de9
 ParticleMethods,b097825d-39ce-45b2-a4ab-941e2c2df7e8
+ParticleModels,a77e4914-8514-4beb-ad88-b7b850cc6d59
 ParticleScattering,3532a73c-0c3e-5edc-89e3-d771336b0a2d
 PartitionedArrays,5a9dfac6-5c52-46f7-8278-5e2210713be9
 PartitionedDistributions,569bd051-8d7b-4221-bcb8-d78512b5866a
