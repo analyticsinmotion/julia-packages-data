@@ -1627,6 +1627,7 @@ CellArrays,d35fcfd7-7af4-4c67-b1aa-d78070614af4
 CellArraysIndexing,6597d73a-e7d2-484e-9044-f54e6a6a1966
 CellBase,01ff7365-e1e2-4ed5-aabe-f1c451dd6d4e
 CellBasedModels,388cb286-f2b1-4654-a3bb-2e137a39c658
+CellIA,466ded5e-d711-40d1-bdce-35a3fe75cb17
 CellListMap,69e1c6dd-3888-40e6-b3c8-31ac5f578864
 CellLists,b6871879-622e-446c-84f2-629b119ba541
 CellMLToolkit,03cb29e0-1ef4-4721-aa24-cf58a006576f
@@ -2178,6 +2179,7 @@ ContinuumArrays,7ae1f121-cc2c-504b-ac30-9b923412ae5c
 ContinuumMechanicsBase,3a778109-d974-46c8-ac54-09f30d605bdf
 Contour,d38c429a-6771-53c6-b99e-75d170b6e991
 ContourDynamics,0a114e3f-4576-410c-8414-be1d36bbc63f
+Contourlets,4d443f37-8914-48d3-9d0d-9e555eaf7273
 ContrastiveDivergenceRBM,95861e33-42fb-4e14-ae5f-03a85d34826c
 ControlBarrierFunctions,e4acb5c7-ee58-4719-8a40-5cc01da1b2a4
 ControlPlots,23c2ee80-7a9e-4350-b264-8e670f12517c
