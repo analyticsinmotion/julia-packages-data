@@ -3593,6 +3593,7 @@ FORM_jll,f4eadb04-70c1-5b36-8221-785c072cda07
 FP16_jll,80cad256-a423-5ef2-ab87-13d34524053a
 FRACDemand,876e2209-f438-4469-a9ec-3c471b9a3293
 FRANK,f7a4e1b0-d8c2-4a3e-b5f1-0c9d2e8a7b6c
+FRANZ,758eb130-e0ca-49bb-a939-82fc9165136b
 FSInteraction,39fdbc7a-862a-11e9-015b-61723af7393f
 FSimBase,731e945d-f3ed-49a1-bee2-3998705ef155
 FSimPlots,de610439-98db-48ec-87cd-a9843b890493
@@ -6140,6 +6141,7 @@ LeftChildRightSiblingTrees,1d6d02ad-be62-4b6b-8a6d-2f90e265016e
 LegacyStrings,1b4a561d-cfcb-5daf-8433-43fcf8b4bea3
 Legate,1238f2cf-6593-4d60-9aca-2f5364e49909
 LegatePreferences,8028f36a-2b64-49e9-aa04-2d0933fd2ed9
+Legato,2220d95b-0ec6-412e-99be-c6a5d269006d
 LegendrePolynomials,3db4a2ba-fc88-11e8-3e01-49c72059a882
 LegibleLambdas,f1f30506-32fe-5131-bd72-7c197988f9e5
 Legolas,741b9549-f6ed-4911-9fbf-4a1c0c97f0cd
@@ -6195,6 +6197,7 @@ LibDeflate,9255714d-24a7-4b30-8ea3-d46a97f7e13b
 LibExpat,522f3ed2-3f36-55e3-b6df-e94fee9b0c07
 LibFTD2XX,85e77ee8-8498-5435-b1ed-98efe5aa7d59
 LibFaceDetection,1317b456-a4e0-4851-95a6-f185d9862873
+LibFramehopUnwind_jll,e5c3085c-34f6-58a1-8407-324f37eb5486
 LibGD_jll,16339573-6216-525a-b38f-30b6f6b71b5f
 LibGEOS,a90b1aa1-3769-5649-ba7e-abc5a9d163eb
 LibGEOSMakie,1902729b-b4d4-4bb0-ae7d-e2f19e2a15fb
@@ -7813,6 +7816,7 @@ NodeJS_20_jll,c7aee132-11e1-519c-8219-0a43005e73c2
 NodeJS_22_jll,8fca9ca2-e7a1-5ccf-8c05-43be5a78664f
 NodeTree,2904b71e-4df0-4a82-a724-4bbee9184de7
 NodesAndModes,7aca2e03-f7e2-4192-9ec8-f4ca66d597fb
+Nodiv,6a6d1b09-ff88-4671-a19a-d516f2482c79
 Noise,81d43f40-5267-43b7-ae1c-8b967f377efa
 NoiseModels,15788e68-7bd7-41f2-9680-b6e1d80350af
 NoiseRobustDifferentiation,470638dc-0858-4731-a73a-678bdc45695b
@@ -9216,6 +9220,7 @@ ProbabilisticEchoInversion,1f6a33d4-8dbe-4644-aee6-8f897f240d65
 ProbabilisticParameterEstimators,0098cf3f-3e1e-4f11-b01c-dd9dec1b3374
 ProbabilisticRoadMap,773847ca-07cc-414d-a27c-4458bbc76b2b
 ProbabilityBoundsAnalysis,cd73f0b2-6f06-11ea-242f-83a09de6a7cf
+ProbabilityTransports,6cb8f75d-6579-4ae3-8431-bc9b57364f63
 Probably,2172800d-0309-5a57-a84f-d50c94757422
 ProblemReductions,899c297d-f7d2-4ebf-8815-a35996def416
 ProblemSet,806f51fd-16a3-4f55-bd44-f0d72f9cf926
@@ -10440,6 +10445,7 @@ SafeTensors,eeda0dda-7046-4914-a807-2495fc7abb89
 SafeTestsets,1bc83da4-3b8d-516f-aca4-4fe02f6d838f
 SaferIntegers,88634af6-177f-5301-88b8-7819386cfa38
 SafetySignalDetection,ad9a3248-762c-4ade-a843-8f185e2c18ff
+SagbiGbDetection,1b6c37c6-8632-4342-94fc-bd2a198ddbb5
 SagbiHomotopy,79f7b27e-1e7f-49b0-a183-48c80ed555cb
 SaguaroTrader,26277856-a3f7-4646-aaac-f090473ab108
 SaguaroTraderResults,1186189a-80ad-45af-add8-08b461ccbf8f
@@ -11699,6 +11705,7 @@ SymbolicInference,0c4721b3-3133-403d-859d-6fdff663af57
 SymbolicIntegration,315ce56f-eed0-411d-ab8a-2fbdf9327b51
 SymbolicIntegrationMaxima,6f8f0c92-4498-4b29-a8cc-7d11f58db8c9
 SymbolicLimits,19f23fe9-fdab-4a78-91af-e7b7767979c3
+SymbolicLongMemorySequences,47763e6f-3b8b-4f87-80b6-63f8f1c9da46
 SymbolicNeuralNetworks,aed23131-dcd0-47ca-8090-d21e605652e3
 SymbolicNumericIntegration,78aadeae-fbc0-11eb-17b6-c7ec0477ba9e
 SymbolicOptimization,d571510e-6e5f-4c5d-a12c-0c9fbed6c685
@@ -13815,6 +13822,7 @@ tree_sitter_bash_jll,7332bcdc-bd2a-5999-b4fe-680b85f40771
 tree_sitter_c_jll,af41be9f-6c08-5eeb-b278-7a4b044e283f
 tree_sitter_c_sharp_jll,723d02b1-9c41-53fe-b4fa-4fa9538be20d
 tree_sitter_cpp_jll,db96dd59-cc3e-5205-9518-9f32d21f88e9
+tree_sitter_elixir_jll,1780c887-7120-5810-92a7-28bfca871107
 tree_sitter_fortran_jll,f370be48-5072-5a80-a2be-a91280f1992d
 tree_sitter_go_jll,beecb120-e197-59fa-b79c-0316d51c9920
 tree_sitter_highlight_jll,a99a7680-1b0c-57dd-b59a-79ab8f52c9a4
