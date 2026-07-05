@@ -260,6 +260,7 @@ AgnosticBayesEnsemble,c45979d0-65bc-461f-b799-33f894c17e9f
 Agtor,95dc4c25-59f6-4b9e-a920-4913b22a8444
 AhoCorasick,d3f0555b-2bad-4562-9b77-2c235c75f977
 AhoCorasickAutomatons,ada18822-018e-50a1-bfcc-5047cda99b0e
+AhoCorasickILP,59010d27-302b-4ff9-bf4c-5d4b27055d2c
 Ai4EComponentLib,9901752a-13b3-47c7-8fb4-ce17182539d9
 Ai4EMetaPSE,79c54b7b-7c25-4843-921b-9653a3bc153e
 AiidaDFTK,26386dbc-b74b-4d9a-b75a-41d28ada84fc
@@ -4593,6 +4594,7 @@ GlobalSearchRegressionGUI,a066f67d-7bb6-5c78-aee2-fe6a6ddc0b62
 GlobalSensitivity,af5da776-676b-467e-8baf-acd8249e4f0f
 GlobalSensitivityAnalysis,1b10255b-6da3-57ce-9089-d24e8517b87e
 GlobalTradeAnalysisProjectModelV7,17bf7c9d-bd82-4e09-a8b5-dac70c0d12c3
+GlobalValueChains,a66a5f9e-45e0-42ef-b84e-3dbef45667d3
 Globtim,00da9514-6261-47e9-8848-33640cb1e528
 Gloo_jll,5909ec93-c24e-5240-9f48-bc73cd7db194
 Gloria,5b2e8964-9f3b-11e8-3f79-610468876dfe
@@ -8194,6 +8196,7 @@ OpticSimVis,7d2b94d0-197c-11ec-1fcd-45fcfac2577b
 OpticalFibers,2ac20604-6aa9-4c1a-aae8-c6d78826713f
 OpticalFlowUtils,ab0dad50-ab19-448c-b796-13553ec8b2d3
 OpticalPropagation,bd2a9720-0cf4-11ea-3d1a-97ce67aae37d
+OpticalSpectroscopy,f1436f7a-66ba-4269-a153-8996db8f0853
 Optim,429524aa-4258-5aef-a3af-852621145aeb
 OptimBase,87e2bd06-a317-5318-96d9-3ecbac512eee
 OptimKit,77e91f04-9b3b-57a6-a776-40b61faaebe0
@@ -9649,6 +9652,7 @@ QuickMenus,2230646a-bae9-43e2-a071-fff97e6a4342
 QuickPOMDPs,8af83fb2-a731-493c-9049-9e19dbce6165
 QuickTypes,ae2dfa86-617c-530c-b392-ef20fdad97bb
 Quickhull,baca2653-9c88-49d2-a488-12dbf25fc4fb
+QuicoptClient,e3379caf-a7d1-49bc-bad0-a3c1736f44f4
 Quiqbox,7cb8c394-fae1-4ab9-92f2-30189d7746cd
 Quiver,cdbb3f72-2527-4dbd-9d0e-93533a5519ac
 QuiverTools,dc2e10be-62a3-4315-9c95-46bb97ac152d
@@ -10096,6 +10100,7 @@ Rewriters,1df27592-1edd-4a6d-9e16-9f1b005f54b8
 Rfam,38c5b72b-a3f0-437e-9f79-f3da4655de63
 RheaMetacycParser,5dc06827-e3ab-462e-b239-654b0cf09987
 RheaReactions,e7041bdd-cbf6-4fda-a9ae-fa15d3238eb4
+RheologyCalculator,62cdc9a2-0e94-40de-8fb5-c079398d65d0
 RheumaComposites,579811c7-86f9-4c5f-9fea-fbfdecde0101
 RhsJTool,5ab975a5-f155-4336-a876-3801e55c18d2
 RichDEM,94a1c18c-0d95-461b-994e-5c3447d2ff66
@@ -10341,6 +10346,7 @@ SMCExamples,251f48c7-f5a4-5bc8-b6b6-ff4797c45649
 SMDGraphs,b792745b-7241-45be-ba96-70eb67e8468f
 SMDInterfacesUtils,a641f28f-8d9e-4160-8071-676a3167f41f
 SMLMBoxer,a7d3b33b-b840-4f8e-b556-99be03134090
+SMLMClustering,5e733723-370a-41a4-ac41-ff3a91b0b806
 SMLMData,5488f106-40b8-4660-84c5-84a168990d1b
 SMLMDriftCorrection,34bda2d1-2fff-475a-a8c4-7f53d4251312
 SMLMFrameConnection,1517b1a9-81e8-461f-b994-92eb29599690
@@ -11912,6 +11918,7 @@ Tenkai,a4f5eaf3-cc41-4395-bb6a-2b58fc770896
 TensArrays,70eefb7d-4b42-471c-acf6-aaa17e297c50
 TensND,474b5345-2588-4284-8a58-2430a1a40cb0
 TensegrityEquilibria,dcaeff44-b3e3-40bb-9039-8883ea4974a9
+TensorBinding,3b6805fc-d418-45a2-b1ea-024139a4a543
 TensorBoardLogger,899adc3e-224a-11e9-021f-63837185c80f
 TensorCast,02d47bb6-7ce6-556a-be16-bb1710789e2b
 TensorCategories,258c694e-7338-4d4d-b524-4851272a75cf
