@@ -70,6 +70,7 @@ ARCHModels,6d3278bc-c23a-5105-85e5-0d57d2bf684f
 ARDESPOT,d96c9ae4-3372-47d5-8a88-316ae77be8cf
 ARFFFiles,da404889-ca92-49ff-9e8b-0aa6b4d38dc8
 ARFIMA,9d0fb3db-ba49-4108-bc86-650b3813b6d5
+ARION,d2ff096f-b569-4f48-b522-4fa851339146
 ARMANets,33eca030-06a8-11eb-2ae2-bd410d8394ef
 ARMLive,3cf54da3-541f-4d42-bdd0-41bf6096b485
 ARPES,3764e38b-e87f-453d-b456-dc646f8e1bb8
@@ -3427,6 +3428,7 @@ Exfiltrator,8fb92a4a-34c4-45cc-956f-769d12f66c92
 ExifViewer,81511e1f-44aa-483a-b228-c9d3a109f0d4
 ExistingProcessManagers,3185f642-0f69-4c32-aed6-948184b6e42b
 Exiv2_jll,d2dc9c37-b624-5257-85b1-2eb67ce3a11b
+ExoMol,ad33b8ab-ae41-41db-81f7-3b0c63c48de0
 Exodus,f57ae99e-f805-4780-bdca-96e224be1e5a
 Exodus_jll,fc7263ad-bce8-5229-97b1-c6ddabda41b1
 ExoplanetsSysSim,e0ba718c-02ec-11e9-384b-dd2930072415
@@ -4943,6 +4945,7 @@ HelloWorldOCaml_jll,d326a031-5c5a-546d-81a5-e59c87734a6a
 Help2man_jll,b065d96c-5f5a-5e02-95cc-818e6b3b761f
 HelpGPT,cd7fe561-ad00-49f8-bbfe-26490459673c
 HelpPlots,5880b2e8-ad0a-48c9-bacd-30dc9c1357e0
+HemiplexNumbers,0a1bf870-1ec7-454f-b2b3-83307695f2d3
 HepMC3_jll,b85c3e40-22db-5268-bacb-02bd65cb4e01
 Hephaestus,88b3b2ed-56ea-4eac-b1de-e42ac45953c8
 Heptagon_jll,f39a6480-0c22-5bc5-b3a7-58be08593527
@@ -6398,6 +6401,7 @@ LoadTensorDecompositions,bae27b42-c72a-5733-8f2d-201965195bfc
 LocalAncestry,9c717bbe-74a8-4a1b-8702-c9261a6bba1a
 LocalAnisotropies,cb698b3a-2f1d-48b4-a1e9-ddc0b8f648e2
 LocalApproximationValueIteration,a40420fb-f401-52da-a663-f502e5b95060
+LocalBarycentric,76f80961-2c25-4edf-81b6-8f2cadf61fa3
 LocalCoverage,5f6e1e16-694c-5876-87ef-16b5274f298e
 LocalDiskObjectStores,2cd9c1d6-d267-5370-983e-0bc605925cae
 LocalErgotropy,a5748edc-c418-4301-944b-2624e769340a
@@ -10423,6 +10427,7 @@ SSMProblems,26aad666-b158-4e64-9d35-0e672562fa48
 SSW_jll,a6d8d4cd-8200-5f89-a2d4-82fe55f80886
 STAC,08e62803-e111-4f53-be9b-274ff296e9da
 STARSDataFusion,70ccc657-289f-4534-a407-e03a16fd1153
+STDFormat,97b37015-0fed-46c1-ba38-d7aadc46d7e9
 STFT,58bb99bf-048b-48b7-93e7-1cbf3ee61509
 STLCutters,284f087d-c8bb-44c4-af3c-39d0e1f330a5
 STL_jll,69cf8a62-f9ae-5d65-8d00-30585a4771ef
@@ -10748,6 +10753,7 @@ SignalAnalysis,df1fea92-c066-49dd-8b36-eace3378ea47
 SignalBase,00c44e92-20f5-44bc-8f45-a1dcef76ba38
 SignalChannels,59ec5e11-ed95-4167-ad38-35055440f478
 SignalDecomposition,11a47235-7b84-4c7c-b885-fc3e2a9cf955
+SignalEncodings,5e2e5b1a-4e10-4f16-bd66-f2628605f949
 SignalIndices,18f53e89-494d-4131-905c-653e8ada6cd8
 SignalOperators,4d633899-0529-4c96-b1ed-a77d049c39ef
 SignalPlots,c121886f-841d-4855-8f3a-15f9a2397416
@@ -11101,6 +11107,7 @@ SpaceIndices,5a540a4e-639f-452a-b107-23ea09ed4d36
 SpaceInvaders,27459e48-f83e-40a1-9b04-5e43823e0701
 SpaceLiDAR,29bf0bfc-420f-4fa5-b441-811fd9e6e11d
 SpacePhysicsMakie,0c28ffd8-ae30-4a56-b2e4-f8332c621ad2
+SpaceStation,9559e6e6-ccab-48cc-a1b8-a141fc5a67a0
 SpaceTimeFields,0af78db0-3b7c-4df8-88bd-686b7cc5245d
 SpaceWeather,6e6210c8-0d11-4989-92a2-df0be76561ad
 SpacetimeMetrics,77e61b41-605e-43a6-b70f-04b7dcd1f572
