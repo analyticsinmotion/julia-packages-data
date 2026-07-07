@@ -7679,6 +7679,7 @@ NaturalES,89824b7a-ce3e-4367-b4d5-add9d360affc
 NaturalEarth,436b0209-26ab-4e65-94a9-6526d86fea76
 NaturalGradientOptimisers,3c1df321-2532-4054-b4fb-66e5d4440098
 NaturalNeighbours,f16ad982-4edb-46b1-8125-78e5a8b5a9e6
+NaturalOptimisers,baf65090-2b44-4d11-bff8-c4290875b87f
 NaturalSort,c020b1a1-e9b0-503a-9c33-f039bfc54a85
 NaturallyUnitful,872cf16e-200e-11e9-2cdf-8bb39cfbec41
 NatureGas,e0f4c8e6-5ce5-555a-ba92-69b8d3d44885
@@ -9292,6 +9293,7 @@ ProteinSecondaryStructures,c298f58b-271f-48cb-96ac-5442ca7c67d9
 ProtoBuf,3349acd9-ac6a-5e09-bcdb-63829b23a429
 ProtoStructs,437b6fc4-8e8e-11e9-3fa1-ad391e66c018
 ProtocGen,b5fc38b8-670b-4930-8529-238e2ca71835
+ProtocGenConnect,ad787490-c120-4cda-8d00-74a3553909c6
 ProtocolBuffersCompiler_jll,216d9ab1-ce93-551b-982a-3c3555652c2a
 ProtocolBuffersLite_jll,0ca7621e-fd3d-51c7-9dfb-33f80fc8c6fe
 ProtocolBuffersSDK_jll,c1854a36-7b81-519e-bf44-e86c02ce7156
