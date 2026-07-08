@@ -4945,6 +4945,7 @@ HelloWorldOCaml_jll,d326a031-5c5a-546d-81a5-e59c87734a6a
 Help2man_jll,b065d96c-5f5a-5e02-95cc-818e6b3b761f
 HelpGPT,cd7fe561-ad00-49f8-bbfe-26490459673c
 HelpPlots,5880b2e8-ad0a-48c9-bacd-30dc9c1357e0
+HemiplexFactorizations,2fd499c8-e596-4018-9d8e-c58a685a42cc
 HemiplexNumbers,0a1bf870-1ec7-454f-b2b3-83307695f2d3
 HepMC3_jll,b85c3e40-22db-5268-bacb-02bd65cb4e01
 Hephaestus,88b3b2ed-56ea-4eac-b1de-e42ac45953c8
@@ -5779,6 +5780,7 @@ KadanoffBaym,82532805-809c-4ef0-842b-4b00c5e9be5f
 KahanSummation,8e2b3108-d4c1-50be-a7a2-16352aec75c3
 Kahuna,a159c9be-0176-11ea-0d64-b53c1d07f8ae
 Kaimon,d3856c55-31fd-4246-b7e8-380411123c01
+KaimonGate,5ee84a8c-75bd-412f-a7b8-4e6463aa635f
 KaitaiStruct,701c8e6d-1b01-4551-886b-1760f51f9f8d
 Kaleido,caafb194-7e8d-11e9-2724-d5981dd0806d
 Kaleido_jll,f7e6163d-2fa5-5f23-b69c-1db539e41963
@@ -10351,6 +10353,7 @@ SMC,c6043b28-c053-11e9-348c-19d3cb73bbb3
 SMCExamples,251f48c7-f5a4-5bc8-b6b6-ff4797c45649
 SMDGraphs,b792745b-7241-45be-ba96-70eb67e8468f
 SMDInterfacesUtils,a641f28f-8d9e-4160-8071-676a3167f41f
+SMLMBaGoL,70c4bcd9-ed9a-43d6-baf8-7d0db1eb70ee
 SMLMBoxer,a7d3b33b-b840-4f8e-b556-99be03134090
 SMLMClustering,5e733723-370a-41a4-ac41-ff3a91b0b806
 SMLMData,5488f106-40b8-4660-84c5-84a168990d1b
@@ -12591,6 +12594,7 @@ UniversalDiffEq,791b002b-939e-4b08-8060-ecf413fcb155
 UniversalFeynRulesOutput,e2970b7e-a80f-4839-9fc1-2a0f2f4c4333
 UniversalIntegerCodes,f9d38c27-4a81-4d8c-bddb-5ed3c8119a58
 UniversalMaterialModel,451d549b-da3a-4afd-9dba-1924b1a1c089
+UniversalNumbers_jll,abcc0241-aaf1-5618-bc5e-fbfb451ec3e8
 UnixCompress,3f1a3b67-9ed5-4096-bdaa-9e31f28ad61f
 UnixMmap,674b2976-56af-439b-a2b1-837be4a3d087
 UnixTimes,ab1a18e7-b408-4913-896c-624bb82ed7f4
@@ -13320,6 +13324,7 @@ charon_jll,25c75577-2a26-528c-a488-ab5b6e0c7170
 cif_api_jll,6fcef0ae-1c05-5fc1-b206-1cf994addbad
 cilantro_jll,a3b35723-f448-5ea8-82d7-f10131ef8160
 cilkrts_jll,71772805-00bc-5a29-9044-a26d819b7806
+cimnodes_editor_jll,ff5929f2-4478-5c50-a7ea-e65c06704854
 cliquer_jll,3c0ef3d7-c8db-52c0-a794-17abeb0e3f8d
 cmark_gfm_jll,a3df0bfa-898a-51af-9696-aaeb342b5108
 cmark_jll,7ecd0961-8137-5994-b1c6-01b84f60da24
