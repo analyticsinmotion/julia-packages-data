@@ -7675,6 +7675,7 @@ NarrativeTest,9563631e-acd4-5dd8-bebb-4cf36518960d
 NationalWeightedActivityUnitWrapper,58dad789-f56a-4ab3-a66f-c15139bf9cbe
 NativeFileDialog,e1fe445b-aa65-4df4-81c1-2041507f0fd4
 NativeFileDialog_jll,94d9ae2c-efc7-56f8-9a02-54c47b797961
+NativeMinuit,5523a57a-07f4-4aae-a9fd-d526bcb5d194
 NativeNaNMath,6e4fe5f8-bc0f-434f-9b40-863822321529
 NativeSARSOP,a07c76ea-660d-4c9a-8028-2e6dbd212cb8
 NaturalES,89824b7a-ce3e-4367-b4d5-add9d360affc
@@ -8117,6 +8118,7 @@ OpenCALPHAD,f22b17f6-ccb9-4067-ab50-5d8cfb3cb77d
 OpenCL,08131aa3-fb12-5dee-8b74-c09406e224a2
 OpenCL_Headers_jll,a7aa756b-2b7f-562a-9e9d-e94076c5c8ee
 OpenCL_jll,6cb37087-e8b6-5417-8430-1f242f1e46e4
+OpenCRG_jll,12106939-feb0-55e0-8803-bffcfe01a5d0
 OpenCV,f878e3a2-a245-4720-8660-60795d644f2a
 OpenCV_jll,33b9d88c-85f9-5d73-bd91-4e2b95a9aa0b
 OpenCage,e1e3fe5e-4688-4726-96ed-777e2723f4c1
@@ -8673,6 +8675,7 @@ PedigreeBase,9e3bf72a-84c4-4798-98fd-c28eed5cded1
 Peggy,73a55e99-9441-455f-8acb-d9f8f3d4403a
 PellsEquation,b53f056f-43f6-4734-8d94-3aedffe6e4fb
 PenPlots,61246389-3d51-4c70-b82d-266223a1b313
+PenalizedDensity,a53fa1a1-8a2d-4fe0-8d35-d78a1429f885
 PenaltyFunctions,06bb1623-fdd5-5ca2-a01c-88eae3ea319e
 PencilArrays,0e08944d-e94e-41b1-9406-dcf66b6a9d2e
 PencilFFTs,4a48f351-57a6-4416-9ec4-c37015456aae
@@ -12978,6 +12981,7 @@ Wordlegames,1cb69566-e1cf-455f-a587-fd79a2e00f5a
 WorkerUtilities,76eceee3-57b5-4d4a-8e66-0e911cebbf60
 Workflows,115008b9-7a42-4cba-af26-8bebb992e909
 WorldBankData,2ff30676-a39f-58b2-ad74-5d1012d57b9b
+WorldBuilder_jll,cec0b8a4-e245-54fe-8e76-f96d287b6e99
 WorldDynamics,34572acc-64b2-43ec-bac8-7b2a4baad13f
 WorldOceanAtlasTools,04f20302-f1b9-11e8-29d9-7d841cb0a64a
 WorldTimeAPI,f0211111-1d23-4195-bb37-87ab15ed0197
@@ -13348,6 +13352,7 @@ cuQuantum_jll,b75408ef-6fdf-5d74-b65a-7df000ad18e6
 cuRAND,20fd9a0b-12d5-4c2f-a8af-7c34e9e60431
 cuSOLVER,887afef0-6a32-4de5-add4-7827692ba8fc
 cuSPARSE,b26da814-b3bc-49ef-b0ee-c816305aa060
+cuSolverMp_jll,9835d611-9cc6-5ed0-8df8-e8d052332c01
 cuStateVec,92f7fd98-d22e-4c0d-85a8-6ade11b672fb
 cuTENSOR,011b41b2-24ef-40a8-b3eb-fa098493e9e1
 cuTensorNet,448d79b3-4b49-4e06-a5ea-00c62c0dc3db
