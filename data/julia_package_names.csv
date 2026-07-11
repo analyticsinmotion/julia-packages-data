@@ -2259,6 +2259,7 @@ Coulter,a3d351dc-6fd6-5e2a-8264-8c30d37eaa59
 CountDownLatches,621fb831-fdad-4fff-93ac-1af7b7ed19e3
 CountFlops,1db9610d-79e1-487a-8d40-77f3295c7593
 CountTimeSeries,f648fdee-df8a-4cb4-ac79-58ced742ae0a
+CountableMagma,ac3229fe-d5a1-408c-bb3e-eb2e823c8c44
 CountdownLetters,ab51929a-ac93-4d67-a0ea-9824f8544b9e
 CountdownNumbers,dc1670bf-010d-423c-baea-ccde1e2dde80
 CounterfactualExplanations,2f13d31b-18db-44c1-bc43-ebaf2cff0be0
@@ -4228,6 +4229,7 @@ GNSSSignals,52c80523-2a4e-5c38-8979-05588f836870
 GNUMake_jll,6c1a3432-6b93-5c89-98b5-f3caf0c092ba
 GNURX_jll,9241044f-33cc-57f0-b956-7e163f19a47c
 GNUTime_jll,e85744ed-4169-5045-9cd9-67bbfebc0d5b
+GOESatellites,bad11bc4-67e9-4288-85cb-de767d6e4463
 GOF3R,a79dbac3-5528-457e-b637-ec38aefb197a
 GPARs,86ee5ac1-314e-4b70-9100-2b12109404ad
 GPDiffEq,4de859cf-bf9a-4c94-a796-5dda04c77145
@@ -9333,6 +9335,7 @@ Pseudoseq,5fa9f68e-f4b0-11e8-18b8-fb82dd3c6483
 Pseudospectra,d6c5b33e-0240-5bd5-a771-a97ae748a961
 PseudostableRecurrences,4f7db8a5-8d22-4d9a-baad-9979a979c0ae
 PsychExpAPIs,77c98508-ef4f-4ba4-b29c-7765a84ccfdf
+PsychoacousticMetrics,c3f1bcc2-aba4-488e-81ce-2127bac789a7
 PsychometricsBazaarBase,b0d9cada-d963-45e9-a4c6-4746243987f1
 PsychometricsBazzarBase,8a5e4057-03e0-4a42-ba57-0eb88ce604f5
 PsychomotorVigilanceTask,3a23ab9a-e60c-4129-b1e4-17a645949bd3
@@ -10695,6 +10698,7 @@ SerializationCaches,3f9d9eeb-f6fe-486e-aab5-ad2c1ff40024
 SerializedElementArrays,d3ce8812-9567-47e9-a7b5-65a6d70a3065
 SeriesAcceleration,d262d690-7b73-43ed-8cf8-7b23904776e1
 SeriesAccelerators,9dd7a2f8-ab8d-577c-ac83-a3992ff7c30e
+SerinGrid,a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d
 ServerMetrics,77d5efa4-d40d-4655-9c8b-8729ad2310a1
 ServiceSolicitation,3f93ea72-029c-46bb-aa46-2b37939b0662
 SetBuilders,0ea2c469-657e-49fe-9dbc-af43455b405b
@@ -11206,6 +11210,7 @@ SpectralKit,5c252ae7-b5b6-46ab-a016-b0e3d78320b7
 SpectralOperators,8acda80e-a78e-4bfe-a2a4-4b14f9bf88bd
 SpectralResampling,01da207a-183e-480e-93ab-a94ea6491b8c
 SpectralStatistics,26aafa55-59f7-45ac-9841-9c476cd28090
+SpectralSuperpositions,a6b16512-e633-45eb-a565-d7a6d14ef12e
 SpectralUnmixing,18035c97-8b76-4bd8-9b58-2d1c7240eddc
 SpectralWaves,1c8cf7b8-223b-484e-98e7-6240f1484c2c
 Speculator,ac92255e-d98e-45c4-b636-98964c1c8a8b
@@ -13856,8 +13861,10 @@ tree_sitter_bash_jll,7332bcdc-bd2a-5999-b4fe-680b85f40771
 tree_sitter_c_jll,af41be9f-6c08-5eeb-b278-7a4b044e283f
 tree_sitter_c_sharp_jll,723d02b1-9c41-53fe-b4fa-4fa9538be20d
 tree_sitter_cpp_jll,db96dd59-cc3e-5205-9518-9f32d21f88e9
+tree_sitter_css_jll,19b456da-1a34-5dfc-96d1-76889a2dedab
 tree_sitter_elixir_jll,1780c887-7120-5810-92a7-28bfca871107
 tree_sitter_fortran_jll,f370be48-5072-5a80-a2be-a91280f1992d
+tree_sitter_gcn_jll,8b5cbfcf-8811-596e-8e87-0e51e05ee4b2
 tree_sitter_go_jll,beecb120-e197-59fa-b79c-0316d51c9920
 tree_sitter_highlight_jll,a99a7680-1b0c-57dd-b59a-79ab8f52c9a4
 tree_sitter_html_jll,3890dd07-cc9a-5220-ba41-7d914d0b28d4
@@ -13866,16 +13873,19 @@ tree_sitter_javascript_jll,ca45b743-11fc-5578-b74a-7528860c0bda
 tree_sitter_jll,695101d5-1b81-5434-9529-70430e482717
 tree_sitter_json_jll,7a1ad169-5d6d-5d19-843c-e04c00abb03b
 tree_sitter_julia_jll,52be201e-a5e9-5cfe-8bf2-2dc4b062171c
+tree_sitter_llvm_jll,44208993-ee63-5069-9443-8e43b04a9b30
 tree_sitter_matlab_jll,67499a12-87ae-5367-9f08-9b6e5d7d8b47
 tree_sitter_mlir_jll,58f5032c-e699-5513-a186-e1a3654a1a0e
 tree_sitter_modelica_jll,be4360af-1d55-5d16-a27b-51516c589496
 tree_sitter_nonmem_jll,e72dcfaf-fc0e-59b0-8bbb-b81678c89dff
 tree_sitter_ocaml_jll,58c1feab-41fe-5716-9e27-932daa5b6f35
 tree_sitter_php_jll,1d2f066d-44b9-5d42-b96c-230d176e2df5
+tree_sitter_ptx_jll,71e3f6e6-c059-5e7c-a2f2-d560fdad7ce5
 tree_sitter_python_jll,88db161d-10c7-51e6-aa56-e32ecf738a46
 tree_sitter_r_jll,fc627389-31b9-5eeb-8794-6fbf305d88d7
 tree_sitter_ruby_jll,64e8d737-0d98-5a82-81e1-7af1483a77cc
 tree_sitter_rust_jll,b2197e8e-fe20-5781-846b-d7979e3cddf2
+tree_sitter_spirv_jll,f0e86581-c468-54df-a4de-3266e11a3c86
 tree_sitter_toml_jll,a1529afc-395a-556b-957c-713caec82e13
 tree_sitter_typescript_jll,dfa7e5a0-2128-5201-bc87-2ee6cd674210
 uCSV,e0b4c2ea-889f-54df-a5e0-fe74b3c892fd
