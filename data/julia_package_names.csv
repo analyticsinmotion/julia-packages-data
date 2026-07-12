@@ -1275,6 +1275,7 @@ BufferedFiles,58049f72-ad03-4b9e-92cf-b241b4467e52
 BufferedStreams,e1450e63-4bb3-523b-b2a4-4ffa8c0fd77d
 Buffers,d9ae4b7f-d04c-4b7f-92f7-4d9c2e17e1a4
 BugReporting,bcf9a6e7-4020-453c-b88e-690564246bb8
+Buildkite,2194bc0e-823a-4f8d-9f5c-e9fa0a400f92
 BuildkiteUtils,82f577da-a64f-4709-b926-88c56b51bf4b
 Bukdu,3e78a19a-cc83-51d8-955b-515f39fd7955
 BulkAndTails,6bd37c0a-d4fd-4ef6-9e65-cd3b634e9aab
@@ -1686,6 +1687,7 @@ ChatAPICall,dab9e3cf-270b-48a8-a707-d6834c795ca3
 ChatThemAll,d20e7657-e361-40d3-9674-24e82b8f1914
 CheapThreads,b630d9fa-e28e-4980-896d-83ce5e2106b2
 ChebParticleMesh,1983ef0c-217d-4026-99b0-9163e7750d85
+Chebyshaw,8daffda2-858b-4296-b9dd-359a97e818af
 ChebyshevApprox,17a596ad-87cd-578c-9b6d-01108c31dc04
 ChebyshevFiltering,1d56a567-eebb-4d79-96f4-589d6165ccdd
 ChebyshevTransforms,2752694e-a3a0-42bd-9f17-5f3242da1ce6
@@ -2205,6 +2207,7 @@ ConvexHulls2d,438b5665-92b0-42e6-bc36-e4ac8449fa2d
 ConvolutionInterpolations,75b5ba44-29d7-490a-960d-52c835d47405
 ConvolutionOperators,15927181-a1bb-497c-b745-8dbf505c019d
 ConvolutionalOperatorLearning,3c17ac3d-2343-4d75-b01f-81723beeda4b
+ConvolvedDistributions,f5b942c9-bc5b-4664-8486-7f531bb06742
 CooccurrenceRegression,b11753cd-0d5a-47ad-8b8f-99db3fa4a09b
 Cookbook,5c1ef01f-39c8-5834-b1a0-1a342f75f4df
 CoolPDLP,9e90bdc5-3073-4e0f-a275-e19f28ac1b53
@@ -2938,6 +2941,7 @@ DocumenterDescriptions,e9159221-f9c0-48a0-ba53-9ba151c71a1d
 DocumenterDiagrams,a106ebf2-4182-4cba-90d4-44cd3cc36e85
 DocumenterDocset,6c6aa8a8-7996-49c7-bb42-8bcee6cacab7
 DocumenterEpub,be4a6882-a45f-4bf3-9876-0e7ffb31ffcc
+DocumenterFragments,862d714e-9826-4bb1-afc7-f2d363bba08c
 DocumenterInterLinks,d12716ef-a0f6-4df4-a9f1-a5a34e75c656
 DocumenterInventoryWritingBackport,195adf08-069f-4855-af3e-8933a2cdae94
 DocumenterLaTeX,cd674d7a-5f81-5cf3-af33-235ef1834b99
@@ -3328,6 +3332,7 @@ Eoshifts,a610e8d0-bcf9-11f0-bd78-7b325b0dfb67
 Ephemerides,6a9c3322-c8fe-4c26-8ad6-14a6f8acd2a0
 EphemerisSources,858900df-f7ae-402a-aa8c-3e4ef85aa271
 EphemerisSourcesBase,b8f1d712-e88d-4f2a-8498-e66ce688ee29
+EpiAwarePackageTools,7aaea248-0d11-4a0d-a7dc-86da30abb951
 EpicHyperSketch,c73a71ba-f77a-4450-b81e-a1166e41307d
 Epicrop,ba61b42c-0a63-478a-861d-cedeca8bda8f
 Epicycle,83dc357c-0294-4c28-b122-f18155576d3d
@@ -3968,6 +3973,7 @@ FoldsThreads,9c68100b-dfe1-47cf-94c8-95104e173443
 Foldseek_jll,f5adda9a-30aa-5201-a847-bcd4e31b8420
 Fontconfig,186bb1d3-e1f7-5a2c-a377-96d770f13627
 Fontconfig_jll,a3f928ae-7b40-5064-980b-68af3947d34b
+FoodWebGenerator,4db817a8-46bb-4510-89f6-f1be49ca3193
 ForSyDeIO,2530d2c0-90ae-4e22-bd10-17e782bf2dab
 ForTheBadge,64e55fb5-fece-45e4-9f07-6b725a6cb483
 ForceImport,9dda63f9-cce7-5873-89fa-eccbb2fffcde
@@ -4175,6 +4181,7 @@ GDAL,add2ef01-049f-52c4-9ee2-e494f65e021a
 GDAL_jll,a7073274-a066-55f0-b90d-d619367d196c
 GDB_jll,a8b33d9f-0f8b-5197-9986-f85cbaa50c6c
 GDMathLib,ed54f85f-91e8-4912-9e4a-a43af611f8a9
+GDXInterface,b8352055-3412-4df1-864e-ee7edae71aec
 GEEBRA,c959553c-f8cc-46e9-a814-0006f6d26ee1
 GEMPIC,b6d65c3a-4a4e-11e9-25d0-d309dc85ddeb
 GENeSYSMOD,9f3a37f9-d498-4265-a124-3ae3e9ff3acf
@@ -6161,6 +6168,7 @@ Legolas,741b9549-f6ed-4911-9fbf-4a1c0c97f0cd
 LegolasFlux,eb5f792d-d1b1-4535-bae3-d5649ec7daa4
 Lehmann,95bf888a-8996-4655-9f35-1c0506bdfefe
 Leibniz,edad4870-8a01-11e9-2d75-8f02e448fc59
+Lena,3f5a0f61-8d48-4a90-98e4-9c3d6c8fcb51
 LengthChannels,6e84ca90-c4c0-49b1-bdb7-24cdbeba32de
 LengthFreeStaticMatrices,aeef1611-66c2-4f82-a5cb-420906a81ec8
 LennardJones,d8a96929-0be6-44df-b03a-619eb7e9790e
@@ -6916,6 +6924,7 @@ MathOptAI,e52c2cb8-508e-4e12-9dd2-9c4755b60e73
 MathOptAnalyzer,d1179b25-476b-425c-b826-c7787f0fff83
 MathOptBenchmarkInstances,f7f8d0a1-fd34-491e-a7ac-a4cf52f91fe5
 MathOptChordalDecomposition,691ff971-50ce-4a2e-a182-eb537bf792c3
+MathOptComplements,3144fb79-1414-4d28-b1d1-63dadd798e24
 MathOptFormat,f4570300-c277-12e8-125c-4912f86ce65d
 MathOptIIS,8c4f8055-bd93-4160-a86b-a0c04941dbff
 MathOptInterface,b8f27783-ece8-5eb3-8dc8-9495eed66fee
@@ -11687,6 +11696,7 @@ Survival,8a913413-2070-5976-9d4c-2b364fdc2f7f
 SurvivalAnalysis,d1dd7d07-e5c2-418a-8652-e20add45d312
 SurvivalBase,9cb6079b-e021-4662-8a75-9f65bfa286f2
 SurvivalDistributions,7121986e-ae89-4673-ae4e-1cb822919a18
+SurvivalMakie,bf023337-e061-4fef-9675-391287eaa549
 SurvivalModels,230d35e3-bb2c-48f4-adfc-0b42c4b39395
 SurvivalSignature,13fa4dc1-3690-464b-a752-a9f12e029c3c
 SwagUI,bf05d729-34b2-4f1f-a2f1-2452bece7ebc
@@ -12993,6 +13003,7 @@ Wordlegames,1cb69566-e1cf-455f-a587-fd79a2e00f5a
 WorkerUtilities,76eceee3-57b5-4d4a-8e66-0e911cebbf60
 Workflows,115008b9-7a42-4cba-af26-8bebb992e909
 WorldBankData,2ff30676-a39f-58b2-ad74-5d1012d57b9b
+WorldBuilder,1efa7f2b-300b-453c-bddd-d9fa6c06d18a
 WorldBuilder_jll,cec0b8a4-e245-54fe-8e76-f96d287b6e99
 WorldDynamics,34572acc-64b2-43ec-bac8-7b2a4baad13f
 WorldOceanAtlasTools,04f20302-f1b9-11e8-29d9-7d841cb0a64a
