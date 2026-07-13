@@ -2785,6 +2785,7 @@ DifferentialEvolutionMetropolis,a5908a69-3cf8-4221-8182-38852cbc47b2
 DifferentialForms,9e54b8bf-1ae4-4c45-8656-f6b46e7970a3
 DifferentialGamesBase,a9dd1e63-b4ad-4579-bca8-3a609f3d87b9
 DifferentialPhaseContrast,4f2186bb-3a2c-44f0-a062-04c6d4d3fd0d
+DifferentialPowerAttacks,68e42fe9-8ddb-4e43-80ac-7a079abad568
 DifferentialRiccatiEquations,9819f967-4574-4d9d-b214-002eeba273d9
 DifferentiationInterface,a0c0ee7d-e4b9-4e03-894e-1c5f64a51d63
 DifferentiationInterfaceTest,a82114a7-5aa3-49a8-9643-716bb13727a3
@@ -6387,6 +6388,7 @@ LinearTurboFold_jll,cd7c2323-e06e-549f-9837-4f85c0db7ff9
 Lingeling,24b7b615-05f5-4cb5-9c13-cd423f90764a
 Lingeling_jll,54ea7443-b7cf-5485-b0d0-86c7d7a308e1
 LinkCutTrees,9b2c3604-c02d-4033-9e75-a81d4d4fb586
+LinkCutTreesAugmented,c1bc6fde-6912-42fb-b8df-7f936dc5be7d
 LinkFunctions,fa965eab-f9a2-49de-8293-bc60088b3cbc
 LinkedInAPI,b8105b00-6eed-423c-b4b1-db9a63bbfa9d
 LinkedLists,70f5e60a-1556-5f34-a19e-a48b3e4aaee9
@@ -6768,6 +6770,7 @@ MUSCLE_jll,0d2b832c-22e5-5080-b34f-49cc6141c4c5
 MXNet,a7949054-b901-59c6-b8e3-7238c29bf7f0
 MacOSIOReport,27799fc1-e272-4181-9793-a9e1fcba685b
 Macchiato,cd40ceae-7681-4e2e-9056-ba6e356aca3e
+MachineId,0bde52d1-c59e-44da-81f1-8bd917b17165
 MackeyGlass,5eb54613-e1e4-5bb3-a6bc-ad608a6b2204
 MacroEconometricModels,14a6ec33-bcac-448e-845f-2fb6769698f1
 MacroEnergy,260b7737-bf0e-4e84-9335-3af14438b1f5
@@ -6801,6 +6804,7 @@ MagneticReadHead,63dd013e-5414-5e51-b21a-a24e12ed54cf
 Magnetostatics,e551bd30-f216-4325-9989-532520624021
 MagnitudeDistributions,159377fa-0e0e-4acb-ad92-1ebbdec31067
 MagnonPhononHybridization,83eb1d98-e19b-4996-92b4-3414e1382055
+Magrathea,b5134ede-7642-4071-804d-4ebd12280027
 MahjongTiles,4428f09d-fda0-4bc5-909e-74e028533219
 MajoranaPropagation,c1ba0b60-2606-4ffc-8aea-7c4a0f2726e4
 MajoranaReps,4d2ab388-4915-11ec-2296-b707a6cee44b
@@ -7145,6 +7149,7 @@ MicroFloatingPoints,6e0295d3-a2ae-4d9e-ab31-7b55fc0f4333
 MicroLogging,cecf6091-0e4e-54ba-8cba-f0e96a51f282
 MicroMagnetic,cef16ca0-16a8-11ef-389e-9fbcf1974e83
 MicroMamba,0b3b1443-0f03-428d-bdfb-f27f9c1191ea
+MicroSUS,cf66faa3-c0ab-41b5-b901-e1d7c735fa13
 MicroSpice,91f5dd49-4a74-4105-9028-9e2431b82274
 MicroTracker,f2f4b30c-0e7b-4018-b992-2f46df5706a6
 MicroUI,8c0ede0a-6911-4ca7-83c4-4fa2fa689698
@@ -12618,6 +12623,7 @@ UniversalDiffEq,791b002b-939e-4b08-8060-ecf413fcb155
 UniversalFeynRulesOutput,e2970b7e-a80f-4839-9fc1-2a0f2f4c4333
 UniversalIntegerCodes,f9d38c27-4a81-4d8c-bddb-5ed3c8119a58
 UniversalMaterialModel,451d549b-da3a-4afd-9dba-1924b1a1c089
+UniversalNumbers,438cb659-dcb9-46ca-8bd1-3c7a98a84c4c
 UniversalNumbers_jll,abcc0241-aaf1-5618-bc5e-fbfb451ec3e8
 UnixCompress,3f1a3b67-9ed5-4096-bdaa-9e31f28ad61f
 UnixMmap,674b2976-56af-439b-a2b1-837be4a3d087
@@ -13220,6 +13226,7 @@ Zabbix,bfb209d9-8743-5e3a-8711-bc78bba37304
 Zalgo,5b351978-c8a9-11e9-2467-a1bfb30aea0b
 Zarr,0a941bbe-ad1d-11e8-39d9-ab76183a1d99
 ZarrDatasets,519a4cdf-1362-424a-9ea1-b1d782dbb24b
+ZarrZfp,c0dec0de-cafe-face-babe-c0ffeec0ffee
 Zauner,ce1149fb-49fa-4541-ae6c-62019ae07d40
 ZebraPuzzles,ea4507f1-c7b4-4539-82f8-989db771b95d
 ZedPlotPane,1a2e9a1c-d784-4d3f-8c27-9f27d983cc09
