@@ -193,6 +193,7 @@ AdaStress,f8632b6a-8763-4da0-bfaf-5f7707adef25
 AdalmPluto,af34ca7c-e544-47d5-a6fe-72495f08728e
 Adapode,0750cfb5-909a-49d7-927e-29b6595444bf
 Adapt,79e6a3ab-5dfb-504d-930d-738a2a938a0e
+AdaptEllipticalSliceSampler,630fce29-b4bc-4795-b1a0-7c5b858f73a1
 AdaptableFunctions,16094072-63d9-4fab-833b-5e04479784a5
 AdaptiveArrayPools,4f381ef7-9af0-4cbe-99d4-cf36d7b0f233
 AdaptiveCrossApproximation,ef3ffb92-1c7b-43b8-a0d7-a7e2ce4fd1e5
@@ -972,6 +973,7 @@ BigG,75185e45-e16e-4c90-beee-275c7fc4acba
 BigMacro,839f1b1b-eafa-4394-a1a1-3d47d8821c5e
 BigO,2ecab122-4940-479f-a518-03695d136e3f
 BigRationals,4b135b7f-1e8f-46e2-b4fa-ae0bd8ae44fd
+BigRiverEssence,2768b56d-1570-4417-9919-1aa303d8c95e
 BigRiverJunbi,6a06b223-7d19-411a-858f-7a319f02fdfd
 BigRiverMakie,2073ee19-d2a6-424f-ac95-ea3ed30aeccf
 BigRiverQTL,8f8ec94a-26d1-428c-aa0e-4e66223094bc
@@ -1394,6 +1396,7 @@ COBSReduced,719baba0-b808-11eb-2c94-7207250cf58f
 COCOA,9ecc82ce-b930-45f2-8d28-709640a22783
 COESA,13e0c4e3-fd7a-51bf-9e22-ec7679f18909
 COINBLAS_jll,70ea7731-f516-5e6d-b63f-53a67d65e1cf
+CONOPT,d9ad0738-0ae8-416d-b8ee-a56302d35586
 COPIERTemplate,5022dd56-1d41-4538-9f4c-b20739ff8283
 COPT,227a2e2d-e949-4d8e-a1da-7384fe6f0b9f
 CORBITS,19bfd68b-3085-5123-a7aa-2ec83b867ca4
@@ -2666,6 +2669,7 @@ Deneb,b5a61f88-a05b-4725-9526-4eca17cec623
 DenoESBuild,aff91ddb-6407-42b7-bb34-3a1644953040
 Deno_jll,04572ae6-984a-583e-9378-9577a1c2574d
 DenseGillespieAlgorithm,196457aa-616b-4d30-8659-0f081272c821
+DensityBasedClusteringValidation,12d5b8d3-741a-4b7f-ac2a-a24bdbdeca62
 DensityEstimationDatasets,4461dd73-db61-4ee9-b68e-5875fb3b3faa
 DensityFlows,76bf0c8b-52dc-40eb-a764-102eb4cc7fe0
 DensityInterface,b429d917-457f-4dbc-8f4c-0cc954292b1d
@@ -3056,6 +3060,7 @@ DynamicNLPModels,18c187db-a9a9-4c13-a1b2-7cf0a4f6591a
 DynamicOED,bec7fea8-67ad-492e-b01d-b4dfa914b0da
 DynamicObjects,23d02862-63fe-4c6e-8fdb-1d52cbbd39d5
 DynamicPPL,366bfd00-2699-11ea-058f-f148b4cae6d8
+DynamicPanelModels,2feff84d-53dc-4a9a-aa25-96ecd7dbbe5b
 DynamicPipe,e2608387-6d34-4676-ab1d-f98b51cb1878
 DynamicPolynomials,7c1d4256-1411-5781-91ec-d7bc3513ac07
 DynamicQuantities,06fc5a27-2a28-4c7c-a15d-362465fb6821
@@ -5107,6 +5112,7 @@ Hygese,0672f53d-ad77-409a-bbb3-4bc94f101f4b
 Hygienic,60a53d29-03fa-4035-8e80-3746437aa372
 Hymod,2d06aeeb-b05a-4dff-b7c9-38070db02149
 Hypatia,b99e6be6-89ff-11e8-14f8-45c827f4f8f2
+HyperCalibration,ee002675-c223-4b35-9440-54b3dbf2facf
 HyperDualMatrixTools,04d39a18-1502-5db8-a704-9ca743349cef
 HyperDualNumbers,50ceba7f-c3ee-5a84-a6e8-3ad40456ec97
 HyperFEM,ddbf423a-3df4-409e-9685-3dc416cae46c
@@ -7740,6 +7746,7 @@ NelsonRules,f967765a-671f-4dab-8ad7-3d510d8fd276
 Nemo,2edaba10-b0f1-5616-af89-8c11ac63239a
 Neo4j,d2adbeaf-5838-5367-8a2f-e46d570981db
 Neo4jBolt,6bf848c2-a04c-470f-9a4d-5a21d02c3e16
+Neo4jQuery,73bf9368-8aa0-4807-ab74-772e1b9f394f
 NeoNEXUS,ce3fc199-6729-41fd-b549-7e4572107528
 NeoPKPD,aa42e64f-7c0c-4f7e-9a43-9f30a48e1a32
 Neovim,b2cf22bb-779f-4885-b12f-54b1c19a73e0
@@ -12602,6 +12609,7 @@ UnitfulCosmo,961331e1-62bb-46d9-b9e3-f058129f1391
 UnitfulCurrency,f5cc5b76-f814-11e9-291c-a1ea2b8c31c6
 UnitfulData,479269fd-87c4-43d6-a395-02aad47d928b
 UnitfulEquivalences,da9c4bc3-91c8-4f02-8a40-6b990d2a7e0c
+UnitfulGauss,c51fb484-b8fd-4959-9bde-858457374af6
 UnitfulGaussian,203183ea-d3ea-452b-8588-590cbae10604
 UnitfulIntegration,6043864f-155a-5464-b5be-64e090a46784
 UnitfulLatexify,45397f5d-5981-4c77-b2b3-fc36d6e9b728
@@ -13312,6 +13320,7 @@ aws_lc_jll,97bc56f7-b146-5eb0-9ba6-f74d48471a93
 azurite_jll,d59cea07-7a7b-5018-a298-a103d13afaf6
 bacnet_stack_jll,45b21b7f-0fc3-514f-951b-76478cbee2c7
 basiclu_jll,5629d00f-ba42-508e-84a8-8193befe9d4f
+basil_jll,6e973506-4df8-57fe-abc1-d686a44d0ebe
 bat_jll,e1736374-6498-5d90-ab12-e7e58ba27d07
 battery_cli_jll,dd074c01-bd9e-510d-b91d-361c690844c9
 bcftools_jll,b51ba988-139c-5e66-8d45-d5b53cbf8c72
@@ -13419,6 +13428,7 @@ extxyz_jll,6ecdc6fc-93a8-5528-aee3-ac7ae1c60be7
 f4ncgb_jll,160f184c-7e1a-5d95-af1f-70d62a450302
 fakechroot_jll,0d1115f3-e42e-5952-a93b-f179746a6ed7
 fast_float_jll,3e47ebc0-1a57-5d97-8531-bb9677ddea26
+fastloess_jll,4babd41b-8569-5769-b094-a2a3f6511883
 fastlowess_jll,7381d214-3001-5784-8d9a-8eb8e8688076
 fastp_jll,cdb18c6f-09f1-5f87-ba27-801070dd1989
 faust_jll,ee02ff01-307c-5f43-b4c2-04ffc4645b0f
