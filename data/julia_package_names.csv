@@ -343,6 +343,7 @@ AmplNLWriter,7c4d4715-977e-5154-bfe0-e096adeac482
 AnalysisOfVariance,01c9c671-d471-43d2-8b89-3af15e6b824d
 AnalyticComb,8a73a7cf-268c-4a55-9a00-18d79986516d
 AnalyticEMModes,4347a9b3-a74f-4459-95f9-6cf3b5a9075d
+AnalyticLoadFlow,19ecf91d-4042-490c-adc1-7fb0fdb392c0
 AnalyticalMethodValidation,b401a7b7-5953-49f1-86ca-9d186498acee
 AnalyticalStructureFactors,91294a36-8144-4a6b-bcde-0166c034afe3
 Ananke,1a22c728-0c56-469f-9cf3-be645c8711d1
@@ -439,6 +440,7 @@ Arborist,226a4f77-d45f-40bb-908f-e1e2bc89957a
 ArcadeLearningEnvironment,b7f77d8d-088d-5e02-8ac0-89aab2acc977
 ArcadeLearningEnvironment_jll,52cbb755-00ff-5a24-b23e-8a91c598877e
 ArchGDAL,c9ce4bd3-c3d5-55b8-8973-c0e20141b8c3
+ArchimedLight,ca362a0f-208d-4994-8e0e-d922fd0d438a
 AreaInterpolation,d0f2625a-dce2-41fa-8f52-900cefdd6e0e
 Arena,53eacc40-fba4-5ad6-b4bb-526e51630e63
 ArenaArrays,a7079d05-a211-4b9a-ade9-d081fcc12f6a
@@ -2590,6 +2592,7 @@ Davidson,0c603acf-41d5-40bf-a378-7dbbea0dae82
 DayCounts,44e31299-2c53-5a9b-9141-82aa45d7972f
 DbgMacro,d6ce5c67-b3b1-4855-8eb4-4ca27575037e
 Dbus_jll,ee1fde0b-3d02-5ea6-8484-8dfef6360eab
+DeBRief,55108b8c-454b-4195-8bff-1613e9ee90b5
 DeIdentification,b905b068-7150-5b22-bc23-80596c88c6a6
 DeMorgan,454c4576-8353-43f8-8d90-1177b7ee912a
 DePPA,47e0b4c3-c02b-4df9-862c-39042bcbb8d1
@@ -6694,6 +6697,7 @@ MMG_jll,86086c02-e288-5929-a127-40944b0018b7
 MMTF,259c3a9c-12c3-507f-b21f-68ecc40fcda4
 MMseqs2_jll,2f0138a6-2765-53ae-bca2-2fe9d5077335
 MNPDynamics,f81e04c9-20b8-526d-9626-780ee78293fb
+MOLE,32da6bfa-ea95-4826-ae25-7537d33b039c
 MOMDPs,77fc6e33-3f81-4304-8123-5a68e6b3eeb4
 MONA_jll,469f9ae1-7f35-5207-98f8-918a8c6f7b76
 MORWiki,4add22a6-c4b7-49d8-833a-0e1707ec89d0
@@ -10532,6 +10536,7 @@ SatelliteToolboxCelestialBodies,b0edd99f-a7ca-4aa6-9a1e-a53e8f506046
 SatelliteToolboxGeomagneticField,9fc549ba-b5d7-49a2-b268-8171e5fb6e89
 SatelliteToolboxGravityModels,bd9e9728-6f7b-4d28-9e50-c765cb1b7c8c
 SatelliteToolboxLegendre,7fa26607-a272-47b2-9aa2-a6c1d419d9d2
+SatelliteToolboxOrbitDataMessages,8a75e93c-a5f1-4885-96e0-0415d9bb1562
 SatelliteToolboxPropagators,c2b69894-ea78-4e2b-9ba6-cedbbc3d14d7
 SatelliteToolboxSgp4,ba14ac17-bfc9-4710-a76f-b32930ef2339
 SatelliteToolboxTle,7ff27aeb-5fff-4337-a9ee-a9fe6b7ed35e
