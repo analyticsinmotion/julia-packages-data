@@ -140,6 +140,7 @@ AbstractPPL,7a57a42e-76ec-4ea3-a279-07e840d6d9cf
 AbstractPermutations,36d08e8a-54dd-435f-8c9e-38a475050b11
 AbstractPlotting,537997a7-5e4e-5d89-9595-2241ea00577e
 AbstractPlutoDingetjes,6e696c72-6542-2067-7265-42206c756150
+AbstractQAtlas,dcea2817-62f8-4a75-b498-1b50a9ed1e4d
 AbstractRationals,4958c51a-00f6-11ea-2b94-f3f784e4d148
 AbstractSDRs,0bdde9fc-719a-4dc7-8589-49ca6634fa6b
 AbstractSDRs_rx_ascii_art_dft,6b81e7ba-832b-43c9-bb51-2e30242560d3
@@ -3080,6 +3081,7 @@ DynamicalCorrelators,7abe38c7-550a-49b0-ba99-33d1b5164ede
 DynamicalSystems,61744808-ddfa-5f27-97ff-6e42cc95d634
 DynamicalSystemsBase,6e36e845-645a-534a-86f2-f5d4aa5a06b4
 DynamicallyLoadedEmbedding,bb81f446-86f5-47d0-8ffc-7ac2adc264fd
+DynamicsKit,2afe95f4-12e3-475a-b169-cd848969dbfb
 DynamicsPlots,2f97d39f-9754-482a-91aa-b40596fbfbc8
 Dynare,5203de40-99df-439e-afbc-014de65cb9ef
 DynarePreprocessor_jll,23afba7c-24e5-5ee2-bc2c-b42e07f0492a
@@ -7389,6 +7391,7 @@ MonotonicSplines,568f7cb4-8305-41bc-b90d-d32b39cc99d1
 MonteCarloCollisions,3af9cca3-6439-492f-bb75-d94037938865
 MonteCarloGlauber,975a0a4c-3350-41ca-9a50-68f91c961bd0
 MonteCarloIntegration,4886b29c-78c9-11e9-0a6e-41e1f4161f7b
+MonteCarloJackknife,6f08d647-cae2-40a6-9239-8df7d8e7d0ed
 MonteCarloMarkovKernels,258d96c3-0b0c-5644-b641-119ebad15d7d
 MonteCarloMeasurementUncertainty,0a594e34-94bc-4f62-947f-4b31ef19552b
 MonteCarloMeasurements,0987c9cc-fe09-11e8-30f0-b96dd679fdca
@@ -8025,6 +8028,8 @@ OSMGeocoder,28a637ce-2736-498a-9075-487c6d86a7c1
 OSMMakie,76b6901f-8821-46bb-9129-841bc9cfe677
 OSMToolset,a1c25ae6-0f93-4b3a-bddf-c248cb99b9fa
 OSQP,ab2f91bb-94b4-55e3-9ba0-7f65df51de79
+OSQP_CUDA_jll,7bc05507-77fc-55d5-a622-fbff6f7abc80
+OSQP_MKL_jll,99cd48a0-e5ef-5127-87b5-832340e95dc5
 OSQP_jll,9c4f68bf-6205-5545-a508-2878b064d984
 OSRM_jll,a74304e1-5a13-544f-adb7-0572470cee19
 OTF2_jll,312b3e1d-731b-5709-b7dd-8df63785c7d0
