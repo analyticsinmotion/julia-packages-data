@@ -112,6 +112,7 @@ AbnormalReturns,f9c80461-2ebf-4c7c-9c1c-d30d9d100fd8
 About,69d22d85-9f48-4c46-bbbe-7ad8341ff72a
 AbsSmoothFrankWolfe,6d364d26-5f85-487f-81b3-ae189dbb3e92
 AbstractAlgebra,c3fe647b-3220-5bb0-a1ea-a7954cac585d
+AbstractAnalysis,86512db7-604a-4b90-aeec-df6b673a43d4
 AbstractBayesOpt,735adf16-6ca3-4095-a89a-9a0ece110843
 AbstractCircuitComponentRounding,f69727b9-8a39-40e5-8e7a-0243a3421727
 AbstractControlProcesses,d0d8031c-1ca7-4517-a182-a2551ca8592c
@@ -1254,6 +1255,7 @@ BrazilFinancialData,83903589-8fc8-4699-b7ad-cfd56ee128ec
 Breakers,e52b5ea0-8122-4946-b8e9-9981f9d15727
 Breakout,1a604a49-2ee9-46dc-8073-86211d0c62e4
 Breeze,660aa2fb-d4c8-4359-a52c-9c057bc511da
+Brickster,93721290-e379-4ab3-ae0d-1d15abd83c0f
 Bridge,2d3116d5-4b8f-5680-861c-71f149790274
 BridgeDiffEq,1aa9af3a-2424-508f-bb7e-0626de155470
 BridgeLandmarks,83b8d07e-fbc4-11e9-24cb-23d125ee72bd
@@ -3343,6 +3345,7 @@ Eoshifts,a610e8d0-bcf9-11f0-bd78-7b325b0dfb67
 Ephemerides,6a9c3322-c8fe-4c26-8ad6-14a6f8acd2a0
 EphemerisSources,858900df-f7ae-402a-aa8c-3e4ef85aa271
 EphemerisSourcesBase,b8f1d712-e88d-4f2a-8498-e66ce688ee29
+EpiAwareADTools,908e2895-a690-4874-a954-ca006cb9734d
 EpiAwarePackageTools,7aaea248-0d11-4a0d-a7dc-86da30abb951
 EpicHyperSketch,c73a71ba-f77a-4450-b81e-a1166e41307d
 Epicrop,ba61b42c-0a63-478a-861d-cedeca8bda8f
@@ -6024,6 +6027,7 @@ LMDB_jll,6206cf0b-f360-5984-af49-5437264c140e
 LMDiskANN,a2e5363b-c4e1-4593-9e2f-a2937b345987
 LMfit,4eb4f38b-2839-4c1d-8f96-c88b685035f5
 LNR,7c4cb9fa-83a0-5386-9231-d6167c818060
+LOBPCGEigensolver,87a0849e-8492-4fcc-8734-ba6a5d902784
 LOLTools,e2c437b3-d38f-4222-8753-dddcd5679a95
 LPVSpectral,26dcc766-85df-5edc-b560-6076d5dbac63
 LRESolve,ee29a0df-cd28-4477-a8c7-b2df1281527b
@@ -7339,6 +7343,7 @@ ModuleInterfaceTools,5cb8414e-7aab-5a03-a681-351269c074bf
 ModuleLogging,247fc82d-8a48-4c99-91f9-777a8789624c
 ModuleMixins,2b5f0a26-aae2-5c4c-af55-bc6d20297121
 ModulePresentationsForCAP,80a941df-def7-4d99-bd07-d3a3a468fbfc
+ModuleUnitCommitmentToolkit,ac5da903-c047-492f-9e2d-d451e318368d
 Modulo2,7e4462cd-8001-4c22-b109-db8e4e581e9c
 MofonBase,f86311af-d4d5-4877-8d32-564a46a659f1
 MoireSuperlattices,e394c99e-e854-4268-9140-34fa518dd490
@@ -8317,6 +8322,7 @@ OrbitPropagationLibrarySOFA,38b9e004-e2fa-4648-aa91-337faf7b69aa
 OrbitalElements,f8fcefdb-5f5a-475b-b2a0-c41c734946b5
 OrbitalTrajectories,2b613a20-8d2a-5290-b19f-e06f4bcc2e7d
 Orbits,88f3d70c-3a4c-11ed-1389-4902f2e49de8
+Orcus,45350dae-0ff4-4403-bb65-d8c585f51100
 OrderedBinning,7ddfbc40-471f-4c10-8de2-c2a38c92fc06
 OrderedCollections,bac558e1-5e72-5ebc-8fee-abe8a469f55d
 OrdinalGWAS,00428148-03d9-50ae-bfb7-4a690d5612f1
@@ -10094,6 +10100,7 @@ Republic,27243419-9dde-4721-b67c-fd63626fea7f
 RequiredInterfaces,97f35ef4-7bc5-4ec1-a41a-dcc69c7308c6
 RequiredKeywords,fa45d1ab-b616-567a-ad77-664fd15b62b2
 Requires,ae029012-a4dd-5104-9daa-d747884805df
+Rerun,1f49d09d-ceb1-46d4-a7f5-ca2a56fa37fd
 ResEE,539b6a15-2144-4f08-8574-27224deb4b81
 Resample,318ae45f-2437-4276-8d16-19df99ea8507
 ResearchSoftwareMetadata,58378933-4625-47fa-851e-05ee27d397bd
@@ -11053,6 +11060,7 @@ SnakeGames,34dccd9f-48d6-4445-aa0f-8c2e373b5429
 SnakeIterator,2a3ac32a-96bb-42aa-a23f-7363afb8ec0a
 SnapTests,cedb2ae3-6529-478c-a04f-d9256ac5d41f
 Snappy,59d4ed8c-697a-5b28-a4c7-fe95c22820f9
+Snapshot,1e64ef43-5f79-4f6b-8e97-159df4e27032
 SnapshotTests,4acb3128-ab29-4f79-81e6-a8e25fdcc44d
 SnoopCompile,aa65fe97-06da-5843-b5b1-d5d13cad87d2
 SnoopCompileAnalysis,9ea4277c-da97-4c3a-afb0-537c066769de
@@ -11664,6 +11672,7 @@ SummarizedExperiments,b04b66ec-f619-4ebf-810e-cf5ccc546695
 SummaryTables,6ce4ecf0-73a7-4ce3-9fb4-80ebfe887b60
 SummationByParts,55d25451-638a-4804-8089-59924bcb4a40
 SummationByPartsOperators,9f78cca6-572e-554e-b819-917d2f1cf240
+SummationByPartsOperatorsExtra,213abaa5-c2d1-49c7-a86b-a2b7aa43ec15
 SunAsAStar,1bd1a468-645d-4223-8813-48273918c0e0
 SunCalc,46d852a4-2fba-44bf-a445-ee38df28a2fc
 SunPy,d53ba2b8-6a4a-4633-896a-a050af4da271
@@ -11969,6 +11978,7 @@ TemporalNetworks,8c7a6a83-a663-42fb-a24a-c426533903ed
 Tempus,e6262be2-5787-4bdc-bc3f-4b5a3442fa30
 TenNetLib,1ce00845-9e1b-4798-bd63-033d15ad4ca9
 TenPuzzle,2b1cd6f4-158b-5933-849b-48df756daf9e
+TenSnap,c4e6f1a8-4f9e-4b75-a3b4-6f4242cfb20f
 TenSolver,cfd60579-01bf-4b47-9b3b-7c8dc91a23e2
 TeneT,260a78e0-cbf2-49ba-8157-48058c700f32
 Tenkai,a4f5eaf3-cc41-4395-bb6a-2b58fc770896
@@ -12904,6 +12914,7 @@ WaveFlow,d8840e3d-a7fc-463d-bc34-4e391df193a6
 WaveOperators,8a8a931e-bb7e-411d-b5ad-3690531b5574
 WaveOpticsPropagation,c4c7a1f9-3adc-4a73-843a-d378b6c86436
 WavePropBase,91c5bd54-65f5-4719-ae3b-9579edfc4a0b
+WaveRealizations,5852f853-8e1a-48ca-b35a-a3df028de464
 WaveSim,357e0438-a8f0-40ee-b2b7-31745160e092
 WaveSpec,908d4cf6-a6c0-449c-92e4-852c8f288332
 WaveSpectra,9da5bd80-4f3d-48a2-a37e-447dff2ef7bc
