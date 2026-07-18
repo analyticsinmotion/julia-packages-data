@@ -276,6 +276,7 @@ AirfoilGmsh,e68ec710-8e48-43c5-af1a-c38c4248fd7b
 AirfoilMeshers,fb06ee43-ff84-401b-b5ac-2522e63f9402
 AirspeedVelocity,1c8270ee-6884-45cc-9545-60fa71ec23e4
 Airtable,96f7d883-6668-4fbe-bb01-b60427b16035
+AktaPrime,f5a23b8e-4c19-4d2b-b8f3-9e7c1d5a2043
 Alakazam,41a1aa08-1d43-4dd7-adeb-62cd7a1359ba
 Alert,28312eec-4d86-447d-83ad-bc2b262de792
 AlertPushover,19f6540d-ecb3-4e88-b99d-153996aa3b9b
@@ -3347,6 +3348,7 @@ EphemerisSources,858900df-f7ae-402a-aa8c-3e4ef85aa271
 EphemerisSourcesBase,b8f1d712-e88d-4f2a-8498-e66ce688ee29
 EpiAwareADTools,908e2895-a690-4874-a954-ca006cb9734d
 EpiAwarePackageTools,7aaea248-0d11-4a0d-a7dc-86da30abb951
+EpiBranch,d1aa5d78-c683-4158-9743-7109392647a5
 EpicHyperSketch,c73a71ba-f77a-4450-b81e-a1166e41307d
 Epicrop,ba61b42c-0a63-478a-861d-cedeca8bda8f
 Epicycle,83dc357c-0294-4c28-b122-f18155576d3d
@@ -4734,6 +4736,7 @@ GraphvizDotLang,6039e64d-d8b8-4c93-8e43-7efd2f757352
 Graphviz_jll,3c863552-8265-54e4-a6dc-903eb78fde85
 GrasslandTraitSim,45e22d02-e628-441d-a1c7-54dcb4b48aca
 Grassmann,4df31cd9-4c27-5bea-88d0-e6a7146666d8
+GrassmannSymbolics,4c7e4f2a-8b3d-4e9a-b5c1-3f2d1e0a9c7b
 GrassmannTensorNetworks,d83068a9-b689-45fe-9bec-2d0e83279509
 GraviPet,5928621a-8be5-4e72-aa40-6d276f04f5c4
 GravityGE,ea95cd53-c789-4503-b9ba-f4afdb1790f4
@@ -7212,6 +7215,7 @@ MinHash,4b3c9753-2685-44e9-8a29-365b96c023ed
 Minc2,8e6f2f06-34e2-40fe-8437-e396464d2a7f
 Mineos,daba6828-70d2-4229-869c-b11708ab6c61
 Mineos_jll,77b29d01-de08-56f3-96c6-9f6f21a29421
+MineralEoS,d2c9e738-65c1-4ec6-a6a5-c9a48276562c
 Minesweeper,758a1c58-1ae5-4273-bf23-de2a3f195520
 Mingw_jll,2d94bacf-4d71-535d-a47c-45e808015115
 MiniEvents,cc2f42a3-1295-4d24-93d2-d4f09bca1510
