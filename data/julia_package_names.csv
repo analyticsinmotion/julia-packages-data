@@ -4909,6 +4909,7 @@ HaloMF,0e139a23-195b-4aec-b8fc-e9aa4361bc8d
 HaltonSequences,13907d55-377f-55d6-a9d6-25ac19e11b95
 HamamatsuStreakFiles,9cf175da-80c3-439d-a199-cfd3547211b3
 Hamburg,fe294631-7164-4d0f-9497-e1b4dc4640c8
+Hammerhead,5ded7e7b-b945-48ee-9a66-c5dce433a0a7
 Hanabi,705708ad-e62c-5f47-9095-732127600058
 Hanabi_jll,37516f07-4740-538e-b7cb-eec320f4a184
 HandIsomorphism_jll,984f9c1f-46fe-5a04-8363-0cf7ea158318
@@ -5069,6 +5070,7 @@ HomogeneousStrictlyBinaryTrees,72443837-f9fa-4857-83bd-ff360b668cc2
 HomogeneousTransformations,59ef864d-61ee-43f7-9b33-662866a07383
 HomogeneousVectors,5d3f8266-9186-4afd-be5f-84c55396a2a7
 HomotopyContinuation,f213a82b-91d6-5c5d-acf7-10f1c761b327
+HomotopyGetsReal,4051f461-4a5e-492e-9237-10b01d865883
 HomotopyOpt,8c5e0f79-7402-43d4-9c5c-e1bde87b1895
 HopTB,3804c90a-d6ae-434d-aed1-763ec3185202
 Hopfields,6768ce78-dd5b-4160-b677-5994b15e298d
@@ -11686,6 +11688,7 @@ Sundials_GPU_jll,035518d0-5ae3-5af5-93bb-592bb84664f0
 Sundials_jll,fb77eaff-e24c-56d4-86b1-d163f2edb164
 SunlightHNC,1d8199c2-2c11-4f8e-a265-f9a0ffcc17be
 Sunny,2b4a2ac8-8f8b-43e8-abf4-3cb0c45e8736
+SunnyAnalysisTools,eb4b4db9-47cd-4f01-94ae-6f9415abd353
 SupabaseAuth,a0444c1d-6bfd-4346-a8b3-2f7d58af6057
 SuperEnum,5c958174-e7d9-5990-9618-4567de4ba542
 SuperLU,149cae9a-b337-42bd-ac98-00096b14e8a3
@@ -13202,6 +13205,7 @@ YAArguParser,bcbd4c87-030e-4da8-a7f0-f342a29caad3
 YAJL,bda616b3-ac6d-5293-8ee1-22b41414598d
 YAJL_jll,4bc5dff0-e00f-5dee-8f43-8e76277f4f7d
 YAML,ddb6d928-2868-570f-bddf-ab3f9cf99eb6
+YAMLEvents,79a9720a-54b1-42a2-b4b9-5c4b76fbe7a5
 YAMLScript,c6519b1f-f61a-46f8-9c82-37138c212585
 YAMLStar,4dd3d208-18db-460a-a0b1-fbfd847e97b6
 YASM_jll,997772c2-56d0-5ccd-9329-3f55f14e5768
@@ -13570,6 +13574,7 @@ libbensolve_jll,b87178c0-1e03-5bfb-8a01-b03b192b63a7
 libblastrampoline_jll,8e850b90-86db-534c-a0d3-1478176c7d93
 libbluray_jll,4a6b8444-0b90-5145-9aa0-b7d88b695d06
 libboxer_jll,5847ba37-b048-5c88-b501-c62f664b1471
+libbposit_jll,55cfc47e-764c-5ead-a4c5-49efd926d0c3
 libcap_jll,eef66a8b-8d7a-5724-a8d2-7c31ae1e29ed
 libcbor_jll,5d4dba4b-0609-5411-86b8-155d70b59700
 libcellml_jll,2a231547-1e2e-5ce0-a51e-f3f5ef0a1add
