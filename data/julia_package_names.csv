@@ -8660,6 +8660,7 @@ ParseUnparse,caaa8bb7-a042-43a4-a1c9-7594415e1478
 ParserCombinator,fae87a5f-d1ad-5cf0-8f61-c941e1580b46
 Parsers,69de0a69-1ddd-5017-9359-2bf0b02dc9f0
 PartedArrays,c45eb73e-4025-11e9-27c7-23913323ccd5
+Partia,5c2dedaf-db9e-41c2-b778-b9f601995017
 PartialFunctions,570af359-4316-4cb7-8c74-252c00c2016b
 PartialFuns,f26b6392-6076-4cfd-b91e-dd0fce713497
 PartialLeastSquaresRegressor,f4b1acfe-f311-436c-bb79-8483f53c17d5
@@ -9697,6 +9698,7 @@ QuaternionIntegrator,dc284178-beb3-4143-96bf-abb625ba06b3
 Quaternionic,0756cd96-85bf-4b6f-a009-b5012ea7a443
 Quaternions,94ee1d12-ae83-5a48-8b1c-48b8ff168ae0
 QubiSim,3f823c38-d010-4086-b4dc-b61855312ec9
+QuditClifford,fd55b3c1-6bf5-4acb-ac66-43b8ce88861c
 Query,1a8c2f83-1ff3-5112-b086-8aa67b057ba1
 QueryOperators,2aef5ad7-51ca-5a8f-8e88-e75cf067b44b
 QuerySQLite,57f923c0-76be-11e9-095d-c942eaffc94b
@@ -10477,6 +10479,7 @@ SQLiteDF,289a3227-1041-4740-9a48-9a9497380b0c
 SQLiteGraph,de2defd0-d76e-464a-9029-1d71e199ae58
 SQLite_jll,76ed43ae-9a5d-5a62-8c75-30186b810ce8
 SRCWA,ff5ff224-83ac-11e9-2c32-7d811a837d73
+SRDFilter,8500e8d5-1f20-45da-94c5-1be0b4131781
 SSGraphBLAS_jll,7ed9a814-9cab-54e9-8e9e-d9e95b4d61b1
 SSHAgentSetup,babe9734-f0f2-4b58-baca-5f6951677a1e
 SSHT,f9c319a3-ff8a-48d2-8f6c-2646455c3008
@@ -11576,6 +11579,7 @@ StreamSampling,ff63dad9-3335-55d8-95ec-f8139d39e468
 StreamToString,dc918f9c-79cc-42e6-85f1-d8b9b09632f4
 StreamVByte_jll,90af1822-8dd1-5078-b228-f487b1f02c31
 Streamfall,09d4d480-e905-4803-959d-af438f1c2811
+StreamingInstability,839e7c71-2dd2-4ca2-8727-89a892d26fe0
 StressTest,6e3341f8-3a0d-4582-a093-9d6e6d36caf8
 Stressify,8a229381-d7eb-4865-a507-cf9af2c5cd1e
 Stretto,6542ec78-ee1b-4af1-b08f-242328baa654
