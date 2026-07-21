@@ -1994,6 +1994,7 @@ CommandLiner,dab3b9ab-a280-4855-a173-bba60dabf33a
 CommonDataFormat,a9737db6-c05c-4e48-868b-6bc41491d9d9
 CommonDataModel,1fbeeb36-5f17-413c-809b-666fb144f157
 CommonEq,3709ef60-1bee-4518-9f2f-acd86f176c50
+CommonExpressionLanguage,504a643d-8012-417d-96de-56a510ca6d29
 CommonHighlight,0147c57a-19b4-5173-b9c9-41cf4c2c7bcf
 CommonLicenses,31d8bc61-a8a5-4aaa-ae43-a3b73cb73fef
 CommonMark,a80b9123-70ca-4bc0-993e-6e3bcb318db6
@@ -2120,6 +2121,7 @@ ConformalPrediction,98bfc277-1877-43dc-819b-a3e38c30242f
 ConicBenchmarkUtilities,e95a7839-07fb-532d-9a0e-071766bb5168
 ConicBundle,bd672f18-e544-480e-9008-37c9c38661cd
 ConicNonlinearBridge,952205b0-75a0-561c-bf54-4eaf7b36f838
+ConicQKD,89930fff-1c97-468e-be5c-77ab6ddad2d9
 ConicSolve,1a4286b3-6f5e-4030-bb00-6db9fd4bd7fc
 ConjGrad,c16e2fb6-b1e3-11e9-21be-0f591a3b69ea
 ConjugateComputationVI,f4ace912-77ac-4801-b600-bd6f88c28557
@@ -4849,6 +4851,7 @@ HCIDatasets,1893dc6a-5236-4cb8-aa54-62ea411c10cd
 HCIToolbox,b6cd55e5-4d02-4e12-b82c-005f67e784bf
 HChebInterp,78faba9b-a54b-441f-8118-62407cbe4e59
 HCubature,19dc6840-f33b-545b-b366-655c7e3ffd49
+HDBSCAN,4773fd7c-6dc0-4989-8854-e9e612562b10
 HDF4_jll,818ab7a1-5177-5f44-ba99-6e845030c6cb
 HDF5,f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f
 HDF5BinaryTemplates,2fdc933a-200b-4e87-880b-5bdfb75c9c79
@@ -7083,6 +7086,7 @@ MergedArrays,4201acb4-6ad2-4fbc-ab19-c24116385dd7
 MergedIterators,0366c28c-dc25-47c7-912f-d29916230b20
 MerkleTrees,06dfef30-8e85-11e9-0a8e-cb6ed32fdbef
 Merly,5b70daea-9db9-5a46-aedf-2142e553ecc5
+Merzbild,de01fcb4-c117-45a4-a951-7e39b0f12516
 Mesa_jll,78dcde23-ec64-5e07-a917-6fe22bbc0f45
 MeshAdaptiveDirectSearch,f4d74008-4565-11e9-04bd-4fe404e6a92a
 MeshArrays,cb8c808f-1acf-59a3-9d2b-6e38d009f683
@@ -7242,6 +7246,7 @@ MintsMakieRecipes,6ebddb0b-cb6d-4cb8-921a-b084ea45d677
 Minuit2,37821647-3276-4ed8-9a4e-bc9886b3c106
 Minuit2_Julia_Wrapper_jll,65cff058-67fb-5034-9600-a8f6a0feb90b
 Minuit2_jll,683d4edd-6ccf-5a74-985b-ebee5a2d6cb7
+Mirage,e54eaeca-a684-404c-9867-c26beaca1479
 MiraiBots,e34416ce-79ee-4ebd-8d29-74bfd0620ce8
 MirrorUpdater,7f0fc4bf-4ffe-4e21-ab91-7bf1358d5ab3
 MirroredArrayViews,b32b01fb-8833-5495-9754-2f5f3e3ebfd4
@@ -9290,6 +9295,7 @@ ProblemSet,806f51fd-16a3-4f55-bd44-f0d72f9cf926
 Problox,41531fc7-7f15-48cd-9c2f-2efb66d9fe65
 ProceduralNoise,3aba9546-43d6-4ec1-9542-6d3f8f2a5c7f
 ProcessBasedModelling,ca969041-2cf3-4b10-bc21-86f4417093eb
+ProcessMonitor,4131f68c-4ce9-42e2-8e2e-eec1ce550ab1
 ProconIO,14bbafba-0b52-4ec8-8fe0-855204a3b917
 Procrastinate,3362a694-cdb4-48f5-aa9a-ff559879651c
 Prodigal_jll,7a4b51ec-a40a-52db-952c-916e8965abc8
@@ -11565,6 +11571,7 @@ StrICU,124badd8-7747-5df6-9c35-5cbf8cd52816
 StrLiterals,68059f60-971f-57ff-a2d0-18e7de9ccc84
 StrRegex,2267b70d-4c4a-5da2-8395-98751c0d506a
 StrTables,9700d1a9-a7c8-5760-9816-a99fda30bb8f
+StrainedElectronicDevices,b216b5de-52e9-47ff-b90b-2c83c7be6265
 Strapping,3787371a-436b-4cb0-be6b-e772a55e3ebe
 StrassOPen,1971c852-c825-11ef-1d57-2185ebdca1d8
 StratIntervals,25535e0e-5971-408f-b193-ac148e584f39
@@ -12902,6 +12909,7 @@ WangLandau,8fe66260-677e-4fa0-b9cd-b744032f5639
 Wannier,2b19380a-1f7e-4d7d-b1b8-8aa60b3321c9
 WannierExcitonModel,b427a48a-3e32-43b5-a614-63ff4457e590
 WannierIO,cb1bc77f-5443-4951-af9f-05b616a3e422
+WannierInterActionBase,30f46834-f0b0-4c0a-9db1-a1e95031f2fb
 WarmupHMC,60658175-6863-4866-a322-ab51a11c0cfe
 Wasabi,cec542a4-22c5-46cb-8ca4-a46a7737b387
 WasmMakie,782397d3-b2e0-4093-86f4-3070b4a5c6bd
