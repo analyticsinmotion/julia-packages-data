@@ -4913,6 +4913,7 @@ HaltonSequences,13907d55-377f-55d6-a9d6-25ac19e11b95
 HamamatsuStreakFiles,9cf175da-80c3-439d-a199-cfd3547211b3
 Hamburg,fe294631-7164-4d0f-9497-e1b4dc4640c8
 Hammerhead,5ded7e7b-b945-48ee-9a66-c5dce433a0a7
+HammerheadGUI,759a4b49-c2fc-4731-b9e2-38749bc182b9
 Hanabi,705708ad-e62c-5f47-9095-732127600058
 Hanabi_jll,37516f07-4740-538e-b7cb-eec320f4a184
 HandIsomorphism_jll,984f9c1f-46fe-5a04-8363-0cf7ea158318
@@ -7595,6 +7596,7 @@ NATS,55e73f9c-eeeb-467f-b4cc-a633fde63d2a
 NBInclude,0db19996-df87-5ea3-a455-e3a50d440464
 NBodySimulator,0e6f8da7-a7fc-5c8b-a220-74e902c310f9
 NCBIBlast,dcaf3faf-48b5-45a7-abb1-fcfd75344536
+NCBIDatasets_jll,72c01909-1b0d-5b82-b32b-7dad330c425f
 NCBITaxonomy,f88b31d2-eb98-4433-b52d-2dd32bc6efce
 NCCL,3fe64909-d7a1-4096-9b7d-7a0f12cf0f6b
 NCCL_jll,4d6d38e4-5b87-5e63-912a-873ff2d649b7
@@ -8779,6 +8781,7 @@ PersistentCache,272a2dff-45f1-435c-8a77-925e0295a038
 PersistentCollections,84dc0e8b-87a2-413f-9462-a65634c44495
 PersistentHomologyTransfer,8e4506b2-5217-11ea-25a3-13470ffdf3d0
 PersonParameters,ede86a6c-608d-4331-8790-0f4b0558141a
+Perth,b3f8c2a1-4e6d-4f9a-8c7b-2d5e9f1a3c4b
 Pesto,f3a6be2d-a68d-4ec3-9269-e9777039d639
 PetoiBittle,5bc1ff43-7751-4008-a957-b2449cec208f
 Petri,4259d249-1051-49fa-8328-3f8ab9391c33
@@ -13743,6 +13746,7 @@ miniaudio_jll,31fdad34-4649-51f1-940c-dc288b1fae56
 minify_jll,7dd700f0-7fa2-5578-8ac1-d309908db794
 minimap2_jll,d341526d-637d-5003-8fc4-9c6812cd2b55
 minio_jll,ad83bbfc-c153-533a-bb97-700a7db721e0
+mlir_aie_jll,2db12af9-d9f4-5b21-b666-63f8a71d6323
 mlir_jl_tblgen_jll,3dcf74f3-6bc3-597e-9d13-043388c3118a
 mlpack,cf18a64e-e90e-11e8-37b7-fb5df6478bc0
 mlpack_jll,156a7db3-27ba-586e-a86b-f061da4f95ea
