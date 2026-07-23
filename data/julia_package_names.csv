@@ -39,6 +39,7 @@ AFLplusplus_jll,2a46d845-6c66-546d-9393-effbe7e72607
 AGFFileReader,36dd7d7d-c279-4b5c-a024-2ba417cea492
 AIBECS,ace601d6-714c-11e9-04e5-89b7fad23838
 AIControl,3868d828-178d-56af-83e1-d523478a73cd
+AIE_LLVM_Toolchain_jll,e1663226-ec2a-58f4-a67b-3f55d12a6125
 AIFF,1b604ab5-8734-4983-954d-ef9ae1cbea4b
 AIHelpMe,01402e1f-dc83-4213-a98b-42887d758baa
 AISCSteel,599de4a1-440e-403d-8b33-ce14758023a2
@@ -824,6 +825,7 @@ BasicModelInterface,59605e27-edc0-445a-b93d-c09a3a50b330
 BasicPOMCP,d721219e-3fc6-5570-a8ef-e5402f47c49e
 BasicTextRender,c69498db-0706-4865-8aa9-71281a0ffe91
 BasicTreePlots,523fa316-3eda-45c7-ad2f-0d13a1dc3d77
+Basil,feaf5b71-8751-47ba-9a02-cb0324a07b35
 BasinVolumes,5eaeaa69-2339-4f0b-83bf-0f19e045deca
 Basinhopping,9e7568c4-705a-47cd-b25f-0976344ae296
 Basins,7e5b28ef-eee2-49be-86fd-c343c6921134
@@ -3692,6 +3694,7 @@ FastIsostasy,80efc11e-3694-4407-a4bf-24e5955cde3d
 FastJet,8509a5d2-ae42-11e8-0b46-5d0ace601ee4
 FastJet_Julia_Wrapper_jll,33ff6b16-4e4c-5b96-9396-f34816859298
 FastJet_jll,7111ce8a-33e8-59c0-b870-b64149b8fb4c
+FastLOESS,c279703f-da8c-4b11-8b1f-668c81ca24ad
 FastLOWESS,5d760c97-4851-4f57-8eaf-1b3e829bbf83
 FastLapackInterface,29a986be-02c6-4525-aec4-84b980013641
 FastLevenbergMarquardt,7a0df574-e128-4d35-8cbd-3d84502bf7ce
@@ -4611,6 +4614,7 @@ GithubMarkdown,ecb7cac2-dae3-4a6f-a5f6-8274be99c6cb
 GittinsIndices,528e2044-b1ef-47f1-a8f4-693ac85d91f9
 GivEmXL,dcf505f5-2bf4-45cb-8fef-5f56a3c0e7fc
 Givaro_jll,718b8d5e-48ce-516c-962d-6f755aae6f80
+Glenn,d531567c-0c1c-43c6-9163-287e3bec9c15
 GlibNetworking_jll,99fd4003-298c-58dc-a8c7-c8e9475755a1
 Glib_jll,7746bdde-850d-59dc-9ae8-88ece973131d
 Glibc_jll,452aa2e7-e185-58db-8ff9-d3c1fa4bc997
@@ -7876,6 +7880,7 @@ NodeJS_16_jll,a4b94fbf-73f5-58ff-888d-48a8396e17f6
 NodeJS_18_jll,c1e1d063-8311-5f52-a749-c7b05e91ae37
 NodeJS_20_jll,c7aee132-11e1-519c-8219-0a43005e73c2
 NodeJS_22_jll,8fca9ca2-e7a1-5ccf-8c05-43be5a78664f
+NodeJS_24_jll,30a2228f-09fe-513d-9563-0d10bd40449a
 NodeTree,2904b71e-4df0-4a82-a724-4bbee9184de7
 NodesAndModes,7aca2e03-f7e2-4192-9ec8-f4ca66d597fb
 Nodiv,6a6d1b09-ff88-4671-a19a-d516f2482c79
@@ -13310,6 +13315,7 @@ ZlibNG_jll,c62bbaca-5768-5b75-85e2-9a0ea54e1624
 Zlib_jll,83775a58-1f1d-513f-b197-d71354ab007a
 Zomato,f91f2aa8-3cb3-52ab-b009-b9f47c1c1b27
 ZonalFlow,728887dd-28ad-4880-9c43-8461f4f025ea
+ZoneDetect_jll,24ca0ffb-f746-576f-a181-aedacd1148c5
 ZoneProfilerTracy,e1916cde-5bbf-401f-b637-13ab0c87f0f0
 ZoneProfilers,402d8ed9-92af-47cb-aae4-ae215e44b74b
 Zotero,a6782e42-190c-4b39-989d-970618284c73
