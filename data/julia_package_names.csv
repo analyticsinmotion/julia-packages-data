@@ -741,6 +741,7 @@ BOSS,15052f3f-a82a-4ca3-bbc4-f478a3bd1ae2
 BPFnative,b6338580-32ea-11e9-1791-33a79977d8c4
 BPGates,2c1a90cd-bec4-4415-ae35-245016909a8f
 BPNET_jll,6d003e1e-9eb9-5314-b82e-2a0f9b6bc0eb
+BPosits,8a7cb713-368b-48d9-84fe-cff0fadda989
 BQCESubroutine,29e2bfda-5ba7-471c-9125-afac425f1f80
 BQPD_jll,1325ac01-0a49-589f-8355-43321054aaab
 BSDESPOT,e87855f3-d877-40b7-8600-5f1cc2d263ad
@@ -2407,6 +2408,7 @@ D3_jll,4483d8a1-97c0-5c1a-b7ea-a115040394ce
 DACE,f4439622-e757-4457-9ca0-f65a61d23f40
 DACE_jll,40de70a5-cf80-53d9-bda4-3aa67fea2f4f
 DAEProblemLibrary,dfb8ca35-80a1-48ba-a605-84916a45b4f8
+DAGMakie,4e3bd891-6b6d-4d36-a31e-f0404dd10c7d
 DAMMmodel,7af7f183-cd03-4039-bf6b-67ea3eb1648d
 DANDIArchive,47d7f1a7-5a03-43cb-9594-a2dfa8fa9501
 DAQP,c47d62df-3981-49c8-9651-128b1cd08617
@@ -7451,6 +7453,7 @@ MotifSequenceGenerator,7d228ccb-0fc9-53c8-a429-8c9b5b572bc3
 MotionCaptureJointCalibration,d0551c8d-3c54-58b6-a75a-e266c30cc699
 MotionPlanningOptimization,3c0c87de-e99a-45ee-acb8-6f5f6f7d0613
 MotivationalQuotes,724a119f-db80-47b0-bd89-50af95d0d526
+MotivicHomotopy,d0903492-03b1-4f76-bdfa-f29fa67f03a6
 MovingBoundaryMinerals,ede1ac2d-c776-4409-bf2f-c421e41a2d87
 MovingBoundaryProblems1D,a903a81a-d576-4eaa-89dc-ab2b94f0d51c
 Mozi,938b0b66-b18d-59c3-b436-87bb841ccf42
@@ -7871,6 +7874,7 @@ NistyPQC,2b8046e5-a088-403d-a84e-acdf171f9a66
 NoLimits,1d491b74-35a5-408f-ae19-cf8524c3769d
 NoRainbows,0123455d-aa4f-468e-93ab-d299a68444db
 NoSleep,95f667b2-49e0-4955-80bd-390d74d178c7
+Nobelium,c0be6d65-1a90-4794-95a4-5e06952dcdf2
 NodalPolynomialSpaces,0b197c3a-da26-4bf3-b373-765e7d9e4c53
 Nodariety,ffab58b1-199d-4bd9-83d9-8aaad2b4ff2e
 Node2Vec,c775ef22-2988-11e9-03e2-6f3df0344398
@@ -9780,6 +9784,7 @@ RFImpairmentsModels,9896bf05-9493-4e5b-be64-41b6a423b7e2
 RHClient,5a099233-690e-4980-908f-23971e54592d
 RHEOS,728860ae-c896-11e8-0b91-0f38ecad5046
 RICoverAlg,d692c182-a058-4be8-a8d1-a27943fde503
+RINEXParser,28565f2c-cea1-4611-871d-1d57561f65b6
 RIrtWrappers,3c499bf4-8795-40ff-83c0-5639be88f347
 RK4Light,b4bd6d93-059e-4964-b0e5-1e0f552f15ad
 RKOpt,ead69dcd-9d07-43d4-88a0-2b30abaca44a
@@ -9818,6 +9823,7 @@ RTFTable,1667cc47-68f3-4867-92cf-6a18fe89e349
 RTLSDR,71cfaeeb-f3e6-59e7-80b9-1b8c23d8f010
 RTableTools,76227a05-389e-44bd-84ad-996dde4b1834
 RadarDOU,b215f3ee-f595-4fe5-b8c8-0294062d26ac
+RadarData,d8ecf537-26b2-4b6a-83c8-385f3b036fff
 RadeonProRender,27029320-176d-4a42-b57d-56729d2ad457
 RadeonProRender_jll,e92fa02b-1b7a-5e4e-a5cb-14fe26dfc45b
 RadiK,c173e4ef-a5d8-447f-8df0-20ebc266f2f3
@@ -14001,6 +14007,7 @@ xfoil_light_jll,70cc596b-f351-5640-b155-76ddf0ff62ca
 xhyve_jll,df5f24a2-ce61-5be2-97f7-106f5424b9fe
 xkbcommon_jll,d8fb68d0-12a3-5cfd-a85a-d49703b185fd
 xrootdgo_jll,9d84c17e-11f2-50ef-8cc9-e9701362097f
+xrt_cxxwrap_jll,234b3921-e25d-5fa7-97e5-3959209f55eb
 xrt_jll,bb401bc5-fb22-5674-bf0e-333823e8805f
 xsimd_jll,9e151094-6d0c-5a5c-8bf5-2fcad2e63db9
 xsum_jll,e979a739-315a-50ee-b437-b496a9503be1
