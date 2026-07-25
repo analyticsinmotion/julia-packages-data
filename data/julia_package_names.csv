@@ -2433,6 +2433,7 @@ DDR2import,60aac331-f4ad-4f7f-9ae1-33a16d2a93d1
 DDSCAT_jll,312f84d5-d503-53e6-9a69-f195a5e458d6
 DE9IM,5483dedb-0874-478e-8d7a-8c665bf87f01
 DECAES,d84fb938-a666-558e-89d9-d531edc6724f
+DECUHR,d5c0ea0e-a2e6-4e56-a5f3-17f3ec7c9d22
 DEDataArrays,754358af-613d-5f8d-9788-280bf1605d4c
 DEMetropolis,b4be8cd2-ef9b-406c-8da0-f1f18fb2b05e
 DFControl,1e31e15d-4957-550d-a244-318eced754ae
@@ -3421,6 +3422,7 @@ EvoLinear,ab853011-1780-437f-b4b5-5de6f4777246
 EvoTrees,f6006082-12f8-11e9-0c9c-0d5d367ab1e5
 Evolutionary,86b6b26d-c046-49b6-aa0b-5f0f74682bd6
 EvolutionaryModelingTools,faf572ed-2b53-4324-a741-daa175e50348
+EvolvingDomains,f9bd8acb-b7a8-42b3-8348-bb9bbfd76943
 EwaldSummations,329efeb5-5dc7-45f3-8303-d0bcfeef1c8a
 Ewalder,2efd4204-53b6-4d30-8cf4-11a055f037eb
 ExSup,7b39b095-d77a-58fa-8447-59aa0294474b
