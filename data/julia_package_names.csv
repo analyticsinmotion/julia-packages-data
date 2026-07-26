@@ -444,6 +444,7 @@ Arborist,226a4f77-d45f-40bb-908f-e1e2bc89957a
 ArcadeLearningEnvironment,b7f77d8d-088d-5e02-8ac0-89aab2acc977
 ArcadeLearningEnvironment_jll,52cbb755-00ff-5a24-b23e-8a91c598877e
 ArchGDAL,c9ce4bd3-c3d5-55b8-8973-c0e20141b8c3
+ArcheoGra,ac25dc1a-1bb7-42f7-b2a4-37a6dc8497a1
 ArchimedLight,ca362a0f-208d-4994-8e0e-d922fd0d438a
 AreaInterpolation,d0f2625a-dce2-41fa-8f52-900cefdd6e0e
 Arena,53eacc40-fba4-5ad6-b4bb-526e51630e63
@@ -4627,6 +4628,7 @@ Glimmer,55254e13-1f76-49cc-b115-017fbe569f93
 Glo,578b42c6-ccb1-11e9-3f90-91546bb1a07d
 Glob,c27321d9-0574-5035-807b-f59d2c89b15c
 GlobalApproximationValueIteration,277f244e-4908-11e9-33c2-5d5365097ef8
+GlobalDiffEq,1d72d19b-84cc-4cb7-a099-7cbdb9ccc67c
 GlobalMatchingModels,11a73c71-dc4d-46b1-87d0-e844fed3dbfc
 GlobalMetadata,44ab47fd-db85-4242-8804-764e64c491dd
 GlobalSearchRegression,5b3bc22e-96cb-5e8b-bdf1-153217652f04
@@ -10114,6 +10116,7 @@ ReplGPT,8ef5fce9-1516-4e06-b171-18cb54ddb04b
 ReplMaker,b873ce64-0db9-51f5-a568-4457d8e49576
 Replay,dd78c5bf-19c4-4e9c-96ce-c3ec745c7812
 RepliBuild,4450f29b-7b71-45c6-8742-e7520a479938
+RepliBuildTooling,ed31e70a-aea5-4eed-a02f-c0a3280e17d9
 ReplicateBE,671d9d50-c343-11e9-1a9c-fdd992682823
 RepoPacker,0492b770-a617-4b26-af09-22e984124158
 RepoSnapshots,44eb87bc-f37b-45e8-9f53-3bcb453a652d
