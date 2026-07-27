@@ -11662,6 +11662,7 @@ StructuredOptimization,46cd3e9d-64ff-517d-a929-236bc1a1fc9d
 StructuredOutputs,a64ab3a6-1e61-46d9-9cad-3303c166b426
 StructuredPrinting,98e085c8-1edc-4d9d-bf3b-8d7a8502c19d
 StructuresKit,f6c18a9d-8941-4a0a-88a3-c5fc4dcc4715
+Strumento,9a96c2ab-728f-48d1-a688-c746ce4d362f
 Struve,bbbc800e-c7bf-11e8-107b-9b6d1d23829a
 Stuffing,4175e07e-e5b7-423e-8796-3ea7f6d48281
 StyledStrings,f489334b-da3d-4c2e-b8f0-e476e12c162b
@@ -12625,6 +12626,7 @@ UniLM,2a65a866-de6b-4bc8-8daf-c130204fdf93
 Unicode2LaTeX,a6a4b4a1-58ae-5f2f-bbf9-c7004aa6538b
 UnicodeFun,1cfade01-22cf-5700-b092-accc4b62d6e1
 UnicodeGraphics,ebadf6b4-db70-5817-83da-4a19ad584e34
+UnicodeMaps,93404ded-f489-4c96-9f3f-351522718b35
 UnicodePlots,b8865327-cd53-5732-bb35-84acbb429228
 UnicodeREPL,386912cb-a936-462a-a347-7bd6cef0b04e
 Unicode_Entities,a8aa15d3-c567-5e9f-b6cc-4b0f97f09cf7
@@ -12872,6 +12874,7 @@ VlasiatorPyPlot,de93d4bb-68ab-4e1d-9036-cf3c624bd395
 VlasovMethods,4a954452-39e6-424b-ae51-38fc4bbc42ef
 Vofinit,1beee101-8e09-4165-b3f9-a3e33534e38b
 VolumeEstimation,5dc268c4-7dbc-45e8-9d5a-a4858d7b40d1
+VolumeRendering,16f7ad8c-d856-4500-a529-cf73ac8ee665
 VoronoiCells,e3e34ffb-84e9-5012-9490-92c94d0c60a4
 VoronoiDelaunay,72f80fcb-8c52-57d9-aff0-40c1a3526986
 VoronoiFVM,82b139dc-5afc-11e9-35da-9b9bdfd336f3
