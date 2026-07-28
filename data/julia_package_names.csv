@@ -863,6 +863,7 @@ BayesDensityPitmanYorMixture,9da0b0c8-0459-4567-a5a4-3605fb8f6d57
 BayesDensityRandomBernsteinPoly,0b3787ab-bd9c-4026-b901-8cf5c1b442b9
 BayesFlux,c2416e8a-86ea-414a-9a91-c37c770c1547
 BayesHistogram,000d9b38-65fe-4c81-bdb9-69f01f102479
+BayesInteractomics,07c96638-0f98-4a6b-9a09-78dfb944548d
 BayesKNN,7ac7b2fc-d795-4232-af45-0788aa9f4abc
 BayesNets,ba4760a4-c768-5bed-964b-cf806dc591cb
 BayesOpt,8b8fa57b-2f72-5ccd-8d28-750de228707b
@@ -1555,6 +1556,7 @@ CanadianClimateData,4ac68c5e-d36a-4901-8cb5-da7e3d304538
 CancellationTokens,2e8d271d-f2e2-407b-a864-17eb2156783e
 CancerImagingArchive,1c555f4c-8d6b-45c3-bbc1-c64989f538fe
 CancerSeqSim,c7b3ebfe-d098-56ea-b529-6cf0bac1b5f3
+Candela,ff21f93b-0c2c-4430-a323-352be2385086
 CannotWaitForTheseOptimisers,16124dda-d9fe-413b-a880-e3f4df3aa341
 CanonicalTraits,a603d957-0e48-4f86-8fbd-0b7bc66df689
 CanopyLayers,677f5362-5107-42e4-8e81-51d9c4a1f96c
@@ -1902,6 +1904,7 @@ Clp_jll,06985876-5285-5a41-9fcb-8948a742cc53
 CluGen,48a2e8d8-1966-47f1-a982-993d59b21037
 ClustForOpt,f34a0dec-cdff-52ca-a698-8a683c311173
 ClustalO_jll,0dad4a17-6433-5fde-a0a0-daebbaba7b50
+ClusterAlgebras,8a79f08c-43aa-40ef-a276-b8dea658c9b1
 ClusterAnalysis,10587292-549a-4141-aed9-b9dca56acf27
 ClusterDepth,c8d8bbfa-f476-4995-adff-2987f04015d1
 ClusterEnsembles,e493a4bf-88d6-40ad-84dc-847a9b000e38
@@ -2060,8 +2063,10 @@ ComplexityMeasures,ab4b797d-85ee-42ba-b621-05d793b346a2
 ComponentArrays,b0b7db55-cfe3-40fc-9ded-d10e2dbeff66
 ComponentLogging,3f6ec708-df3b-46b4-8b70-ec9fa53b9f7d
 ComposableCommands,b5b47461-4a42-4db3-bdf2-684fadd57bc3
+ComposableTuringIDModels,cbebd14a-101c-4997-a79f-d008ad7c07b2
 Compose,a81c6b42-2e10-5240-aca2-a61377ecd94b
 Compose_jll,e873ae9d-44a3-5462-8644-8142b0051222
+ComposedDistributions,2f642b71-32a9-4f47-97c4-6deb7517f7a7
 CompositeGrids,b5136c89-beeb-4521-9139-60d2cac8be56
 CompositeStructs,534720e6-2374-40c5-8712-bf9a2f1643c6
 CompositeTypes,b152e2b5-7a66-4b01-a709-34e65c35f657
@@ -4002,6 +4007,7 @@ Fontconfig_jll,a3f928ae-7b40-5064-980b-68af3947d34b
 FoodWebGenerator,4db817a8-46bb-4510-89f6-f1be49ca3193
 ForSyDeIO,2530d2c0-90ae-4e22-bd10-17e782bf2dab
 ForTheBadge,64e55fb5-fece-45e4-9f07-6b725a6cb483
+ForceCouplingMethod,7a5e5976-cca4-4592-9cc6-b4f5aae2794e
 ForceImport,9dda63f9-cce7-5873-89fa-eccbb2fffcde
 Forecast,6efb3b9f-b065-4dd1-b1a5-fac2350e161b
 ForecastAccuracy,b9d94c12-295a-11ea-066b-bff6e5bc6a33
@@ -4973,6 +4979,7 @@ HealthMLBase,607c11b8-770f-4df0-ace8-6eaa1ea2719e
 HealthSampleData,b8464e9a-ae38-46a4-977b-86f00930f698
 HeartBeats,83f3aa3b-6833-4362-9025-7697c9f4e58d
 HeartRateVariability,0047d930-76bf-11ea-1377-bb3cda807e9f
+HeatStress,c9d8216c-ea74-476f-aa8c-bb789241bdba
 HeatTransfer,4030f512-cedb-5907-ac7f-4ab05ad75ee7
 HeatTransferFluids,44505bb3-94ea-493c-a20c-f0ca548ab76b
 Hecke,3e1990a7-5d81-5526-99ce-9ba3ff248f21
@@ -10791,6 +10798,7 @@ ShaneGPUCountMinSketch,910541cc-34bb-47a1-b3fd-5231dc2195e0
 ShapML,8523bd24-6f66-414b-9e1e-b02db3916d64
 ShapeConstrainedStats,f73efea4-6d21-11e9-25ff-9b1447cfbccb
 ShapeFactory,5f2830c0-a9f2-11e9-177d-47448fa133db
+ShapeLib_jll,d5517b79-cbb5-531d-9958-e3d757b17105
 Shapefile,8e980c4a-a4fe-5da2-b3a7-4b4b0353a2f4
 ShapesOfVariables,b3480ff6-a2af-506e-a6b8-61d160ca6532
 Shapley,855ca7ad-a6ef-4de2-9ca8-726fe2a39065
