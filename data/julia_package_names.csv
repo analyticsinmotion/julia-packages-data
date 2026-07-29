@@ -1624,6 +1624,7 @@ CausalGPSLC,e033fc31-0bf0-4add-9518-8e0675b669ea
 CausalGraphs,68db26a2-7c2b-457b-8f5d-f446513faf50
 CausalInference,8e462317-f959-576b-b3c1-403f26cec956
 CausalSets,2cd3ca5d-4cd6-4e37-88b9-1a897f702e70
+CausalStructures,b41ab49a-79bc-5eac-acbb-517b17bd5c16
 CausalTables,6af48e0c-efc2-4bf7-a92f-a553ccf79fd6
 CausalityTools,5520caf5-2dd7-5c5d-bfcb-a00e56ac49f7
 CausalityToolsBase,b1f25513-c649-51ee-8a1c-0e98d01ae897
@@ -10166,6 +10167,7 @@ RestrictedBoltzmannMachinesHDF5,d76020e8-6658-45fa-bb6d-0aaddbb4b5e5
 ResultTypes,08a2b407-ddc3-586a-afd6-c784ad1fffe2
 Results,a6f57dee-de39-11ea-01ba-9f0f7c89923c
 ResumableFunctions,c5292f4c-5179-55e1-98c5-05642aab7184
+Resurgence,e14374e1-e109-4f80-b5da-7e76adde5713
 Rete,3d46c559-9b3d-4aba-9ca1-48ff7627231e
 RetentionParameterEstimator,0afdae40-3141-486e-b874-33af99ac38b5
 Retriever,ed6da631-2423-57d3-8e4b-223f43b45c0c
@@ -13990,6 +13992,7 @@ tree_sitter_rust_jll,b2197e8e-fe20-5781-846b-d7979e3cddf2
 tree_sitter_spirv_jll,f0e86581-c468-54df-a4de-3266e11a3c86
 tree_sitter_toml_jll,a1529afc-395a-556b-957c-713caec82e13
 tree_sitter_typescript_jll,dfa7e5a0-2128-5201-bc87-2ee6cd674210
+tree_sitter_zig_jll,e1cfee01-1dc3-5dd5-a37d-16d5768a68f0
 uCSV,e0b4c2ea-889f-54df-a5e0-fe74b3c892fd
 uconfig_jll,d163f6d1-60cd-57a6-95f2-34bbfba0af3c
 umesimd_jll,5f48918c-46a5-5bc9-aa52-10e03b443aad
