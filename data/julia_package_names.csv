@@ -4589,6 +4589,7 @@ Gettext,a6aca261-61b0-5b33-a99a-e9c977ffa089
 GettextRuntime_jll,b0724c58-0f36-5564-988d-3bb0596ebc4a
 GettextTiny_jll,37e82e6c-0fe7-5636-990f-a992debc3586
 Gettext_jll,78b55507-aeef-58d4-861c-77aaff3498b1
+GfPEPS,7e6252e7-9b54-41b9-ba34-49133c8d2380
 Ggplot2,5eb46db9-241e-4516-b2d9-6a99246a435a
 Gherkin,30f46725-be1c-4b6b-9edd-e96e9b6c9ac9
 GhibliPalettes,90723813-cdbc-4127-ac5b-633cd2ebf9f7
@@ -12537,6 +12538,7 @@ Txtar,2ff7fb67-0b19-4596-a253-8a4967e84b26
 TyJuliaCAPI,1486cb26-f54f-432e-872f-e0f1867150a0
 TyPython,9c4566a2-237d-4c69-9a5e-9d27b7d0881b
 Tyler,e170d443-b9d6-418a-9ee8-061e966341ef
+TypeAgnosticSerialisation,711d1e8a-e0c5-5f25-919c-2a5a262959e5
 TypeClasses,addcc920-e0cf-11e8-30b7-0fb08706b574
 TypeCompletion,8f700d64-2ec0-4e18-b562-010c3a374dda
 TypeContracts,c7a3f1e2-84b5-4d69-9e0a-1f2b3c4d5e6f
@@ -13339,6 +13341,7 @@ ZlibNG_jll,c62bbaca-5768-5b75-85e2-9a0ea54e1624
 Zlib_jll,83775a58-1f1d-513f-b197-d71354ab007a
 Zomato,f91f2aa8-3cb3-52ab-b009-b9f47c1c1b27
 ZonalFlow,728887dd-28ad-4880-9c43-8461f4f025ea
+ZoneDetectDatabase_jll,6d35ad4d-49b8-5607-b449-f43282573851
 ZoneDetect_jll,24ca0ffb-f746-576f-a181-aedacd1148c5
 ZoneProfilerTracy,e1916cde-5bbf-401f-b637-13ab0c87f0f0
 ZoneProfilers,402d8ed9-92af-47cb-aae4-ae215e44b74b
