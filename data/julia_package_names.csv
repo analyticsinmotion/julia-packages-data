@@ -1621,6 +1621,7 @@ Catsay,5193907d-d586-5f94-a3e6-8b6fe67f210a
 Catwalk,860e6890-8a08-4313-9643-fcac6eb69798
 CauViz,5b45a83c-ea24-4d48-a31b-aaf72ae2b431
 Causal,c45f814d-238a-4fdc-b3d7-673e55950ac7
+CausalDynamics,823b1367-efac-4af0-bbfc-73ee462bce07
 CausalELM,26abab4e-b12e-45db-9809-c199ca6ddca8
 CausalForest,31bdf679-24a7-499a-9be9-b214c66174ea
 CausalGPSLC,e033fc31-0bf0-4add-9518-8e0675b669ea
@@ -5169,6 +5170,7 @@ HyperbolicCrossApprox,db4fe9aa-a353-4142-ac3f-608941c5a4fc
 HyperbolicNumbers,1063c4aa-4f19-47e3-87f6-d15aa8c8d36c
 HyperbolicPlane,0111da9b-5c18-507b-82d1-0701aba3485a
 HypercubeTransform,9ec9aee3-0fd3-44c2-8e61-a50acc66f3c8
+HyperdimensionalComputing,ebb7690e-f605-4e7a-86a0-727dbed6b293
 Hyperelastics,c20c605d-adbe-46e4-9db6-e2b04c3ba023
 HypergeoMat,45a664f0-7593-4733-b76c-60f36ef4c15f
 HypergeometricFunctions,34004b35-14d8-5ef3-9330-4cdb6864b03a
@@ -5883,6 +5885,7 @@ KernelMachines,6717196d-eae9-43d0-801c-fc416e8966f6
 KernelMethods,d79e8f30-5872-11e9-0dab-2d1842b87615
 KernelOps,96fb99f5-d28b-4914-8161-ce02e97273ad
 KernelSpectralDensities,027d52a2-76e5-4228-9bfe-bc7e0f5a8348
+KernelTuner,d8e2316b-1d0f-4d2d-8459-42354ee22310
 KerrGeodesics,53139c06-1eed-45f1-8780-9fca08ecab11
 Ket,412c778c-4733-41d8-b706-9e072557ba34
 KeyCounter,f308447f-e99f-46ec-ad9e-5a4c598148f8
@@ -6502,6 +6505,7 @@ LogParser,e1e0bead-d0c8-5de7-863f-c4b0e859faac
 LogProbs,0810563c-c8a8-53be-b185-e51c33dc41ea
 LogRoller,c41e01d8-14e5-11ea-185b-e7eabed7be4b
 LogSpline,6b40cf57-2cb8-450d-abd9-e1a605a46c2e
+LogStatFunctions,1b3c2205-da69-4893-b2df-717075b12251
 LogarithmicNumbers,aa2f6b4e-9042-5d33-9679-40d3a6b85899
 Logfire,afd33542-d123-4ba1-bea0-67b5a7deb1ad
 Logging2,18cd0bd4-3461-488c-9dae-1a490b172243
@@ -7183,6 +7187,7 @@ Metida,a1dec852-9fe5-11e9-361f-8d9fde67cfa2
 MetidaBase,075456b7-4006-432f-9324-2f8453996c49
 MetidaBioeq,00e1d80e-504f-4d7b-946f-0aea2e7abfe3
 MetidaCu,dbe4a1c8-7bb7-46c3-acb3-40ea3d5c6ceb
+MetidaFlows,755c5ba7-8e48-4bab-b874-155758dbfa11
 MetidaFreq,bd16ee1e-1b2f-4f89-b253-604a522f8c5f
 MetidaNCA,097c2839-c7bc-4c4b-a5f2-b4167c1b4e7c
 MetidaNLopt,4e1362ca-e5a0-4237-9ffd-bca39e5440e3
@@ -8712,6 +8717,7 @@ PartiallySeparableNLPModels,7f79d04d-aed5-44bf-a878-92b5ccf934e0
 PartiallySeparableSolvers,ee47c953-e16d-47b3-8c84-b49e0fa97f8a
 ParticleCorrelations,2bdc0d93-21f3-4e16-a26e-769a2eaf80d4
 ParticleDA,61cd1fb4-f4c4-4bc8-80c6-ea5639a6ca2e
+ParticleDynamics,12ca460a-85bb-48c4-9960-620229cee2bc
 ParticleFilters,c8b314e2-9260-5cf8-ae76-3be7461ca6d0
 ParticleHolography,b8f7f481-73e0-42c6-b6bd-c66d3b4942cc
 ParticleInCell,3f496205-d90f-4778-83b9-652c261f54b9
@@ -11240,6 +11246,7 @@ SparseBase,8047a082-0763-4c4f-a23b-a4a948721f1d
 SparseColumnPivotedQR,a57abbd0-fea5-4d57-96be-5e525945e8e4
 SparseConnectivityTracer,9f842d2f-2579-4b1d-911e-f412cf18a3f5
 SparseDiffTools,47a9eef4-7e08-11e9-0b38-333d64bd3804
+SparseDimArrays,aaf8ef49-9f55-49a6-8298-fb22be06f5e0
 SparseExtra,9b3c4d32-3d7d-4a87-a5c7-b3f87cf9d22b
 SparseGaussianProcesses,48e2ed6f-953e-42f9-a56e-74c660f20e0a
 SparseGridQuadrature,783fc400-e4cb-4fe0-842f-3d091e33b2c9
@@ -13362,6 +13369,7 @@ ZoneDetect_jll,24ca0ffb-f746-576f-a181-aedacd1148c5
 ZoneProfilerTracy,e1916cde-5bbf-401f-b637-13ab0c87f0f0
 ZoneProfilers,402d8ed9-92af-47cb-aae4-ae215e44b74b
 Zotero,a6782e42-190c-4b39-989d-970618284c73
+ZstdInflate,357b4dbe-ca3e-425f-8b58-c37fe13fa826
 ZstdSeekable_jll,86ac9985-db92-5090-8b9c-ec8f613186b3
 Zstd_jll,3161d3a3-bdf6-5164-811a-617609db77b4
 ZulipStream,90cb88a9-eac6-49a0-8eb4-35a012fbf11f
