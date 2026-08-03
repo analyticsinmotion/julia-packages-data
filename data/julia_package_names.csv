@@ -1209,6 +1209,7 @@ BoolExprs,00a27e70-1d62-540f-bcdc-a22b13a847b1
 BootlegCassette,7e930afe-c91a-4d40-8977-8548870aff83
 Bootstrap,e28b5b4c-05e8-5b66-bc03-6f0c0a0a06e0
 BootstrapVirasoro,ca6c609c-7c6b-4ea6-be06-ee6e3ced7d6c
+BoreholeResistance,e68eaff3-538a-4178-bf62-7dbf06caf399
 BorrowChecker,7bdcaa52-c310-4bb0-bf54-d941056ed284
 Borsh,e0ca245e-e2d4-4924-a0cc-c0f16c675cd2
 Boscia,36b166db-dac5-4d05-b36a-e6c4cef071c9
@@ -1451,6 +1452,7 @@ CTBase,54762871-cc72-4466-b8e8-f6c8b58076cd
 CTBenchmarks,db1dffaa-5ed3-4583-9a66-b5881c82ef11
 CTDirect,790bbbee-bee9-49ee-8912-a9de031322d5
 CTFlows,1c39547c-7794-42f7-af83-d98194f657c2
+CTLie,6880e05b-3a7d-4cac-887c-30cb52c5fdde
 CTModels,34c4fa32-2049-4079-8329-de33c2a22e2d
 CTParser,32681960-a1b1-40db-9bff-a1ca817385d1
 CTSolvers,d3e8d392-8e4b-4d9b-8e92-d7d4e3650ef6
@@ -4304,6 +4306,7 @@ GRCore_jll,f74edf77-fc28-5533-a68a-cacf3c4a2f46
 GREMLModels,da4a04c4-868a-4285-9821-73fa1c6f6848
 GRIB,b16dfd50-4035-11e9-28d4-9dfe17e6779b
 GRIBDatasets,82be9cdb-ee19-4151-bdb3-b400788d9abc
+GRMHDSnapshots,01234567-89ab-cdef-fedc-ba9876543210
 GRQt5_jll,be234c1c-6cf4-5063-8676-3229d64ce17a
 GRQt6_jll,03d9041e-b4d2-508d-8c1c-d30ef48c1ce0
 GRUtils,0337cf30-a0fd-11e9-31db-a79914c9d7ac
@@ -4710,6 +4713,7 @@ GradientMethods,5b99f244-f0f2-4726-ae95-e2da6d7785de
 GradientRobustMultiPhysics,0802c0ca-1768-4022-988c-6dd5f9588a11
 GrafCSV,070ba913-1d04-4147-8b30-d43c8af0fb3e
 Graficos,908a5197-780b-4ffb-a736-f299f747b567
+GrammarOfGraphics,c00c8485-9aac-4319-bba4-e242535f49e2
 Granular,f5c4805d-b585-58fe-b08a-e9c59614aa64
 Graph500,1ba61846-84f7-5936-906d-801d78ac1a4a
 GraphBLASInterface,5f047416-9681-11e9-0804-033d9936201f
@@ -4816,6 +4820,7 @@ GroebnerBasis,e39c9192-ea4d-5e15-9584-a488c6d614bd
 GroebnerWalk,6dc8777d-2b0c-4de5-9e3c-426c1820f6f9
 GroqClient,711eb22d-91dc-437e-b59a-359d7c588a21
 GroundMotion,1a1bcaad-b889-5540-93fc-02c6735e0f5a
+GroundResponse,4e068bfd-c84d-4e7d-af33-179ff9550968
 GroundwaterPlots,4497dbff-a3fd-4ae5-909f-dd1339757ac3
 GroupFunctions,187e6719-d2a6-4c17-9b39-0c99811c6bd2
 GroupNumbers,3c80737e-c28d-49fd-9c64-d7d44b4f4ed8
@@ -5135,6 +5140,8 @@ HyDistFlow,ec11561a-3d46-4613-8fbe-e5ccb3a9c72d
 HybridAStar,123b5ccf-89cf-4973-9536-c0f20d353bb2
 HybridArrays,1baab800-613f-4b0a-84e4-9cd3431bfbb9
 HybridDynamicModels,7e133797-8c8e-49d9-acf3-b153daa40e06
+HybridDynamics,6b3332bd-f7e8-4dca-bbbd-4128c12b268e
+HybridNDFTOperators,713514fd-9d01-4144-afcb-d8bed9a7372b
 HybridStructs,49057fa9-d513-5ef6-ae80-2dc68a70a2bd
 HybridSystems,2207ec0c-686c-5054-b4d2-543502888820
 HybridSystemsSimulations,bed98974-b02a-5e2f-9ee0-a103f5c450dd
@@ -5287,6 +5294,7 @@ ImGuiTestEngine,464e2eba-0a11-4ed3-b274-413caa1a1cca
 ImGuiThemes,deadbeef-cafe-face-babe-c0ffeedecade
 ImPlot,e8efc688-5342-4ad4-b4ba-9025a731b363
 ImPlot3D,03da1dfd-c074-4aa6-be59-b3ca78b4aa61
+ImPlotExtra,bf2a09a8-fe43-4b24-a47f-d3d0370c11fb
 ImageAnnotations,76a96b56-f16f-11e8-3761-3967fdcf98d3
 ImageAnnotationsIO,a23dbe5c-0729-48bd-99f5-ede0f658dfcb
 ImageAxes,2803e5a7-5153-5ecf-9a86-9b4c37f5f5ac
@@ -5406,6 +5414,7 @@ IndirectTrajOpt,99e47ffd-a99c-4d17-8b51-d4481b168213
 Individual,fc91e7d7-639c-4584-a1b8-453dd568b9a2
 IndividualDisplacements,b92f0c32-5b7e-11e9-1d7b-238b2da8b0e6
 InducingPoints,b4bd816d-b975-4295-ac05-5f2992945579
+InductionMachineDrives,d85c8359-f9b8-4611-8006-e67b7a824205
 Inequality,131cd6a8-f02b-4a66-8ce5-0a80ec47b73f
 Inertia,58d22092-de16-4bdf-bc5b-1f5634c2cdd0
 InfectionSpreading,2261ed0a-af22-4371-a226-613cb940b01c
@@ -10790,6 +10799,7 @@ SequenceVariation,eef6e190-9969-4f06-a38f-35a110a8fdc8
 SequencerJ,348581b9-6e84-42e0-ac4e-fe9177c221e6
 Sequent,3406161f-1d61-4e4e-ab9c-e99e0c076c20
 SequentialMonteCarlo,8c675823-c5d5-50f8-acb2-29aff48dfc1d
+SequentialProbability,a2378c81-d1d0-4311-bf09-3cc9385ef5a8
 SequentialSamplingModels,0e71a2a6-2b30-4447-8742-d083a85e82d1
 SequentialZfpCompression,a090a8c4-0549-4ee2-a6c2-f599d7ae654c
 Serd,42699a24-3520-5f41-a549-6a478ed667c2
@@ -12143,6 +12153,7 @@ TestPickerMCPServer,63d7f14d-ed93-5bb2-a437-c14ddc966d3c
 TestReadme,484a2c26-6e88-4a69-ae62-8a3d6c887535
 TestReports,dcd651b4-b50a-5b6b-8f22-87e9f253a252
 TestSetExtensions,98d24dd4-01ad-11ea-1b02-c9a08f80db04
+TestShards,acceef1d-f5e0-4fe4-a546-818dc56ce7b2
 TestTools,a8cb73c1-6ac8-4a70-8c57-09fe1bc7c59b
 TestU01_jll,1f073b57-2743-565b-a723-478df9911235
 TestingUtilities,40452611-1178-4e48-bdfc-3af4bebad9c9
@@ -12832,6 +12843,7 @@ Vcov,ec2bfdc2-55df-4fc9-b9ae-4958c2cf2486
 Vecchia,8d73829f-f4b0-474a-9580-cecc8e084068
 VectorAlignments,137e0234-31ad-43b7-8b27-b236525e28e1
 VectorBackedLists,64f724f3-1cac-477b-9517-c036ece31ef8
+VectorCalculus,8b35dbfe-171f-41ba-b368-f336add63a4e
 VectorInterface,409d34a3-91d5-4945-b6ec-7529ddf182d8
 VectorModesolver,8c544392-5fd9-4640-bea4-e12b3d59d9d1
 VectorPSFs,8910f421-7bf2-4b64-9cf8-3e7fe6cfee70
