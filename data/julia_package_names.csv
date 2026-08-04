@@ -5092,6 +5092,7 @@ HmtFacsimileBuilders,51afb9e0-fec5-4c9c-a749-28047e6f0de5
 HmtGutenberg,09780231-1698-4933-9d9d-4e01e0abea36
 HnswAnn,dff2f42d-5506-450f-a8d7-e8287f476a07
 Hodge,3c44080d-357b-4062-ad7b-6cab49ad4f79
+HodgeDiamonds,683f8233-a80c-4a96-9568-157369475735
 HolidayCalendars,805b3977-dd70-49b2-89e1-5b1e213f8a24
 HolidayJp,a0f9f270-aa2e-430a-aba3-8faa33662de6
 Holidays,6a61c59e-0e35-4be2-9181-ca44005fb204
@@ -8904,6 +8905,7 @@ PiCraft,6cc4b21d-cec8-58d5-a373-5cd579ce5971
 PiGPIO,bb151fc1-c6dc-5496-8ed6-07f94907e623
 PiMPC,e8a2dd3f-358c-491c-b12d-146b59c446fb
 PianoHands,74435128-bd9d-4d82-978b-bd768beb391e
+PicardLefschetz,356e5c01-6043-4289-b61b-2b899ed0f9ac
 PicardLefschetzIntegration,86202789-ec99-4348-b84a-34e9b1fc693e
 Piccolo,c4671d76-df94-11ed-2057-43d4fd632fad
 PiccoloPlots,f42a522c-b487-4f73-ad5a-ad0c3e4a12c8
@@ -10903,6 +10905,7 @@ SignedDistanceField,9a18c034-6024-4f9e-89ee-87be330f4587
 SignedDistanceFields,73760f76-fbc4-59ce-8f25-708e95d2df96
 SignedDistanceFunction,b0860ef3-f78d-49a5-98b3-8176f82dbb49
 SignedPerms,87930f55-5467-4ad4-bf41-f0163ea2f44f
+Silhouette,b03ac502-71dd-40f1-8c75-ac320752719f
 Silico,048c718f-54a7-45b2-94ea-30214ee46b03
 Silo_jll,f5d339c9-093b-5756-8f08-ceae06537255
 SimDNA,f325a362-c78e-481f-886d-076c680a7e4a
@@ -11083,6 +11086,7 @@ SlackClaw,916c34f9-65bc-4d80-9781-b3dc311e871d
 SlackSDK,fbce7cdf-2836-403b-b047-729f0088b997
 SlackThreads,a271ce43-5be6-465b-b549-2328063b090f
 Slacker,1fee779b-79a2-446d-a52f-d1aa38b3d5ab
+SlateExtensionsBase,bc31d39e-4442-48fa-b9ae-1bd99fed63f7
 Sleipnir,f5e6c550-199f-11ee-3608-394420200519
 SlepcWrap,c3679e3b-785e-4ccc-b734-b7685cbb935e
 SliceMap,82cb661a-3f19-5665-9e27-df437c7e54c8
@@ -12651,6 +12655,7 @@ UncertainData,dcd9ba68-c27b-5cea-ae21-829cd07325bf
 UncertainEvidence,1a86d166-648f-46fd-af52-fbd54890c8f1
 UncertainHistogramming,f2e1246a-0df0-4dad-8180-3a93ed78f8cd
 UncertainSkyCoords,0b2bc22c-b7e0-473f-8186-c840e49dfa80
+UncertainTea,9b1291ec-f7ff-476f-9e6f-459056809ae0
 UncertaintyQuantification,7183a548-a887-11e9-15ce-a56ab60bad7a
 Undefs,3f56377e-4191-4d51-b9b6-988a50b9b843
 Underscores,d9a01c3f-67ce-4d8c-9b55-35f6e4050bb1
