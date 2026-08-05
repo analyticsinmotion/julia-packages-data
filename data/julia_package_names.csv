@@ -149,6 +149,7 @@ AbstractSDRs,0bdde9fc-719a-4dc7-8589-49ca6634fa6b
 AbstractSDRs_rx_ascii_art_dft,6b81e7ba-832b-43c9-bb51-2e30242560d3
 AbstractSphericalHarmonics,ee470b23-2871-4f3a-b920-8523874a9e46
 AbstractStorage,14dbef02-f468-5f15-853e-5ec8dee7b899
+AbstractStores,b8592f88-5fd7-4e10-8c52-04e8e19aea3c
 AbstractTensors,a8e43f4a-99b7-5565-8bf1-0165161caaea
 AbstractTrees,1520ce14-60c1-5f80-bbc7-55ef81b5835c
 AbstractWallets,5f0830d6-faab-11e9-0c1a-a5525342cc9a
@@ -2064,6 +2065,7 @@ ComplexPhasePortrait,38ac1a67-8e16-5889-9a62-b2c9995eb50f
 ComplexPlots,1fd36721-02e5-4f31-ac70-029fcd7253d3
 ComplexRationals,fec49eec-9feb-41dd-a20b-fe4c3aae4e50
 ComplexRegions,c64915e2-6c82-11e9-38e9-1f159a780463
+ComplexSurvey,39ad1b59-4aec-4364-80b1-b0c20592df2d
 ComplexToys,7b41c207-ea06-4250-aacd-19be2e667afc
 ComplexValues,41a84b80-6cf2-11e9-379d-9df124847946
 ComplexityMeasures,ab4b797d-85ee-42ba-b621-05d793b346a2
@@ -5747,6 +5749,7 @@ Jokes,51dfaa90-333b-4553-a411-bc8026e4957c
 Jolab,0583885e-d035-482f-8ce1-fd86afbe19e8
 JolinPluto,5b0b4ef8-f4e6-4363-b674-3f031f7b9530
 JonkerVolgenant_jll,a885a4bc-65ec-5865-a301-890ce0af48d0
+Joovy,f0a2e3b4-5c6d-7e8f-9a0b-1c2d3e4f5a6b
 JordanForm,3e0f3a26-b485-4542-9924-3b1a11022d22
 Joseki,b588beb9-536a-5a7d-a241-c127386fde06
 JosephsonCircuits,23a5dba6-321f-4fcf-be1e-689e290df087
@@ -5856,6 +5859,7 @@ KahanSummation,8e2b3108-d4c1-50be-a7a2-16352aec75c3
 Kahuna,a159c9be-0176-11ea-0d64-b53c1d07f8ae
 Kaimon,d3856c55-31fd-4246-b7e8-380411123c01
 KaimonGate,5ee84a8c-75bd-412f-a7b8-4e6463aa635f
+KaimonSlate,f7b954f5-0334-4562-ac21-b005218ce1da
 KaitaiStruct,701c8e6d-1b01-4551-886b-1760f51f9f8d
 Kaleido,caafb194-7e8d-11e9-2724-d5981dd0806d
 Kaleido_jll,f7e6163d-2fa5-5f23-b69c-1db539e41963
@@ -9264,6 +9268,7 @@ PowerModelsProtection,719c1aef-945b-435a-a240-4c2992e5e0df
 PowerModelsRestoration,23adbb12-a187-11e9-26a2-eb4d4e6e68fb
 PowerModelsSecurityConstrained,53333297-f92c-5019-980b-942fc744b407
 PowerModelsStability,f9e4c324-c3b6-4bca-9c3d-419775f0bd17
+PowerModelsTopologicalActions,aa9d2d61-8a5b-47cb-baca-6462e1811a24
 PowerModelsWildfire,01a8e460-0890-11ea-3f19-8b8faecc21cc
 PowerMonitor,9e7e054f-393b-40f5-81e8-49c2b2540836
 PowerNetworkMatrices,bed98974-b02a-5e2f-9fe0-a103f5c450dd
