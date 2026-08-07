@@ -67,6 +67,7 @@ ANOVA,0825541b-7374-5e1e-93bd-72e337c8a986
 ANOVAapprox,5e027bd6-ab01-4733-8320-e0223e929ebb
 ANSIColoredPrinters,a4c015fc-c6ff-483c-b24f-f7ea428134e9
 ANSIEscapes,4e1dc58e-b9ed-4927-9fa5-f81941d7face
+AOCL,f52889c3-24a9-4d04-95e9-8e965a4fc4c7
 AOCL_jll,b124843c-0c82-53c8-91a7-62bfdd90e290
 ARCHModels,6d3278bc-c23a-5105-85e5-0d57d2bf684f
 ARDESPOT,d96c9ae4-3372-47d5-8a88-316ae77be8cf
@@ -4945,6 +4946,7 @@ HaloMF,0e139a23-195b-4aec-b8fc-e9aa4361bc8d
 HaltonSequences,13907d55-377f-55d6-a9d6-25ac19e11b95
 HamamatsuStreakFiles,9cf175da-80c3-439d-a199-cfd3547211b3
 Hamburg,fe294631-7164-4d0f-9497-e1b4dc4640c8
+HamiltonianExactDiag,46be3c60-2ac0-4ecc-a73a-6047605e59ae
 Hammerhead,5ded7e7b-b945-48ee-9a66-c5dce433a0a7
 HammerheadGUI,759a4b49-c2fc-4731-b9e2-38749bc182b9
 Hanabi,705708ad-e62c-5f47-9095-732127600058
@@ -7392,6 +7394,7 @@ ModiaPlot_GLMakie,16bb567d-e57a-496c-929a-1ee5ec86e21d
 ModiaPlot_PyPlot,59e4e452-c47b-403c-8686-89bfb73b4fba
 ModiaPlot_WGLMakie,16b38df6-6461-4cca-a131-658d59dc04ab
 ModiaResult,16a87621-1533-42f6-8e19-4a825980cec2
+ModifiedDistributions,664e6f8c-d74f-44d3-9f37-f82699103046
 ModifiedHankelFunctionsOfOrderOneThird,b1c65800-dbf0-11e8-0001-4d87e1e07e69
 ModifiedLatinHypercubeSampling,7da3f81e-1687-48ef-899a-d2f3e9601796
 Modland,2a2d4310-a4da-4416-b9e4-81e65019a994
@@ -10364,6 +10367,7 @@ RxInfer,86711068-29c9-4ff7-b620-ae75d7495b3d
 RxNav,204b4f30-d656-11eb-06dc-3b971f9bbb52
 RxnHelperUtils,58b8660e-aa37-4837-a287-8893ee0015f8
 RxvtKeyBindings,669f0021-236d-4bc5-9694-b723bfb83af1
+S2Geography,1ece8e93-3e15-4f65-8d0f-0986d38d672b
 S2Geography_jll,e70b04b4-ac82-5d66-a4c6-86165034a7c0
 S2Geometry_jll,846536d6-5c10-5069-b47f-45525c463cf9
 S2TwTrans,5cf70722-ebfd-496e-996c-d9fcb5a97026
@@ -11215,6 +11219,7 @@ SoleReasoners,eb5c4719-5716-4250-abf0-f5b4713e79ae
 SoleXplorer,5816ab97-8dbe-4a0a-b2fb-0334bd9876ed
 SolidModeling,87eb8544-cf78-4b0d-97e3-b7004341d5e9
 SolidStateDetectors,71e43887-2bd9-5f77-aebd-47f656f0a3f0
+Soliton,de7fb3a1-4e7f-4e82-aee4-7ca52755e5ed
 Sollya_jll,d0a0d62e-5946-5252-a47a-59d54c8a5a63
 SolveDSGE,00bf1f32-23ad-54cc-bf6e-3216db8a43a2
 SolverBenchmark,581a75fa-a23a-52d0-a590-d6201de2218a
