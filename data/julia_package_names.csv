@@ -309,6 +309,7 @@ AlgebraicRewriting,725a01d3-f174-5bbd-84e1-b9417bad95d9
 AlgebraicSolvers,36cc366f-6373-477c-92c8-0345b2862178
 AlgebraicSolving,66b61cbe-0446-4d5d-9090-1ff510639f9d
 Algencan,016819b2-f4c4-559b-a82b-d92a82b855ff
+Algencan_jll,07ede149-d6eb-53b6-8e3c-1a25465d123c
 Algoim,0eb9048c-21de-4c7a-bfac-056de1940b74
 AlgoimDiff_jll,ce515d28-882f-5689-846d-f09a18d37b96
 AlgorithmicCompetition,435e633d-9c15-4973-be77-d092c40524e8
@@ -4823,6 +4824,7 @@ Groebner,0b43b601-686d-58a3-8a1c-6623616c7cd4
 GroebnerBasis,e39c9192-ea4d-5e15-9584-a488c6d614bd
 GroebnerWalk,6dc8777d-2b0c-4de5-9e3c-426c1820f6f9
 GroqClient,711eb22d-91dc-437e-b59a-359d7c588a21
+GroundHeatExchanger,bd8f68b8-2a15-4d14-8bb6-4cefce65f0ac
 GroundMotion,1a1bcaad-b889-5540-93fc-02c6735e0f5a
 GroundResponse,4e068bfd-c84d-4e7d-af33-179ff9550968
 GroundwaterPlots,4497dbff-a3fd-4ae5-909f-dd1339757ac3
@@ -5802,6 +5804,7 @@ JuliaPetra,0a7d185b-be57-59df-ac21-86d8a1799c2e
 JuliaProjectFormatter,139e0cf6-64b2-48ae-acd2-4285c0bb47c3
 JuliaRunClient,ea4eb333-db47-5fdf-b6ce-79c8b2b3edd3
 JuliaScript,eac5aaee-ac7f-40cd-ab88-b72e0a6c4bd0
+JuliaSessionControllers,198e8358-5c10-4522-8616-de55b5f2a154
 JuliaSyntax,70703baa-626e-46a2-a12c-08ffd08c73b4
 JuliaSyntaxHighlighting,ac6e5ff7-fb65-4e79-a425-ec3bc9c03011
 JuliaVariables,b14d175d-62b4-44ba-8fb7-3064adc8c3ec
@@ -8021,6 +8024,7 @@ Nucleotide_Essentials,e3db82ae-3192-41ba-a352-7248a1c4d2ed
 Nuclides,cc9befaf-0110-443e-845a-60a17f3568dd
 Nuklear,8d0e9305-38f4-5c97-8ceb-e1429a1a2d0c
 NullBroadcasts,0d71be07-595a-4f89-9529-4065a4ab43a6
+NullNumbers,1f86935a-ad3c-47cd-9a52-71de3d40cd89
 Nullables,4d1e1d77-625e-5b40-9113-a560ec7a8ecd
 NumCME,1785c143-4357-4f1f-be49-5c4bc10f803a
 NumNN,10f4d809-13e9-4a6a-bcde-2b39165689aa
@@ -8620,6 +8624,7 @@ PackageAnalyzer,e713c705-17e4-4cec-abe0-95bf5bf3e10c
 PackageCompatUI,65465c31-362d-417a-a2f0-7fa38ae507b9
 PackageCompiler,9b87118b-4619-50d2-8e1e-99f35a4d4d9d
 PackageExtensionCompat,65ce6f38-6b18-4e1d-a461-8949797d7930
+PackageImageManager,20bd25a9-9a7a-458f-8719-9a71c718a6ac
 PackageMaker,29c12bd1-d721-479e-9f19-f3213c237221
 PackageStates,412cc100-f440-45a8-9ec7-153ed5111422
 PackageURLs,c2271b70-7219-4bda-bcc3-62ec08ead5b7
