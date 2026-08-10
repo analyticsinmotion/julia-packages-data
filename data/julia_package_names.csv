@@ -3317,6 +3317,7 @@ Empirikos,cab608d6-c565-4ea1-96d6-ce5441ba21b0
 Emporium,4f286ecd-06d3-4492-bdef-0ca090b7d070
 EmulatedBitIntegers,344cc1fc-1294-4796-b5db-6b4bd1573fb6
 EnKF,685896a8-a41b-11e9-3419-3315e75b5d74
+Encid,22e113d6-bca1-46f4-8715-c46169ad70b7
 EncodedArrays,97725368-735e-11e9-0dd7-6bf34c3b13a8
 Encodings,8275c4fe-57c3-4fbf-b39c-271e6148849a
 Endatabas,3c24e884-fd8b-4642-9948-3255f4665db5
@@ -5845,6 +5846,7 @@ KAShim_jll,652de3ec-ffb6-5c91-88b5-9e9ede6ab7e4
 KCP_jll,000eeb74-f857-587a-a816-be5685e97e75
 KCenters,5d8de97f-65f8-4dd6-a15b-0f89c36a43ce
 KDEstimation,c13e3d18-d57b-11e9-0f19-037e2db2dfef
+KEGGAPI,e8256861-d17c-4800-bf17-838497555b93
 KEGGModuleParser,8ec094ee-96fb-47c5-b407-8e5042c4c592
 KIMNeighborList,c95d6c40-0c10-4161-80ab-e9b71483fbc7
 KIMPortableModels,110f5901-8789-45df-852c-04e9fda0ddd7
@@ -9244,6 +9246,7 @@ PostNewtonian,377afc40-5642-4616-8613-b7ebca523866
 PosteriorDB,1c4bc282-d2f5-44f9-b6d1-8c4424a23ad4
 PosteriorPlots,196f2941-2d58-45ba-9f13-43a2532b2fa8
 PosteriorStats,7f36be82-ad55-44ba-a5c0-b8b5480d7aa5
+Postgres,8f23287e-300e-4f50-bc2b-9f1dfe95da84
 PostgresCatalog,972fa324-5b21-11e9-38b2-934e41d705ec
 PostgresORM,748b5efa-ed57-4836-b183-a38105a77fdd
 Postman,ece33410-b69e-4f47-aa1e-8b3d16462b5e
@@ -9484,6 +9487,7 @@ PulsarSearch,b7fe27a0-ab0c-4e8e-b203-2a459fc90788
 PulseArchitect,dbc0c267-d109-4c6c-b2bb-d87c36f7afac
 PulseAudio_jll,02771fc1-bdb7-5db5-8d11-300768e00fbd
 PulseInputDDM,c2542da2-1f7d-11e9-2506-87691095ebb2
+PureGebal,78ab2635-e639-479d-9f80-4ef5c3b42ac6
 PureHTTP2,7d1e1b98-28e7-4969-8df9-5a308937986a
 PureKLU,0c0d3e7f-3a8b-4f7e-b6f1-9a4d2e7c1f01
 PureUMFPACK,b7e1f0a2-3c4d-4e5f-9a0b-1c2d3e4f5a6b
