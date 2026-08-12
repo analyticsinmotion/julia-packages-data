@@ -714,6 +714,7 @@ BAT,c0cd4b16-88b7-57fa-983b-ab80aecada7e
 BATBase,b4d2a721-a957-46f4-b6b6-f139c9e7db21
 BATTestCases,91d0e2c9-dbaa-453b-b50b-030d574b201f
 BBI,19670fab-07f0-5a41-99c5-c090d774ee27
+BCBSeriesBR,d863d392-0a97-4e78-98d7-4b589335ab15
 BDF,0f5c7595-fa0c-55c8-9031-265ea63f34cf
 BDisposal,c8bf0fc5-5617-4766-b222-31d2f659b756
 BEAST,bb4162c7-ba94-5a20-af32-d8ec4428bdd1
@@ -1296,6 +1297,7 @@ BufferedFiles,58049f72-ad03-4b9e-92cf-b241b4467e52
 BufferedStreams,e1450e63-4bb3-523b-b2a4-4ffa8c0fd77d
 Buffers,d9ae4b7f-d04c-4b7f-92f7-4d9c2e17e1a4
 BugReporting,bcf9a6e7-4020-453c-b88e-690564246bb8
+BuildConstructors,63b9b590-f22f-4e79-810f-ea9ba6849c26
 Buildkite,2194bc0e-823a-4f8d-9f5c-e9fa0a400f92
 BuildkiteUtils,82f577da-a64f-4709-b926-88c56b51bf4b
 Bukdu,3e78a19a-cc83-51d8-955b-515f39fd7955
@@ -4538,6 +4540,7 @@ GeoMakie,db073c08-6b98-4ee5-b6a4-5efafb3259c6
 GeoMakieArtifacts,c06dcbe2-c11f-4421-b8ce-2adf73295f27
 GeoMapping,855c05df-eed8-5362-a099-6b509f53b81a
 GeoMet,17f98db7-af68-4c95-97fe-c6749748e69a
+GeoModBox,e210ae48-618e-410f-9a4d-7c1c87986529
 GeoNamesAPI,765d8e3e-f214-4ecb-acbb-a2789e381393
 GeoParams,e018b62d-d9de-4a26-8697-af89c310ae38
 GeoParquet,e99870d8-ce00-4fdd-aeee-e09192881159
@@ -5487,6 +5490,7 @@ InstaRound,609f54d3-8a97-4836-aa37-e3dc8f03ac88
 InstanceDispatch,23e940aa-d356-45ed-adbd-bebf2015d7d9
 InstantFrame,d4c411e5-b967-4c36-b61c-e426871b3c50
 InstantiateFromURL,43edad99-fa64-5e4f-9937-1c09a410b73f
+InstructionalDecayTrees,1d606af4-d0f8-4ff7-bc8d-eb3f657b7647
 InstrumentConfig,2ae464b0-21de-4247-9233-e7c17725eb53
 InstrumentOperator,9e589c1b-9e01-4e00-831a-aa39ce86e3ef
 Instruments,2c6aeda0-45f5-11e9-10ba-f7b3d6416888
@@ -9136,6 +9140,7 @@ Poietikes,09fca1fe-24f1-4998-9231-7de1d0d75c53
 PoincareInvariants,26663084-47d3-540f-bd97-40ca743aafa4
 PointBasedValueIteration,835c131e-675f-4498-8e2c-c054c75556e1
 PointCloudRasterizers,971589f2-82d2-11e9-1393-93ab095f3ec7
+PointCloudRegistration,afb9b67c-ae14-49fb-afbe-36d52467eca1
 PointClouds,3cc211ed-1f43-4d33-a894-629186066e97
 PointEstimateMethod,f5532426-4504-4a0a-b768-abad0680b22a
 PointInPoly,b33f1834-3304-4c26-96eb-60ff7015163d
@@ -10822,6 +10827,7 @@ SensitivityRankCondition,713b81e2-6747-41cf-8c92-2c171e94ab1f
 SentencePiece_jll,0cc836cc-86cb-5b0e-b290-caf6c31794d8
 Sentencize,7dcf698f-69e3-471c-af7e-711815da818c
 SententialDecisionDiagrams,7fb4d062-ec23-11e9-0b7c-0d74514dd3ea
+Sentil,22654516-f281-488a-8e54-6bb281490963
 Sentinel,b367cf14-19c4-4862-849d-7c6f64208072
 SentinelArrays,91c51154-3ec4-41a3-a24f-3f23e20d615c
 SentinelExplorer,e5d154b4-4325-4737-9c37-b2b3515e42eb
@@ -13973,6 +13979,7 @@ psurface_jll,d6cb37aa-0f65-5fd6-8d86-c55d2c9ef130
 pugixml_jll,ef860afa-341e-548b-93de-15e6b165854a
 pybind11_jll,8a9a6109-fcbb-5819-8534-fa3eb9037080
 qiskit_ibm_runtime_jll,dfd00f80-54b8-5b12-a44d-54bafd549557
+qkrylov_jll,74815218-43ce-5ddb-8743-17261683f415
 qpOASES_jll,f16e1b62-db32-537f-94d1-ea38eaaf9298
 qr_mumps_jll,e37b5aa0-c611-5f0f-83fb-aee446c0b77e
 quarto_jll,b7163347-bfae-5fd9-aba4-19f139889d78
