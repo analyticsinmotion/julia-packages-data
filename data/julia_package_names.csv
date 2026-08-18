@@ -1347,6 +1347,7 @@ CBSOData3,0d5d47ad-f746-49e0-b7ca-67b1cd51b473
 CBinding,d43a6710-96b8-4a2d-833c-c424785e5374
 CBindingGen,308a6e0c-0495-45e1-b1ab-67fb455a0d77
 CCBlade,e1828068-15df-11e9-03e4-ef195ea46fa4
+CCCL_C_jll,14f6ea6c-a097-5a94-acf5-bdf9db277d4c
 CCDReduction,b790e538-3052-4cb9-9f1f-e05859a455f5
 CCTools_jll,1e42d1a4-ec21-5f39-ae07-c1fb720fbc4b
 CClosure,6238cdf7-1651-426a-bbec-388a63a3d275
@@ -2998,6 +2999,7 @@ DocumenterFragments,862d714e-9826-4bb1-afc7-f2d363bba08c
 DocumenterInterLinks,d12716ef-a0f6-4df4-a9f1-a5a34e75c656
 DocumenterInventoryWritingBackport,195adf08-069f-4855-af3e-8933a2cdae94
 DocumenterLaTeX,cd674d7a-5f81-5cf3-af33-235ef1834b99
+DocumenterLandingPage,1c52b33b-3e2f-4e99-b3b5-a6ad63f0d6d2
 DocumenterMarkdown,997ab1e6-3595-5248-9280-8efb232c3433
 DocumenterMermaid,a078cd44-4d9c-4618-b545-3ab9d77f9177
 DocumenterPages,3b6f6c89-491e-49ab-a70c-af796c43d097
@@ -3317,6 +3319,7 @@ Embeddings,c5bfea45-b7f1-5224-a596-15500f5db411
 EmbeddingsAnalysis,827a7f00-4ef9-11e9-22c6-8dc9c6ee7bf4
 EmbeddingsTools,81c6ba3f-3028-455b-8a86-eff211c369f5
 EmeraldConstants,f1e47f7f-56cf-4a63-9b2b-695e95ad7a29
+EmissionModels,1e2dd27c-41a5-43b2-863c-3eddd0c72c67
 EmojiSymbols,c599478c-de41-4aed-94ea-b47665d7a42a
 Emoji_Entities,fd8f23de-bd2f-5c75-921c-0c9ab51355f5
 Emojify,81924f50-bd56-49d2-a16a-e6ee54760b61
@@ -3468,6 +3471,7 @@ ExTinyMD,fec76197-d59f-46dd-a0ed-76a83c21f7aa
 ExaAdmm,4d6a948c-1075-4240-a564-361a5d4e22a2
 ExaFMMt,add1291b-d076-47cc-8667-64576de04ee0
 ExaModels,1037b233-b668-4ce9-9b63-f9f681f55dd2
+ExaModelsCompiler,3d1e9a26-5b74-4f0c-9a2b-7c8f4e11d3a7
 ExaModelsPower,2fff4b78-0b6c-428d-bac8-85ccea8c4bdf
 ExaPF,0cf0e50c-a82e-488f-ac7e-41ffdff1b8aa
 ExaPowerIO,14903efe-9500-4d7f-a589-7ab7e15da6de
