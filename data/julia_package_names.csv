@@ -8785,6 +8785,7 @@ ParserCombinator,fae87a5f-d1ad-5cf0-8f61-c941e1580b46
 Parsers,69de0a69-1ddd-5017-9359-2bf0b02dc9f0
 PartedArrays,c45eb73e-4025-11e9-27c7-23913323ccd5
 Partia,5c2dedaf-db9e-41c2-b778-b9f601995017
+PartialFlagVarieties,965b632c-8f0e-44b9-bcdc-fceb5db1f8c7
 PartialFunctions,570af359-4316-4cb7-8c74-252c00c2016b
 PartialFuns,f26b6392-6076-4cfd-b91e-dd0fce713497
 PartialLeastSquaresRegressor,f4b1acfe-f311-436c-bb79-8483f53c17d5
@@ -12937,6 +12938,7 @@ ValueHistories,98cad3c8-aec3-5f06-8e41-884608649ab7
 ValueOrientedRiskManagementInsurance,4aceb6fc-b794-5e89-b0ac-b6eba507a4bd
 ValueShapes,136a8f8c-c49b-4edb-8b98-f3d64d48be8f
 VanVleckRecursion,b035d78d-16e8-4eee-b57b-0bcdd92a70b5
+VarNames,09a315b2-63fc-4165-8d7f-d59368e770cc
 VarStructs,f7972512-fcde-4f7f-ad6d-ee9cbeb5126f
 VarianceComponentModels,813005db-34b4-5f71-be9e-1bbf0a1d8f1c
 VariantCallFormat,28eba6e3-a997-4ad9-87c6-d933b8bca6c1
