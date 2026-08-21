@@ -993,6 +993,7 @@ BifurcationKit,0f109fa4-8a5d-4b75-95aa-f515264e7665
 BigArrays,c2a8506f-1b35-5b08-8aa1-bb4a7b47a05e
 BigBed,97aa930e-cb6b-11e8-0809-05c95cd953e2
 BigCombinatorics,7b33fef7-ef1d-5d54-bb67-cf96d4c8a166
+BigFloatLinearAlgebra,44d352a4-380e-4c6a-9c2a-31e5bfe329aa
 BigG,75185e45-e16e-4c90-beee-275c7fc4acba
 BigMacro,839f1b1b-eafa-4394-a1a1-3d47d8821c5e
 BigO,2ecab122-4940-479f-a518-03695d136e3f
@@ -2497,6 +2498,7 @@ DMRGenie,8fc702ce-c5c1-11ef-3984-dd129c1f8037
 DMRJtensor,5b179a51-5399-4802-8f6e-f7014fc12e6f
 DMSPData,d5333723-18be-412f-8474-053889153fe2
 DOI2BibTeX,f07c2035-147c-4265-9006-0e86cca2fe32
+DORASolvers,71210631-d7b7-4b3c-b2ad-dc7b71d6cc21
 DPClustering,2972619a-3223-5d84-b495-1a2ccd5409fe
 DPFEHM,8c3ed914-120a-47bd-8d72-56c743732853
 DPMMSubClusters,2841fd70-8698-11e9-176d-6dfa142d2ee7
@@ -3896,6 +3898,7 @@ FindMUS_jll,c35e9feb-7830-5f19-b4d9-02e619c993ed
 FindMinimaxPolynomial,af72fe11-ff17-4ca6-9497-daf1aa55531e
 FindPeaks1D,d8961e24-b28b-4efb-8e50-1c680b9a7431
 FindSteadyStates,5ce5e58b-649a-467a-bfd0-ccefe064e451
+FingerTrees,3d24749a-0845-4c16-a2f2-051d7e3c7003
 FiniteDiff,6a86dc24-6348-571c-b903-95158fe2bd41
 FiniteDiffWENO5,4b1b4241-afed-47c3-a843-c6e03821b375
 FiniteDifferenceFormula,fc1124c1-9066-4ec6-b9ac-c409d23c4e6c
@@ -4176,6 +4179,7 @@ FunctionalTables,19188cdf-3410-574e-a556-e73fa9e4281b
 Functors,d9f16b24-f501-4c13-a1f2-28368ffc5196
 FundamentalFrequencies,33907ca8-b329-4b9f-877b-c71d0f37dbeb
 FundamentalsNumericalComputation,e48b7b93-d2a8-4750-aba7-f743ccd5256c
+Funicular,7ea9c160-9439-4cfe-a32a-3debd616a773
 FunnyORM,6f72f9d7-811b-4da6-baae-56a3a3823ad6
 FuseApi,67451fab-d9b0-4aa1-a584-3691f4a673db
 FuseExchangeProtocol,43dcb517-7681-482a-b959-351932bd0b36
@@ -5131,6 +5135,7 @@ HmtGutenberg,09780231-1698-4933-9d9d-4e01e0abea36
 HnswAnn,dff2f42d-5506-450f-a8d7-e8287f476a07
 Hodge,3c44080d-357b-4062-ad7b-6cab49ad4f79
 HodgeDiamonds,683f8233-a80c-4a96-9568-157369475735
+HoldemEval,5a347cfc-742e-46b3-b975-78f816dd60cf
 HolidayCalendars,805b3977-dd70-49b2-89e1-5b1e213f8a24
 HolidayJp,a0f9f270-aa2e-430a-aba3-8faa33662de6
 Holidays,6a61c59e-0e35-4be2-9181-ca44005fb204
@@ -7589,6 +7594,7 @@ MultiData,8cc5100c-b3d1-4f82-90cb-0ea93d317aba
 MultiDimDictionaries,87ff4268-a46e-478f-b30a-76b83dd64e3c
 MultiDimEquations,a3219271-55cc-59b6-9a1f-6f3111928ce1
 MultiDocumenter,87ed4bf0-c935-4a67-83c3-2a03bee4197c
+MultiFloatLinearAlgebra,642d9d30-8e28-45ca-9d81-256429ea358f
 MultiFloats,bdf0d083-296b-4888-a5b6-7498122e68a5
 MultiFlowSolver,0b348230-5aa4-480a-91ab-d06d9d41a8e5
 MultiFractalFields,424b133d-7d37-4eca-9954-b7e5ab009cd0
