@@ -4068,6 +4068,7 @@ ForestMensuration,8fa9ba82-4654-4ff3-8d17-47720d346ae3
 ForestPlot,4c160800-dae9-4e88-8d4c-769bf7c259e1
 FormFactor,e4b5035b-6f80-41c4-b9c7-57c4172102a9
 Format,1fa38f19-a742-5d3f-a2b9-30dd87b9d5f8
+FormatApp,335f3e5c-9abb-47b5-a2f9-4e51f56c5ccb
 FormatSpecimens,3372ea36-2a1a-11e9-3eb7-996970b6ffbd
 FormationTemps,03bcd87b-2230-4045-a5fa-95a5fcdd1ff8
 FormattedTables,f83c0036-6341-5149-9c2c-4d931666a087
@@ -5948,6 +5949,7 @@ KernelEstimator,857edff2-01a9-55ba-8bc9-13e46c0ddbb2
 KernelForge,d2e71dfc-f0f5-4b9d-8de2-a66a4c724860
 KernelFunctions,ec8451be-7e33-11e9-00cf-bbf324bd1392
 KernelGradients,e5faadeb-7f6c-408e-9747-a7a26e81c66a
+KernelInterface,4ee993da-d684-4d17-a7dd-4e58e78d92bf
 KernelInterpolation,95686e15-3c94-4443-8f08-76d06d509f7b
 KernelIntrinsics,f9588fbb-d238-4998-b15a-468e8766d49a
 KernelMachines,6717196d-eae9-43d0-801c-fc416e8966f6
@@ -6518,6 +6520,7 @@ LinkCutTreesAugmented,c1bc6fde-6912-42fb-b8df-7f936dc5be7d
 LinkFunctions,fa965eab-f9a2-49de-8293-bc60088b3cbc
 LinkedInAPI,b8105b00-6eed-423c-b4b1-db9a63bbfa9d
 LinkedLists,70f5e60a-1556-5f34-a19e-a48b3e4aaee9
+LintApp,0ca8a2e7-ee8a-47e9-8624-e03a53d93e73
 Lints,969b4477-8239-4824-a7ce-fb2a72cbc115
 LinuxKernelHeaders_jll,d754bdc3-4c87-55c0-a004-f56830624a1e
 LinuxPerf,b4c46c6c-4fb0-484d-a11a-41bc3392d094
@@ -7723,6 +7726,7 @@ NCTiles,4c1fdd90-559f-11e9-1abf-07ceafc4ffc0
 NDPriorityQueues,62ce6dcf-afc2-4b9e-bf6a-7a1353c578d1
 NDTensors,23ae76d9-e61a-49c4-8f12-3f1a16adf9cf
 NDTools,98581153-e998-4eef-8d0d-5ec2c052313d
+NDWaveletTransforms,74ff6220-5812-4795-9b9a-063b3f9b9c6a
 NDimensionalSparseArrays,6e93e0f3-59a5-426f-9354-1ff93716b9b4
 NEFTInterface,a0053b83-2858-41a9-bfb0-1030075bb8f6
 NEOSServer,f10290a3-90ea-431b-80e2-02d4e6b73321
@@ -7940,6 +7944,7 @@ NeuralGraphicsGL,263f7e6d-e369-49af-a86e-c85638573b76
 NeuralLyapunov,61252e1c-87f0-426a-93a7-3cdb1ed5a867
 NeuralLyapunovProblemLibrary,83723521-ca9c-4edc-8e64-505178d150fe
 NeuralNetDiffEq,8faf48c0-8b73-11e9-0e63-2155955bfa4d
+NeuralNetworkParameters,67f4d93a-60e9-472b-8cdd-1ccf6005724a
 NeuralNetworkReachability,5de1e908-2f08-45bf-a571-ac88a54f7e7f
 NeuralOperators,ea5c82af-86e5-48da-8ee1-382d6ad7af4b
 NeuralPDE,315f7962-48a3-4962-8226-d0f33b1235f0
@@ -9066,7 +9071,11 @@ PkgVersion,eebad327-c553-4316-9ea0-9fa01ccd7688
 PkgVersionHelper,a83a3aaf-d014-45d2-af27-d8a782db1bf5
 PlanarConvexHulls,145d500b-351c-58b3-a0aa-f5d7e249d989
 PlanarCore,a475c859-e357-4be2-a5e3-43038ab4b158
+PlanarDownloadTool,38b379f7-ca41-4278-b0dc-774ced1e32bb
+PlanarFeatureSelection,799974c5-219d-476a-ada7-be492421c276
 PlanarMaps,291fd964-e446-5d75-9412-e8e0eb420fa7
+PlanarPython,e8cdc95d-7257-4c38-ab0e-cc8a28c19776
+PlanarStrategyStats,d4fe19c2-883d-48d3-92d7-80b36677371b
 PlanckFunctions,56edaee7-e77f-43d7-994d-8307b8de0a62
 PlanetOrbits,fd6f9641-d78f-43ce-a379-ceb0bddb468a
 PlanetSim,2ce8fb18-82de-4cc8-b75d-a45bdc5f56b9
@@ -9306,6 +9315,7 @@ PostgresCatalog,972fa324-5b21-11e9-38b2-934e41d705ec
 PostgresORM,748b5efa-ed57-4836-b183-a38105a77fdd
 Postman,ece33410-b69e-4f47-aa1e-8b3d16462b5e
 Postprocessing,26555902-eaa5-4ecd-84b7-aef517a82a82
+Posy2,e28d6228-85f0-4f5e-8e43-1e181ce309a6
 PotentialFlow,73af2aaf-3f58-5b29-82a9-435ecf827f5b
 PottsEvolver,288ebb56-9d8a-405a-a2d6-6ed6f22c6052
 PottsGauge,3bb3bcb6-c561-57d3-939c-408d524c1e5b
@@ -11997,6 +12007,7 @@ Symplectic,32b24f23-0065-419a-aebb-272ab3b73786
 SymplecticFactorizations,7425e8e4-4cde-4e45-9b2f-a15679260f9b
 SymplecticMapTools,6d28690f-f14d-4e01-b22c-df83f7606a8b
 SymplecticMatrices,d07eab47-f98b-4620-8fe1-ee63e153d4ef
+SymplecticPauli,679b03a7-bf4c-4f28-9f4b-1a046e8c8a8d
 SynapseElife,7cc9ea39-daa9-4846-be95-d8a08c9e3c85
 Synaptogen,e56353f7-4373-4545-acba-b4d938c7539a
 SyncBarriers,3986aa12-c984-439b-887a-f8545bea0e93
@@ -12234,6 +12245,7 @@ TerminalLoggers,5d786b92-1e48-4d6f-9151-6b4477ca9bed
 TerminalMenus,dc548174-15c3-5faf-af27-7997cfbde655
 TerminalPager,0c614874-6106-40ed-a7c2-2f1cd0bff883
 TerminalRegressionTests,98bfdc55-cc95-5876-a49a-74609291cbe0
+TerminalScope,bc14a303-2e4e-4aff-abc0-e6583d5a391b
 TerminalSystemMonitor,bd0a793d-05ca-4aa9-be12-7c4786d45f63
 TerminalUserInterfaces,408767e4-586b-40c7-9657-f9758988469a
 Terminators,b0858c3f-a9bf-4cba-a0e3-6aaeea5477ac
@@ -12254,6 +12266,7 @@ TestExtras,5ed8adda-3752-4e41-b88a-e8b09835ee3a
 TestFunctionRunner,792026f5-ac9a-4a19-adcb-47b0ce2deb5d
 TestHandcalcFunctions,6ba57fb7-81df-4b24-8e8e-a3885b6fcae7
 TestImages,5e47fb64-e119-507b-a336-dd2b206d9990
+TestItemApp,3c47ebe9-cd35-4ffd-8ef3-ab920089c471
 TestItemControllers,340407ab-12a4-4a78-8da2-3de3b3fd1448
 TestItemDetection,76b0de8b-5c4b-48ef-a724-914b33ca988d
 TestItemRunner,f8b46487-2199-4994-9208-9a1283c18c0a
