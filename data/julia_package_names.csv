@@ -1595,6 +1595,7 @@ CarboKitten,690c6d5c-626a-429f-a06b-981a1dae1c19
 Cares_jll,de7616f8-1794-5cde-83a7-2ebe299f2f48
 CarlemanLinearization,4803f6b2-022a-4c1b-a771-522a3413ec86
 Carlo,780c37f4-4e5a-43de-9e79-65c261e525a4
+Carnot,28d851de-1e30-436e-90c7-00bd6ee348bb
 CarnotCycles,b01af851-7cff-425c-b4a4-ed45d3481e5c
 CarouselArrays,728b0f75-d1ac-44d2-96e7-73f1be4eca2f
 CarouselGreedy,100727de-7a56-4b5d-9379-46eb10e23cf1
@@ -3201,6 +3202,7 @@ EarthEngine,e0774970-6faf-4e9a-8c34-3860fa82b5ca
 EarthEngineREST,8d663f9d-4f48-40de-bd8d-17f077f467f6
 EarthOrientation,732a3c5d-d6c0-58bc-adb1-1b51709a25e2
 EarthSciData,a293c155-435f-439d-9c11-a083b6b47337
+EarthSciIO,180e2c70-dda6-501b-9997-3c819c50e0c3
 EarthSciMLBase,e53f1632-a13c-4728-9402-0c66d48804b0
 EasyABM,2ab8e4d3-e1e9-4248-86a3-8419d2d242e9
 EasyConfig,acab07b0-f158-46d4-8913-50acef6d41fe
@@ -6828,6 +6830,7 @@ MONA_jll,469f9ae1-7f35-5207-98f8-918a8c6f7b76
 MORWiki,4add22a6-c4b7-49d8-833a-0e1707ec89d0
 MOSLab,646a8480-3455-4dcb-93e7-a10dc646a0af
 MOTIFs,21ade233-9772-486b-8b4a-1a75b0845905
+MPCCModels,cbaba3ef-cedb-4e5a-9903-71bbac24a74a
 MPC_jll,2ce0c516-f11f-5db3-98ad-e0e1048fbd70
 MPFI_jll,e8b5fb6c-218f-5c08-bc3d-6b0e551bbffd
 MPFR_jll,3a97d323-0669-5f0c-9066-3539efd106a3
@@ -9070,6 +9073,7 @@ PkgUtility,0d262f2c-28e9-492c-8e19-d7a5c4f11611
 PkgUtils,6f897bc9-7a02-494e-b4ae-05ae7ec60539
 PkgVersion,eebad327-c553-4316-9ea0-9fa01ccd7688
 PkgVersionHelper,a83a3aaf-d014-45d2-af27-d8a782db1bf5
+Plaice,55802ec2-189d-45e6-a786-b4d97e4775f1
 PlanarConvexHulls,145d500b-351c-58b3-a0aa-f5d7e249d989
 PlanarCore,a475c859-e357-4be2-a5e3-43038ab4b158
 PlanarDownloadTool,38b379f7-ca41-4278-b0dc-774ced1e32bb
@@ -12125,6 +12129,7 @@ Tapestree,cd6db766-07eb-5897-84c0-92a6c9b887bd
 Tapir,07d77754-e150-4737-8c94-cd238a1fb45b
 Taproots,6cca9763-2e92-47b9-bf40-ccfe60418944
 Tar,a4e569a6-e804-4fa4-b0f3-eef7a1d5b13e
+TarFS,2705667e-b265-4762-bdad-6f28b3efad63
 TarIterators,06456b94-f2fb-4c2e-911f-0795f0d2fb0a
 Tar_jll,9b64493d-8859-5bf3-93d7-7c32dd38186f
 Tarang,3caadacf-3504-43fd-90cf-12adede613ab
@@ -14135,6 +14140,7 @@ tblis_jll,9c7f617c-f299-5d18-afb6-044c7798b3d0
 tectonic_jll,d7dd28d6-a5e6-559c-9131-7eb760cdacc5
 teensy_loader_cli_jll,c621c394-5201-5723-b2c6-406d197850d1
 telnet_jll,1dbb190e-59ad-542b-b90b-8ef67c206511
+tensorprimitives_tapp_jll,739e5c02-e8ce-5dff-a0a0-4b0ad5cc0c07
 tg_jll,d3b19594-2c4a-559a-8374-9f5b4f4149ad
 tippecanoe_jll,6e4bcf07-11bd-542f-a056-5857bcc30079
 tmux_jll,558ad2b7-f92e-50c4-8d35-b0432ac1efd4
