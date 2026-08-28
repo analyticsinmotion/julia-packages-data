@@ -758,6 +758,7 @@ BPNET_jll,6d003e1e-9eb9-5314-b82e-2a0f9b6bc0eb
 BPosits,8a7cb713-368b-48d9-84fe-cff0fadda989
 BQCESubroutine,29e2bfda-5ba7-471c-9125-afac425f1f80
 BQPD_jll,1325ac01-0a49-589f-8355-43321054aaab
+BRElections,5eec50b8-494f-41b4-8c08-b509cd8ec277
 BSDESPOT,e87855f3-d877-40b7-8600-5f1cc2d263ad
 BSDiff,7b188ff4-8bb6-4dee-bbe1-9b6fdde2c7c5
 BSON,fbb218c0-5317-5bc6-957e-2ee96dd4b1f0
@@ -5342,6 +5343,7 @@ IgBLAST,0b79348f-fd03-46c5-b933-bdb7f1bed3f3
 Ignite,1a1b1a28-7f47-4b26-86ef-080b8200110c
 IlluminaIdatFiles,6319967d-51f1-455d-8322-e2c0d31f3595
 ImGuiGLFWBackend,623d79b3-9695-4e60-bd7e-2a5aabaa6933
+ImGuiNodeEditor,85025696-5a8b-405d-b30a-426ddbef1325
 ImGuiOpenGL2Backend,c105bd9b-9289-4129-acf4-4c081b46d160
 ImGuiOpenGLBackend,9d0819b4-44e7-43a2-ad03-8fb999128168
 ImGuiTestEngine,464e2eba-0a11-4ed3-b274-413caa1a1cca
@@ -8754,6 +8756,7 @@ ParallelOperations,09c1cff2-b94d-4c31-85a1-721512e21c63
 ParallelParticleSwarms,ab63da0c-63b4-40fa-a3b7-d2cba5be6419
 ParallelProcessingTools,8e8a01fc-6193-5ca1-a2f1-20776dae4199
 ParallelStencil,94395366-693c-11ea-3b26-d9b7aac5d958
+ParallelTemperingSamplers,52bd480a-a86d-4047-9660-0fcaefa78374
 ParallelTestRunner,d3525ed8-44d0-4b2c-a655-542cee43accc
 ParallelUtilities,fad6cfc8-4f83-11e9-06cc-151124046ad0
 Parallelism,c8c83da1-e5f9-4e2c-a857-b8617bac3554
@@ -9075,6 +9078,7 @@ PkgUtils,6f897bc9-7a02-494e-b4ae-05ae7ec60539
 PkgVersion,eebad327-c553-4316-9ea0-9fa01ccd7688
 PkgVersionHelper,a83a3aaf-d014-45d2-af27-d8a782db1bf5
 Plaice,55802ec2-189d-45e6-a786-b4d97e4775f1
+PlainCLIArgs,1423b20a-918d-4e2b-9e58-f86bfc90768e
 PlanarConvexHulls,145d500b-351c-58b3-a0aa-f5d7e249d989
 PlanarCore,a475c859-e357-4be2-a5e3-43038ab4b158
 PlanarDownloadTool,38b379f7-ca41-4278-b0dc-774ced1e32bb
