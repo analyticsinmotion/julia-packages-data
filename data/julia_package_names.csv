@@ -2224,6 +2224,7 @@ ContextVariablesX,6add18c4-b38d-439d-96f6-d6bc489c04c5
 ContextualMacros,18b01625-79e3-4c41-8668-c88bdfdd3c6f
 ContingencyTables,d8605af1-a39a-40e5-82f3-4793871169cd
 Continuables,79afa230-ca09-11e8-120b-5decf7bf5e25
+ContinuedFractionCoding,c5f02e15-c031-4772-b422-2aa5c93ee444
 ContinuedFractions,11738ef7-5d34-4561-8fd5-55b6644beee9
 ContinuousDPs,c470661a-f883-5a79-ade0-a473a39194e2
 ContinuousNormalizingFlows,00b1973d-5b2e-40bf-8604-5c9c1d8f50ac
@@ -3203,6 +3204,7 @@ EarthDataLab,359177bc-a543-11e8-11b7-bb015dba3358
 EarthEngine,e0774970-6faf-4e9a-8c34-3860fa82b5ca
 EarthEngineREST,8d663f9d-4f48-40de-bd8d-17f077f467f6
 EarthOrientation,732a3c5d-d6c0-58bc-adb1-1b51709a25e2
+EarthSciAST,c7bf5e87-b31b-4281-bdce-ffb8a46ec87c
 EarthSciData,a293c155-435f-439d-9c11-a083b6b47337
 EarthSciIO,180e2c70-dda6-501b-9997-3c819c50e0c3
 EarthSciMLBase,e53f1632-a13c-4728-9402-0c66d48804b0
@@ -5313,6 +5315,7 @@ ITensorMakie,72ca75eb-df6f-4d6b-80c5-d5eab17be3f9
 ITensorNetworks,2919e153-833c-4bdc-8836-1ea460a35fc7
 ITensorNumericalAnalysis,666f501e-685d-4e36-ab44-ece85df6022b
 ITensorParallel,0fccfcd2-f061-4985-9740-339d3f86bfce
+ITensorTDMPO,81a1b4ac-87ef-45f6-9a65-eae7fbb20350
 ITensorTDVP,25707e16-a4db-4a07-99d9-4d67b7af0342
 ITensorUnicodePlots,73163f41-4a9e-479f-8353-73bf94dbd758
 ITensorVisualizationBase,cd2553d2-8bef-4d93-8a38-c62f17d5ad23
@@ -12270,6 +12273,7 @@ Tesseract,11879493-52b3-4e20-990d-281c54a395a1
 Tesseract_jll,efd95c89-babc-5260-8753-618084eaf9d7
 Tesserae,fd374396-9d9c-4d88-9aa5-37a7f6105aca
 TestAbstractTypes,eeddca60-27f6-4483-8676-7b6aefcc60ae
+TestCompatHygiene,b0582c03-59af-4651-a67d-b5bc031813b7
 TestContexts,bc03c374-6515-4bc9-983b-02908b112166
 TestDatasets,d87db82d-f13c-4813-8aaa-e1e6f642888e
 TestEnv,1e6cf692-eddd-4d53-88a5-2d735e33781b
@@ -12324,6 +12328,7 @@ TextWrap,b718987f-49a8-5099-9789-dcd902bef87d
 ThArrays,3ba4a88b-5b67-4a96-bb04-131d22fbab27
 The2DShapeStructureDataset,c6de9c8f-144b-4cb3-b8c3-52bb520a6130
 TheCannon,3c28d9fa-eaec-11e8-3371-6131c0bd32f6
+TheEggman,d2b1023c-e65d-4dc8-8fde-b4ef6c929f77
 TheFix,d833ac1a-14c4-4847-a042-dd2b1840831c
 TheMovieDB,82d1dbe1-805e-4225-b33e-b4fa63e6e659
 TheNumberLine,d3dd9eff-7bfc-4540-8377-597257661861
