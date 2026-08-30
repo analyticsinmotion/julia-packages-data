@@ -1400,6 +1400,7 @@ CIndices,5a98b6c4-18fa-405d-92b3-8277d93fed36
 CJKFrequencies,3a858bc7-ae0d-44ab-8a92-ee3192d2dedf
 CJieba,ed619804-44bc-4c56-bdd2-11e3a27b3f1e
 CJieba_jll,a2ce7b33-90ba-591a-b03f-46764c5db586
+CKTSO,8e543fc2-2ef1-4e2d-a99e-39beaa046845
 CLASS,a61081fd-7c4d-44c2-8709-3eabc28bd84c
 CLBlast,a761db2c-effc-550d-a410-5f59553ed40d
 CLEARSWI,06ae4d9b-ce5e-4813-a1b3-426e46312ec2
@@ -2939,6 +2940,7 @@ Displaz,67fdca37-c731-5d95-9a19-4e7673210fab
 DistMesh,f7ee28b6-bfbf-11e9-3e31-8961b86f052c
 DistQuads,6966f90c-3441-5cda-97d6-80813c921d68
 DistSSHKit,ceec0504-c968-4be5-b215-667cae0e8f81
+DistSSHQueue,24254401-70d8-4a51-8ea4-cfab19f5bc73
 DistanceDependentCRP,de57f43c-cd6e-4458-91da-1920171fba1c
 DistanceFields,cbc00ff9-31b5-4f80-b2d7-f36b47fd6865
 DistanceTransforms,71182807-4d06-4237-8dd0-bdafe4d097e2
@@ -3373,6 +3375,7 @@ EnergyStatistics,631263cc-0f82-11ea-1caf-35c9eae72d11
 EnforcedTypeSignatureCallables,e0a517c1-78b8-4e0b-8db9-584d87c611c9
 EngThermBase,dffbff30-506a-45ba-b474-e78cc8ad254e
 EnglishText,a9e4a3a0-3b51-51f6-8ce2-a898b8c5b12e
+EnhancedBayesianNetworks,886a9665-f0d4-4b74-bc12-f95153dc1848
 EnhancedCSV,db2670d1-d57e-49e7-a9fb-f22487c808fe
 EnhancedGJK,3d39a06a-b57e-5769-b499-4d62b23c243f
 EnhancedLogging,5d3b31b8-5173-11e9-1ac0-b32cb3db6653
@@ -3701,6 +3704,7 @@ FacilityLocationProblems,3771e204-432d-45a9-9661-5d0025a53671
 FactorGraph,528f6532-2a0d-4856-bb42-8bcefd89a10f
 FactorLoadingMatrices,1366662e-918a-4969-8935-7dd8903d6446
 FactorRotations,be5e9834-f3d9-4b7e-b5ea-d062861d4ac2
+FactoredMatrices,aa288701-83bc-4fd3-aba5-ac3dd7693cd5
 FactoredValueMCTS,c016a6d7-1193-47d7-896a-d9f14d6b4b26
 Faddeyeva985,4e51ce9a-7ecb-4b33-a20a-6d9e1a01b2b3
 FairPortfolio,e1e19928-8d36-4c46-ac11-218c50463393
@@ -4473,6 +4477,7 @@ GeneFinder,2bc6ee46-2158-4f5a-a720-91cb2d7cee64
 GeneMatrix,b017c6bb-e7c7-4437-8ee6-a27b72ea26ab
 GeneNetworkAPI,5ef98721-7938-4c15-bad2-60f0fa16d62a
 GeneralAstrodynamics,8068df5b-8501-4530-bd82-d24d3c9619db
+GeneralEquilibriumModeling,3518db58-6bfb-461b-a4fb-cfc29efbd750
 GeneralisedFilters,3ef92589-7ab8-43f9-b5b9-a3a0c86ecbb7
 GeneralizedCRT,7208565e-50fc-4253-9db2-a2925814c645
 GeneralizedChisqDistribution,99dca13f-2202-4520-8aaf-d8c6dbeefecd
@@ -7342,6 +7347,7 @@ MinAtar,a0b457aa-173f-450d-9d76-dd2c7c1da9bd
 MinCostFlows,62286e6e-1779-56f1-888a-1c0056788ce0
 MinFEM,bd0dc85c-d10e-11e8-1961-03914cacc29c
 MinFEMFlow,67bbc83b-0811-48cc-ac43-2a19a23bc93b
+MinFEMShapeOpt,b448ed54-df53-4751-949b-c96c3828e8e7
 MinHash,4b3c9753-2685-44e9-8a29-365b96c023ed
 Minc2,8e6f2f06-34e2-40fe-8437-e396464d2a7f
 Mineos,daba6828-70d2-4229-869c-b11708ab6c61
@@ -10007,6 +10013,7 @@ Random123,74087812-796a-5b5d-8853-05524746bad3
 RandomBasedArrays,079b6ec6-a4f7-11e9-0358-1904ae85a441
 RandomBooleanMatrices,9ae346a0-3d16-5633-ad70-ddb60ab77eac
 RandomCorrelationMatrices,2547b907-48b9-5396-a2af-edc57bff161c
+RandomDataStreams,dc077566-edc2-11e8-0ce0-7d758bb9a5d1
 RandomExtensions,fb686558-2515-59ef-acaa-46db3789a887
 RandomFeatureMaps,780baa95-dd42-481b-93db-80fe3d88832c
 RandomFeatures,36c3bae2-c0c3-419d-b3b4-eebadd35c5e5
@@ -13714,6 +13721,7 @@ fpzip_jll,dabd510a-92a7-54df-aa64-c306dd35554a
 fts_jll,d65627f6-89bd-53e8-8ab5-8b75ff535eee
 fzf_jll,214eeab7-80f7-51ab-84ad-2988db7cef09
 gRPCClient,aaca4a50-36af-4a1d-b878-4c443f2061ad
+gRPCServer,608c6337-0d7d-447f-bb69-0f5674ee3959
 gametracer_jll,2058adf7-7bf0-520c-9955-5a68511dd633
 gat_jll,b88765aa-e0a2-5b02-b897-840ea4e6307e
 gawk_jll,054acbdd-7fbc-53f6-b51a-0fe4f8189fb8
