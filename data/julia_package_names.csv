@@ -1353,6 +1353,7 @@ CBindingGen,308a6e0c-0495-45e1-b1ab-67fb455a0d77
 CCBlade,e1828068-15df-11e9-03e4-ef195ea46fa4
 CCCL_C_jll,14f6ea6c-a097-5a94-acf5-bdf9db277d4c
 CCDReduction,b790e538-3052-4cb9-9f1f-e05859a455f5
+CCOpt,6689419a-93c1-455a-8ac6-77991ec4f86b
 CCTools_jll,1e42d1a4-ec21-5f39-ae07-c1fb720fbc4b
 CClosure,6238cdf7-1651-426a-bbec-388a63a3d275
 CDAWeb,950ff2a9-823f-469c-91a7-754a5d85edca
@@ -1401,6 +1402,7 @@ CJKFrequencies,3a858bc7-ae0d-44ab-8a92-ee3192d2dedf
 CJieba,ed619804-44bc-4c56-bdd2-11e3a27b3f1e
 CJieba_jll,a2ce7b33-90ba-591a-b03f-46764c5db586
 CKTSO,8e543fc2-2ef1-4e2d-a99e-39beaa046845
+CLAPHost_jll,c9c4f589-041a-5a1c-a149-a4cdc6e5211b
 CLASS,a61081fd-7c4d-44c2-8709-3eabc28bd84c
 CLBlast,a761db2c-effc-550d-a410-5f59553ed40d
 CLEARSWI,06ae4d9b-ce5e-4813-a1b3-426e46312ec2
@@ -6838,6 +6840,7 @@ MOADyna,5c3054dd-214e-41f9-9cf5-211a9fa316b3
 MOLE,32da6bfa-ea95-4826-ae25-7537d33b039c
 MOMDPs,77fc6e33-3f81-4304-8123-5a68e6b3eeb4
 MONA_jll,469f9ae1-7f35-5207-98f8-918a8c6f7b76
+MORFE,5d3630f1-b769-440d-b6a6-faf39c53b66e
 MORWiki,4add22a6-c4b7-49d8-833a-0e1707ec89d0
 MOSLab,646a8480-3455-4dcb-93e7-a10dc646a0af
 MOTIFs,21ade233-9772-486b-8b4a-1a75b0845905
@@ -9860,6 +9863,7 @@ QuartetNetworkGoodnessFit,1382f7fc-2744-4d9d-8ec6-1e3efdec0746
 Quarto,d7167be5-f61b-4dc9-b75c-ab62374668c5
 QuartoNotebookRunner,4c0109c6-14e9-4c88-93f0-2b974d3468f4
 QuartoTools,5fded309-f5a0-485a-9129-b3749510da85
+QuartzHDL,24fd0add-350c-448f-a74a-c683df4af439
 QuartzImageIO,dca85d43-d64c-5e67-8c65-017450d5d020
 Quasar,86e06105-936e-439e-acf0-7687560b0bd9
 QuasiArrays,c4ea9172-b204-11e9-377d-29865faadc5c
