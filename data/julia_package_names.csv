@@ -2424,6 +2424,7 @@ CurvilinearGrids,58b19789-dd19-4aa2-839c-c763a7b10301
 CustomGaussQuadrature,443f1e71-1479-4740-9a7f-7f689cbb916a
 CustomUnitRanges,dc8bdbbb-1ca9-579f-8c36-e416f6a65cce
 CutBranching_jll,a275e4ba-a8a9-5328-a18a-85c73bd42860
+CutNorm,96b8343c-58ad-55ba-b7ce-8a87c9ec6d10
 CutPruners,65d46eb8-70e9-5a30-bf48-2afa3a021b8f
 CutQuad,b130fd59-4ea5-47f9-9e42-9608cf6d689d
 Cutaway,accbb8c4-5e3d-4a74-b963-dcfa9d436f57
@@ -6400,6 +6401,7 @@ LibUCL_jll,4559eb44-f4ba-5e76-9185-3ac873597822
 LibUV_jll,183b4373-6708-53ba-ad28-60e28bb38547
 LibUnwind_jll,745a5e78-f969-53e9-954f-d19f2f74f4e3
 LibVPX_jll,dd192d2f-8180-539f-9fb4-cc70b1dcf69a
+LibXLS,221edcab-ec84-5148-84a2-7385855c517f
 LibXLSXWriter,d9c5391f-cdb8-42e0-9032-91a2542ec5a4
 LibYAML,893b89ae-d513-59bf-bb22-7f8468641907
 LibYAML_jll,f531010a-71ee-5b11-8e71-2f13f29d8a82
@@ -8302,6 +8304,7 @@ OnlineStatsChains,c3092dcd-a09e-45f3-b86d-18109bff285f
 OnlineTechnicalIndicators,dc2d07fb-478f-4566-8417-81bb3e5a7af1
 OohataHuzinaga,a8c67e1a-51a8-4393-8cc1-c530063cb104
 OpSel,099ba0d8-67b8-41ac-a69a-bfd69f53aa15
+Opal,99824764-89cd-4491-9df4-54d9b449b069
 Open62541,e9b70463-8ccb-4e30-a2e2-0d1ec8db6536
 OpenADMIXTURE,425c031d-9e5b-441b-a07e-4acde9a966a3
 OpenAI,e9f21f70-7185-4079-aca2-91159181367c
@@ -9225,6 +9228,7 @@ PointerArithmetic,c94a8726-515c-4ee5-9c02-6a0d0dc456e9
 PointerStructs,0ac99047-f20c-4964-adcf-e848779dacfc
 PointwiseKDEs,8083989d-5216-488c-bbe7-b79abd7e3507
 PoissonDiskSampling,d57be0ce-7c7e-4f32-9a47-3bfb603400bb
+PoissonGrids,738b24c9-c2dc-46c1-8999-11ea9699e80b
 PoissonRandom,e409e4f3-bfea-5376-8464-e040bb5c01ab
 PoissonSolvers,8f9e8900-be71-40de-a258-603fdc860a2d
 PokerHandEvaluator,18ed25b1-892a-4a3b-b8fc-1036dc9a6a89
@@ -10172,6 +10176,7 @@ RecursiveTiles,7d867975-de6c-4c05-9efa-f68ebc224697
 RecursiveTupleMath,4a4311fe-81ff-4bcc-86a3-5026a4bf5b9f
 Recyclers,c460b67b-e93f-4059-9ed8-ce60f7c7fee8
 RedBlackGraph,e907e2e1-757b-491a-891c-4da3128a909a
+RedCarD,ab205724-bc94-4f9d-9de2-3802b5d24b63
 RedClust,bf1adee6-87fe-4679-8d23-51fe99940a25
 RedPitayaDAQServer,c544963a-496b-56d4-a5fe-f99a3f174c8f
 Reddit,27c6c700-beb4-11e9-0d5d-570238037c5a
