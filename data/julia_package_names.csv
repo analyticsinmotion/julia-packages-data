@@ -2162,6 +2162,7 @@ ConformalMaps,226e0482-2e74-5b70-8460-0a87d2a092cc
 ConformalPrediction,98bfc277-1877-43dc-819b-a3e38c30242f
 ConicBenchmarkUtilities,e95a7839-07fb-532d-9a0e-071766bb5168
 ConicBundle,bd672f18-e544-480e-9008-37c9c38661cd
+ConicIP,d92ec50d-21ac-4ea5-850a-0588cd9e47b8
 ConicNonlinearBridge,952205b0-75a0-561c-bf54-4eaf7b36f838
 ConicQKD,89930fff-1c97-468e-be5c-77ab6ddad2d9
 ConicSolve,1a4286b3-6f5e-4030-bb00-6db9fd4bd7fc
@@ -3399,6 +3400,7 @@ Entwine_jll,9290252f-3c82-5b4b-93a0-1879861c8c5d
 EnumClasses,53ae640c-c67a-4d53-9dcb-4c921c67b7cd
 EnumSets,6e6cbeda-52ee-45ac-a8dc-908a1b2c6a2c
 EnumX,4e289a0a-7415-4d19-859d-a7e5c4648b56
+Enumlib,ae9d64bb-ee6e-4818-9249-167913fc9296
 EnvironmentMigrators,e51d7f76-d3fb-4251-851d-1e49b8315b3e
 EnvironmentalTransport,9e73f4c4-d7e8-4c78-8a11-cd2430746631
 Enzyme,7da242da-08ed-463a-9acd-ee780be4f1d9
@@ -10104,6 +10106,7 @@ ReachabilityAnalysis,1e97bd63-91d1-579d-8e8d-501d2b57c93f
 ReachabilityBase,379f33d0-9447-4353-bd03-d664070e549f
 Reactant,3c362404-f566-11ee-1572-e11a4b42c853
 ReactantCore,a3311ec8-5e00-46d5-b541-4f83e724a433
+ReactantServerClient,df172679-9d9b-4a02-a92c-27cb5f9e1c5c
 ReactantServerCore,387a5f05-f7b4-4d57-bca9-cd3358e52bdc
 ReactantServerExport,90fa0446-f028-4638-8833-e223884d9b4d
 Reactant_jll,0192cb87-2b54-54ad-80e0-3be72ad8a3c0
@@ -10192,6 +10195,7 @@ ReducedBasisMethods,91da5cd7-58ae-4d67-87db-f03d1c8da121
 ReducedComplexityModeling,abb4722c-1d8e-48eb-a3bd-45b3116bfaba
 ReducedShiftedKrylov,4d429029-a74f-409e-95c5-00936df3696f
 Redux,6d653af8-ad40-11e9-2720-9f1294ef7658
+ReedMuller,285e408b-00a5-4d90-8606-50621f415787
 ReefBiodiversityAccountSetup,0c8e82bf-eef7-4dd9-ab94-1dceb2362a9d
 ReefGuide,cee0a5fb-9790-4c4c-b8b7-e40ecbebeb72
 ReefModEngine,f4ffb74a-bba7-4ac3-ad08-f8621d7c6d1d
