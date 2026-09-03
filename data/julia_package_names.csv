@@ -3932,6 +3932,7 @@ FiniteHorizonPOMDPs,8a13bbfe-798e-11e9-2f1c-eba9ee5ef093
 FiniteHorizonValueIteration,c7772946-478f-4fc8-9340-5223c2489741
 FiniteLattices,650210df-7c64-40ac-8e1f-94ea4f378b07
 FiniteMPS,6b572690-f317-4dad-a5fe-5fe73a0b7d42
+FiniteMPSTangents,a8aeb656-834f-4cb3-ac9f-857a8aeda547
 FiniteMesh,d3ebd857-6980-4843-ad12-8da20c4645b4
 FinitePosets,580d1d9c-67b1-4c59-872e-f12456ffb9fa
 FiniteSizeScaling,fd16a862-e713-4e98-8e8f-513553425ee0
@@ -6125,6 +6126,7 @@ LHLFactorization,2faa5264-e118-4071-8864-e10559f68c7c
 LIBLINEAR,2d691ee1-e668-5016-a719-b2531b85e0f5
 LIBSVM,b1bec4e5-fd48-53fe-b0cb-9723c09d164b
 LIBSVMdata,e26130ba-f664-4e1e-a986-1cbf7dd5bec7
+LIEF_Patchelf_jll,d7f80cea-2d23-50ed-9ab7-0409554cddf2
 LIKWID,bf22376a-e803-4184-b2ed-56326e3bff83
 LITS,86b0dc02-7903-11e9-325f-f195ca7e6c1a
 LKH,294deba0-74fa-42c9-af84-c3834b01fefc
