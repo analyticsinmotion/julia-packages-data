@@ -1580,6 +1580,7 @@ CamiMath,d302b3f7-c8ae-418d-9fc2-2c0a42bddda0
 CamiXon,e90a53f3-3599-4ebe-999f-6f75af03d43f
 CanDecomp,6c57e878-bc0a-5706-8331-d2cb71f7d6e8
 CanadianClimateData,4ac68c5e-d36a-4901-8cb5-da7e3d304538
+Canapes,1bae8cb1-bebd-407c-99cb-cb5362d1cdf2
 CancellationTokens,2e8d271d-f2e2-407b-a864-17eb2156783e
 CancerImagingArchive,1c555f4c-8d6b-45c3-bbc1-c64989f538fe
 CancerSeqSim,c7b3ebfe-d098-56ea-b529-6cf0bac1b5f3
@@ -7868,6 +7869,7 @@ NanoDates,46f1a544-deae-4307-8689-c12aa3c955c6
 NanoVG_jll,38a0872c-fafd-5507-99b7-5cae04c321c8
 Nanoid,649b5ee6-231f-4350-86a5-2b05c0e3780e
 Napari,ed46c112-542a-4e7e-ab0f-e39321fab6f0
+Narcissus,572f1241-6902-50d0-b42e-e4656d46e70a
 NarmViz,d2d28525-57f2-465a-853a-c9519fdcef4a
 NarrativeTest,9563631e-acd4-5dd8-bebb-4cf36518960d
 NationalWeightedActivityUnitWrapper,58dad789-f56a-4ab3-a66f-c15139bf9cbe
@@ -11367,6 +11369,7 @@ SolverTraces,619b3e1a-df4a-11e8-3b0b-a997e0925a8d
 SomatSIE,42c9172c-a860-479f-a7e6-dd0e15e4e07f
 Sonic,c3c4c650-3bb6-4a80-aee6-49dcbcefb5f1
 Sophon,077df616-1c15-4d29-b519-7542a62df138
+Sord_jll,ce0ebd57-228f-52c1-8bcb-f247d89c5a34
 SorptionModels,44adabc6-386d-4db0-bb6e-0f7b06129544
 SortFilters,d6dedbf8-78c7-4e81-bd5f-fe48695b798a
 SortMark,15f864f9-903d-48fa-aa6c-47f5a1506de6
@@ -11571,6 +11574,7 @@ SquareSymmetries,782ece98-c869-49e9-9e53-16c5dacb9be9
 SquashFS,22a32d6d-8ff7-41da-a9cb-095a6e0fb6ae
 SquidGame,dd7facba-cbc5-45d8-adb5-1f8b832104f1
 Squirrel,257d0e10-ba0c-4014-b61a-657d3b5dcd33
+Sratom_jll,6b463614-04de-5cee-861a-45e15d564f15
 StLifeIns,eeb17163-f076-48da-b693-6d8cb2af5572
 StableDQMC,0827807b-44c9-51d0-af97-efe667fe6b2a
 StableDistributions,3756410d-ab6e-41a2-9897-9aa267a7ef31
@@ -11708,6 +11712,7 @@ StatsProcedures,d2f4e7c0-4966-47f3-9552-d63f8a71a436
 Statsd,3a38cb31-b91a-4cb6-a3cc-e596c78fb826
 StatusSwitchingQP,73a7d86c-03e3-42fb-a0f5-70ef6cda08f4
 StatusWindows,13c9c970-0c32-4215-a9dc-7dd338fb31da
+StatusWindowsTeX,9f8bd871-bb09-4d74-8531-702df8dbf94d
 SteadyStateDiffEq,9672c7b4-1e72-59bd-8a11-6ac3964bc41f
 SteadyWaves,2d4f3d31-6681-40b2-b238-b8279529db51
 SteamTables,43dc94dd-f011-5c5d-8ab2-5073432dc0ba
@@ -11814,6 +11819,7 @@ StressTest,6e3341f8-3a0d-4582-a093-9d6e6d36caf8
 Stressify,8a229381-d7eb-4865-a507-cf9af2c5cd1e
 Stretto,6542ec78-ee1b-4af1-b08f-242328baa654
 StrictMode,0e98b4f4-d0e6-42ac-af0a-707c24852f32
+StrictModeTest,a64655d1-1e86-453c-b761-1219f9f51c2b
 StrideArrays,d1fa6d79-ef01-42a6-86c9-f7c551f8593b
 StrideArraysCore,7792a7ef-975c-4747-a70f-980b88e8d1da
 Strided,5e0ebb24-38b0-5f93-81fe-25c709ecae67
@@ -11896,6 +11902,7 @@ SuffixConversion,a5344401-2eb1-4dab-b845-3affa8d070e0
 SuffixTrees,430257b6-7d61-4797-9a77-8ecd01b73801
 SugarBLAS,0999239e-cb9f-5507-94be-17f19fa7f34d
 SugarKelp,7cd05660-c499-409f-9aa8-d8700f4bb051
+Sugiyama,a85cd6b6-3810-52a0-aaf7-38a6bd88fd85
 Suiron,4d49a1dd-e5d0-4271-9114-9bcba05437f0
 SuiteSparse32_jll,ca45d3f4-326b-53b0-9957-23b75aacb3f2
 SuiteSparseGraphBLAS,c2e53296-7b14-11e9-1210-bddfa8111e1d
@@ -13550,6 +13557,7 @@ ZipFlow_jll,3f4651c6-dca0-5abf-a9ca-128c6c1e6eb6
 ZipStreams,d1ba5cbe-eaf4-46e4-b1fe-0fd0bb93243b
 ZippedArrays,8051824b-fc5e-4603-89c4-0e6ea551cb88
 ZirconGrowth,5085b5e1-578a-4bbf-9dfc-2862bf7461c3
+Zix_jll,bd2968d2-bb08-5776-b8c6-d1dd04a812b9
 ZlibNG_jll,c62bbaca-5768-5b75-85e2-9a0ea54e1624
 Zlib_jll,83775a58-1f1d-513f-b197-d71354ab007a
 Zomato,f91f2aa8-3cb3-52ab-b009-b9f47c1c1b27
@@ -13982,6 +13990,7 @@ lovoalign_jll,dfe2c37b-9b3c-58e6-b43e-8bff6111200d
 lrslib_jll,3873f7d0-7b7c-52c3-bdf4-8ab39b8f337a
 lttng_tools_jll,37591b3e-a3c2-50e0-b676-8bc36018f336
 lttng_ust_jll,a2826780-45ff-53db-9dda-fd961bc58de1
+lv2_jll,7b3f7994-2f4c-56ea-8c5f-7c434df6080d
 lwgrp_jll,15646b25-2db2-5811-aabe-7bb0d81fd3fd
 mPulseAPI,314d2b54-f2c3-11ea-15f2-0bcf2fc50b35
 macOSSDK_jll,52f8e75f-aed1-5264-b4c9-b8da5a6d5365
