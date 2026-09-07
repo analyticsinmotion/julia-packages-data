@@ -3075,6 +3075,7 @@ DrillInterface,d92b6104-cdd8-4875-a041-bad43500bca7
 DrillMudsThermalProps,353a8573-383f-4727-b0e9-478950a5ec11
 DroneSurveillance,63556450-714a-11e9-08e1-e368b701e279
 DropboxSDK,bfd8ad24-ccb0-5e6a-9bd1-fc4bec713fae
+Droplets,410e754a-0d3e-432f-bd69-cc9df980427a
 DroughtIndices,ae947f86-e600-46c5-84d9-4ddc2fc15820
 DrugInteractions,25055022-b8af-4985-a550-c8f3f9f56f04
 Druid,2c0563d7-0cee-41bd-8996-23dbc945b6d9
@@ -6554,6 +6555,7 @@ LintApp,0ca8a2e7-ee8a-47e9-8624-e03a53d93e73
 Lints,969b4477-8239-4824-a7ce-fb2a72cbc115
 LinuxKernelHeaders_jll,d754bdc3-4c87-55c0-a004-f56830624a1e
 LinuxPerf,b4c46c6c-4fb0-484d-a11a-41bc3392d094
+Liquid,1d842bea-57fe-42da-9535-7d22f6992377
 LiquidDSP_jll,fb57cd10-6c59-5765-8581-f5aeefd729c4
 LiquidElectrolytes,5a7dfd8c-b3af-4c8d-a082-d3a774d75e72
 LispSyntax,51c06dcf-91d3-5c9e-a52e-02df4e7cbcf5
@@ -14244,6 +14246,7 @@ viterbi_jll,dd422b0c-1f95-5ffb-9e80-de3947502723
 vmtouch_jll,28f2fcfb-5f6a-5f77-b781-4b42819ab36c
 vole_jll,5833a85b-77c9-5066-a5cb-0fcd921296cc
 vroom_jll,62a4a0cf-2cbc-5e0f-8f30-f6cab19063e7
+vst3sdk_jll,5fb43a78-d80e-51e2-8ddb-474e9b1a8821
 vtzero_jll,6844ab77-5466-5b71-bac9-33cdec63eea3
 wannier90_jll,c5400fa0-8d08-52c2-913f-1e3f656c1ce9
 web3go_jll,eead4c12-a8c2-5c95-a405-009094e72470
