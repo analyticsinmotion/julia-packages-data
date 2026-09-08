@@ -68,6 +68,7 @@ ANOVAapprox,5e027bd6-ab01-4733-8320-e0223e929ebb
 ANSIColoredPrinters,a4c015fc-c6ff-483c-b24f-f7ea428134e9
 ANSIEscapes,4e1dc58e-b9ed-4927-9fa5-f81941d7face
 AOCL,f52889c3-24a9-4d04-95e9-8e965a4fc4c7
+AOCLFFTZ,c14d92de-50f7-408b-9c39-3b09c53b67f9
 AOCL_jll,b124843c-0c82-53c8-91a7-62bfdd90e290
 ARCHModels,6d3278bc-c23a-5105-85e5-0d57d2bf684f
 ARDESPOT,d96c9ae4-3372-47d5-8a88-316ae77be8cf
@@ -3656,6 +3657,7 @@ FITSFiles,358a0a88-3548-4ad6-b652-8bdbf64af8e5
 FITSHeaders,8163a04c-c153-4fb1-a498-3402381ec208
 FITSIO,525bcba6-941b-5504-bd06-fd0dc1a4d2eb
 FITSTables,7c1f5dd0-abd1-46fd-a3fe-70b5915849d6
+FITToolbox,40b204b9-eff4-47bc-90eb-068aed8ffa5d
 FKRBDemand,ac267177-d275-4753-b7f9-46a5f58d4fd0
 FLAC,abae9e3b-a9a0-4778-b5c6-ca109b507d99
 FLAC_jll,1d38b3a6-207b-531b-80e8-c83f48dafa73
@@ -9072,6 +9074,7 @@ PipeChannels,316ea068-b8d4-4418-b34f-158552ec34f5
 Pipebraces,25a62be5-bbe8-4619-a10f-9066af09d2c9
 Pipelines,ef544631-5c6f-4e9b-994c-12e7a4cd724c
 Pipette,0a8c84c6-482d-4399-887f-69614b2ff022
+Piste,f69a1a94-130c-4fa4-b8d2-e36d656cbe66
 Pitaya,0b12f483-aaff-4a42-bf4f-5a3345f2360f
 Pitches,71ce3a53-bc01-4ee9-b4af-5ce581ee5149
 Pitchjx,aacb0929-27c6-5080-af7c-e887e16e4e49
@@ -13280,6 +13283,7 @@ Wilkinson,74aeefec-6ade-5337-bbc5-48a18adb804f
 WilliamsonTransforms,48feb556-9bdd-43a2-8e10-96100ec25e22
 Wilsonloop,f3c8d4fe-2f22-401d-8228-e6a01d7a1d02
 WiltonInts84,a3e2863e-c0ee-5ff6-a523-307a4cdc8724
+WinCOMClient,8b2a3d4e-5f6a-4b7c-9d8e-0a1b2c3d4e5f
 WinEncoding,e55f5955-59f4-4493-8aaa-7731398b7a54
 WinKnownPaths,7ef17fd6-a797-4899-824e-453c4c44979c
 WinRPM,c17dfb99-b4f7-5aad-8812-456da1ad7187
@@ -13990,6 +13994,7 @@ libzenohc_jll,938f45e1-bfa9-5428-95ae-33d45742c18e
 libzip_jll,337d8026-41b4-5cde-a456-74a10e5b31d1
 licensecheck_jll,4ecb348a-8b88-51ea-b912-4c460483ee91
 llama_cpp_jll,98bd2d0b-bc7c-583a-ba54-7299b0ad0e7f
+llvm_dialects_jll,1772c092-747e-58b8-a0f5-52eab9a4c695
 lm_Sensors_jll,b93565a3-4493-5e41-a74a-a6d551a733e6
 log4cplus_jll,ddafc8f7-a63f-59b6-bd98-72f6e6fe0966
 louvain_jll,3a01c810-c4d4-5434-a337-635ca50da98f
