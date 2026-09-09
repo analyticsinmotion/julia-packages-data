@@ -56,6 +56,7 @@ AMDGPUnative,12f4821f-d7ee-5ba6-b76b-566925c5fcc5
 AMGCLWrap,4f76b812-4ba5-496d-b042-d70715554288
 AMGCL_C_jll,e3ba5bb7-5aef-5326-9a13-9617383dcacb
 AMGX,c963dde9-0319-47f5-bf0c-b07d3c80ffa6
+AMGX_MPI_jll,8b86b00e-b9b5-513a-8192-d40bc5fd88d4
 AMGX_jll,656d14af-56e4-5275-8e68-4e861d7b5043
 AMLPipelineBase,e3c3008a-8869-4d53-9f34-c96f99c8a2b6
 AMORS,77d29c75-3847-48dd-b74a-66585bbee1d5
@@ -1553,6 +1554,7 @@ CairoMakie,13f3f980-e62b-5c42-98c6-ff1f3baf88f0
 Cairo_NoGPL_jll,a683250b-caed-589c-a637-5aa540466d33
 Cairo_jll,83423d85-b0ee-5818-9007-b63ccbeb887a
 Cairomm_jll,af74c99f-f0eb-54aa-aecc-a10e8fc65c17
+Calc,221dce02-7e96-5d1b-a637-f113167531ab
 CalcephEphemeris,54e8752a-b65a-4aac-bda5-4918ee1e3cc5
 CalciumScoring,9c0cb1da-21b1-4615-967b-153e03110a28
 Calcium_jll,fcfa6d1b-d8ce-59d5-8c0a-c0d7f69e4f40
@@ -2270,6 +2272,7 @@ ConvolutionalOperatorLearning,3c17ac3d-2343-4d75-b01f-81723beeda4b
 ConvolvedDistributions,f5b942c9-bc5b-4664-8486-7f531bb06742
 CooccurrenceRegression,b11753cd-0d5a-47ad-8b8f-99db3fa4a09b
 Cookbook,5c1ef01f-39c8-5834-b1a0-1a342f75f4df
+CookieMonster,75086921-2357-4d64-a344-adda719f636f
 CoolPDLP,9e90bdc5-3073-4e0f-a275-e19f28ac1b53
 CoolProp,e084ae63-2819-5025-826e-f8e611a84251
 CoolProp_jll,3351c21f-4feb-5f29-afb9-f4fcb0e27549
@@ -2451,6 +2454,7 @@ CyclicalEncoding,f0974a9f-ffa1-426c-82c3-eb116e824257
 CyclotomicNumbers,c380f8b6-65b3-4789-a31b-7d6b5dc6d4c5
 Cyclotomics,da8f5974-afbb-4dc8-91d8-516d5257c83b
 CyrusSASL_jll,6422fedd-75a7-50c2-a7c3-a11dad25a896
+CytoscapeJS,5d7a634b-b62e-4929-ba77-69c999086e42
 D3Trees,e3df1716-f71e-5df9-9e2d-98e193103c45
 D3TypeTrees,41994980-b535-5476-86a1-6733688e0e4a
 D3_jll,4483d8a1-97c0-5c1a-b7ea-a115040394ce
@@ -2585,6 +2589,7 @@ DataBags,497ad153-c143-42a2-80c7-87bdfcf8382a
 DataCaches,c1455f2b-6d6f-4f37-b463-919f923708a5
 DataCollocations,9454e98c-75cb-4dbc-9573-481819719962
 DataConvenience,3b531cbf-ee43-4e67-8118-dca2c9372f86
+DataDecimals,3e2245cb-6932-498d-a7cf-39d39de8bde3
 DataDeps,124859b0-ceae-595e-8997-d05f6a7a8dfe
 DataDepsGenerators,a14fa8ac-7845-53f2-854f-e9bba4c623ff
 DataDogClient,be9d7f57-3392-4762-97ee-7c9806ef4e00
@@ -2625,6 +2630,7 @@ DataSets,c9661210-8a83-48f0-b833-72e62abce419
 DataSkimmer,54a5dec1-bae8-447e-bd66-474f7865e6c6
 DataSplits,c4daa60e-60e8-4e0a-bcf3-f80a6d479af9
 DataStreams,9a8bc11e-79be-5b39-94d7-1ccc349a1a85
+DataStrings,48204bd6-5611-42ea-b167-fc1d713f9be2
 DataStructures,864edb3b-99cc-5e75-8d2d-829cb0a9cfe8
 DataTables,743a1d0a-8ebc-4f23-814b-50d006366bc6
 DataToolkit,dc83c90b-d41d-4e55-bdb7-0fc919659999
@@ -3099,6 +3105,7 @@ Dummyvar,5d02951d-65b4-45d8-b6c0-f168f9df2c9e
 Dune_jll,b9b19344-8b3c-5124-8703-f18fdbc93bca
 DungAnalyse,4b12b552-3a4e-596f-96c3-8d21d15d5d04
 DungBase,bd6f3a87-2f53-57d0-9c4e-5625ef189a5e
+Durations,41ac09f5-0a95-4810-aa18-c88bf48ee130
 Durbyn,40b042de-e8ce-4d84-a20a-09ad0ba5d568
 DustExtinction,fb44c06c-c62f-5397-83f5-69249e0a3c8e
 Dust_jll,2bd31493-540e-5c8d-87b8-e806a807424c
@@ -8636,6 +8643,7 @@ PERMANOVA,f33fedc7-88ab-426d-b3f4-502f30fbdde3
 PETLION,5e0a28e4-193c-47fa-bbb8-9c901cc1ac2c
 PETSc,ace2c81b-2b5f-4b1e-a30d-d662738edfe0
 PETScBinaryIO,7d8a6817-b67b-57e2-acac-4a73d125cd6b
+PETScDiffEq,0a65194f-a16f-47d0-900e-080c22068669
 PETSc_jll,8fa3689e-f0b9-5420-9873-adf6ccf46f2d
 PEtab,48d54b35-e43e-4a66-a5a1-dde6b987cf69
 PEtabSelect,6de2f99a-1d3e-11f0-2fac-936eab9aa55b
@@ -9230,6 +9238,7 @@ PoGO,043b967d-4e64-47a6-97d4-0007e6b4905c
 PoGOBase,9aeef027-32d9-426e-907e-1f5ddbd18eab
 PoGOGamemaster,62c09a92-b096-4650-ba41-ec5e38cc10f2
 Poietikes,09fca1fe-24f1-4998-9231-7de1d0d75c53
+PoincareDisk,37d8f618-38b6-5c23-b72c-a3f6e67e6ed5
 PoincareInvariants,26663084-47d3-540f-bd97-40ca743aafa4
 PointBasedValueIteration,835c131e-675f-4498-8e2c-c054c75556e1
 PointCloudRasterizers,971589f2-82d2-11e9-1393-93ab095f3ec7
@@ -10931,6 +10940,7 @@ Semigroups,f8a5e1c0-7b2d-4a3e-9c6f-1d2e3f4a5b6c
 Semirings,900aad66-9ca5-44d4-b043-321c62cb7767
 SemiseparableMatrices,f8ebbe35-cbfb-4060-bf7f-b10e4670cf57
 Semisimple,c99f5fee-6cdb-4bf1-806f-d7690e6ee6f7
+SemverChecker,6d5f8b7a-2c41-4e9d-9f3b-1a7c8e4d2b60
 SenseHat,0dbe55a1-025c-5c9b-ab45-55492d058cfb
 Sensemakr,b1eed063-bea0-4e2a-bcc5-a02b2b0a7b77
 SensitivityAnalysis,7df13313-679e-414d-9f6c-66fa593437bc
