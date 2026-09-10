@@ -637,6 +637,7 @@ Attractors,f3fd9213-ca85-4dba-9dfd-7fc91308fec7
 AttributeGraphs,d091dd56-f8c5-469d-b7f7-ff847498145f
 Attrs,a4224b96-20e5-5401-805b-05f03f927511
 AudioDB,7751140e-3dbe-4f12-a6f7-19bdd520e90f
+AudioPlugins,83119930-5344-4127-8689-15f5870d6d1a
 AudioReader,a9c2ce0f-e965-4f6d-9ec4-ce2d5ed55f28
 AudioSchedules,0990df78-ca1d-4d03-ab92-318744ee3999
 AuditoryFilters,2b6db37a-05bd-5fbd-94f7-97a8281041e3
@@ -3098,6 +3099,7 @@ Dubins3D,b218df9c-8706-40c8-80f9-13e28a209add
 Ducc0,47ec601d-2729-4ac9-bed9-2b3ab5fca9ff
 DuckDB,d2f5444f-75bc-4fdf-ac35-56f514c445e1
 DuckDB_jll,2cbbab25-fc8b-58cf-88d4-687a02676033
+Duckietown,b9206cf4-d873-49ff-bdb0-b4cd6bc56877
 DuctAPE,ad8e49fd-fab7-444e-af4a-0daba3b8bf11
 Duff,3e2ffa6a-ba38-11e8-0a1c-7b69309e1c72
 DumbCompleter,b9d245dc-5d95-11e9-326a-bbd03ea8ebff
