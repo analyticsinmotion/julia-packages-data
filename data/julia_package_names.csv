@@ -3404,6 +3404,7 @@ EnlilGrids,44994717-8eef-47f3-a7e0-6b313e1778f0
 Enlsip,d5306a6b-d590-428d-a53a-eb3bb2d36f2d
 EnsembleInversion,e03f8fd3-a2ff-47f5-ac97-ba7f0577c430
 EnsembleKalmanProcesses,aa8a2aa5-91d8-4396-bcef-d4f2ec43552d
+EnsembleMCMC,ee15a35a-54c9-4a12-9721-3f3d8c2797c8
 EntanglementDetection,5e5e84d8-5f53-4fe3-9037-c06c4de5d74e
 EntityComponentSystem,a8343a65-b356-5275-be17-d741438d126c
 EntroPlots,742586e2-2ccd-48a5-bc1c-31de6daa8fd7
@@ -7091,6 +7092,7 @@ Match,7eb4fadd-790c-5f42-8a69-bfa0b872bfbf
 MatchCore,5dd3f0b1-72a9-48ad-ae6e-79f673da005f
 Matcha,8d673c98-5a32-5a15-b616-7dad274ffdd7
 MaterialDecomposition,c27b174a-794e-4afe-9da0-66d3b10781c5
+MaterialDesignColors,3927ea69-822a-40ab-97d4-2bc957378337
 MaterialPointGenerator,18deba1c-5063-41ee-a388-01f264c5a914
 MaterialPointSolver,dc4aa359-7d89-437d-91bb-f4b330c522c1
 MaterialPointVisualizer,9ce2fbfb-c269-402f-8683-a675189e795c
@@ -9072,6 +9074,7 @@ Pikchr_jll,bb53d66c-7482-569a-820c-c7df7b381dd9
 Pilates,c24c5e2f-a713-4bab-b0d1-32f8b5281162
 Pilot,ae4e50cc-6dbb-4f20-9f13-c46e7dac87e8
 PinCFlow,230a4047-f24c-41d9-8d93-b3b8a5ef3847
+Pinax,e782a80a-1ac9-479e-ba2b-0f3433ef5b4f
 Pinchot_jll,a0e007bb-30f3-5a40-a04b-58baf70e7e14
 Pinecone,ee90fdae-f7f0-4648-8b00-9c0307cf46d9
 Pingouin,61ac1d4c-5a1f-4019-949c-7919748f8c44
@@ -11168,6 +11171,7 @@ SimpleSDMLayers,2c645270-77db-11e9-22c3-0f302a89c64c
 SimpleSDMPolygons,dd4c243c-bc7b-45f6-b2b3-6bd128d3a12b
 SimpleSim,b9efc609-bc7d-446c-95a0-c858d8725e88
 SimpleSolvers,36b790f5-6434-4fbe-b711-1f64a1e2f6a2
+SimpleSplines,ac480f6c-9a94-4d53-a283-9db69f109154
 SimpleStatics,755f8035-bddb-4884-b09e-b908b7adad44
 SimpleStringScanners,fe2b3641-c6e9-460c-8da8-2838146e3f25
 SimpleSudoku,8f8cde19-4581-4697-bfbd-917306c72405
@@ -12101,6 +12105,7 @@ System,75a07032-1394-4a60-8011-bf81691479e2
 SystemBenchmark,30cdaa97-48ad-4abc-9688-3a7175b8083d
 SystemImageLoader,dc30da40-fce8-4b3c-960e-234cbed6f4a5
 SystemStats,f381a237-32a7-4d50-aa1c-abe0b395ff12
+SystemsOfSystems,444f41de-88f0-45df-a3dd-0849e84f1dfe
 T8code,d0cc0030-9a40-4274-8435-baadcfd54fa1
 TASOPT,22dd2482-b234-48ce-b849-20a4e029c823
 TBLIS,48530278-0828-4a49-9772-0f3830dfa1e9
@@ -12358,6 +12363,7 @@ TestingUtilities,40452611-1178-4e48-bdfc-3af4bebad9c9
 TestsForCodecPackages,c2e61002-3542-480d-8b3c-5f05cc4f8554
 TetGen,c5d3f3f7-f850-59f6-8a2e-ffc6dc1317ea
 TetGen_jll,b47fdcd6-d2c1-58e9-bbba-c1cee8d8c179
+Tethers,9fc261b7-0902-4839-ada8-9390617e313c
 TethysChlorisCore,c22758e7-e854-5bdb-8df2-7602c47a9d98
 Tetris,d02b474b-c6a0-45b1-beee-9a2049fa00e6
 TexTables,ebf5ac4f-3ec1-555f-9ac9-3d72ed88c471
@@ -14182,6 +14188,7 @@ sed_jll,8ce03227-cf0a-51af-b0b4-2693c0743e9f
 sequentialknn_jll,a3d66c5c-fa88-5e7c-8b67-86d01549c065
 sgtsnepi_jll,c2c51ba6-9464-585c-93d5-ba434ab08fad
 simdjson_jll,40266717-b07e-50ee-a1c6-5956cbf905d9
+simdutf_jll,3d8915d0-3e42-5f93-8700-2cb379153bea
 slope_jll,baac1969-1582-5600-b38b-7408c9d44009
 slow5lib_jll,cf15d115-0011-542e-ba8a-590cfd1400f0
 smesh_jll,e8c45408-479c-54df-ae5b-4501057d3a5a
