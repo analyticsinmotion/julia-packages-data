@@ -3508,6 +3508,7 @@ ExTinyMD,fec76197-d59f-46dd-a0ed-76a83c21f7aa
 ExaAdmm,4d6a948c-1075-4240-a564-361a5d4e22a2
 ExaFMMt,add1291b-d076-47cc-8667-64576de04ee0
 ExaModels,1037b233-b668-4ce9-9b63-f9f681f55dd2
+ExaModelsCollocation,806a8761-d632-41d1-aec4-b1285f27c7c5
 ExaModelsCompiler,3d1e9a26-5b74-4f0c-9a2b-7c8f4e11d3a7
 ExaModelsPower,2fff4b78-0b6c-428d-bac8-85ccea8c4bdf
 ExaPF,0cf0e50c-a82e-488f-ac7e-41ffdff1b8aa
@@ -4332,6 +4333,7 @@ GMCMeasure,7356f369-bb30-4519-aa96-c92d996faa13
 GML_Glauber_Dynamics,ec21ea4c-06aa-48cd-aeb3-a42dd9f5a482
 GMMParameterEstimation,7a1c707a-4b3e-4a1f-9208-da91076bfd6f
 GMP_jll,781609d7-10c4-51f6-84f2-b8444358ff6d
+GMRFExtremes,f0f2715e-ad36-47bb-aeb8-1cb0a8ac9d1e
 GMT,5752ebe1-31b9-557e-87aa-f909b540aa54
 GMTAccess,4908299a-382f-4474-b696-db03060d32c1
 GMT_jll,b68b8c3f-ed99-5bef-9675-4739d9426b26
@@ -6555,6 +6557,7 @@ LinearSolveCUDA,0d26bed2-170e-468a-8415-1cfcbba6e180
 LinearSolvePardiso,a6722589-28b8-4472-944e-bde9ee6da670
 LinearSolvePyAMG,7a56c47d-7ab1-4e99-b0e3-2952e463d64a
 LinearTimeVaryingModelsBase,5e7a79f3-ee03-5374-bd42-db9a52b6e959
+LinearTrees,8dcaa25b-be43-4b0a-960a-aaf476051ed8
 LinearTurboFold_jll,cd7c2323-e06e-549f-9837-4f85c0db7ff9
 Lingeling,24b7b615-05f5-4cb5-9c13-cd423f90764a
 Lingeling_jll,54ea7443-b7cf-5485-b0d0-86c7d7a308e1
@@ -7098,6 +7101,7 @@ MaterialPointSolver,dc4aa359-7d89-437d-91bb-f4b330c522c1
 MaterialPointVisualizer,9ce2fbfb-c269-402f-8683-a675189e795c
 MaterialReconstruction,03cb9323-3c4b-4e23-a84c-921ade87b3a3
 Materials,35fa313e-aa48-52ea-bc82-ddb91c7db87b
+MathChecker,9e940fde-bfd5-4ae9-9128-2bd0792124e9
 MathGL_jll,6834ddeb-87f2-5bbb-bfa4-c37572f854d4
 MathJSON,77215b4b-6f01-425c-beac-950ae6536d4d
 MathJaxRenderer,c4602970-9bd6-4912-867b-6b19c60f5024
@@ -7687,6 +7691,7 @@ MultilayerFiber,5163218f-e962-4d1b-9436-42cf34da72ec
 MultilayerGraphs,af984530-d72f-4904-8b81-b992bbbeaf3f
 MultilevelSummation,8c6e5870-99c4-4685-beb5-7acb5afddbe8
 MultilineStrings,1e8d2bf6-9821-4900-9a2f-4d87552df2bd
+MultinomialProbit,cecf09a0-bccd-43e3-93df-b2889790c067
 MultinomialRegression,a592c9b7-6983-49e8-8273-c41e1cdef303
 MultinomialSeries,b1457606-cce2-4c91-91e3-a50c9ebbb83c
 MultiobjectiveProximalBundle,7c640890-aab7-4b0b-9130-8fee89820740
@@ -8165,6 +8170,7 @@ NyanSpectreNetlistParser,f050a39a-f089-4c65-a86a-958b8b907b9b
 NyanVerilogAParser,28caa042-5edb-4d1f-abcd-02ce41b2dd3d
 OATHToolkit_jll,2f89d1c9-c8cc-56a0-9b6f-1a564073fb5a
 OAuth,22d8b318-f366-56fb-a292-a93f7d76c017
+OBISClient,bf4f0d90-9197-4e1e-85a0-d7f577e5c8e6
 OBOParse,afb48802-0cf5-5a61-b18d-a3da2e9c5fb6
 OCCT_jll,baad4e97-8daa-5946-aac2-2edac59d34e1
 OCReract,c9880795-194d-450c-832d-1e8a03a8ecd1
@@ -8899,6 +8905,7 @@ PatternFolds,c18a7f1d-76ad-4ce4-950d-5419b888513b
 PauliPopRec,8be9b746-4e04-44ea-bfaf-e6e65ad4ae85
 PauliPropagation,293282d5-3c99-4fb6-92d0-fd3280a19750
 PauliStrings,f07625cc-80e4-4099-a362-36a3484d9bcc
+Paulimorphic,376270d6-9d58-4fff-a93d-64e77d6b6083
 Pavito,cd433a01-47d1-575d-afb7-6db927ee8d8f
 PawsomeTracker,d3f98fa6-545d-4d4c-aa39-0a9eb18c40ca
 PayGroups,922b5244-06a6-4050-8ee4-e6bf4d9814f2
@@ -9013,6 +9020,7 @@ PhyloGaussianBeliefProp,e3084505-90a0-4799-8167-4168d9f39f7c
 PhyloModels,6465ae08-de3a-5dbe-bda8-3920f6a01ab7
 PhyloNetworks,33ad39ac-ed31-50eb-9b15-43d0656eaa72
 PhyloPOMP,d3093253-1426-44ff-8fa8-1ab5fe440962
+PhyloPicMakie,29f7fcc2-58b8-448e-949b-ed9dd2d8a249
 PhyloPickMe,0dfd6e21-1466-4d69-a740-ac598855cece
 PhyloPlots,c0d5b6db-e3fc-52bc-a87d-1d050989ed3b
 PhyloSummaries,431a9082-0c03-4c0b-a224-e592b0e14882
@@ -12016,6 +12024,7 @@ SwarmAgents,6fce2c4d-9d52-4112-b2c3-c0b80c6b8436
 SwarmMakie,0b1c068e-6a84-4e66-8136-5c95cafa83ed
 SweepContractor,75a5deae-e917-4509-af32-a989148c8d5f
 SweepOperator,7522ee7d-7047-56d0-94d9-4bc626e7058d
+SweepRunner,be946ad2-3cb3-4b6e-8f7e-4a5ecc3c255b
 SwiftShader_jll,c404ff5a-e271-5628-8eaa-423d39d64c15
 SwissVAMyKnife,fafdf525-54c7-48ec-ae29-528bd4cccfab
 SwitchOnSafety,ceb7f16a-07bf-5f4a-9354-b68f01b1610f
@@ -13828,6 +13837,7 @@ iceberg_rust_ffi_jll,6bd5c94f-693c-53e3-983d-a09fad412f22
 igraph_jll,4d841945-e0c2-5143-9479-18e4f0102556
 iperf_jll,c3111fcb-6a66-54cb-a6df-fd652d9c82a2
 ipx_jll,b964385b-8358-5f44-856b-d218fe69d290
+iroh_jll,7eaf8dff-799d-5e4c-8107-0c4a0aa7efd4
 isa_l_jll,67581813-1eb2-5518-8b74-202629104514
 iso_codes_jll,bf975903-5238-5d20-8243-bc370bc1e7e5
 isoband_jll,9a68df92-36a6-505f-a73e-abb412b6bfb4
