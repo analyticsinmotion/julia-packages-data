@@ -1790,6 +1790,7 @@ Chpack,2a40f1df-ea8b-4415-b5f4-d53e15ef496e
 ChrBase,c13fa7b1-fb91-5a40-8b3c-3aad7fd30002
 ChromeDevToolsLite,fd981815-49ad-43be-956f-1ba144983534
 ChromeProfileFormat,b19f0eae-10f4-4ff0-9df2-b48cd85f6b2e
+ChromeTracing,845b99d9-bb87-4db2-9e0c-3c6f94fbefc3
 Chron,68885b1f-77b5-52a7-b2e7-6a8014c56b98
 Chuffed,a105ee56-0da9-4c5a-a151-cc7e299d31db
 Chuffed_jll,77125aae-c893-5498-99e3-e30470bfa328
@@ -3554,6 +3555,7 @@ ExpectationStubs,cd0106a6-6d98-567f-99b2-156dd1635c57
 Expectations,2fe49d83-0758-5602-8f54-1f90ad0d522b
 ExperienceAnalysis,51cd30ab-a913-41ff-9b6f-9b78880a2ac2
 ExperienceReplay,9191f281-19f8-4a32-ad68-bff21db472d5
+ExperimentalAPI,fd2d14cb-3a46-42a9-afd8-e8499236f05e
 ExperimentalDesign,4babbea4-9e7d-11e9-116f-e1ada04bd296
 Experimenter,6aee034a-9508-47b1-8e11-813cc29af79f
 ExperimentsManager,881d7174-a88b-11e9-2adc-edaefd320751
@@ -4987,6 +4989,7 @@ HMMER_jll,9a00dd6d-eebd-547e-8f34-c9aea159fd8a
 HMMGradients,ed22c0d8-4b10-4781-a02d-2b7b373fe96c
 HMRowUnification,1f764b34-43ae-408e-9bb4-377386bc1704
 HMatrices,8646bddf-ab1c-4fa7-9c51-ba187d647618
+HMatrixGPU,013f6237-6334-43e6-9487-c09b3879e29b
 HNSW,540f64fa-c57e-11e8-081c-41422cda4629
 HOHQMesh,e4f4c7b8-17cb-445a-93c5-f69190ed6c8c
 HOHQMesh_jll,1d5cbd98-5122-5a8a-bea1-c186d986ee7f
@@ -6178,6 +6181,7 @@ LLVM_utils_unified_jll,0def2053-1a45-54bc-bfc1-6427e7aae702
 LMDB,11f193de-5e89-5f17-923a-7d207d56daf9
 LMDB_jll,6206cf0b-f360-5984-af49-5437264c140e
 LMDiskANN,a2e5363b-c4e1-4593-9e2f-a2937b345987
+LMFDBLite,d66269b8-7907-4a75-8041-d35544a92097
 LMfit,4eb4f38b-2839-4c1d-8f96-c88b685035f5
 LNR,7c4cb9fa-83a0-5386-9231-d6167c818060
 LOBPCGEigensolver,87a0849e-8492-4fcc-8734-ba6a5d902784
@@ -11147,6 +11151,7 @@ SimpleHMM,b54418be-38bf-423c-8dbb-66731efe0690
 SimpleHypergraphs,aa4a32ff-dd5d-5357-90e3-e7a9512f0501
 SimpleI18n,e6e9dfa0-c7c8-478f-b0d1-9bf91bc25951
 SimpleIMGUI,37c0dfa8-367e-4f81-95ac-b6bdb4b61673
+SimpleImageMetadata,67d14529-f57e-4d48-b504-d486213b7963
 SimpleImplicitDiscreteSolve,8b67ef88-54bd-43ff-aca0-8be02588656a
 SimpleIntegrals,c106d4f1-74b1-53cf-8919-47dd3f5c79fb
 SimpleInterfaces,5e8a1de0-27a2-4e83-a339-3875953a141a
