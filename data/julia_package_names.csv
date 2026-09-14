@@ -2122,6 +2122,7 @@ CompressiveLearning,5d372d12-fa29-11e8-3ae3-03dd413d87db
 ComputabilityTheory,1aac4ff9-3d20-4305-ad99-6d6ea6b313c2
 ComputableDAGs,62933717-1c9d-4a3f-b06f-7ab7f17ca32d
 ComputableGeneralEquilibriumHelpers,b2f8801f-5e08-46db-8da3-bbbe1795f4c5
+ComputationGraphExplorer,c9fc7d07-15e8-4fd8-b152-23c2424d2de2
 ComputationalHeatTransfer,5fc296c8-2eb5-40dc-a46d-98a68011a900
 ComputationalResources,ed09eef8-17a6-5b46-8889-db040fac31e3
 ComputePipeline,95dc2771-c249-4cd0-9c9f-1f3b4330693c
@@ -5612,6 +5613,7 @@ InteractiveViz,d14badfc-0adb-4d57-980e-37858d990fa5
 InteratomicPotentials,a9efe35a-c65d-452d-b8a8-82646cd5cb04
 InterestRates,09453d48-b9e1-5bf0-a018-8d5c65f8cb56
 InterfaceFunctions,9f9138d1-22ea-4a5b-8917-3b6286796293
+InterfaceReconstructionLibrary,4d4e2a06-74a2-40b0-94e5-684ca251a3fd
 Interfaces,85a1e053-f937-4924-92a5-1367d23b7b87
 InterferometricModels,b395d269-c2ec-4df6-b679-36919ad600ca
 InternalFluidFlow,a3f4ffcb-63ab-449f-b58f-50e21d5ccbd2
@@ -7100,6 +7102,7 @@ MatchCore,5dd3f0b1-72a9-48ad-ae6e-79f673da005f
 Matcha,8d673c98-5a32-5a15-b616-7dad274ffdd7
 MaterialDecomposition,c27b174a-794e-4afe-9da0-66d3b10781c5
 MaterialDesignColors,3927ea69-822a-40ab-97d4-2bc957378337
+MaterialDocs,10bdffc8-969c-4dd4-83f3-742518eccd6b
 MaterialPointGenerator,18deba1c-5063-41ee-a388-01f264c5a914
 MaterialPointSolver,dc4aa359-7d89-437d-91bb-f4b330c522c1
 MaterialPointVisualizer,9ce2fbfb-c269-402f-8683-a675189e795c
@@ -9829,6 +9832,7 @@ QuansiftMarketData,1316d3df-ea13-4eef-8810-037e2b70086f
 QuantEcon,fcd29c91-0bd7-5a09-975d-7ac3f643a60c
 QuantExQASM,630b6936-434f-11ea-2df3-976e72da0e99
 QuantLib,96a2b5a2-274e-5d11-8b3e-35bccd200598
+QuantLib_jll,f0aaf6b8-981d-5c48-a2bb-a28d009c9797
 QuantNova,1b0303c1-8819-4d1c-a929-91cb710ac874
 QuantReg,a0becc08-653f-40d2-91e7-721373d1053f
 QuantReg_jll,6615ef03-4b82-5800-9c41-81d3e66fba0f
@@ -11271,6 +11275,7 @@ SkyCoords,fc659fc5-75a3-5475-a2ea-3da92c065361
 SkyDomes,1838625c-7cf7-40c6-898b-904883e4b556
 SkyImages,2d546a2e-713c-402d-bee5-ba90cc43b84b
 SkyMaps,04c32fc2-bb1c-4ba6-8717-c9d43359126f
+SkyMatch,8ccedbea-2053-47fc-b420-270a4dfa0289
 Skyler,804faec8-72f5-11ea-307d-47b816e9b733
 Slack,40bba58d-c7f1-4fe3-926e-2f246c890c3c
 SlackAPI,45996516-d782-4985-8a4d-8a8f0336c9da
