@@ -1540,6 +1540,7 @@ CXSparse,27bc1049-af5b-4e6d-9573-9751c3395f6e
 CXSparse_jll,c77e7b6a-7cf9-58ed-a396-e1da12b05d87
 CZML,d3ddc7e8-7106-46d1-9902-15843705f60e
 CaNNOLeS,5a1c9e79-9c58-5ec0-afc4-3298fdea2875
+CacheAwareConv,ae0c0968-3b55-4cf5-aa46-61dd257e9e80
 CachePath,99f2aab7-dba8-43e9-8e3a-7970522a3b8f
 CacheServers,a921213e-d44a-5460-ac04-5d720a99ba71
 CacheVariables,9a355d7c-ffe9-11e8-019f-21dae27d1722
@@ -2269,6 +2270,7 @@ ConvexBodyProximityQueries,e9983d58-8b29-5530-8046-db49618142f9
 ConvexFit,87351080-99b7-4180-88c0-67eb87125a50
 ConvexFlows,e6d6bbd2-f446-4b3b-b420-735d85b530c7
 ConvexHulls2d,438b5665-92b0-42e6-bc36-e4ac8449fa2d
+ConvexOptimization,e7fa4f8d-d505-4694-8553-7bab99efa7d1
 ConvolutionInterpolations,75b5ba44-29d7-490a-960d-52c835d47405
 ConvolutionOperators,15927181-a1bb-497c-b745-8dbf505c019d
 ConvolutionalOperatorLearning,3c17ac3d-2343-4d75-b01f-81723beeda4b
@@ -6940,6 +6942,7 @@ MRIReco,bdf86e05-2d2b-5731-a332-f3fe1f9e047f
 MRISampling,9be66c26-f988-4649-80fc-f4721a4a33f2
 MRISimulation,8988da37-ea20-4fa6-9af7-8a6f6f9a8970
 MRISubspaceRecon,81225dec-f002-11f0-8080-35af0c2c6e2d
+MRITestData,b3f1a2c4-5d6e-4a7b-9c8d-0e1f2a3b4c5d
 MRITwixTools,d4f3e0a0-5c5a-4e5a-9c5a-1a2b3c4d5e6f
 MRIgeneralizedBloch,9689932d-8765-44d0-985b-2d9644d92569
 MRIsim,a9056882-1c2f-47b4-848d-dcb4a04f1994
@@ -7708,6 +7711,7 @@ MultipleScattering,80a8ab25-5750-5d93-a6d7-4adc97cdd5fb
 MultipleTesting,f8716d33-7c4a-5097-896f-ce0ecbd3ef6b
 MultiplesOfPi,b749d01f-fee9-4313-9f11-89ddf7ea9d58
 Multiplexers,d8f48be2-8af9-45f0-b400-11a6372d221d
+MultiprecisionExponential,94d3a556-5218-437b-92f8-5c9e05288610
 MultiscaleGraphSignalTransforms,cc44fc10-d0fb-5545-af72-ba1cb661a341
 Multisets,3b2b4ff1-bcff-5658-a3ee-dbcf1ce5ac09
 Multispati,3ff64760-8a89-40e2-854d-b45336bb1975
@@ -7859,6 +7863,7 @@ NQCModels,c814dc9f-a51f-4eaf-877f-82eda4edad48
 NRLMSIS_jll,e40003b6-db6d-53ac-8f97-1b9d6a4db741
 NRRD,9bb6cfbd-7763-5393-b1b5-1c8e09872146
 NSDEBase,5aa61ba9-7752-4810-b2ec-484f26c3f007
+NSDERungeKutta,3978d399-9848-4322-9a48-ca26b732c7dc
 NSGAII,0faa7b20-5579-4646-b419-11e3eab23b57
 NTFk,1226e131-0b97-51f8-8a3f-c1798118cd52
 NTNk,530fd2b5-bc52-54ba-93c2-82eb6468edee
@@ -14239,6 +14244,7 @@ tectonic_jll,d7dd28d6-a5e6-559c-9131-7eb760cdacc5
 teensy_loader_cli_jll,c621c394-5201-5723-b2c6-406d197850d1
 telnet_jll,1dbb190e-59ad-542b-b90b-8ef67c206511
 tensorprimitives_tapp_jll,739e5c02-e8ce-5dff-a0a0-4b0ad5cc0c07
+tera_renderer_jll,73a839a6-9370-58f6-a727-029f0c62a9a5
 tg_jll,d3b19594-2c4a-559a-8374-9f5b4f4149ad
 tippecanoe_jll,6e4bcf07-11bd-542f-a056-5857bcc30079
 tmux_jll,558ad2b7-f92e-50c4-8d35-b0432ac1efd4
