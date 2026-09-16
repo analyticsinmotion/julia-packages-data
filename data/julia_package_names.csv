@@ -4731,6 +4731,7 @@ GlobalApproximationValueIteration,277f244e-4908-11e9-33c2-5d5365097ef8
 GlobalDiffEq,1d72d19b-84cc-4cb7-a099-7cbdb9ccc67c
 GlobalMatchingModels,11a73c71-dc4d-46b1-87d0-e844fed3dbfc
 GlobalMetadata,44ab47fd-db85-4242-8804-764e64c491dd
+GlobalRegridding,76847d5f-3a3e-4aa5-90cc-2a3a47dd1c11
 GlobalSearchRegression,5b3bc22e-96cb-5e8b-bdf1-153217652f04
 GlobalSearchRegressionGUI,a066f67d-7bb6-5c78-aee2-fe6a6ddc0b62
 GlobalSensitivity,af5da776-676b-467e-8baf-acd8249e4f0f
