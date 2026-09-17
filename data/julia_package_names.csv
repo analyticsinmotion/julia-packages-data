@@ -3732,6 +3732,7 @@ FaceDetection,00808967-75e2-4046-a522-2ca211e35506
 FacilityLocationProblems,3771e204-432d-45a9-9661-5d0025a53671
 FactorGraph,528f6532-2a0d-4856-bb42-8bcefd89a10f
 FactorLoadingMatrices,1366662e-918a-4969-8935-7dd8903d6446
+FactorMvNormalCDF,dc2c6f2d-b0c8-4384-b6e9-68f8f24cdce9
 FactorRotations,be5e9834-f3d9-4b7e-b5ea-d062861d4ac2
 FactoredMatrices,aa288701-83bc-4fd3-aba5-ac3dd7693cd5
 FactoredValueMCTS,c016a6d7-1193-47d7-896a-d9f14d6b4b26
@@ -6010,6 +6011,7 @@ KernelTuner,d8e2316b-1d0f-4d2d-8459-42354ee22310
 KerrGeodesics,53139c06-1eed-45f1-8780-9fca08ecab11
 Ket,412c778c-4733-41d8-b706-9e072557ba34
 KeyCounter,f308447f-e99f-46ec-ad9e-5a4c598148f8
+KeyNubLicenseDongle,8f1d5c7e-3a2b-4e6f-9c8d-1b0a7e4f2d63
 KeyValueStores,99b27216-9b37-4bb8-ad19-60d6e7774266
 KeyboardDriven,d6b73c45-a735-4b19-932b-179aebda8fdc
 KeyedDistributions,2576fb08-064d-4cab-b15d-8dda7fcb9a6d
@@ -6203,6 +6205,7 @@ LSODA,7f56f5a3-f504-529b-bc02-0b1fe5e64312
 LSODA_jll,aae0fff6-70f8-51e1-979a-8150c7cc74bd
 LSPNeovim,42462c39-edde-4cdc-9c73-a9d3181f44a6
 LTWA,a3b798af-b683-4007-b74f-b9136125839e
+LV2Host_jll,a1fb6e78-af1d-557a-bd91-b38940fc92f3
 LVServer,b45899a3-f603-4de6-8657-71d649cef297
 LWFBrook90,100deb6c-4418-4b77-ad5c-a1fadb580743
 LZFSE_jll,58530d00-bdec-5bcb-8e8b-bc8c1f9d555e
@@ -13039,6 +13042,7 @@ VPTrees,6889b67b-453b-53df-8fa8-6efd51eae556
 VQC,f53c5859-8f70-4782-8aac-8d69ad6f55c5
 VSL,04294c92-b9b2-5258-861c-e23397c8ec5d
 VSPGeom,9b3f6a95-fce2-4bc5-94a2-f99b39986ea6
+VST3Host_jll,8b4e5a1f-1c28-515c-95ad-97e06c9f19bd
 VT100,7774df62-37c0-5c21-b34d-f6d7f98f54bc
 VTKBase,4004b06d-e244-455f-a6ce-a5f9919cc534
 VTKDataIO,c6703add-1d23-52c6-9943-3ad88652b9b2
@@ -13150,6 +13154,9 @@ Vizagrams,8c229dad-8b3a-4031-83d6-73545c88426d
 Viznet,52a3aca4-6234-47fd-b74a-806bdf78ede9
 VkDCT_jll,480b0143-c4e9-5ffc-bbe4-91f6a1b763ab
 VkFFTCUDA,fce8808e-e16a-45a8-8cbe-ffae295c7ea5
+VkFFT_CUDA_jll,c6c0cc47-23fd-51ca-b60c-6f984e788db9
+VkFFT_Metal_jll,042e462d-e49b-5371-a6d8-d140e9b49131
+VkFFT_OpenCL_jll,4b94af74-5903-5048-b3a4-075b7d965b91
 Vlasiator,7d2ba682-ad6e-4e20-80d9-3f2d4a610bb4
 VlasiatorMakie,af7e05b2-8ba0-474e-bf83-503ba399852e
 VlasiatorPyPlot,de93d4bb-68ab-4e1d-9036-cf3c624bd395
@@ -13405,6 +13412,7 @@ XGPaint,af630e4a-6754-4ec2-ab8a-f9f8b9ebafbf
 XGrad,c48004fe-d13f-5df9-98d5-0c1ab8e45fa0
 XInput,a139f0b0-aff0-474c-bd1d-9cc0765dd9cf
 XKCD,4bc7fa8b-4ef2-4643-8c8b-cef036f85839
+XKCDMakie,ef1f67d4-2c0d-4f2d-9282-34421b12c95e
 XKeyboard,0c8a7d74-93ea-4f23-9ed1-b26578bfdfe6
 XLA_Tools_jll,5debfaa8-cf0e-5577-9f8f-ffadd6421daa
 XLSX,fdbf4ff8-1666-58a4-91e7-1b58723a45e0
@@ -13841,6 +13849,7 @@ helpme_jll,f33c8c47-f3e6-5e52-bf5f-5eacb4024144
 hicolor_icon_theme_jll,059c91fe-1bad-52ad-bddd-f7b78713c282
 hidapi_jll,fc16ec7e-3cba-5ca4-a17a-1acd8165bbee
 hiredis_jll,8830ad48-7ead-5d05-b3ac-3822a1a8e113
+hpipm_jll,cd4cb499-eb35-5070-a3c3-a74c88142326
 hsa_rocr_jll,dd59ff1a-a01a-568d-8b29-0669330f116a
 hsakmt_roct_jll,1cecccd7-a9b6-5045-9cdc-a44c19b16d76
 htscodecs_jll,fb1930eb-fbb4-57f4-9ccd-93264b9fcc29
