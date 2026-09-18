@@ -2913,6 +2913,7 @@ DirectSearch,9d7617aa-e122-4445-bdd0-98866dcb605d
 DirectSum,22fd7b30-a8c0-5bf2-aabe-97783860d07c
 DirectTrajOpt,c823fa1f-8872-4af5-b810-2b9b72bbbf56
 DirectTrajectoryOptimization,a9f42406-efe7-414c-8b71-df971cc98041
+DirectX_Headers_jll,8980ef3b-bac2-5923-98ae-5225c678e6fa
 DirectedAcyclicGraphs,1e6dae5e-d6e2-422d-9af3-452e7a3785ee
 DirectionalStatistics,e814f24e-44b0-11e9-2fd5-aba2b6113d95
 DiscoDiff,944e5dbc-7108-4f31-a215-df58b8009117
@@ -9690,6 +9691,7 @@ PythonCall,6099a3de-0909-46bc-b1f4-468b9a2dfc0d
 PythonCallHelpers,82926614-86f1-43a3-92dc-771be2bbc0fa
 PythonOT,3c485715-4278-42b2-9b5f-8f00e43c12ef
 PythonPlot,274fc56d-3b97-40fa-a1cd-1b4a50311bf9
+PythonRNGs,2ab52f32-f18f-4b77-bafc-f169e377582d
 Python_jll,93d3a430-8e7c-50da-8e8d-3dfcfb3baf05
 QAOA,814bfb56-6688-4460-8fd4-bc1ff2cd6cd4
 QAlgebra,b9371e27-7e1d-48fa-b5f7-43d028413397
@@ -12742,6 +12744,7 @@ TruncatedGaussianMixtures,d6a30cd5-d352-42fd-9418-e34000539a5a
 TruncatedMVN,502039d7-87d7-456d-8cc8-96307cceeee2
 TruncatedStacktraces,781d530d-4396-4725-bb49-402e4bee1e77
 TruncatedStreams,a94d6aec-2c5c-43a3-8874-9c6fe372d212
+TrustRegionLeastSquares,21ca2098-f897-4540-9ab3-b13ed390dd37
 TrustRegionMethods,14486370-d344-40f0-8ff9-262f8a3330be
 TrustRegionReflective,b2fb89f2-9639-4e52-b458-b5e2ad6f229e
 Trusty,8d423e50-a21a-41c9-877a-e99e491e0514
