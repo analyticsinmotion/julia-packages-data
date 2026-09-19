@@ -7949,6 +7949,7 @@ NearestNeighborDescent,dd2c4c9e-a32f-5b2f-b342-08c2f244fce8
 NearestNeighborModels,636a865e-7cf4-491e-846c-de09b730eb36
 NearestNeighbors,b8a86587-4115-5ab1-83bc-aa920d37bbce
 NearestNeighborsTest,1d4e4914-a46b-4e08-8d2f-7bc89898521c
+NearlyIsotonicRegression,8ffeb364-5e46-4a19-b908-271cdb64df64
 NeatEvolution,fcc92617-70eb-4c43-847c-323c44b5224c
 NeatText,d28e2158-296f-49f9-928e-754b5a3efa02
 NeidArchive,b2c48323-12ae-41a0-acdb-062d24b276bc
@@ -9920,6 +9921,7 @@ QuantumSymbolics,efa7fd63-0460-4890-beb7-be1bbdfbaeae
 QuantumTomography,1d9c40fe-1d26-11ea-03f8-f5801c7a1696
 QuantumToolbox,6c2fb7c5-b903-41d2-bc5e-5a7c320b9fab
 QuantumToolboxCore,7fbe806f-1706-4992-b132-86e53e431434
+QuantumToolboxVisual,f2591f1c-fdd7-47fd-9d44-967f3caec145
 QuantumTransport,411772af-e49e-49ed-af28-686d52595cd1
 QuantumWalk,715ab00d-497d-5f5e-92b0-16e551a8d81b
 QuartetNetworkGoodnessFit,1382f7fc-2744-4d9d-8ec6-1e3efdec0746
@@ -13592,6 +13594,7 @@ ZXing_CPP_jll,66b684e8-4fb7-5952-97a4-a506b1089b62
 Zabbix,bfb209d9-8743-5e3a-8711-bc78bba37304
 Zalgo,5b351978-c8a9-11e9-2467-a1bfb30aea0b
 Zarr,0a941bbe-ad1d-11e8-39d9-ab76183a1d99
+ZarrCore,77f5b75c-4c08-499f-ba13-550b0a0af171
 ZarrDatasets,519a4cdf-1362-424a-9ea1-b1d782dbb24b
 ZarrZfp,c0dec0de-cafe-face-babe-c0ffeec0ffee
 Zauner,ce1149fb-49fa-4541-ae6c-62019ae07d40
