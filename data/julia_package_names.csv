@@ -570,6 +570,7 @@ AstroPlot,00b67d96-df8a-4e04-ab4d-0170e12eeaec
 AstroProp,0e2365da-becf-4b4f-af1d-8bfff9db196c
 AstroPropagators,7f2154ff-9684-4686-a457-9182f50d0f5b
 AstroRepresentations,403ab190-7cad-4c95-848f-e576570a949d
+AstroRoutines,4f255373-1537-45e9-840a-8c00864979f6
 AstroSimBase,c6a34d98-f626-4d8d-b450-a3f124eaada6
 AstroSolve,d5c6b872-c897-4dc3-b364-70bab4e75788
 AstroStates,e8875680-ece1-4c6e-865d-f99ee1f9f9b4
@@ -1176,6 +1177,7 @@ BlockTriangularForm,adeb47b7-70bf-415a-bb24-c358563e873a
 BlockingMethod,d9bca9eb-1e72-4788-bb56-3426fa9acbbd
 BlockmodelUtils,d9f899e1-303a-530d-8675-c26bf1ea3f35
 BloodFlowTrixi,7b46d5ad-635f-4b66-9393-904f183e39b5
+BloomEvents,30d135c3-80e7-4161-98dc-7057595b7748
 BloomFilters,d3d7f49f-8593-5289-ba71-9c4f4848f489
 Bloqade,bd27d05e-4ce1-5e79-84dd-c5d7d508bbe1
 BloqadeCUDA,bd27d05e-4ce1-5e79-84dd-c5d7d508bbe3
@@ -2552,6 +2554,7 @@ DaggerWebDash,cfc5aa84-1a2a-41ab-b391-ede92ecae40c
 Dagitty,d56128e0-8113-48cd-82a0-fc808dc30d4b
 DailyMed,2084e9b3-e78b-4097-9d0a-08c6d7ecda99
 DailyTreasuryYieldCurve,9f24bdcd-220e-43b5-8e6d-85812fd68fcf
+Daisho,0095e6a3-0a19-4629-8616-db2ab031b187
 DalitzPlot,d7968580-7d6f-4f79-bc09-617baf523457
 Dalton_jll,056126bd-cc44-5cb8-957b-81361c7cf34c
 Damask,7ccfa7fd-a424-414a-8759-eb68cf5c9821
