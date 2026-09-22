@@ -285,6 +285,7 @@ AirfoilGmsh,e68ec710-8e48-43c5-af1a-c38c4248fd7b
 AirfoilMeshers,fb06ee43-ff84-401b-b5ac-2522e63f9402
 AirspeedVelocity,1c8270ee-6884-45cc-9545-60fa71ec23e4
 Airtable,96f7d883-6668-4fbe-bb01-b60427b16035
+Airwindows_jll,6aebe50b-6f12-57f2-91ff-3cc085acc4c7
 AktaPrime,f5a23b8e-4c19-4d2b-b8f3-9e7c1d5a2043
 Alakazam,41a1aa08-1d43-4dd7-adeb-62cd7a1359ba
 Alert,28312eec-4d86-447d-83ad-bc2b262de792
@@ -5457,6 +5458,7 @@ ImgHdr,d13d08e5-712c-4367-96aa-3a4dbb4385aa
 Immerse,2a4eff87-6e1e-5ceb-a32e-3bc6a5c2833f
 ImmersedLayers,cdc13194-334e-4e1c-bc8d-fc3a28509c85
 ImmutableList,4a558cac-c1ed-11e9-20da-3584bcd8709a
+ImmutableRNGs,df841313-b7d9-5705-98c2-b4248e6a5d71
 ImpedanceSpectroscopy,a235858a-7fde-4a43-9af5-95134240a088
 Implicit3DPlotting,d997a800-832a-4a4c-b340-7dddf3c1ad50
 ImplicitAD,e7cbb90b-9b31-4eb2-a8c8-45099c074ee1
@@ -5553,6 +5555,7 @@ InformationInequalities,b4972362-a981-4dc4-9e05-19b54dfae4bc
 InformationMeasures,96684042-fbdc-5399-9b8e-d34e539a126c
 InformationPropagationAnalysis,a5102360-ae28-4698-95dd-b3596d53d633
 InfraStore,6aee0376-896a-4a59-96ff-12f221c99746
+InfrastructureCoreOpenAPIModels,1f5e1c8d-e0cc-4dbf-8c6d-f2a3d2ae70a8
 InfrastructureModels,2030c09a-7f63-5d83-885d-db604e0e9cc0
 InfrastructureSensing,88be2ce5-dfe4-4538-82c0-aa279cdf463c
 InfrastructureSystems,2cd47ed4-ca9b-11e9-27f2-ab636a7671f1
@@ -8659,6 +8662,7 @@ PDDLViz,8f72e95f-8ea1-4af3-8b89-086f52abff52
 PDEBase,a7812802-0625-4b9e-961c-d332478797e5
 PDELib,89250b5f-5002-42e4-96e5-388c85c70594
 PDENLPModels,80da258d-c172-4540-9646-64f172512520
+PDEStudioCore,93766fa7-4b93-4712-aa47-391c0d405e89
 PDESystemLibrary,d14f9848-fe58-4297-bd22-c1aba6f3000d
 PDEngine,0e6f3264-acce-4f27-82c9-0b40b85afed0
 PDFHighlights,e9eb520e-30fd-490c-8483-b9cf365267e3
@@ -8865,6 +8869,7 @@ ParametricScheduler,f31cb20c-9fb3-42aa-992b-75cb21ef0e24
 ParametrisedConvexApproximators,668502ff-1e8f-42bf-95c7-24f1e819f537
 Parametron,41fac6d6-0ffa-5bcc-b863-17dd4947be41
 Paraml,0a452357-00e2-49ec-9da5-12084d27edbc
+Paramorph,4f407bf5-e3e8-4a0e-b0aa-de5e22a062cc
 Pardiso,46dd5b70-b6fb-5a00-ae2d-e8fea33afaf2
 ParetoEnsembles,5a671d39-efd4-4f73-b77d-a08726cdc8b7
 ParetoRecipes,71a409db-0c41-4225-8938-aaf295661ce5
@@ -9648,6 +9653,7 @@ PulseInputDDM,c2542da2-1f7d-11e9-2506-87691095ebb2
 PureGebal,78ab2635-e639-479d-9f80-4ef5c3b42ac6
 PureHTTP2,7d1e1b98-28e7-4969-8df9-5a308937986a
 PureKLU,0c0d3e7f-3a8b-4f7e-b6f1-9a4d2e7c1f01
+PureQPBase,2fc88845-7e3c-4d5a-ae99-1d63540d249b
 PureUMFPACK,b7e1f0a2-3c4d-4e5f-9a0b-1c2d3e4f5a6b
 Purses,b933ae29-2b40-4477-9757-bdbbb03ce3a4
 PushVectors,36b54c61-190e-5a5f-82d5-6f0a962d7362
@@ -10171,6 +10177,7 @@ ReachabilityAnalysis,1e97bd63-91d1-579d-8e8d-501d2b57c93f
 ReachabilityBase,379f33d0-9447-4353-bd03-d664070e549f
 Reactant,3c362404-f566-11ee-1572-e11a4b42c853
 ReactantCore,a3311ec8-5e00-46d5-b541-4f83e724a433
+ReactantNitro,641982cc-88f5-4d80-bec4-e68c6a8af0a5
 ReactantServerClient,df172679-9d9b-4a02-a92c-27cb5f9e1c5c
 ReactantServerCore,387a5f05-f7b4-4d57-bca9-cd3358e52bdc
 ReactantServerExport,90fa0446-f028-4638-8833-e223884d9b4d
@@ -11581,6 +11588,7 @@ SphericalHarmonics,c489a379-e885-57ff-9236-bd896d33c250
 SphericalScattering,1a9ea918-b599-4f1f-bd9a-d681e8bb5b3e
 SpheroidalWaveFunctions,02c85723-9d49-4e80-ba06-d2f5c9d5147a
 SpheroidalWaves,5995e872-983e-498e-9750-1cefbd4fb98d
+SpheroidalWaves_jll,a34cad3f-f691-5efd-970c-48ef20c3665d
 SpiDy,a4849050-cccd-45e7-a409-2b114d5ccb2f
 SpiceData,8ca2a67e-f683-5b14-a319-732e1d1d8f2e
 Spider,dae5e5ee-8eca-4ada-95ce-87810a1e1f9e
@@ -12691,6 +12699,7 @@ TravelingSalesmanHeuristics,8c8f4381-2cdd-507c-846c-be2bcff6f45f
 TravellingSailorProblem,a3415216-7039-422d-b654-bd7aa2f43b3e
 TreatmentPanels,7885c543-3ac4-48a3-abed-7a36d7ddb69f
 Trebuchet,98b73d46-197d-11e9-11eb-69a6ff759d3a
+TreeAMR,91bc416d-811c-44c1-9bc4-b9c8bbdbbd08
 TreeArchival,216c6a2e-6c61-7669-6863-726165657274
 TreeDynamics,c15ae5ad-74e0-43c1-9643-9ce2b79b20f0
 TreeKnit,03f602be-98a1-4bb2-9504-fbd3406624a7
@@ -13603,9 +13612,15 @@ ZXing_CPP_jll,66b684e8-4fb7-5952-97a4-a506b1089b62
 Zabbix,bfb209d9-8743-5e3a-8711-bc78bba37304
 Zalgo,5b351978-c8a9-11e9-2467-a1bfb30aea0b
 Zarr,0a941bbe-ad1d-11e8-39d9-ab76183a1d99
+ZarrBlosc,5717d1f5-dd42-40cd-8e77-00dfad1079f5
 ZarrCore,77f5b75c-4c08-499f-ba13-550b0a0af171
 ZarrDatasets,519a4cdf-1362-424a-9ea1-b1d782dbb24b
+ZarrGCS,b0c5ce8f-018f-417d-9deb-9816b6363039
+ZarrHTTP,904a97b2-8abf-4ac8-b211-6540db5c2c8c
+ZarrS3,3ac672aa-0e94-41ce-be0d-2f83c20261dd
 ZarrZfp,c0dec0de-cafe-face-babe-c0ffeec0ffee
+ZarrZip,54bcf1c8-e61d-4e4f-b375-463581846cca
+ZarrZstd,1a1ab68b-db27-4b87-8dee-6752e2bcfa1e
 Zauner,ce1149fb-49fa-4541-ae6c-62019ae07d40
 ZebraPuzzles,ea4507f1-c7b4-4539-82f8-989db771b95d
 ZedPlotPane,1a2e9a1c-d784-4d3f-8c27-9f27d983cc09
