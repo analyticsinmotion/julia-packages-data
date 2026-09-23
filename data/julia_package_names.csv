@@ -3081,6 +3081,7 @@ Downloads,f43a241f-c20a-4ad4-852c-f6b1247861c6
 DownstreamTester,a804653f-5eb8-4562-8be1-42891ba957af
 Doxygen_jll,e79d16a5-2ad2-5b5c-99b8-a0c382a386e2
 DrWatson,634d3b9d-ee7a-5ddf-bec9-22491ea816e1
+DragonflyReverb_jll,701bd1d5-8e0a-5316-8dde-a308c88bc96e
 DrakeLCMTypes,6484683b-de53-5689-b9d2-2f18b83297fe
 DrakeVisualizer,49c7015b-b8db-5bc5-841b-fcb31c578176
 DrawSimpleGraphs,1d51b185-1a84-59cf-b84e-03b0e3da30b7
@@ -4980,6 +4981,7 @@ HDBSCAN,4773fd7c-6dc0-4989-8854-e9e612562b10
 HDF4_jll,818ab7a1-5177-5f44-ba99-6e845030c6cb
 HDF5,f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f
 HDF5BinaryTemplates,2fdc933a-200b-4e87-880b-5bdfb75c9c79
+HDF5DocURLs,0e5da7e1-19d7-4335-8622-7e669b619c15
 HDF5Logger,a770b2f2-aca6-5e76-943a-580dc53aa03d
 HDF5Plugins,1e8e1a9c-ba05-491d-aab9-db7c9310f606
 HDF5Utils,2ec8e600-e6c3-11e9-3904-61c7e8636276
@@ -6212,6 +6214,7 @@ LSL,57c3d5b1-721f-43a0-b20c-e9152d812276
 LSODA,7f56f5a3-f504-529b-bc02-0b1fe5e64312
 LSODA_jll,aae0fff6-70f8-51e1-979a-8150c7cc74bd
 LSPNeovim,42462c39-edde-4cdc-9c73-a9d3181f44a6
+LSPPlugins_jll,bd907876-5a95-57f8-bbfb-e213ea758c73
 LTWA,a3b798af-b683-4007-b74f-b9136125839e
 LV2Host_jll,a1fb6e78-af1d-557a-bd91-b38940fc92f3
 LVServer,b45899a3-f603-4de6-8657-71d649cef297
@@ -7048,6 +7051,7 @@ ManifoldAsymptote,7351309b-c792-453f-bd98-cb04bf1e0801
 ManifoldBindings,6347b20d-ab3f-4582-b354-87a116902036
 ManifoldDiff,af67fdf4-a580-4b9f-bbec-742ef357defd
 ManifoldDiffEq,1143c485-9b25-4e23-a65f-701df382ec90
+ManifoldFields,9c5b4d8f-6d30-4f8a-9f1f-2c1e5c2f4b31
 ManifoldGroupTesting,3d9140b9-2699-468e-abff-6b59d65ee1fd
 ManifoldGroupUtils,1a3c8808-2843-4c72-af8e-d50ed15039bf
 ManifoldLearning,06eb3307-b2af-5a2a-abea-d33192699d32
@@ -11641,6 +11645,7 @@ Sqids,5846b9ac-096c-425b-b363-8d1a03210e20
 Sqlite3Stats,b8827193-453e-47cb-8319-1562ac79a546
 SqpSolver,ffdd34ce-459d-4fc7-82a1-202b2ab8becf
 SqraCore,a9fe299e-2329-4adb-a199-17440bd42f02
+SquareModels,8f61fe60-8cc6-11ec-3043-2171a73045bd
 SquareSymmetries,782ece98-c869-49e9-9e53-16c5dacb9be9
 SquashFS,22a32d6d-8ff7-41da-a9cb-095a6e0fb6ae
 SquidGame,dd7facba-cbc5-45d8-adb5-1f8b832104f1
@@ -13611,6 +13616,7 @@ ZXingCPP,ffcb3a2f-c869-4483-b5bf-82d7b239c77e
 ZXing_CPP_jll,66b684e8-4fb7-5952-97a4-a506b1089b62
 Zabbix,bfb209d9-8743-5e3a-8711-bc78bba37304
 Zalgo,5b351978-c8a9-11e9-2467-a1bfb30aea0b
+ZamPlugins_jll,32b042d7-acf4-5aec-af13-65b0e6ee583d
 Zarr,0a941bbe-ad1d-11e8-39d9-ab76183a1d99
 ZarrBlosc,5717d1f5-dd42-40cd-8e77-00dfad1079f5
 ZarrCore,77f5b75c-4c08-499f-ba13-550b0a0af171
