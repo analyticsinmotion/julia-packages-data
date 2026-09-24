@@ -4298,6 +4298,7 @@ GBIF,ee291a33-5a6c-5552-a3c8-0f29a1181037
 GBIF2,dedd4f52-e074-43bf-924d-d6bce14ad628
 GBPirate,c37147bc-d8ce-4575-897d-76a03a2493f7
 GCCBootstrap_jll,7627cfbf-f290-59f7-b5e8-595c7b62b918
+GCCToolchain_jll,d52b11df-85af-5689-9826-d972373ea583
 GCIdentifier,b7ea765e-cbac-4e4a-9b0d-5427cc302506
 GCMAES,4aa9d100-eb0f-11e8-15f1-25748831eb3b
 GCP,5a343a44-5b48-11e9-39be-f77f9e6fd977
@@ -7170,6 +7171,7 @@ MatrixEnsembles,c7015dd7-3fb7-4a4c-827e-526313618491
 MatrixEquations,99c1a7ee-ab34-5fd5-8076-27c950a045f4
 MatrixEquationsAD,283a1a7b-c18a-432b-b100-bdc256e73a32
 MatrixFactorizations,a3b82374-2e81-5b9e-98ce-41277c0e4c87
+MatrixFreeOperators,bf251007-91fc-422b-8727-f8d5215c1c76
 MatrixFreeRandomizedLinearAlgebra,a69accfa-5557-4533-9d8b-afe141969680
 MatrixFunctionDiff,5a80cb59-5c4a-4b04-8570-513e0deda534
 MatrixFuns,de0a5e7d-9ed9-4b51-b397-e23faa31cb8d
@@ -9460,6 +9462,7 @@ PowerModelsTopologicalActions,aa9d2d61-8a5b-47cb-baca-6462e1811a24
 PowerModelsWildfire,01a8e460-0890-11ea-3f19-8b8faecc21cc
 PowerMonitor,9e7e054f-393b-40f5-81e8-49c2b2540836
 PowerNetworkMatrices,bed98974-b02a-5e2f-9fe0-a103f5c450dd
+PowerNumbers,7635a310-babe-11e9-2fde-a3dff3ddcf26
 PowerPlots,229d1e32-5c67-4c9a-a884-d6a3a7f23cfa
 PowerSeries,84bf69ba-cd12-4c14-afd7-8e4ca43af7cc
 PowerSimulations,e690365d-45e2-57bb-ac84-44ba829e73c4
@@ -9965,6 +9968,7 @@ Quaternions,94ee1d12-ae83-5a48-8b1c-48b8ff168ae0
 QubiSim,3f823c38-d010-4086-b4dc-b61855312ec9
 QuditClifford,fd55b3c1-6bf5-4acb-ac66-43b8ce88861c
 Query,1a8c2f83-1ff3-5112-b086-8aa67b057ba1
+QueryDuckDB,fb67597e-2b1e-4ffa-9078-014b5866405e
 QueryOperators,2aef5ad7-51ca-5a8f-8e88-e75cf067b44b
 QuerySQLite,57f923c0-76be-11e9-095d-c942eaffc94b
 QueryTables,30ad73d7-305e-5999-88c2-a7d9e8945169
@@ -10013,6 +10017,7 @@ RDates,42063a9e-4db3-11e9-2c9c-956b066f8181
 RE2_jll,a7891802-63bf-5f83-a64c-1e6309098446
 REDCap,ba918724-fbf9-5e4a-a61c-87e95654e718
 RELOG,a2afcdf7-cf04-4913-85f9-c0d81ddf2008
+REOBiomarker,ba2ce5d3-d613-4669-a45d-0d1d00fce6c9
 REPLCompletions,3fc713dc-8771-5a7b-b2d9-79d2995ff451
 REPLHistory,a5566ce3-012c-4b09-85b8-62131f0c3f36
 REPLMaze,124a7ef3-0f4b-4896-aed6-e944e7e0912b
@@ -13182,6 +13187,8 @@ Viznet,52a3aca4-6234-47fd-b74a-806bdf78ede9
 VkDCT_jll,480b0143-c4e9-5ffc-bbe4-91f6a1b763ab
 VkFFT,65dc4606-9ae3-4b78-8734-204937373618
 VkFFTCUDA,fce8808e-e16a-45a8-8cbe-ffae295c7ea5
+VkFFTMetal,8e2fa92a-49f5-451f-bae9-73acda6e08bc
+VkFFTOpenCL,fba9c59f-ccfc-4e1f-a32c-0e043c1e2a5f
 VkFFT_CUDA_jll,c6c0cc47-23fd-51ca-b60c-6f984e788db9
 VkFFT_Metal_jll,042e462d-e49b-5371-a6d8-d140e9b49131
 VkFFT_OpenCL_jll,4b94af74-5903-5048-b3a4-075b7d965b91
@@ -13556,6 +13563,7 @@ Xyce_jll,b812464d-768c-53cf-a694-ea0631d6fbf4
 YAAD,7f19f2dd-709d-51a0-a533-ded4a1c488a6
 YAActL,4c422213-1242-4325-9ff2-ab065d5354a7
 YAArguParser,bcbd4c87-030e-4da8-a7f0-f342a29caad3
+YAC_jll,aa1ccfa5-6185-5fd1-9463-1a36d2aeca03
 YAJL,bda616b3-ac6d-5293-8ee1-22b41414598d
 YAJL_jll,4bc5dff0-e00f-5dee-8f43-8e76277f4f7d
 YAML,ddb6d928-2868-570f-bddf-ab3f9cf99eb6
@@ -14370,6 +14378,7 @@ xtl_jll,ba385536-920d-53da-b5db-5183e89bfaf8
 xtrx_jll,f7ce82bc-bc1e-5125-bd1d-6a84dd39bfb4
 xxHash_jll,5fdcd639-92d1-5a06-bf6b-28f2061df1a9
 yaml_cpp_jll,01fea8cc-7d33-533a-824e-56a766f4ffe8
+yaxt_jll,27caa652-68db-5633-bae6-d8416da5b853
 yq_jll,174e927f-d384-57ac-82db-e88370a29c21
 yyjson_jll,c205f263-c50b-522f-8355-d1dd211834e2
 z3_jll,1bc4e1ec-7839-5212-8f2f-0d16b7bd09bc
